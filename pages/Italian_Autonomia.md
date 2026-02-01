@@ -157,15 +157,15 @@ Katsiaficas harshly criticizes the Brigades' kidnapping of Moro:
 
 <references/>
 
-"<a   href="Category:Italy.md" class="wikilink"
+<a href="Category:Italy.md" class="wikilink"
 title="Category:Italy">Category:Italy</a>
-"<a   href="Category:Strikes.md" class="wikilink"
+<a href="Category:Strikes.md" class="wikilink"
 title="Category:Strikes">Category:Strikes</a>
-"<a   href="Category:Anti-Fascist.md" class="wikilink"
+<a href="Category:Anti-Fascist.md" class="wikilink"
 title="Category:Anti-Fascist">Category:Anti-Fascist</a>
-"<a   href="Category:Feminism.md" class="wikilink"
+<a href="Category:Feminism.md" class="wikilink"
 title="Category:Feminism">Category:Feminism</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Georgy Katsiaficas, *The Subversion of Politics: European

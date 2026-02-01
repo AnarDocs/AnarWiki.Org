@@ -1,10 +1,10 @@
 In 1966, a group of writers, actors and theorists splintered out of a
 mime troupe and formed an anti-authoritarian collective named after the
-"<a   href="Diggers.md" class="wikilink" title="Diggers">Diggers</a> of the
+<a href="Diggers.md" class="wikilink" title="Diggers">Diggers</a> of the
 seventeenth-century English Revolution. With an emphasis on theatrical
 direct action, the San Francisco Diggers pioneered tactics such as
 radical puppetry and free stores. They printed the first issues of the
-"<a   href="Anarchy_and_the_Black_Panther_Party.md" class="wikilink"
+<a href="Anarchy_and_the_Black_Panther_Party.md" class="wikilink"
 title="Black Panthers">Black Panthers</a>' newspaper, and their free
 grocery service inspired the Panthers' famous Free Breakfast for
 Children Program.[^1]
@@ -55,6 +55,6 @@ did most of the work of collecting food, cooking and serving it."[^6]
 
 [^5]: Cornell, *Unruly Equality*, 253.
 
-[^6]: "<a   href="Wikipedia:Diggers_(theater).md" class="wikilink"
+[^6]: <a href="Wikipedia:Diggers_(theater).md" class="wikilink"
     title="&quot;Diggers (theater)&quot;, Wikipedia">"Diggers (theater)",
     Wikipedia</a>, accessed 7 February 2017, .

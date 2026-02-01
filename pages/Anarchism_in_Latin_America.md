@@ -7,14 +7,14 @@ Oakland: AK Press, 2018.
 ## Overview
 
 **Anarchism in Latin America** is a comprehensive survey by Argentine
-philosopher "<a   href="Ángel_Cappelletti.md" class="wikilink"
+philosopher <a href="Ángel_Cappelletti.md" class="wikilink"
 title="Ángel Cappelletti">Ángel Cappelletti</a> (1927-1995) examining
 the development and impact of
-"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 movements across fourteen Latin American countries from the 1860s to the
 mid-twentieth century. Originally published in Spanish in 1990, the work
 was translated into English by Gabriel Palmer-Fernández and published by
-"<a   href="AK_Press.md" class="wikilink" title="AK Press">AK Press</a> in
+<a href="AK_Press.md" class="wikilink" title="AK Press">AK Press</a> in
 2018, with an introduction by Romina Akemi and Javier Sethness-Castro.
 
 The book serves as both a historical sketch and an encyclopedia of
@@ -22,7 +22,7 @@ primary sources, documenting manifestos, pamphlets, petitions, and
 speeches that illuminate the voices of anarchist thinkers and writers
 throughout the continent. Cappelletti's work aimed to fill a significant
 gap in revolutionary literature, which had been dominated by
-"<a   href="Marxist.md" class="wikilink" title="Marxist">Marxist</a>
+<a href="Marxist.md" class="wikilink" title="Marxist">Marxist</a>
 historians who often minimised or ignored anarchist contributions to
 Latin American social movements.
 
@@ -31,20 +31,20 @@ Latin American social movements.
 ### Origins and Characteristics
 
 Cappelletti traces how
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
 arrived in Latin America by the 1860s, initially disseminated by
 European immigrants, particularly in the French Antilles, Mexico, and
 the Río de la Plata region
-("<a   href="Argentina.md" class="wikilink" title="Argentina">Argentina</a>
-and "<a   href="Uruguay.md" class="wikilink" title="Uruguay">Uruguay</a>).
+(<a href="Argentina.md" class="wikilink" title="Argentina">Argentina</a>
+and <a href="Uruguay.md" class="wikilink" title="Uruguay">Uruguay</a>).
 Unlike its European counterparts, Latin American anarchism developed
 unique forms of organisation and praxis, taking deeper root among
 indigenous workers than
-"<a   href="Marxism.md" class="wikilink" title="Marxism">Marxism</a> in many
+<a href="Marxism.md" class="wikilink" title="Marxism">Marxism</a> in many
 areas.
 
 The book identifies key characteristics of Latin American anarchism
-including "<a   href="anarcho-syndicalism.md" class="wikilink"
+including <a href="anarcho-syndicalism.md" class="wikilink"
 title="anarcho-syndicalism">anarcho-syndicalism</a> as the predominant
 form, revolutionary and anti-political syndicalism that confronted state
 power directly, integration with national liberation and anti-militarist
@@ -61,7 +61,7 @@ continent:
 **Argentina** emerged as a major centre of anarchist activity,
 particularly in Rosario, drawing Italian immigrants who formed groups
 like El Miserable. The
-"<a   href="Federación_Obrera_Regional_Argentina.md" class="wikilink"
+<a href="Federación_Obrera_Regional_Argentina.md" class="wikilink"
 title="Federación Obrera Regional Argentina">Federación Obrera Regional
 Argentina</a> (FORA) was explicitly anarcho-communist and maintained its
 anti-bureaucratic stance. The movement faced severe repression during
@@ -70,7 +70,7 @@ the "Tragic Week" of 1919 and under Uriburu's dictatorship in 1930.
 **Uruguay** was notable for its openness to anarchist ideas due to
 factors including belated Spanish colonisation, absence of
 Counter-Reformation institutions, and significant immigration. The
-"<a   href="Federación_Obrera_Regional_Uruguaya.md" class="wikilink"
+<a href="Federación_Obrera_Regional_Uruguaya.md" class="wikilink"
 title="Federación Obrera Regional Uruguaya">Federación Obrera Regional
 Uruguaya</a> (FORU) was a key organisation, and the country saw the
 unique phenomenon of "anarcho-Batllism."
@@ -78,9 +78,9 @@ unique phenomenon of "anarcho-Batllism."
 **Mexico** saw anarchist ideas disseminated by figures like Plotino
 Rhodakanaty, with the slogan "¡Tierra y Libertad!" becoming central to
 the movement through Ricardo Flores Magón and the
-"<a   href="Partido_Liberal_Mexicano.md" class="wikilink"
+<a href="Partido_Liberal_Mexicano.md" class="wikilink"
 title="Partido Liberal Mexicano">Partido Liberal Mexicano</a> (PLM),
-later adopted by "<a   href="Emiliano_Zapata.md" class="wikilink"
+later adopted by <a href="Emiliano_Zapata.md" class="wikilink"
 title="Emiliano Zapata">Emiliano Zapata</a>'s movement.
 
 **Brazil** received strong anarchist influence through Italian,
@@ -94,11 +94,11 @@ experiment.
 The book documents extensive cross-border organising and international
 solidarity between Latin American anarchists and their counterparts in
 Europe and North America. Notable examples include support for Mexican
-anarchist "<a   href="Ricardo_Flores_Magón.md" class="wikilink"
+anarchist <a href="Ricardo_Flores_Magón.md" class="wikilink"
 title="Ricardo Flores Magón">Ricardo Flores Magón</a> from figures such
-as "<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+as <a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>, Joe Hill, and Jack London during the
-"<a   href="Mexican_Revolution.md" class="wikilink"
+<a href="Mexican_Revolution.md" class="wikilink"
 title="Mexican Revolution">Mexican Revolution</a>.
 
 ## Critiques
@@ -133,13 +133,13 @@ indigenous political vision and community organisation.
 
 <references/>
 
-"<a   href="Category:Anarchist_Non-Fiction.md" class="wikilink"
+<a href="Category:Anarchist_Non-Fiction.md" class="wikilink"
 title="Category:Anarchist Non-Fiction">Category:Anarchist
-Non-Fiction</a> "<a   href="Category:Anarchist_books.md" class="wikilink"
+Non-Fiction</a> <a href="Category:Anarchist_books.md" class="wikilink"
 title="Category:Anarchist books">Category:Anarchist books</a>
-"<a   href="Category:Books.md" class="wikilink"
+<a href="Category:Books.md" class="wikilink"
 title="Category:Books">Category:Books</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

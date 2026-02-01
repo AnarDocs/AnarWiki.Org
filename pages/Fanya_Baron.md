@@ -1,36 +1,36 @@
 # Fanya Baron
 
 **Fanya Anisimovna Baron** (1887 – 30 September 1921) was a
-"<a   href="Russian_Jewish.md" class="wikilink" title="Russian Jewish">Russian
+<a href="Russian_Jewish.md" class="wikilink" title="Russian Jewish">Russian
 Jewish</a>
-"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 revolutionary and
-"<a   href="feminist.md" class="wikilink" title="feminist">feminist</a>. Born
+<a href="feminist.md" class="wikilink" title="feminist">feminist</a>. Born
 as Freida Anisimovna Greck, she dedicated her life to the cause of
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> and
-"<a   href="workers&#39;_rights.md" class="wikilink"
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> and
+<a href="workers&#39;_rights.md" class="wikilink"
 title="workers&#39; rights">workers' rights</a>, first in the
-"<a   href="United_States.md" class="wikilink" title="United States">United
+<a href="United_States.md" class="wikilink" title="United States">United
 States</a> and later in
-"<a   href="Ukraine.md" class="wikilink" title="Ukraine">Ukraine</a>. She was
-murdered by "<a   href="Lenin.md" class="wikilink" title="Lenin">Lenin</a>'s
+<a href="Ukraine.md" class="wikilink" title="Ukraine">Ukraine</a>. She was
+murdered by <a href="Lenin.md" class="wikilink" title="Lenin">Lenin</a>'s
 secret police, the
-"<a   href="Cheka.md" class="wikilink" title="Cheka">Cheka</a>, becoming a
+<a href="Cheka.md" class="wikilink" title="Cheka">Cheka</a>, becoming a
 symbol of
-"<a   href="Bolshevik.md" class="wikilink" title="Bolshevik">Bolshevik</a>
+<a href="Bolshevik.md" class="wikilink" title="Bolshevik">Bolshevik</a>
 repression against the anarchist movement.
 
 ## Early Life
 
 Born in 1887 in
-"<a   href="Vilnius.md" class="wikilink" title="Vilnius">Vilnius</a>, within
+<a href="Vilnius.md" class="wikilink" title="Vilnius">Vilnius</a>, within
 the
-"<a   href="Russian_Empire.md" class="wikilink" title="Russian Empire">Russian
+<a href="Russian_Empire.md" class="wikilink" title="Russian Empire">Russian
 Empire</a>, Fanya moved with her family to the United States at a young
 age, where they adopted the surname "Grefenson".[^1] In
-"<a   href="Chicago.md" class="wikilink" title="Chicago">Chicago</a>, she
+<a href="Chicago.md" class="wikilink" title="Chicago">Chicago</a>, she
 established a relationship with the exiled Russian anarchist
-"<a   href="Aron_Baron.md" class="wikilink" title="Aron Baron">Aron Baron</a>
+<a href="Aron_Baron.md" class="wikilink" title="Aron Baron">Aron Baron</a>
 (also known as Kantorovitch), who worked as a baker and had fled to
 Chicago in 1912. Aron met Fanya through his older brother Newman
 (Nahum), who was married to Fanya's older sister Sarah.
@@ -38,7 +38,7 @@ Chicago in 1912. Aron met Fanya through his older brother Newman
 ## Anarchist Activities in America
 
 Fanya became deeply involved in Chicago's anarchist movement and the
-"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+<a href="Industrial_Workers_of_the_World.md" class="wikilink"
 title="Industrial Workers of the World">Industrial Workers of the
 World</a> (IWW). She spent most of her time and money distributing
 anarchist propaganda in the factory where she worked, giving "all her
@@ -46,13 +46,13 @@ spare time and a goodly part of her meagre earnings" to further the
 anarchist cause.[^2]
 
 She was active in the hunger demonstrations of 1915, working alongside
-"<a   href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">Lucy
+<a href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">Lucy
 Parsons</a> and Aron. On January 17, 1915, she led the Russian
 Revolutionary Chorus at a meeting addressed by Lucy Parsons and others
 at
-"<a   href="Hull_House.md" class="wikilink" title="Hull House">Hull House</a>,
+<a href="Hull_House.md" class="wikilink" title="Hull House">Hull House</a>,
 established by
-"<a   href="Jane_Addams.md" class="wikilink" title="Jane Addams">Jane
+<a href="Jane_Addams.md" class="wikilink" title="Jane Addams">Jane
 Addams</a> to help the poor. During the demonstration that followed,
 police viciously attacked the crowd using brass knuckles and billy
 clubs. Fanya was knocked unconscious by one of the club-wielding
@@ -63,21 +63,21 @@ arrested activists.
 Fanya was also co-editor of **The Alarm**, the anarchist newspaper
 edited by her husband Aron Baron and their comrade Lucy Parsons,
 following the execution of Lucy's husband
-"<a   href="Albert_Parsons.md" class="wikilink" title="Albert Parsons">Albert
-Parsons</a> and the other "<a   href="Haymarket_Martyrs.md" class="wikilink"
+<a href="Albert_Parsons.md" class="wikilink" title="Albert Parsons">Albert
+Parsons</a> and the other <a href="Haymarket_Martyrs.md" class="wikilink"
 title="Haymarket Martyrs">Haymarket Martyrs</a>.
 
 ## Return to Russia and the Ukrainian Revolution
 
-With the outbreak of the "<a   href="February_Revolution.md" class="wikilink"
+With the outbreak of the <a href="February_Revolution.md" class="wikilink"
 title="February Revolution">February Revolution</a> in 1917, Fanya
 returned to Russia with Aron and Boris Yelensky. They moved to
-"<a   href="Ukraine.md" class="wikilink" title="Ukraine">Ukraine</a>, where
+<a href="Ukraine.md" class="wikilink" title="Ukraine">Ukraine</a>, where
 they participated in the local workers' movement and helped establish
-the "<a   href="Nabat.md" class="wikilink" title="Nabat">Nabat</a>, a
+the <a href="Nabat.md" class="wikilink" title="Nabat">Nabat</a>, a
 confederation of Ukrainian anarchists.[^4]
 
-As "<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+As <a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a> recalled: "Baron was of the type of Russian woman completely
 consecrated to the cause of humanity... Years afterward, when I met her
 in Kharkov, her zeal and devotion had become intensified by the
@@ -85,9 +85,9 @@ persecution she and her comrades had endured since their return to
 Russia. She possessed unbounded courage and a generous spirit."[^5]
 
 The Nabat officially backed
-"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
+<a href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
 Makhno</a>'s
-"<a   href="Revolutionary_Insurgent_Army_of_Ukraine.md" class="wikilink"
+<a href="Revolutionary_Insurgent_Army_of_Ukraine.md" class="wikilink"
 title="Revolutionary Insurgent Army of Ukraine">Revolutionary Insurgent
 Army of Ukraine</a>, and Fanya traveled extensively throughout Ukraine
 under dangerous conditions. Goldman noted: "Under harrowing conditions
@@ -98,13 +98,13 @@ imprisoned comrades."[^6]
 ## Arrest and Imprisonment
 
 Following the defeat of the
-"<a   href="White_Army.md" class="wikilink" title="White Army">White Army</a>
+<a href="White_Army.md" class="wikilink" title="White Army">White Army</a>
 in November 1920, the
-"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">Bolsheviks</a>
+<a href="Bolsheviks.md" class="wikilink" title="Bolsheviks">Bolsheviks</a>
 turned against their anarchist allies. On November 25, 1920, members of
 the Nabat, including Fanya and Aron Baron, were arrested by the Cheka at
 a conference in
-"<a   href="Kharkiv.md" class="wikilink" title="Kharkiv">Kharkiv</a> and
+<a href="Kharkiv.md" class="wikilink" title="Kharkiv">Kharkiv</a> and
 transferred to Russian prisons.[^7]
 
 In prison, Fanya endured brutal treatment. She was "one of the victims
@@ -114,14 +114,14 @@ beaten," according to Goldman.[^8]
 ## Prison Escape and Recapture
 
 On July 10, 1921, Fanya joined a prison break organized by the
-"<a   href="Underground_Anarchists.md" class="wikilink"
+<a href="Underground_Anarchists.md" class="wikilink"
 title="Underground Anarchists">Underground Anarchists</a>, a clandestine
 anarchist network. She managed to escape from Ryazan prison along with
 nine other anarchists and made her way to Moscow on foot, arriving "in
 tatters and penniless."[^9]
 
 In Moscow, she sought refuge with Aron's brother Semion, who was a
-member of the "<a   href="Communist_Party.md" class="wikilink"
+member of the <a href="Communist_Party.md" class="wikilink"
 title="Communist Party">Communist Party</a>. She confided her plans to
 help Aron escape from prison, but on August 17, 1921, she was discovered
 and arrested by the Cheka at Semion's home. It remains unclear whether
@@ -132,9 +132,9 @@ Underground Anarchists and arranged acts of provocation.
 
 Despite international protests and pressure for the release of anarchist
 political prisoners, Fanya Baron was kept in custody along with the poet
-"<a   href="Lev_Chernyi.md" class="wikilink" title="Lev Chernyi">Lev
+<a href="Lev_Chernyi.md" class="wikilink" title="Lev Chernyi">Lev
 Chernyi</a>.
-"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
+<a href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
 Trotsky</a> dismissed international concerns, declaring: "We do not
 imprison the real anarchists, but criminals and bandits who cover
 themselves by claiming to be anarchists."[^10]
@@ -160,12 +160,12 @@ stigma of banditism on the memory of their dead victim."[^12]
 Fanya Baron's death became a powerful symbol of Bolshevik repression
 against the anarchist movement. Her husband Aron Baron was later
 executed during the
-"<a   href="Great_Purge.md" class="wikilink" title="Great Purge">Great
+<a href="Great_Purge.md" class="wikilink" title="Great Purge">Great
 Purge</a> in 1937, after spending 18 years in prison.
 
 Decades after her execution, the
-"<a   href="Sydney.md" class="wikilink" title="Sydney">Sydney</a>-based
-"<a   href="Jura_Books.md" class="wikilink" title="Jura Books">Jura Books</a>
+<a href="Sydney.md" class="wikilink" title="Sydney">Sydney</a>-based
+<a href="Jura_Books.md" class="wikilink" title="Jura Books">Jura Books</a>
 named its library the Fanya Baron Library in her honor, ensuring her
 legacy as a committed anarchist and revolutionary continues to inspire
 future generations.
@@ -183,17 +183,17 @@ future generations.
 
 <references/>
 
-"<a   href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists.md" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-"<a   href="Category:Anarcha-Feminists.md" class="wikilink"
+<a href="Category:Anarcha-Feminists.md" class="wikilink"
 title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
-"<a   href="Category:Anarchist_Women.md" class="wikilink"
+<a href="Category:Anarchist_Women.md" class="wikilink"
 title="Category:Anarchist Women">Category:Anarchist Women</a>
-"<a   href="Category:Russian_Anarchists.md" class="wikilink"
+<a href="Category:Russian_Anarchists.md" class="wikilink"
 title="Category:Russian Anarchists">Category:Russian Anarchists</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Heath, Nick. "Baron, Fanya aka Fanny Grefenson, aka Anisimovna aka

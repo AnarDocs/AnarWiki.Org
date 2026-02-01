@@ -1,10 +1,10 @@
 **Emma Goldman**(1869 - 1940) was a legendary
-"<a   href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>,
-"<a   href="Anarcha-Feminism.md" class="wikilink"
+<a href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>,
+<a href="Anarcha-Feminism.md" class="wikilink"
 title="feminist">feminist</a>, writer and activist. Her writing and
 lectures spanned a wide variety of issues, including prisons, atheism,
 freedom of speech, militarism,
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
 marriage, free love, and homosexuality.
 
 ## Life
@@ -818,22 +818,22 @@ On Saturday, the 17th of Febuary, 1940, Emma suffered a stroke in
 Toronto, Canada and became paralyzed on her right side and mute. She
 spent the next three months in hospital before suffering a second
 stroke, which killed her. Her body was buried in Chicago, next to the
-"<a   href="Haymarket_Bombing.md" class="wikilink"
+<a href="Haymarket_Bombing.md" class="wikilink"
 title="Haymarket Martyrs">Haymarket Martyrs</a>.
 
-"<a   href="Category:American_anarchists.md" class="wikilink"
+<a href="Category:American_anarchists.md" class="wikilink"
 title="Category:American anarchists">Category:American anarchists</a>
-"<a   href="Category:Anarcha-Feminists.md" class="wikilink"
+<a href="Category:Anarcha-Feminists.md" class="wikilink"
 title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
-"<a   href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists.md" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-"<a   href="Category:Anarchist_Women.md" class="wikilink"
+<a href="Category:Anarchist_Women.md" class="wikilink"
 title="Category:Anarchist Women">Category:Anarchist Women</a>
-"<a   href="Category:Lithuanian_anarchists.md" class="wikilink"
+<a href="Category:Lithuanian_anarchists.md" class="wikilink"
 title="Category:Lithuanian anarchists">Category:Lithuanian
-anarchists</a> "<a   href="Category:Russian_anarchists.md" class="wikilink"
+anarchists</a> <a href="Category:Russian_anarchists.md" class="wikilink"
 title="Category:Russian anarchists">Category:Russian anarchists</a>
-"<a   href="Category:Non-monogamous.md" class="wikilink"
+<a href="Category:Non-monogamous.md" class="wikilink"
 title="Category:Non-monogamous">Category:Non-monogamous</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

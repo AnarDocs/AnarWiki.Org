@@ -29,7 +29,7 @@ handles and hospitalized. In July, Pirates for Animal Liberation sank a
 Bank of New York executive's boat, and the bank thereafter ended its
 ties to HLS. In 2002, smoke bombs exploded at Marsh Corporation's
 offices in Seattle, and Marsh ended its ties with HLS as well.
-"<a   href="Animal_Liberation_Front.md" class="wikilink"
+<a href="Animal_Liberation_Front" class="wikilink"
 title="Animal Liberation Front">Animal Liberation Front</a> firebombed a
 Canaccord executive's car, leading the company to drop one of its
 clients that did business with HLS.[^4] In *Green is the New Red*,
@@ -65,7 +65,7 @@ intervening again that enabled HLS to negotiate a refinancing and
 continue. Essentially, SHAC did win, only to have its victory stolen
 away."[^7]
 
-"<a   href="Animal_Liberation_Front.md" class="wikilink"
+<a href="Animal_Liberation_Front" class="wikilink"
 title="Animal Liberation Front">Animal Liberation Front</a> founder
 Ronnie Lee estimates that even though the campaign didn't shut down HLS,
 it scared the the entire animal research industry into curtailing

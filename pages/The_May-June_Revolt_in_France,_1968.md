@@ -1,4 +1,4 @@
-*Also see "<a   href="1968_revolutions.md" class="wikilink"
+*Also see <a href="1968_revolutions" class="wikilink"
 title="1968 revolutions">1968 revolutions</a>.*
 
 In May and June of 1968, a wave of riots and occupations swept France
@@ -60,7 +60,7 @@ Neoliberalism, then, was a counter-revolution, an attempt by the ruling
 class to "recover after the revolution of 1968."[^8]
 
 From
-"<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
+<a href="An_Anarchist_FAQ" class="wikilink" title="An Anarchist FAQ">An
 Anarchist FAQ</a>:
 
 > # A.5.7 The May-June Revolt in France, 1968
@@ -276,13 +276,13 @@ Anarchist FAQ</a>:
 
 <references/>
 
-"<a   href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-"<a   href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-"<a   href="Category:France.md" class="wikilink"
+<a href="Category:France" class="wikilink"
 title="Category:France">Category:France</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: George Katsiaficas, *The Imagination of the New Left: A Global

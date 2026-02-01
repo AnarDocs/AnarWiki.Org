@@ -2,11 +2,11 @@
 
 **Nguyễn An Ninh** (6 September 1900 – 14 August 1943) was a Vietnamese
 revolutionary journalist, publicist, and anti-colonial activist who
-operated in "<a   href="French_Cochinchina.md" class="wikilink"
+operated in <a href="French_Cochinchina.md" class="wikilink"
 title="French Cochinchina">French Cochinchina</a>. An independent and
 charismatic figure, Ninh refused to join any political party, instead
 focusing on grassroots organizing and mass movements. He collaborated
-extensively with anarchists and "<a   href="Trotskyism.md" class="wikilink"
+extensively with anarchists and <a href="Trotskyism.md" class="wikilink"
 title="Trotskyists">Trotskyists</a>, and his work emphasized direct
 action, tax resistance, and popular self-organization against colonial
 rule.
@@ -28,9 +28,9 @@ graduated from the Sorbonne with a degree in Law at age 20.
 
 While in Paris, Nguyễn An Ninh joined the *Groupe des Patriotes
 Annamites* (The Group of Vietnamese Patriots), which included
-"<a   href="Phan_Châu_Trinh.md" class="wikilink" title="Phan Châu Trinh">Phan
+<a href="Phan_Châu_Trinh.md" class="wikilink" title="Phan Châu Trinh">Phan
 Châu Trinh</a>, Phan Văn Trường, Nguyễn Thế Truyền, and the future
-"<a   href="Ho_Chi_Minh.md" class="wikilink" title="Ho Chi Minh">Ho Chi
+<a href="Ho_Chi_Minh.md" class="wikilink" title="Ho Chi Minh">Ho Chi
 Minh</a>.[^2] Together, this group known as the "Five Dragons" (*Ngũ
 Long*) indicted French colonial policy in the socialist press. In 1923,
 Ninh developed and published these critiques as *La France en
@@ -44,7 +44,7 @@ self-determination.
 
 Within months of returning from France, Nguyễn An Ninh began publishing
 *La Cloche Fêlée* (The Cracked Bell, after
-"<a   href="Baudelaire.md" class="wikilink" title="Baudelaire">Baudelaire</a>'s
+<a href="Baudelaire.md" class="wikilink" title="Baudelaire">Baudelaire</a>'s
 poem) in Saigon in December 1923. As editor-in-chief, reporter,
 type-setter, and even street seller, he produced the paper
 intermittently as a "Journal for the Propagation of French Ideas." The
@@ -59,15 +59,15 @@ obscurantism.[^4] While acknowledging that Vietnam's oppression came
 from France, Ninh argued that so did the spirit of liberation.
 
 Ninh published his own translation of
-"<a   href="Jean-Jacques_Rousseau.md" class="wikilink"
+<a href="Jean-Jacques_Rousseau.md" class="wikilink"
 title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a>'s *The Social
 Contract* under the title *The Ideal of Annamese Youth*.[^5] He drew
 inspiration from diverse anti-authoritarian sources, including Indian
-poet "<a   href="Rabindranath_Tagore.md" class="wikilink"
+poet <a href="Rabindranath_Tagore.md" class="wikilink"
 title="Rabindranath Tagore">Rabindranath Tagore</a>—"those who take
 pleasure in dominating foreign races abdicate little by little their own
 liberty"—and German foreign minister
-"<a   href="Walther_Rathenau.md" class="wikilink"
+<a href="Walther_Rathenau.md" class="wikilink"
 title="Walther Rathenau">Walther Rathenau</a>—"He who wants to rule
 above slaves is himself an escaped slave; the only man who is free is
 the one who is willing to be followed by freemen and willingly serves
@@ -75,7 +75,7 @@ free men".[^6]
 
 In March 1926, following the death of Phan Chau Trinh and Ninh's arrest,
 *La Cloche Fêlée* began serializing
-*"<a   href="The_Communist_Manifesto.md" class="wikilink"
+*<a href="The_Communist_Manifesto.md" class="wikilink"
 title="The Communist Manifesto">The Communist Manifesto</a>*.[^7]
 
 ### Repression and Popular Response
@@ -99,7 +99,7 @@ the seeds you want to sow in this country can never sprout."
 Early in 1928, Nguyễn An Ninh began traveling by bicycle from village to
 village, his head shaved like a Buddhist monk.[^9] He was accompanied by
 Pham Văn Chieu and the later Trotskyist leader
-"<a   href="Phan_Văn_Hùm.md" class="wikilink" title="Phan Văn Hùm">Phan Văn
+<a href="Phan_Văn_Hùm.md" class="wikilink" title="Phan Văn Hùm">Phan Văn
 Hùm</a>. The only concrete advice Ninh is said to have given was for
 people to withhold their taxes, with the suggestion that within three
 years the colonialists would either capitulate or face a popular
@@ -119,7 +119,7 @@ the colonial Sûreté, it had been an insurrectionist conspiracy promising
 "some kind of agrarian socialism."
 
 Trotskyist chronicler
-"<a   href="Ngo_Van.md" class="wikilink" title="Ngo Van">Ngo Van</a> concluded
+<a href="Ngo_Van.md" class="wikilink" title="Ngo Van">Ngo Van</a> concluded
 that the "Society" was largely a figment of "denunciations and
 torture-induced confessions."[^11] While Ninh himself avoided creating a
 centralized command structure, some of his comrades may have tried to
@@ -143,7 +143,7 @@ their differences and oppose the government together.
 In 1933, this group put forward a common "Workers' List" for the Saigon
 municipal elections. The group included Nguyễn Văn Tạo of the
 Indochinese Communist Party, Trotskyist
-"<a   href="Tạ_Thu_Thâu.md" class="wikilink" title="Tạ Thu Thâu">Tạ Thu
+<a href="Tạ_Thu_Thâu.md" class="wikilink" title="Tạ Thu Thâu">Tạ Thu
 Thâu</a>, **anarchist Trinh Hung Ngau**, and independent nationalist
 Tran Van Thach. They briefly published the paper *La Lutte* (The
 Struggle) to rally support. Despite the restricted franchise, two of the
@@ -151,7 +151,7 @@ group were elected, though denied their seats. Ngo Van identifies Nguyễn
 An Ninh as having been "the real linchpin" of this collaboration.[^14]
 
 In 1934, Ninh helped revive the
-*"<a   href="La_Lutte_(newspaper).md" class="wikilink" title="La Lutte">La
+*<a href="La_Lutte_(newspaper).md" class="wikilink" title="La Lutte">La
 Lutte</a>* collaboration. The *Lutteurs* "focused squarely on the plight
 of the urban poor, the workers and peasant laborers."[^15]
 
@@ -173,7 +173,7 @@ prison in 1936 and asked him about his "agrarian programme," Ninh
 "raised his eyes \[over the prison walls\] toward the tamarind trees and
 began to sing *Auprès de ma blonde*: 'In my father's garden . . . All
 the birds in the world come to build their nests'." He later gave Ngo
-Van "<a   href="Louis-Ferdinand_Céline.md" class="wikilink"
+Van <a href="Louis-Ferdinand_Céline.md" class="wikilink"
 title="Céline">Céline</a>'s "explosive" *Journey to the End of the
 Night*.[^16]
 
@@ -186,7 +186,7 @@ Party cadres as a Democratic Front candidate in the April 1939
 Cochinchina Colonial Council elections.[^17] His list was defeated by
 the now wholly Trotskyist *lutteurs*, whose revolutionary platform
 included radical land redistribution and
-"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Workers&#39;_Self-Management.md" class="wikilink"
 title="workers&#39; control">workers' control</a>.[^18]
 
 ## Death
@@ -195,7 +195,7 @@ When the Molotov–Ribbentrop Pact sundered Franco-Soviet relations on 23
 August 1939 and war followed, "sedition" of every stripe was repressed.
 Nguyễn An Ninh was sentenced to 5 years in prison and 10 years exile.
 
-Nguyen An Ninh died in the "<a   href="Côn_Đảo_Prison.md" class="wikilink"
+Nguyen An Ninh died in the <a href="Côn_Đảo_Prison.md" class="wikilink"
 title="Côn Đảo island prison">Côn Đảo island prison</a>, Poulo Condore,
 on 14 August 1943. It is possible his jailers decided his fate, viewing
 him as a figure the Japanese occupiers would seek to use politically.
@@ -235,33 +235,33 @@ Ninh Street. A museum dedicated to him was opened in District 12 in
 
 ## See Also
 
-- "<a   href="Ngo_Van.md" class="wikilink" title="Ngo Van">Ngo Van</a>
-- "<a   href="Phan_Văn_Hùm.md" class="wikilink" title="Phan Văn Hùm">Phan Văn
+- <a href="Ngo_Van.md" class="wikilink" title="Ngo Van">Ngo Van</a>
+- <a href="Phan_Văn_Hùm.md" class="wikilink" title="Phan Văn Hùm">Phan Văn
   Hùm</a>
-- "<a   href="Tạ_Thu_Thâu.md" class="wikilink" title="Tạ Thu Thâu">Tạ Thu
+- <a href="Tạ_Thu_Thâu.md" class="wikilink" title="Tạ Thu Thâu">Tạ Thu
   Thâu</a>
-- "<a   href="Trotskyism_in_Vietnam.md" class="wikilink"
+- <a href="Trotskyism_in_Vietnam.md" class="wikilink"
   title="Trotskyism in Vietnam">Trotskyism in Vietnam</a>
-- "<a   href="Anti-Colonialism.md" class="wikilink"
+- <a href="Anti-Colonialism.md" class="wikilink"
   title="Anti-Colonialism">Anti-Colonialism</a>
 
-"<a   href="Category:Anarchist.md" class="wikilink"
+<a href="Category:Anarchist.md" class="wikilink"
 title="Category:Anarchist">Category:Anarchist</a>
-"<a   href="Category:Vietnamese_Anarchists.md" class="wikilink"
+<a href="Category:Vietnamese_Anarchists.md" class="wikilink"
 title="Category:Vietnamese Anarchists">Category:Vietnamese
 Anarchists</a>
-"<a   href="Category:Anti-Colonial_Activists.md" class="wikilink"
+<a href="Category:Anti-Colonial_Activists.md" class="wikilink"
 title="Category:Anti-Colonial Activists">Category:Anti-Colonial
 Activists</a>
-"<a   href="Category:Revolutionary_Journalists.md" class="wikilink"
+<a href="Category:Revolutionary_Journalists.md" class="wikilink"
 title="Category:Revolutionary Journalists">Category:Revolutionary
-Journalists</a> "<a   href="Category:1900_births.md" class="wikilink"
+Journalists</a> <a href="Category:1900_births.md" class="wikilink"
 title="Category:1900 births">Category:1900 births</a>
-"<a   href="Category:1943_deaths.md" class="wikilink"
+<a href="Category:1943_deaths.md" class="wikilink"
 title="Category:1943 deaths">Category:1943 deaths</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Thanh, Trịnh Vân (1966), *Thành ngữ điển tích danh nhân từ điển*.

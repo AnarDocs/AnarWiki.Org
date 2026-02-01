@@ -3,24 +3,24 @@
 ## Overview
 
 **Çayönü Tepesi** was a
-"<a   href="Pre-Pottery_Neolithic_B.md" class="wikilink"
+<a href="Pre-Pottery_Neolithic_B.md" class="wikilink"
 title="Pre-Pottery Neolithic">Pre-Pottery Neolithic</a> settlement in
-southeastern "<a   href="Turkey.md" class="wikilink" title="Turkey">Turkey</a>
+southeastern <a href="Turkey.md" class="wikilink" title="Turkey">Turkey</a>
 which prospered from circa 8,630 to 6,800 BCE.[^1] Located in
-"<a   href="Diyarbakır_Province.md" class="wikilink"
+<a href="Diyarbakır_Province.md" class="wikilink"
 title="Diyarbakır Province">Diyarbakır Province</a> at the foot of the
-"<a   href="Taurus_Mountains.md" class="wikilink"
+<a href="Taurus_Mountains.md" class="wikilink"
 title="Taurus Mountains">Taurus Mountains</a>, near tributaries of the
 upper
-"<a   href="Tigris_River.md" class="wikilink" title="Tigris River">Tigris
+<a href="Tigris_River.md" class="wikilink" title="Tigris River">Tigris
 River</a>, Çayönü contains archaeological evidence of a dramatic social
 revolution around 7200 BCE that installed an egalitarian, communist
 society lasting approximately three thousand years.
 
 The site belongs to the
-""<a   href="Taş_Tepeler.md" class="wikilink" title="Taş Tepeler">Taş
+"<a href="Taş_Tepeler.md" class="wikilink" title="Taş Tepeler">Taş
 Tepeler</a>" monumental tradition of
-"<a   href="Göbekli_Tepe.md" class="wikilink" title="Göbekli Tepe">Göbekli
+<a href="Göbekli_Tepe.md" class="wikilink" title="Göbekli Tepe">Göbekli
 Tepe</a>, characteristic of Pre-Pottery Neolithic sites in the Urfa
 region. The settlement covers multiple periods including the Pre-Pottery
 Neolithic A (PPNA), Pre-Pottery Neolithic B (PPNB), and Pottery
@@ -46,9 +46,9 @@ domination.[^4] This period also featured architectural inequality, with
 large manors contrasting sharply with slums and inferior shacks.
 
 The site included stelae similar to the T-shaped monuments of
-"<a   href="Göbekli_Tepe.md" class="wikilink" title="Göbekli Tepe">Göbekli
+<a href="Göbekli_Tepe.md" class="wikilink" title="Göbekli Tepe">Göbekli
 Tepe</a> and
-"<a   href="Karahan_Tepe.md" class="wikilink" title="Karahan Tepe">Karahan
+<a href="Karahan_Tepe.md" class="wikilink" title="Karahan Tepe">Karahan
 Tepe</a>, thought to represent symbolic images of men or gods. One stela
 featured a human face carved in flat relief.[^5] These findings suggest
 stela worship, a form of cult prevalent in the Pre-Pottery Neolithic B
@@ -146,10 +146,10 @@ indicating domestication, only became evident around 7000 BCE.[^11]
 
 Çayönü played a central role in the origins of agriculture. Genetic
 studies of
-"<a   href="emmer_wheat.md" class="wikilink" title="emmer wheat">emmer
+<a href="emmer_wheat.md" class="wikilink" title="emmer wheat">emmer
 wheat</a>, the precursor of most current wheat species, indicate that
 the nearby slopes of Mount Karaca
-("<a   href="Karaca_Dağ.md" class="wikilink" title="Karaca Dağ">Karaca Dağ</a>)
+(<a href="Karaca_Dağ.md" class="wikilink" title="Karaca Dağ">Karaca Dağ</a>)
 were the location of first domestication.[^12]
 
 Archaeologist Robert Braidwood documented that "cultivated emmer along
@@ -220,21 +220,21 @@ states and empires.
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Anarchist_Societies.md" class="wikilink"
+<a href="Category:Anarchist_Societies.md" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-"<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Past_Anarchist_Societies.md" class="wikilink"
 title="Category:Past Anarchist Societies">Category:Past Anarchist
-Societies</a> "<a   href="Category:Before_Common_Era.md" class="wikilink"
+Societies</a> <a href="Category:Before_Common_Era.md" class="wikilink"
 title="Category:Before Common Era">Category:Before Common Era</a>
-"<a   href="Category:Turkey.md" class="wikilink"
+<a href="Category:Turkey.md" class="wikilink"
 title="Category:Turkey">Category:Turkey</a>
-"<a   href="Category:Western_Asia.md" class="wikilink"
+<a href="Category:Western_Asia.md" class="wikilink"
 title="Category:Western Asia">Category:Western Asia</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Andrew Collins, *Gobekli Tepe: Genesis of the Gods: The Temple of

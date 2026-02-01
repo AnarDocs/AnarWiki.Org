@@ -40,17 +40,17 @@ permission.
 
 ### Rights as State Privileges
 
-As "<a   href="George_Carlin.md" class="wikilink" title="George Carlin">George
+As <a href="George_Carlin.md" class="wikilink" title="George Carlin">George
 Carlin</a> observed, rights function as "a bill of temporary privileges"
 that can be withdrawn whenever convenient for those in power. The
-"<a   href="Japanese_American_internment.md" class="wikilink"
+<a href="Japanese_American_internment.md" class="wikilink"
 title="Japanese American internment">Japanese American internment</a>
 during World War II exemplifies this perfectly - 110,000 law-abiding
 citizens were stripped of all their supposed constitutional rights and
 imprisoned simply because their ancestry was deemed threatening. Their
 only remaining "right" was "right this way" into the camps.[^1]
 
-"<a   href="Voltairine_de_Cleyre.md" class="wikilink"
+<a href="Voltairine_de_Cleyre.md" class="wikilink"
 title="Voltairine de Cleyre">Voltairine de Cleyre</a> articulated the
 fundamental distinction: "Note the difference between a right and a
 privilege. A right, in the abstract, is a fact; it is not a thing to be
@@ -83,11 +83,11 @@ Rights discourse serves multiple functions for state power:
 ### State Overcoding
 
 Drawing on the work of philosophers
-"<a   href="Gilles_Deleuze.md" class="wikilink" title="Gilles Deleuze">Gilles
+<a href="Gilles_Deleuze.md" class="wikilink" title="Gilles Deleuze">Gilles
 Deleuze</a> and
-"<a   href="Félix_Guattari.md" class="wikilink" title="Félix Guattari">Félix
+<a href="Félix_Guattari.md" class="wikilink" title="Félix Guattari">Félix
 Guattari</a>, anarchist theorist
-"<a   href="Aragorn_Eloff.md" class="wikilink" title="Aragorn Eloff">Aragorn
+<a href="Aragorn_Eloff.md" class="wikilink" title="Aragorn Eloff">Aragorn
 Eloff</a> argues that rights operate as part of "State overcoding" - "a
 reification of these arrangements of coded institutions and practices,
 as well as various material flows, that allows them to resonate
@@ -99,7 +99,7 @@ the state as the sole legitimate arbiter of what people deserve.[^3]
 
 ### Cultural and Historical Relativity
 
-"<a   href="Bob_Black.md" class="wikilink" title="Bob Black">Bob Black</a>
+<a href="Bob_Black.md" class="wikilink" title="Bob Black">Bob Black</a>
 demonstrates that "belief in human rights is far from universal" and
 that moral systems vary dramatically across cultures and historical
 periods. What one society considers a fundamental right, another may
@@ -107,7 +107,7 @@ view as abhorrent. The supposedly universal "right to life" coexists
 with capital punishment, war, and systematic state violence in virtually
 every society that proclaims it.[^4]
 
-As "<a   href="Blaise_Pascal.md" class="wikilink" title="Blaise Pascal">Blaise
+As <a href="Blaise_Pascal.md" class="wikilink" title="Blaise Pascal">Blaise
 Pascal</a> observed in the 17th century: "Larceny, incest, parricide,
 everything has at some time been accounted a virtuous action."[^5]
 
@@ -118,13 +118,13 @@ Natural rights proponents claim these rights derive from:
 - **Human nature** - But human nature varies and cannot be objectively
   defined
 - **Divine command** - But this requires belief in deities and faces the
-  "<a   href="Euthyphro_dilemma.md" class="wikilink"
+  <a href="Euthyphro_dilemma.md" class="wikilink"
   title="Euthyphro dilemma">Euthyphro dilemma</a>
 - **Self-evidence** - But what seems self-evident to some is rejected by
   others
 - **Human dignity** - But conceptions of dignity are culturally relative
 
-"<a   href="J.L._Mackie.md" class="wikilink" title="J.L. Mackie">J.L.
+<a href="J.L._Mackie.md" class="wikilink" title="J.L. Mackie">J.L.
 Mackie</a> argued that "If there were objective values, then they would
 be entities or qualities or relations of a very strange sort, utterly
 different from anything else in the universe."[^6]
@@ -144,7 +144,7 @@ Rights discourse is inherently authoritarian because:
 - **Rights are adversarial** - They create win/lose conflicts rather
   than cooperative solutions
 
-As "<a   href="Mary_Ann_Glendon.md" class="wikilink"
+As <a href="Mary_Ann_Glendon.md" class="wikilink"
 title="Mary Ann Glendon">Mary Ann Glendon</a> noted: "Our rights talk,
 in its absoluteness, promotes unrealistic expectations, heightens social
 conflict, and inhibits social dialogue that might lead toward consensus,
@@ -162,7 +162,7 @@ if you can, serve them yourself."[^8]
 
 ### Beyond Rights Discourse
 
-"<a   href="Proudhon.md" class="wikilink" title="Proudhon">Proudhon</a>
+<a href="Proudhon.md" class="wikilink" title="Proudhon">Proudhon</a>
 defined right as "the recognition of human dignity in all its faculties,
 attributes and prerogatives" - but crucially, this recognition emerges
 from social relationships rather than state authority.[^9]
@@ -200,7 +200,7 @@ Anarchists propose several alternatives to rights-based thinking:
 
 True freedom cannot come from rights granted by authority, but only
 through the elimination of authority itself. As
-"<a   href="Pëtr_Kropotkin.md" class="wikilink" title="Pëtr Kropotkin">Pëtr
+<a href="Pëtr_Kropotkin.md" class="wikilink" title="Pëtr Kropotkin">Pëtr
 Kropotkin</a> observed: "This is what these so-called liberties can be
 reduced to. Freedom of press and of meeting, inviolability of home and
 all the rest, are only respected if the people do not make use of them
@@ -215,28 +215,28 @@ constraint.
 
 ## See Also
 
-- "<a   href="Authority.md" class="wikilink" title="Authority">Authority</a>
-- "<a   href="State.md" class="wikilink" title="State">State</a>
-- "<a   href="Natural_Law.md" class="wikilink" title="Natural Law">Natural
+- <a href="Authority.md" class="wikilink" title="Authority">Authority</a>
+- <a href="State.md" class="wikilink" title="State">State</a>
+- <a href="Natural_Law.md" class="wikilink" title="Natural Law">Natural
   Law</a>
-- "<a   href="Civil_Law.md" class="wikilink" title="Civil Law">Civil Law</a>
-- "<a   href="Civil_Liberties.md" class="wikilink" title="Civil Liberties">Civil
+- <a href="Civil_Law.md" class="wikilink" title="Civil Law">Civil Law</a>
+- <a href="Civil_Liberties.md" class="wikilink" title="Civil Liberties">Civil
   Liberties</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- "<a   href="Direct_Action.md" class="wikilink" title="Direct Action">Direct
+- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Direct_Action.md" class="wikilink" title="Direct Action">Direct
   Action</a>
-- "<a   href="Voluntary_Association.md" class="wikilink"
+- <a href="Voluntary_Association.md" class="wikilink"
   title="Voluntary Association">Voluntary Association</a>
 
 ## References
 
-"<a   href="Category:Ideology.md" class="wikilink"
+<a href="Category:Ideology.md" class="wikilink"
 title="Category:Ideology">Category:Ideology</a>
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts.md" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

@@ -1,12 +1,12 @@
 # A New Anarchist FAQ
 
 **A New Anarchist FAQ** is an
-"<a   href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 frequently asked questions document hosted on
-"<a   href="Raddle.md" class="wikilink" title="raddle.me">raddle.me</a> that
+<a href="Raddle.md" class="wikilink" title="raddle.me">raddle.me</a> that
 was authored by members of the Raddle Collective[^1], including Ziq.[^2]
 The project was created as a response to the well-known
-"<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
+<a href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
 Anarchist FAQ</a>, which the contributors argue suffers from ideological
 bias, is extraneous and overly complicated[^3], engages in
 well-poisoning[^4] and is an inadequate representation of diverse
@@ -18,7 +18,7 @@ The New Anarchist FAQ was initiated as an ongoing project to foster what
 its contributors describe as a "balanced, easy to digest and relevant
 anarchist FAQ." According to the project's instructions, it emerged from
 dissatisfaction with the existing
-"<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
+<a href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
 Anarchist FAQ</a>, which critics argue is "written almost entirely by
 one man and often pushes a strong Bookchinite perspective, to the point
 of smearing the anarchist currents that Bookchin rallied against."[^5]
@@ -60,20 +60,20 @@ and contemporary anarchist practice. It takes positions that sometimes
 conflict with mainstream anarchist discourse, such as:
 
 - Critical examination of
-  "<a   href="Workerism.md" class="wikilink" title="workerism">workerism</a>
+  <a href="Workerism.md" class="wikilink" title="workerism">workerism</a>
   and labor-centered approaches to anarchism
 - Skeptical treatment of democratic organizing methods
 - Emphasis on individual and small-group autonomous action
 - Integration of
-  "<a   href="Green_Anarchism.md" class="wikilink" title="green anarchist">green
-  anarchist</a> and "<a   href="Primitivism.md" class="wikilink"
+  <a href="Green_Anarchism.md" class="wikilink" title="green anarchist">green
+  anarchist</a> and <a href="Primitivism.md" class="wikilink"
   title="primitivist">primitivist</a> perspectives
 
 ## Reception and Criticism
 
 The project has generated significant discussion and controversy within
 anarchist communities. Initial reception on platforms like
-"<a   href="Reddit.md" class="wikilink" title="Reddit">Reddit</a> showed mixed
+<a href="Reddit.md" class="wikilink" title="Reddit">Reddit</a> showed mixed
 responses, with supporters praising its attempt to present diverse
 perspectives and critics expressing concern about its post-left
 orientation.
@@ -99,9 +99,9 @@ Supporters appreciate the FAQ's:
 Critics have raised concerns about:[^6]
 
 - The choice to not center the
-  "<a   href="Anarcho-Syndicalism.md" class="wikilink"
+  <a href="Anarcho-Syndicalism.md" class="wikilink"
   title="anarcho-syndicalist">anarcho-syndicalist</a> and
-  "<a   href="Anarcho-Communism.md" class="wikilink"
+  <a href="Anarcho-Communism.md" class="wikilink"
   title="anarcho-communist">anarcho-communist</a> approaches despite
   their considerable popularity
 - Limited contributor base potentially recreating the single-author
@@ -119,7 +119,7 @@ Critics have raised concerns about:[^6]
 ## Relationship to Post-Left Anarchism
 
 Certain sections of the New Anarchist FAQ reflect themes central to
-"<a   href="Post-Left_Anarchism.md" class="wikilink"
+<a href="Post-Left_Anarchism.md" class="wikilink"
 title="Post-Left Anarchism">Post-Left Anarchism</a>, including:
 
 - Criticism of leftist organizing methods and ideology
@@ -127,8 +127,8 @@ title="Post-Left Anarchism">Post-Left Anarchism</a>, including:
 - Skepticism toward formal organizations and majoritarian democratic
   processes
 - Integration of
-  "<a   href="Egoist_Anarchism.md" class="wikilink" title="egoist">egoist</a>
-  and "<a   href="Nihilist_Anarchism.md" class="wikilink"
+  <a href="Egoist_Anarchism.md" class="wikilink" title="egoist">egoist</a>
+  and <a href="Nihilist_Anarchism.md" class="wikilink"
   title="nihilist">nihilist</a> perspectives
 - Focus on immediate liberation rather than revolutionary programs that
   aim to build governance
@@ -155,17 +155,17 @@ educational materials.
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Post-Left_Anarchism.md" class="wikilink"
+<a href="Category:Post-Left_Anarchism.md" class="wikilink"
 title="Category:Post-Left Anarchism">Category:Post-Left Anarchism</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:FAQ.md" class="wikilink"
+<a href="Category:FAQ.md" class="wikilink"
 title="Category:FAQ">Category:FAQ</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: <https://theanarchistlibrary.org/category/author/raddle-collective>

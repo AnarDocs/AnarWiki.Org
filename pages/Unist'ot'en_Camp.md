@@ -12,10 +12,10 @@ Through directly-democratic processes, they have decided to resist all
 pipeline construction on their territory, and since 2010 they have
 organized action camps and a long-running blockade against oil and gas
 companies, representing a practical example of
-"<a   href="indigenous_resistance.md" class="wikilink"
+<a href="indigenous_resistance" class="wikilink"
 title="indigenous resistance">indigenous resistance</a>,
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
-action</a>, and "<a   href="prefigurative_politics.md" class="wikilink"
+<a href="direct_action" class="wikilink" title="direct action">direct
+action</a>, and <a href="prefigurative_politics" class="wikilink"
 title="prefigurative politics">prefigurative politics</a>.
 
 ## Anarchist Governance Structures
@@ -63,8 +63,8 @@ through direct action tactics.
 The camp was constructed as a means to block the development of numerous
 pipelines and other projects deemed harmful to the land, including
 pipelines from
-"<a   href="Enbridge.md" class="wikilink" title="Enbridge">Enbridge</a>, the
-Pacific Trails Pipeline ("<a   href="Chevron_Corporation.md" class="wikilink"
+<a href="Enbridge" class="wikilink" title="Enbridge">Enbridge</a>, the
+Pacific Trails Pipeline (<a href="Chevron_Corporation" class="wikilink"
 title="Chevron">Chevron</a>), as well as seven proposed pipelines from
 the Alberta Oil Sands and LNG from the Horn River Basin Projects in the
 Peace River Region.
@@ -122,7 +122,7 @@ culture.[^14]
 
 This emphasis on collective healing, cultural transmission, and mutual
 support demonstrates anarchist principles of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 and community care outside of state and capitalist institutions.
 
 ## State Repression and Solidarity
@@ -130,7 +130,7 @@ and community care outside of state and capitalist institutions.
 In 2018, TC Energy was granted an injunction to remove the checkpoint
 and have complete access to the pipeline project construction. In
 January 2019, the
-"<a   href="Royal_Canadian_Mounted_Police.md" class="wikilink"
+<a href="Royal_Canadian_Mounted_Police" class="wikilink"
 title="Royal Canadian Mounted Police">Royal Canadian Mounted Police</a>
 (RCMP) entered the territory to enforce the court injunction and allow
 workers from the Coastal GasLink pipeline project temporary access to
@@ -153,13 +153,13 @@ According to the Unist'ot'en Camp website:
 
 The arrests sparked widespread protests in British Columbia and across
 Canada in support of the Wet'suwet'en, demonstrating the power of
-"<a   href="solidarity.md" class="wikilink" title="solidarity">solidarity</a>
+<a href="solidarity" class="wikilink" title="solidarity">solidarity</a>
 and networked resistance to state violence and corporate
 extraction.[^18]
 
 Solidarity statements supporting the preservation of the Unist'ot'en
 Camp were issued by organizations and institutions such as:
-"<a   href="OCAD_University.md" class="wikilink" title="OCAD University">OCAD
+<a href="OCAD_University" class="wikilink" title="OCAD University">OCAD
 University</a>,[^19] the British Columbia Teachers' Federation,[^20] and
 Ryerson University School of Social Work.[^21]
 
@@ -184,13 +184,13 @@ was approving two more pipelines.[^23]
 
 The Unist'ot'en Camp represents a powerful example of anarchist
 principles in practice:
-"<a   href="consensus_decision-making.md" class="wikilink"
+<a href="consensus_decision-making" class="wikilink"
 title="consensus decision-making">consensus decision-making</a>,
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action" class="wikilink" title="direct action">direct
 action</a>, rejection of imposed hierarchical authority,
-"<a   href="prefigurative_politics.md" class="wikilink"
+<a href="prefigurative_politics" class="wikilink"
 title="prefigurative politics">prefigurative politics</a>,
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
 and resistance to state and corporate power. The conflict between the
 hereditary chiefs using traditional consensus-based governance and the
 imposed colonial Band Council system demonstrates the fundamental
@@ -217,22 +217,22 @@ movements.
 
 <references/>
 
-"<a   href="Category:Canada.md" class="wikilink"
+<a href="Category:Canada" class="wikilink"
 title="Category:Canada">Category:Canada</a>
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
-"<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Current_Anarchist_Societies" class="wikilink"
 title="Category:Current Anarchist Societies">Category:Current Anarchist
-Societies</a> "<a   href="Category:Indigenous_Resistance.md" class="wikilink"
+Societies</a> <a href="Category:Indigenous_Resistance" class="wikilink"
 title="Category:Indigenous Resistance">Category:Indigenous
-Resistance</a> "<a   href="Category:Direct_Action.md" class="wikilink"
+Resistance</a> <a href="Category:Direct_Action" class="wikilink"
 title="Category:Direct Action">Category:Direct Action</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: "Standing on the Land to Stand Up Against Pipelines: A Report from

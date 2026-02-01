@@ -3,35 +3,35 @@
 ## Overview
 
 **Anarcho-primitivism** is an
-"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
-critique of "<a   href="civilization.md" class="wikilink"
+<a href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
+critique of <a href="civilization.md" class="wikilink"
 title="civilization">civilization</a> that advocates a return to
 non-civilized ways of life through
-"<a   href="deindustrialization.md" class="wikilink"
+<a href="deindustrialization.md" class="wikilink"
 title="deindustrialization">deindustrialization</a>, abolition of the
 division of labor or specialization, abandonment of large-scale
 organization and all
-"<a   href="technology.md" class="wikilink" title="technology">technology</a>
+<a href="technology.md" class="wikilink" title="technology">technology</a>
 other than prehistoric technology, and the dissolution of
-"<a   href="agriculture.md" class="wikilink"
+<a href="agriculture.md" class="wikilink"
 title="agriculture">agriculture</a>.
 
 Anarcho-primitivists critique the origins and alleged progress of the
-"<a   href="Industrial_Revolution.md" class="wikilink"
+<a href="Industrial_Revolution.md" class="wikilink"
 title="Industrial Revolution">Industrial Revolution</a> and
-"<a   href="industrial_society.md" class="wikilink"
+<a href="industrial_society.md" class="wikilink"
 title="industrial society">industrial society</a>.[^1] Most
 anarcho-primitivists advocate for a tribal-like way of life while some
 see an even simpler lifestyle as beneficial. According to
 anarcho-primitivists, the shift from
-"<a   href="hunter-gatherer.md" class="wikilink"
+<a href="hunter-gatherer.md" class="wikilink"
 title="hunter-gatherer">hunter-gatherer</a> to agricultural subsistence
-during the "<a   href="Neolithic_Revolution.md" class="wikilink"
+during the <a href="Neolithic_Revolution.md" class="wikilink"
 title="Neolithic Revolution">Neolithic Revolution</a> gave rise to
-"<a   href="coercion.md" class="wikilink" title="coercion">coercion</a>,
-"<a   href="social_alienation.md" class="wikilink"
+<a href="coercion.md" class="wikilink" title="coercion">coercion</a>,
+<a href="social_alienation.md" class="wikilink"
 title="social alienation">social alienation</a>, and
-"<a   href="social_stratification.md" class="wikilink"
+<a href="social_stratification.md" class="wikilink"
 title="social stratification">social stratification</a>.[^2]
 
 Anarcho-primitivism argues that civilization is at the root of societal
@@ -43,13 +43,13 @@ civilization and a return to a hunter-gatherer lifestyle.[^4]
 ## Origins
 
 The roots of primitivism lay in Enlightenment philosophy and the
-critical theory of the "<a   href="Frankfurt_School.md" class="wikilink"
+critical theory of the <a href="Frankfurt_School.md" class="wikilink"
 title="Frankfurt School">Frankfurt School</a>.[^5] The early-modern
-philosopher "<a   href="Jean-Jacques_Rousseau.md" class="wikilink"
+philosopher <a href="Jean-Jacques_Rousseau.md" class="wikilink"
 title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a> blamed
-"<a   href="agriculture.md" class="wikilink"
+<a href="agriculture.md" class="wikilink"
 title="agriculture">agriculture</a> and cooperation for the development
-of "<a   href="social_inequality.md" class="wikilink"
+of <a href="social_inequality.md" class="wikilink"
 title="social inequality">social inequality</a> and causing habitat
 destruction. In his *Discourse on Inequality*, Rousseau depicted the
 state of nature as a "primitivist utopia";[^6] however, he stopped short
@@ -58,9 +58,9 @@ of advocating a return to it.[^7]
 Instead, Rousseau called for political institutions to be recreated
 anew, in harmony with nature and without the artificiality of modern
 civilization.[^8] Later, critical theorist
-"<a   href="Max_Horkheimer.md" class="wikilink" title="Max Horkheimer">Max
+<a href="Max_Horkheimer.md" class="wikilink" title="Max Horkheimer">Max
 Horkheimer</a> argued that environmental degradation stemmed directly
-from "<a   href="social_oppression.md" class="wikilink"
+from <a href="social_oppression.md" class="wikilink"
 title="social oppression">social oppression</a>, which had vested all
 value in labor and consequently caused widespread alienation.[^9]
 
@@ -69,9 +69,9 @@ value in labor and consequently caused widespread alienation.[^9]
 ### Zerzan and the Modern Movement
 
 The modern school of anarcho-primitivism was primarily developed by
-"<a   href="John_Zerzan.md" class="wikilink" title="John Zerzan">John
+<a href="John_Zerzan.md" class="wikilink" title="John Zerzan">John
 Zerzan</a>,[^10] whose work was released at a time when
-"<a   href="green_anarchism.md" class="wikilink" title="green anarchist">green
+<a href="green_anarchism.md" class="wikilink" title="green anarchist">green
 anarchist</a> theories of social ecology and deep ecology were beginning
 to attract interest. Primitivism, as outlined in Zerzan's work, first
 gained popularity as enthusiasm in deep ecology began to wane.[^11]
@@ -82,38 +82,38 @@ increasing use of technology had resulted in the alienation and
 oppression of humankind.[^12] Zerzan argued that under civilization,
 humans and other species have undergone domestication, which stripped
 them of their agency and subjected them to control by
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>.
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>.
 
 He also claimed that
-"<a   href="language.md" class="wikilink" title="language">language</a>,
-"<a   href="mathematics.md" class="wikilink"
+<a href="language.md" class="wikilink" title="language">language</a>,
+<a href="mathematics.md" class="wikilink"
 title="mathematics">mathematics</a> and
-"<a   href="art.md" class="wikilink" title="art">art</a> had caused
+<a href="art.md" class="wikilink" title="art">art</a> had caused
 alienation, as they replaced "authentic reality" with an abstracted
 representation of reality.[^13] In order to counteract such issues,
 Zerzan proposed that humanity return to a state of nature, which he
-believed would increase "<a   href="social_equality.md" class="wikilink"
+believed would increase <a href="social_equality.md" class="wikilink"
 title="social equality">social equality</a> and individual autonomy by
-abolishing "<a   href="private_property.md" class="wikilink"
+abolishing <a href="private_property.md" class="wikilink"
 title="private property">private property</a>, organized violence and
 the division of labor.[^14]
 
 ### Alternative Perspectives
 
 Primitivist thinker
-"<a   href="Paul_Shepard.md" class="wikilink" title="Paul Shepard">Paul
+<a href="Paul_Shepard.md" class="wikilink" title="Paul Shepard">Paul
 Shepard</a> also criticized domestication, which he believed had
 devalued non-human life and reduced human life to their labor and
 property. Other primitivist authors have drawn different conclusions to
 Zerzan on the origins of alienation, with John Fillis blaming
-"<a   href="technology.md" class="wikilink" title="technology">technology</a>
+<a href="technology.md" class="wikilink" title="technology">technology</a>
 and Richard Heinberg claiming it to be a result of addiction
 psychology.[^15]
 
 ### Rewilding and Practice
 
 Primitivists and green anarchists have adopted the concept of ecological
-"<a   href="rewilding.md" class="wikilink" title="rewilding">rewilding</a> as
+<a href="rewilding.md" class="wikilink" title="rewilding">rewilding</a> as
 part of their practice, using reclaimed skills and methods to work
 towards a sustainable future while undoing institutions of
 civilization.[^16]
@@ -123,7 +123,7 @@ civilization.[^16]
 Anarcho-primitivist periodicals include *Green Anarchy* and *Species
 Traitor*. The former, self-described as an "anti-civilization journal of
 theory and action" and printed in
-"<a   href="Eugene,_Oregon.md" class="wikilink" title="Eugene, Oregon">Eugene,
+<a href="Eugene,_Oregon.md" class="wikilink" title="Eugene, Oregon">Eugene,
 Oregon</a>, was first published in 2000 and expanded from a 16-page
 newsprint tabloid to a 76-page magazine covering monkeywrenching topics
 such as pipeline sabotage and animal liberation.
@@ -138,11 +138,11 @@ the radical environmental journal *Earth First!*[^17]
 ### Violence and Terrorism
 
 Primitivist ideas were taken up by
-"<a   href="Ted_Kaczynski.md" class="wikilink" title="Ted Kaczynski">Ted
+<a href="Ted_Kaczynski.md" class="wikilink" title="Ted Kaczynski">Ted
 Kaczynski</a>, although he has been repeatedly criticized for his
 violent means by more pacifistic anarcho-primitivists, who instead
 advocate for non-violent forms of
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action.md" class="wikilink" title="direct action">direct
 action</a>.[^18] This association with violence has led to significant
 criticism of the movement, particularly following Kaczynski's bombing
 campaign.
@@ -150,11 +150,11 @@ campaign.
 ### Relationship with Other Movements
 
 Primitivist concepts have also taken root within the philosophy of
-"<a   href="deep_ecology.md" class="wikilink" title="deep ecology">deep
+<a href="deep_ecology.md" class="wikilink" title="deep ecology">deep
 ecology</a>, inspiring the direct actions of groups such as
-"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
+<a href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
 First!</a>.[^19] Another radical environmentalist group, the
-"<a   href="Earth_Liberation_Front.md" class="wikilink"
+<a href="Earth_Liberation_Front.md" class="wikilink"
 title="Earth Liberation Front">Earth Liberation Front</a> (ELF), was
 directly influenced by anarcho-primitivism and its calls for
 rewilding.[^20]
@@ -171,21 +171,21 @@ rewilding.[^20]
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Green_Anarchism.md" class="wikilink"
+Socialism</a> <a href="Category:Green_Anarchism.md" class="wikilink"
 title="Category:Green Anarchism">Category:Green Anarchism</a>
-"<a   href="Category:Anti-Civilization.md" class="wikilink"
+<a href="Category:Anti-Civilization.md" class="wikilink"
 title="Category:Anti-Civilization">Category:Anti-Civilization</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: el-Ojeili, Chamsy and Taylor, Dylan (2020). "The Future in the

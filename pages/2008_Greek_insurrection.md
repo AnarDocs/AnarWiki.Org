@@ -122,9 +122,9 @@ Gelderloos reflects:
 
 <references/>
 
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:Protest_Waves.md" class="wikilink"
+<a href="Category:Protest_Waves.md" class="wikilink"
 title="Category:Protest Waves">Category:Protest Waves</a>
 
 [^1]: Tasos Sagris, "Nothing Changed, Everything is Different" in A.G.

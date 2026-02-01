@@ -1,15 +1,15 @@
-**Redneck Revolt** is an "<a   href="Anarcho-Communism.md" class="wikilink"
+**Redneck Revolt** is an <a href="Anarcho-Communism.md" class="wikilink"
 title="anarcho-communist">anarcho-communist</a> and
-"<a   href="Anti-Fascism.md" class="wikilink"
+<a href="Anti-Fascism.md" class="wikilink"
 title="anti-fascist">anti-fascist</a>
-"<a   href="List_of_Anarchist_Organizations.md" class="wikilink"
+<a href="List_of_Anarchist_Organizations.md" class="wikilink"
 title="network of gun clubs">network of gun clubs</a> and
-"<a   href="Mutual_Aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="Mutual_Aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 groups based in the Southern
-"<a   href="United_States_of_America.md" class="wikilink"
+<a href="United_States_of_America.md" class="wikilink"
 title="United States">United States</a> that specialises in training
 people in safe firearm usage, first aid and gardening. They also help
-provide "<a   href="food.md" class="wikilink" title="food">food</a>, clothing
+provide <a href="food.md" class="wikilink" title="food">food</a>, clothing
 and needle exchanges to poor communities.
 
 ## History
@@ -34,20 +34,20 @@ Minuteman Project.
 ### Name
 
 The group attributes their use of the word "redneck" to the time of the
-"<a   href="Coal_Wars_(USA).md" class="wikilink" title="Coal Wars">Coal
+<a href="Coal_Wars_(USA).md" class="wikilink" title="Coal Wars">Coal
 Wars</a>, a series of labor disputes in the United States occurring from
-around "<a   href="Timeline_of_Anarchism_in_North_America.md" class="wikilink"
+around <a href="Timeline_of_Anarchism_in_North_America.md" class="wikilink"
 title="1890 to around 1930">1890 to around 1930</a>, when the word
 became popular among coalminers. The use of the term is also intended as
 a form of subversion or reappropriation. The group's name also refers to
-the "<a   href="Battle_of_Blair_Mountain.md" class="wikilink"
+the <a href="Battle_of_Blair_Mountain.md" class="wikilink"
 title="Battle of Blair Mountain">Battle of Blair Mountain</a>, and the
 red bandanas worn by members emulate those worn by striking coalminers
 during that conflict. A member has said that the group tries "to
 acknowledge the ways we've made mistakes and bought into
-"<a   href="White_Supremacy.md" class="wikilink" title="white supremacy">white
+<a href="White_Supremacy.md" class="wikilink" title="white supremacy">white
 supremacy</a> and
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
 but also give ourselves an environment in which it's OK to celebrate
 redneck culture".
 
@@ -60,29 +60,29 @@ and state fairs. Chapters provide firearms and first aid training, food
 and clothing programs, and community gardens, and host needle exchanges,
 potlucks, and educational events.
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Anarchism.md" class="wikilink"
+Socialism</a> <a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Anarcho-Communism.md" class="wikilink"
+<a href="Category:Anarcho-Communism.md" class="wikilink"
 title="Category:Anarcho-Communism">Category:Anarcho-Communism</a>
-"<a   href="Category:Organizations.md" class="wikilink"
+<a href="Category:Organizations.md" class="wikilink"
 title="Category:Organizations">Category:Organizations</a>
-"<a   href="Category:Community_Organizing.md" class="wikilink"
+<a href="Category:Community_Organizing.md" class="wikilink"
 title="Category:Community Organizing">Category:Community Organizing</a>
-"<a   href="Category:Anarchist_Organizations.md" class="wikilink"
+<a href="Category:Anarchist_Organizations.md" class="wikilink"
 title="Category:Anarchist Organizations">Category:Anarchist
-Organizations</a> "<a   href="Category:USA.md" class="wikilink"
+Organizations</a> <a href="Category:USA.md" class="wikilink"
 title="Category:USA">Category:USA</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America.md" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:2016.md" class="wikilink"
+<a href="Category:2016.md" class="wikilink"
 title="Category:2016">Category:2016</a>
-"<a   href="Category:2010s.md" class="wikilink"
+<a href="Category:2010s.md" class="wikilink"
 title="Category:2010s">Category:2010s</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:Gun_Clubs.md" class="wikilink"
+<a href="Category:Gun_Clubs.md" class="wikilink"
 title="Category:Gun Clubs">Category:Gun Clubs</a>

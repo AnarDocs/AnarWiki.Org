@@ -8,7 +8,7 @@
 ![](Makhno_group.jpg "Makhno_group.jpg")\]\]
 
 *For a broader article, see
-"<a   href="Russian_Revolution_and_Anarchy.md" class="wikilink"
+<a href="Russian_Revolution_and_Anarchy.md" class="wikilink"
 title="Russian Revolution and Anarchy">Russian Revolution and
 Anarchy</a>.*
 
@@ -240,15 +240,15 @@ This contradiction between Voline's account and the movement's
 documented responses to violence against women reflects broader tensions
 within anarchism regarding women's liberation. From its inception,
 anarchism contained both progressive and reactionary positions on
-gender. While "<a   href="Mikhail_Bakunin.md" class="wikilink"
+gender. While <a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> made the abolition of gender
 inequality a central aim and anarchist women like
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
-Goldman</a>, "<a   href="Voltairine_de_Cleyre.md" class="wikilink"
+<a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+Goldman</a>, <a href="Voltairine_de_Cleyre.md" class="wikilink"
 title="Voltairine de Cleyre">Voltairine de Cleyre</a>, and
-"<a   href="Louise_Michel.md" class="wikilink" title="Louise Michel">Louise
+<a href="Louise_Michel.md" class="wikilink" title="Louise Michel">Louise
 Michel</a> were pioneering feminists, other prominent anarchists like
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> were openly
 hostile to women's rights.[^28] The Makhnovist movement appears to have
 exhibited similar contradictions - maintaining harsh punishments for
@@ -259,11 +259,11 @@ other contexts.
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
+Communities</a> <a href="Category:Anarchist_Societies.md" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: *An Anarchist FAQ,* “Why does the Makhnovist movement show there
@@ -287,7 +287,7 @@ title="Category:Featured">Category:Featured</a>
 [^7]: Voline, ibid.
 
 [^8]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^9]: Peter Arshinov, *History of the Makhnovist Movement*, 1923,
@@ -299,14 +299,14 @@ title="Category:Featured">Category:Featured</a>
 [^11]: Voline, The Unknown Revolution, Volume Three.
 
 [^12]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^13]: Daniel Guerin, *Anarchism: From Theory to Practice* (New York:
     Monthly Review Press, 1970), 100, translated by Mary Klopper.
 
 [^14]: Michael Schmidt,
-    "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
+    <a href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
     title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
@@ -315,7 +315,7 @@ title="Category:Featured">Category:Featured</a>
 [^16]: Voline, *The Uknown Revolution, Book 3*.
 
 [^17]: Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^18]: Arshinov, *History of the Makhnovist Movement*.

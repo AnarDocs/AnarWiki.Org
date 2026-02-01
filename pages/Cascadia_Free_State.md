@@ -44,11 +44,11 @@ arrested. A bulldozer destroyed the camp, but the campaign had won. [^3]
 
 <references/>
 
-"<a   href="Category:Direct_Action.md" class="wikilink"
+<a href="Category:Direct_Action.md" class="wikilink"
 title="Category:Direct Action">Category:Direct Action</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
 [^1]: notes from nowhere, *We are Everywhere: The Irresistable Rise of

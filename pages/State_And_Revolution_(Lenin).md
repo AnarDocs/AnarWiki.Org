@@ -7,7 +7,7 @@ reformism and critiquing its fundamental theoretical and practical
 failures. Written during the summer of 1917, the work sought to reclaim
 what Lenin saw as Marx's revolutionary vision from the opportunism of
 Social Democracy, drawing heavily on Marx's writings about the
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
+<a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
 Commune</a>.
 
 ## Initial Reception and Libertarian Elements
@@ -66,9 +66,9 @@ centralized state could remain a tool of the working class.
 
 Anarchists argued that Lenin fundamentally confused the state as a
 specific form of social organization with social organization in
-general. "<a   href="Mikhail_Bakunin.md" class="wikilink"
+general. <a href="Mikhail_Bakunin" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> and
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> had long argued that the state's defining
 characteristics—hierarchical centralization, top-down command,
 separation of decision-making from those affected by decisions—made it
@@ -229,7 +229,7 @@ By the early 1920s, leading Bolsheviks openly defended what *State and
 Revolution* had supposedly opposed. Lenin argued that "revolutionary
 coercion is bound to be employed towards the wavering and unstable
 elements among the masses themselves."[^24]
-"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
+<a href="Leon_Trotsky" class="wikilink" title="Leon Trotsky">Leon
 Trotsky</a> declared that the party was "obliged to maintain its
 dictatorship, regardless of temporary wavering even in the working
 classes" because it was "entitled to assert its dictatorship even if
@@ -247,7 +247,7 @@ Party."[^27]
 
 ## The Makhnovist Alternative
 
-Anarchists pointed to the "<a   href="Nestor_Makhno.md" class="wikilink"
+Anarchists pointed to the <a href="Nestor_Makhno" class="wikilink"
 title="Makhnovist movement">Makhnovist movement</a> in Ukraine as
 demonstrating that alternatives were possible under the same difficult
 conditions. The Makhnovists "promoted workers' and peasants' control.
@@ -270,7 +270,7 @@ those at the highest levels of the State."[^29] Lenin's privileging of
 centralization, his faith in bourgeois technology and management, his
 reduction of socialism to state ownership, and his concept of the party
 as bearer of consciousness all shaped Bolshevik practice. As
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+<a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
 Goldman</a> concluded after witnessing the results, "the Russian
 Revolution shows that it was not a case of the State and Revolution but
 rather the State or Revolution."[^30]
@@ -295,17 +295,17 @@ reproduce class domination regardless of their proclaimed purposes.[^32]
 
 <references />
 
-"<a   href="Category:Marxist_Leninism.md" class="wikilink"
+<a href="Category:Marxist_Leninism" class="wikilink"
 title="Category:Marxist Leninism">Category:Marxist Leninism</a>
-"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
-Concepts</a> "<a   href="Category:Concepts.md" class="wikilink"
+Concepts</a> <a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: The State or Revolution, anarchist response to Lenin

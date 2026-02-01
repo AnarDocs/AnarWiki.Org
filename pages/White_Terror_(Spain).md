@@ -1,38 +1,38 @@
 *Not to be confused with the White Terrors in
-"<a   href="White_Terror_(France).md" class="wikilink"
+<a href="White_Terror_(France)" class="wikilink"
 title="France">France</a>,
-"<a   href="White_Terror_(Bulgaria).md" class="wikilink"
+<a href="White_Terror_(Bulgaria)" class="wikilink"
 title="Bulgaria">Bulgaria</a>,
-"<a   href="White_Terror_(Russia).md" class="wikilink"
+<a href="White_Terror_(Russia)" class="wikilink"
 title="Russia">Russia</a>,
-"<a   href="White_Terror_(Hungary).md" class="wikilink"
+<a href="White_Terror_(Hungary)" class="wikilink"
 title="Hungary">Hungary</a>,
-"<a   href="White_Terror_(China).md" class="wikilink" title="China">China</a>,
-"<a   href="White_Terror_(Taiwan).md" class="wikilink"
+<a href="White_Terror_(China)" class="wikilink" title="China">China</a>,
+<a href="White_Terror_(Taiwan)" class="wikilink"
 title="Taiwan">Taiwan</a>,
-"<a   href="White_Terror_(Finland).md" class="wikilink"
+<a href="White_Terror_(Finland)" class="wikilink"
 title="Finland">Finland</a> and
-"<a   href="White_Terror_(Greece).md" class="wikilink"
+<a href="White_Terror_(Greece)" class="wikilink"
 title="Greece">Greece</a>.*
 
 *Content Warning: This article contains extensive discussion of mass
 murder, rape and child abuse*
 
 The **White Terror** or **Francoist Repression** was a
-"<a   href="White_Terror.md" class="wikilink" title="white terror">white
+<a href="White_Terror" class="wikilink" title="white terror">white
 terror</a> by the Nationalist Faction in the
-"<a   href="Spanish_Civil_War.md" class="wikilink"
+<a href="Spanish_Civil_War" class="wikilink"
 title="Spanish Civil War">Spanish Civil War</a> and the
-"<a   href="Franco_Dictatorship.md" class="wikilink"
+<a href="Franco_Dictatorship" class="wikilink"
 title="dictatorship in Spain">dictatorship in Spain</a> against
 political opponents. Including republicans,
-"<a   href="Anti-Fascism.md" class="wikilink"
+<a href="Anti-Fascism" class="wikilink"
 title="anti-fascists">anti-fascists</a>, socialists,
-"<a   href="Anarchism.md" class="wikilink" title="anarchists">anarchists</a>,
+<a href="Anarchism" class="wikilink" title="anarchists">anarchists</a>,
 protestants, freemasons, intellectuals, and nationalists who supported
 an independent Galicia, Catalonia and Basque Country. Between 58,000 and
 200,000 were killed during the repression. It is frequently compared to
-and contrasted with the "<a   href="Red_Terror_(Spain).md" class="wikilink"
+and contrasted with the <a href="Red_Terror_(Spain)" class="wikilink"
 title="Spanish Red Terror">Spanish Red Terror</a>, which as death
 estimates of between 38,000 to 115,000 people.
 
@@ -41,7 +41,7 @@ estimates of between 38,000 to 115,000 people.
 ## After the War
 
 When Heinrich Himmler (the main architect of the
-"<a   href="Holocaust.md" class="wikilink" title="Holocaust">Holocaust</a>)
+<a href="Holocaust" class="wikilink" title="Holocaust">Holocaust</a>)
 visited Spain in 1940, a year after Franco's victory, he claimed to have
 been "shocked" by the brutality of the Falangist repression. In July
 1939, the foreign minister of Fascist Italy, Galeazzo Ciano, reported of
@@ -52,7 +52,7 @@ summary... There are still a great number of . In Madrid alone, between
 ### Anti-Feminism
 
 Women's and LGBT rights were lost in the new regime as
-"<a   href="patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>
+<a href="patriarchy" class="wikilink" title="patriarchy">patriarchy</a>
 was violently enforced. Around 5,000 gay people were arrested and
 executed in concentration camps. Divorces were made illegal and divorced
 couples were forced by the state to remarry. Women now needed the
@@ -124,13 +124,13 @@ Francoist crimes estimate 50,000 dissidents. were executed under the
 dictatorship. Political parties and trade unions were forbidden except
 for the government party. Hundreds of militants and supporters of the
 parties and trade unions declared illegal under Francoist Spain, such as
-the "<a   href="Spanish_Socialist_Workers&#39;_Party.md" class="wikilink"
+the <a href="Spanish_Socialist_Workers&#39;_Party" class="wikilink"
 title="Spanish Socialist Workers&#39; Party">Spanish Socialist Workers'
-Party</a>, "<a   href="Communist_Party_of_Spain.md" class="wikilink"
+Party</a>, <a href="Communist_Party_of_Spain" class="wikilink"
 title="Communist Party of Spain">Communist Party of Spain</a>,
-"<a   href="Workers&#39;_General_Union_(Spain).md" class="wikilink"
+<a href="Workers&#39;_General_Union_(Spain)" class="wikilink"
 title="Workers&#39; General Union">Workers' General Union</a> and the
-"<a   href="National_Confederation_of_Labour_(Spain).md" class="wikilink"
+<a href="National_Confederation_of_Labour_(Spain)" class="wikilink"
 title="National Confederation of Labour">National Confederation of
 Labour</a> were imprisoned or executed. Other Iberian languages,
 including but not limited to Basque, Catalan, Galician, Asturleonese and
@@ -139,31 +139,31 @@ of Catalonia and the Basque Country were abolished.
 
 ## References
 
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+<a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
 [White Terror
 (Spain)](https://en.wikipedia.org/wiki/White_Terror_(Spain))
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:White_Terrors.md" class="wikilink"
+<a href="Category:White_Terrors" class="wikilink"
 title="Category:White Terrors">Category:White Terrors</a>
-"<a   href="Category:Spain.md" class="wikilink"
+<a href="Category:Spain" class="wikilink"
 title="Category:Spain">Category:Spain</a>
-"<a   href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-"<a   href="Category:Southern_Europe.md" class="wikilink"
+<a href="Category:Southern_Europe" class="wikilink"
 title="Category:Southern Europe">Category:Southern Europe</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-"<a   href="Category:Crimes_Against_Humanity.md" class="wikilink"
+<a href="Category:Crimes_Against_Humanity" class="wikilink"
 title="Category:Crimes Against Humanity">Category:Crimes Against
-Humanity</a> "<a   href="Category:1930s.md" class="wikilink"
+Humanity</a> <a href="Category:1930s" class="wikilink"
 title="Category:1930s">Category:1930s</a>
-"<a   href="Category:1940s.md" class="wikilink"
+<a href="Category:1940s" class="wikilink"
 title="Category:1940s">Category:1940s</a>
-"<a   href="Category:1950s.md" class="wikilink"
+<a href="Category:1950s" class="wikilink"
 title="Category:1950s">Category:1950s</a>
-"<a   href="Category:1960s.md" class="wikilink"
+<a href="Category:1960s" class="wikilink"
 title="Category:1960s">Category:1960s</a>
-"<a   href="Category:1970s.md" class="wikilink"
+<a href="Category:1970s" class="wikilink"
 title="Category:1970s">Category:1970s</a>

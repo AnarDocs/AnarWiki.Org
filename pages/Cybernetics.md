@@ -3,8 +3,8 @@
 ## Overview
 
 **Anarchist Cybernetics** is a theoretical framework connecting
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
-with "<a   href="cybernetics.md" class="wikilink"
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+with <a href="cybernetics.md" class="wikilink"
 title="cybernetics">cybernetics</a>, the science of self-organization,
 control, and communication in systems. The approach demonstrates how
 anarchist principles of decentralization, autonomy, and
@@ -30,7 +30,7 @@ communities while maintaining principles of autonomy and mutual aid.
 
 The term "cybernetics" derives from the ancient Greek word *kybernetes*
 (κυβερνήτης), meaning the act of steering a ship. The philosopher
-"<a   href="Plato.md" class="wikilink" title="Plato">Plato</a> used this term
+<a href="Plato.md" class="wikilink" title="Plato">Plato</a> used this term
 in the Fourth Century BCE to compare steering a ship to governing a
 city-state. The same root gives us the modern word "govern" (from Latin
 *gubernare*).[^3]
@@ -44,16 +44,16 @@ mechanical, electrical, biological, and social systems.[^4]
 
 The explicit connection between anarchism and cybernetics first appeared
 in 1963 in the pages of *Anarchy*, a journal edited by
-"<a   href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
+<a href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
 and published by
-"<a   href="Freedom_Press.md" class="wikilink" title="Freedom Press">Freedom
+<a href="Freedom_Press.md" class="wikilink" title="Freedom Press">Freedom
 Press</a> between 1961 and 1970.
 
-"<a   href="William_Grey_Walter.md" class="wikilink"
+<a href="William_Grey_Walter.md" class="wikilink"
 title="William Grey Walter">William Grey Walter</a>, a neurophysiologist
 and pioneering cyberneticist, wrote an article titled "The Development
 and Significance of Cybernetics" for *Anarchy* in 1963. Walter was the
-father of "<a   href="Nicholas_Walter.md" class="wikilink"
+father of <a href="Nicholas_Walter.md" class="wikilink"
 title="Nicholas Walter">Nicholas Walter</a>, a frequent contributor to
 the *Freedom* newspaper and close associate of Colin Ward. Grey Walter
 had been "a communist fellow-traveler before the Second World War and an
@@ -93,7 +93,7 @@ McEwan challenged the "governmentalist" assumption that control required
 "a fixed isolatable control unit to which the rest of the system is
 subservient," proposing instead that effective control emerges through
 autonomous coordination. He drew connections between
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>'s understanding of natural harmony and cybernetic
 principles, noting how Kropotkin described anarchist society as one that
 "looks for harmony in an ever-changing and fugitive equilibrium between
@@ -103,7 +103,7 @@ their own course."[^10]
 ### Colin Ward's Synthesis
 
 In his 1966 essay "Anarchism as a Theory of Organization,"
-"<a   href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
+<a href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
 synthesized these ideas, writing that "cybernetic theory with its
 emphasis on self-organising systems, and speculation about the ultimate
 social effects of automation, leads in a similar revolutionary
@@ -188,7 +188,7 @@ rather than compliance with higher authority.[^16]
 ### Soviet Cybernetics and OGAS
 
 During the Soviet era, mathematician
-"<a   href="Victor_Glushkov.md" class="wikilink"
+<a href="Victor_Glushkov.md" class="wikilink"
 title="Victor Glushkov">Victor Glushkov</a> developed a grand plan to
 replace centralized economic planning with a decentralized autonomous
 computational network called **OGAS** (All States Automated System).
@@ -219,10 +219,10 @@ institutes and tens of thousands of researchers.[^20]
 ### Project Cybersyn in Chile
 
 The most developed historical experiment in cybernetic socialism
-occurred in "<a   href="Salvador_Allende.md" class="wikilink"
+occurred in <a href="Salvador_Allende.md" class="wikilink"
 title="Salvador Allende">Salvador Allende</a>'s Chile. In 1971, the
 Allende government contacted British cyberneticist
-"<a   href="Stafford_Beer.md" class="wikilink" title="Stafford Beer">Stafford
+<a href="Stafford_Beer.md" class="wikilink" title="Stafford Beer">Stafford
 Beer</a> to implement a distributed decision support system for managing
 the national economy while respecting worker autonomy and avoiding
 top-down control.[^21]
@@ -374,10 +374,10 @@ allocation and organizational development.[^38]
 
 ### Mutual Aid Networks
 
-The "<a   href="coronavirus_pandemic.md" class="wikilink"
+The <a href="coronavirus_pandemic.md" class="wikilink"
 title="coronavirus pandemic">coronavirus pandemic</a> of 2020 saw
 thousands of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 groups form across the UK and internationally, demonstrating anarchist
 principles in practice. The COVID-19 pandemic demonstrated cybernetic
 principles in action through spontaneous mutual aid networks.[^39]
@@ -400,7 +400,7 @@ structural hierarchy but remains open to democratic participation.[^40]
 
 ### Occupy Wall Street
 
-"<a   href="Occupy_Wall_Street.md" class="wikilink"
+<a href="Occupy_Wall_Street.md" class="wikilink"
 title="Occupy Wall Street">Occupy Wall Street</a> demonstrated anarchist
 cybernetics in practice. Working groups had autonomy, coordinated
 through formal and informal communication, while being bound by
@@ -471,10 +471,10 @@ communism but vulnerable to market-driven dynamics.[^47]
 ### Related Developments
 
 Other anarchist thinkers have engaged with cybernetics over the years.
-"<a   href="Murray_Bookchin.md" class="wikilink"
+<a href="Murray_Bookchin.md" class="wikilink"
 title="Murray Bookchin">Murray Bookchin</a> referenced cybernetics
 primarily regarding high technology.
-"<a   href="Ruth_Kinna.md" class="wikilink" title="Ruth Kinna">Ruth Kinna</a>
+<a href="Ruth_Kinna.md" class="wikilink" title="Ruth Kinna">Ruth Kinna</a>
 discussed it in *Anarchism: A Beginner's Guide* (2005). In the
 Netherlands, philosopher Marius de Geus explored it at length in a 1989
 book, as did Provo activist Roel van Duijn in *Message of a Wise
@@ -577,27 +577,27 @@ maximize both individual agency and collective capacity.
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Organizational_Theory.md" class="wikilink"
+Socialism</a> <a href="Category:Organizational_Theory.md" class="wikilink"
 title="Category:Organizational Theory">Category:Organizational
-Theory</a> "<a   href="Category:Self-Organization.md" class="wikilink"
+Theory</a> <a href="Category:Self-Organization.md" class="wikilink"
 title="Category:Self-Organization">Category:Self-Organization</a>
-"<a   href="Category:Cybernetics.md" class="wikilink"
+<a href="Category:Cybernetics.md" class="wikilink"
 title="Category:Cybernetics">Category:Cybernetics</a>
-"<a   href="Category:Anarchist_Theory.md" class="wikilink"
+<a href="Category:Anarchist_Theory.md" class="wikilink"
 title="Category:Anarchist Theory">Category:Anarchist Theory</a>
-"<a   href="Category:Anarchist_Economics.md" class="wikilink"
+<a href="Category:Anarchist_Economics.md" class="wikilink"
 title="Category:Anarchist Economics">Category:Anarchist Economics</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist

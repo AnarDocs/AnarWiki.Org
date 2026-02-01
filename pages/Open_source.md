@@ -1,5 +1,5 @@
 From Peter Gelderloos,
-"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+<a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > `Consider the recent proliferation of “Open Source” technology. Decentralized networks involving thousands of people working openly, voluntarily, and cooperatively have created some of the better forms of the complicated software on which the Information Age economy depends. The usual approach of major corporations is to keep the source, or code, for their software secret and patented, but Open Source software code is shared, so anyone can review it and improve it. As a result it is often much better, and generally easier to fix. Traditional patented software is more vulnerable to crashing and to viruses, because a smaller pool of brains are able to check for weaknesses, and very few specialists are available to fix problems. Those technical support people you call on the phone when your computer operating system crashes don’t get to see the code either, and beyond a little troubleshooting all they can do is direct you to a cumbersome “patch,” or advise you to erase your hard drive and reinstall the operating system. Users of Microsoft products, for example, are no doubt familiar with their frequent glitches, and privacy advocates also warn of spyware and the cooperation between technology corporations and the government. Says one anti-authoritarian geek involved in the creation of Open Source software: “The best advertisement for Linux is Microsoft.”`
@@ -46,7 +46,7 @@ Works</a>:
 [List of free and open software recommendations from Get
 Libre](http://www.getlibre.org/wiki/index.php?title=Libre_Recommendations).
 
-"<a   href="Category:Open_Source.md" class="wikilink"
+<a href="Category:Open_Source.md" class="wikilink"
 title="Category:Open Source">Category:Open Source</a>
 
 [^1]: “Wikipedia survives research test,” BBC News 15 December 2005

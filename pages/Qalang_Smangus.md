@@ -4,15 +4,15 @@
 
 **Qalang Smangus** (Atayal: Qalang Smangus; Chinese: 司馬庫斯部落, Sīmǎ
 kù sī) is an
-"<a   href="Atayal_people.md" class="wikilink" title="Atayal">Atayal</a>
+<a href="Atayal_people.md" class="wikilink" title="Atayal">Atayal</a>
 indigenous community located in the mountains of Hsinchu County,
-"<a   href="Taiwan.md" class="wikilink" title="Taiwan">Taiwan</a>, at
+<a href="Taiwan.md" class="wikilink" title="Taiwan">Taiwan</a>, at
 approximately 1,500 metres above sea level. Since 2004, the community
-has operated as a "<a   href="Christian_anarchism.md" class="wikilink"
+has operated as a <a href="Christian_anarchism.md" class="wikilink"
 title="Christian anarchist">Christian anarchist</a> collective,
 organizing its economy and social structures around principles derived
 from the early Christian church described in the
-"<a   href="New_Testament.md" class="wikilink" title="New Testament">New
+<a href="New_Testament.md" class="wikilink" title="New Testament">New
 Testament</a> Book of Acts.[^1]
 
 The community of approximately 130-135 residents belongs to the Tayal
@@ -40,12 +40,12 @@ production.[^4]
 ### Christianization
 
 In 1951, members of another Atayal tribe who had converted to
-"<a   href="Christianity.md" class="wikilink"
+<a href="Christianity.md" class="wikilink"
 title="Christianity">Christianity</a> traveled for days to reach Smangus
 to share their faith. The village quickly converted, finding resonance
 between Christian theology and traditional Atayal beliefs in a heavenly
 deity.[^5] The community became part of the
-"<a   href="Presbyterian.md" class="wikilink"
+<a href="Presbyterian.md" class="wikilink"
 title="Presbyterian">Presbyterian</a> church tradition. Today,
 approximately 90 percent of Atayal people identify as at least nominally
 Christian.
@@ -53,8 +53,8 @@ Christian.
 The adoption of Christianity by Taiwan's indigenous peoples, including
 the Atayal, occurred primarily after 1945 when Han Chinese Christians
 fled from mainland China to Taiwan following the
-"<a   href="Communist.md" class="wikilink" title="Communist">Communist</a>
-victory in the "<a   href="Chinese_Civil_War.md" class="wikilink"
+<a href="Communist.md" class="wikilink" title="Communist">Communist</a>
+victory in the <a href="Chinese_Civil_War.md" class="wikilink"
 title="Chinese Civil War">Chinese Civil War</a>. Indigenous communities
 appropriated Christianity as a means of cultural differentiation and
 resistance to assimilation into Han Chinese culture.[^6]
@@ -211,7 +211,7 @@ families have at least three children.[^27]
 ## Anarchist Character
 
 Scholars have characterized Smangus as representing a form of
-"<a   href="Christian_anarchism.md" class="wikilink"
+<a href="Christian_anarchism.md" class="wikilink"
 title="Christian anarchism">Christian anarchism</a> based on its
 organizational principles. The community's structure draws explicitly
 from Biblical descriptions of early Christian communities that practiced
@@ -219,11 +219,11 @@ common ownership of property and egalitarian distribution of resources.
 Professor Lisa Kemmerer notes that the Book of Acts portrays early
 Christian communities as communal, comparable to ideal anarchist
 communities described by theorists such as
-"<a   href="Alexander_Berkman.md" class="wikilink"
+<a href="Alexander_Berkman.md" class="wikilink"
 title="Alexander Berkman">Alexander Berkman</a>,
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>, and
-"<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
+<a href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
 Chomsky</a>.[^28]
 
 Peter Marshall, in his history of anarchism, observes that the account
@@ -275,25 +275,25 @@ external threats may limit direct transferability of its model.[^32]
 - [Indigenous Christian anarchism in Taiwan
   \#1](https://youtu.be/7zRoJuVnnhs), Veritas et Caritas, 2020
 
-"<a   href="Category:Atayal.md" class="wikilink"
+<a href="Category:Atayal.md" class="wikilink"
 title="Category:Atayal">Category:Atayal</a>
-"<a   href="Category:Anarchist_Communities.md" class="wikilink"
+<a href="Category:Anarchist_Communities.md" class="wikilink"
 title="Category:Anarchist Communities">Category:Anarchist
-Communities</a> "<a   href="Category:Christian_Anarchism.md" class="wikilink"
+Communities</a> <a href="Category:Christian_Anarchism.md" class="wikilink"
 title="Category:Christian Anarchism">Category:Christian Anarchism</a>
-"<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Current_Anarchist_Societies.md" class="wikilink"
 title="Category:Current Anarchist Societies">Category:Current Anarchist
-Societies</a> "<a   href="Category:Taiwan.md" class="wikilink"
+Societies</a> <a href="Category:Taiwan.md" class="wikilink"
 title="Category:Taiwan">Category:Taiwan</a>
-"<a   href="Category:Indigenous_Anarchism.md" class="wikilink"
+<a href="Category:Indigenous_Anarchism.md" class="wikilink"
 title="Category:Indigenous Anarchism">Category:Indigenous Anarchism</a>
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:21st_Century.md" class="wikilink"
+Communities</a> <a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Jon Burke, "Qalang Smangus: Successful Aboriginal Christian

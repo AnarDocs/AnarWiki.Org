@@ -12,10 +12,10 @@ Stephens[^1] and [^2]
 "Cartography of Revolutionary Anarchism" presents a comprehensive
 analysis of anarchist history and theory, arguing that revolutionary
 anarchism has provided a profound critique of
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
-"<a   href="landlordism.md" class="wikilink"
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
+<a href="landlordism.md" class="wikilink"
 title="landlordism">landlordism</a>, the
-"<a   href="state.md" class="wikilink" title="state">state</a>, and power
+<a href="state.md" class="wikilink" title="state">state</a>, and power
 relations based on gender or race. The book contends that anarchism
 offers practical tools for the oppressed to challenge elites and has
 significantly shaped class struggle, contributing to fundamental aspects
@@ -26,15 +26,15 @@ concrete projects to dissolve centralist, hierarchical power and replace
 it with devolved, free-associative, horizontally federated structures.
 This counter-power serves as both a training ground for revolutionary
 practice and the nucleus of a future, radically
-"<a   href="egalitarian.md" class="wikilink"
+<a href="egalitarian.md" class="wikilink"
 title="egalitarian">egalitarian</a> society.
 
 The book argues that anarchism emerged as a modern, internationalist,
 revolutionary socialist, and militant current within organised
-"<a   href="trade_unions.md" class="wikilink" title="trade unions">trade
+<a href="trade_unions.md" class="wikilink" title="trade unions">trade
 unions</a>, promoting "socialism-from-below" in contrast to what it
 describes as classical
-"<a   href="Marxism.md" class="wikilink" title="Marxism">Marxism</a>'s
+<a href="Marxism.md" class="wikilink" title="Marxism">Marxism</a>'s
 "socialism-from-above." It criticises Marxist regimes as historically
 authoritarian dictatorships.
 
@@ -64,24 +64,24 @@ conjunction with objective conditions for the organised popular classes:
 ### First Wave (1868–1894): The Rise of the Broad Anarchist/Syndicalist Movement
 
 This wave saw the emergence of a distinct anarchist current within the
-"<a   href="First_International.md" class="wikilink"
+<a href="First_International.md" class="wikilink"
 title="First International">First International</a>, heavily influenced
-by "<a   href="Mikhail_Bakunin.md" class="wikilink"
+by <a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a>. Significant anarcho- and
 revolutionary syndicalist organisations arose in Spain, Mexico, Uruguay,
 Cuba, and the US, often eclipsing Marxist groups in size. The period
 included experiences like the
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
+<a href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
 Commune</a> and Spain's Cantonalist Revolt, which informed future
 large-scale anarchist revolutionary projects.
 
 ### Second Wave (1895–1923): Consolidation of Syndicalism and Specific Anarchist Organisation
 
 Driven by capitalist expansion, this wave saw
-"<a   href="anarcho-syndicalism.md" class="wikilink"
+<a href="anarcho-syndicalism.md" class="wikilink"
 title="anarcho-syndicalism">anarcho-syndicalism</a> emerge explicitly in
 Latin America and revolutionary syndicalism in the English-speaking
-world. The "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+world. The <a href="Industrial_Workers_of_the_World.md" class="wikilink"
 title="Industrial Workers of the World">Industrial Workers of the
 World</a> (IWW), formed in 1905 in the US, organised the poorest and
 most marginal workers across racial lines. Anarchism gained traction in
@@ -90,12 +90,12 @@ Japan, China, and Korea.
 The 1907 International Anarchist Congress in Amsterdam solidified the
 view that anarchy and organisation are complementary, leading to the
 formation of specific anarchist political organisations. The
-"<a   href="Mexican_Revolution.md" class="wikilink"
+<a href="Mexican_Revolution.md" class="wikilink"
 title="Mexican Revolution">Mexican Revolution</a> (1910) provided a
 blueprint for how specific anarchist organisations, syndicalist unions,
 and armed worker-peasant militias could operate together. The
 culmination was the formation of the
-"<a   href="International_Workers&#39;_Association.md" class="wikilink"
+<a href="International_Workers&#39;_Association.md" class="wikilink"
 title="International Workers&#39; Association">International Workers'
 Association</a> (IWA) in 1922, representing 1.5 to 2 million
 revolutionary workers globally.
@@ -104,18 +104,18 @@ revolutionary workers globally.
 
 This period saw anarchism challenged by Fascism and Bolshevism.
 Following defeat in Russia,
-"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
+<a href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
 Makhno</a> and
-"<a   href="Pyotr_Arshinov.md" class="wikilink" title="Pyotr Arshinov">Pyotr
+<a href="Pyotr_Arshinov.md" class="wikilink" title="Pyotr Arshinov">Pyotr
 Arshinov</a> published the
-"<a   href="Organisational_Platform.md" class="wikilink"
+<a href="Organisational_Platform.md" class="wikilink"
 title="Organisational Platform">Organisational Platform</a> of the
 General Union of Anarchists (1926), calling for tight internal
 discipline, unity of ideas and tactics, and dual organisationism.
 
-During the "<a   href="Spanish_Revolution.md" class="wikilink"
+During the <a href="Spanish_Revolution.md" class="wikilink"
 title="Spanish Revolution">Spanish Revolution</a>, the
-"<a   href="Friends_of_Durruti.md" class="wikilink"
+<a href="Friends_of_Durruti.md" class="wikilink"
 title="Friends of Durruti">Friends of Durruti</a> issued "Towards a
 Fresh Revolution" (1938), advocating for a "revolutionary junta" to
 maintain the revolutionary character of the war. Key revolutions
@@ -126,27 +126,27 @@ demonstrating anarchist influence include the Manchurian Revolution
 ### Fourth Wave (1950–1989): Rearguard Actions in the Shadow of the Cold War
 
 Often perceived as a low point, the book argues that anarchism still
-played a key role in the "<a   href="Cuban_Revolution.md" class="wikilink"
+played a key role in the <a href="Cuban_Revolution.md" class="wikilink"
 title="Cuban Revolution">Cuban Revolution</a> within both underground
 and official labour movements before Castro's authoritarian shift. The
 founding of the influential
-"<a   href="Uruguayan_Anarchist_Federation.md" class="wikilink"
+<a href="Uruguayan_Anarchist_Federation.md" class="wikilink"
 title="Uruguayan Anarchist Federation">Uruguayan Anarchist
 Federation</a> (FAU) in 1956 spurred significant organisational growth
 in Latin America.
 
-"<a   href="George_Fontenis.md" class="wikilink"
+<a href="George_Fontenis.md" class="wikilink"
 title="George Fontenis">George Fontenis</a>'s Manifesto of Libertarian
 Communism (1953) advocated for a disciplined "vanguard" whose role was
 to develop the masses' political responsibility. This approach became
-known as "<a   href="especifismo.md" class="wikilink"
+known as <a href="especifismo.md" class="wikilink"
 title="especifismo">especifismo</a> in Latin America.
 
 ### Fifth Wave (1990–Today): The Anarchist Movement's Resurgence
 
 The collapse of the Soviet Union led to a surge of anarchist movements
 across Eastern Europe and Central Asia. The
-"<a   href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
+<a href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
 Revolt in Chiapas (1994) provided a contemporary model of libertarian
 socialist administration and militia. The especifista response saw
 significant revival, particularly initiated by the rebuilt FAU in
@@ -176,7 +176,7 @@ organisational dualism:
   self-management of the masses within the mass organisations.
 
 This dual approach, rooted in Bakunin's ideas and elaborated through
-"<a   href="Platformism.md" class="wikilink"
+<a href="Platformism.md" class="wikilink"
 title="Platformism">Platformism</a> and especifismo, ensures both mass
 participation and strategic coherence in the revolutionary process.
 
@@ -219,15 +219,15 @@ following these revelations.
 
 <references/>
 
-"<a   href="Category:Anarchist_books.md" class="wikilink"
+<a href="Category:Anarchist_books.md" class="wikilink"
 title="Category:Anarchist books">Category:Anarchist books</a>
-"<a   href="Category:Books.md" class="wikilink"
+<a href="Category:Books.md" class="wikilink"
 title="Category:Books">Category:Books</a>
-"<a   href="Category:Controversial_Publications.md" class="wikilink"
+<a href="Category:Controversial_Publications.md" class="wikilink"
 title="Category:Controversial Publications">Category:Controversial
-Publications</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Publications</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: [About Schmidt: How a White Nationalist Seduced Anarchists Around

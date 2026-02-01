@@ -11,11 +11,11 @@ workers' demands.[^2]
 
 <references/>
 
-"<a   href="Category:Strikes.md" class="wikilink"
+<a href="Category:Strikes.md" class="wikilink"
 title="Category:Strikes">Category:Strikes</a>
-"<a   href="Category:Anarcho-Syndicalism.md" class="wikilink"
+<a href="Category:Anarcho-Syndicalism.md" class="wikilink"
 title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century.md" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
 
 [^1]: Steven Hirsch, "Peruvian Anarcho-Syndicalism: Adapting

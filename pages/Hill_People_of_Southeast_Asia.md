@@ -1,1 +1,1 @@
-1.  REDIRECT "<a   href="Zomia.md" class="wikilink" title="Zomia">Zomia</a>
+1.  REDIRECT <a href="Zomia.md" class="wikilink" title="Zomia">Zomia</a>

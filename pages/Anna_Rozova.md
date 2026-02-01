@@ -1,5 +1,5 @@
 **Anna Semenovna Rozova** (1902 - 1968) was a Russian
-"<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>,
+<a href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>,
 active in the 1920s. She was arrested several times by Soviet
 authorities.
 
@@ -27,16 +27,16 @@ and by the late 1960s she was living in Ulyanovsk.
 
 ## See also
 
-- "<a   href="Anarchism_in_Russia.md" class="wikilink"
+- <a href="Anarchism_in_Russia.md" class="wikilink"
   title="Anarchism in Russia">Anarchism in Russia</a>
 
 ## References
 
 <https://libcom.org/article/rozova-rosova-anna-semenovna-1902-after-1968>
 
-"<a   href="Category:Russian_anarchists.md" class="wikilink"
+<a href="Category:Russian_anarchists.md" class="wikilink"
 title="Category:Russian anarchists">Category:Russian anarchists</a>
-"<a   href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists.md" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-"<a   href="Category:Anarchist_Women.md" class="wikilink"
+<a href="Category:Anarchist_Women.md" class="wikilink"
 title="Category:Anarchist Women">Category:Anarchist Women</a>

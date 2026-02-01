@@ -1,11 +1,11 @@
 The **Chinese Golf Factory Strike of 2014** or the **Chinese Golf
 Factory Workers Strike for Essential Rights**was a
-"<a   href="List_of_Strikes.md" class="wikilink" title="strike">strike</a> of
-"<a   href="golf.md" class="wikilink" title="golf">golf</a>
-"<a   href="factory.md" class="wikilink" title="factory">factory</a> workers
+<a href="List_of_Strikes" class="wikilink" title="strike">strike</a> of
+<a href="golf" class="wikilink" title="golf">golf</a>
+<a href="factory" class="wikilink" title="factory">factory</a> workers
 in Shenzhen, Southern
-"<a   href="China.md" class="wikilink" title="China">China</a> in
-"<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
+<a href="China" class="wikilink" title="China">China</a> in
+<a href="Timeline_of_Anarchism_in_Eastern_Asia" class="wikilink"
 title="2014">2014</a>.
 
 ## Background

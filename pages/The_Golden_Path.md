@@ -17,16 +17,16 @@ of immeasurable value, regardless of ability. With a *day/moment* by
 of now, with an eye on simplifying the process for tomorrow.
 
 This page is part of the
-"<a   href="The_Golden_Path.md" class="wikilink" title="TGP">TGP</a> project
+<a href="The_Golden_Path" class="wikilink" title="TGP">TGP</a> project
 and is manually sync'ed with
 [GitHub](https://github.com/AnarchyInAction/TheGoldenPath).
 Contributions and Discussion is welcome.
 
-"<a   href="Culture.md" class="wikilink" title="Culture">Culture</a>: Staging
+<a href="Culture" class="wikilink" title="Culture">Culture</a>: Staging
 area for data, media, projects, cooperatives, groups and other aligned
 resources that will be integrated into the application.
 
-"<a   href="Roadmap.md" class="wikilink" title="Roadmap">Roadmap</a>: Planning
+<a href="Roadmap" class="wikilink" title="Roadmap">Roadmap</a>: Planning
 area for application design and development. As this section develops
 you will see a wireframe for the application as well as all backed/UI
 development efforts.

@@ -13,7 +13,7 @@ Anarcho-communist economics emerged in the 1870s as a synthesis of
 anarchist political theory with communist economic principles. The model
 developed as a response to both capitalist exploitation and the
 authoritarian tendencies of state socialism. Key theorists like
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> argued that human cooperation, rather than competition,
 was the driving force of evolution and social progress.
 
@@ -132,14 +132,14 @@ communities making collective decisions about sustainable practices.
 Several historical movements have implemented aspects of
 anarcho-communist economics:
 
-- The "<a   href="Makhnovshchina.md" class="wikilink"
+- The <a href="Makhnovshchina.md" class="wikilink"
   title="Makhnovshchina">Makhnovshchina</a> (1917-1922) in Ukraine
-- Collectives during the "<a   href="Spanish_Revolution.md" class="wikilink"
+- Collectives during the <a href="Spanish_Revolution.md" class="wikilink"
   title="Spanish Revolution">Spanish Revolution</a> (1936-1939)
 - Contemporary examples in the
-  "<a   href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
+  <a href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
   movement and
-  "<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a>
+  <a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a>
 
 These experiments demonstrate the viability of anarcho-communist
 principles, though most were ended by external military intervention
@@ -189,23 +189,23 @@ title="Anarcho-Communist_Economics_Diagram.png" />
 
 [^2] [^3]
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Economic_Systems.md" class="wikilink"
+<a href="Category:Economic_Systems.md" class="wikilink"
 title="Category:Economic Systems">Category:Economic Systems</a>
-"<a   href="Category:Anarcho-Communism.md" class="wikilink"
+<a href="Category:Anarcho-Communism.md" class="wikilink"
 title="Category:Anarcho-Communism">Category:Anarcho-Communism</a>
-"<a   href="Category:Post-Capitalist_Economics.md" class="wikilink"
+<a href="Category:Post-Capitalist_Economics.md" class="wikilink"
 title="Category:Post-Capitalist Economics">Category:Post-Capitalist
-Economics</a> "<a   href="Category:Alternative_Economics.md" class="wikilink"
+Economics</a> <a href="Category:Alternative_Economics.md" class="wikilink"
 title="Category:Alternative Economics">Category:Alternative
-Economics</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Economics</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Anarchist_Economics.md" class="wikilink"
+<a href="Category:Anarchist_Economics.md" class="wikilink"
 title="Category:Anarchist Economics">Category:Anarchist Economics</a>
-"<a   href="Category:Economics.md" class="wikilink"
+<a href="Category:Economics.md" class="wikilink"
 title="Category:Economics">Category:Economics</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: <https://transform-social.org/en/texts/economics_faq/>

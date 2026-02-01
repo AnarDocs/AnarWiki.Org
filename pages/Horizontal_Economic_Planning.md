@@ -2,16 +2,16 @@
 is is a type of economy in which the investment and allocation of
 resources and goods is done accordingly to an economy-wide plan built
 and coordinated through a distributed network of disparate economic
-agents (ie "<a   href="Democratic_Assembly.md" class="wikilink"
+agents (ie <a href="Democratic_Assembly.md" class="wikilink"
 title="community assemblies">community assemblies</a> and
-"<a   href="Confederation.md" class="wikilink"
+<a href="Confederation.md" class="wikilink"
 title="confederations">confederations</a>) production units
-("<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+(<a href="Workers&#39;_Self-Management.md" class="wikilink"
 title="self-managed workplaces">self-managed workplaces</a>). It,
 alongside the
-"<a   href="Gift_Economy.md" class="wikilink" title="gift economy">gift
+<a href="Gift_Economy.md" class="wikilink" title="gift economy">gift
 economy</a>, is a key theory in
-"<a   href="Anarcho-Communism.md" class="wikilink"
+<a href="Anarcho-Communism.md" class="wikilink"
 title="anarcho-communism">anarcho-communism</a>.
 
 ## Theory
@@ -25,14 +25,14 @@ the usage and efficiency of a resource. We will develop small working
 groups ('communal statistical commissions') that can record information
 from areas of production (like mines, factories, farms and workshops)
 and consumption (like warehouses and supermarkets) that can then be
-visualized in graphs and made "<a   href="Open-Source.md" class="wikilink"
+visualized in graphs and made <a href="Open-Source.md" class="wikilink"
 title="open-source">open-source</a>. Such as the number a kind of items
 consumed, all of which would have their own physical measurements
 available for anyone to look up. These groups would publish this
 information to be freely available to
-"<a   href="Democratic_Assembly.md" class="wikilink"
+<a href="Democratic_Assembly.md" class="wikilink"
 title="community assemblies">community assemblies</a> and
-"<a   href="Confederation.md" class="wikilink"
+<a href="Confederation.md" class="wikilink"
 title="federations">federations</a>.
 
 When in considering to work on a new project (such as a factory
@@ -59,10 +59,10 @@ Hence the economy would be a vast network of co-operating individuals
 and workplaces and the dispersed knowledge which exists within any
 society can be put to good effect (<strong>better</strong> effect than
 under
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
 because it does not hide social and ecological costs in the way market
 prices do and co-operation will eliminate the
-"<a   href="Business_Cycle.md" class="wikilink"
+<a href="Business_Cycle.md" class="wikilink"
 title="business cycle">business cycle</a> and its resulting social
 problems).
 
@@ -702,7 +702,7 @@ It is often claimed that with a market producers would ignore the needs
 of consumers. Without the threat (and fear) of unemployment and
 destitution and the promise of higher profits, producers would turn out
 shoddy goods. The holders of this argument point to the example of the
-"<a   href="Soviet_Union.md" class="wikilink" title="Soviet Union">Soviet
+<a href="Soviet_Union.md" class="wikilink" title="Soviet Union">Soviet
 Union</a> which was notorious for terrible goods and a lack of consumer
 goods.
 
@@ -718,7 +718,7 @@ it). Ignoring the obvious objection to this analogy (namely we are human
 beings, **not** donkeys!) it does have contain an important point. What
 will ensure that consumer needs are meet in an anarchist society?
 
-In an "<a   href="Individualist-Mutualist.md" class="wikilink"
+In an <a href="Individualist-Mutualist.md" class="wikilink"
 title="Individualist-Mutualist">Individualist-Mutualist</a> anarchist
 system, as it is based on a market, producers would be subject to market
 forces and so have to meet consumers needs. Of course, there are three
@@ -741,7 +741,7 @@ Moreover, the successful could hire "protection agencies" (i.e. thugs)
 to enforce capitalist ideas of property rights.
 
 This problem was recognised by
-"<a   href="Proudhon.md" class="wikilink" title="Proudhon">Proudhon</a>, who
+<a href="Proudhon.md" class="wikilink" title="Proudhon">Proudhon</a>, who
 argued for an agro-industrial federation to protect self-management from
 the effects of market forces, as well as the collectivist-anarchists. In
 both these schemes, self-management would be protected by agreements
@@ -750,14 +750,14 @@ the confederation, so ensuring that new workers would gain access to the
 means of life on the same terms as those who already use it. In this way
 wage-labour would be abolished. In addition, the confederation of
 workplaces would practice
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 and provide resources and credit at cost to their members, so protecting
 firms from failure while they adjust their production to meet consumer
 needs.
 
 In both these systems producers would be accountable to consumers by the
 process of buying and selling between co-operatives. As
-"<a   href="James_Guillaume.md" class="wikilink" title="James Guillaume">James
+<a href="James_Guillaume.md" class="wikilink" title="James Guillaume">James
 Guillaume</a> put it, the workers' associations would "deposit their
 unconsumed commodities in the facilities provided by the \[communal\]
 Bank of Exchange ... The Bank of Exchange would remit to the producers
@@ -770,16 +770,16 @@ If the goods are not in demand then the producer associations would not
 be able to sell the product of their labour to the Bank of Exchange and
 so they would adjust their output accordingly. Overtime Guillaume hopes
 that this system would evolve into
-"<a   href="free_communism.md" class="wikilink" title="free communism">free
+<a href="free_communism.md" class="wikilink" title="free communism">free
 communism</a> as production develops and continually meets demand.[^2]
 
 While mutualist and collectivist anarchists can argue that producers
 would respond to consumer needs otherwise they would not get an income,
-"<a   href="communist-anarchists.md" class="wikilink"
+<a href="communist-anarchists.md" class="wikilink"
 title="communist-anarchists">communist-anarchists</a> (as they seek a
 moneyless society) cannot argue their system would reward producers in
 this way. So what mechanism exists to ensure that "the wants of all"
-are, in fact, met? How does "<a   href="anarcho-communism.md" class="wikilink"
+are, in fact, met? How does <a href="anarcho-communism.md" class="wikilink"
 title="anarcho-communism">anarcho-communism</a> ensure that production
 becomes "the mere servant of consumption" and "mould itself on the wants
 of the consumer, not dictate to him conditions"?[^3]
@@ -845,7 +845,7 @@ decisions, but this is an aside).
 If the syndicate in question, after a certain number of complaints had
 been lodged against it, still did not change its ways, then it would
 suffer non-violent
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action.md" class="wikilink" title="direct action">direct
 action</a>. This would involve the boycotting of the syndicate and
 (perhaps) its local commune with products and investment, so resulting
 in the syndicate being excluded from the benefits of association. The
@@ -872,7 +872,7 @@ drive home the benefits of association as the expelled syndicate would
 have to survive on its own, subject to survival by selling the product
 of its labour and would soon return to the fold.
 
-"<a   href="Kropotkin.md" class="wikilink" title="Kropotkin">Kropotkin</a>
+<a href="Kropotkin.md" class="wikilink" title="Kropotkin">Kropotkin</a>
 argued in these terms over 100 years ago. It is worthwhile to quote him
 at length:
 
@@ -928,26 +928,26 @@ means of ensuring the accountability of production to consumption.
 
 ## See Also
 
-- "<a   href="Lucas_Aerospace_Plan.md" class="wikilink"
+- <a href="Lucas_Aerospace_Plan.md" class="wikilink"
   title="Lucas Aerospace Plan">Lucas Aerospace Plan</a>
 
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Anarchism.md" class="wikilink"
+Socialism</a> <a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Anarcho-Communism.md" class="wikilink"
+<a href="Category:Anarcho-Communism.md" class="wikilink"
 title="Category:Anarcho-Communism">Category:Anarcho-Communism</a>
-"<a   href="Category:Communalism.md" class="wikilink"
+<a href="Category:Communalism.md" class="wikilink"
 title="Category:Communalism">Category:Communalism</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Economics.md" class="wikilink"
+<a href="Category:Economics.md" class="wikilink"
 title="Category:Economics">Category:Economics</a>
-"<a   href="Category:Anarchist_Economics.md" class="wikilink"
+<a href="Category:Anarchist_Economics.md" class="wikilink"
 title="Category:Anarchist Economics">Category:Anarchist Economics</a>
-"<a   href="Category:Alternative_Economics.md" class="wikilink"
+<a href="Category:Alternative_Economics.md" class="wikilink"
 title="Category:Alternative Economics">Category:Alternative
-Economics</a> "<a   href="Category:Featured.md" class="wikilink"
+Economics</a> <a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Bakunin on Anarchism, pp. 366

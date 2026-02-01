@@ -110,22 +110,22 @@ respect and care we all deserve.
 
 ## See Also
 
-- "<a   href="Anarchist_Ethics.md" class="wikilink"
+- <a href="Anarchist_Ethics.md" class="wikilink"
   title="Anarchist Ethics">Anarchist Ethics</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- "<a   href="Hierarchy.md" class="wikilink" title="Hierarchy">Hierarchy</a>
-- "<a   href="Prefiguration.md" class="wikilink"
+- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Hierarchy.md" class="wikilink" title="Hierarchy">Hierarchy</a>
+- <a href="Prefiguration.md" class="wikilink"
   title="Prefiguration">Prefiguration</a>
-- "<a   href="Direct_Action.md" class="wikilink" title="Direct Action">Direct
+- <a href="Direct_Action.md" class="wikilink" title="Direct Action">Direct
   Action</a>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Ethics.md" class="wikilink"
+<a href="Category:Ethics.md" class="wikilink"
 title="Category:Ethics">Category:Ethics</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Introductions.md" class="wikilink"
+<a href="Category:Introductions.md" class="wikilink"
 title="Category:Introductions">Category:Introductions</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>

@@ -31,11 +31,11 @@ historian Maia Ramnath:
 
 <references/>
 
-"<a   href="Category:Direct_Action.md" class="wikilink"
+<a href="Category:Direct_Action.md" class="wikilink"
 title="Category:Direct Action">Category:Direct Action</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century.md" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-"<a   href="Category:Social_Movements.md" class="wikilink"
+<a href="Category:Social_Movements.md" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
 
 [^1]: Maia Ramnath, *Decolonizing Anarchism: An Anti-Authoritarian

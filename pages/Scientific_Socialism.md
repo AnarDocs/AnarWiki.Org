@@ -4,12 +4,12 @@
 
 **Scientific socialism** is a term that underwent a remarkable
 transformation in the 19th century. Originally coined by
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> in 1840 to
 describe a society organized by reason rather than authority[^1], it was
 later appropriated by
-"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a> and
-"<a   href="Friedrich_Engels.md" class="wikilink"
+<a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a> and
+<a href="Friedrich_Engels.md" class="wikilink"
 title="Friedrich Engels">Friedrich Engels</a> to describe their
 supposedly scientific approach to socialism.
 
@@ -54,7 +54,7 @@ revolution.
 ## The Anarchist Origins
 
 The term "scientific socialism" first appeared in Proudhon's 1840 work
-*"<a   href="What_is_Property?.md" class="wikilink"
+*<a href="What_is_Property?.md" class="wikilink"
 title="What is Property?">What is Property?</a>* where he envisioned
 society governed by reason rather than sheer will:
 
@@ -70,10 +70,10 @@ a path to freedom from arbitrary power.
 
 Marx and Engels appropriated this term while fundamentally altering its
 meaning. By 1880, Engels had redefined it in
-*"<a   href="Socialism:_Utopian_and_Scientific.md" class="wikilink"
+*<a href="Socialism:_Utopian_and_Scientific.md" class="wikilink"
 title="Socialism: Utopian and Scientific">Socialism: Utopian and
 Scientific</a>* to mean their particular theory of
-"<a   href="historical_materialism.md" class="wikilink"
+<a href="historical_materialism.md" class="wikilink"
 title="historical materialism">historical materialism</a> - the idea
 that economic conditions inevitably determine social development through
 predetermined stages culminating in communism.[^3]
@@ -87,14 +87,14 @@ them himself.[^5]
 
 ### Distinction from Utopian Socialism
 
-In the *"<a   href="Communist_Manifesto.md" class="wikilink"
+In the *<a href="Communist_Manifesto.md" class="wikilink"
 title="Communist Manifesto">Communist Manifesto</a>* (1848) and later in
 Engels' *Anti-Dühring* (1878), Marx and Engels argued that earlier
-socialists like "<a   href="Charles_Fourier.md" class="wikilink"
+socialists like <a href="Charles_Fourier.md" class="wikilink"
 title="Charles Fourier">Charles Fourier</a>,
-"<a   href="Henri_de_Saint-Simon.md" class="wikilink"
+<a href="Henri_de_Saint-Simon.md" class="wikilink"
 title="Henri de Saint-Simon">Henri de Saint-Simon</a>, and
-"<a   href="Robert_Owen.md" class="wikilink" title="Robert Owen">Robert
+<a href="Robert_Owen.md" class="wikilink" title="Robert Owen">Robert
 Owen</a>, while brilliant, could not understand the mechanisms of
 historical change because they worked before capitalism had fully
 developed and before the working class had emerged as a revolutionary
@@ -134,7 +134,7 @@ of the proletariat are equally inevitable."[^10]
 This deterministic view contradicts the scientific understanding that
 complex social systems are characterized by contingency, multiple
 pathways, and unpredictable emergent properties. As
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> argued, this inevitabilism is fundamentally authoritarian:
 "How can an oppressed class create a self-conscious and self-organized
 society through the automatic processes of history?"[^11]
@@ -197,10 +197,10 @@ authority.
 Numerous contemporary examples demonstrate human capacity for
 self-organization without authoritarian structures:
 
-- "<a   href="Worker_cooperatives.md" class="wikilink"
+- <a href="Worker_cooperatives.md" class="wikilink"
   title="Worker cooperatives">Worker cooperatives</a> managing complex
   industrial operations
-- "<a   href="Open_source_software.md" class="wikilink"
+- <a href="Open_source_software.md" class="wikilink"
   title="Open source software">Open source software</a> communities
   creating sophisticated technological systems
 - Indigenous societies maintaining sustainable resource management for
@@ -223,9 +223,9 @@ power as a tool of liberation.
 
 Despite their fundamental disagreements with Marxist scientism and
 statism, many anarchists, particularly in the
-"<a   href="Anarcho-Communism.md" class="wikilink"
+<a href="Anarcho-Communism.md" class="wikilink"
 title="anarchist-communist">anarchist-communist</a> and
-"<a   href="Anarcho-Syndicalism.md" class="wikilink"
+<a href="Anarcho-Syndicalism.md" class="wikilink"
 title="anarcho-syndicalist">anarcho-syndicalist</a> traditions, have
 accepted significant elements of Marx's economic analysis.
 
@@ -234,7 +234,7 @@ important insights: "If there is today a 'crisis of Marxism,' it cannot
 be in the 'analytic-scientific' side of Marx's prognosis of capitalist
 breakdown crisis."[^20]
 
-"<a   href="Errico_Malatesta.md" class="wikilink"
+<a href="Errico_Malatesta.md" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> noted that anarchists and
 socialists shared a common critique of the existing order regarding "the
 common ownership of the land and all means of production."[^21]
@@ -244,7 +244,7 @@ Anarchists generally agree with the Marxist analysis that:
 - Capitalism is based on the exploitation of wage labor
 - Private property in the means of production enables this exploitation
 - The
-  "<a   href="Working_Class.md" class="wikilink" title="working class">working
+  <a href="Working_Class.md" class="wikilink" title="working class">working
   class</a> has strategic importance due to its position in production
 - Class struggle is a fundamental feature of capitalist society
 - Economic conditions significantly shape social and political
@@ -327,14 +327,14 @@ against evidence rather than protected by political power.
 
 ### Soviet Pseudoscience
 
-The "<a   href="Soviet_Union.md" class="wikilink" title="Soviet Union">Soviet
+The <a href="Soviet_Union.md" class="wikilink" title="Soviet Union">Soviet
 Union</a> provides the most extensive documentation of state-sponsored
 pseudoscience masquerading as Marxist science.
 
 #### Lysenkoism
 
 The most infamous example remains
-**"<a   href="Lysenkoism.md" class="wikilink" title="Lysenkoism">Lysenkoism</a>**,
+**<a href="Lysenkoism.md" class="wikilink" title="Lysenkoism">Lysenkoism</a>**,
 the rejection of Mendelian genetics in favor of Trofim Lysenko's claims
 that acquired characteristics could be inherited. Lysenko promised that
 his methods would revolutionize Soviet agriculture, claiming that wheat
@@ -344,7 +344,7 @@ reshaped by their environment within a single generation.[^28]
 Stalin personally endorsed Lysenko, and from 1948 to 1964, genetics
 research was effectively banned in the Soviet Union. Scientists who
 opposed Lysenko faced imprisonment, exile to the Gulag, or execution.
-The most prominent victim was "<a   href="Nikolai_Vavilov.md" class="wikilink"
+The most prominent victim was <a href="Nikolai_Vavilov.md" class="wikilink"
 title="Nikolai Vavilov">Nikolai Vavilov</a>, one of the world's leading
 geneticists, who died of starvation in prison in 1943.[^29] Other
 victims included Solomon Levit, Israel Agol, and hundreds of other
@@ -414,10 +414,10 @@ Soviet ideology periodically attacked fundamental physics:
 
 ### Chinese Pseudoscience and Anti-Scientific Campaigns
 
-"<a   href="Mao_Zedong.md" class="wikilink" title="Mao Zedong">Mao Zedong</a>'s
+<a href="Mao_Zedong.md" class="wikilink" title="Mao Zedong">Mao Zedong</a>'s
 China demonstrated even more dramatic examples of ideology overriding
 science, particularly during the
-"<a   href="Great_Leap_Forward.md" class="wikilink"
+<a href="Great_Leap_Forward.md" class="wikilink"
 title="Great Leap Forward">Great Leap Forward</a> (1958-1962).
 
 #### The Four Pests Campaign
@@ -517,7 +517,7 @@ ideology-driven science faced no challenges.
 ### The Anarchist Analysis
 
 This track record vindicates the anarchist critique of state socialism.
-As "<a   href="Mikhail_Bakunin.md" class="wikilink"
+As <a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> warned, giving the state
 power over society inevitably leads to the subordination of truth to
 power. No matter how "scientific" the ideology claims to be,
@@ -683,25 +683,25 @@ collective action.
 - [Anarchism: Utopian or scientific, Wayne
   Price](https://theanarchistlibrary.org/library/wayne-price-anarchism-utopian-or-scientific)
 
-"<a   href="Category:Marxist_theory.md" class="wikilink"
+<a href="Category:Marxist_theory.md" class="wikilink"
 title="Category:Marxist theory">Category:Marxist theory</a>
-"<a   href="Category:Anarchist_theory.md" class="wikilink"
+<a href="Category:Anarchist_theory.md" class="wikilink"
 title="Category:Anarchist theory">Category:Anarchist theory</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Political_theories.md" class="wikilink"
+<a href="Category:Political_theories.md" class="wikilink"
 title="Category:Political theories">Category:Political theories</a>
-"<a   href="Category:Critique_of_Marxism.md" class="wikilink"
+<a href="Category:Critique_of_Marxism.md" class="wikilink"
 title="Category:Critique of Marxism">Category:Critique of Marxism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Marxism.md" class="wikilink"
+Socialism</a> <a href="Category:Marxism.md" class="wikilink"
 title="Category:Marxism">Category:Marxism</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Socialism.md" class="wikilink"
+<a href="Category:Socialism.md" class="wikilink"
 title="Category:Socialism">Category:Socialism</a>
-"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts.md" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

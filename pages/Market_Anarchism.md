@@ -1,40 +1,40 @@
 # Market Anarchism
 
 **Market anarchism** is the branch of
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
-that advocates a "<a   href="free-market.md" class="wikilink"
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+that advocates a <a href="free-market.md" class="wikilink"
 title="free-market">free-market</a>
-"<a   href="economic_system.md" class="wikilink"
+<a href="economic_system.md" class="wikilink"
 title="economic system">economic system</a> based on voluntary
 interactions without the involvement of the
-"<a   href="State_(polity).md" class="wikilink" title="state">state</a>; a
-form of "<a   href="individualist_anarchism.md" class="wikilink"
+<a href="State_(polity).md" class="wikilink" title="state">state</a>; a
+form of <a href="individualist_anarchism.md" class="wikilink"
 title="individualist anarchism">individualist anarchism</a>.[^1]
 
 Due to contending definitions of the terms 'markets' and 'capitalism'
 which are not used by free-market anti-capitalists,[^2]
-"<a   href="anarcho-capitalism.md" class="wikilink"
+<a href="anarcho-capitalism.md" class="wikilink"
 title="anarcho-capitalism">anarcho-capitalism</a> has been referred to
 synonymously as "free-market anarchism," but the ideologies differ
 significantly.[^3][^4][^5][^6]
 
 The Center for a Stateless Society (C4SS), which
-"<a   href="Kevin_Carson.md" class="wikilink" title="Kevin Carson">Kevin
+<a href="Kevin_Carson.md" class="wikilink" title="Kevin Carson">Kevin
 Carson</a> is associated with, is one such group of free-marked
 anti-capitalists.[^7] As is
-"<a   href="Samuel_Edward_Konkin_III.md" class="wikilink"
+<a href="Samuel_Edward_Konkin_III.md" class="wikilink"
 title="Samuel Edward Konkin III">Samuel Edward Konkin III</a>'s
-"<a   href="agorism.md" class="wikilink" title="agorism">agorism</a>, a
+<a href="agorism.md" class="wikilink" title="agorism">agorism</a>, a
 tendency associated with left-libertarianism.[^8]
 
 ## Origins
 
 Market anarchism emerged from the
-"<a   href="individualist_anarchist.md" class="wikilink"
+<a href="individualist_anarchist.md" class="wikilink"
 title="individualist anarchist">individualist anarchist</a> tradition of
 the 19th century, drawing on the work of thinkers who sought to combine
 anti-state politics with free-market economics. The movement
-distinguishes itself from "<a   href="anarcho-capitalism.md" class="wikilink"
+distinguishes itself from <a href="anarcho-capitalism.md" class="wikilink"
 title="anarcho-capitalism">anarcho-capitalism</a> by rejecting what it
 sees as the capitalist emphasis on private property in land and capital
 accumulation through wage labor.
@@ -43,17 +43,17 @@ accumulation through wage labor.
 
 Market anarchism encompasses several related but distinct approaches:
 
-- **"<a   href="Mutualism_(economic_theory).md" class="wikilink"
+- **<a href="Mutualism_(economic_theory).md" class="wikilink"
   title="Mutualism">Mutualism</a>** - Based on the work of
-  "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+  <a href="Pierre-Joseph_Proudhon.md" class="wikilink"
   title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>, emphasizing
   mutual aid and cooperative ownership
-- **"<a   href="Agorism.md" class="wikilink" title="Agorism">Agorism</a>** -
-  "<a   href="Samuel_Edward_Konkin_III.md" class="wikilink"
+- **<a href="Agorism.md" class="wikilink" title="Agorism">Agorism</a>** -
+  <a href="Samuel_Edward_Konkin_III.md" class="wikilink"
   title="Samuel Edward Konkin III">Samuel Edward Konkin III</a>'s
   strategy of counter-economics and black market activity
 - **Geo-libertarianism** - Combining free markets with
-  "<a   href="Georgism.md" class="wikilink" title="Georgist">Georgist</a> land
+  <a href="Georgism.md" class="wikilink" title="Georgist">Georgist</a> land
   value taxation principles
 - **Left-libertarianism** - Market-oriented approaches that emphasize
   social justice and opposition to corporate privilege
@@ -61,10 +61,10 @@ Market anarchism encompasses several related but distinct approaches:
 ## Criticism
 
 Market anarchism faces criticism from multiple directions. Traditional
-"<a   href="anarcho-communism.md" class="wikilink"
+<a href="anarcho-communism.md" class="wikilink"
 title="anarcho-communists">anarcho-communists</a> argue that any market
 system will inevitably lead to inequality and exploitation. Some
-"<a   href="Marxism.md" class="wikilink" title="Marxist">Marxist</a> critics
+<a href="Marxism.md" class="wikilink" title="Marxist">Marxist</a> critics
 argue that market mechanisms are inherently capitalist and cannot be
 separated from capitalist social relations.
 
@@ -106,19 +106,19 @@ equality.[^9]
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Wikipedia.md" class="wikilink"
+<a href="Category:Wikipedia.md" class="wikilink"
 title="Category:Wikipedia">Category:Wikipedia</a>
 
 [^1]: Chartier, Gary; Johnson, Charles W. (2011). *Markets Not

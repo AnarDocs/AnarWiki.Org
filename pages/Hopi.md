@@ -211,13 +211,13 @@ die of hunger than in war.'"[^32]
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy.md" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Eggan, Fred, *Social Organization of the Western Pueblos*
@@ -228,7 +228,7 @@ title="Category:Featured">Category:Featured</a>
     <https://www.nytimes.com/2016/12/29/us/arizona-navajo-tribe-peabody-energy.html>.
 
 [^3]: Harold Barclay.
-    "<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
+    <a href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
     class="wikilink"
     title="People Without Government: An Anthropology of Anarchy">People
     Without Government: An Anthropology of Anarchy</a>
@@ -310,7 +310,7 @@ title="Category:Featured">Category:Featured</a>
     World, New York: Routledge, 2004.
 
 [^27]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^28]: Calloway, Colin G., *First Peoples: A Documentary Survey of

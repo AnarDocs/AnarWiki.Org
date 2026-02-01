@@ -27,7 +27,7 @@ development.
 
 ### Indigenous economic models
 
-The "<a   href="Haudenosaunee_Confederacy.md" class="wikilink"
+The <a href="Haudenosaunee_Confederacy.md" class="wikilink"
 title="Haudenosaunee Confederacy">Haudenosaunee Confederacy</a>
 (Iroquois), established in 1142 CE, provides a documented example of
 large-scale cooperative organization without monetary systems. The
@@ -183,14 +183,14 @@ free-riding and social collapse. Anarchist theorists respond that:
 
 ## See also
 
-- "<a   href="Mutual_aid.md" class="wikilink" title="Mutual aid">Mutual aid</a>
-- "<a   href="Gift_economy.md" class="wikilink" title="Gift economy">Gift
+- <a href="Mutual_aid.md" class="wikilink" title="Mutual aid">Mutual aid</a>
+- <a href="Gift_economy.md" class="wikilink" title="Gift economy">Gift
   economy</a>
-- "<a   href="Critique_of_work.md" class="wikilink"
+- <a href="Critique_of_work.md" class="wikilink"
   title="Critique of work">Critique of work</a>
-- "<a   href="Post-work_society.md" class="wikilink"
+- <a href="Post-work_society.md" class="wikilink"
   title="Post-work society">Post-work society</a>
-- "<a   href="Anarchist_economics.md" class="wikilink"
+- <a href="Anarchist_economics.md" class="wikilink"
   title="Anarchist economics">Anarchist economics</a>
 
 ## References
@@ -207,5 +207,5 @@ free-riding and social collapse. Anarchist theorists respond that:
 Source: Adapted from [What About The
 Lazy?](https://peacefulrevolutionary.substack.com/p/what-about-the-lazy)
 
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

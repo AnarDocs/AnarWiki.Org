@@ -17,7 +17,7 @@ involving exposure, fasting, sleep deprivation, and bloodletting.[^3]
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 

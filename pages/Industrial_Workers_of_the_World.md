@@ -5,7 +5,7 @@
 
 ## Overview
 
-The "<a   href="Wikipedia:Industrial_Workers_of_the_World.md" class="wikilink"
+The <a href="Wikipedia:Industrial_Workers_of_the_World.md" class="wikilink"
 title="Industrial Workers of the World">Industrial Workers of the
 World</a> ([IWW](https://www.iww.org/)) is an international union,
 founded in 1905 in the United States, with a dedication to industrial
@@ -402,15 +402,15 @@ strike.[^35]
 # Earth First-IWW Local \#1
 
 In 1989, the Wobbly and
-"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
+<a href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
 First!er</a> Judi Bari organized timber workers in northern California
 into the IWW Local \#1, often known as “Earth First!-IWW Local \#1”. The
 group organized a campaign against Georgia-Pacific's exposure of PCB to
 its workers. The local joined with other
-"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
+<a href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
 First!</a> chapters to plan Redwood Summer, a 1990 mobilization against
 corporate logging inspired by the
-"<a   href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
+<a href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
 title="Student Nonviolent Coordinating Committee">Student Nonviolent
 Coordinating Committee</a>'s 1964 Freedom Summer. By identifying timber
 corporations as a common enemy, Bari helped join together groups that
@@ -497,23 +497,23 @@ States](http://www.iww.org/history/library/misc/FNBrill1999)
 ["Industrial Workers of the World,"
 *Wikipedia*](http://www.wikipedia.org/wiki/Industrial_Workers_of_the_World)
 
-"<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Category:Workers&#39;_Self-Management.md" class="wikilink"
 title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
-"<a   href="Category:Anarcho-Syndicalism.md" class="wikilink"
+<a href="Category:Anarcho-Syndicalism.md" class="wikilink"
 title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
-"<a   href="Category:Syndicalism.md" class="wikilink"
+<a href="Category:Syndicalism.md" class="wikilink"
 title="Category:Syndicalism">Category:Syndicalism</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-"<a   href="Category:Organizations.md" class="wikilink"
+<a href="Category:Organizations.md" class="wikilink"
 title="Category:Organizations">Category:Organizations</a>
 
 [^1]: Howard Zinn, *A People's History of the United States* (New York:
     HarperPerennial, 2005), 331.
 
 [^2]: Michael Schmidt,
-    "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
+    <a href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
     title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 

@@ -1,6 +1,6 @@
 # Traditional Stateless Justice Methods
 
-Throughout history, "<a   href="stateless_societies.md" class="wikilink"
+Throughout history, <a href="stateless_societies.md" class="wikilink"
 title="stateless societies">stateless societies</a> have developed
 sophisticated methods for addressing violence and anti-social behavior
 without relying on hierarchical institutions like police, courts, or
@@ -25,7 +25,7 @@ systems:
 
 ## Rotuman Conflict Resolution
 
-The "<a   href="Rotuman.md" class="wikilink" title="Rotuman">Rotuman</a>
+The <a href="Rotuman.md" class="wikilink" title="Rotuman">Rotuman</a>
 people of the South Pacific developed a comprehensive system for
 maintaining social peace without state authority.
 
@@ -58,7 +58,7 @@ than the United States.
 
 ## Navajo Peacemaking
 
-The "<a   href="Navajo.md" class="wikilink" title="Navajo">Navajo</a>
+The <a href="Navajo.md" class="wikilink" title="Navajo">Navajo</a>
 developed a centuries-old system of "peacemaking" that has survived
 colonialism and is currently being revived.
 
@@ -126,7 +126,7 @@ society rather than concentrated in specialized institutions.
 
 ## Inuit Justice Practices
 
-The "<a   href="Inuit.md" class="wikilink" title="Inuit">Inuit</a>
+The <a href="Inuit.md" class="wikilink" title="Inuit">Inuit</a>
 hunter-gatherers of arctic North America developed methods for dealing
 with even the most serious harmful behavior.
 
@@ -145,7 +145,7 @@ with even the most serious harmful behavior.
 ## Aboriginal Justice Principles
 
 Many indigenous societies shared common approaches that modern
-"<a   href="restorative_justice.md" class="wikilink"
+<a href="restorative_justice.md" class="wikilink"
 title="restorative justice">restorative justice</a> movements have
 learned from:
 
@@ -199,7 +199,7 @@ approaches:
 ## Lessons for Contemporary Practice
 
 These traditional approaches offer several insights for modern
-"<a   href="community_accountability.md" class="wikilink"
+<a href="community_accountability.md" class="wikilink"
 title="community accountability">community accountability</a>:
 
 - **Prevention is possible**: Strong communities with good relationships
@@ -229,32 +229,32 @@ developing contemporary alternatives to state-based justice systems.
 
 ## See Also
 
-- "<a   href="Community_Accountability.md" class="wikilink"
+- <a href="Community_Accountability.md" class="wikilink"
   title="Community Accountability">Community Accountability</a>
-- "<a   href="Transformative_Justice.md" class="wikilink"
+- <a href="Transformative_Justice.md" class="wikilink"
   title="Transformative Justice">Transformative Justice</a>
-- "<a   href="Restorative_Justice.md" class="wikilink"
+- <a href="Restorative_Justice.md" class="wikilink"
   title="Restorative Justice">Restorative Justice</a>
-- "<a   href="Stateless_Societies.md" class="wikilink"
+- <a href="Stateless_Societies.md" class="wikilink"
   title="Stateless Societies">Stateless Societies</a>
-- "<a   href="Indigenous_Justice.md" class="wikilink"
+- <a href="Indigenous_Justice.md" class="wikilink"
   title="Indigenous Justice">Indigenous Justice</a>
 
 ## References
 
 <references/>
 
-"<a   href="Category:Indigenous_Practices.md" class="wikilink"
+<a href="Category:Indigenous_Practices.md" class="wikilink"
 title="Category:Indigenous Practices">Category:Indigenous Practices</a>
-"<a   href="Category:Stateless_Societies.md" class="wikilink"
+<a href="Category:Stateless_Societies.md" class="wikilink"
 title="Category:Stateless Societies">Category:Stateless Societies</a>
-"<a   href="Category:Community_Justice.md" class="wikilink"
+<a href="Category:Community_Justice.md" class="wikilink"
 title="Category:Community Justice">Category:Community Justice</a>
-"<a   href="Category:Restorative_Justice.md" class="wikilink"
+<a href="Category:Restorative_Justice.md" class="wikilink"
 title="Category:Restorative Justice">Category:Restorative Justice</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-"<a   href="Category:Justice.md" class="wikilink"
+<a href="Category:Justice.md" class="wikilink"
 title="Category:Justice">Category:Justice</a>

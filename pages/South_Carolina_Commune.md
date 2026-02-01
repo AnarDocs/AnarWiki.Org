@@ -4,12 +4,12 @@ The **South Carolina Commune** was a revolutionary Black-led government
 that controlled South Carolina from 1868 to 1874 during the
 Reconstruction era following the U.S. Civil War. Characterized by W.E.B.
 Du Bois as implementing more radical reforms than the famous
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
+<a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
 Commune</a>, this experiment in
-"<a   href="direct_democracy.md" class="wikilink"
+<a href="direct_democracy" class="wikilink"
 title="direct democracy">direct democracy</a>,
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
-and "<a   href="anti-capitalism.md" class="wikilink"
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
+and <a href="anti-capitalism" class="wikilink"
 title="anti-capitalism">anti-capitalism</a> represents one of the most
 significant but overlooked examples of anarchist principles in American
 history.
@@ -24,21 +24,21 @@ socialism than the Paris Commune in 1871 ever did."[^1]
 The South Carolina Commune emerged from the revolutionary upheaval of
 the post-Civil War period, when newly freed enslaved people seized
 control of political and economic institutions to build an alternative
-society based on "<a   href="racial_equality.md" class="wikilink"
+society based on <a href="racial_equality" class="wikilink"
 title="racial equality">racial equality</a>,
-"<a   href="economic_democracy.md" class="wikilink"
+<a href="economic_democracy" class="wikilink"
 title="economic democracy">economic democracy</a>, and
-"<a   href="community_self-governance.md" class="wikilink"
+<a href="community_self-governance" class="wikilink"
 title="community self-governance">community self-governance</a>. While
 operating within the framework of Reconstruction government, the
 movement was fundamentally driven by grassroots
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action" class="wikilink" title="direct action">direct
 action</a>,
-"<a   href="land_seizures.md" class="wikilink" title="land seizures">land
+<a href="land_seizures" class="wikilink" title="land seizures">land
 seizures</a>,
-"<a   href="worker_strikes.md" class="wikilink" title="worker strikes">worker
+<a href="worker_strikes" class="wikilink" title="worker strikes">worker
 strikes</a>, and thousands of
-"<a   href="mutual_aid_societies.md" class="wikilink"
+<a href="mutual_aid_societies" class="wikilink"
 title="mutual aid societies">mutual aid societies</a>.
 
 The commune implemented radical reforms including land redistribution to
@@ -85,7 +85,7 @@ ablaze, and fled to join the Union Army. Escaped slaves based in maroon
 communities waged guerilla warfare."[^7]
 
 This mass resistance represented one of the largest
-"<a   href="general_strikes.md" class="wikilink"
+<a href="general_strikes" class="wikilink"
 title="general strikes">general strikes</a> in history and demonstrated
 the revolutionary potential of coordinated direct action.
 
@@ -103,9 +103,9 @@ dependence on federal protection would ultimately prove its weakness.
 According to Du Bois, South Carolina's Black residents consciously
 desired "to rid themselves of the dominion of private capital."[^8]
 While this didn't mean rejecting all market activity, their vision
-centered on "<a   href="self-sufficiency.md" class="wikilink"
+centered on <a href="self-sufficiency" class="wikilink"
 title="self-sufficiency">self-sufficiency</a>,
-"<a   href="collective_ownership.md" class="wikilink"
+<a href="collective_ownership" class="wikilink"
 title="collective ownership">collective ownership</a>, and economic
 arrangements that prioritized human dignity over profit.
 
@@ -123,7 +123,7 @@ that challenged the foundations of capitalist property relations.[^10]
 ### Direct Democracy and Community Control
 
 The South Carolina Commune was fundamentally a
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action" class="wikilink" title="direct action">direct
 action</a> movement rather than simply electoral politics. Even Black
 legislators like Alfred Grey in Alabama called for armed resistance: "I
 may go to hell, my home is hell, but the white man shall go there with
@@ -205,7 +205,7 @@ inconsistent due to white resistance.[^20]
 ### Worker Organization
 
 The commune was supported by extensive worker organizing and
-"<a   href="strike.md" class="wikilink" title="strike">strike</a> activity. In
+<a href="strike" class="wikilink" title="strike">strike</a> activity. In
 1876, farm workers in Colleton County went on strike and threatened to
 destroy planters' crops. In Buford County, 200 Black rice farmers went
 on strike, locked scabs in outhouses, and "overpowered a sheriff and his
@@ -220,7 +220,7 @@ work.[^22]
 ### Mutual Aid Networks
 
 Reconstruction-era African Americans created thousands of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 groups including burial societies, debating clubs, drama societies, and
 trade associations.[^23] In Atlanta, Blacks pooled funds and built a
 hospital.[^24]
@@ -305,23 +305,23 @@ Russia, Spain, India, and China today."[^33]
 
 The commune showed that: - Oppressed peoples can seize control of
 political and economic institutions -
-"<a   href="Mutual_aid.md" class="wikilink" title="Mutual aid">Mutual aid</a>
+<a href="Mutual_aid" class="wikilink" title="Mutual aid">Mutual aid</a>
 and
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action" class="wikilink" title="direct action">direct
 action</a> can create alternative social relations - Land redistribution
 and wealth transfer are achievable through organized struggle -
 Community control of education and social services works better than
-state bureaucracy - "<a   href="Self-defense.md" class="wikilink"
+state bureaucracy - <a href="Self-defense" class="wikilink"
 title="Self-defense">Self-defense</a> and autonomous organization
 provide better protection than police
 
 ### Contemporary Relevance
 
 The South Carolina Commune's example remains relevant for contemporary
-movements like "<a   href="Black_Lives_Matter.md" class="wikilink"
+movements like <a href="Black_Lives_Matter" class="wikilink"
 title="Black Lives Matter">Black Lives Matter</a>, which often employ
 horizontal organization,
-"<a   href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action" class="wikilink" title="direct action">direct
 action</a>, and radical critiques of existing society. The commune
 demonstrates that revolutionary change is possible when movements
 combine electoral participation with grassroots organizing, mutual aid,
@@ -340,11 +340,11 @@ and practice:
 ### Prefigurative Politics
 
 The commune demonstrated
-"<a   href="prefigurative_politics.md" class="wikilink"
+<a href="prefigurative_politics" class="wikilink"
 title="prefigurative politics">prefigurative politics</a> by creating
 the kind of society anarchists envision - one based on
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
-"<a   href="direct_democracy.md" class="wikilink"
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="direct_democracy" class="wikilink"
 title="direct democracy">direct democracy</a>, economic equality, and
 community self-governance - rather than waiting for revolution to create
 these conditions.
@@ -418,27 +418,27 @@ possibility of fundamental social transformation.
 - Zinn, Howard. *A People's History of the United States*. New York:
   HarperPerennial.
 
-"<a   href="Category:Historical_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Historical_Anarchist_Societies" class="wikilink"
 title="Category:Historical Anarchist Societies">Category:Historical
-Anarchist Societies</a> "<a   href="Category:19th_Century.md" class="wikilink"
+Anarchist Societies</a> <a href="Category:19th_Century" class="wikilink"
 title="Category:19th Century">Category:19th Century</a>
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Direct_Democracy.md" class="wikilink"
+Communities</a> <a href="Category:Direct_Democracy" class="wikilink"
 title="Category:Direct Democracy">Category:Direct Democracy</a>
-"<a   href="Category:Mutual_Aid.md" class="wikilink"
+<a href="Category:Mutual_Aid" class="wikilink"
 title="Category:Mutual Aid">Category:Mutual Aid</a>
-"<a   href="Category:Reconstruction_Era.md" class="wikilink"
+<a href="Category:Reconstruction_Era" class="wikilink"
 title="Category:Reconstruction Era">Category:Reconstruction Era</a>
-"<a   href="Category:Black_Liberation.md" class="wikilink"
+<a href="Category:Black_Liberation" class="wikilink"
 title="Category:Black Liberation">Category:Black Liberation</a>
-"<a   href="Category:Anti-Capitalism.md" class="wikilink"
+<a href="Category:Anti-Capitalism" class="wikilink"
 title="Category:Anti-Capitalism">Category:Anti-Capitalism</a>
-"<a   href="Category:United_States.md" class="wikilink"
+<a href="Category:United_States" class="wikilink"
 title="Category:United States">Category:United States</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Joel Olson, "Between infoshops and insurrection: US anarchism,

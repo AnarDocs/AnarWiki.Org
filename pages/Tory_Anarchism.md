@@ -4,8 +4,8 @@
 emerged primarily in 20th century England, combining traditionalist
 conservative cultural values with anti-authoritarian and anti-state
 positions. The term was first coined by
-"<a   href="George_Orwell.md" class="wikilink" title="George Orwell">George
-Orwell</a> to describe both "<a   href="Jonathan_Swift.md" class="wikilink"
+<a href="George_Orwell" class="wikilink" title="George Orwell">George
+Orwell</a> to describe both <a href="Jonathan_Swift" class="wikilink"
 title="Jonathan Swift">Jonathan Swift</a> and himself.[^1]
 
 ## Overview
@@ -95,9 +95,9 @@ The related concept of "Tory socialism" shares some characteristics with
 tory anarchism, particularly in its combination of social conservatism
 with economic redistribution. Giles Fraser identifies this tradition
 with figures like
-"<a   href="John_Ruskin.md" class="wikilink" title="John Ruskin">John
+<a href="John_Ruskin" class="wikilink" title="John Ruskin">John
 Ruskin</a> and
-"<a   href="William_Morris.md" class="wikilink" title="William Morris">William
+<a href="William_Morris" class="wikilink" title="William Morris">William
 Morris</a>, describing it as "socially conservative, economically
 redistributive" with "liberalism in all its forms" as its enemy.[^11]
 
@@ -137,11 +137,11 @@ influential in British cultural criticism.[^14]
 
 ## See Also
 
-- "<a   href="Anarchism.md" class="wikilink" title="Anarchism">Anarchism</a>
-- "<a   href="Conservatism.md" class="wikilink"
+- <a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>
+- <a href="Conservatism" class="wikilink"
   title="Conservatism">Conservatism</a>
-- "<a   href="Red_Tory.md" class="wikilink" title="Red Tory">Red Tory</a>
-- "<a   href="Blue_Labour.md" class="wikilink" title="Blue Labour">Blue
+- <a href="Red_Tory" class="wikilink" title="Red Tory">Red Tory</a>
+- <a href="Blue_Labour" class="wikilink" title="Blue Labour">Blue
   Labour</a>
 
 ## References
@@ -164,13 +164,13 @@ influential in British cultural criticism.[^14]
 - [So Why Call It Anarchism,
   Anarcho](https://theanarchistlibrary.org/library/anarcho-so-why-call-it-anarchism)
 
-"<a   href="Category:Political_Philosophy.md" class="wikilink"
+<a href="Category:Political_Philosophy" class="wikilink"
 title="Category:Political Philosophy">Category:Political Philosophy</a>
-"<a   href="Category:English_Culture.md" class="wikilink"
+<a href="Category:English_Culture" class="wikilink"
 title="Category:English Culture">Category:English Culture</a>
-"<a   href="Category:Anarchist_Theory.md" class="wikilink"
+<a href="Category:Anarchist_Theory" class="wikilink"
 title="Category:Anarchist Theory">Category:Anarchist Theory</a>
-"<a   href="Category:Conservative_Thought.md" class="wikilink"
+<a href="Category:Conservative_Thought" class="wikilink"
 title="Category:Conservative Thought">Category:Conservative Thought</a>
 
 [^1]: Wilkin, Peter (Jan 2009). (Tory) Anarchy in the UK: The Very

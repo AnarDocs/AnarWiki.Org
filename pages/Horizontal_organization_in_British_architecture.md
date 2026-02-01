@@ -1,4 +1,4 @@
-From Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
+From Colin Ward, <a href="Anarchy_in_Action.md" class="wikilink"
 title="Anarchy in Action">Anarchy in Action</a>:
 
 > The Royal Institute of British Architects sponsored a report on the

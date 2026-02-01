@@ -11,19 +11,19 @@ counter-economics - participation in black and grey markets that operate
 outside state control.[^1] The term derives from the Greek word "agora,"
 meaning marketplace. While originating from right-libertarian circles
 and sharing significant ideological overlap with
-"<a   href="anarcho-capitalism.md" class="wikilink"
+<a href="anarcho-capitalism.md" class="wikilink"
 title="anarcho-capitalism">anarcho-capitalism</a>, agorism distinguishes
 itself through its revolutionary strategy of building alternative
 economic systems rather than gradual reform or violent insurrection.
 
 From an
-"<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 perspective, agorism presents a contradictory position: while its
 counter-economic tactics of evading state control through black markets
 resemble
-"<a   href="illegalism.md" class="wikilink" title="illegalism">illegalism</a>
+<a href="illegalism.md" class="wikilink" title="illegalism">illegalism</a>
 and may offer practical value, its retention of
-"<a   href="private_property.md" class="wikilink"
+<a href="private_property.md" class="wikilink"
 title="private property">private property</a>, wage labor, and market
 fundamentalism make it incompatible with anarchist principles of
 collective liberation and the abolition of all hierarchies.
@@ -45,7 +45,7 @@ as a third path - what he called "revolution through market
 processes."[^3]
 
 The philosophy explicitly built on
-"<a   href="Austrian_School.md" class="wikilink"
+<a href="Austrian_School.md" class="wikilink"
 title="Austrian School">Austrian School</a> economics, particularly the
 work of Ludwig von Mises and Murray Rothbard. However, Konkin positioned
 agorism as "to the left" of Rothbard, seeking alliance with the anti-war
@@ -108,7 +108,7 @@ eroding these privileges.
 ### Property and Organization
 
 Agorists maintain a propertarian position based on self-ownership and
-"<a   href="Homestead_Principle.md" class="wikilink"
+<a href="Homestead_Principle.md" class="wikilink"
 title="homesteading">homesteading</a>. While opposing state-granted
 corporate privileges (particularly limited liability), they support
 private ownership of means of production and voluntary employment
@@ -125,7 +125,7 @@ workplace democracy and workers' self-management.
 ### Tactical Utility for Anarchists
 
 Some anarchists, particularly those influenced by
-"<a   href="mutualism.md" class="wikilink" title="mutualism">mutualism</a> and
+<a href="mutualism.md" class="wikilink" title="mutualism">mutualism</a> and
 market-oriented approaches, have identified potential tactical value in
 counter-economics while rejecting agorism's capitalist framework.
 
@@ -138,15 +138,15 @@ rather, a means of accomplishing what we would want to accomplish for
 its own sake, even if the state never existed."[^10]
 
 From this anarchist perspective, counter-economics becomes synonymous
-with building "<a   href="counter-institutions.md" class="wikilink"
+with building <a href="counter-institutions.md" class="wikilink"
 title="counter-institutions">counter-institutions</a>,
-"<a   href="dual_power.md" class="wikilink" title="dual power">dual power</a>,
+<a href="dual_power.md" class="wikilink" title="dual power">dual power</a>,
 and "building the foundation of the new society within the shell of the
 old" - focusing on creating the kind of society desired rather than
 simply evading state regulation.[^11]
 
 **Barter Networks and Local Currencies** -
-"<a   href="LETS.md" class="wikilink" title="LETS">LETS</a> (Local Exchange
+<a href="LETS.md" class="wikilink" title="LETS">LETS</a> (Local Exchange
 Trading Systems), time banks, and local currency systems like Ithaca
 Hours represent counter-economic tools that anarchists can employ. These
 enable producers to exchange goods and services directly outside the
@@ -187,7 +187,7 @@ than working two and a half hours of wage labor to hire the other
 through conventional employment.[^15]
 
 **Agora-Syndicalism** - This represents an attempted synthesis between
-agorist counter-economics and "<a   href="syndicalism.md" class="wikilink"
+agorist counter-economics and <a href="syndicalism.md" class="wikilink"
 title="syndicalist">syndicalist</a> organizing. The approach proposes
 using counter-economic strategies alongside labor union organization to
 transform enterprises into worker-run cooperatives, combining agorist
@@ -195,10 +195,10 @@ tax evasion and regulatory circumvention with syndicalist workplace
 takeovers.[^16]
 
 **Cooperative Agorism** - This variant integrates counter-economic
-strategies with "<a   href="workers&#39;_cooperatives.md" class="wikilink"
+strategies with <a href="workers&#39;_cooperatives.md" class="wikilink"
 title="workers&#39; cooperatives">workers' cooperatives</a>, mutual
 banks, and
-"<a   href="dual_power.md" class="wikilink" title="dual power">dual power</a>
+<a href="dual_power.md" class="wikilink" title="dual power">dual power</a>
 organizing. It emphasizes building counter-economic institutions based
 on cooperative principles rather than individual entrepreneurship,
 potentially incorporating collective ownership and democratic governance
@@ -234,7 +234,7 @@ recreating hierarchical economic structures.
 **Market Fundamentalism** - Agorists view markets as natural and optimal
 organizing principles, whereas most anarchists see markets as
 potentially useful tools that must be subordinated to principles of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
 solidarity, and collective well-being. Konkin's dismissal of communes
 and communism as "defying the only enforceable law – the law of nature"
 demonstrates this market fundamentalism that anarchists reject.
@@ -273,15 +273,15 @@ Anarchists pursuing similar goals of building alternative economies
 emphasize fundamentally different principles and practices:
 
 **Collective Ownership** -
-"<a   href="Workers&#39;_cooperatives.md" class="wikilink"
+<a href="Workers&#39;_cooperatives.md" class="wikilink"
 title="Workers&#39; cooperatives">Workers' cooperatives</a>,
-"<a   href="commons.md" class="wikilink" title="commons">commons</a>,
+<a href="commons.md" class="wikilink" title="commons">commons</a>,
 community land trusts, and collective workshops replace individual
 entrepreneurship and private ownership of means of production.
 
 **Gift Economies and Mutual Aid** -
-"<a   href="Mutual_aid.md" class="wikilink" title="Mutual aid">Mutual aid</a>
-networks, "<a   href="Really_Really_Free_Markets.md" class="wikilink"
+<a href="Mutual_aid.md" class="wikilink" title="Mutual aid">Mutual aid</a>
+networks, <a href="Really_Really_Free_Markets.md" class="wikilink"
 title="Really Really Free Markets">Really Really Free Markets</a>, food
 sharing programs, and gift economy practices replace market exchange and
 profit-seeking as organizing principles.
@@ -301,7 +301,7 @@ or expansion of production.
 
 **Counter-Institutions** - Following the Wobbly principle of "building
 the new world in the shell of the old," anarchists create
-"<a   href="free_schools.md" class="wikilink" title="free schools">free
+<a href="free_schools.md" class="wikilink" title="free schools">free
 schools</a>, community health clinics, autonomous social centers, and
 other institutions that prefigure desired social relations while meeting
 immediate needs.
@@ -326,7 +326,7 @@ fundamentally rejecting agorism's capitalist framework.
 ### From Anarchist Perspectives
 
 Anarchists criticize agorism as essentially
-"<a   href="anarcho-capitalism.md" class="wikilink"
+<a href="anarcho-capitalism.md" class="wikilink"
 title="anarcho-capitalism">anarcho-capitalism</a> "with extra steps" -
 retaining capitalism's exploitative relations while claiming
 revolutionary credentials through black market activity. The focus on
@@ -391,19 +391,19 @@ regulation.
 
 <references/>
 
-"<a   href="Category:Right-Libertarianism.md" class="wikilink"
+<a href="Category:Right-Libertarianism.md" class="wikilink"
 title="Category:Right-Libertarianism">Category:Right-Libertarianism</a>
-"<a   href="Category:Market_Anarchism.md" class="wikilink"
+<a href="Category:Market_Anarchism.md" class="wikilink"
 title="Category:Market Anarchism">Category:Market Anarchism</a>
-"<a   href="Category:Anarcho-Capitalism.md" class="wikilink"
+<a href="Category:Anarcho-Capitalism.md" class="wikilink"
 title="Category:Anarcho-Capitalism">Category:Anarcho-Capitalism</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts.md" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
-Concepts</a> "<a   href="Category:Ideologies.md" class="wikilink"
+Concepts</a> <a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Konkin III, Samuel Edward. "An Agorist Primer" (2008). Kopubco.

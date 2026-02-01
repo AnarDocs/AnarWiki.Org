@@ -6,7 +6,7 @@
 From 1969 to 1973, the four years preceding the Roe v. Wade ruling that
 legalized abortion in the United States, The Abortion Counselling
 Service of Women's Liberation or
-""<a   href="Wikipedia:Jane_Collective.md" class="wikilink"
+"<a href="Wikipedia:Jane_Collective.md" class="wikilink"
 title="Jane">Jane</a>" illegally provided underground counselling and
 abortion services in Chicago. At first, Jane referred women to other
 abortion providers, but eventually Jane members performed abortions
@@ -52,13 +52,13 @@ through the system."[^4]
 
 <references/>
 
-"<a   href="Category:Feminism.md" class="wikilink"
+<a href="Category:Feminism.md" class="wikilink"
 title="Category:Feminism">Category:Feminism</a>
-"<a   href="Category:USA.md" class="wikilink"
+<a href="Category:USA.md" class="wikilink"
 title="Category:USA">Category:USA</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America.md" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:Anarcha-Feminism.md" class="wikilink"
+<a href="Category:Anarcha-Feminism.md" class="wikilink"
 title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
 
 [^1]: Laura Kaplan, *The Story of Jane: The Legendary Underground

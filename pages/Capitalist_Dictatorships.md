@@ -400,19 +400,19 @@ dictatorship and authoritarian state capitalism.[^79][^80][^81]
 
 <references/>
 
-"<a   href="Category:Capitalism.md" class="wikilink"
+<a href="Category:Capitalism.md" class="wikilink"
 title="Category:Capitalism">Category:Capitalism</a>
-"<a   href="Category:Authoritarianism.md" class="wikilink"
+<a href="Category:Authoritarianism.md" class="wikilink"
 title="Category:Authoritarianism">Category:Authoritarianism</a>
-"<a   href="Category:Political_Systems.md" class="wikilink"
+<a href="Category:Political_Systems.md" class="wikilink"
 title="Category:Political Systems">Category:Political Systems</a>
-"<a   href="Category:State_Capitalism.md" class="wikilink"
+<a href="Category:State_Capitalism.md" class="wikilink"
 title="Category:State Capitalism">Category:State Capitalism</a>
-"<a   href="Category:Anti-Capitalism.md" class="wikilink"
+<a href="Category:Anti-Capitalism.md" class="wikilink"
 title="Category:Anti-Capitalism">Category:Anti-Capitalism</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Friedman, Milton. *Capitalism and Freedom*. University of Chicago

@@ -1,80 +1,80 @@
 # Market Anarchism
 
 **Market anarchism**[^1] is the branch of
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
-that advocates a "<a   href="free-market.md" class="wikilink"
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+that advocates a <a href="free-market.md" class="wikilink"
 title="free-market">free-market</a> economic system based on voluntary
 interactions without the involvement of the state; a form of
-"<a   href="individualist_anarchism.md" class="wikilink"
+<a href="individualist_anarchism.md" class="wikilink"
 title="individualist anarchism">individualist anarchism</a>.[^2][^3]
 
 Due to contending definitions of the terms 'markets' and 'capitalism'
 which are not used by free-market anti-capitalists,[^4][^5][^6]
-"<a   href="anarcho-capitalism.md" class="wikilink"
+<a href="anarcho-capitalism.md" class="wikilink"
 title="anarcho-capitalism">anarcho-capitalism</a> has been referred to
 synonymously as "free-market anarchism," but the ideologies differ
 significantly.[^7][^8][^9][^10]
 
-The "<a   href="Center_for_a_Stateless_Society.md" class="wikilink"
+The <a href="Center_for_a_Stateless_Society.md" class="wikilink"
 title="Center for a Stateless Society">Center for a Stateless
 Society</a> (C4SS), which
-"<a   href="Kevin_Carson.md" class="wikilink" title="Kevin Carson">Kevin
+<a href="Kevin_Carson.md" class="wikilink" title="Kevin Carson">Kevin
 Carson</a> is associated with, is one such group of free-market
 anti-capitalists.[^11] As is
-"<a   href="Samuel_Edward_Konkin_III.md" class="wikilink"
+<a href="Samuel_Edward_Konkin_III.md" class="wikilink"
 title="Samuel Edward Konkin III">Samuel Edward Konkin III</a>'s
-"<a   href="agorism.md" class="wikilink" title="agorism">agorism</a>, a
+<a href="agorism.md" class="wikilink" title="agorism">agorism</a>, a
 tendency associated with left-libertarianism.[^12]
 
 ## Criticism and Terminology
 
 Some anarchist writers, such as
-"<a   href="Iain_McKay.md" class="wikilink" title="Iain McKay">Iain McKay</a>,
+<a href="Iain_McKay.md" class="wikilink" title="Iain McKay">Iain McKay</a>,
 have been skeptical of this conceptual nomenclature on the grounds that
 it still leads to misunderstandings about its similarity to
 anarcho-capitalists.[^13][^14]
 
 McKay suggests that
-"<a   href="mutualism.md" class="wikilink" title="mutualism">mutualism</a> is
+<a href="mutualism.md" class="wikilink" title="mutualism">mutualism</a> is
 a preferable term, following
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>'s original
 usage, as it more clearly distinguishes genuinely anarchist approaches
 to markets from right-wing appropriations of anarchist terminology.
 
 ## Related Concepts
 
-- "<a   href="Anarchism_and_capitalism.md" class="wikilink"
+- <a href="Anarchism_and_capitalism.md" class="wikilink"
   title="Anarchism and capitalism">Anarchism and capitalism</a>
-- "<a   href="Geolibertarianism.md" class="wikilink"
+- <a href="Geolibertarianism.md" class="wikilink"
   title="Geolibertarianism">Geolibertarianism</a>
-- "<a   href="Issues_in_anarchism.md" class="wikilink"
+- <a href="Issues_in_anarchism.md" class="wikilink"
   title="Issues in anarchism">Issues in anarchism</a>
-- "<a   href="Market_socialism.md" class="wikilink"
+- <a href="Market_socialism.md" class="wikilink"
   title="Market socialism">Market socialism</a>
-- "<a   href="Mutualism.md" class="wikilink" title="Mutualism">Mutualism</a>
-- "<a   href="Ricardian_socialism.md" class="wikilink"
+- <a href="Mutualism.md" class="wikilink" title="Mutualism">Mutualism</a>
+- <a href="Ricardian_socialism.md" class="wikilink"
   title="Ricardian socialism">Ricardian socialism</a>
-- "<a   href="Agorism.md" class="wikilink" title="Agorism">Agorism</a>
-- "<a   href="Left-libertarianism.md" class="wikilink"
+- <a href="Agorism.md" class="wikilink" title="Agorism">Agorism</a>
+- <a href="Left-libertarianism.md" class="wikilink"
   title="Left-libertarianism">Left-libertarianism</a>
-- "<a   href="Individualist_anarchism.md" class="wikilink"
+- <a href="Individualist_anarchism.md" class="wikilink"
   title="Individualist anarchism">Individualist anarchism</a>
 
 ## Key Figures and Organizations
 
-- "<a   href="Kevin_Carson.md" class="wikilink" title="Kevin Carson">Kevin
+- <a href="Kevin_Carson.md" class="wikilink" title="Kevin Carson">Kevin
   Carson</a>
-- "<a   href="Roderick_T._Long.md" class="wikilink"
+- <a href="Roderick_T._Long.md" class="wikilink"
   title="Roderick T. Long">Roderick T. Long</a>
-- "<a   href="Samuel_Edward_Konkin_III.md" class="wikilink"
+- <a href="Samuel_Edward_Konkin_III.md" class="wikilink"
   title="Samuel Edward Konkin III">Samuel Edward Konkin III</a>
-- "<a   href="Center_for_a_Stateless_Society.md" class="wikilink"
+- <a href="Center_for_a_Stateless_Society.md" class="wikilink"
   title="Center for a Stateless Society">Center for a Stateless
   Society</a>
-- "<a   href="Molinari_Institute.md" class="wikilink"
+- <a href="Molinari_Institute.md" class="wikilink"
   title="Molinari Institute">Molinari Institute</a>
-- "<a   href="Alliance_of_the_Libertarian_Left.md" class="wikilink"
+- <a href="Alliance_of_the_Libertarian_Left.md" class="wikilink"
   title="Alliance of the Libertarian Left">Alliance of the Libertarian
   Left</a>
 
@@ -105,26 +105,26 @@ to markets from right-wing appropriations of anarchist terminology.
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a>
-"<a   href="Category:Individualist_Anarchism.md" class="wikilink"
+<a href="Category:Individualist_Anarchism.md" class="wikilink"
 title="Category:Individualist Anarchism">Category:Individualist
-Anarchism</a> "<a   href="Category:Free-Market_Anarchism.md" class="wikilink"
+Anarchism</a> <a href="Category:Free-Market_Anarchism.md" class="wikilink"
 title="Category:Free-Market Anarchism">Category:Free-Market
-Anarchism</a> "<a   href="Category:Anti-Capitalism.md" class="wikilink"
+Anarchism</a> <a href="Category:Anti-Capitalism.md" class="wikilink"
 title="Category:Anti-Capitalism">Category:Anti-Capitalism</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Long, Roderick T. (January 1, 2012). "Left-Libertarianism, Market

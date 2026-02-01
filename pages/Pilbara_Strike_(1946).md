@@ -1,11 +1,11 @@
 The **Pilbara Strike of 1946**was a
-"<a   href="List_of_Strikes.md" class="wikilink" title="strike">strike</a> in
-"<a   href="Australia.md" class="wikilink" title="Australia">Australia</a> in
-"<a   href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
+<a href="List_of_Strikes.md" class="wikilink" title="strike">strike</a> in
+<a href="Australia.md" class="wikilink" title="Australia">Australia</a> in
+<a href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
 title="early">early</a>
-"<a   href="Revolutions_of_1943_-_1949.md" class="wikilink"
+<a href="Revolutions_of_1943_-_1949.md" class="wikilink"
 title="1946">1946</a>, led by
-"<a   href="Timeline_of_Indigenism.md" class="wikilink"
+<a href="Timeline_of_Indigenism.md" class="wikilink"
 title="indigenous farmworkers">indigenous farmworkers</a> for indigenous
 rights and workers rights.
 

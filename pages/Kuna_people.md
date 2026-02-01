@@ -95,15 +95,15 @@ due to global warming.[^12]
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Central_America.md" class="wikilink"
+<a href="Category:Central_America.md" class="wikilink"
 title="Category:Central America">Category:Central America</a>
-"<a   href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy.md" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: *Matriarchal Societies*

@@ -80,13 +80,13 @@ was even a member of the movement.
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Judaism.md" class="wikilink"
+Communities</a> <a href="Category:Judaism.md" class="wikilink"
 title="Category:Judaism">Category:Judaism</a>
-"<a   href="Category:Religion.md" class="wikilink"
+<a href="Category:Religion.md" class="wikilink"
 title="Category:Religion">Category:Religion</a>
-"<a   href="Category:Organizations.md" class="wikilink"
+<a href="Category:Organizations.md" class="wikilink"
 title="Category:Organizations">Category:Organizations</a>
 
 [^1]: David Graeber, *Debt*,

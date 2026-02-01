@@ -2,9 +2,9 @@
 
 **Louis Lingg** (September 9, 1864 – November 10, 1887) was a
 German-born anarchist carpenter and one of the
-"<a   href="Haymarket_Martyrs.md" class="wikilink"
+<a href="Haymarket_Martyrs.md" class="wikilink"
 title="Haymarket Martyrs">Haymarket Martyrs</a>, convicted in connection
-with the "<a   href="Haymarket_affair.md" class="wikilink"
+with the <a href="Haymarket_affair.md" class="wikilink"
 title="Haymarket affair">Haymarket affair</a> of 1886. Rather than
 submit to execution by the capitalist state, Lingg took his own life on
 November 10, 1887, using an explosive device smuggled into his cell. His
@@ -12,7 +12,7 @@ final words, written in his own blood on the cell wall, were "Hoch die
 anarchie!" (Hurrah for anarchy!). The trial that condemned him was
 marked by perjured testimony, police corruption, and judicial bias—a
 fact later acknowledged when Governor
-"<a   href="John_Peter_Altgeld.md" class="wikilink"
+<a href="John_Peter_Altgeld.md" class="wikilink"
 title="John Peter Altgeld">John Peter Altgeld</a> pardoned Lingg's
 co-defendants and stated that all the Haymarket defendants, including
 those executed and Lingg himself, were innocent.
@@ -67,14 +67,14 @@ than properly training him.[^5]
 
 After completing his apprenticeship, Lingg traveled through Europe to
 perfect his trade and broaden his understanding. He worked briefly in
-"<a   href="Strasbourg.md" class="wikilink" title="Strasbourg">Strasbourg</a>,
-"<a   href="Alsace.md" class="wikilink" title="Alsace">Alsace</a>, then moved
+<a href="Strasbourg.md" class="wikilink" title="Strasbourg">Strasbourg</a>,
+<a href="Alsace.md" class="wikilink" title="Alsace">Alsace</a>, then moved
 to Freiburg, Germany, where he joined the Working Men's Educational
 Society, a socialist organization descended from Lassalle's German
 National Working Men's Union. Here he received his first substantial
 education in socialist and communist theory.[^6]
 
-In spring 1883, Lingg moved to "<a   href="Switzerland.md" class="wikilink"
+In spring 1883, Lingg moved to <a href="Switzerland.md" class="wikilink"
 title="Switzerland">Switzerland</a> to avoid German military service,
 which he refused on principle. He traveled extensively through the Swiss
 cantons on foot, working in various cities including Bern, Luzern, and
@@ -103,7 +103,7 @@ departed via Havre, France, arriving in New York City in mid-July 1885.
 ### Chicago and Labor Organizing
 
 Upon arrival in Chicago, Lingg immediately sought work as a carpenter
-and joined the "<a   href="International_Carpenters_and_Joiners&#39;_Union.md"
+and joined the <a href="International_Carpenters_and_Joiners&#39;_Union.md"
 class="wikilink"
 title="International Carpenters and Joiners&#39; Union">International
 Carpenters and Joiners' Union</a>. He quickly encountered the
@@ -129,7 +129,7 @@ against them.'"[^10]
 ### The Haymarket Affair
 
 On May 4, 1886, a rally was held at
-"<a   href="Haymarket_Square_(Chicago).md" class="wikilink"
+<a href="Haymarket_Square_(Chicago).md" class="wikilink"
 title="Haymarket Square">Haymarket Square</a> in support of the
 eight-hour workday and in protest of police violence against striking
 workers. Lingg was not present at the gathering. When police illegally
@@ -210,7 +210,7 @@ resistance and the incompetence or complicity of his jailers.[^19]
 On November 10, 1887—the day before his scheduled execution—Lingg
 committed suicide using a blasting cap that had been smuggled to him by
 a fellow prisoner, possibly with assistance from
-"<a   href="Dyer_Lum.md" class="wikilink" title="Dyer Lum">Dyer Lum</a>, an
+<a href="Dyer_Lum.md" class="wikilink" title="Dyer Lum">Dyer Lum</a>, an
 individualist anarchist sympathizer. At approximately 9:00 AM, Lingg
 placed the explosive device in his mouth and detonated it. The blast
 destroyed his lower jaw and much of his face. He survived for six
@@ -224,31 +224,31 @@ satisfaction of executing him. He died on his own terms, not theirs.
 ### Legacy
 
 Lingg was buried at Waldheim Cemetery (now Forest Home Cemetery) in
-"<a   href="Forest_Park,_Illinois.md" class="wikilink"
+<a href="Forest_Park,_Illinois.md" class="wikilink"
 title="Forest Park, Illinois">Forest Park, Illinois</a>, in a plot that
 has been marked since 1893 by the
-"<a   href="Haymarket_Martyrs&#39;_Monument.md" class="wikilink"
+<a href="Haymarket_Martyrs&#39;_Monument.md" class="wikilink"
 title="Haymarket Martyrs&#39; Monument">Haymarket Martyrs' Monument</a>.[^21]
 This monument honors Lingg alongside the four anarchists who were
 executed on November 11, 1887:
-"<a   href="August_Spies.md" class="wikilink" title="August Spies">August
+<a href="August_Spies.md" class="wikilink" title="August Spies">August
 Spies</a>,
-"<a   href="Albert_Parsons.md" class="wikilink" title="Albert Parsons">Albert
+<a href="Albert_Parsons.md" class="wikilink" title="Albert Parsons">Albert
 Parsons</a>,
-"<a   href="Adolph_Fischer.md" class="wikilink" title="Adolph Fischer">Adolph
+<a href="Adolph_Fischer.md" class="wikilink" title="Adolph Fischer">Adolph
 Fischer</a>, and
-"<a   href="George_Engel.md" class="wikilink" title="George Engel">George
+<a href="George_Engel.md" class="wikilink" title="George Engel">George
 Engel</a>.
 
 On June 26, 1893, Illinois Governor
-"<a   href="John_Peter_Altgeld.md" class="wikilink"
+<a href="John_Peter_Altgeld.md" class="wikilink"
 title="John Peter Altgeld">John Peter Altgeld</a> issued an
 extraordinary pardon for the three surviving Haymarket
-defendants—"<a   href="Oscar_Neebe.md" class="wikilink" title="Oscar Neebe">Oscar
+defendants—<a href="Oscar_Neebe.md" class="wikilink" title="Oscar Neebe">Oscar
 Neebe</a>,
-"<a   href="Michael_Schwab.md" class="wikilink" title="Michael Schwab">Michael
+<a href="Michael_Schwab.md" class="wikilink" title="Michael Schwab">Michael
 Schwab</a>, and
-"<a   href="Samuel_Fielden.md" class="wikilink" title="Samuel Fielden">Samuel
+<a href="Samuel_Fielden.md" class="wikilink" title="Samuel Fielden">Samuel
 Fielden</a>—declaring them innocent. In his pardon statement, Altgeld
 indicated that Lingg and the four executed men were also innocent,
 though they could not be formally pardoned posthumously.[^22]
@@ -261,7 +261,7 @@ statement to the court remains one of the most powerful articulations of
 anarchist defiance of capitalist law and order.
 
 The annual commemoration of May Day as
-"<a   href="International_Workers&#39;_Day.md" class="wikilink"
+<a href="International_Workers&#39;_Day.md" class="wikilink"
 title="International Workers&#39; Day">International Workers' Day</a>
 originated partly in memory of the Haymarket Martyrs and their struggle
 for the eight-hour workday. Lingg's life and death exemplify the
@@ -284,43 +284,43 @@ suppress those who effectively challenge its authority.
 
 ## See also
 
-- "<a   href="Haymarket_affair.md" class="wikilink"
+- <a href="Haymarket_affair.md" class="wikilink"
   title="Haymarket affair">Haymarket affair</a>
-- "<a   href="Haymarket_Martyrs.md" class="wikilink"
+- <a href="Haymarket_Martyrs.md" class="wikilink"
   title="Haymarket Martyrs">Haymarket Martyrs</a>
-- "<a   href="August_Spies.md" class="wikilink" title="August Spies">August
+- <a href="August_Spies.md" class="wikilink" title="August Spies">August
   Spies</a>
-- "<a   href="Albert_Parsons.md" class="wikilink" title="Albert Parsons">Albert
+- <a href="Albert_Parsons.md" class="wikilink" title="Albert Parsons">Albert
   Parsons</a>
-- "<a   href="Adolph_Fischer.md" class="wikilink" title="Adolph Fischer">Adolph
+- <a href="Adolph_Fischer.md" class="wikilink" title="Adolph Fischer">Adolph
   Fischer</a>
-- "<a   href="George_Engel.md" class="wikilink" title="George Engel">George
+- <a href="George_Engel.md" class="wikilink" title="George Engel">George
   Engel</a>
-- "<a   href="Dyer_Lum.md" class="wikilink" title="Dyer Lum">Dyer Lum</a>
-- "<a   href="Propaganda_of_the_deed.md" class="wikilink"
+- <a href="Dyer_Lum.md" class="wikilink" title="Dyer Lum">Dyer Lum</a>
+- <a href="Propaganda_of_the_deed.md" class="wikilink"
   title="Propaganda of the deed">Propaganda of the deed</a>
 
-"<a   href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists.md" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-"<a   href="Category:Haymarket_Martyrs.md" class="wikilink"
+<a href="Category:Haymarket_Martyrs.md" class="wikilink"
 title="Category:Haymarket Martyrs">Category:Haymarket Martyrs</a>
-"<a   href="Category:German_Anarchists.md" class="wikilink"
+<a href="Category:German_Anarchists.md" class="wikilink"
 title="Category:German Anarchists">Category:German Anarchists</a>
-"<a   href="Category:American_Anarchists.md" class="wikilink"
+<a href="Category:American_Anarchists.md" class="wikilink"
 title="Category:American Anarchists">Category:American Anarchists</a>
-"<a   href="Category:Anarchist_Martyrs.md" class="wikilink"
+<a href="Category:Anarchist_Martyrs.md" class="wikilink"
 title="Category:Anarchist Martyrs">Category:Anarchist Martyrs</a>
-"<a   href="Category:1864_Births.md" class="wikilink"
+<a href="Category:1864_Births.md" class="wikilink"
 title="Category:1864 Births">Category:1864 Births</a>
-"<a   href="Category:1887_Deaths.md" class="wikilink"
+<a href="Category:1887_Deaths.md" class="wikilink"
 title="Category:1887 Deaths">Category:1887 Deaths</a>
-"<a   href="Category:Carpenters.md" class="wikilink"
+<a href="Category:Carpenters.md" class="wikilink"
 title="Category:Carpenters">Category:Carpenters</a>
-"<a   href="Category:Trade_Unionists.md" class="wikilink"
+<a href="Category:Trade_Unionists.md" class="wikilink"
 title="Category:Trade Unionists">Category:Trade Unionists</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Foner, P.S. The Autobiographies of the Haymarket Martyrs.

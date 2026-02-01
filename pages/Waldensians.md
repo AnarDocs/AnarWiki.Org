@@ -43,9 +43,9 @@ Fredy Perlman describes medieval Waldensians' beliefs:
 
 <references/>
 
-"<a   href="Category:Christian_Anarchism.md" class="wikilink"
+<a href="Category:Christian_Anarchism" class="wikilink"
 title="Category:Christian Anarchism">Category:Christian Anarchism</a>
-"<a   href="Category:Religion.md" class="wikilink"
+<a href="Category:Religion" class="wikilink"
 title="Category:Religion">Category:Religion</a>
 
 [^1]: "A History of the Waldensians," *Musee Protestant*,

@@ -1,8 +1,8 @@
 **The Failure of Nonviolence** is a 2015
-"<a   href="List_of_Anarchist_Media.md" class="wikilink" title="book">book</a>
-written by "<a   href="Peter_Gelderloos.md" class="wikilink"
+<a href="List_of_Anarchist_Media" class="wikilink" title="book">book</a>
+written by <a href="Peter_Gelderloos" class="wikilink"
 title="Peter Gelderloos">Peter Gelderloos</a> which heavily criticizes
-"<a   href="Pacifism.md" class="wikilink" title="Pacifism">Pacifism</a>.
+<a href="Pacifism" class="wikilink" title="Pacifism">Pacifism</a>.
 
 ## Summary
 
@@ -13,111 +13,111 @@ revolutions) from 1990 - 2014 and are examined, these events followed a
 mix of pacifist and non-pacifist strategies, and are compared for
 successfulness. Those evaluated include:
 
-- "<a   href="Oka_Uprising.md" class="wikilink" title="Oka Uprising">Oka
+- <a href="Oka_Uprising" class="wikilink" title="Oka Uprising">Oka
   Uprising</a> - non-pacifist and successful
-- "<a   href="Zapatista_Revolution.md" class="wikilink"
+- <a href="Zapatista_Revolution" class="wikilink"
   title="Zapatista Revolution">Zapatista Revolution</a> - non-pacifist
   and successful
-- "<a   href="Indonesian_Uprising_(1998).md" class="wikilink"
+- <a href="Indonesian_Uprising_(1998)" class="wikilink"
   title="Indonesian Uprising">Indonesian Uprising</a> - non-pacifist and
   semi-successful
-- "<a   href="Second_Intifada.md" class="wikilink"
+- <a href="Second_Intifada" class="wikilink"
   title="Second Intifada">Second Intifada</a> - non-pacifist and
   unsuccessful
-- "<a   href="Black_Spring_(Algeria).md" class="wikilink"
+- <a href="Black_Spring_(Algeria)" class="wikilink"
   title="Black Spring">Black Spring</a> - non-pacifist and successful
-- "<a   href="Argentinazo.md" class="wikilink"
+- <a href="Argentinazo" class="wikilink"
   title="Argentinazo">Argentinazo</a> - non-pacifist and semi-successful
-- "<a   href="Iraq_War_Protests.md" class="wikilink"
+- <a href="Iraq_War_Protests" class="wikilink"
   title="Iraq War Protests">Iraq War Protests</a> - pacifist and
   unsuccessful
-- "<a   href="Color_Revolutions.md" class="wikilink"
+- <a href="Color_Revolutions" class="wikilink"
   title="Color Revolutions">Color Revolutions</a> - pacifist and
   semi-successful
-- "<a   href="Blue_Revolution_(Kuwait).md" class="wikilink"
+- <a href="Blue_Revolution_(Kuwait)" class="wikilink"
   title="Blue">Blue</a> and
-  "<a   href="Cedar_Revolution_(Lebanon).md" class="wikilink"
+  <a href="Cedar_Revolution_(Lebanon)" class="wikilink"
   title="Cedar Revolution">Cedar Revolution</a> - pacifist and
   semi-successful
-- "<a   href="Banlieue_Uprisings_(2005).md" class="wikilink"
+- <a href="Banlieue_Uprisings_(2005)" class="wikilink"
   title="Banlieue Uprisings">Banlieue Uprisings</a> - non-pacifist and
   unsuccessful
-- "<a   href="Water_War_(Bolivia).md" class="wikilink"
+- <a href="Water_War_(Bolivia)" class="wikilink"
   title="Bolivian Water">Bolivian Water</a> and
-  "<a   href="Gas_War_(Bolivia).md" class="wikilink" title="Gas War">Gas War</a> -
+  <a href="Gas_War_(Bolivia)" class="wikilink" title="Gas War">Gas War</a> -
   non-pacifist and successful
-- "<a   href="Tulip_Revolution.md" class="wikilink"
+- <a href="Tulip_Revolution" class="wikilink"
   title="Tulip Revolution">Tulip Revolution</a> - pacifist and
   unsuccessful
-- "<a   href="Oaxaca_Revolution.md" class="wikilink"
+- <a href="Oaxaca_Revolution" class="wikilink"
   title="Oaxaca Revolution">Oaxaca Revolution</a> - non-pacifist and
   unsuccessful
-- "<a   href="CPE_Protests_(2006).md" class="wikilink" title="CPE Protests">CPE
+- <a href="CPE_Protests_(2006)" class="wikilink" title="CPE Protests">CPE
   Protests</a> - non-pacifist and successful
-- "<a   href="Saffron_Revolution.md" class="wikilink"
+- <a href="Saffron_Revolution" class="wikilink"
   title="Saffron Revolution">Saffron Revolution</a> - pacifist and
   unsuccessful
-- "<a   href="Greek_Uprising_(2008).md" class="wikilink"
+- <a href="Greek_Uprising_(2008)" class="wikilink"
   title="Greek Uprising">Greek Uprising</a> - non-pacifist and
   semi-successful
-- "<a   href="Bersih_Rallies.md" class="wikilink" title="Bersih Rallies">Bersih
+- <a href="Bersih_Rallies" class="wikilink" title="Bersih Rallies">Bersih
   Rallies</a> - pacifist and unsuccessful
-- "<a   href="Guadeloupe_Uprising.md" class="wikilink"
+- <a href="Guadeloupe_Uprising" class="wikilink"
   title="Guadeloupe Uprising">Guadeloupe Uprising</a> - non-pacifist and
   successful
-- "<a   href="UK_Student_Uprising_(2010).md" class="wikilink"
+- <a href="UK_Student_Uprising_(2010)" class="wikilink"
   title="UK Student Uprising">UK Student Uprising</a> - non-pacifist and
   semi-successful
-- "<a   href="Tunisian_Revolution.md" class="wikilink"
+- <a href="Tunisian_Revolution" class="wikilink"
   title="Tunisian Revolution">Tunisian Revolution</a> - non-pacifist and
   semi-successful
-- "<a   href="Egyptian_Revolution_(2011).md" class="wikilink"
+- <a href="Egyptian_Revolution_(2011)" class="wikilink"
   title="Egyptian Revolution">Egyptian Revolution</a> - non-pacifist and
   semi-successful
-- "<a   href="Libyan_Civil_War.md" class="wikilink"
+- <a href="Libyan_Civil_War" class="wikilink"
   title="Libyan Revolution">Libyan Revolution</a> - non-pacifist and
   unsuccessful
-- "<a   href="Syrian_Revolution.md" class="wikilink"
+- <a href="Syrian_Revolution" class="wikilink"
   title="Syrian Revolution">Syrian Revolution</a> - non-pacifist and
   unsuccessful
-- "<a   href="15M_Movement.md" class="wikilink" title="15M Movement">15M
+- <a href="15M_Movement" class="wikilink" title="15M Movement">15M
   Movement</a> - non-pacifist and semi-successful
-- "<a   href="UK_Anti-Austerity_Movement.md" class="wikilink"
+- <a href="UK_Anti-Austerity_Movement" class="wikilink"
   title="UK Anti-Austerity Movement">UK Anti-Austerity Movement</a> -
   pacifist and unsuccessful
-- "<a   href="English_Riots_(2011).md" class="wikilink"
+- <a href="English_Riots_(2011)" class="wikilink"
   title="English Riots">English Riots</a> - non-pacifist and
   unsuccessful
-- "<a   href="Occupy_Movement.md" class="wikilink"
+- <a href="Occupy_Movement" class="wikilink"
   title="Occupy Movement">Occupy Movement</a> - pacifist and
   unsuccessful
-- "<a   href="Chilean_Winter.md" class="wikilink" title="Chilean Winter">Chilean
+- <a href="Chilean_Winter" class="wikilink" title="Chilean Winter">Chilean
   Winter</a> - non-pacifist and unsuccessful
-- "<a   href="Quebec_Student_Uprising_(2012).md" class="wikilink"
+- <a href="Quebec_Student_Uprising_(2012)" class="wikilink"
   title="Quebec Student Uprising">Quebec Student Uprising</a> -
   non-pacifist and successful
-- "<a   href="Gezi_Park_Uprising.md" class="wikilink"
+- <a href="Gezi_Park_Uprising" class="wikilink"
   title="Gezi Park Uprising">Gezi Park Uprising</a> - non-pacifist and
   successful
-- "<a   href="Passo_Livre_Uprising.md" class="wikilink"
+- <a href="Passo_Livre_Uprising" class="wikilink"
   title="Passo Livre Uprising">Passo Livre Uprising</a> - non-pacifist
   and semi-successful
-- "<a   href="Gamonal_Uprising.md" class="wikilink"
+- <a href="Gamonal_Uprising" class="wikilink"
   title="Gamonal Uprising">Gamonal Uprising</a> - non-pacifist and
   successful
-- "<a   href="Can_Vies_Uprising.md" class="wikilink"
+- <a href="Can_Vies_Uprising" class="wikilink"
   title="Can Vies Uprising">Can Vies Uprising</a> - non-pacifist and
   successful
-- "<a   href="Rojava_Revolution.md" class="wikilink"
+- <a href="Rojava_Revolution" class="wikilink"
   title="Rojava Revolution">Rojava Revolution</a> - non-pacifist and
   successful
-- "<a   href="Ferguson_Uprising_(2014).md" class="wikilink"
+- <a href="Ferguson_Uprising_(2014)" class="wikilink"
   title="Ferguson Uprising">Ferguson Uprising</a> - non-pacifist and
   unsuccessful
-- "<a   href="Hong_Kong_Democracy_Protests.md" class="wikilink"
+- <a href="Hong_Kong_Democracy_Protests" class="wikilink"
   title="Hong Kong Democracy Protests">Hong Kong Democracy Protests</a> -
   pacifist and unsuccessful
-- "<a   href="Mapuche_Uprising.md" class="wikilink"
+- <a href="Mapuche_Uprising" class="wikilink"
   title="Mapuche Uprising">Mapuche Uprising</a> - non-pacifist and
   semi-successful
 
@@ -129,7 +129,7 @@ drawn.
     put new social relations into practice, whether through practices of
     self-organization, collective self-defense, the reanimation of
     indigenous ways of life, or collectivization and
-    "<a   href="communization.md" class="wikilink"
+    <a href="communization" class="wikilink"
     title="communization">communization</a> (ending the alienation of
     capitalist property, which dictates that everything an be bought and
     sold, and putting our resources in common in a spirit of mutual aid
@@ -157,11 +157,11 @@ drawn.
   1-4)](https://theanarchistlibrary.org/library/peter-gelderloos-the-failure-of-nonviolence)
   at theanarchistlibrary
 
-"<a   href="Category:Peter_Gelderloos.md" class="wikilink"
+<a href="Category:Peter_Gelderloos" class="wikilink"
 title="Category:Peter Gelderloos">Category:Peter Gelderloos</a>
-"<a   href="Category:Anarchist_Books.md" class="wikilink"
+<a href="Category:Anarchist_Books" class="wikilink"
 title="Category:Anarchist Books">Category:Anarchist Books</a>
-"<a   href="Category:Books.md" class="wikilink"
+<a href="Category:Books" class="wikilink"
 title="Category:Books">Category:Books</a>
-"<a   href="Category:Pacifism.md" class="wikilink"
+<a href="Category:Pacifism" class="wikilink"
 title="Category:Pacifism">Category:Pacifism</a>

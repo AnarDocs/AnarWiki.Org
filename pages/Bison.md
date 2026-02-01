@@ -8,7 +8,7 @@ The two species of bison are the American bison and the European bison.
 Bison may be colloquially called buffalo, but they are distinct from the
 true buffalo. As described below, bison decide what direction to move in
 by a majority vote.
-"<a   href="Niitsitapi.md" class="wikilink" title="Niitsitapi">Niitsitapi</a>
+<a href="Niitsitapi.md" class="wikilink" title="Niitsitapi">Niitsitapi</a>
 (Blackfoot) traditions of non-coercion and equality are partly based on
 emulating the bison:
 
@@ -86,7 +86,7 @@ Service:
 
 [^2]: Dan Fischer, "Cows' Self-Liberation from Autumn 2017 to Spring
     2018,"
-    *"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
+    *<a href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
     First!</a> Journal* Litha 2018, 53.
 
 [^3]: Jason Goldman, "Bison 'Vote' on the Direction They'd Like the Herd

@@ -1,5 +1,5 @@
 From Peter Gelderloos,
-"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+<a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > Lakota resistance never ended, and they may win their war in the end.

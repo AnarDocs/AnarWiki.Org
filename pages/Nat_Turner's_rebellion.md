@@ -16,11 +16,11 @@ the most important insurrections in American history".[^2]
 
 <references/>
 
-"<a   href="Category:Slavery.md" class="wikilink"
+<a href="Category:Slavery.md" class="wikilink"
 title="Category:Slavery">Category:Slavery</a>
-"<a   href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings.md" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-"<a   href="Category:USA.md" class="wikilink"
+<a href="Category:USA.md" class="wikilink"
 title="Category:USA">Category:USA</a>
 
 [^1]: Howard Zinn, *A People's History of the United States* (New York:

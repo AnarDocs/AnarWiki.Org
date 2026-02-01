@@ -775,7 +775,7 @@ electromagnetic field, snowflakes, and subatomic particles:
 
 Ursula Le Guin's science fiction novel *The Dispossessed* stars a
 physicist named Shevek who lives on the anarchist planet
-"<a   href="Anarres.md" class="wikilink" title="Anarres">Anarres</a>. Shevek
+<a href="Anarres.md" class="wikilink" title="Anarres">Anarres</a>. Shevek
 tries to combine the Theory of Sequency (which saw time as linear) and
 the Theory of Simultaneity (which saw time as cyclical) into a general
 theory called the Temporal Theory of Time. "Time goes in cycles, as well
@@ -783,9 +783,9 @@ as in a line," Shevek explains.[^70]
 
 <references/>
 
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
 
 [^1]: Carolyn Merchant, *The Death of Nature: Women, Ecology and the
@@ -842,7 +842,7 @@ title="Category:Concepts">Category:Concepts</a>
     Exploration & Research, Vol. 4, no. 4 (2013): 378-390.
 
 [^16]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>, see “A Broader Sense of Self” in ch. 1.
 
 [^17]: Swimme and Tucker, *Journey of the Universe*, ch. 1.

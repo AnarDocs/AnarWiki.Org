@@ -2,8 +2,8 @@
 From Peter Gelderloos, Anarchy Works[^1]:
 
 > In September 1981, a group of Welsh women formed a similar camp \[to
-> Scotland's "<a   href="Faslane_Peace_Camp.md" class="wikilink"
->" title="Faslane Peace Camp">Faslane Peace Camp</a>\], the Greenham
+> Scotland's <a href="Faslane_Peace_Camp.md" class="wikilink"
+> title="Faslane Peace Camp">Faslane Peace Camp</a>\], the Greenham
 > Common Women’s Peace Camp, outside an RAF base housing cruise missiles
 > in Berkshire, England. The women were forcibly evicted in 1984 but
 > immediately reoccupied the site, and in 1991 the last missiles were
@@ -14,18 +14,18 @@ From Peter Gelderloos, Anarchy Works[^1]:
 
 ## References
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:England.md" class="wikilink"
+Communities</a> <a href="Category:England.md" class="wikilink"
 title="Category:England">Category:England</a>
-"<a   href="Category:United_Kingdom.md" class="wikilink"
+<a href="Category:United_Kingdom.md" class="wikilink"
 title="Category:United Kingdom">Category:United Kingdom</a>
-"<a   href="Category:1981.md" class="wikilink"
+<a href="Category:1981.md" class="wikilink"
 title="Category:1981">Category:1981</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
-[^1]: "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+[^1]: <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>

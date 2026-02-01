@@ -1,13 +1,13 @@
 The **Omani Uprising** was a series of protests and
-"<a   href="List_of_General_Strikes.md" class="wikilink"
+<a href="List_of_General_Strikes.md" class="wikilink"
 title="strikes">strikes</a> in
-"<a   href="Oman.md" class="wikilink" title="Oman">Oman</a> over cost of
+<a href="Oman.md" class="wikilink" title="Oman">Oman</a> over cost of
 living, corruption, high unemployment, low wages and a desire for
 greater democracy in
-"<a   href="Timeline_of_Anarchism_in_Western_Asia.md" class="wikilink"
+<a href="Timeline_of_Anarchism_in_Western_Asia.md" class="wikilink"
 title="2011">2011</a>. It was part of the
-"<a   href="Arab_Spring.md" class="wikilink" title="Arab Spring">Arab
-Spring</a> and a "<a   href="Revolutions_of_2010_-_2014.md" class="wikilink"
+<a href="Arab_Spring.md" class="wikilink" title="Arab Spring">Arab
+Spring</a> and a <a href="Revolutions_of_2010_-_2014.md" class="wikilink"
 title="wider global wave of revolts from 2010 to 2014">wider global wave
 of revolts from 2010 to 2014</a>.
 
@@ -22,23 +22,23 @@ living, the country was ripe for revolution.
 ## Events
 
 The 17th of January march of about 200 Omanians occurred soon after the
-"<a   href="Tunisian_Revolution.md" class="wikilink"
+<a href="Tunisian_Revolution.md" class="wikilink"
 title="successful campaign in Tunisia">successful campaign in
 Tunisia</a> to remove President Zine Al Abidine Bin Ali. This first
 action was held to demonstrate against corruption in the government and
 the cost of food. Police did not attempt to stop the march. On the 18th
 of February, after unrest
-"<a   href="Bahraini_Uprising_(2011).md" class="wikilink"
+<a href="Bahraini_Uprising_(2011).md" class="wikilink"
 title="increased in Bahrain">increased in Bahrain</a>, 350 people
 marched, this time demanding both an end to corruption and a more fair
 distribution of oil revenue; these protesters did not directly oppose
 the Sultan of Oman and
-"<a   href="police.md" class="wikilink" title="police">police</a> again did
+<a href="police.md" class="wikilink" title="police">police</a> again did
 not attempt to stop the protest.
 
 On the 26th of February, protests spread to Sohar, where 500
 demonstrators
-"<a   href="Blockade.md" class="wikilink" title="blockaded">blockaded</a> a
+<a href="Blockade.md" class="wikilink" title="blockaded">blockaded</a> a
 shopping mall. The next day, the 27th of February, protesters forced the
 closure of the Earth Roundabout to traffic by staging an occupation and
 blocking every access point to the main junction in the industrial port
@@ -62,7 +62,7 @@ the city in support of the government.
 Meanwhile in Sohar, a vigil was held outside of a police station in
 which two protesters were being held as the occupation and blockade of
 the Globe Roundabout continued. On the 5th of March
-"<a   href="Fossil_Fuels#Oil.md" class="wikilink" title="oil">oil</a> workers
+<a href="Fossil_Fuels#Oil.md" class="wikilink" title="oil">oil</a> workers
 in Haima, a key oil region, began a sit-in demanding more investment in
 the region. On the 6th of March about 200 workers staged a protest at
 Oman Air in Muscat. They demanded a wage increase. Some workers called
@@ -127,7 +127,7 @@ many of the remaining protesters.
 ## Results
 
 Although the uprising failed to secure
-"<a   href="Representative_Democracy.md" class="wikilink"
+<a href="Representative_Democracy.md" class="wikilink"
 title="representative democracy">representative democracy</a> in Oman,
 it did trigger economic reforms such as:
 
@@ -140,33 +140,33 @@ it did trigger economic reforms such as:
 
 ## References
 
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+<a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
 [2011 Omani protests](https://en.wikipedia.org/wiki/2011_Omani_protests)
 
-"<a   href="Global_Nonviolent_Action_Database.md" class="wikilink"
+<a href="Global_Nonviolent_Action_Database.md" class="wikilink"
 title="Global Nonviolent Action Database">Global Nonviolent Action
 Database</a> - [Omanis make economic gains, press for democracy
 2011](https://nvdatabase.swarthmore.edu/content/omanis-make-economic-gains-press-democracy-2011-0)
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Oman.md" class="wikilink"
+<a href="Category:Oman.md" class="wikilink"
 title="Category:Oman">Category:Oman</a>
-"<a   href="Category:Western_Asia.md" class="wikilink"
+<a href="Category:Western_Asia.md" class="wikilink"
 title="Category:Western Asia">Category:Western Asia</a>
-"<a   href="Category:Asia.md" class="wikilink"
+<a href="Category:Asia.md" class="wikilink"
 title="Category:Asia">Category:Asia</a>
-"<a   href="Category:2011.md" class="wikilink"
+<a href="Category:2011.md" class="wikilink"
 title="Category:2011">Category:2011</a>
-"<a   href="Category:2010s.md" class="wikilink"
+<a href="Category:2010s.md" class="wikilink"
 title="Category:2010s">Category:2010s</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:Arab_Spring.md" class="wikilink"
+<a href="Category:Arab_Spring.md" class="wikilink"
 title="Category:Arab Spring">Category:Arab Spring</a>
-"<a   href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings.md" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-"<a   href="Category:Worker_Uprisings.md" class="wikilink"
+<a href="Category:Worker_Uprisings.md" class="wikilink"
 title="Category:Worker Uprisings">Category:Worker Uprisings</a>
-"<a   href="Category:General_Strikes.md" class="wikilink"
+<a href="Category:General_Strikes.md" class="wikilink"
 title="Category:General Strikes">Category:General Strikes</a>

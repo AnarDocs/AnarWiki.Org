@@ -20,9 +20,9 @@ pretty much the same," said the study's lead researcher.[^3]
 
 <references/>
 
-"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Natural_World.md" class="wikilink"
+<a href="Category:Natural_World.md" class="wikilink"
 title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Alfie Shaw, "The Lion King and other myths," *BBC Earth*,

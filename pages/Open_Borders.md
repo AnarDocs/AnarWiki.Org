@@ -1,12 +1,12 @@
 **Open Borders** are
-"<a   href="Border.md" class="wikilink" title="borders">borders</a> that
+<a href="Border.md" class="wikilink" title="borders">borders</a> that
 enable free movement of people between states and communities. In
 otherwords, no visas, no bureaucracy, no passports, no queues and no
 checkpoints.
 
 ## History
 
-*See Also: "<a   href="History_of_Borders.md" class="wikilink"
+*See Also: <a href="History_of_Borders.md" class="wikilink"
 title="History of Borders">History of Borders</a>*
 
 Although open borders arguably existed for most of human history (for
@@ -19,14 +19,14 @@ California to Florida.
 
 The largest and most stable example of open borders from recent history
 is the
-"<a   href="Schengen_Area.md" class="wikilink" title="Schengen area">Schengen
-area</a>, developed by the "<a   href="European_Union.md" class="wikilink"
+<a href="Schengen_Area.md" class="wikilink" title="Schengen area">Schengen
+area</a>, developed by the <a href="European_Union.md" class="wikilink"
 title="European Union">European Union</a> in 1995 and at one point
 allowing around 420 million people to freely travel from
-"<a   href="Portugal.md" class="wikilink" title="Portugal">Portugal</a> to
-"<a   href="Finland.md" class="wikilink" title="Finland">Finland</a>, with
+<a href="Portugal.md" class="wikilink" title="Portugal">Portugal</a> to
+<a href="Finland.md" class="wikilink" title="Finland">Finland</a>, with
 restrictions being reintroduced from 2015 to 2020, as it more or less
-collapsed due to the "<a   href="Coronavirus_Pandemic.md" class="wikilink"
+collapsed due to the <a href="Coronavirus_Pandemic.md" class="wikilink"
 title="coronavirus pandemic">coronavirus pandemic</a>.
 
 ## Debate
@@ -45,11 +45,11 @@ title="coronavirus pandemic">coronavirus pandemic</a>.
 - **For:** Open borders would lead to political reforms in poorer and
   more oppressive countries to prevent brain drains, which is what
   happened to
-  "<a   href="Estonian_Health_Worker_Strike_(2012).md" class="wikilink"
+  <a href="Estonian_Health_Worker_Strike_(2012).md" class="wikilink"
   title="Estonia in 2012">Estonia in 2012</a>.
 - **Against**: Open borders will led to lower wages and worse working
   conditions since they increase the
-  "<a   href="Reserve_Army_of_Labour.md" class="wikilink"
+  <a href="Reserve_Army_of_Labour.md" class="wikilink"
   title="reserve army of labor">reserve army of labor</a>.
 - **Against:** Open borders could lead to greater destruction of the
   environment given that it allows for more people to live middle-class

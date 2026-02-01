@@ -157,13 +157,13 @@ A traveller from Maine described the death march:
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy.md" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Theda Perdue and Michael D. Green, *The Cherokee Nation and the

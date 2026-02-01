@@ -8,9 +8,9 @@ of the student chapters adopted anarchistic politics, including the
 University of Texas–Austin chapter and the MIT chapter. Some of the
 non-student members were also Anarchists: the ‘’Anarchos’’ group that
 included Murray Bookchin, the
-"<a   href="Black_Mask.md" class="wikilink" title="Black Mask">Black Mask</a>
+<a href="Black_Mask" class="wikilink" title="Black Mask">Black Mask</a>
 chapter, and the Louis Lingg Memorial Chapter. There was overlap with
-the "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+the <a href="Industrial_Workers_of_the_World" class="wikilink"
 title="Industrial Workers of the World">Industrial Workers of the
 World</a>. By 1969, the Weathermen, a Maoist faction, had taken
 leadership of the organization. SDS dissipated as Weathermen shifted
@@ -74,7 +74,7 @@ women movement’s emphasis on autonomous women’s organizations:
 # History
 
 *Parts of this section come from the article
-"<a   href="Weather_Underground_and_Anarchy.md" class="wikilink"
+<a href="Weather_Underground_and_Anarchy" class="wikilink"
 title="Weather Underground and Anarchy">Weather Underground and
 Anarchy</a>.*
 
@@ -106,13 +106,13 @@ instinctive anarchists, principled and practiced
 antiauthoritarians.”[^8] The chapter at the Massachusetts Institute of
 Technology, named Rosa Luxemburg SDS, was advised by Noam Chomsky, the
 Anarchist professor of linguistics. With members including future
-"<a   href="Participatory_Society.md" class="wikilink"
+<a href="Participatory_Society" class="wikilink"
 title="Participatory Economics">Participatory Economics</a> co-founder
 Michael Albert, the group blockaded Dow Chemical’s campus recruitment
 event and organized along with other radicals in the Boston area.[^9]
 
 Anarchist politics were not restricted to students.
-"<a   href="Black_Mask.md" class="wikilink" title="Black Mask">Black Mask</a>,
+<a href="Black_Mask" class="wikilink" title="Black Mask">Black Mask</a>,
 an Anarchist street gang that engaged in militant direct actions—such as
 briefly breaking into the Pentagon during an anti-war
 demonstration—affiliated with SDS. The Louis Lingg Memorial Chapter in
@@ -133,7 +133,7 @@ April to 30 April 1968. Police arrested more than 700 people.[^12]
 Kirkpatrick Sale describes the occupation as a moment when many SDS
 members realized that they had revolutionary aims.[^13] Along with
 various Marxist groups, the anarchistic
-"<a   href="Yippies.md" class="wikilink" title="Yippies">Yippies</a> played a
+<a href="Yippies" class="wikilink" title="Yippies">Yippies</a> played a
 role in the occupation.[^14]
 
 By the time of its 1969 national conference, SDS was dominated by three

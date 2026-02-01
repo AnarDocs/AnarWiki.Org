@@ -1,5 +1,5 @@
 **Saul David Alinsky** (1909 - 1972) was a
-"<a   href="Community_Organizing.md" class="wikilink"
+<a href="Community_Organizing.md" class="wikilink"
 title="community organizer">community organizer</a>, writer and
 philosopher.
 
@@ -16,20 +16,20 @@ moved to Los Angeles in the 1920s and finished high school in 1926.
 He graduated with a bachelor in philosophy from the university of
 Chicago in 1930, and major in archeology. He planned to be a
 professional archeologist, but the
-"<a   href="Great_Depression.md" class="wikilink"
+<a href="Great_Depression.md" class="wikilink"
 title="Great Depression">Great Depression</a> put plans away for this.
 He began to work as a criminologist for the State of Illinois, and began
 organizing with the
-"<a   href="Congress_of_Industrial_Organizations.md" class="wikilink"
+<a href="Congress_of_Industrial_Organizations.md" class="wikilink"
 title="Congress of Industrial Organizations">Congress of Industrial
 Organizations</a>. But slowly became less active in the labor movement
 and more with general community organizing. He successfully organized
 slum communities, and also began organizing in Kansas City, Detroit and
 Southern California.
 
-He never joined a "<a   href="Political_Party.md" class="wikilink"
+He never joined a <a href="Political_Party.md" class="wikilink"
 title="political party">political party</a>, but identified as a 'small
-c "<a   href="Communism.md" class="wikilink" title="communist">communist</a>'
+c <a href="Communism.md" class="wikilink" title="communist">communist</a>'
 and became a legendary community organizer. But died of a heart attack
 in California. Before his death, he expressed a desire to go to hell, to
 organize it, culminating in an uprising against satan.[^1]
@@ -58,19 +58,19 @@ successfully challenge the wealthy and power. They are:
 
 ## Works
 
-- "<a   href="Rules_for_Radicals.md" class="wikilink"
+- <a href="Rules_for_Radicals.md" class="wikilink"
   title="Rules for Radicals">Rules for Radicals</a>
 
 ## References
 
-"<a   href="Category:Community_Organizing.md" class="wikilink"
+<a href="Category:Community_Organizing.md" class="wikilink"
 title="Category:Community Organizing">Category:Community Organizing</a>
-"<a   href="Category:USA.md" class="wikilink"
+<a href="Category:USA.md" class="wikilink"
 title="Category:USA">Category:USA</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America.md" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
-[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^1]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Saul_Alinsky>

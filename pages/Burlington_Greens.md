@@ -1,5 +1,5 @@
 From 1986 to 1990, the Burlington, Vermont, chapter of the
-"<a   href="US_Green_movement.md" class="wikilink"
+<a href="US_Green_movement.md" class="wikilink"
 title="US Green movement">US Green movement</a> combined Anarchism with
 an involvement in local electoral politics. The group included the
 social ecologist Murray Bookchin and tried to closely follow his

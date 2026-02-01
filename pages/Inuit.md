@@ -1,5 +1,5 @@
 Harold Barclay,
-"<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
+<a href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
 class="wikilink"
 title="People Without Government: An Anthropology of Anarchy">People
 Without Government: An Anthropology of Anarchy</a>:
@@ -130,7 +130,7 @@ Without Government: An Anthropology of Anarchy</a>:
 
 <references>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>

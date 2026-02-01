@@ -307,17 +307,17 @@ can autonomously fight oppression without relying on the state:
 
 <references/>
 
-"<a   href="Category:USA.md" class="wikilink"
+<a href="Category:USA.md" class="wikilink"
 title="Category:USA">Category:USA</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America.md" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings.md" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-"<a   href="Category:Direct_Action.md" class="wikilink"
+<a href="Category:Direct_Action.md" class="wikilink"
 title="Category:Direct Action">Category:Direct Action</a>
-"<a   href="Category:Slavery.md" class="wikilink"
+<a href="Category:Slavery.md" class="wikilink"
 title="Category:Slavery">Category:Slavery</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Emma Goldman, "Anarchism: What It Really Stands For," 1917,

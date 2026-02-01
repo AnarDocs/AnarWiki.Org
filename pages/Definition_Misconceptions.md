@@ -215,7 +215,7 @@ becomes compulsion or extends beyond specific purposes, it ceases being
 anarchist.
 
 Historical examples include the
-"<a   href="Spanish_Revolution.md" class="wikilink"
+<a href="Spanish_Revolution.md" class="wikilink"
 title="Spanish Revolution">Spanish Revolution</a>, where military
 coordinators remained accountable to their units and faced instant
 replacement. This differs fundamentally from generals who can execute
@@ -254,7 +254,7 @@ sufficiently qualified, representative, or beneficial, despite anarchy
 literally translating to "no rulers." This manifests through arguments
 that hierarchy becomes acceptable if "justified," a position notably
 attributed to
-"<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
+<a href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
 Chomsky</a>. Chomsky argued that "power is always illegitimate, unless
 it proves itself to be legitimate," placing burden of proof on those
 claiming hierarchical authority.
@@ -278,10 +278,10 @@ requiring dismantlement, not debate.
 Left-authoritarian tendencies downplay the power of party chairmen or
 presiding committees, pretending "vanguard parties" directing
 revolutions avoid hierarchy because they claim representing "the
-people." "<a   href="Right-libertarianism.md" class="wikilink"
+people." <a href="Right-libertarianism.md" class="wikilink"
 title="Right-libertarians">Right-libertarians</a> (propertarians) have
 used "anarchy" to include minimal government
-("<a   href="minarchism.md" class="wikilink" title="minarchism">minarchism</a>)
+(<a href="minarchism.md" class="wikilink" title="minarchism">minarchism</a>)
 whilst accepting economic hierarchy, objecting to political authority
 whilst defending employers' authority as if power to impose starvation
 were less coercive than power to impose arrest.
@@ -341,9 +341,9 @@ are governments. The term becomes meaningless.
 
 This appears in arguments by those outside anarchism attempting to prove
 government's inevitability, and occasionally amongst extreme
-"<a   href="primitivist_anarchism.md" class="wikilink"
+<a href="primitivist_anarchism.md" class="wikilink"
 title="primitivist">primitivist</a> or
-"<a   href="individualist_anarchism.md" class="wikilink"
+<a href="individualist_anarchism.md" class="wikilink"
 title="individualist">individualist</a> anarchist tendencies.
 
 However, even if someone cannot distinguish organisation from
@@ -394,7 +394,7 @@ opposing involuntary hierarchy and coercive authority.
 - Does it prevent opting out or choosing alternatives?
 - Does it maintain monopoly on force within territory?
 
-"<a   href="Peter_Kropotkin.md" class="wikilink"
+<a href="Peter_Kropotkin.md" class="wikilink"
 title="Kropotkin">Kropotkin</a> addressed this point: people
 knowledgeable about bridge-building do not create governments unless
 those engineers gain authority compelling others. The difference between
@@ -427,7 +427,7 @@ this entirely. Three people should not vote to enslave two people,
 regardless of how "democratic" the process.
 
 Democracy commonly refers to
-"<a   href="representative_democracy.md" class="wikilink"
+<a href="representative_democracy.md" class="wikilink"
 title="representative democracy">representative democracy</a>, which
 inevitably creates mini-rulers, often controlled by party leadership or
 heavily influenced by corporate sponsors, fundamentally antithetical to
@@ -438,7 +438,7 @@ for you.
 ## Confederation
 
 Confusion arises from anarchist concepts of
-"<a   href="confederation.md" class="wikilink"
+<a href="confederation.md" class="wikilink"
 title="confederation">confederation</a>, where communities or groups
 work together through processes sometimes involving temporary, limited,
 recallable delegates.
@@ -528,17 +528,17 @@ it radical.
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Political_Theory.md" class="wikilink"
+Socialism</a> <a href="Category:Political_Theory.md" class="wikilink"
 title="Category:Political Theory">Category:Political Theory</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Mikhail Bakunin, "What is Authority?" (1870)

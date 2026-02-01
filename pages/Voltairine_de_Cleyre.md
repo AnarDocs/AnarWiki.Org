@@ -4,50 +4,50 @@
 
 **Voltairine de Cleyre** (November 17, 1866 – June 20, 1912) was an
 American
-"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>,
-"<a   href="feminist.md" class="wikilink" title="feminist">feminist</a> writer
+<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>,
+<a href="feminist" class="wikilink" title="feminist">feminist</a> writer
 and public speaker. Born into poverty in
-"<a   href="Michigan.md" class="wikilink" title="Michigan">Michigan</a>, de
+<a href="Michigan" class="wikilink" title="Michigan">Michigan</a>, de
 Cleyre taught herself to read and became a lover of poetry. She was
 educated at a Catholic convent, which influenced her turn towards
-"<a   href="anti-theism.md" class="wikilink"
+<a href="anti-theism" class="wikilink"
 title="anti-theism">anti-theism</a> and
-"<a   href="anti-authoritarianism.md" class="wikilink"
+<a href="anti-authoritarianism" class="wikilink"
 title="anti-authoritarianism">anti-authoritarianism</a>. After
 graduating, de Cleyre began her activist career in the
-"<a   href="freethought.md" class="wikilink"
+<a href="freethought" class="wikilink"
 title="freethought">freethought</a> movement before converting to
-anarchism following the "<a   href="Haymarket_affair.md" class="wikilink"
+anarchism following the <a href="Haymarket_affair" class="wikilink"
 title="Haymarket affair">Haymarket affair</a>.
 
-She moved to "<a   href="Philadelphia.md" class="wikilink"
+She moved to <a href="Philadelphia" class="wikilink"
 title="Philadelphia">Philadelphia</a>, where she lived for most of her
 adult life and taught many of the city's
-"<a   href="Jewish_anarchism.md" class="wikilink"
+<a href="Jewish_anarchism" class="wikilink"
 title="Jewish anarchists">Jewish anarchists</a>. By the late 1890s, de
 Cleyre was a leading figure in the American anarchist movement. She
 adopted the philosophy of
-"<a   href="anarchism_without_adjectives.md" class="wikilink"
+<a href="anarchism_without_adjectives" class="wikilink"
 title="anarchism without adjectives">anarchism without adjectives</a>
-and later defended "<a   href="propaganda_of_the_deed.md" class="wikilink"
+and later defended <a href="propaganda_of_the_deed" class="wikilink"
 title="propaganda of the deed">propaganda of the deed</a>. Following an
 assassination attempt by a former student, her health deteriorated but
 she continued writing and speaking. She spent her final years supporting
-the "<a   href="Mexican_Revolution.md" class="wikilink"
+the <a href="Mexican_Revolution" class="wikilink"
 title="Mexican Revolution">Mexican Revolution</a> before dying in
 Chicago in 1912.
 
 ## Early Life
 
 Voltairine De Claire was born on November 17, 1866, in
-"<a   href="Leslie,_Michigan.md" class="wikilink"
+<a href="Leslie,_Michigan" class="wikilink"
 title="Leslie, Michigan">Leslie, Michigan</a>.[^1] She was the third
 daughter of Hector De Claire, a French-American artisan and socialist,
 and Harriet De Claire, a New Englander whose family was involved in the
 abolitionist movement.[^2] Her father named her after the French
 philosopher
-"<a   href="Voltaire.md" class="wikilink" title="Voltaire">Voltaire</a>.[^3]
-The family moved to "<a   href="St._Johns,_Michigan.md" class="wikilink"
+<a href="Voltaire" class="wikilink" title="Voltaire">Voltaire</a>.[^3]
+The family moved to <a href="St._Johns,_Michigan" class="wikilink"
 title="St. Johns, Michigan">St. Johns, Michigan</a> in 1867, where De
 Claire grew up in extreme poverty.[^4]
 
@@ -56,13 +56,13 @@ personality. At age four, she was refused entry to primary school due to
 her young age but taught herself to read and was admitted the following
 year.[^5] She and her sister Adelaide spent much time reading poetry and
 novels by British writers, particularly
-"<a   href="Lord_Byron.md" class="wikilink" title="Lord Byron">Lord Byron</a>,
+<a href="Lord_Byron" class="wikilink" title="Lord Byron">Lord Byron</a>,
 who strongly influenced De Claire's writing style.[^6]
 
 In the 1870s, De Claire's father left St. Johns to seek work and never
 returned.[^7] In September 1880, her father enrolled her at the convent
 of Our Lady of Lake Huron in
-"<a   href="Sarnia.md" class="wikilink" title="Sarnia">Sarnia</a>, Canada,
+<a href="Sarnia" class="wikilink" title="Sarnia">Sarnia</a>, Canada,
 hoping to discipline her.[^8] De Claire considered her three years at
 the convent a prison sentence and felt abandoned by her father.[^9]
 Despite these conditions, De Claire improved her writing and music
@@ -81,14 +81,14 @@ supreme and laid the foundations for her conversion to anarchism.[^13]
 
 At 17, De Claire returned to St. Johns and began tutoring in
 handwriting, music, and French, moving to
-"<a   href="Greenville,_Michigan.md" class="wikilink"
+<a href="Greenville,_Michigan" class="wikilink"
 title="Greenville, Michigan">Greenville, Michigan</a> in late 1885.[^14]
 By this time a convinced freethinker, De Claire lectured and wrote for
 movement periodicals.[^15] Through atheism, she first encountered
 anarchism, as both movements reject clerical and political
 authority.[^16]
 
-In 1886, she moved to "<a   href="Grand_Rapids,_Michigan.md" class="wikilink"
+In 1886, she moved to <a href="Grand_Rapids,_Michigan" class="wikilink"
 title="Grand Rapids, Michigan">Grand Rapids, Michigan</a> and became
 editor-in-chief of the weekly freethought magazine *The Progressive
 Age*.[^17] She published under the pen name "Fanny Fern" and changed her
@@ -97,7 +97,7 @@ signature from Voltairine De Claire to Voltairine de Cleyre in
 attendees.[^19]
 
 Her growing fame led to lecture tours for the
-"<a   href="American_Secular_Union.md" class="wikilink"
+<a href="American_Secular_Union" class="wikilink"
 title="American Secular Union">American Secular Union</a> throughout the
 Midwestern and Northeastern United States.[^20] She contributed to
 several freethought periodicals, including *The Truth Seeker*.
@@ -108,19 +108,19 @@ socialism, and anarchism.[^21]
 ### Conversion to Anarchism
 
 In December 1887, a lecture by
-"<a   href="Clarence_Darrow.md" class="wikilink"
+<a href="Clarence_Darrow" class="wikilink"
 title="Clarence Darrow">Clarence Darrow</a> introduced de Cleyre to
 socialist programs for improving working-class conditions.[^22] She
 quickly became anti-capitalist and a socialist, denouncing monopolies,
 labor exploitation, and all forms of oppression.[^23] Debates with
 Jewish anarchists in Pittsburgh influenced her to study anarchist
 theory, particularly the
-"<a   href="individualist_anarchism.md" class="wikilink"
+<a href="individualist_anarchism" class="wikilink"
 title="individualist anarchism">individualist anarchism</a> of
-"<a   href="Benjamin_Tucker.md" class="wikilink"
+<a href="Benjamin_Tucker" class="wikilink"
 title="Benjamin Tucker">Benjamin Tucker</a>'s *Liberty*.[^24]
 
-The "<a   href="Haymarket_affair.md" class="wikilink"
+The <a href="Haymarket_affair" class="wikilink"
 title="Haymarket affair">Haymarket affair</a> accelerated her conversion
 to anarchism.[^25] She immediately regretted her initial reaction of
 calling for hanging the Chicago workers' rally bombing
@@ -132,13 +132,13 @@ anarchism for life.[^28]
 
 ### Philadelphia
 
-In June 1888, de Cleyre visited "<a   href="Philadelphia.md" class="wikilink"
+In June 1888, de Cleyre visited <a href="Philadelphia" class="wikilink"
 title="Philadelphia">Philadelphia</a> for the first time and decided to
 move there the following year, making the city her home for the next two
 decades.[^29] There she met the freethinker James B. Elliott, with whom
 she had a brief romantic relationship.[^30] On June 12, 1890, de Cleyre
 gave birth to their son
-"<a   href="Harry_de_Cleyre.md" class="wikilink" title="Harry">Harry</a>.[^31]
+<a href="Harry_de_Cleyre" class="wikilink" title="Harry">Harry</a>.[^31]
 Her chronic condition and depressive mood made her feel physically and
 emotionally incapable of raising him, so she largely stayed away from
 her son.[^32]
@@ -148,10 +148,10 @@ the English language, which provided her with a small income.[^33] She
 lived in poor conditions and her work exhausted her. She took on
 hundreds of Jewish students and became friends with many more.[^34]
 While she taught her students the English language, de Cleyre herself
-learned "<a   href="Yiddish.md" class="wikilink" title="Yiddish">Yiddish</a>,
+learned <a href="Yiddish" class="wikilink" title="Yiddish">Yiddish</a>,
 eventually becoming fluent in it.[^35] She regularly read and
 contributed articles to the Yiddish anarchist magazine, the
-*"<a   href="Fraye_Arbeter_Shtime.md" class="wikilink"
+*<a href="Fraye_Arbeter_Shtime" class="wikilink"
 title="Fraye Arbeter Shtime">Fraye Arbeter Shtime</a>*.[^36]
 
 ### Agitation and Organization
@@ -162,13 +162,13 @@ link between the Jewish immigrants and American workers of Philadelphia,
 and contributed several articles, poems and stories to many anarchist
 publications.[^38] She delivered numerous lectures throughout the
 Northeastern United States, including regular commemorations of the
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
+<a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
 Commune</a> each March and memorial meetings for the Haymarket martyrs
 each May.[^39]
 
 She was also active as a movement functionary, organizing meetings,
 establishing groups and distributing literature.[^40] In 1892, she
-co-founded the "<a   href="Ladies&#39;_Liberal_League.md" class="wikilink"
+co-founded the <a href="Ladies&#39;_Liberal_League" class="wikilink"
 title="Ladies&#39; Liberal League">Ladies' Liberal League</a>, a
 freethinking feminist group which organized forums on various political
 subjects.[^41] She also helped establish a Radical Library that provided
@@ -178,29 +178,29 @@ an education space for Jewish anarchists in Philadelphia.[^42]
 
 In early 1897, she set sail for England, arriving within a week.[^43]
 She stayed in
-"<a   href="London.md" class="wikilink" title="London">London</a> for two
+<a href="London" class="wikilink" title="London">London</a> for two
 months as a guest in John and Mary Turner's house. She was introduced to
 the Freedom Group, as well as the German historian
-"<a   href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
+<a href="Max_Nettlau" class="wikilink" title="Max Nettlau">Max
 Nettlau</a> and the famous Russian anarchist
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>.[^44]
 
 In August 1897, a group of Spanish anarchists arrived in London, having
 escaped the severe political repression of the
-"<a   href="Montjuïc_trials.md" class="wikilink"
+<a href="Montjuïc_trials" class="wikilink"
 title="Montjuïc trials">Montjuïc trials</a>.[^45] De Cleyre greeted 28
 of the Spanish refugees upon their arrival. They described to de Cleyre
 the repression they had faced and showed her the scars left by their
 torture.[^46] Her meetings with the Spanish anarchists inspired her to
 begin learning the Spanish language and to adopt the philosophy of
-"<a   href="anarchism_without_adjectives.md" class="wikilink"
+<a href="anarchism_without_adjectives" class="wikilink"
 title="anarchism without adjectives">anarchism without adjectives</a>
-from "<a   href="Fernando_Tarrida_del_Mármol.md" class="wikilink"
+from <a href="Fernando_Tarrida_del_Mármol" class="wikilink"
 title="Fernando Tarrida del Mármol">Fernando Tarrida del Mármol</a>.[^47]
 
 She decided to visit
-"<a   href="Scotland.md" class="wikilink" title="Scotland">Scotland</a> and
+<a href="Scotland" class="wikilink" title="Scotland">Scotland</a> and
 quickly fell in love with the country, remarking that if she could make
 a living there, she would never return to America.[^48] In September
 1897, she left Glasgow and returned to London, giving a series of
@@ -215,10 +215,10 @@ London, and started a translation of Jean Grave's *Moribund Society and
 Anarchy*.[^51]
 
 The group's propaganda activities began to face difficulties in the wake
-of the "<a   href="assassination_of_William_McKinley.md" class="wikilink"
+of the <a href="assassination_of_William_McKinley" class="wikilink"
 title="assassination of William McKinley">assassination of William
 McKinley</a> by
-"<a   href="Leon_Czolgosz.md" class="wikilink" title="Leon Czolgosz">Leon
+<a href="Leon_Czolgosz" class="wikilink" title="Leon Czolgosz">Leon
 Czolgosz</a>, which unleashed a wave of political repression against the
 anarchist movement.[^52] Although she did not agree with his
 assassination, she remarked that assassination attempts were an
@@ -226,7 +226,7 @@ occupational hazard of being a head of state.[^53] Although de Cleyre
 had previously rejected violence as a pacifist, her sympathy for
 Czolgosz's attack marked a turning point, as she increasingly began to
 accept violent methods such as
-"<a   href="propaganda_of_the_deed.md" class="wikilink"
+<a href="propaganda_of_the_deed" class="wikilink"
 title="propaganda of the deed">propaganda of the deed</a>.[^54]
 
 ## Later Life
@@ -260,19 +260,19 @@ becoming apathetic towards her political beliefs.[^62]
 ### Support for the Mexican Revolution
 
 Just as her depression was reaching its lowest point, the
-"<a   href="Mexican_Revolution.md" class="wikilink"
+<a href="Mexican_Revolution" class="wikilink"
 title="Mexican Revolution">Mexican Revolution</a> broke out.[^63] Her
 spirits were rapidly lifted and she devoted herself to supporting the
 revolution, believing that the events in Mexico were the social
 revolution she had been waiting for.[^64] By July 1911, she was working
-for the Magonist newspaper *"<a   href="Regeneración.md" class="wikilink"
+for the Magonist newspaper *<a href="Regeneración" class="wikilink"
 title="Regeneración">Regeneración</a>* and established the Mexican
 Liberal Defense League.[^65]
 
 ### Final Years and Death
 
 In her later years, de Cleyre developed a strong sympathy for the
-"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+<a href="Industrial_Workers_of_the_World" class="wikilink"
 title="Industrial Workers of the World">Industrial Workers of the
 World</a>, which moved her closer to left-wing politics and
 anti-capitalism. She abandoned her long-held pacifism, began advocating
@@ -288,7 +288,7 @@ brain.[^68] De Cleyre spent the last nine weeks of her life in pain in
 her hospital bed, finally dying on June 20, 1912.[^69]
 
 Three days later, her body was buried at the
-"<a   href="Waldheim_Cemetery.md" class="wikilink"
+<a href="Waldheim_Cemetery" class="wikilink"
 title="Waldheim Cemetery">Waldheim Cemetery</a>, next to the tomb of the
 Haymarket martyrs.[^70] Her funeral was attended by 2,000 people,
 including representatives of several trade unions.[^71]
@@ -304,7 +304,7 @@ Haymarket affair and was specifically drawn to the individualist
 anarchism of Benjamin Tucker.[^73]
 
 She considered herself to be an
-"<a   href="anarchist_without_adjectives.md" class="wikilink"
+<a href="anarchist_without_adjectives" class="wikilink"
 title="anarchist without adjectives">anarchist without adjectives</a>,
 rejecting qualifying economic labels, as she was more interested in
 changing social conditions and believed that free economic
@@ -315,7 +315,7 @@ present day.[^75]
 ### Feminism
 
 Alongside
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+<a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>, de Cleyre was one of the main figures of anarchist feminism
 at the turn of the century in the United States. They advocated for the
 abolition of gender roles, which they saw as an extension of political
@@ -344,7 +344,7 @@ De Cleyre was eulogised in *Regeneración* and *Mother Earth*.[^81] Emma
 Goldman said that de Cleyre was "beautiful in her spiritual defiance and
 filled with the revolt of a flaming ideal".[^82] German
 anarcho-syndicalist
-"<a   href="Rudolf_Rocker.md" class="wikilink" title="Rudolf Rocker">Rudolf
+<a href="Rudolf_Rocker" class="wikilink" title="Rudolf Rocker">Rudolf
 Rocker</a> called her "one of the most wonderful women that America has
 given the world".[^83]
 
@@ -354,12 +354,12 @@ against her. It was due to her personality as it was hard for her to get
 out of her shell".[^84] Compared with other leading figures in American
 anarchism, de Cleyre has received relatively little scholarly
 attention.[^85] Historian
-"<a   href="Paul_Avrich.md" class="wikilink" title="Paul Avrich">Paul
+<a href="Paul_Avrich" class="wikilink" title="Paul Avrich">Paul
 Avrich</a> attributed this scholarly neglect to her short life, which
 ended before the major events of the early 20th century.[^86]
 
 Paul Avrich's 1978 book
-*"<a   href="An_American_Anarchist:_The_Life_of_Voltairine_de_Cleyre.md"
+*<a href="An_American_Anarchist:_The_Life_of_Voltairine_de_Cleyre"
 class="wikilink"
 title="An American Anarchist: The Life of Voltairine de Cleyre">An
 American Anarchist: The Life of Voltairine de Cleyre</a>* has been
@@ -373,7 +373,7 @@ and work back to public attention.[^88]
 ### Major Essays
 
 - "The Economic Tendency of Freethought" (1890)
-- ""<a   href="Sex_Slavery_(essay).md" class="wikilink" title="Sex Slavery">Sex
+- "<a href="Sex_Slavery_(essay)" class="wikilink" title="Sex Slavery">Sex
   Slavery</a>" (1895)
 - "The Making of an Anarchist" (1903)
 - "Crime and Punishment" (1903)
@@ -397,27 +397,27 @@ and work back to public attention.[^88]
 
 <references/>
 
-"<a   href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-"<a   href="Category:American_Anarchists.md" class="wikilink"
+<a href="Category:American_Anarchists" class="wikilink"
 title="Category:American Anarchists">Category:American Anarchists</a>
-"<a   href="Category:Writers.md" class="wikilink"
+<a href="Category:Writers" class="wikilink"
 title="Category:Writers">Category:Writers</a>
-"<a   href="Category:1866_births.md" class="wikilink"
+<a href="Category:1866_births" class="wikilink"
 title="Category:1866 births">Category:1866 births</a>
-"<a   href="Category:1912_deaths.md" class="wikilink"
+<a href="Category:1912_deaths" class="wikilink"
 title="Category:1912 deaths">Category:1912 deaths</a>
-"<a   href="Category:Wikipedia.md" class="wikilink"
+<a href="Category:Wikipedia" class="wikilink"
 title="Category:Wikipedia">Category:Wikipedia</a>
-"<a   href="Category:Non-monogamous.md" class="wikilink"
+<a href="Category:Non-monogamous" class="wikilink"
 title="Category:Non-monogamous">Category:Non-monogamous</a>
-"<a   href="Category:Poets.md" class="wikilink"
+<a href="Category:Poets" class="wikilink"
 title="Category:Poets">Category:Poets</a>
-"<a   href="Category:Anarcha-Feminists.md" class="wikilink"
+<a href="Category:Anarcha-Feminists" class="wikilink"
 title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
-"<a   href="Category:Anarchist_Women.md" class="wikilink"
+<a href="Category:Anarchist_Women" class="wikilink"
 title="Category:Anarchist Women">Category:Anarchist Women</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Avrich, Paul. *An American Anarchist: The Life of Voltairine de

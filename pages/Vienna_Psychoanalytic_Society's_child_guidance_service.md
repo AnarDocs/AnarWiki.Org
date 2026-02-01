@@ -29,7 +29,7 @@ From Colin Ward, Anarchy in Action [^2]:
 
 [^1]: <http://apsa.org/About_Psychoanalysis/Noted_Psychoanalysts.aspx#aichhorn>
 
-[^2]: "<a   href="Anarchy_in_Action.md" class="wikilink"
+[^2]: <a href="Anarchy_in_Action" class="wikilink"
     title="Anarchy in Action">Anarchy in Action</a>
 
 [^3]: August Aichhorn, Wayward Youth (London, 1925).

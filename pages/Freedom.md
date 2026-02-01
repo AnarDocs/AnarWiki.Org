@@ -3,7 +3,7 @@
 ## Overview
 
 Freedom is the central value and organizing principle of
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
 Unlike liberal conceptions which treat freedom as mere absence of
 interference, or authoritarian conceptions which subordinate freedom to
 collective goals, anarchism understands freedom as a positive social
@@ -20,7 +20,7 @@ collectively.
 
 The anarchist conception of freedom rejects both the liberal reduction
 of freedom to
-"<a   href="property.md" class="wikilink" title="property">property</a> rights
+<a href="property.md" class="wikilink" title="property">property</a> rights
 and market relations, and the authoritarian sacrifice of individual
 autonomy to state power. Instead, anarchism recognizes that true freedom
 requires: the abolition of hierarchical domination, material security
@@ -32,10 +32,10 @@ differences.[^2]
 
 The anarchist theory of freedom emerged in the mid-19th century through
 critical engagement with three major intellectual traditions:
-"<a   href="liberalism.md" class="wikilink" title="liberalism">liberalism</a>,
-"<a   href="republicanism.md" class="wikilink"
+<a href="liberalism.md" class="wikilink" title="liberalism">liberalism</a>,
+<a href="republicanism.md" class="wikilink"
 title="republicanism">republicanism</a>, and
-"<a   href="socialism.md" class="wikilink" title="socialism">socialism</a>.
+<a href="socialism.md" class="wikilink" title="socialism">socialism</a>.
 Each contributed essential insights while containing fatal limitations
 that anarchism sought to overcome.
 
@@ -43,11 +43,11 @@ that anarchism sought to overcome.
 
 The liberal tradition, from Hobbes through Adam Smith, conceived freedom
 primarily as self-ownership and non-interference.
-"<a   href="William_Godwin.md" class="wikilink" title="William Godwin">William
+<a href="William_Godwin.md" class="wikilink" title="William Godwin">William
 Godwin</a>'s utilitarian anarchism built upon this foundation while
 rejecting its accommodation with
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
-and the "<a   href="state.md" class="wikilink" title="state">state</a>. Godwin
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+and the <a href="state.md" class="wikilink" title="state">state</a>. Godwin
 argued that true freedom required not just absence of direct coercion
 but independence from all forms of domination, including economic
 dependency.[^3]
@@ -61,21 +61,21 @@ this anarchy without abusing it," thus requiring the discipline of the
 state to maintain bourgeois order.[^4]
 
 The liberal conception particularly failed regarding
-"<a   href="private_property.md" class="wikilink"
+<a href="private_property.md" class="wikilink"
 title="private property">private property</a>. What liberals called
 "freedom" in economic relations was actually the freedom of property
 owners to dominate the propertyless. As
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> demonstrated,
 the system of bourgeois property transformed slavery into
-"<a   href="wage_slavery.md" class="wikilink" title="wage slavery">wage
+<a href="wage_slavery.md" class="wikilink" title="wage slavery">wage
 slavery</a>, replacing direct ownership of persons with indirect control
 through monopolization of the means of life.
 
 ### Republican and Socialist Influences
 
 Republican theory, particularly through
-"<a   href="Jean-Jacques_Rousseau.md" class="wikilink"
+<a href="Jean-Jacques_Rousseau.md" class="wikilink"
 title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a>, emphasized that
 freedom required equality and popular sovereignty. Rousseau recognized
 that humans "are born free, but everywhere are in chains"—not due to
@@ -127,13 +127,13 @@ At its foundation, anarchist freedom means absence of domination.
 control, coerce, exploit, or humiliate others.[^7] This includes but is
 not limited to:
 
-- "<a   href="State.md" class="wikilink" title="State">State</a> power and
+- <a href="State.md" class="wikilink" title="State">State</a> power and
   legal authority
-- "<a   href="Capitalism.md" class="wikilink" title="Capitalist">Capitalist</a>
+- <a href="Capitalism.md" class="wikilink" title="Capitalist">Capitalist</a>
   economic relations
-- "<a   href="Patriarchy.md" class="wikilink" title="Patriarchy">Patriarchy</a>
+- <a href="Patriarchy.md" class="wikilink" title="Patriarchy">Patriarchy</a>
   and gender hierarchy
-- "<a   href="Racism.md" class="wikilink" title="Racism">Racism</a> and
+- <a href="Racism.md" class="wikilink" title="Racism">Racism</a> and
   colonial oppression
 - All forms of social ranking and subordination
 
@@ -166,7 +166,7 @@ dependent on others' arbitrary will for basic needs.
 
 **Access to Resources**: The ability to use tools, land, knowledge, and
 other resources necessary for self-development.
-"<a   href="Commons.md" class="wikilink"
+<a href="Commons.md" class="wikilink"
 title="Collective stewardship">Collective stewardship</a> of resources
 enables this access without creating relations of domination.
 
@@ -176,7 +176,7 @@ rather than disciplinary, fostering critical thought rather than
 obedience.
 
 **Social Support**: Networks of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 and solidarity that enable people to take risks, experiment, and develop
 their capacities without fear of destitution.
 
@@ -226,7 +226,7 @@ Freedom requires the complete abolition of hierarchical domination in
 all its forms. This means not merely limiting authority or making it
 accountable, but eliminating relations of command and obedience
 altogether. As Bakunin argued, the problem with
-"<a   href="the_State.md" class="wikilink" title="the State">the State</a> is
+<a href="the_State.md" class="wikilink" title="the State">the State</a> is
 not particular policies but its very nature as monopoly of coercive
 power. Every law, however well-intentioned, is imposed by force and thus
 "slaps liberty in the face."[^12]
@@ -237,7 +237,7 @@ hierarchical structures:
 **Economic Hierarchy**: Capitalism creates domination through property
 ownership and wage relations. Employers exercise arbitrary power over
 workers' time, activity, and livelihood. This system must be replaced
-with "<a   href="workers&#39;_self-management.md" class="wikilink"
+with <a href="workers&#39;_self-management.md" class="wikilink"
 title="workers&#39; self-management">workers' self-management</a>, where
 those who produce collectively control production.
 
@@ -296,7 +296,7 @@ forms:
 members through face-to-face deliberation. This ensures genuine
 participation while preventing the emergence of representative elites
 who claim to speak for others.
-"<a   href="Consensus.md" class="wikilink" title="Consensus">Consensus</a>
+<a href="Consensus.md" class="wikilink" title="Consensus">Consensus</a>
 processes are often preferred to majority rule, as they require
 addressing everyone's concerns rather than overriding minorities.
 
@@ -308,12 +308,12 @@ local assemblies.[^13]
 
 **Mutual Aid Networks**: Voluntary associations for meeting needs and
 pursuing common goals. These range from
-"<a   href="mutual_aid.md" class="wikilink"
+<a href="mutual_aid.md" class="wikilink"
 title="informal support networks">informal support networks</a> to
 structured organizations like
-"<a   href="workers&#39;_councils.md" class="wikilink"
+<a href="workers&#39;_councils.md" class="wikilink"
 title="workers&#39; councils">workers' councils</a> and
-"<a   href="syndicalism.md" class="wikilink"
+<a href="syndicalism.md" class="wikilink"
 title="revolutionary unions">revolutionary unions</a>. Their voluntary
 character prevents coercion while their collective strength enables
 effective action.
@@ -393,10 +393,10 @@ while construction establishes new ones. Both occur simultaneously and
 continuously rather than in discrete stages.
 
 Historical examples include the
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
-Commune</a>, the "<a   href="Makhnovist_movement.md" class="wikilink"
+<a href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
+Commune</a>, the <a href="Makhnovist_movement.md" class="wikilink"
 title="Makhnovist movement">Makhnovist movement</a> in Ukraine,
-"<a   href="Revolutionary_Spain.md" class="wikilink"
+<a href="Revolutionary_Spain.md" class="wikilink"
 title="anarchist Spain">anarchist Spain</a> during the revolution of
 1936-1939, and countless smaller experiments in revolutionary
 transformation.
@@ -404,14 +404,14 @@ transformation.
 ### Building Prefigurative / Dual Power
 
 Because revolutionary transformation cannot happen instantly, anarchists
-advocate "<a   href="Prefiguration.md" class="wikilink"
+advocate <a href="Prefiguration.md" class="wikilink"
 title="prefiguration">prefiguration</a> or building "dual
 power"—creating alternative institutions that meet needs and coordinate
 activity outside state and capitalist structures, gradually making
 hierarchical institutions irrelevant while demonstrating the viability
 of anarchist organization.
 
-**Worker Organizations**: "<a   href="Syndicalism.md" class="wikilink"
+**Worker Organizations**: <a href="Syndicalism.md" class="wikilink"
 title="Revolutionary unions">Revolutionary unions</a> and worker
 cooperatives that organize production democratically. These provide
 immediate improvements in working conditions while building capacity for
@@ -422,7 +422,7 @@ worldwide.
 **Community Assemblies**: Neighborhood and municipal organizations that
 coordinate local affairs through direct democracy. These range from
 informal community groups to structured
-"<a   href="municipalism.md" class="wikilink"
+<a href="municipalism.md" class="wikilink"
 title="municipal confederations">municipal confederations</a> like those
 proposed by Murray Bookchin.
 
@@ -500,7 +500,7 @@ and costly.
 
 Free societies require coordination across groups and regions, but this
 must not recreate centralized authority.
-"<a   href="Federalism.md" class="wikilink"
+<a href="Federalism.md" class="wikilink"
 title="Federative structures">Federative structures</a> maintain freedom
 through several principles:
 
@@ -581,7 +581,7 @@ mechanisms:
 **Revolutionary Substitution**: When movements allow leaders or
 vanguards to act "on behalf of" the masses, these representatives
 invariably become a new ruling class. The
-"<a   href="Russian_Revolution.md" class="wikilink"
+<a href="Russian_Revolution.md" class="wikilink"
 title="Russian Revolution">Russian Revolution</a> demonstrated this
 dramatically—Bolshevik centralization quickly transformed revolutionary
 soviets into totalitarian state apparatus.
@@ -596,7 +596,7 @@ institutional renewal and anti-hierarchical vigilance.
 through existing institutions leads to accepting their logic and
 constraints. Anarchists who enter parliaments or negotiate with states
 gradually adopt statist thinking. As
-"<a   href="Errico_Malatesta.md" class="wikilink"
+<a href="Errico_Malatesta.md" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> warned, "anarchists in
 government cease to be anarchists."
 
@@ -663,7 +663,7 @@ many from challenging authority directly.
 
 **Mass Incarceration**: Removing dissidents and resisters from society
 while terrorizing others into conformity. The
-"<a   href="prison_system.md" class="wikilink" title="prison system">prison
+<a href="prison_system.md" class="wikilink" title="prison system">prison
 system</a> serves as explicit warning of consequences for serious
 non-compliance.
 
@@ -787,7 +787,7 @@ central authority leads to chaos or domination by the strong. This
 objection assumes authority creates order rather than recognizing that
 most human cooperation occurs despite authority rather than because of
 it. Historical evidence from
-"<a   href="indigenous_societies.md" class="wikilink"
+<a href="indigenous_societies.md" class="wikilink"
 title="indigenous societies">indigenous societies</a> to modern mutual
 aid networks demonstrates that people naturally cooperate when not
 prevented by hierarchical institutions. The "chaos" attributed to
@@ -843,14 +843,14 @@ contemporary conditions:
 
 **Digital Surveillance**: States and corporations monitor populations at
 unprecedented scale, creating
-""<a   href="surveillance_capitalism.md" class="wikilink"
+"<a href="surveillance_capitalism.md" class="wikilink"
 title="surveillance capitalism">surveillance capitalism</a>" that tracks
 and shapes behavior. Anarchist insistence on privacy and resistance to
 authority provides crucial framework for opposing this totalizing
 control.
 
 **Climate Crisis**:
-"<a   href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>'s
+<a href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>'s
 drive for endless accumulation creates ecological catastrophe that
 threatens all freedom by destroying conditions for human life. Anarchist
 economics based on needs rather than profit provides alternative path.
@@ -865,9 +865,9 @@ insecurity and dependency while privatizing public goods. Anarchist
 mutual aid and commons provide practical alternatives.
 
 **Movements for Liberation**: Contemporary movements from
-"<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> to
-"<a   href="Zapatismo.md" class="wikilink" title="Zapatismo">Zapatismo</a> to
-"<a   href="Occupy.md" class="wikilink" title="Occupy">Occupy</a> demonstrate
+<a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> to
+<a href="Zapatismo.md" class="wikilink" title="Zapatismo">Zapatismo</a> to
+<a href="Occupy.md" class="wikilink" title="Occupy">Occupy</a> demonstrate
 renewed interest in horizontal organization and direct democracy,
 applying anarchist principles even when not explicitly identifying as
 anarchist.
@@ -892,17 +892,17 @@ Bakunin](https://theanarchistlibrary.org/library/mikhail-bakunin-about-freedom)
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Mikhail Bakunin, "About Freedom" (1871)

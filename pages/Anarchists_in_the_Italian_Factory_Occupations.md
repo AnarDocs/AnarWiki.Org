@@ -1,5 +1,5 @@
 From
-"<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
+<a href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
 Anarchist FAQ</a>:
 
 > # A.5.5 Anarchists in the Italian Factory Occupations

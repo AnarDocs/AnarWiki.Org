@@ -4,29 +4,29 @@
 
 This model emerged as a response to both capitalist exploitation and the
 authoritarian tendencies of state socialist systems. It draws from the
-foundational work of "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+foundational work of <a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> while
 incorporating insights from later anarchist thinkers including
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
-Kropotkin</a> and "<a   href="Murray_Bookchin.md" class="wikilink"
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+Kropotkin</a> and <a href="Murray_Bookchin.md" class="wikilink"
 title="Murray Bookchin">Murray Bookchin</a>.
 
 ## Core Principles
 
 This **Mutualist Economic Model** is a decentralized alternative to
-centralized "<a   href="cyber-communism.md" class="wikilink"
+centralized <a href="cyber-communism.md" class="wikilink"
 title="cyber-communism">cyber-communism</a>, based on voluntary
-federation and "<a   href="worker_self-management.md" class="wikilink"
+federation and <a href="worker_self-management.md" class="wikilink"
 title="worker self-management">worker self-management</a>. This
 theoretical framework represents a modern adaptation of
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>'s original
 mutualist principles, updated for contemporary industrial society.
 
 ### No Central State
 
 All coordination happens through voluntary federation of autonomous
-"<a   href="worker_cooperatives.md" class="wikilink"
+<a href="worker_cooperatives.md" class="wikilink"
 title="worker cooperatives">worker cooperatives</a> and community
 assemblies. No planners, ministries, or centralized authorities control
 economic activity.
@@ -35,14 +35,14 @@ economic activity.
 
 Basic needs including housing, healthcare, education, and utilities are
 provided through community
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 networks, funded by voluntary contributions from productive
 cooperatives.
 
 ### Worker Control
 
 All productive enterprises operate as worker-owned cooperatives making
-decisions through "<a   href="direct_democracy.md" class="wikilink"
+decisions through <a href="direct_democracy.md" class="wikilink"
 title="direct democracy">direct democracy</a> and consensus processes.
 
 ## Economic Structure
@@ -89,7 +89,7 @@ title="Mutualism-economic-mermaid-diagram.png" />
 
 ### Neighborhood Assemblies
 
-Local communities use "<a   href="direct_democracy.md" class="wikilink"
+Local communities use <a href="direct_democracy.md" class="wikilink"
 title="direct democracy">direct democracy</a> to decide on
 infrastructure priorities, services, and mutual aid allocation. These
 assemblies operate on principles of consensus and voluntary
@@ -105,7 +105,7 @@ agreements between communities organized around bioregional boundaries.
 
 Land, natural resources, and infrastructure are managed through nested
 federations using established
-"<a   href="commons.md" class="wikilink" title="commons">commons</a>
+<a href="commons.md" class="wikilink" title="commons">commons</a>
 governance principles. No private ownership of productive resources
 exists.
 
@@ -273,7 +273,7 @@ exploit others.
 ## Relationship to Proudhonian Mutualism
 
 This model builds heavily on
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>'s foundation
 but updates it in several key ways:
 
@@ -306,8 +306,8 @@ modern automation possibilities.
 
 **Community Decision-Making** - The neighborhood assemblies and direct
 democracy elements draw more from later anarchist thinkers like
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
-Kropotkin</a> and "<a   href="Murray_Bookchin.md" class="wikilink"
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+Kropotkin</a> and <a href="Murray_Bookchin.md" class="wikilink"
 title="Murray Bookchin">Murray Bookchin</a>. Proudhon was more focused
 on economic arrangements than political structures.
 
@@ -324,7 +324,7 @@ and a half of anarchist experimentation.
 
 ### Anarcho-Communist Critiques
 
-"<a   href="Anarcho-communists.md" class="wikilink"
+<a href="Anarcho-communists.md" class="wikilink"
 title="Anarcho-communists">Anarcho-communists</a> have raised several
 objections to mutualist economic models:
 
@@ -349,7 +349,7 @@ elements.
 **Complexity and Bureaucracy** - The elaborate network of federations,
 councils, and coordination mechanisms is viewed as unnecessarily complex
 compared to simple
-"<a   href="gift_economy.md" class="wikilink" title="gift economy">gift
+<a href="gift_economy.md" class="wikilink" title="gift economy">gift
 economy</a> principles. Critics argue this complexity could lead to
 bureaucratic ossification over time.
 
@@ -364,7 +364,7 @@ Anarcho-communists argue that truly free societies should be able to
 accommodate all individuals without coercive mechanisms.
 
 **Transition Limitations** - Critics question whether the model's
-"<a   href="dual_power.md" class="wikilink" title="dual power">dual power</a>
+<a href="dual_power.md" class="wikilink" title="dual power">dual power</a>
 strategy can effectively challenge capitalist structures or whether it
 will simply create alternative markets that remain subordinate to the
 dominant system.
@@ -375,7 +375,7 @@ In response to these criticisms, anarcho-communists typically advocate
 for:
 
 - Complete abolition of exchange mechanisms in favor of
-  "<a   href="gift_economy.md" class="wikilink" title="gift economy">gift
+  <a href="gift_economy.md" class="wikilink" title="gift economy">gift
   economy</a> principles
 - Distribution according to need rather than contribution
 - Elimination of all accounting and measurement of individual labor
@@ -384,34 +384,34 @@ for:
 
 ## See Also
 
-- "<a   href="Anarcho-Communist_Economics.md" class="wikilink"
+- <a href="Anarcho-Communist_Economics.md" class="wikilink"
   title="Anarcho-Communist Economics">Anarcho-Communist Economics</a>
-- "<a   href="Anarchist_Economics.md" class="wikilink"
+- <a href="Anarchist_Economics.md" class="wikilink"
   title="Anarchist Economics">Anarchist Economics</a>
 
 ## References
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Anarchist_Economics.md" class="wikilink"
+<a href="Category:Anarchist_Economics.md" class="wikilink"
 title="Category:Anarchist Economics">Category:Anarchist Economics</a>
-"<a   href="Category:Alternative_Economics.md" class="wikilink"
+<a href="Category:Alternative_Economics.md" class="wikilink"
 title="Category:Alternative Economics">Category:Alternative
-Economics</a> "<a   href="Category:Concepts.md" class="wikilink"
+Economics</a> <a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Mutualism.md" class="wikilink"
+Socialism</a> <a href="Category:Mutualism.md" class="wikilink"
 title="Category:Mutualism">Category:Mutualism</a>
-"<a   href="Category:Worker_Self-Management.md" class="wikilink"
+<a href="Category:Worker_Self-Management.md" class="wikilink"
 title="Category:Worker Self-Management">Category:Worker
-Self-Management</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Self-Management</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

@@ -1,11 +1,11 @@
 The **Saudi Arabian Uprising** were a series of protests in
-"<a   href="Saudi_Arabia.md" class="wikilink" title="Saudi Arabia">Saudi
+<a href="Saudi_Arabia.md" class="wikilink" title="Saudi Arabia">Saudi
 Arabia</a> over women's rights, economic inequality, police brutality,
 corruption, religious discrimination and high unemployment in
-"<a   href="Timeline_of_Anarchism_in_Western_Asia.md" class="wikilink"
+<a href="Timeline_of_Anarchism_in_Western_Asia.md" class="wikilink"
 title="2011 and 2012">2011 and 2012</a>. It was part of the
-"<a   href="Arab_Spring.md" class="wikilink" title="Arab Spring">Arab
-Spring</a> and a "<a   href="Revolutions_of_2010_-_2014.md" class="wikilink"
+<a href="Arab_Spring.md" class="wikilink" title="Arab Spring">Arab
+Spring</a> and a <a href="Revolutions_of_2010_-_2014.md" class="wikilink"
 title="wider global wave of revolts from 2010 to 2014">wider global wave
 of revolts from 2010 to 2014</a>.
 
@@ -27,15 +27,15 @@ with gunfire for about 10 minutes. Three protesters were injured and
 hospitalised with "moderate" injuries.
 
 This triggered a "Day of Rage" in solidarity with the uprisings in
-"<a   href="Libyan_Revolution_(2011).md" class="wikilink"
+<a href="Libyan_Revolution_(2011).md" class="wikilink"
 title="Libya">Libya</a> and
-"<a   href="Bahraini_Uprising_(2011).md" class="wikilink"
+<a href="Bahraini_Uprising_(2011).md" class="wikilink"
 title="Bahrain">Bahrain</a> where protesters demanded women's rights,
 prison reform, democratisation, removal of soldiers from Bahrain,
 workers rights and civil liberties. Over the next few months a cycle of
 protests with a few hundred people, online activism and police
 repression continued (including the killing of children and use of
-snipers). "<a   href="Women_to_Drive_Movement.md" class="wikilink"
+snipers). <a href="Women_to_Drive_Movement.md" class="wikilink"
 title="Women began illegally driving cars">Women began illegally driving
 cars</a> and were frequently arrested. University strikes began and
 sit-ins occurred in government buildings. Migrant workers went on hunger
@@ -58,15 +58,15 @@ massive improvements in women's rights were made, notably:
 - Allowing women to enlist in the military
 
 Whilst Saudi Arabia is still an extremely
-"<a   href="Patriarchy.md" class="wikilink"
+<a href="Patriarchy.md" class="wikilink"
 title="patriarchal">patriarchal</a> and authoritarian country, these
 limited reforms are huge wins.
 
 ## References
 
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+<a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
 [2011-12 Saudi Arabian
 protests](https://en.wikipedia.org/wiki/2011–12_Saudi_Arabian_protests)
 
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

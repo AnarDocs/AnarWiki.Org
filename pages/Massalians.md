@@ -4,7 +4,7 @@ practitioners to reach a condition of such purity that they subsequently
 did not have to worry about sin and could indulge themselves sexually as
 they wished. The Massalians had female and male leaders. They would
 influence the 10th-century Bulgarian
-"<a   href="Bogomils.md" class="wikilink" title="Bogomils">Bogomils</a>.[^1]
+<a href="Bogomils.md" class="wikilink" title="Bogomils">Bogomils</a>.[^1]
 
 <references/>
 

@@ -2,9 +2,9 @@
 
 The **persecution of anarchists in Marxist-Leninist states** includes
 the systematic repression, imprisonment, and execution of
-"<a   href="anarchism.md" class="wikilink" title="anarchists">anarchists</a>
+<a href="anarchism.md" class="wikilink" title="anarchists">anarchists</a>
 and anarchist organizations by governments claiming to follow
-"<a   href="Marxism-Leninism.md" class="wikilink"
+<a href="Marxism-Leninism.md" class="wikilink"
 title="Marxist-Leninist">Marxist-Leninist</a> ideology. This persecution
 occurred across multiple continents throughout the 20th century,
 beginning with the Bolshevik suppression of anarchist movements in
@@ -15,19 +15,19 @@ others largely obscured by state censorship and historical erasure.
 
 The ideological conflict between anarchism and Marxism-Leninism has
 roots in the 19th century split within the
-"<a   href="First_International.md" class="wikilink"
+<a href="First_International.md" class="wikilink"
 title="First International">First International</a> between followers of
-"<a   href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> and
-"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>.
+<a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>.
 While both movements opposed
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
 and sought revolutionary transformation, they diverged fundamentally on
 the role of the
-"<a   href="state.md" class="wikilink" title="state">state</a>, with
+<a href="state.md" class="wikilink" title="state">state</a>, with
 anarchists advocating for immediate abolition of state structures and
 Marxist-Leninists promoting the
-""<a   href="dictatorship_of_the_proletariat.md" class="wikilink"
+"<a href="dictatorship_of_the_proletariat.md" class="wikilink"
 title="dictatorship of the proletariat">dictatorship of the
 proletariat</a>" as a transitional phase. This theoretical disagreement
 manifested violently once Marxist-Leninist parties seized state power,
@@ -40,22 +40,22 @@ suppression.
 
 The persecution of anarchists in Soviet Russia began almost immediately
 after the Bolshevik seizure of power. On April 11-12, 1918, the
-"<a   href="Cheka.md" class="wikilink" title="Cheka">Cheka</a> conducted
+<a href="Cheka.md" class="wikilink" title="Cheka">Cheka</a> conducted
 coordinated raids on 26 anarchist centers in Moscow, killing
 approximately 40 anarchists and arresting 500 more.[^1]
 
-The suppression of the "<a   href="Makhnovist_movement.md" class="wikilink"
+The suppression of the <a href="Makhnovist_movement.md" class="wikilink"
 title="Makhnovist movement">Makhnovist movement</a> in Ukraine resulted
 in numerous executions. On June 17, 1919, seven Makhnovist headquarters
 officers were arrested in Kharkov on
-"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
+<a href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
 Trotsky</a>'s orders and subsequently executed, including
 Mikhalev-Pavlenko, Burbyga, Oleinik, Korobko, Kostin, Polunin, and
 Dobrolyubov. Yakov Ozerov, the Makhnovist chief of staff, was shot on
 August 2, 1919, by the Ukrainian Cheka.[^2]
 
 Following the September 25, 1919, bombing of the Moscow Communist Party
-headquarters by the "<a   href="Underground_Anarchists.md" class="wikilink"
+headquarters by the <a href="Underground_Anarchists.md" class="wikilink"
 title="Underground Anarchists">Underground Anarchists</a>, numerous
 anarchists were killed during arrest or executed. Founders Kazimir
 Kovalevich and Piotr Sobalev were killed during arrest, while seven
@@ -65,9 +65,9 @@ Cheka.[^3]
 
 On September 29-30, 1921, ten anarchists were shot without trial,
 including prominent theorist and poet
-"<a   href="Lev_Chernyi.md" class="wikilink" title="Lev Chernyi">Lev
+<a href="Lev_Chernyi.md" class="wikilink" title="Lev Chernyi">Lev
 Chernyi</a> (Pavel Turchaninov) and revolutionary
-"<a   href="Fanya_Baron.md" class="wikilink" title="Fanya Baron">Fanya
+<a href="Fanya_Baron.md" class="wikilink" title="Fanya Baron">Fanya
 Baron</a>, who had worked with the Makhnovists.[^4] Baron had escaped
 from prison in Ryazan several months earlier and was arrested in Moscow.
 According to witnesses, "she would not go submissively to her doom. She
@@ -75,7 +75,7 @@ resisted and had to be carried bodily to the place of execution."[^5]
 Chernyi's body was never released to his family, leading many to
 conclude he had been tortured to death.[^6]
 
-The "<a   href="Kronstadt_Rebellion.md" class="wikilink"
+The <a href="Kronstadt_Rebellion.md" class="wikilink"
 title="Kronstadt Rebellion">Kronstadt Rebellion</a> of March 1921
 resulted in approximately 1,000 killed in battle. After the fortress
 fell on March 17, 1921, it is estimated that 2,000 Kronstadt sailors
@@ -97,13 +97,13 @@ from Bolshevik monopoly.[^8]
 
 Documentation for the Stalin era is considerably worse than for the
 Lenin period, as many anarchists simply "disappeared" without records.
-Most died in "<a   href="Gulag.md" class="wikilink" title="Gulag">Gulag</a>
+Most died in <a href="Gulag.md" class="wikilink" title="Gulag">Gulag</a>
 camps from disease, starvation, and harsh conditions rather than formal
 execution.
 
 On August 12, 1937, a group of sixteen anarchists were executed in
 Tobolsk, including prominent anarcho-syndicalist
-"<a   href="Aron_Baron.md" class="wikilink" title="Aron Baron">Aron Baron</a>,
+<a href="Aron_Baron.md" class="wikilink" title="Aron Baron">Aron Baron</a>,
 husband of Fanya Baron, who had spent 17 years in prison and exile.[^9]
 Executed alongside him were Prokop Budakov, Zinaida Budakova, Avram
 Venetsky, Ivan Golovchanskii, Vsevolod Denisov, Nikolai Desyatkov, Ivan
@@ -114,9 +114,9 @@ Khudolei-Gradin, Yuri Hometovsky-Izgodin, and Nahum Eppelbaum. In total,
 
 At Sandarmokh, between October and November 1937, over 9,500 people were
 shot as part of the
-"<a   href="Great_Terror.md" class="wikilink" title="Great Terror">Great
+<a href="Great_Terror.md" class="wikilink" title="Great Terror">Great
 Terror</a>, including hundreds of anarchists and
-"<a   href="Maximalists.md" class="wikilink"
+<a href="Maximalists.md" class="wikilink"
 title="Maximalists">Maximalists</a>. At Solovki Camp, journalist Evgenia
 Iaroslavskaia-Markon was executed in 1931. In February 1938, between
 200-300 prisoners were shot at Sekirnaya Hill. At least 67 anarchists
@@ -131,10 +131,10 @@ unclear.[^12]
 ## Cuba
 
 Following
-"<a   href="Fidel_Castro.md" class="wikilink" title="Fidel Castro">Fidel
+<a href="Fidel_Castro.md" class="wikilink" title="Fidel Castro">Fidel
 Castro</a>'s rise to power in 1959, Cuban anarchists who had fought
 alongside Castro against the
-"<a   href="Fulgencio_Batista.md" class="wikilink" title="Batista">Batista</a>
+<a href="Fulgencio_Batista.md" class="wikilink" title="Batista">Batista</a>
 dictatorship faced systematic repression once the regime adopted
 Marxism-Leninism. In December 1960, anarchist publications *El
 Libertario* and *Solidaridad Gastronómica* were suppressed by the
@@ -158,7 +158,7 @@ Havana Province under the revolutionary government before opposing
 Castro, was sentenced to 20 years.[^15]
 
 Many imprisoned anarchists were former members of Castro's
-"<a   href="26th_of_July_Movement.md" class="wikilink"
+<a href="26th_of_July_Movement.md" class="wikilink"
 title="26th of July Movement">26th of July Movement</a> who had fought
 in the Sierra Escambray against Batista. The repression was facilitated
 by a deceptive manifesto issued in November 1961 by Manuel Gaona Sousa,
@@ -171,7 +171,7 @@ repeatedly contradicted by anarchist publications on the island.[^16]
 The documentation of anarchists killed under Maoism (1949-1976) is
 extremely limited. The Chinese anarchist movement had largely collapsed
 before
-"<a   href="Mao_Zedong.md" class="wikilink" title="Mao Zedong">Mao Zedong</a>
+<a href="Mao_Zedong.md" class="wikilink" title="Mao Zedong">Mao Zedong</a>
 took power in 1949, and Chinese state records remain less accessible
 than Soviet archives.
 
@@ -180,7 +180,7 @@ organizers were executed in 1922 by warlord Zhao Hengti in Changsha:
 Huang Ai (1897-1922) and Pang Renquan. However, this occurred before the
 Communist Party controlled the region.
 
-During the "<a   href="Cultural_Revolution.md" class="wikilink"
+During the <a href="Cultural_Revolution.md" class="wikilink"
 title="Cultural Revolution">Cultural Revolution</a> (1966-1976), an
 estimated 1.6 million people died from violence directly, with 10,402
 political prisoners receiving death sentences. However, victims were
@@ -188,8 +188,8 @@ typically labeled as "counterrevolutionaries," "rightists," or
 "bourgeois elements" rather than specifically as anarchists. By 1949, no
 organized anarchist movement remained to be targeted—most anarchists had
 either joined the
-"<a   href="Chinese_Communist_Party.md" class="wikilink" title="CCP">CCP</a>,
-the "<a   href="Kuomintang.md" class="wikilink" title="KMT">KMT</a>, or been
+<a href="Chinese_Communist_Party.md" class="wikilink" title="CCP">CCP</a>,
+the <a href="Kuomintang.md" class="wikilink" title="KMT">KMT</a>, or been
 killed in earlier conflicts.
 
 The absence of documentation is itself significant, representing the
@@ -205,7 +205,7 @@ been reduced to a binary narrative: one was either a patriotic Stalinist
 or a reactionary collaborator, effectively erasing anarchist
 participation from official histories.
 
-"<a   href="Nguyễn_An_Ninh.md" class="wikilink" title="Nguyễn An Ninh">Nguyễn
+<a href="Nguyễn_An_Ninh.md" class="wikilink" title="Nguyễn An Ninh">Nguyễn
 An Ninh</a> (1900-1943), a prominent Vietnamese anarchist who
 established the Nguyen An Ninh Secret Society in 1926 and advocated for
 revolutionary populism based on anarchist principles, was arrested in
@@ -270,8 +270,8 @@ and circumstances remain unknown.
 During the wars of independence against Portuguese colonial rule, many
 Angolans and Mozambicans developed anti-authoritarian systems of
 "popular power." However, once independence was achieved, the
-"<a   href="MPLA.md" class="wikilink" title="MPLA">MPLA</a> in Angola and
-"<a   href="FRELIMO.md" class="wikilink" title="FRELIMO">FRELIMO</a> in
+<a href="MPLA.md" class="wikilink" title="MPLA">MPLA</a> in Angola and
+<a href="FRELIMO.md" class="wikilink" title="FRELIMO">FRELIMO</a> in
 Mozambique officially adopted Marxism-Leninism. Both governments
 suppressed autonomous popular organizations in favor of centralized
 state control, though documentation of specific persecution of
@@ -290,45 +290,45 @@ FRELIMO's Marxist-Leninist government.
 
 ### Major Anarchist Movements Destroyed by Marxist-Leninists
 
-- "<a   href="Free_Territory_of_Ukraine.md" class="wikilink"
+- <a href="Free_Territory_of_Ukraine.md" class="wikilink"
   title="Free Territory of Ukraine">Free Territory of Ukraine</a> /
-  "<a   href="Makhnovist_Movement.md" class="wikilink"
+  <a href="Makhnovist_Movement.md" class="wikilink"
   title="Makhnovist Movement">Makhnovist Movement</a> (Ukraine,
   1918-1921) - Nestor Makhno's anarchist army betrayed and crushed by
   the Red Army after helping defeat the White forces
 
 <!-- -->
 
-- "<a   href="Kronstadt_Rebellion.md" class="wikilink"
+- <a href="Kronstadt_Rebellion.md" class="wikilink"
   title="Kronstadt Rebellion">Kronstadt Rebellion</a> (Russia, 1921) -
   Anarchist and left-SR sailors' uprising brutally suppressed by
   Trotsky's Red Army
 
 <!-- -->
 
-- "<a   href="Russian_Anarchist_Movement.md" class="wikilink"
+- <a href="Russian_Anarchist_Movement.md" class="wikilink"
   title="Russian Anarchist Movement">Russian Anarchist Movement</a>
   (Russia, 1918-1921) - Systematic suppression of anarchist groups,
   unions, and communes by the Cheka and Bolshevik government
 
 <!-- -->
 
-- "<a   href="Spanish_Revolution.md" class="wikilink"
+- <a href="Spanish_Revolution.md" class="wikilink"
   title="Spanish Revolution">Spanish Revolution</a> /
-  "<a   href="CNT-FAI.md" class="wikilink" title="CNT-FAI">CNT-FAI</a>
+  <a href="CNT-FAI.md" class="wikilink" title="CNT-FAI">CNT-FAI</a>
   Collectives (Spain, 1936-1939) - Anarchist collectives and militias
   undermined, attacked, and destroyed by Soviet-backed Spanish Communist
   Party (PCE), culminating in the May Days 1937 in Barcelona
 
 <!-- -->
 
-- "<a   href="POUM.md" class="wikilink" title="POUM">POUM</a> (Spain, 1937) -
+- <a href="POUM.md" class="wikilink" title="POUM">POUM</a> (Spain, 1937) -
   Anti-Stalinist Marxist allies of anarchists purged by Soviet NKVD and
   Spanish communists
 
 <!-- -->
 
-- "<a   href="Korean_People&#39;s_Association_in_Manchuria.md" class="wikilink"
+- <a href="Korean_People&#39;s_Association_in_Manchuria.md" class="wikilink"
   title="Korean People&#39;s Association in Manchuria">Korean People's
   Association in Manchuria</a> (Manchuria, 1929-1931) - Anarchist Korean
   exile community destroyed by Chinese Communist forces and Japanese
@@ -336,7 +336,7 @@ FRELIMO's Marxist-Leninist government.
 
 <!-- -->
 
-- "<a   href="Cuban_Anarchist_Movement.md" class="wikilink"
+- <a href="Cuban_Anarchist_Movement.md" class="wikilink"
   title="Cuban Anarchist Movement">Cuban Anarchist Movement</a> (Cuba,
   1959-1961) - Anarcho-syndicalists who initially supported Castro's
   revolution were suppressed after he declared the revolution
@@ -344,27 +344,27 @@ FRELIMO's Marxist-Leninist government.
 
 <!-- -->
 
-- "<a   href="Guangzhou_Soviet.md" class="wikilink"
+- <a href="Guangzhou_Soviet.md" class="wikilink"
   title="Guangzhou Soviet">Guangzhou Soviet</a> (China, 1927) -
   Anarchist participants marginalized during the brief commune
 
 ### Failed Coordination / Suppression
 
-- "<a   href="German_Revolution.md" class="wikilink"
+- <a href="German_Revolution.md" class="wikilink"
   title="German Revolution">German Revolution</a> (Germany, 1918-1919) -
   Anarchists and council communists undermined by both Social Democrats
   and competing Communist Party factions
 
 <!-- -->
 
-- "<a   href="Hungarian_Revolution_of_1956.md" class="wikilink"
+- <a href="Hungarian_Revolution_of_1956.md" class="wikilink"
   title="Hungarian Revolution of 1956">Hungarian Revolution of 1956</a>
   (Hungary, 1956) - Some anarchist participation but workers' councils
   crushed by Soviet invasion
 
 <!-- -->
 
-- "<a   href="Greek_Civil_War.md" class="wikilink" title="Greek Civil War">Greek
+- <a href="Greek_Civil_War.md" class="wikilink" title="Greek Civil War">Greek
   Civil War</a> (Greece, 1946-1949) - Anarchists who fought alongside
   communist forces were marginalized and suppressed
 
@@ -399,10 +399,10 @@ the erasure of anarchist movements from both life and historical memory.
 
 Of the dozens of anarchists killed in the Soviet Union, only three have
 Wikipedia articles in English:
-"<a   href="Lev_Chernyi.md" class="wikilink" title="Lev Chernyi">Lev
+<a href="Lev_Chernyi.md" class="wikilink" title="Lev Chernyi">Lev
 Chernyi</a>,
-"<a   href="Fanya_Baron.md" class="wikilink" title="Fanya Baron">Fanya
-Baron</a>, and "<a   href="Maria_Nikiforova.md" class="wikilink"
+<a href="Fanya_Baron.md" class="wikilink" title="Fanya Baron">Fanya
+Baron</a>, and <a href="Maria_Nikiforova.md" class="wikilink"
 title="Maria Nikiforova">Maria Nikiforova</a> (who was actually killed
 by White forces rather than Bolsheviks). This stark disparity between
 documented victims and historical commemoration reflects the
@@ -413,7 +413,7 @@ The persecution of anarchists by Marxist-Leninist states demonstrates a
 fundamental incompatibility between anarchist principles of
 decentralized, non-hierarchical organization and the Marxist-Leninist
 commitment to
-"<a   href="Vanguardism.md" class="wikilink" title="vanguard party">vanguard
+<a href="Vanguardism.md" class="wikilink" title="vanguard party">vanguard
 party</a> rule and state power. Rather than representing isolated
 excesses or deviations from revolutionary principles, these persecutions
 were systemic features of state-socialist regimes that viewed any
@@ -435,23 +435,23 @@ to their power.
 
 <references/>
 
-"<a   href="Category:Anarchist_History.md" class="wikilink"
+<a href="Category:Anarchist_History.md" class="wikilink"
 title="Category:Anarchist History">Category:Anarchist History</a>
-"<a   href="Category:Marxist-Leninism.md" class="wikilink"
+<a href="Category:Marxist-Leninism.md" class="wikilink"
 title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
-"<a   href="Category:Marxism.md" class="wikilink"
+<a href="Category:Marxism.md" class="wikilink"
 title="Category:Marxism">Category:Marxism</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century.md" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-"<a   href="Category:USSR.md" class="wikilink"
+<a href="Category:USSR.md" class="wikilink"
 title="Category:USSR">Category:USSR</a>
-"<a   href="Category:Cuba.md" class="wikilink"
+<a href="Category:Cuba.md" class="wikilink"
 title="Category:Cuba">Category:Cuba</a>
-"<a   href="Category:China.md" class="wikilink"
+<a href="Category:China.md" class="wikilink"
 title="Category:China">Category:China</a>
-"<a   href="Category:State_Repression.md" class="wikilink"
+<a href="Category:State_Repression.md" class="wikilink"
 title="Category:State Repression">Category:State Repression</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Alexander Berkman and Emma Goldman, "Bolsheviks Shooting

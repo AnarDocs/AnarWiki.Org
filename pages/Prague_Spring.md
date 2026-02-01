@@ -1,9 +1,9 @@
 ![](PragueSpring.jpg "PragueSpring.jpg") The **Prague Spring**was a
 protest wave and period of liberalization in Czechoslovakia under
-"<a   href="Leninism.md" class="wikilink" title="Stalinism">Stalinism</a> in
-"<a   href="Timeline_of_Anarchism.md" class="wikilink" title="1968">1968</a>.
+<a href="Leninism.md" class="wikilink" title="Stalinism">Stalinism</a> in
+<a href="Timeline_of_Anarchism.md" class="wikilink" title="1968">1968</a>.
 
-"<a   href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
+<a href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
 describes it as:
 
 > In a broadcast on the anniversary of the Soviet Invasion of
@@ -38,7 +38,7 @@ describes it as:
 > tried to curb it. No doubt he had hoped to honour the promises he had
 > given at Dresden that he would impose order on what more and more
 > conservative Communists were calling
-> '"<a   href="Anarchism.md" class="wikilink" title="anarchy">anarchy</a>'".
+> '<a href="Anarchism.md" class="wikilink" title="anarchy">anarchy</a>'".
 > When the Soviet tanks rolled in to impose *their* order, the
 > spontaneous order gave way to a spontaneous resistance. Of Prague,
 > Kamil Winter declared, "I must confess to you that nothing was
@@ -64,33 +64,33 @@ describes it as:
 
 ## References
 
-"<a   href="Category:Czechia.md" class="wikilink"
+<a href="Category:Czechia.md" class="wikilink"
 title="Category:Czechia">Category:Czechia</a>
-"<a   href="Category:Eastern_Europe.md" class="wikilink"
+<a href="Category:Eastern_Europe.md" class="wikilink"
 title="Category:Eastern Europe">Category:Eastern Europe</a>
-"<a   href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe.md" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-"<a   href="Category:USSR.md" class="wikilink"
+<a href="Category:USSR.md" class="wikilink"
 title="Category:USSR">Category:USSR</a>
-"<a   href="Category:1968.md" class="wikilink"
+<a href="Category:1968.md" class="wikilink"
 title="Category:1968">Category:1968</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Anti-Leninism.md" class="wikilink"
+<a href="Category:Anti-Leninism.md" class="wikilink"
 title="Category:Anti-Leninism">Category:Anti-Leninism</a>
-"<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Category:Workers&#39;_Self-Management.md" class="wikilink"
 title="Category:Workers&#39; Self-Management">Category:Workers'
-Self-Management</a> "<a   href="Category:Worker_Uprisings.md" class="wikilink"
+Self-Management</a> <a href="Category:Worker_Uprisings.md" class="wikilink"
 title="Category:Worker Uprisings">Category:Worker Uprisings</a>
-"<a   href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings.md" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-"<a   href="Category:1960s.md" class="wikilink"
+<a href="Category:1960s.md" class="wikilink"
 title="Category:1960s">Category:1960s</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century.md" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
 
-[^1]: "<a   href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
-    (1973) "<a   href="Anarchy_in_Action.md" class="wikilink"
+[^1]: <a href="Colin_Ward.md" class="wikilink" title="Colin Ward">Colin Ward</a>
+    (1973) <a href="Anarchy_in_Action.md" class="wikilink"
     title="Anarchy in Action">Anarchy in Action</a>

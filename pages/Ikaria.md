@@ -245,19 +245,19 @@ interpretation.
 
 <references/>
 
-"<a   href="Category:Greece.md" class="wikilink"
+<a href="Category:Greece.md" class="wikilink"
 title="Category:Greece">Category:Greece</a>
-"<a   href="Category:Mediterranean.md" class="wikilink"
+<a href="Category:Mediterranean.md" class="wikilink"
 title="Category:Mediterranean">Category:Mediterranean</a>
-"<a   href="Category:Islands.md" class="wikilink"
+<a href="Category:Islands.md" class="wikilink"
 title="Category:Islands">Category:Islands</a>
-"<a   href="Category:Libertarian_Socialist_Societies.md" class="wikilink"
+<a href="Category:Libertarian_Socialist_Societies.md" class="wikilink"
 title="Category:Libertarian Socialist Societies">Category:Libertarian
-Socialist Societies</a> "<a   href="Category:Autonomy.md" class="wikilink"
+Socialist Societies</a> <a href="Category:Autonomy.md" class="wikilink"
 title="Category:Autonomy">Category:Autonomy</a>
-"<a   href="Category:Communalism.md" class="wikilink"
+<a href="Category:Communalism.md" class="wikilink"
 title="Category:Communalism">Category:Communalism</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Kalampogias, Antonis. *Ikaria – The 'Red Rock': A Chronicle*.

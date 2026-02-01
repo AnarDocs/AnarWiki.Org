@@ -1,9 +1,9 @@
 The **Qidong Pipeline Campaign of 2012** was a grassroots
-"<a   href="Timeline_of_Environmentalism.md" class="wikilink"
+<a href="Timeline_of_Environmentalism.md" class="wikilink"
 title="environmental protest">environmental protest</a> that started in
 the city of Qidong, Jiangsu,
-"<a   href="China.md" class="wikilink" title="China">China</a> on the 28th of
-July, "<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
+<a href="China.md" class="wikilink" title="China">China</a> on the 28th of
+July, <a href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
 title="2012">2012</a>.
 
 ## Background
@@ -12,7 +12,7 @@ The coastal city of Qidong is located at the mouth of the Yangtze River,
 approximately one hour north of Shanghai. The city's economy is centered
 largely on the fishing industry, and is a major source of lobster and
 shrimp exports. In 2007, the
-"<a   href="Japan.md" class="wikilink" title="Japan">Japan</a>-based Oji Paper
+<a href="Japan.md" class="wikilink" title="Japan">Japan</a>-based Oji Paper
 Company began construction of a paper mill in the city of Nantong,
 Jiangsu, located approximately 100 km inland from the coast. A
 wastewater pipeline was designed to carry approximately 150,000 tons of
@@ -44,7 +44,7 @@ were very excited after searching out a large number of travel photos,
 travel hats, famous cigarettes, condoms, etc. At the scene, there was a
 scold. The wine was poured all over the place, and the fragrance of the
 wine lasted for a long time." The editors of
-"<a   href="AnarWiki.md" class="wikilink" title="libsocwiki">libsocwiki</a>
+<a href="AnarWiki.md" class="wikilink" title="libsocwiki">libsocwiki</a>
 are unable to determine the meaning of this.
 
 ## Results
@@ -62,35 +62,35 @@ products.
 
 ## See Also
 
-- "<a   href="Chinese_Protest_Wave_(2007_-_2014).md" class="wikilink"
+- <a href="Chinese_Protest_Wave_(2007_-_2014).md" class="wikilink"
   title="Chinese Protest Wave (2007 - 2014)">Chinese Protest Wave (2007 -
   2014)</a>
-- "<a   href="Shifang_Anti-Factory_Campaign_(2012).md" class="wikilink"
+- <a href="Shifang_Anti-Factory_Campaign_(2012).md" class="wikilink"
   title="Shifang Anti-Factory Campaign">Shifang Anti-Factory Campaign</a>
-- "<a   href="Ningbo_Anti-Refinery_Campaign_(2012).md" class="wikilink"
+- <a href="Ningbo_Anti-Refinery_Campaign_(2012).md" class="wikilink"
   title="Ningbo Anti-Refinery Campaign">Ningbo Anti-Refinery Campaign</a>
 
 ## References
 
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>
+<a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>
 (Chinese) - [Qidong
 protest](https://en.wikipedia.org/wiki/Qidong_protest)
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:China.md" class="wikilink"
+<a href="Category:China.md" class="wikilink"
 title="Category:China">Category:China</a>
-"<a   href="Category:Asia.md" class="wikilink"
+<a href="Category:Asia.md" class="wikilink"
 title="Category:Asia">Category:Asia</a>
-"<a   href="Category:Eastern_Asia.md" class="wikilink"
+<a href="Category:Eastern_Asia.md" class="wikilink"
 title="Category:Eastern Asia">Category:Eastern Asia</a>
-"<a   href="Category:2012.md" class="wikilink"
+<a href="Category:2012.md" class="wikilink"
 title="Category:2012">Category:2012</a>
-"<a   href="Category:2010s.md" class="wikilink"
+<a href="Category:2010s.md" class="wikilink"
 title="Category:2010s">Category:2010s</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century.md" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:Social_Movements.md" class="wikilink"
+<a href="Category:Social_Movements.md" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
-"<a   href="Category:Environmentalism.md" class="wikilink"
+<a href="Category:Environmentalism.md" class="wikilink"
 title="Category:Environmentalism">Category:Environmentalism</a>

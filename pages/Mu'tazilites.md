@@ -1,7 +1,7 @@
 Some members of the Mu'tazalite school of ninth-century Iraqi Islam
 believed that government was not necessary or desirable. Their views
 paralleled those of some
-"<a   href="Kharijites.md" class="wikilink" title="Kharijites">Kharijites</a>
+<a href="Kharijites.md" class="wikilink" title="Kharijites">Kharijites</a>
 in the same region. At the time, imams ruled locally and often turned
 into unaccountable despots. Some Mu'tazalite ascetic thinkers reasoned,
 in Patricia Crone's summary: "Since imams kept turning into kings, the
@@ -27,11 +27,11 @@ again."[^3]
 
 <references/>
 
-"<a   href="Category:Religions.md" class="wikilink"
+<a href="Category:Religions.md" class="wikilink"
 title="Category:Religions">Category:Religions</a>
-"<a   href="Category:Islam.md" class="wikilink"
+<a href="Category:Islam.md" class="wikilink"
 title="Category:Islam">Category:Islam</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Patricia Crone, "Ninth-Century Muslim Anarchists," *Past and

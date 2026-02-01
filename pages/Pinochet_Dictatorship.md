@@ -3,30 +3,30 @@ torture, rape and murder*
 
 The **Pinochet Dictatorship** or **Military Dictatorship of Chile**
 refers to the rule of authoritarian, militaristic government led by
-"<a   href="Augusto_Pinochet.md" class="wikilink"
+<a href="Augusto_Pinochet.md" class="wikilink"
 title="Augusto Pinochet">Augusto Pinochet</a> in
-"<a   href="Chile.md" class="wikilink" title="Chile">Chile</a> from
-"<a   href="Chilean_Military_Coup_(1973).md" class="wikilink"
+<a href="Chile.md" class="wikilink" title="Chile">Chile</a> from
+<a href="Chilean_Military_Coup_(1973).md" class="wikilink"
 title="1973">1973</a> to
-"<a   href="Chilean_Transition_to_Democracy.md" class="wikilink"
+<a href="Chilean_Transition_to_Democracy.md" class="wikilink"
 title="1990">1990</a>. The dictatorship acted as a
-"<a   href="Timeline_of_US_Imperialism.md" class="wikilink"
+<a href="Timeline_of_US_Imperialism.md" class="wikilink"
 title="client state to US interests">client state to US interests</a>,
 and began the first experiments in
-"<a   href="Neoliberalism.md" class="wikilink"
+<a href="Neoliberalism.md" class="wikilink"
 title="neoliberal economic policy">neoliberal economic policy</a>, which
 was disastrous for the working class but succeeded in restoring the rate
-of "<a   href="profit.md" class="wikilink" title="profit">profit</a> to high
+of <a href="profit.md" class="wikilink" title="profit">profit</a> to high
 levels.
 
 ## Origins
 
-In response to "<a   href="Salvador_Allende.md" class="wikilink"
+In response to <a href="Salvador_Allende.md" class="wikilink"
 title="Salvador Allende&#39;s">Salvador Allende's</a> efforts to
 nationalise US-owned copper mines (to fund a larger
-"<a   href="Welfare_State.md" class="wikilink" title="welfare state">welfare
+<a href="Welfare_State.md" class="wikilink" title="welfare state">welfare
 state</a>) and grassroots efforts to create
-"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Workers&#39;_Self-Management.md" class="wikilink"
 title="workers&#39; self-management">workers' self-management</a>. The
 US supported the military and a mass campaign of disinformation in order
 to topple the government, killing Allende and imposing a new regime that
@@ -41,7 +41,7 @@ The dictatorship committed numerous crimes against humanity and
 instituted a reign of terror to purge Chile of leftists, killing between
 2,000 and 30,000 people, 27,000 people being tortured (and survived) and
 200,000 people were forced into exile (mainly to
-"<a   href="Argentina.md" class="wikilink" title="Argentina">Argentina</a>).
+<a href="Argentina.md" class="wikilink" title="Argentina">Argentina</a>).
 In other words, 2.2% of Chile's population (of 10.1 million) had their
 lives ended or ruined by the dictatorship.[^2]
 
@@ -52,9 +52,9 @@ Santiago), over 40,000 people were held there over 17 years, with the
 locker rooms and changing rooms were where prisoners were first to sleep
 and torture and executions were performed in the velodrome (including
 killing two American journalists,
-"<a   href="Frank_Teruggi_Jr..md" class="wikilink"
+<a href="Frank_Teruggi_Jr..md" class="wikilink"
 title="Frank Teruggi Jr.">Frank Teruggi Jr.</a> and
-"<a   href="Charles_Horman.md" class="wikilink" title="Charles Horman">Charles
+<a href="Charles_Horman.md" class="wikilink" title="Charles Horman">Charles
 Horman</a>). Other buildings were converted into secret detention
 centres, and horrors occurred in all of them. Some of these horrors
 include:
@@ -94,11 +94,11 @@ include:
   seconds of their live in absolute terror) and their bodies never
   found.[^14] This method of torture is continuously joked about in
   online right-wing spaces as their 'joking' plan for leftists.[^15]
-- Many victims reported suffering from "<a   href="PTSD.md" class="wikilink"
+- Many victims reported suffering from <a href="PTSD.md" class="wikilink"
   title="post traumatic stress disorder">post traumatic stress
   disorder</a>, isolation, worthlessness,
-  "<a   href="shame.md" class="wikilink" title="shame">shame</a>,
-  "<a   href="anxiety.md" class="wikilink" title="anxiety">anxiety</a> and
+  <a href="shame.md" class="wikilink" title="shame">shame</a>,
+  <a href="anxiety.md" class="wikilink" title="anxiety">anxiety</a> and
   hopelessness.[^16]
 
 ## Resistance
@@ -107,7 +107,7 @@ Various organisations were set up to resist the dictatorship, notably
 three main guerilla groups, the Lautaro Youth Movement (MJL), Manuel
 Rodríguez Patriotic Front (FPMR) and Revolutionary Left Movement (MIR).
 All three of these were strongly inspired by
-"<a   href="Marxism-Leninism.md" class="wikilink"
+<a href="Marxism-Leninism.md" class="wikilink"
 title="Marxist-Leninist">Marxist-Leninist</a> ideals. To give a short
 (and incomplete) timeline of their actions:
 
@@ -137,7 +137,7 @@ title="Marxist-Leninist">Marxist-Leninist</a> ideals. To give a short
   San Joaquín, Santiago.
 - 1988: Leftist militants bomb a church in Valparaíso, injuring three
   churchgoers.
-- 1988: FPMR "<a   href="Chilean_Uprising_(1988).md" class="wikilink"
+- 1988: FPMR <a href="Chilean_Uprising_(1988).md" class="wikilink"
   title="takes control of four towns">takes control of four towns</a> in
   the country, (Aguas Grandes, La Mora, Los Queñes and Pichipellahuén)
   and resists police and military efforts to take them back, but
@@ -145,34 +145,34 @@ title="Marxist-Leninist">Marxist-Leninist</a> ideals. To give a short
 - 1989: A 26-year old soldier is shot and killed at point blank range
   while guarding a building in Viña del Mar.
 - 1989: MIR plans to kidnap 30 business executives in Chile of
-  "<a   href="Brazil.md" class="wikilink" title="Brazilian">Brazilian</a> and
-  "<a   href="Canada.md" class="wikilink" title="Canadian">Canadian</a>
+  <a href="Brazil.md" class="wikilink" title="Brazilian">Brazilian</a> and
+  <a href="Canada.md" class="wikilink" title="Canadian">Canadian</a>
   descent, but fails after it is detected by Canadian intelligence
   agencies.
 
 ## References
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Authortarian_States.md" class="wikilink"
+<a href="Category:Authortarian_States.md" class="wikilink"
 title="Category:Authortarian States">Category:Authortarian States</a>
-"<a   href="Category:Chile.md" class="wikilink"
+<a href="Category:Chile.md" class="wikilink"
 title="Category:Chile">Category:Chile</a>
-"<a   href="Category:South_America.md" class="wikilink"
+<a href="Category:South_America.md" class="wikilink"
 title="Category:South America">Category:South America</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century.md" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-"<a   href="Category:1980s.md" class="wikilink"
+<a href="Category:1980s.md" class="wikilink"
 title="Category:1980s">Category:1980s</a>
-"<a   href="Category:1970s.md" class="wikilink"
+<a href="Category:1970s.md" class="wikilink"
 title="Category:1970s">Category:1970s</a>
-"<a   href="Category:Neoliberalism.md" class="wikilink"
+<a href="Category:Neoliberalism.md" class="wikilink"
 title="Category:Neoliberalism">Category:Neoliberalism</a>
 
-[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^1]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile_(1973–1990>)
 
-[^2]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^2]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile_(1973%E2%80%931990)#Dictatorship_violence>
 
 [^3]: Peter Kornbluh (2003) *The Pinochet File: a Declassified Dossier
@@ -181,7 +181,7 @@ title="Category:Neoliberalism">Category:Neoliberalism</a>
 [^4]: Report of the Chilean National Commission on Truth and
     Reconciliation
 
-[^5]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^5]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Human_rights_violations_in_Pinochet%27s_Chile#Physical_torture>
 
 [^6]: Peter Kornbluh (September 11, 2013). *The Pinochet File: A
@@ -206,7 +206,7 @@ title="Category:Neoliberalism">Category:Neoliberalism</a>
 
 [^13]:
 
-[^14]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^14]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Death_flights#Chilean_dictatorship>
 
 [^15]: <https://knowyourmeme.com/memes/free-helicopter-rides>

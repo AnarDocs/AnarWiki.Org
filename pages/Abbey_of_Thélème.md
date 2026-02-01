@@ -2,7 +2,7 @@
 with no rules except "Do what you will." The name *Thélème* means "will"
 or "pleasure" in Greek.
 
-From "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
+From <a href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
 class="wikilink"
 title="Demanding the Impossible: A History of Anarchism">Demanding the
 Impossible: A History of Anarchism</a>:

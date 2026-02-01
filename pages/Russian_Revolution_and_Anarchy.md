@@ -186,7 +186,7 @@ guerrilla movement."[^24]
 # Kronstadt rebellion
 
 *Note: This section is copied from
-"<a   href="Kronstadt_rebellion.md" class="wikilink"
+<a href="Kronstadt_rebellion.md" class="wikilink"
 title="Kronstadt rebellion">Kronstadt rebellion</a>*
 
 In 1921, the sailors, soldiers and workers of Russia's Kronstadt naval

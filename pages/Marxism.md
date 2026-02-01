@@ -4,34 +4,34 @@
 
 **Marxism** is a political philosophy and method of socioeconomic
 analysis developed by 19th-century German philosophers
-"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a> and
-"<a   href="Friedrich_Engels.md" class="wikilink"
+<a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a> and
+<a href="Friedrich_Engels.md" class="wikilink"
 title="Friedrich Engels">Friedrich Engels</a>. It views
-"<a   href="class_struggle.md" class="wikilink" title="class struggle">class
+<a href="class_struggle.md" class="wikilink" title="class struggle">class
 struggle</a> as the central driving force of historical change and
 advocates for the overthrow of
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
-through "<a   href="proletarian_revolution.md" class="wikilink"
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+through <a href="proletarian_revolution.md" class="wikilink"
 title="proletarian revolution">proletarian revolution</a>.
 
 From an
-"<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 perspective, Marxism represents a fundamentally authoritarian approach
 to achieving socialism that has consistently produced state capitalist
 tyrannies rather than the classless, stateless society it claims to
 seek. While sharing anarchism's critique of capitalism and goal of a
 free society, Marxism's reliance on state power and
-"<a   href="centralization.md" class="wikilink"
+<a href="centralization.md" class="wikilink"
 title="centralization">centralization</a> makes it incompatible with
 genuine human liberation.
 
 ## Scope and Distinctions
 
 It is important to clarify that Marxism and
-"<a   href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+<a href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>
 operate on different analytical levels. Marxism is primarily a theory of
 economic analysis - specifically analyzing
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
 which is a historically recent phenomenon only a few hundred years old.
 Anarchism, by contrast, is a theory of hierarchy analysis that applies
 to the entirety of human history, examining power relations
@@ -112,7 +112,7 @@ Marx essentially combined class analysis (dictatorship BY the
 proletariat) with the French revolutionary tradition (dictatorship as
 temporary emergency measure) and Blanquist insurrectionism (small group
 seizing power). This is why anarchists like
-"<a   href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> immediately recognized it as
 authoritarian - it was adapting authoritarian precedents with a class
 label.
@@ -155,7 +155,7 @@ time.
 
 ### Historical Materialism
 
-"<a   href="Historical_materialism.md" class="wikilink"
+<a href="Historical_materialism.md" class="wikilink"
 title="Historical materialism">Historical materialism</a> (also called
 dialectical materialism or the materialist conception of history)
 constitutes the essence of Marxism. Engels defined it in his
@@ -172,7 +172,7 @@ introduction to Marx's *Critique of Political Economy*:
 
 **Anarchist Critique:** This economic determinism ignores the decisive
 importance of non-economic factors in shaping history. As
-"<a   href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> argued over a century ago:
 
 > "Marx holds that the political condition of each country is always the
@@ -191,18 +191,18 @@ political and cultural "superstructure" is demonstrably false.
 
 ### Labour Theory of Value
 
-The "<a   href="labour_theory_of_value.md" class="wikilink"
+The <a href="labour_theory_of_value.md" class="wikilink"
 title="labour theory of value">labour theory of value</a> posits that
 the value of a commodity equals the socially necessary labour time
 required to produce it. Under capitalism, workers produce more value
 than they receive in wages, creating
-"<a   href="surplus_value.md" class="wikilink" title="surplus value">surplus
+<a href="surplus_value.md" class="wikilink" title="surplus value">surplus
 value</a> that capitalists appropriate as profit.
 
 **Anarchist Critique:** While Marx's critique of capitalist exploitation
 has value, the rigid labour theory of value has been extensively
 criticized. It leaves out the forces of nature, science and technology,
-and consumer demand. The "<a   href="Austrian_School.md" class="wikilink"
+and consumer demand. The <a href="Austrian_School.md" class="wikilink"
 title="Austrian School">Austrian School</a> economists and others have
 argued that subjective individual evaluations, not just labour time,
 create value. As British economist Alfred Marshall argued, "It is not
@@ -215,7 +215,7 @@ employed."[^6]
 
 According to Marx, capitalism contains internal contradictions that fuel
 class conflict between the bourgeoisie (capitalist class) and the
-"<a   href="proletariat.md" class="wikilink"
+<a href="proletariat.md" class="wikilink"
 title="proletariat">proletariat</a> (working class). This conflict will
 inevitably lead to proletarian revolution and the establishment of
 socialism.
@@ -231,7 +231,7 @@ occurred in agrarian Russia and China, contradicting Marx's predictions.
 More fundamentally, workers are not just economic actors. What they
 think and feel - their attachment to nation, religion, tradition - may
 determine their reactions more than their position in production. As
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> emphasized, co-operation rather than conflict lies at the
 root of human society, and Marx's exclusive focus on class struggle
 distorts this reality.
@@ -249,14 +249,14 @@ state altogether. However, Marx argued that:
 2.  This state would repress capitalists and nationalize the economy
 3.  The state would eventually "wither away" as classes disappear
 
-**Anarchist Critique:** As "<a   href="Mikhail_Bakunin.md" class="wikilink"
+**Anarchist Critique:** As <a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> warned, the state is not
 merely an agent of the economic ruling class, but constitutes a class in
 itself - the most powerful of all by virtue of its monopoly of armed
 force. The state is not only the product but also the creator and
 perpetuator of inequality.
 
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> prophetically warned in 1910: "To hand over to the state
 all the main sources of economic life, as also the management of all the
 main branches of industry, would mean to create a new instrument of
@@ -271,9 +271,9 @@ through political action \[the State\]."[^8]
 ### The Paris Commune
 
 Marx praised the
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
+<a href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
 Commune</a> of 1871 as a model of the
-"<a   href="dictatorship_of_the_proletariat.md" class="wikilink"
+<a href="dictatorship_of_the_proletariat.md" class="wikilink"
 title="dictatorship of the proletariat">dictatorship of the
 proletariat</a>. The Commune established:
 
@@ -284,17 +284,17 @@ proletariat</a>. The Commune established:
 
 **Anarchist Critique:** While the Commune had libertarian elements, Marx
 never raised the value of face-to-face, local,
-"<a   href="direct_democracy.md" class="wikilink"
+<a href="direct_democracy.md" class="wikilink"
 title="direct democracy">direct democracy</a>. He praised only an
 extremely democratic version of representative democracy. More
 importantly, as soon as the Commune was crushed, Marx redoubled efforts
-to get the "<a   href="First_International.md" class="wikilink"
+to get the <a href="First_International.md" class="wikilink"
 title="First International">First International</a> to promote workers'
 electoral parties to run in elections and take over existing states -
 the opposite of the revolutionary-libertarian meaning of the Paris
 Commune.
 
-The anarchist "<a   href="Mikhail_Bakunin.md" class="wikilink"
+The anarchist <a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> had already proposed true
 federalism: "I am a convinced supporter of economic and social equality,
 for I know that outside of equality, liberty, justice, human dignity,
@@ -364,23 +364,23 @@ for war credits in 1914, betraying the international working class.
 
 ### Bolshevism and State Capitalism
 
-"<a   href="Vladimir_Lenin.md" class="wikilink"
+<a href="Vladimir_Lenin.md" class="wikilink"
 title="Lenin&#39;s">Lenin's</a> attempt to return to revolutionary
 Marxism produced an even worse result. The
-"<a   href="Russian_Revolution.md" class="wikilink"
+<a href="Russian_Revolution.md" class="wikilink"
 title="Russian Revolution">Russian Revolution</a> created a totalitarian
 state capitalist regime that:
 
 - Suppressed workers' councils (soviets) and factory committees
 - Banned opposition parties and factions within the Communist Party
-- Crushed the "<a   href="Kronstadt_Rebellion.md" class="wikilink"
+- Crushed the <a href="Kronstadt_Rebellion.md" class="wikilink"
   title="Kronstadt Rebellion">Kronstadt Rebellion</a> of revolutionary
   sailors and workers
 - Established one-party dictatorship and secret police terror
 - Centralized all economic power in state hands
 
 Under
-"<a   href="Joseph_Stalin.md" class="wikilink" title="Stalin">Stalin</a>, this
+<a href="Joseph_Stalin.md" class="wikilink" title="Stalin">Stalin</a>, this
 system murdered millions through forced collectivization, labor camps,
 purges, and manufactured famines.
 
@@ -399,10 +399,10 @@ will be subjected to this new domination, this new State."[^16]
 Similar patterns emerged wherever Marxist parties took power:
 
 - **China** under
-  "<a   href="Mao_Zedong.md" class="wikilink" title="Mao Zedong">Mao Zedong</a> -
-  the "<a   href="Cultural_Revolution.md" class="wikilink"
+  <a href="Mao_Zedong.md" class="wikilink" title="Mao Zedong">Mao Zedong</a> -
+  the <a href="Cultural_Revolution.md" class="wikilink"
   title="Cultural Revolution">Cultural Revolution</a>,
-  "<a   href="Great_Leap_Forward.md" class="wikilink"
+  <a href="Great_Leap_Forward.md" class="wikilink"
   title="Great Leap Forward">Great Leap Forward</a>, and ongoing
   authoritarian rule
 - **Cambodia** under Pol Pot - genocide of millions
@@ -419,7 +419,7 @@ of the means of production.
 
 Marxism functions as a secular religion, replacing traditional religious
 dogma with ostensibly "scientific" dogma. As
-"<a   href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> observed, Marx wanted to
 replace:
 
@@ -451,13 +451,13 @@ Utopian basis, on a kind of religious faith."[^17]
 The totalitarian tendencies of Marxism stem partly from this religious
 structure. Those who believe they possess absolute truth about the laws
 of history feel justified in forcing others to follow their policies.
-"<a   href="Vladimir_Lenin.md" class="wikilink" title="Lenin">Lenin</a>
+<a href="Vladimir_Lenin.md" class="wikilink" title="Lenin">Lenin</a>
 certainly had this consciousness, as did all subsequent Marxist
 dictators.
 
 ## The First International Split
 
-The split in the "<a   href="First_International.md" class="wikilink"
+The split in the <a href="First_International.md" class="wikilink"
 title="First International">First International</a> (International
 Workingmen's Association) between Marxists and anarchists in 1872
 revealed fundamental differences that remain today.
@@ -465,7 +465,7 @@ revealed fundamental differences that remain today.
 The anarchist position, articulated by Bakunin, argued for:
 
 - Immediate abolition of the state, not seizure of state power
-- "<a   href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>
+- <a href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>
   and decentralization rather than centralization
 - Direct workers' control of production, not state ownership
 - Spontaneous revolution from below, not vanguard party leadership
@@ -475,7 +475,7 @@ The Marxist position, defended by Marx and Engels, insisted on:
 
 - Conquest of political power through workers' parties
 - Centralized state control of the economy
-- "<a   href="Democratic_centralism.md" class="wikilink"
+- <a href="Democratic_centralism.md" class="wikilink"
   title="Democratic centralism">Democratic centralism</a> and party
   discipline
 - Subordination of national sections to the General Council
@@ -487,7 +487,7 @@ advocated.
 
 **Historical Verdict:** The anarchists were proven right. Every attempt
 to implement the Marxist program has led to authoritarian states, while
-anarchist and "<a   href="anarcho-syndicalist.md" class="wikilink"
+anarchist and <a href="anarcho-syndicalist.md" class="wikilink"
 title="anarcho-syndicalist">anarcho-syndicalist</a> experiments
 (Revolutionary Spain, Free Territory of Ukraine, Zapatista communities)
 have demonstrated the viability of libertarian socialism.
@@ -501,9 +501,9 @@ develop libertarian interpretations. These include:
 
 Emerging from the German and Dutch left after World War I, council
 communists like
-"<a   href="Anton_Pannekoek.md" class="wikilink" title="Anton Pannekoek">Anton
+<a href="Anton_Pannekoek.md" class="wikilink" title="Anton Pannekoek">Anton
 Pannekoek</a> and
-"<a   href="Otto_Rühle.md" class="wikilink" title="Otto Rühle">Otto Rühle</a>
+<a href="Otto_Rühle.md" class="wikilink" title="Otto Rühle">Otto Rühle</a>
 argued for:
 
 - Workers' councils as the basis of revolution
@@ -517,7 +517,7 @@ Marxism.
 ### Autonomist Marxism
 
 Developed by theorists like
-"<a   href="Antonio_Negri.md" class="wikilink" title="Antonio Negri">Antonio
+<a href="Antonio_Negri.md" class="wikilink" title="Antonio Negri">Antonio
 Negri</a>, autonomism emphasizes:
 
 - Autonomous workers' struggles independent of parties
@@ -529,7 +529,7 @@ Negri</a>, autonomism emphasizes:
 
 Left communists criticized Bolshevism from a Marxist perspective,
 arguing Lenin betrayed workers' power.
-"<a   href="Rosa_Luxemburg.md" class="wikilink" title="Rosa Luxemburg">Rosa
+<a href="Rosa_Luxemburg.md" class="wikilink" title="Rosa Luxemburg">Rosa
 Luxemburg</a> warned: "Freedom only for the supporters of the
 government, only for the members of one party – however numerous they
 may be – is no freedom at all. Freedom is always and exclusively freedom
@@ -540,12 +540,12 @@ for the one who thinks differently."[^18]
 Some anarchists have found Marx's economic analysis useful while
 rejecting his politics. This includes:
 
-- "<a   href="Daniel_Guérin.md" class="wikilink" title="Daniel Guérin">Daniel
+- <a href="Daniel_Guérin.md" class="wikilink" title="Daniel Guérin">Daniel
   Guérin</a> - synthesized anarchism and Marxism
-- "<a   href="Cornelius_Castoriadis.md" class="wikilink"
+- <a href="Cornelius_Castoriadis.md" class="wikilink"
   title="Cornelius Castoriadis">Cornelius Castoriadis</a> - developed
   autonomous Marxism
-- "<a   href="Murray_Bookchin.md" class="wikilink"
+- <a href="Murray_Bookchin.md" class="wikilink"
   title="Murray Bookchin">Murray Bookchin</a> - combined Marx's class
   analysis with anarchist politics (in his earlier work)
 
@@ -569,11 +569,11 @@ The anarchist critique of Marxism focuses on several key areas:
 Anarchists reject Marx's belief that the working class can use the state
 for liberation. The state, by its very nature as a centralized, coercive
 institution, cannot be a tool for freedom. As
-"<a   href="Errico_Malatesta.md" class="wikilink"
+<a href="Errico_Malatesta.md" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> argued, "The state by its
 very nature, cannot represent the people; it oppresses them."
 
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> documented how states throughout history have been
 instruments of conquest, plunder, and exploitation, not progressive
 forces. The modern state emerged through violence and subjugation, not
@@ -604,9 +604,9 @@ revolutions occurred in agrarian societies.
 
 ### Organization
 
-Marx's "<a   href="democratic_centralism.md" class="wikilink"
+Marx's <a href="democratic_centralism.md" class="wikilink"
 title="democratic centralism">democratic centralism</a> and
-"<a   href="vanguard_party.md" class="wikilink"
+<a href="vanguard_party.md" class="wikilink"
 title="vanguard party">vanguard party</a> model concentrates power in
 party leaders who claim to represent workers. Anarchists advocate direct
 democracy, voluntary federation, and rotating delegates with limited
@@ -617,9 +617,9 @@ mandates.
 While Marx's critique of capitalism has value, anarchists reject
 economic determinism. Cultural, psychological, ethical, and political
 factors shape history as much as economics. The anarchist
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> emphasized cooperation and
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 as evolutionary forces, not just competition and conflict.
 
 ## Conclusion
@@ -642,7 +642,7 @@ abolish it. Rather than centralization, we advocate decentralized
 federation. Rather than party dictatorship, we organize through
 horizontal networks of workers' councils and popular assemblies.
 
-As "<a   href="Errico_Malatesta.md" class="wikilink"
+As <a href="Errico_Malatesta.md" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> wrote: "We want to
 expropriate the property-owning class, and with violence, since it is
 with violence that they hold onto social wealth and use it to exploit
@@ -652,36 +652,36 @@ freedom there is, the better things will be."[^20]
 
 ## See Also
 
-- "<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>
-- "<a   href="Friedrich_Engels.md" class="wikilink"
+- <a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>
+- <a href="Friedrich_Engels.md" class="wikilink"
   title="Friedrich Engels">Friedrich Engels</a>
-- "<a   href="Mikhail_Bakunin.md" class="wikilink"
+- <a href="Mikhail_Bakunin.md" class="wikilink"
   title="Mikhail Bakunin">Mikhail Bakunin</a>
-- "<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+- <a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
   Kropotkin</a>
-- "<a   href="First_International.md" class="wikilink"
+- <a href="First_International.md" class="wikilink"
   title="First International">First International</a>
-- "<a   href="Russian_Revolution.md" class="wikilink"
+- <a href="Russian_Revolution.md" class="wikilink"
   title="Russian Revolution">Russian Revolution</a>
-- "<a   href="Spanish_Revolution.md" class="wikilink"
+- <a href="Spanish_Revolution.md" class="wikilink"
   title="Spanish Revolution">Spanish Revolution</a>
-- "<a   href="Anarcho-Syndicalism.md" class="wikilink"
+- <a href="Anarcho-Syndicalism.md" class="wikilink"
   title="Anarcho-Syndicalism">Anarcho-Syndicalism</a>
-- "<a   href="Marxist_Misrepresentations.md" class="wikilink"
+- <a href="Marxist_Misrepresentations.md" class="wikilink"
   title="Marxist Misunderstandings And Misrepresentations Of Anarchism">Marxist
   Misunderstandings And Misrepresentations Of Anarchism</a>
-- "<a   href="State_Capitalism.md" class="wikilink"
+- <a href="State_Capitalism.md" class="wikilink"
   title="State Capitalism">State Capitalism</a>
-- "<a   href="Centralization.md" class="wikilink"
+- <a href="Centralization.md" class="wikilink"
   title="Centralization">Centralization</a>
-- "<a   href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>
-- "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+- <a href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>
+- <a href="Workers&#39;_Self-Management.md" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a>
-- "<a   href="Libertarian_Socialism.md" class="wikilink"
+- <a href="Libertarian_Socialism.md" class="wikilink"
   title="Libertarian Socialism">Libertarian Socialism</a>
-- "<a   href="Council_Communism.md" class="wikilink"
+- <a href="Council_Communism.md" class="wikilink"
   title="Council Communism">Council Communism</a>
-- "<a   href="Platformism.md" class="wikilink"
+- <a href="Platformism.md" class="wikilink"
   title="Platformism">Platformism</a>
 
 ## References
@@ -706,21 +706,21 @@ freedom there is, the better things will be."[^20]
 - [The Critique of Marxism, Sam
   Dolgoff](https://theanarchistlibrary.org/library/sam-dolgoff-the-critique-of-marxism)
 
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:Marxism.md" class="wikilink"
+<a href="Category:Marxism.md" class="wikilink"
 title="Category:Marxism">Category:Marxism</a>
-"<a   href="Category:Authoritarian_Ideologies.md" class="wikilink"
+<a href="Category:Authoritarian_Ideologies.md" class="wikilink"
 title="Category:Authoritarian Ideologies">Category:Authoritarian
-Ideologies</a> "<a   href="Category:State_Socialism.md" class="wikilink"
+Ideologies</a> <a href="Category:State_Socialism.md" class="wikilink"
 title="Category:State Socialism">Category:State Socialism</a>
-"<a   href="Category:Critiques.md" class="wikilink"
+<a href="Category:Critiques.md" class="wikilink"
 title="Category:Critiques">Category:Critiques</a>
-"<a   href="Category:History.md" class="wikilink"
+<a href="Category:History.md" class="wikilink"
 title="Category:History">Category:History</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts.md" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

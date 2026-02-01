@@ -45,11 +45,11 @@ dictionary](https://drive.google.com/file/d/18swEmu6XRWpvJMZDNJAxbUXxfCuNAVEF/vi
 
 [Ana Toki discord server](https://discord.com/invite/CCcekexPfN)
 
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Language.md" class="wikilink"
+<a href="Category:Language.md" class="wikilink"
 title="Category:Language">Category:Language</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

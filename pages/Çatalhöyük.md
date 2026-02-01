@@ -58,7 +58,7 @@ walking across the rooftops.[^6]
 
 People lived in nearly identical houses and were buried with roughly the
 same quality and quantity of goods. Hodder argues these similarities
-suggest "<a   href="compulsory_conformity.md" class="wikilink"
+suggest <a href="compulsory_conformity" class="wikilink"
 title="compulsory conformity">compulsory conformity</a>:
 
 > Residents had to submit to a lot of social control — if you didn’t fit
@@ -235,7 +235,7 @@ Bernhard Brosius argues that Çatalhöyük existed in a context of
 widespread non-patriarchal "neolithic communism" lasting for three
 thousand years and spreading to all of Anatolia. There is evidence of a
 social revolution in the city of
-"<a   href="Cayonu.md" class="wikilink" title="Cayonu">Cayonu</a> in the year
+<a href="Cayonu" class="wikilink" title="Cayonu">Cayonu</a> in the year
 7200 BCE that overthrew a violent class society and installed an
 apparently egalitarian society more similar to Çatalhöyük.
 
@@ -244,17 +244,17 @@ well-preserved compared to the neighboring cities and towns.[^33]
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Anarchist_Societies.md" class="wikilink"
+<a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-"<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Past_Anarchist_Societies" class="wikilink"
 title="Category:Past Anarchist Societies">Category:Past Anarchist
-Societies</a> "<a   href="Category:Before_Common_Era.md" class="wikilink"
+Societies</a> <a href="Category:Before_Common_Era" class="wikilink"
 title="Category:Before Common Era">Category:Before Common Era</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Jennifer Jennifer Hattam, "What Happened to Turkey's Ancient

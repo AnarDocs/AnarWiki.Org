@@ -1,11 +1,11 @@
 # Syndicalist Economics
 
 **Syndicalist economics** refers to economic theories and practices
-advocated by "<a   href="Syndicalism.md" class="wikilink"
+advocated by <a href="Syndicalism" class="wikilink"
 title="anarcho-syndicalists">anarcho-syndicalists</a> and other
 syndicalist movements. It proposes a system based on workers'
 self-management, direct democracy, and the abolition of capitalism in
-favor of "<a   href="libertarian_communism.md" class="wikilink"
+favor of <a href="libertarian_communism" class="wikilink"
 title="libertarian communism">libertarian communism</a>. The economic
 model emphasizes solidarity, voluntary labor, and production for need
 rather than profit.
@@ -13,9 +13,9 @@ rather than profit.
 ## Overview
 
 Syndicalist economics emerged as a critique of both
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>
 and
-"<a   href="state_socialism.md" class="wikilink" title="state socialism">state
+<a href="state_socialism" class="wikilink" title="state socialism">state
 socialism</a>, offering an alternative based on workers' control of
 production and distribution. The system operates without money, wages,
 or prices, instead functioning on the principle of "from each according
@@ -126,7 +126,7 @@ services over individual consumption:
 ### Spanish Revolution (1936-1939)
 
 The most extensive implementation of syndicalist economics occurred
-during the "<a   href="Spanish_Revolution.md" class="wikilink"
+during the <a href="Spanish_Revolution" class="wikilink"
 title="Spanish Revolution">Spanish Revolution</a>, where millions of
 workers collectivized industries and agriculture. Industrial production
 in Catalonia increased despite wartime conditions, demonstrating the
@@ -134,7 +134,7 @@ viability of worker self-management.[^14]
 
 ### Revolutionary Ukraine (1918-1921)
 
-The "<a   href="Makhnovshchina.md" class="wikilink"
+The <a href="Makhnovshchina" class="wikilink"
 title="Makhnovist movement">Makhnovist movement</a> in Ukraine
 implemented aspects of syndicalist economics, with peasants and workers
 organizing production through free communes and councils.[^15]
@@ -173,19 +173,19 @@ Modern syndicalist economic proposals incorporate:
 
 ## See Also
 
-- "<a   href="Anarcho-syndicalism.md" class="wikilink"
+- <a href="Anarcho-syndicalism" class="wikilink"
   title="Anarcho-syndicalism">Anarcho-syndicalism</a>
-- "<a   href="Workers&#39;_self-management.md" class="wikilink"
+- <a href="Workers&#39;_self-management" class="wikilink"
   title="Workers&#39; self-management">Workers' self-management</a>
-- "<a   href="Libertarian_socialism.md" class="wikilink"
+- <a href="Libertarian_socialism" class="wikilink"
   title="Libertarian socialism">Libertarian socialism</a>
-- "<a   href="Gift_economy.md" class="wikilink" title="Gift economy">Gift
+- <a href="Gift_economy" class="wikilink" title="Gift economy">Gift
   economy</a>
-- "<a   href="Participatory_Society.md" class="wikilink"
+- <a href="Participatory_Society" class="wikilink"
   title="Participatory economics">Participatory economics</a>
-- "<a   href="Council_communism.md" class="wikilink"
+- <a href="Council_communism" class="wikilink"
   title="Council communism">Council communism</a>
-- "<a   href="Mutualist_Economics.md" class="wikilink"
+- <a href="Mutualist_Economics" class="wikilink"
   title="Mutualism (economic theory)">Mutualism (economic theory)</a>
 
 ## References
@@ -201,23 +201,23 @@ Modern syndicalist economic proposals incorporate:
 - [The Anarchist Collectives - Sam
   Dolgoff](https://theanarchistlibrary.org/library/sam-dolgoff-editor-the-anarchist-collectives)
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Economic_Systems.md" class="wikilink"
+<a href="Category:Economic_Systems" class="wikilink"
 title="Category:Economic Systems">Category:Economic Systems</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a>
-"<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Category:Workers&#39;_Self-Management" class="wikilink"
 title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
-"<a   href="Category:Anarcho-Syndicalism.md" class="wikilink"
+<a href="Category:Anarcho-Syndicalism" class="wikilink"
 title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
-"<a   href="Category:Alternative_Economics.md" class="wikilink"
+<a href="Category:Alternative_Economics" class="wikilink"
 title="Category:Alternative Economics">Category:Alternative
-Economics</a> "<a   href="Category:Anarchist_Economics.md" class="wikilink"
+Economics</a> <a href="Category:Anarchist_Economics" class="wikilink"
 title="Category:Anarchist Economics">Category:Anarchist Economics</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: The Economics of Freedom: An anarcho-syndicalist alternative to

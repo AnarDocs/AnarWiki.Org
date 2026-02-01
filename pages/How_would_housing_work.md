@@ -1,30 +1,30 @@
 ![](HousinginOntario.png "HousinginOntario.png") **How would housing
 work?** is a
-"<a   href="Introduction_to_Libertarian_Socialism#FAQ.md" class="wikilink"
+<a href="Introduction_to_Libertarian_Socialism#FAQ.md" class="wikilink"
 title="frequently asked question">frequently asked question</a> about
-"<a   href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
+<a href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
 
 ## General Idea
 
 Anarchists, and other Libertarian Socialists tend to believe that
-"<a   href="housing.md" class="wikilink" title="housing">housing</a> is a
+<a href="housing.md" class="wikilink" title="housing">housing</a> is a
 right of all people. We aim to give people high-quality housing either
 for free or at an extremely low cost and if we succeed, we will
-eliminate high "<a   href="Rent.md" class="wikilink" title="rents">rents</a>,
-"<a   href="homelessness.md" class="wikilink"
+eliminate high <a href="Rent.md" class="wikilink" title="rents">rents</a>,
+<a href="homelessness.md" class="wikilink"
 title="homelessness">homelessness</a> and low-quality housing (with
 infestations of
-"<a   href="Animal.md" class="wikilink" title="animals">animals</a> and things
+<a href="Animal.md" class="wikilink" title="animals">animals</a> and things
 that aren’t maintained properly, which can lead to
-"<a   href="Health.md" class="wikilink" title="health problems">health
-problems</a>, "<a   href="Disasters.md" class="wikilink"
+<a href="Health.md" class="wikilink" title="health problems">health
+problems</a>, <a href="Disasters.md" class="wikilink"
 title="structural collapse and fires">structural collapse and fires</a>).
 Not only this, but we desire *tenant’s control* (or *tenant’s democrac*y
 or *tenant’s self-management*) in the same way
-"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Workers&#39;_Self-Management.md" class="wikilink"
 title="we demand it for workers">we demand it for workers</a>. Tenants
 can control their housing in the same way workers would in our society,
-through "<a   href="Democratic_Assembly.md" class="wikilink"
+through <a href="Democratic_Assembly.md" class="wikilink"
 title="democratic assemblies">democratic assemblies</a> or by electing
 their landlord.
 
@@ -33,43 +33,43 @@ their landlord.
 ### Housing Cooperatives
 
 Research from Toronto,
-"<a   href="Canada.md" class="wikilink" title="Canada">Canada</a> found that
+<a href="Canada.md" class="wikilink" title="Canada">Canada</a> found that
 housing cooperatives had residents rate themselves as having the highest
 quality of life and housing satisfaction of any housing organisation in
 the city.[^1] Other research among older residents from rural
-"<a   href="United_States_of_America.md" class="wikilink" title="USA">USA</a>
+<a href="United_States_of_America.md" class="wikilink" title="USA">USA</a>
 found that those living in housing cooperatives felt much safer,
 independent, satisfied with life, had more friends, had more privacy,
 were healthier and had things repaired faster.[^2]
 
-"<a   href="Australia.md" class="wikilink" title="Australian">Australian</a>
+<a href="Australia.md" class="wikilink" title="Australian">Australian</a>
 researchers found that cooperative housing built stronger
-"<a   href="Social_Network.md" class="wikilink" title="social networks">social
+<a href="Social_Network.md" class="wikilink" title="social networks">social
 networks</a> and support, as well as better relationships with
 neighbours compared to other forms of housing. They cost 14% less for
 residents and had lower rates of debt and vacancy. Other research has
 found that housing cooperatives tended to have higher rates of building
 quality, building safety, feelings of security among residents, lower
-"<a   href="crime.md" class="wikilink" title="crime">crime</a> rates, stable
+<a href="crime.md" class="wikilink" title="crime">crime</a> rates, stable
 access to housing and significantly lower costs compared to conventional
 housing.[^3]
 
 ### Marinaleda
 
-"<a   href="Marinaleda.md" class="wikilink" title="Marinaleda">Marinaleda</a>,
+<a href="Marinaleda.md" class="wikilink" title="Marinaleda">Marinaleda</a>,
 a town of 3,000 people located in Southern
-"<a   href="Spain.md" class="wikilink" title="Spain">Spain</a>, shows us what
+<a href="Spain.md" class="wikilink" title="Spain">Spain</a>, shows us what
 a new world of housing can look like. Although making an economic
 transition in
-"<a   href="Timeline_of_Anarchism_in_Southern_Europe.md" class="wikilink"
+<a href="Timeline_of_Anarchism_in_Southern_Europe.md" class="wikilink"
 title="1979">1979</a> due to mass protests,
-"<a   href="Strike.md" class="wikilink" title="strikes">strikes</a> and
-"<a   href="Occupation_(Protest).md" class="wikilink"
+<a href="Strike.md" class="wikilink" title="strikes">strikes</a> and
+<a href="Occupation_(Protest).md" class="wikilink"
 title="land occupations">land occupations</a>, it rose to fame in the
 early 2010s in the midst of a massive economic crisis and housing bubble
 in Spain. The town had full employment from self-managed farms and
 factories and no
-"<a   href="police.md" class="wikilink" title="police">police</a> force (being
+<a href="police.md" class="wikilink" title="police">police</a> force (being
 called a "utopia for peace").
 
 Houses of three bedrooms and gardens of 100 m2 could be lived in for 15
@@ -78,18 +78,18 @@ town and public grants and free assistance from professional builders is
 provided. Zero homelessness has been achieved and the town has built a
 school, a TV station, a radio station, parks, childcare centers, aged
 care homes,
-"<a   href="Healthcare.md" class="wikilink" title="doctors offices">doctors
+<a href="Healthcare.md" class="wikilink" title="doctors offices">doctors
 offices</a> and a swimming pool since the transition.[^4]
 
 ### Squatter Communities
 
 *See also:
-"<a   href="List_of_Squats.md" class="wikilink" title="List of Squats">List of
+<a href="List_of_Squats.md" class="wikilink" title="List of Squats">List of
 Squats</a>*
 
 Squatter communities also offer us an alternative vision of housing. In
-"<a   href="Barcelona.md" class="wikilink" title="Barcelona">Barcelona</a>,
-the famous "<a   href="Barcelona_Squatter_Community.md" class="wikilink"
+<a href="Barcelona.md" class="wikilink" title="Barcelona">Barcelona</a>,
+the famous <a href="Barcelona_Squatter_Community.md" class="wikilink"
 title="squatter community">squatter community</a> manages to organise
 free housing for thousands of people. Abandoned or rotting buildings are
 fixed by squatters who teach themselves the skills they need along the
@@ -106,14 +106,14 @@ self-defense and yoga, natural healing, as well as libraries, gardens,
 communal meals, art and theater groups, language classes, alternative
 media and counterinformation, music shows, movies, computer labs where
 people can use the
-"<a   href="internet.md" class="wikilink" title="internet">internet</a> and
+<a href="internet.md" class="wikilink" title="internet">internet</a> and
 learn programming. Nearly all of these services are provided absolutely
 free for the neighbourhood, which most non-squatters view as
 beneficial.[^5]
 
 ## References
 
-"<a   href="Category:FAQ.md" class="wikilink"
+<a href="Category:FAQ.md" class="wikilink"
 title="Category:FAQ">Category:FAQ</a>
 
 [^1]: ~ Matthew Cooper and Margaret C. Rodman (1994) - [Accessibility
@@ -126,10 +126,10 @@ title="Category:FAQ">Category:FAQ</a>
 
 [^3]: <http://reic.uwcc.wisc.edu/house/>
 
-[^4]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>
+[^4]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>
     (Spanish) - <https://es.wikipedia.org/wiki/Marinaleda>
 
-[^5]: ~ "<a   href="Peter_Gelderloos.md" class="wikilink"
+[^5]: ~ <a href="Peter_Gelderloos.md" class="wikilink"
     title="Peter Gelderloos">Peter Gelderloos</a> (2010) -
-    *"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    *<a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>*, page 80

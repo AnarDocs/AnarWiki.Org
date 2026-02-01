@@ -13,7 +13,7 @@ forms of hierarchical oppression.
 
 The relationship between anarchism and critiques of marriage emerged
 alongside the development of modern anarchist theory in the 19th
-century.[^1] While "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+century.[^1] While <a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>, the first
 self-proclaimed anarchist, maintained more traditional views on family
 structures and viewed the family as the most basic unit of society and
@@ -22,22 +22,22 @@ traditional role within the family,[^2] most subsequent major anarchist
 thinkers developed profound critiques of institutionalized marriage and
 sexual control.
 
-"<a   href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> explicitly opposed
-"<a   href="Patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>
+<a href="Patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>
 and "the way the law subjects \[women\] to the absolute domination of
 the man." He argued that "\[e\]qual rights must belong to men and women"
 so that women can "become independent and be free to forge their own way
 of life". Bakunin foresaw "the full sexual freedom of women" and the end
 of "the authoritarian juridical family".[^3]
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> and other anarcho-communist theorists similarly viewed the
 nuclear family and marriage as institutions that reinforced existing
 hierarchies and prevented true social revolution.
 
 ### Oscar Wilde and Early Advocacy
 
-"<a   href="Oscar_Wilde.md" class="wikilink" title="Oscar Wilde">Oscar
+<a href="Oscar_Wilde.md" class="wikilink" title="Oscar Wilde">Oscar
 Wilde</a>, in his essay *The Soul of Man Under Socialism*, passionately
 advocated for an egalitarian society where wealth is shared by all,
 while warning of the dangers of authoritarian socialism that would crush
@@ -45,9 +45,9 @@ individuality.[^4] He later commented, "I think I am rather more than a
 Socialist. I am something of an Anarchist, I believe." Wilde's left
 libertarian politics were shared by other figures who actively
 campaigned for homosexual emancipation in the late 19th century,
-including "<a   href="John_Henry_Mackay.md" class="wikilink"
+including <a href="John_Henry_Mackay.md" class="wikilink"
 title="John Henry Mackay">John Henry Mackay</a> and
-"<a   href="Edward_Carpenter.md" class="wikilink"
+<a href="Edward_Carpenter.md" class="wikilink"
 title="Edward Carpenter">Edward Carpenter</a>.[^5]
 
 In August 1894, Wilde wrote to his lover, Lord Alfred Douglas,
@@ -67,14 +67,14 @@ state and religious interference, emphasizing personal freedom, sexual
 autonomy, and women's rights.
 
 Free love advocates sometimes traced their roots back to
-"<a   href="Josiah_Warren.md" class="wikilink" title="Josiah Warren">Josiah
+<a href="Josiah_Warren.md" class="wikilink" title="Josiah Warren">Josiah
 Warren</a> and to experimental communities, viewing sexual freedom as a
 clear, direct expression of an individual's self-ownership.[^8] Free
 love particularly stressed women's rights since most sexual laws
 discriminated against women: for example, marriage laws and anti-birth
 control measures.[^9]
 
-"<a   href="Victoria_Woodhull.md" class="wikilink"
+<a href="Victoria_Woodhull.md" class="wikilink"
 title="Victoria Woodhull">Victoria Woodhull</a>, the first woman to
 testify before a U.S. House committee and the Equal Rights Party's first
 presidential candidate in 1872, became a prominent advocate for free
@@ -82,7 +82,7 @@ love principles. She declared: "I have an inalienable, constitutional
 and natural right to love whom I may, to love as long or as short a
 period as I can; to change that love every day if I please."[^10]
 Woodhull was later expelled from the
-"<a   href="International_Workingmen&#39;s_Association.md" class="wikilink"
+<a href="International_Workingmen&#39;s_Association.md" class="wikilink"
 title="International Workingmen&#39;s Association">International
 Workingmen's Association</a> in 1871 for her involvement in the free
 love and associated movements.[^11] Indeed, with Marx's support, the
@@ -95,20 +95,20 @@ Engels.[^12]
 ### Free Love Publications
 
 The most important American free love journal was
-*"<a   href="Lucifer_the_Lightbearer.md" class="wikilink"
+*<a href="Lucifer_the_Lightbearer.md" class="wikilink"
 title="Lucifer the Lightbearer">Lucifer the Lightbearer</a>* (1883–1907)
 edited by
-"<a   href="Moses_Harman.md" class="wikilink" title="Moses Harman">Moses
-Harman</a> and "<a   href="Lois_Waisbrooker.md" class="wikilink"
+<a href="Moses_Harman.md" class="wikilink" title="Moses Harman">Moses
+Harman</a> and <a href="Lois_Waisbrooker.md" class="wikilink"
 title="Lois Waisbrooker">Lois Waisbrooker</a>.[^13] Also
-"<a   href="Ezra_Heywood.md" class="wikilink" title="Ezra Heywood">Ezra
+<a href="Ezra_Heywood.md" class="wikilink" title="Ezra Heywood">Ezra
 Heywood</a> and Angela Heywood's *The Word* (1872–1890, 1892–1893) was
 an important publication.[^14]
-"<a   href="M._E._Lazarus.md" class="wikilink" title="M. E. Lazarus">M. E.
+<a href="M._E._Lazarus.md" class="wikilink" title="M. E. Lazarus">M. E.
 Lazarus</a> was an important American individualist anarchist who
 promoted free love.[^15]
 
-*"<a   href="Free_Society.md" class="wikilink" title="Free Society">Free
+*<a href="Free_Society.md" class="wikilink" title="Free Society">Free
 Society</a>* (1895–1897 as *The Firebrand*; 1897-1904 as *Free Society*)
 was a major anarchist newspaper in the United States at the end of the
 nineteenth and beginning of the twentieth centuries.[^16] The
@@ -116,7 +116,7 @@ publication staunchly advocated free love and women's rights, and
 critiqued "Comstockery" -- censorship of sexual information.
 Deliberately defying "Comstockism" in an act of civil disobedience, *The
 Firebrand* published
-"<a   href="Walt_Whitman.md" class="wikilink" title="Walt Whitman">Walt
+<a href="Walt_Whitman.md" class="wikilink" title="Walt Whitman">Walt
 Whitman</a>'s "A Woman Waits for Me" in 1897; A. J. Pope, Abe Isaak, and
 Henry Addis were quickly arrested and charged with publishing obscene
 information for the Whitman poem and a letter "It Depends on the Women",
@@ -129,7 +129,7 @@ particularly women.[^17]
 
 ### Emma Goldman
 
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+<a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a> emerged as the most celebrated spokesperson for anarchist
 free love principles in the early 20th century.[^18] Goldman's critique
 of marriage was comprehensive, viewing it as an institution that
@@ -175,7 +175,7 @@ love before the general public."[^23]
 ### Robert Reitzel
 
 In fact, prior to Goldman, heterosexual anarchist
-"<a   href="Robert_Reitzel.md" class="wikilink" title="Robert Reitzel">Robert
+<a href="Robert_Reitzel.md" class="wikilink" title="Robert Reitzel">Robert
 Reitzel</a> (1849–98) spoke positively of homosexuality from the
 beginning of the 1890s in his German-language journal "Der arme Teufel"
 (Detroit).[^24]
@@ -183,11 +183,11 @@ beginning of the 1890s in his German-language journal "Der arme Teufel"
 ### Other Anarchist Feminists
 
 The Spanish anarchist organization
-"<a   href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
+<a href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
 Libres</a> (Free Women) aimed to empower working-class women and
 challenge traditional gender roles during the Spanish Civil War.[^25]
 
-"<a   href="Federica_Montseny.md" class="wikilink"
+<a href="Federica_Montseny.md" class="wikilink"
 title="Federica Montseny">Federica Montseny</a>, a Stirnerist
 Nietzschean feminist, held that the "emancipation of women would lead to
 a quicker realization of the social revolution" and that "the revolution
@@ -202,31 +202,31 @@ relationship structures.
 
 ## Greenwich Village Bohemians
 
-In New York's "<a   href="Greenwich_Village.md" class="wikilink"
+In New York's <a href="Greenwich_Village.md" class="wikilink"
 title="Greenwich Village">Greenwich Village</a>, "bohemian" feminists
 and socialists advocated self-realisation and pleasure for women (and
 also men) in the here and now, as well as campaigning against the first
 World War and for other anarchist and socialist causes. They encouraged
 playing with sexual roles and sexuality,[^27] and the openly bisexual
-radical "<a   href="Edna_St._Vincent_Millay.md" class="wikilink"
+radical <a href="Edna_St._Vincent_Millay.md" class="wikilink"
 title="Edna St. Vincent Millay">Edna St. Vincent Millay</a> and the
-lesbian anarchist "<a   href="Margaret_Anderson.md" class="wikilink"
+lesbian anarchist <a href="Margaret_Anderson.md" class="wikilink"
 title="Margaret Anderson">Margaret Anderson</a> were prominent among
 them. The Villagers took their inspiration from the (mostly anarchist)
 immigrant female workers from the period 1905-1915[^28] and the "New
-Life Socialism" of "<a   href="Edward_Carpenter.md" class="wikilink"
+Life Socialism" of <a href="Edward_Carpenter.md" class="wikilink"
 title="Edward Carpenter">Edward Carpenter</a>,
-"<a   href="Havelock_Ellis.md" class="wikilink"
+<a href="Havelock_Ellis.md" class="wikilink"
 title="Havelock Ellis">Havelock Ellis</a> and
-"<a   href="Olive_Schreiner.md" class="wikilink" title="Olive Schreiner">Olive
+<a href="Olive_Schreiner.md" class="wikilink" title="Olive Schreiner">Olive
 Schreiner</a>. Discussion groups organised by the Villagers were
 frequented by
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+<a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>, among others.[^29]
 
 # European Individualist Anarchism and Free Love
 
-"<a   href="European_individualist_anarchism.md" class="wikilink"
+<a href="European_individualist_anarchism.md" class="wikilink"
 title="French and Spanish individualist anarchist">French and Spanish
 individualist anarchist</a> circles had a strong sense of personal
 libertarianism and experimentation. Free love contents started to have a
@@ -242,27 +242,27 @@ justification of sexual practices, that will try to put in practice, not
 without difficulties, will establish a way of thought and action, and
 will result in sympathy within some, and a strong rejection within
 others".[^31] Periodicals involved in this movement include
-*"<a   href="L&#39;En-Dehors.md" class="wikilink"
+*<a href="L&#39;En-Dehors.md" class="wikilink"
 title="L&#39;En-Dehors">L'En-Dehors</a>* in France and
-*"<a   href="Iniciales.md" class="wikilink" title="Iniciales">Iniciales</a>*
-and *"<a   href="La_Revista_Blanca.md" class="wikilink"
+*<a href="Iniciales.md" class="wikilink" title="Iniciales">Iniciales</a>*
+and *<a href="La_Revista_Blanca.md" class="wikilink"
 title="La Revista Blanca">La Revista Blanca</a>* in Spain.[^32]
 
 ## Émile Armand
 
 The main propagandist of free love within
-"<a   href="European_individualist_anarchism.md" class="wikilink"
+<a href="European_individualist_anarchism.md" class="wikilink"
 title="European individualist anarchism">European individualist
 anarchism</a> was
-"<a   href="Émile_Armand.md" class="wikilink" title="Émile Armand">Émile
+<a href="Émile_Armand.md" class="wikilink" title="Émile Armand">Émile
 Armand</a>.[^33] He advocated naturism (see
-"<a   href="anarcho-naturism.md" class="wikilink"
+<a href="anarcho-naturism.md" class="wikilink"
 title="anarcho-naturism">anarcho-naturism</a>) and polyamory and he came
 up with the concept of *la camaraderie amoureuse*.[^34] He wrote many
 propagandist articles on this subject such as "De la liberté sexuelle"
 (1907) where he advocated not only a vague free love but also multiple
 partners, which he called "plural love".[^35] In the individualist
-anarchist journal *"<a   href="L&#39;En-Dehors.md" class="wikilink"
+anarchist journal *<a href="L&#39;En-Dehors.md" class="wikilink"
 title="L&#39;En-Dehors">L'En-Dehors</a>* he and others continued in this
 way. Armand seized this opportunity to outline his theses supporting
 revolutionary sexualism and "camaraderie amoureuse" that differed from
@@ -294,9 +294,9 @@ non-conformist caresses (he was personally inclined toward voyeurism),
 as well as sodomy. This led him to allocate more and more space to what
 he called "the sexual non-conformists", while excluding physical
 violence.[^39] His militancy also included translating texts from people
-such as "<a   href="Alexandra_Kollontai.md" class="wikilink"
+such as <a href="Alexandra_Kollontai.md" class="wikilink"
 title="Alexandra Kollontai">Alexandra Kollontai</a> and
-"<a   href="Wilhelm_Reich.md" class="wikilink" title="Wilhelm Reich">Wilhelm
+<a href="Wilhelm_Reich.md" class="wikilink" title="Wilhelm Reich">Wilhelm
 Reich</a> and establishments of free love associations which tried to
 put into practice *la camaraderie amoureuse* through actual sexual
 experiences.
@@ -305,7 +305,7 @@ The prestige in the subject of free love of Armand within anarchist
 circles was such as to motivate the young Argentinian anarchist América
 Scarfó to ask Armand in a letter on advice as to how to deal with the
 relationship she had with notorious Italian anarchist
-"<a   href="Severino_Di_Giovanni.md" class="wikilink"
+<a href="Severino_Di_Giovanni.md" class="wikilink"
 title="Severino Di Giovanni">Severino Di Giovanni</a>.[^40] Di Giovanni
 was still married when they began the relationship.[^41] "The letter was
 published in *L'En-Dehors*" on 20 January 1929 under the title "An
@@ -326,7 +326,7 @@ including homosexuality, in his journal *L'En-Dehors*.[^44]
 ## Errico Malatesta
 
 The treatment of the issue of love by the influential Italian anarchist
-"<a   href="Errico_Malatesta.md" class="wikilink"
+<a href="Errico_Malatesta.md" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> deserves attention.
 Malatesta says in *Love and Anarchy*, "Let's eliminate the exploitation
 of man by man, let's fight the brutal pretention of the male who thinks
@@ -368,9 +368,9 @@ anarchist approaches emphasized that true individual freedom required
 dismantling all hierarchical structures that limited authentic human
 connection.
 
-"<a   href="Émile_Armand.md" class="wikilink" title="Émile Armand">Émile
+<a href="Émile_Armand.md" class="wikilink" title="Émile Armand">Émile
 Armand</a> and other European individualist anarchists developed
-theories of "amorous "<a   href="Companionship.md" class="wikilink"
+theories of "amorous <a href="Companionship.md" class="wikilink"
 title="comradeship">comradeship</a>" that sought to eliminate
 possessiveness and jealousy while maintaining deep emotional bonds.[^47]
 
@@ -390,21 +390,21 @@ a society, based on cooperation, sharing, mutual aid, etc. as the
 
 Anarcha-feminism was inspired by late 19th and early 20th century
 authors and theorists such as anarchist feminists
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
-Goldman</a>, "<a   href="Voltairine_de_Cleyre.md" class="wikilink"
+<a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+Goldman</a>, <a href="Voltairine_de_Cleyre.md" class="wikilink"
 title="Voltairine de Cleyre">Voltairine de Cleyre</a> and
-"<a   href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">Lucy
+<a href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">Lucy
 Parsons</a>.[^49]
 
 ## Mujeres Libres
 
 Mujeres Libres (Free Women) was an anarchist women's organization in
 Spain that aimed to empower working class women. It was founded in 1936
-by "<a   href="Lucía_Sánchez_Saornil.md" class="wikilink"
+by <a href="Lucía_Sánchez_Saornil.md" class="wikilink"
 title="Lucía Sánchez Saornil">Lucía Sánchez Saornil</a>,
-"<a   href="Mercedes_Comaposada.md" class="wikilink"
+<a href="Mercedes_Comaposada.md" class="wikilink"
 title="Mercedes Comaposada">Mercedes Comaposada</a> and
-"<a   href="Amparo_Poch_y_Gascón.md" class="wikilink"
+<a href="Amparo_Poch_y_Gascón.md" class="wikilink"
 title="Amparo Poch y Gascón">Amparo Poch y Gascón</a> and had
 approximately 30,000 members. The organization was based on the idea of
 a "double struggle" for women's liberation and social revolution and
@@ -432,10 +432,10 @@ their political consciousness.[^51]
 
 ### Lucía Sánchez Saornil
 
-"<a   href="Lucía_Sánchez_Saornil.md" class="wikilink"
+<a href="Lucía_Sánchez_Saornil.md" class="wikilink"
 title="Lucía Sánchez Saornil">Lucía Sánchez Saornil</a> was a main
 founder of the Spanish anarcha-feminist federation
-"<a   href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
+<a href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
 Libres</a> who was open about her lesbianism.[^52] At a young age she
 began writing poetry and associated herself with the emerging Ultraist
 literary movement. By 1919, she had been published in a variety of
@@ -446,11 +446,11 @@ criminalized and subject to censorship and punishment.
 
 Dissatisfied with the chauvinistic prejudices of fellow republicans,
 Lucía Sánchez Saornil joined with two compañeras,
-"<a   href="Mercedes_Comaposada.md" class="wikilink"
+<a href="Mercedes_Comaposada.md" class="wikilink"
 title="Mercedes Comaposada">Mercedes Comaposada</a> and
-"<a   href="Amparo_Poch_y_Gascón.md" class="wikilink"
+<a href="Amparo_Poch_y_Gascón.md" class="wikilink"
 title="Amparo Poch y Gascón">Amparo Poch y Gascón</a>, to form
-"<a   href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
+<a href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
 Libres</a> in 1936. Mujeres Libres was an autonomous anarchist
 organization for women committed to a "double struggle" of women's
 liberation and social revolution. Lucía and other "Free Women" rejected
@@ -464,17 +464,17 @@ schools, newspapers and daycare programs.[^54]
 Anarchism's foregrounding of individual freedoms made for a natural
 marriage with homosexuality in the eyes of many, both inside and outside
 of the Anarchist movement.
-"<a   href="Emil_Szittya.md" class="wikilink" title="Emil Szittya">Emil
+<a href="Emil_Szittya.md" class="wikilink" title="Emil Szittya">Emil
 Szittya</a>, in *Das Kuriositäten-Kabinett* (1923), wrote about
 homosexuality that "very many anarchists have this tendency. Thus I
 found in Paris a Hungarian anarchist, Alexander Sommi, who founded a
 homosexual anarchist group on the basis of this idea." His view is
-confirmed by "<a   href="Magnus_Hirschfeld.md" class="wikilink"
+confirmed by <a href="Magnus_Hirschfeld.md" class="wikilink"
 title="Magnus Hirschfeld">Magnus Hirschfeld</a> in his 1914 book *Die
 Homosexualität des Mannes und des Weibes*: "In the ranks of a relatively
 small party, the anarchist, it seemed to me as if proportionately more
 homosexuals and effeminates are found than in others." Italian anarchist
-"<a   href="Luigi_Bertoni.md" class="wikilink" title="Luigi Bertoni">Luigi
+<a href="Luigi_Bertoni.md" class="wikilink" title="Luigi Bertoni">Luigi
 Bertoni</a> (whom Szittya also believed to be homosexual) observed that
 "Anarchists demand freedom in everything, thus also in sexuality.
 Homosexuality leads to a healthy sense of egoism, for which every
@@ -484,7 +484,7 @@ anarchist should strive."[^55]
 
 Anarcho-syndicalist writer Ulrich Linse wrote about "a sharply outlined
 figure of the Berlin individualist anarchist cultural scene around
-1900", the "precocious "<a   href="Johannes_Holzmann.md" class="wikilink"
+1900", the "precocious <a href="Johannes_Holzmann.md" class="wikilink"
 title="Johannes Holzmann">Johannes Holzmann</a>" (known as Senna Hoy):
 "an adherent of free love, \[Hoy\] celebrated homosexuality as a
 'champion of culture' and engaged in the struggle against Paragraph
@@ -493,50 +493,50 @@ magazine, ("Kampf") from 1904 which reached a circulation of 10,000 the
 following year.
 
 German anarchist psychotherapist
-"<a   href="Otto_Gross.md" class="wikilink" title="Otto Gross">Otto Gross</a>
+<a href="Otto_Gross.md" class="wikilink" title="Otto Gross">Otto Gross</a>
 also wrote extensively about same-sex sexuality in both men and women
 and argued against its discrimination.[^57]
 
 ## Adolf Brand and Der Eigene
 
 From 1906, the writings and theories of
-"<a   href="John_Henry_Mackay.md" class="wikilink"
+<a href="John_Henry_Mackay.md" class="wikilink"
 title="John Henry Mackay">John Henry Mackay</a> had a significant
 influence on Adolf Brand's organisation Gemeinschaft der Eigenen. The
 individualist anarchist Adolf Brand was originally a member of
 Hirschfeld's Scientific-Humanitarian committee, but formed a break-away
 group. Brand and his colleagues, known as the Gemeinschaft der Eigenen,
 were heavily influenced by homosexual anarchist
-"<a   href="John_Henry_Mackay.md" class="wikilink"
+<a href="John_Henry_Mackay.md" class="wikilink"
 title="John Henry Mackay">John Henry Mackay</a>. They were opposed to
 Hirschfeld's medical characterisation of homosexuality as the domain of
 an "intermediate sex".[^58]
 
-*"<a   href="Der_Eigene.md" class="wikilink" title="Der Eigene">Der Eigene</a>*
+*<a href="Der_Eigene.md" class="wikilink" title="Der Eigene">Der Eigene</a>*
 was the first Gay journal in the world, published from 1896 to 1932 by
-"<a   href="Adolf_Brand.md" class="wikilink" title="Adolf Brand">Adolf
+<a href="Adolf_Brand.md" class="wikilink" title="Adolf Brand">Adolf
 Brand</a> in Berlin. Brand contributed many poems and articles himself.
 Other contributors included
-"<a   href="Benedict_Friedlaender.md" class="wikilink"
+<a href="Benedict_Friedlaender.md" class="wikilink"
 title="Benedict Friedlaender">Benedict Friedlaender</a>,
-"<a   href="Hanns_Heinz_Ewers.md" class="wikilink"
+<a href="Hanns_Heinz_Ewers.md" class="wikilink"
 title="Hanns Heinz Ewers">Hanns Heinz Ewers</a>,
-"<a   href="Erich_Mühsam.md" class="wikilink" title="Erich Mühsam">Erich
+<a href="Erich_Mühsam.md" class="wikilink" title="Erich Mühsam">Erich
 Mühsam</a>,
-"<a   href="Kurt_Hiller.md" class="wikilink" title="Kurt Hiller">Kurt
+<a href="Kurt_Hiller.md" class="wikilink" title="Kurt Hiller">Kurt
 Hiller</a>,
-"<a   href="Ernst_Burchard.md" class="wikilink" title="Ernst Burchard">Ernst
-Burchard</a>, "<a   href="John_Henry_Mackay.md" class="wikilink"
+<a href="Ernst_Burchard.md" class="wikilink" title="Ernst Burchard">Ernst
+Burchard</a>, <a href="John_Henry_Mackay.md" class="wikilink"
 title="John Henry Mackay">John Henry Mackay</a>,
-"<a   href="Theodor_Lessing.md" class="wikilink"
+<a href="Theodor_Lessing.md" class="wikilink"
 title="Theodor Lessing">Theodor Lessing</a>,
-"<a   href="Klaus_Mann.md" class="wikilink" title="Klaus Mann">Klaus Mann</a>,
-and "<a   href="Thomas_Mann.md" class="wikilink" title="Thomas Mann">Thomas
+<a href="Klaus_Mann.md" class="wikilink" title="Klaus Mann">Klaus Mann</a>,
+and <a href="Thomas_Mann.md" class="wikilink" title="Thomas Mann">Thomas
 Mann</a>, as well as artists
-"<a   href="Wilhelm_von_Gloeden.md" class="wikilink"
+<a href="Wilhelm_von_Gloeden.md" class="wikilink"
 title="Wilhelm von Gloeden">Wilhelm von Gloeden</a>,
-"<a   href="Fidus.md" class="wikilink" title="Fidus">Fidus</a>, and
-"<a   href="Sascha_Schneider.md" class="wikilink"
+<a href="Fidus.md" class="wikilink" title="Fidus">Fidus</a>, and
+<a href="Sascha_Schneider.md" class="wikilink"
 title="Sascha Schneider">Sascha Schneider</a>. The journal may have had
 an average of around 1500 subscribers per issue during its run, but the
 exact numbers are uncertain. After the rise to power by the Nazis, Brand
@@ -544,7 +544,7 @@ became a victim of persecution and had his journal closed.[^59]
 
 ## Daniel Guérin
 
-"<a   href="Daniel_Guérin.md" class="wikilink" title="Daniel Guérin">Daniel
+<a href="Daniel_Guérin.md" class="wikilink" title="Daniel Guérin">Daniel
 Guérin</a> was a leading figure in the French Left from the 1930s until
 his death in 1988. After coming out in 1965, he spoke about the extreme
 hostility toward homosexuality that permeated the Left throughout much
@@ -585,7 +585,7 @@ and is therefore no real anarchist."[^65]
 ## Polyamory and Anarchism
 
 Modern
-"<a   href="polyamory.md" class="wikilink" title="polyamory">polyamory</a>
+<a href="polyamory.md" class="wikilink" title="polyamory">polyamory</a>
 movements have drawn inspiration from anarchist free love traditions
 while developing distinct approaches to multiple relationships.
 Polyamory emphasizes ethical non-monogamy with informed consent of all
@@ -594,7 +594,7 @@ approaches would reject.
 
 ## Relationship Anarchy
 
-**"<a   href="Relationship_Anarchism.md" class="wikilink"
+**<a href="Relationship_Anarchism.md" class="wikilink"
 title="Relationship Anarchy">Relationship Anarchy</a>** represents the
 most direct contemporary application of anarchist principles to intimate
 relationships. Popularized by Andie Nordgren in 2012, relationship
@@ -625,19 +625,19 @@ trans-identified voice at the Republican National Convention (RNC)
 protests."[^67]
 
 Anarcha-feminism continues in new forms such as the Bolivian collective
-"<a   href="Mujeres_Creando.md" class="wikilink"
+<a href="Mujeres_Creando.md" class="wikilink"
 title="Mujeres Creando">Mujeres Creando</a> or the Spanish
-anarcha-feminist squat "<a   href="Eskalera_Karakola.md" class="wikilink"
+anarcha-feminist squat <a href="Eskalera_Karakola.md" class="wikilink"
 title="Eskalera Karakola">Eskalera Karakola</a>. Contemporary
 anarcha-feminist writers/theorists include
-"<a   href="L._Susan_Brown.md" class="wikilink" title="L. Susan Brown">L.
+<a href="L._Susan_Brown.md" class="wikilink" title="L. Susan Brown">L.
 Susan Brown</a> and the eco-feminist
-"<a   href="Starhawk.md" class="wikilink" title="Starhawk">Starhawk</a>.[^68]
+<a href="Starhawk.md" class="wikilink" title="Starhawk">Starhawk</a>.[^68]
 
 ## Queer Anarchism
 
 Contemporary
-"<a   href="queer_anarchism.md" class="wikilink" title="queer anarchism">queer
+<a href="queer_anarchism.md" class="wikilink" title="queer anarchism">queer
 anarchism</a> has expanded anarchist critiques of heteronormativity and
 traditional relationship structures. Queer anarchists view compulsory
 heterosexuality, monogamy, and binary gender roles as interconnected
@@ -680,14 +680,14 @@ collective resistance to authority.
 ## Contemporary Theoretical Contributions
 
 The British anarcho-pacifist
-"<a   href="Alex_Comfort.md" class="wikilink" title="Alex Comfort">Alex
+<a href="Alex_Comfort.md" class="wikilink" title="Alex Comfort">Alex
 Comfort</a> gained notoriety for writing the bestseller sex manual
-*"<a   href="The_Joy_of_Sex.md" class="wikilink" title="The Joy of Sex">The Joy
+*<a href="The_Joy_of_Sex.md" class="wikilink" title="The Joy of Sex">The Joy
 of Sex</a>* (1972) in the context of the sexual revolution.[^69]
 
 The issue of free love has a dedicated treatment in the work of French
 anarcho-hedonist philosopher
-"<a   href="Michel_Onfray.md" class="wikilink" title="Michel Onfray">Michel
+<a href="Michel_Onfray.md" class="wikilink" title="Michel Onfray">Michel
 Onfray</a> in such works as *Théorie du corps amoureux : pour une
 érotique solaire* (2000) and *L'invention du plaisir : fragments
 cyréaniques* (2002).[^70]
@@ -697,13 +697,13 @@ cyréaniques* (2002).[^70]
 "Anarchists in high heels" are anarchists (or sometimes radicals or
 libertarians) who work in the sex industry. The term can be found being
 used in *XXX: A Womanʼs Right to Pornography* by
-"<a   href="Wendy_McElroy.md" class="wikilink" title="Wendy McElroy">Wendy
+<a href="Wendy_McElroy.md" class="wikilink" title="Wendy McElroy">Wendy
 McElroy</a> where porn actress,
-"<a   href="Veronica_Hart.md" class="wikilink" title="Veronica Hart">Veronica
+<a href="Veronica_Hart.md" class="wikilink" title="Veronica Hart">Veronica
 Hart</a>, makes this comment upon hearing the word 'feminist':
 
 "I donʼt need
-"<a   href="Andrea_Dworkin.md" class="wikilink" title="Andrea Dworkin">Andrea
+<a href="Andrea_Dworkin.md" class="wikilink" title="Andrea Dworkin">Andrea
 Dworkin</a> to tell me what to think or how to behave." \[...\] "And I
 donʼt appreciate being called psychologically damaged! I have friends in
 the business who call themselves 'Anarchists in High Heels.' Theyʼd love
@@ -735,12 +735,12 @@ contemporary movements for sexual liberation, LGBTQ+ rights, and
 alternative relationship structures. Its emphasis on dismantling
 hierarchical control over intimate life continues to inspire activists
 challenging heteronormativity, compulsory
-"<a   href="monogamy.md" class="wikilink" title="monogamy">monogamy</a>, and
+<a href="monogamy.md" class="wikilink" title="monogamy">monogamy</a>, and
 state regulation of personal relationships.
 
 Modern relationship anarchy,
-"<a   href="polyamory.md" class="wikilink" title="polyamory">polyamory</a>,
-and "<a   href="queer.md" class="wikilink" title="queer">queer</a> liberation
+<a href="polyamory.md" class="wikilink" title="polyamory">polyamory</a>,
+and <a href="queer.md" class="wikilink" title="queer">queer</a> liberation
 movements all draw from this tradition while adapting anarchist
 principles to contemporary contexts and understanding of gender,
 sexuality, and power.
@@ -749,17 +749,17 @@ sexuality, and power.
 
 <references />
 
-"<a   href="Category:AI_Assisted.md" class="wikilink"
+<a href="Category:AI_Assisted.md" class="wikilink"
 title="Category:AI Assisted">Category:AI Assisted</a>
-"<a   href="Category:Relationships.md" class="wikilink"
+<a href="Category:Relationships.md" class="wikilink"
 title="Category:Relationships">Category:Relationships</a>
-"<a   href="Category:Anarcha-Feminism.md" class="wikilink"
+<a href="Category:Anarcha-Feminism.md" class="wikilink"
 title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
-"<a   href="Category:Queer_Anarchism.md" class="wikilink"
+<a href="Category:Queer_Anarchism.md" class="wikilink"
 title="Category:Queer Anarchism">Category:Queer Anarchism</a>
-"<a   href="Category:Non-monogamous.md" class="wikilink"
+<a href="Category:Non-monogamous.md" class="wikilink"
 title="Category:Non-monogamous">Category:Non-monogamous</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Goldman, Emma. "Marriage and Love" in Anarchism and Other Essays

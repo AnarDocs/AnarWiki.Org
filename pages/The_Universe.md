@@ -1,2 +1,2 @@
 1.  REDIRECT
-    "<a   href="Universe.md" class="wikilink" title="Universe">Universe</a>
+    <a href="Universe" class="wikilink" title="Universe">Universe</a>

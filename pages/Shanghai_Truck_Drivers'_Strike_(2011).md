@@ -1,12 +1,12 @@
 The **Shanghai Truck Drivers' Strike of 2011** was a
-"<a   href="List_of_Strikes.md" class="wikilink" title="strike">strike</a> of
+<a href="List_of_Strikes" class="wikilink" title="strike">strike</a> of
 truck drivers in Shanghai,
-"<a   href="China.md" class="wikilink" title="China">China</a> in
-"<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
+<a href="China" class="wikilink" title="China">China</a> in
+<a href="Timeline_of_Anarchism_in_Eastern_Asia" class="wikilink"
 title="April 2011">April 2011</a>. It was part of a
-"<a   href="Revolutions_of_2008_-_2014.md" class="wikilink"
+<a href="Revolutions_of_2008_-_2014" class="wikilink"
 title="global wave of unrest">global wave of unrest</a> that was
-"<a   href="Chinese_Protest_Wave_(2007_-_2014).md" class="wikilink"
+<a href="Chinese_Protest_Wave_(2007_-_2014)" class="wikilink"
 title="especially notable in China">especially notable in China</a>. It
 was an episode
 
@@ -85,29 +85,29 @@ fee reductions.
 
 ## See Also
 
-- "<a   href="Bonnots_Rouges.md" class="wikilink" title="Bonnots Rouges">Bonnots
+- <a href="Bonnots_Rouges" class="wikilink" title="Bonnots Rouges">Bonnots
   Rouges</a>
 
 ## Reference
 
-"<a   href="Global_Nonviolent_Action_Database.md" class="wikilink"
+<a href="Global_Nonviolent_Action_Database" class="wikilink"
 title="Global Nonviolent Action Database">Global Nonviolent Action
 Database</a> - [Shanghai truck drivers strike to lower trucking fees,
 2011](https://nvdatabase.swarthmore.edu/content/shanghai-truck-drivers-strike-lower-trucking-fees-2011)
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Strikes.md" class="wikilink"
+<a href="Category:Strikes" class="wikilink"
 title="Category:Strikes">Category:Strikes</a>
-"<a   href="Category:China.md" class="wikilink"
+<a href="Category:China" class="wikilink"
 title="Category:China">Category:China</a>
-"<a   href="Category:2011.md" class="wikilink"
+<a href="Category:2011" class="wikilink"
 title="Category:2011">Category:2011</a>
-"<a   href="Category:2010s.md" class="wikilink"
+<a href="Category:2010s" class="wikilink"
 title="Category:2010s">Category:2010s</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-"<a   href="Category:Asia.md" class="wikilink"
+<a href="Category:Asia" class="wikilink"
 title="Category:Asia">Category:Asia</a>
-"<a   href="Category:Eastern_Asia.md" class="wikilink"
+<a href="Category:Eastern_Asia" class="wikilink"
 title="Category:Eastern Asia">Category:Eastern Asia</a>

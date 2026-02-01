@@ -409,7 +409,7 @@ the territories captured by Israel in the June War of 1967."[^44]
 
 <references/>
 
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: James Horrox, *A Living Revolution: Anarchism in the Kibbutz
@@ -510,7 +510,7 @@ title="Category:Featured">Category:Featured</a>
 [^39]: Criden and Gelb, *The Kibbutz Experience*, 44-5.
 
 [^40]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>
 
 [^41]: Bill Templer, From Mutual Struggle to Mutual Aid, *Borderlands*

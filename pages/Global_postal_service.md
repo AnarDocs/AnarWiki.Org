@@ -1,4 +1,4 @@
-Colin Ward, in "<a   href="Anarchy_in_Action.md" class="wikilink"
+Colin Ward, in <a href="Anarchy_in_Action.md" class="wikilink"
 title="Anarchy in Action">Anarchy in Action</a>, argued the global
 postal service demonstrated "local groups and associations could combine
 for complex functions without any central authority". Ward explained,

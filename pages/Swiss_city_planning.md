@@ -1,4 +1,4 @@
-From Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
+From Colin Ward, <a href="Anarchy_in_Action" class="wikilink"
 title="Anarchy in Action">Anarchy in Action</a>:
 
 > Ioan Bowen Rees, in the course of his valuable book *Government by
@@ -17,11 +17,11 @@ title="Anarchy in Action">Anarchy in Action</a>:
 
 <references/>
 
-"<a   href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-"<a   href="Category:Switzerland.md" class="wikilink"
+<a href="Category:Switzerland" class="wikilink"
 title="Category:Switzerland">Category:Switzerland</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Ioan Bowen Rees, Government by Community (London, 1971)

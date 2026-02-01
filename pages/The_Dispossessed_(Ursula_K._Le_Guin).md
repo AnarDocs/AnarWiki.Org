@@ -1,41 +1,41 @@
 # The Dispossessed
 
 **The Dispossessed: An Ambiguous Utopia** is a 1974
-"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
-"<a   href="science_fiction.md" class="wikilink"
+<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
+<a href="science_fiction" class="wikilink"
 title="science fiction">science fiction</a> novel by
-"<a   href="Ursula_K._Le_Guin.md" class="wikilink"
+<a href="Ursula_K._Le_Guin" class="wikilink"
 title="Ursula K. Le Guin">Ursula K. Le Guin</a>. It remains one of the
 most significant fictional portrayals of an
-"<a   href="anarchist_society.md" class="wikilink"
+<a href="anarchist_society" class="wikilink"
 title="anarchist society">anarchist society</a>, depicting both the
 possibilities and challenges of
-"<a   href="anarcho-communism.md" class="wikilink"
+<a href="anarcho-communism" class="wikilink"
 title="anarcho-communism">anarcho-communism</a> in practice. The novel
 won the Hugo, Nebula, and Locus awards, and has been continuously in
 print since publication, introducing anarchist ideas to audiences who
 might never encounter anarchist theory otherwise.[^1]
 
 Le Guin later reflected that she wrote the novel after studying
-pacifism, "<a   href="Gandhi.md" class="wikilink" title="Gandhi">Gandhi</a>,
-and "<a   href="nonviolent_resistance.md" class="wikilink"
+pacifism, <a href="Gandhi" class="wikilink" title="Gandhi">Gandhi</a>,
+and <a href="nonviolent_resistance" class="wikilink"
 title="nonviolent resistance">nonviolent resistance</a>, which led her
 to anarchist writers: "I studied peace... This led me to the nonviolent
 anarchist writers such as
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> and
-"<a   href="Paul_Goodman.md" class="wikilink" title="Paul Goodman">Paul
+<a href="Paul_Goodman" class="wikilink" title="Paul Goodman">Paul
 Goodman</a>. With them I felt a great, immediate affinity. They made
 sense to me in the way
-"<a   href="Lao_Tzu.md" class="wikilink" title="Lao Tzu">Lao Tzu</a> did...
+<a href="Lao_Tzu" class="wikilink" title="Lao Tzu">Lao Tzu</a> did...
 So, when I realized that nobody had yet written an anarchist utopia, I
 finally began to see what my book might be."[^2]
 
 ## Summary
 
-The novel follows "<a   href="Shevek_(The_Dispossessed).md" class="wikilink"
+The novel follows <a href="Shevek_(The_Dispossessed)" class="wikilink"
 title="Shevek">Shevek</a>, a physicist from the anarchist moon of
-"<a   href="Anarres.md" class="wikilink" title="Anarres">Anarres</a>, as he
+<a href="Anarres" class="wikilink" title="Anarres">Anarres</a>, as he
 travels to the hierarchical capitalist world of Urras. The narrative
 alternates between Shevek's past on Anarres and his present experiences
 on Urras, creating a dialogue between two radically different societies.
@@ -43,13 +43,13 @@ on Urras, creating a dialogue between two radically different societies.
 Anarres was settled 170 years before the novel's events by followers of
 Odo, a revolutionary philosopher whose principles guide the society. The
 settlers established an anarchist society without
-"<a   href="state.md" class="wikilink" title="state">state</a>,
-"<a   href="private_property.md" class="wikilink"
+<a href="state" class="wikilink" title="state">state</a>,
+<a href="private_property" class="wikilink"
 title="private property">private property</a>,
-"<a   href="money.md" class="wikilink" title="money">money</a>,
-"<a   href="police.md" class="wikilink" title="police">police</a>,
-"<a   href="prisons.md" class="wikilink" title="prisons">prisons</a>, or
-"<a   href="coercive_authority.md" class="wikilink"
+<a href="money" class="wikilink" title="money">money</a>,
+<a href="police" class="wikilink" title="police">police</a>,
+<a href="prisons" class="wikilink" title="prisons">prisons</a>, or
+<a href="coercive_authority" class="wikilink"
 title="coercive authority">coercive authority</a>. Instead, they
 organize through voluntary associations called syndicates, coordinated
 through a system called the Production and Distribution Coordination
@@ -60,7 +60,7 @@ authoritarian socialist state of Thu, both of which claim superiority
 over Anarres's "primitive" anarchism. Through his experiences, he comes
 to understand both the achievements and failures of his home society,
 ultimately choosing to return to continue the work of
-"<a   href="permanent_revolution.md" class="wikilink"
+<a href="permanent_revolution" class="wikilink"
 title="permanent revolution">permanent revolution</a>.
 
 ## Anarchist Themes
@@ -74,9 +74,9 @@ organized religion, and private property."[^4]
 
 The foundation of Anarresti society rests on two core principles
 articulated by Shevek: "We have no law but the single principle of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 between individuals. We have no government but the single principle of
-"<a   href="free_association.md" class="wikilink"
+<a href="free_association" class="wikilink"
 title="free association">free association</a>."[^5] These principles
 derive directly from Kropotkin's work, particularly his concept of
 mutual aid as a factor in evolution. Where capitalist society claims
@@ -86,8 +86,8 @@ social species, are those who are most social. In human terms, most
 ethical."[^6]
 
 The Odonians reject all forms of
-"<a   href="hierarchy.md" class="wikilink" title="hierarchy">hierarchy</a> and
-"<a   href="coercion.md" class="wikilink" title="coercion">coercion</a>. As
+<a href="hierarchy" class="wikilink" title="hierarchy">hierarchy</a> and
+<a href="coercion" class="wikilink" title="coercion">coercion</a>. As
 one character states, the fundamental Odonian premise is simple: "any
 rule is tyranny," and its corollary: "The duty of the individual is to
 accept no rule, to be the initiator of his own acts, to be
@@ -125,7 +125,7 @@ circumstances.[^11]
 ### Linguistic Anarchy
 
 One of Le Guin's most innovative anarchist concepts is
-"<a   href="Pravic.md" class="wikilink" title="Pravic">Pravic</a>, the
+<a href="Pravic" class="wikilink" title="Pravic">Pravic</a>, the
 constructed language of Anarres. Pravic embodies anarchist principles at
 the deepest level of grammar and structure, demonstrating that language
 itself is a form of power that can be redesigned to support egalitarian
@@ -140,7 +140,7 @@ to Iotic, the language of Urras.[^13] This means capitalist ideas become
 
 The language uses the same word for "work" and "play," with a separate
 term (*kleggich*) for drudgery. This reflects the anarchist goal of
-abolishing "<a   href="alienated_labor.md" class="wikilink"
+abolishing <a href="alienated_labor" class="wikilink"
 title="alienated labor">alienated labor</a> and creating conditions
 where meaningful work becomes indistinguishable from creative play.[^15]
 
@@ -162,7 +162,7 @@ principles.[^17] This differs fundamentally from Marxist visions of a
 final revolutionary state.
 
 As Kropotkin noted in
-*"<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>*,
+*<a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>*,
 all societies face the danger of their institutions becoming
 "crystallized"—rigid and resistant to change.[^18] Anarres demonstrates
 this tendency through the emergence of informal bureaucracy, social
@@ -197,12 +197,12 @@ creates space for an anarchism that neither accepts eternal stasis nor
 demands linear progress toward a predetermined end.
 
 Le Guin also addresses
-"<a   href="gender.md" class="wikilink" title="gender">gender</a> through a
+<a href="gender" class="wikilink" title="gender">gender</a> through a
 postmodern lens. While Anarres maintains binary gender, the society has
 eliminated
-"<a   href="patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>,
-"<a   href="sexism.md" class="wikilink" title="sexism">sexism</a>, and
-compulsory "<a   href="heterosexuality.md" class="wikilink"
+<a href="patriarchy" class="wikilink" title="patriarchy">patriarchy</a>,
+<a href="sexism" class="wikilink" title="sexism">sexism</a>, and
+compulsory <a href="heterosexuality" class="wikilink"
 title="heterosexuality">heterosexuality</a>. Sexual relationships are
 based purely on mutual desire and consent, with no economic or legal
 constraints. This anticipates later anarcha-feminist critiques of how
@@ -210,7 +210,7 @@ capitalism and the state enforce particular family and sexual
 structures.
 
 The novel's exploration of social pressure and conformity engages with
-Foucault's analysis of "<a   href="disciplinary_power.md" class="wikilink"
+Foucault's analysis of <a href="disciplinary_power" class="wikilink"
 title="disciplinary power">disciplinary power</a>—the way societies
 control individuals not just through law but through internalized
 norms.[^23] Anarres demonstrates that anarchist societies must remain
@@ -257,8 +257,8 @@ coercive mechanisms available in statist societies.[^28] There are no
 police to enforce conformity, no courts to punish deviance, no prisons
 to confine dissidents. More importantly, anarchist theory has always
 recognized this danger and built in safeguards:
-"<a   href="federalism.md" class="wikilink" title="federalism">federalism</a>,
-"<a   href="free_association.md" class="wikilink"
+<a href="federalism" class="wikilink" title="federalism">federalism</a>,
+<a href="free_association" class="wikilink"
 title="free association">free association</a>, the ability to form new
 groups, and the principle that minorities can organize resistance.
 
@@ -312,7 +312,7 @@ actual power to stop him.
 
 Perhaps most fundamentally, Le Guin recognizes that some individuals,
 like Sabul, desire power over others.
-"<a   href="Kropotkin.md" class="wikilink" title="Kropotkin">Kropotkin</a>
+<a href="Kropotkin" class="wikilink" title="Kropotkin">Kropotkin</a>
 acknowledged this in *Mutual Aid*, noting that "individual assertion"
 exists alongside cooperation as a fundamental human tendency.[^30]
 
@@ -379,14 +379,14 @@ Some feminists have argued that *The Dispossessed* fails to adequately
 address gender liberation, noting that female characters seem secondary
 to the male protagonist.[^38] Others counter that Le Guin successfully
 portrays a society without
-"<a   href="patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>,
+<a href="patriarchy" class="wikilink" title="patriarchy">patriarchy</a>,
 where sexual freedom exists without exploitation, and where gender does
 not determine one's social role or opportunities.
 
 Le Guin herself acknowledged that "the Gethenians seem like men, instead
 of menwomen," attributing this partly to her use of masculine pronouns
 and partly to readers' conditioning.[^39] Her later work
-*"<a   href="The_Left_Hand_of_Darkness.md" class="wikilink"
+*<a href="The_Left_Hand_of_Darkness" class="wikilink"
 title="The Left Hand of Darkness">The Left Hand of Darkness</a>* more
 radically challenged gender binaries, while *The Dispossessed* focused
 more on economic and political anarchism.
@@ -399,9 +399,9 @@ explored seriously in popular fiction, helping to "rescue anarchism from
 the cultural ghetto to which it has been consigned."[^40]
 
 The novel influenced later anarchist science fiction, including
-"<a   href="Iain_M._Banks.md" class="wikilink" title="Iain M. Banks">Iain M.
+<a href="Iain_M._Banks" class="wikilink" title="Iain M. Banks">Iain M.
 Banks</a>'s Culture series,
-"<a   href="Kim_Stanley_Robinson.md" class="wikilink"
+<a href="Kim_Stanley_Robinson" class="wikilink"
 title="Kim Stanley Robinson">Kim Stanley Robinson</a>'s Mars trilogy,
 and Becky Chambers' Monk & Robot series.[^41] Each of these works builds
 on Le Guin's foundation while exploring different aspects of anarchist
@@ -430,19 +430,19 @@ rather than merely idealistic.
 
 <references/>
 
-"<a   href="Category:Anarchist_Fiction.md" class="wikilink"
+<a href="Category:Anarchist_Fiction" class="wikilink"
 title="Category:Anarchist Fiction">Category:Anarchist Fiction</a>
-"<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+<a href="Category:Anarchist_Utopias" class="wikilink"
 title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-"<a   href="Category:Anarchist_books.md" class="wikilink"
+<a href="Category:Anarchist_books" class="wikilink"
 title="Category:Anarchist books">Category:Anarchist books</a>
-"<a   href="Category:Books.md" class="wikilink"
+<a href="Category:Books" class="wikilink"
 title="Category:Books">Category:Books</a>
-"<a   href="Category:Science_Fiction.md" class="wikilink"
+<a href="Category:Science_Fiction" class="wikilink"
 title="Category:Science Fiction">Category:Science Fiction</a>
-"<a   href="Category:Utopian_Fiction.md" class="wikilink"
+<a href="Category:Utopian_Fiction" class="wikilink"
 title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: <https://reactormag.com/introduction-from-ursula-k-le-guin-the-hainish-novels-stories-volume-one/>

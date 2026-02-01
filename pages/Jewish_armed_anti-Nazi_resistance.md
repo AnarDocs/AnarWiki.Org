@@ -285,7 +285,7 @@ self-confident.”[^52]
 
 Overall, passivity and nonviolence failed to stop or slow down the
 Nazis’ extermination of Jews and other targets. On this history,
-"<a   href="American_Indian_Movement_and_Anarchy.md" class="wikilink"
+<a href="American_Indian_Movement_and_Anarchy.md" class="wikilink"
 title="American Indian Movement">American Indian Movement</a> militant
 Ward Churchill commented, “the Jewish experience reveals with stark
 clarity the basic illogic at the core of pacifist conceptions of

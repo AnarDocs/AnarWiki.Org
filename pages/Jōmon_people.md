@@ -3,7 +3,7 @@ Japan, beginning around 14,000 BCE or as early as 16,000. Beginning
 around 12,000 BCE, they lived as perhaps the world's first sedentary
 foragers; James C. Scott notes they were "contemporaneous with and
 likely earlier than the
-"<a   href="Natufian.md" class="wikilink" title="Natufian">Natufian</a> period
+<a href="Natufian.md" class="wikilink" title="Natufian">Natufian</a> period
 in the Fertile Crescent."[^1]
 
 By the "Middle Jōmon" period, around 3500 to 2500, the Jōmon

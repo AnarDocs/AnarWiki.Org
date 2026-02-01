@@ -4,11 +4,11 @@ male-female binary.
 
 # Ancient Societies
 
-The "<a   href="Indus_Valley_Civilization.md" class="wikilink"
+The <a href="Indus_Valley_Civilization" class="wikilink"
 title="Indus Valley Civilization">Indus Valley Civilization</a> had
 transgender priests.
 
-"<a   href="Early_Israelites.md" class="wikilink"
+<a href="Early_Israelites" class="wikilink"
 title="Early Israelites">Early Israelites</a> recognized several
 genders.
 
@@ -26,14 +26,14 @@ genders.
 
 # Indigenous Societies
 
-The "<a   href="Kuna_people.md" class="wikilink" title="Kuna people">Kuna
+The <a href="Kuna_people" class="wikilink" title="Kuna people">Kuna
 people</a> have a third gender called *Omeggid* referring to those who
 are assigned male at birth and then adopt mainly feminine traits. The
 Omeggid often choose traditionally feminine professions such as weaving
 blouses called "molas."
 
 The Zuni have recognized a
-"<a   href="Third_gender_and_Transgender.md" class="wikilink"
+<a href="Third_gender_and_Transgender" class="wikilink"
 title="third gender">third gender</a> known as the *lhamana* who was
 assigned male at birth and adopted feminine characteristics. The
 *lhamana* "dressed as women and performed women’s crafts such as weaving
@@ -43,10 +43,10 @@ firewood."[^1]
 
 # Movements and Organizations
 
-"<a   href="ACT_UP.md" class="wikilink" title="ACT UP">ACT UP</a> had
+<a href="ACT_UP" class="wikilink" title="ACT UP">ACT UP</a> had
 influential transgender members including Miss Major Griffin-Gracy. So
-has "<a   href="FIERCE!.md" class="wikilink" title="FIERCE!">FIERCE!</a>.
-"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
+has <a href="FIERCE!" class="wikilink" title="FIERCE!">FIERCE!</a>.
+<a href="Earth_First!" class="wikilink" title="Earth First!">Earth
 First!</a> has a Trans and Women Action Camp (TWAC).
 
 # Resources

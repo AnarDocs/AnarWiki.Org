@@ -12,7 +12,7 @@ be able to photosynthesize like a plant.[^1]
 
 <references/>
 
-"<a   href="Category:Natural_World.md" class="wikilink"
+<a href="Category:Natural_World.md" class="wikilink"
 title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Lynn Margulis, *Symbiotic Planet: A New View of Evolution*

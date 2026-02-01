@@ -1,9 +1,9 @@
 The **US Bombing of North Korea** refers to the extensive bombing
 campaign against
-"<a   href="North_Korea.md" class="wikilink" title="North Korea">North
-Korea</a> from "<a   href="Timeline_of_US_Hegemony.md" class="wikilink"
+<a href="North_Korea" class="wikilink" title="North Korea">North
+Korea</a> from <a href="Timeline_of_US_Hegemony" class="wikilink"
 title="1950 to 1953">1950 to 1953</a> during the
-"<a   href="Korean_War.md" class="wikilink" title="Korean War">Korean War</a>
+<a href="Korean_War" class="wikilink" title="Korean War">Korean War</a>
 and its catastrophic consequences for the people of North Korea.
 
 ## The Bombings
@@ -51,11 +51,11 @@ constituted a "supply center."
   Dean, reported that the majority of North Korean cities and villages
   he saw were either rubble or snow-covered wasteland.
 - In May 1951, an international fact-finding team from
-  "<a   href="East_Germany.md" class="wikilink" title="East Germany">East
+  <a href="East_Germany" class="wikilink" title="East Germany">East
   Germany</a>,
-  "<a   href="West_Germany.md" class="wikilink" title="West Germany">West
-  Germany</a>, "<a   href="China.md" class="wikilink" title="China">China</a>
-  and the "<a   href="Netherlands.md" class="wikilink"
+  <a href="West_Germany" class="wikilink" title="West Germany">West
+  Germany</a>, <a href="China" class="wikilink" title="China">China</a>
+  and the <a href="Netherlands" class="wikilink"
   title="Netherlands">Netherlands</a> stated, "The members, in the whole
   course of their journey, did not see one town that had not been
   destroyed, and there were very few undamaged villages."

@@ -15,7 +15,7 @@ described the concept:
 > boxcar too, a 1934 jalopy and a milk truck body the youngsters turn
 > into anything they like.[^1]
 
-From Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
+From Colin Ward, <a href="Anarchy_in_Action" class="wikilink"
 title="Anarchy in Action">Anarchy in Action</a>:
 
 > When The Yard was opened in Minneapolis with the aim of giving the

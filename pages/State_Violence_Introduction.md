@@ -113,30 +113,30 @@ empower those affected by harm.
 
 ## See Also
 
-- "<a   href="Transformative_Justice.md" class="wikilink"
+- <a href="Transformative_Justice" class="wikilink"
   title="Transformative Justice">Transformative Justice</a>
-- "<a   href="Community_Accountability.md" class="wikilink"
+- <a href="Community_Accountability" class="wikilink"
   title="Community Accountability">Community Accountability</a>
-- "<a   href="Restorative_Justice.md" class="wikilink"
+- <a href="Restorative_Justice" class="wikilink"
   title="Restorative Justice">Restorative Justice</a>
-- "<a   href="Prison_Abolition.md" class="wikilink"
+- <a href="Prison_Abolition" class="wikilink"
   title="Prison Abolition">Prison Abolition</a>
-- "<a   href="Community_Self-Defense.md" class="wikilink"
+- <a href="Community_Self-Defense" class="wikilink"
   title="Community Self-Defense">Community Self-Defense</a>
 
 ## References
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Prison_Abolition.md" class="wikilink"
+<a href="Category:Prison_Abolition" class="wikilink"
 title="Category:Prison Abolition">Category:Prison Abolition</a>
-"<a   href="Category:Community_Justice.md" class="wikilink"
+<a href="Category:Community_Justice" class="wikilink"
 title="Category:Community Justice">Category:Community Justice</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-"<a   href="Category:Justice.md" class="wikilink"
+<a href="Category:Justice" class="wikilink"
 title="Category:Justice">Category:Justice</a>

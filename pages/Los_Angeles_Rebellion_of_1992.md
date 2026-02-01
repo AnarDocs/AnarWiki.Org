@@ -96,11 +96,11 @@ The Chicago Surrealists elaborate:
 
 <references/>
 
-"<a   href="Category:USA.md" class="wikilink"
+<a href="Category:USA.md" class="wikilink"
 title="Category:USA">Category:USA</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America.md" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings.md" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
 
 [^1]: Chicago Surrealist Group, *Three Days that Shook the New World

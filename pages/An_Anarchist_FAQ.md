@@ -1,29 +1,29 @@
 # An Anarchist FAQ
 
 *An Anarchist FAQ* is a
-"<a   href="Frequently_asked_questions.md" class="wikilink"
+<a href="Frequently_asked_questions.md" class="wikilink"
 title="FAQ">FAQ</a> written by an international working group of
-"<a   href="Social_anarchism.md" class="wikilink"
+<a href="Social_anarchism.md" class="wikilink"
 title="social anarchists">social anarchists</a> connected through
-"<a   href="Internet.md" class="wikilink" title="Internet">Internet</a>.[^1][^2]
+<a href="Internet.md" class="wikilink" title="Internet">Internet</a>.[^1][^2]
 It documents anarchist theory and ideas and contains discussions in
 favor of social anarchism.[^3][^4] It also explores other debates within
 the anarchist movement and counters common arguments against anarchism.
 It has been evolving continuously since 1995. Started as a critique of
-"<a   href="Anarcho-capitalism.md" class="wikilink"
+<a href="Anarcho-capitalism.md" class="wikilink"
 title="anarcho-capitalism">anarcho-capitalism</a>, when released it
 became a general introduction to
-"<a   href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
+<a href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
 
 The FAQ is published under the terms of the
-"<a   href="GNU_Free_Documentation_License.md" class="wikilink"
+<a href="GNU_Free_Documentation_License.md" class="wikilink"
 title="GNU Free Documentation License">GNU Free Documentation
 License</a>
-("<a   href="copyleft.md" class="wikilink" title="copyleft">copyleft</a>) and
+(<a href="copyleft.md" class="wikilink" title="copyleft">copyleft</a>) and
 is dedicated to "*the millions of anarchists, living and dead, who have
 tried and are trying to create a better world*". It was put online on
 July 19, 1996 "*to celebrate the
-"<a   href="Spanish_Revolution_of_1936.md" class="wikilink"
+<a href="Spanish_Revolution_of_1936.md" class="wikilink"
 title="Spanish Anarchist Revolution of 1936">Spanish Anarchist
 Revolution of 1936</a> and the heroism of the Spanish anarchist
 movement*".
@@ -35,8 +35,8 @@ together to write FAQs that would discuss and address the capitalist
 claims of those who called themselves anarchists. Those involved in the
 project had spent many hours in online debate with anarcho-capitalists
 regarding whether
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> and
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> and
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
 were compatible or not. Eventually, a group of activists decided to
 write a FAQ to explain their thoughts on why anarchism and capitalism
 were incompatible. While the FAQ was written by many contributors, the
@@ -66,28 +66,28 @@ in two volumes by AK Press, Oakland/Edinburgh:[^8]
 
 The FAQ editors identify themselves as belonging to the social anarchist
 branch of anarchism (defined as
-"<a   href="anarcho-communism.md" class="wikilink"
+<a href="anarcho-communism.md" class="wikilink"
 title="anarcho-communism">anarcho-communism</a>,
-"<a   href="anarcho-syndicalism.md" class="wikilink"
+<a href="anarcho-syndicalism.md" class="wikilink"
 title="anarcho-syndicalism">anarcho-syndicalism</a>, collectivist
-anarchism, and "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+anarchism, and <a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Proudhon&#39;s">Proudhon's</a>
-"<a   href="Mutualism_(economic_theory).md" class="wikilink"
+<a href="Mutualism_(economic_theory).md" class="wikilink"
 title="mutualism">mutualism</a>).[^9] Despite this, the FAQ presents and
 describes other schools of
-"<a   href="Individualist_anarchism.md" class="wikilink"
+<a href="Individualist_anarchism.md" class="wikilink"
 title="anarchist">anarchist</a> thought such as
-"<a   href="Individualist_anarchism.md" class="wikilink"
+<a href="Individualist_anarchism.md" class="wikilink"
 title="individualist anarchism">individualist anarchism</a>,
-"<a   href="anarcha-feminism.md" class="wikilink"
+<a href="anarcha-feminism.md" class="wikilink"
 title="anarcha-feminism">anarcha-feminism</a>, and some less known
-theories like platformism and "<a   href="primitivism.md" class="wikilink"
+theories like platformism and <a href="primitivism.md" class="wikilink"
 title="primitivism">primitivism</a>. It cites references from a variety
 of authors from these schools, and its bibliography contains more than
 five hundred sources. According to the FAQ, anarchism is synonymous with
-"<a   href="libertarian_socialism.md" class="wikilink"
+<a href="libertarian_socialism.md" class="wikilink"
 title="libertarian socialism">libertarian socialism</a>, free socialism,
-"<a   href="anarcho-communism.md" class="wikilink"
+<a href="anarcho-communism.md" class="wikilink"
 title="anarcho-communism">anarcho-communism</a>, and free
 communism.[^10]
 
@@ -119,7 +119,7 @@ and anarcho-capitalism.[^16][^17]
 ## Influence and criticism
 
 The FAQ has been endorsed by several sources. The anarcho-syndicalist
-"<a   href="Solidarity_Federation.md" class="wikilink"
+<a href="Solidarity_Federation.md" class="wikilink"
 title="Solidarity Federation">Solidarity Federation</a> called it an
 "*invaluable resource*" and "*highly recommended*" for people who wish
 to "*gain a better understanding of anarchism*".[^18] Flint Jones, a
@@ -137,13 +137,13 @@ Martin Parker.[^24] It has been described as "*very comprehensive*" by
 Paul Graham and John Hoffman in their *Introduction to Political
 Ideologies* (2006).[^25] Various versions of the FAQ have been
 translated into eight languages and it has been included in every stable
-release of "<a   href="Debian.md" class="wikilink" title="Debian">Debian</a>
+release of <a href="Debian.md" class="wikilink" title="Debian">Debian</a>
 since 1999.[^26][^27]
 
 An earlier version of the FAQ was once criticized by one of the
 anarcho-capitalists it was written to oppose. Writing in 1997 and
 referring to the 1996 version of the FAQ,
-"<a   href="David_Friedman.md" class="wikilink"
+<a href="David_Friedman.md" class="wikilink"
 title="David D. Friedman">David D. Friedman</a> complained about what he
 called the authors' "*irresponsibility*" in making errors in their
 account of Icelandic history and attributing to him a position he did
@@ -154,17 +154,17 @@ regarding medieval Iceland and was poorly referenced, they denied that
 this represented a "disregard for the truth" and argue that their
 critique was still valid despite "some serious errors in details".[^29]
 
-**"<a   href="A_New_Anarchist_FAQ.md" class="wikilink"
+**<a href="A_New_Anarchist_FAQ.md" class="wikilink"
 title="A New Anarchist FAQ">A New Anarchist FAQ</a>**, launched on
-"<a   href="Raddle.md" class="wikilink" title="raddle.me">raddle.me</a> by
+<a href="Raddle.md" class="wikilink" title="raddle.me">raddle.me</a> by
 post-left anarchists, emerged as a direct response to what its creators
 view as significant ideological biases within
-"<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
+<a href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
 Anarchist FAQ</a>. Critics argue that the original FAQ, being largely
 written by a single author, promotes a "strong Bookchinite perspective"
 while engaging in "bad faith attacks against certain anarchist
 tendencies like
-"<a   href="Green_Anarchism.md" class="wikilink" title="green anarchy">green
+<a href="Green_Anarchism.md" class="wikilink" title="green anarchy">green
 anarchy</a>" and excessively promoting democratic organizing methods and
 workplace-centered approaches to anarchism.
 
@@ -181,13 +181,13 @@ workplace-centered approaches to anarchism.
   McKay, written for the tenth anniversary of the creation of the FAQ
 - [AAFAQ Debian package](http://packages.debian.org/anarchism)
 
-"<a   href="Category:Anarchist_books.md" class="wikilink"
+<a href="Category:Anarchist_books.md" class="wikilink"
 title="Category:Anarchist books">Category:Anarchist books</a>
-"<a   href="Category:FAQ.md" class="wikilink"
+<a href="Category:FAQ.md" class="wikilink"
 title="Category:FAQ">Category:FAQ</a>
-"<a   href="Category:Books.md" class="wikilink"
+<a href="Category:Books.md" class="wikilink"
 title="Category:Books">Category:Books</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Starhawk. "An Anarchist FAQ - Introduction". Infoshop. Retrieved

@@ -1,7 +1,7 @@
 A timeline of
-"<a   href="Indigenism.md" class="wikilink" title="indigenist">indigenist</a>
+<a href="Indigenism" class="wikilink" title="indigenist">indigenist</a>
 actions and actions by mainly
-"<a   href="Indigenous_People.md" class="wikilink"
+<a href="Indigenous_People" class="wikilink"
 title="indigenous">indigenous</a> protesters and/or rebels.
 
 ## 1700s
@@ -28,21 +28,21 @@ title="indigenous">indigenous</a> protesters and/or rebels.
 ### 1940s
 
 - 1943: The
-  "<a   href="Maasina_Ruru.md" class="wikilink" title="Maasina Ruru">Maasina
+  <a href="Maasina_Ruru" class="wikilink" title="Maasina Ruru">Maasina
   Ruru</a> in the
-  "<a   href="Solomon_Island.md" class="wikilink" title="Solomon Island">Solomon
+  <a href="Solomon_Island" class="wikilink" title="Solomon Island">Solomon
   Islands</a> begins as indigenous people fight for their rights, lower
   taxes and increased autonomy.
 - 1943: Aboriginal Australian soldiers
 - 1945: Indigenous African railworkers in
-  "<a   href="Rhodesia.md" class="wikilink" title="Rhodesia">Rhodesia</a> (now
-  "<a   href="Zimbabwe.md" class="wikilink" title="Zimbabwe">Zimbabwe</a> and
-  "<a   href="Zambia.md" class="wikilink" title="Zambia">Zambia</a>)
-  "<a   href="Rhodesian_Railway_Strike_(1945).md" class="wikilink"
+  <a href="Rhodesia" class="wikilink" title="Rhodesia">Rhodesia</a> (now
+  <a href="Zimbabwe" class="wikilink" title="Zimbabwe">Zimbabwe</a> and
+  <a href="Zambia" class="wikilink" title="Zambia">Zambia</a>)
+  <a href="Rhodesian_Railway_Strike_(1945)" class="wikilink"
   title="strike">strike</a> for better pay and working conditions.
 - 1945: Pare people in Tanzania defeat new tax system
 - 1946: Indigenous Australian farmworkers
-  "<a   href="Pilbara_Strike_(1940s).md" class="wikilink"
+  <a href="Pilbara_Strike_(1940s)" class="wikilink"
   title="begin a strike">begin a strike</a> at Pilbara that lasts three
   years for better conditions.
 - 1946: Hawaiians strike against the sugar industry in Hawai'i'
@@ -53,21 +53,21 @@ title="indigenous">indigenous</a> protesters and/or rebels.
 - 1965: Australian civil rights movement.
 - 1966: Gurindji Strike.
 - 1964: "Fish-Ins" begin across USA
-- 1969: "<a   href="Indigigenous_Resistance_in_Paraguay.md" class="wikilink"
+- 1969: <a href="Indigigenous_Resistance_in_Paraguay" class="wikilink"
   title="Indigenist resistance">Indigenist resistance</a> to the
-  "<a   href="Stroessner_Regime.md" class="wikilink"
+  <a href="Stroessner_Regime" class="wikilink"
   title="Stroessner Regime">Stroessner Regime</a> in
-  "<a   href="Paraguay.md" class="wikilink" title="Paraguay">Paraguay</a>
+  <a href="Paraguay" class="wikilink" title="Paraguay">Paraguay</a>
   begins.
-- 1969: "<a   href="Alcatraz_Occupation.md" class="wikilink"
+- 1969: <a href="Alcatraz_Occupation" class="wikilink"
   title="Alcatraz Occupation">Alcatraz Occupation</a> (USA)
 
 ### 1970s
 
-- 1971: The "<a   href="Aboriginal_Tent_Embassy.md" class="wikilink"
+- 1971: The <a href="Aboriginal_Tent_Embassy" class="wikilink"
   title="Aboriginal Tent Embassy">Aboriginal Tent Embassy</a> is founded
   in Canberra,
-  "<a   href="Australia.md" class="wikilink" title="Australia">Australia</a>
+  <a href="Australia" class="wikilink" title="Australia">Australia</a>
   as a center from which to fight for the rights and self-determination
   of indigenous Australians.
   - 1971: James Bay Cree Hydroelectric Conflict
@@ -82,23 +82,23 @@ title="indigenous">indigenous</a> protesters and/or rebels.
   - 2013: Mik'maq Dispute
 - 1971: Indigenous Ovambo migrant workers in Namibia strike against low
   wages and racial discrimination.
-- 1972: The "<a   href="James_Bay_Anti-Dam_Campaign.md" class="wikilink"
+- 1972: The <a href="James_Bay_Anti-Dam_Campaign" class="wikilink"
   title="James Bay Anti-Dam Campaign">James Bay Anti-Dam Campaign</a> is
   led by Indigenous Cree in
-  "<a   href="Canada.md" class="wikilink" title="Canada">Canada</a>.
+  <a href="Canada" class="wikilink" title="Canada">Canada</a>.
 - 1973: Wounded Knee Incident
 - 1975: Maori New Zealanders occupy Raglan Golf Course, win back land
   rights,
-- 1977: The "<a   href="Xapuri_Forest_Campaign.md" class="wikilink"
+- 1977: The <a href="Xapuri_Forest_Campaign" class="wikilink"
   title="Xapuri Forest Campaign">Xapuri Forest Campaign</a> in
-  "<a   href="Brazi.md" class="wikilink" title="Brazi">Brazil</a> sees heavy
+  <a href="Brazi" class="wikilink" title="Brazi">Brazil</a> sees heavy
   support from indigenous people.
 - 1977: Maoris in New Zealand regain Bastion Point by occupying their
   land
 - 1977: Guatemalan indigenous peoples campaign for equal rights
-- 1979: The "<a   href="Alta_Dam_Campaign.md" class="wikilink"
+- 1979: The <a href="Alta_Dam_Campaign" class="wikilink"
   title="Alta Dam Campaign">Alta Dam Campaign</a> in
-  "<a   href="Norway.md" class="wikilink" title="Norway">Norway</a> begins as
+  <a href="Norway" class="wikilink" title="Norway">Norway</a> begins as
   indigenous Saami and environmentalists team up to fight a dam.
 
 ### 1980s
@@ -111,9 +111,9 @@ title="indigenous">indigenous</a> protesters and/or rebels.
 ### 1990s
 
 - 1990: The
-  "<a   href="Oka_Uprising.md" class="wikilink" title="Oka Uprising">Oka
+  <a href="Oka_Uprising" class="wikilink" title="Oka Uprising">Oka
   Uprising</a> begins in
-  "<a   href="Canada.md" class="wikilink" title="Canada">Canada</a>, as
+  <a href="Canada" class="wikilink" title="Canada">Canada</a>, as
   indigenous Mohawk organise an armed standoff with police and later the
   military to prevent the illegal demolition of indigenous land for the
   expansion of a golf course.
@@ -123,16 +123,16 @@ title="indigenous">indigenous</a> protesters and/or rebels.
   on the 500th anniversary of European colonisation of the Americas.
 - 1993: Navajo and Hopi tribes campaign to remain on Black Mesa lands
   and protect it from coal mining
-- 1994: The "<a   href="Zapatista_Revolution.md" class="wikilink"
+- 1994: The <a href="Zapatista_Revolution" class="wikilink"
   title="Zapatista Revolution">Zapatista Revolution</a> begins in
-  "<a   href="Mexico.md" class="wikilink" title="Mexico">Mexico</a>, as
+  <a href="Mexico" class="wikilink" title="Mexico">Mexico</a>, as
   indigenous people in the south organise resistance to the state,
   leading to the formation of an
-  "<a   href="Rebel_Zapatista_Autonomous_Municipalities.md" class="wikilink"
+  <a href="Rebel_Zapatista_Autonomous_Municipalities" class="wikilink"
   title="autonomous network of communities">autonomous network of
   communities</a> governed on indigenous principles. This leads to the
   beginning of a neo-colonial war, the
-  "<a   href="Chiapas_Conflict.md" class="wikilink"
+  <a href="Chiapas_Conflict" class="wikilink"
   title="Chiapas Conflict">Chiapas Conflict</a>.
 - 1994: Ecuadorian indigenous stage mass uprising against neo-liberal
   measures including privatizing water and taking communally held land,
@@ -147,17 +147,17 @@ title="indigenous">indigenous</a> protesters and/or rebels.
   Wisconsin
 - 1996: Sarayaku people successfully defend their land against oil
   extraction
-- 1997: The "<a   href="Mapuche_Uprising.md" class="wikilink"
+- 1997: The <a href="Mapuche_Uprising" class="wikilink"
   title="Mapuche Uprising">Mapuche Uprising</a> begins in
-  "<a   href="Chile.md" class="wikilink" title="Chile">Chile</a>, as
+  <a href="Chile" class="wikilink" title="Chile">Chile</a>, as
   indigenous Mapuche people begin to resist the destruction of their
   lands by mining, farming and logging corporations.
 - 1999: Indigenous groups, fishers and environmentalists
-  "<a   href="Talamanca_Anti-Oil_Movement.md" class="wikilink"
+  <a href="Talamanca_Anti-Oil_Movement" class="wikilink"
   title="begin a successful campaign to stop the drilling of oil">begin a
   successful campaign to stop the drilling of oil</a> in the Talamanca
   region of
-  "<a   href="Costa_Rica.md" class="wikilink" title="Costa Rica">Costa Rica</a>.
+  <a href="Costa_Rica" class="wikilink" title="Costa Rica">Costa Rica</a>.
 - 1999: New Brunswick Burnt Church First Nation campaign to defend their
   fishing rights
 
@@ -172,7 +172,7 @@ title="indigenous">indigenous</a> protesters and/or rebels.
 - 2005: Indigenous Tongan public servants strike for higher wages.
 - 2006: Caledonia First Nations Defend Grand River Territory
 - 2006:
-  "<a   href="Oaxac.md" class="wikilink" title="Oaxaca City Uprising">Oaxaca
+  <a href="Oaxac" class="wikilink" title="Oaxaca City Uprising">Oaxaca
   City Uprising</a>
 - 2006: Colombians protest Free Trade Agreement with United States
 - 2007: Canada first nations challenge government over stolen land
@@ -181,10 +181,10 @@ title="indigenous">indigenous</a> protesters and/or rebels.
   rainforest
 - 2008: Brazilian Indigenous protest construction of Belo Monte Dam on
   Xingu River in Brazilian Amazon
-- 2009: The "<a   href="Unist&#39;ot&#39;en.md" class="wikilink"
+- 2009: The <a href="Unist&#39;ot&#39;en" class="wikilink"
   title="Unist&#39;ot&#39;en">Unist'ot'en</a> camp is formed by
   indigenous
-  "<a   href="Canada.md" class="wikilink" title="Canadians">Canadians</a> in
+  <a href="Canada" class="wikilink" title="Canadians">Canadians</a> in
   order to block the construction of an oil pipeline.
 - 2009: Canadian First Nations people protect water from dumpsite
 
@@ -196,7 +196,7 @@ title="indigenous">indigenous</a> protesters and/or rebels.
 - 2010: Canadians demonstrate against Enbridge Northern Gateway
   Pipelines
 - 2011: The town of
-  "<a   href="Cherán.md" class="wikilink" title="Cheran">Cheran</a> in Mexico
+  <a href="Cherán" class="wikilink" title="Cheran">Cheran</a> in Mexico
   becomes autonomous from the government after an indigenous revolt
   against deforestation and police corruption. The town is run with
   indigenous methods of direct democracy and self-governance.
@@ -212,18 +212,18 @@ title="indigenous">indigenous</a> protesters and/or rebels.
 - 2013: Indigenous people in Canada prevent the drilling of oil in their
   territory.
 - 2014: Guatemalan protests against Monsanto Law
-- 2015: The "<a   href="Matagarup_Refugee_Camp.md" class="wikilink"
+- 2015: The <a href="Matagarup_Refugee_Camp" class="wikilink"
   title="Matagarup Refugee Camp">Matagarup Refugee Camp</a> is formed in
   Heirisson Island, Perth, Australia to fight back against
   discrimination of Aboriginal Australians.
-- 2019: "<a   href="Yakka_Munga_Blockade_(2019).md" class="wikilink"
+- 2019: <a href="Yakka_Munga_Blockade_(2019)" class="wikilink"
   title="Yakka Munga Blockade">Yakka Munga Blockade</a> (Australia)
-- 2019: "<a   href="SESAI_Defense_Campaign_(2019).md" class="wikilink"
+- 2019: <a href="SESAI_Defense_Campaign_(2019)" class="wikilink"
   title="SESAI Defense Campaign">SESAI Defense Campaign</a> (Brazil)
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Indigenism.md" class="wikilink"
+<a href="Category:Indigenism" class="wikilink"
 title="Category:Indigenism">Category:Indigenism</a>
-"<a   href="Category:Timelines.md" class="wikilink"
+<a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>

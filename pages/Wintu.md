@@ -11,7 +11,7 @@ made decisions by consensus with the facilitation of a headman or
 headwoman. They lived mainly at peace with neighboring peoples including
 Hokan speakers such as the Yana. The Wintu among other indigenous groups
 of northern California provided inspiration for the
-"<a   href="Kesh.md" class="wikilink" title="Kesh">Kesh</a> in Ursula K. Le
+<a href="Kesh" class="wikilink" title="Kesh">Kesh</a> in Ursula K. Le
 Guin’s *Always Coming Home*.[^1]
 
 # Culture

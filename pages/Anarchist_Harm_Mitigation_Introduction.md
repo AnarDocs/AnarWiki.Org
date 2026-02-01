@@ -8,7 +8,7 @@ categories based on what drives them.
 ## Property-Related Crime
 
 The vast majority of property crimes would disappear with the abolition
-of "<a   href="private_property.md" class="wikilink"
+of <a href="private_property.md" class="wikilink"
 title="private property">private property</a> and the implementation of
 mutual aid systems.
 
@@ -17,9 +17,9 @@ mutual aid systems.
 - **Current problem**: Much theft is motivated by poverty, homelessness,
   unemployment, and basic survival needs
 - **In anarchy**: With resources freely available through
-  "<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+  <a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
   networks and
-  "<a   href="gift_economy.md" class="wikilink" title="gift economy">gift
+  <a href="gift_economy.md" class="wikilink" title="gift economy">gift
   economy</a> principles, the material basis for most theft disappears
 - **Example**: "The outrages typical of capitalist justice, such as
   arresting the hungry for stealing from the wealthy, would not be
@@ -38,7 +38,7 @@ mutual aid systems.
 =
 
 Many "crimes" exist solely to maintain state power and would be
-meaningless in a "<a   href="stateless_society.md" class="wikilink"
+meaningless in a <a href="stateless_society.md" class="wikilink"
 title="stateless society">stateless society</a>.
 
 ### Immigration Violations
@@ -81,7 +81,7 @@ their basis.
 - **Current problem**: Wage theft, unsafe working conditions, and
   exploitation are endemic under capitalism
 - **In anarchy**: With
-  "<a   href="workers&#39;_self-management.md" class="wikilink"
+  <a href="workers&#39;_self-management.md" class="wikilink"
   title="workers&#39; self-management">workers' self-management</a> and
   voluntary association, exploitative labor relationships cannot exist
 
@@ -114,7 +114,7 @@ conditioning.
 - **Current problem**: Much youth crime results from alienation, lack of
   meaningful participation in society, and authoritarian treatment
 - **In anarchy**: With
-  "<a   href="non-authoritarian_education.md" class="wikilink"
+  <a href="non-authoritarian_education.md" class="wikilink"
   title="non-authoritarian education">non-authoritarian education</a>
   and genuine inclusion of young people in community life, anti-social
   behavior would decrease dramatically
@@ -156,27 +156,27 @@ than symptoms.
 
 It's important to note that not all harmful behavior would disappear:
 
-- Some forms of "<a   href="domestic_violence.md" class="wikilink"
+- Some forms of <a href="domestic_violence.md" class="wikilink"
   title="domestic violence">domestic violence</a>, sexual assault, and
   interpersonal harm have complex roots beyond economic systems
-- "<a   href="Mental_health.md" class="wikilink" title="Mental health">Mental
+- <a href="Mental_health.md" class="wikilink" title="Mental health">Mental
   health</a> issues and psychological problems would still require
   community attention
 - Conflicts over resources, personal disputes, and accidents would still
   occur
 
 However, even these remaining problems would be addressed through
-"<a   href="community_accountability.md" class="wikilink"
+<a href="community_accountability.md" class="wikilink"
 title="community accountability">community accountability</a>,
-"<a   href="restorative_justice.md" class="wikilink"
+<a href="restorative_justice.md" class="wikilink"
 title="restorative justice">restorative justice</a>, and
-"<a   href="transformative_justice.md" class="wikilink"
+<a href="transformative_justice.md" class="wikilink"
 title="transformative justice">transformative justice</a> approaches
 rather than punitive state systems.
 
 ## Historical Examples
 
-During periods of "<a   href="anarchist_organization.md" class="wikilink"
+During periods of <a href="anarchist_organization.md" class="wikilink"
 title="anarchist organization">anarchist organization</a>, crime rates
 have often dropped significantly:
 
@@ -188,29 +188,29 @@ have often dropped significantly:
 
 ## See Also
 
-- "<a   href="Community_Accountability.md" class="wikilink"
+- <a href="Community_Accountability.md" class="wikilink"
   title="Community Accountability">Community Accountability</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- "<a   href="Gift_Economy.md" class="wikilink" title="Gift Economy">Gift
+- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Gift_Economy.md" class="wikilink" title="Gift Economy">Gift
   Economy</a>
-- "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+- <a href="Workers&#39;_Self-Management.md" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a>
-- "<a   href="Transformative_Justice.md" class="wikilink"
+- <a href="Transformative_Justice.md" class="wikilink"
   title="Transformative Justice">Transformative Justice</a>
 
 ## References
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Crime.md" class="wikilink"
+<a href="Category:Crime.md" class="wikilink"
 title="Category:Crime">Category:Crime</a>
-"<a   href="Category:Social_Problems.md" class="wikilink"
+<a href="Category:Social_Problems.md" class="wikilink"
 title="Category:Social Problems">Category:Social Problems</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Community_Justice.md" class="wikilink"
+<a href="Category:Community_Justice.md" class="wikilink"
 title="Category:Community Justice">Category:Community Justice</a>
-"<a   href="Category:Justice.md" class="wikilink"
+<a href="Category:Justice.md" class="wikilink"
 title="Category:Justice">Category:Justice</a>

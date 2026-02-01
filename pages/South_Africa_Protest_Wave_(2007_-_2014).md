@@ -1,14 +1,14 @@
 The **South Africa Protest Wave of 2007 to 2014** was a wave of strikes,
 occupations and protests that hit South Africa from
-"<a   href="Timeline_of_Anarchism_in_Southern_Africa.md" class="wikilink"
+<a href="Timeline_of_Anarchism_in_Southern_Africa" class="wikilink"
 title="2007">2007</a> to
-"<a   href="Revolutions_of_2008_-_2014.md" class="wikilink"
+<a href="Revolutions_of_2008_-_2014" class="wikilink"
 title="2014">2014</a> over strikes in the mining industry, the rights of
 squatters and protests against government corruption.
 
 ## Notable Incidents
 
-- The "<a   href="N2_Gateway_Occupations_(2008).md" class="wikilink"
+- The <a href="N2_Gateway_Occupations_(2008)" class="wikilink"
   title="N2 Gateway Occupations">N2 Gateway Occupations</a>
 
 where over 1,000 families occupied unfinished state built houses to
@@ -65,7 +65,7 @@ January 2013<sup>\[97\]\[98\]</sup>
 - 2011: Limpopo Strike
 - 2012: Impala Platinum Mine Strike
 - 2012: Modikwa Mine strike
-- 2012: "<a   href="Marikana_Mine_Strike_(2012).md" class="wikilink"
+- 2012: <a href="Marikana_Mine_Strike_(2012)" class="wikilink"
   title="Marikana Mine Strike">Marikana Mine Strike</a>
 - 2012: Sit-ins and occupations were also part of these struggles. At
   Goldfields’Kloof Mine, 5,200 workers staged a sit-in,49 and at
@@ -75,17 +75,17 @@ January 2013<sup>\[97\]\[98\]</sup>
   site for several weeks. Amplats, Goldfields, Kumba Iron,
   AngloGoldAshanti,Harmony, and Gold One.
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Protest_Waves.md" class="wikilink"
+<a href="Category:Protest_Waves" class="wikilink"
 title="Category:Protest Waves">Category:Protest Waves</a>
-"<a   href="Category:South_Africa.md" class="wikilink"
+<a href="Category:South_Africa" class="wikilink"
 title="Category:South Africa">Category:South Africa</a>
-"<a   href="Category:Africa.md" class="wikilink"
+<a href="Category:Africa" class="wikilink"
 title="Category:Africa">Category:Africa</a>
-"<a   href="Category:2000s.md" class="wikilink"
+<a href="Category:2000s" class="wikilink"
 title="Category:2000s">Category:2000s</a>
-"<a   href="Category:2010s.md" class="wikilink"
+<a href="Category:2010s" class="wikilink"
 title="Category:2010s">Category:2010s</a>
-"<a   href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>

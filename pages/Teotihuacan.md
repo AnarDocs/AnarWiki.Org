@@ -37,9 +37,9 @@ disintegration.[^4]
 
 <references/>
 
-"<a   href="Category:Mexico.md" class="wikilink"
+<a href="Category:Mexico" class="wikilink"
 title="Category:Mexico">Category:Mexico</a>
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 

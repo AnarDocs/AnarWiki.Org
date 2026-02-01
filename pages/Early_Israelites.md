@@ -13,9 +13,9 @@ Worker-affiliated theologian Laurel Dyksta.[^1] Citizens' councils and
 assemblies were aspects of Israelites' government.[^2] Even during the
 monarchy period, the Jubilee practice placed limits on the accumulation
 of economic power. Communistic currents during this period included the
-"<a   href="Essenes.md" class="wikilink" title="Essenes">Essenes</a> and
+<a href="Essenes.md" class="wikilink" title="Essenes">Essenes</a> and
 prophetic countercultures including
-"<a   href="Early_Christians.md" class="wikilink"
+<a href="Early_Christians.md" class="wikilink"
 title="Early Christians">Early Christians</a>.
 
 The name "Israel" means "to struggle with God." It comes from the story
@@ -157,7 +157,7 @@ There were several recognized genders in ancient Israel.
 
 After the establishment of the monarchy, some Israelites practiced
 egalitarian living. Notably, the
-"<a   href="Essenes.md" class="wikilink" title="Essenes">Essenes</a> were a
+<a href="Essenes.md" class="wikilink" title="Essenes">Essenes</a> were a
 communistic (and perhaps vegetarian) Jewish order.
 
 Hebrew prophets often tried to bring back the early, egalitarian
@@ -165,7 +165,7 @@ impulses of the early Israelite culture. For example, Isaiah demands of
 Israel's leaders, "What do you mean by crushing my people, by grinding
 the faces of the poor?"[^21]
 
-Among the "<a   href="Early_Christians.md" class="wikilink"
+Among the <a href="Early_Christians.md" class="wikilink"
 title="Early Christians">Early Christians</a>, according to Erich Fromm,
 "there was not even a clearly defined external authority" and there
 existed protection of "the independence and freedom of the individual
@@ -177,9 +177,9 @@ rulers, in short for all authority."[^22]
 
 <references/>
 
-"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Laurel A. Dyksta, *Set Them Free: The Other Side of Exodus*

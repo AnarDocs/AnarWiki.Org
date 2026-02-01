@@ -9,7 +9,7 @@ million combatants and seven million civilian deaths as a direct result
 of the war, while resulting genocides and the 1918 influenza pandemic
 caused another 50 to 100 million deaths worldwide. The events of World
 War I led to
-"<a   href="World_War_II.md" class="wikilink" title="World War II">World War
+<a href="World_War_II" class="wikilink" title="World War II">World War
 II</a>.
 
 ## Events
@@ -18,9 +18,9 @@ II</a>.
 
 World War I largely ended due to fears of socialist revolution,
 revolutionaries had already toppled the imperial monarchies of
-"<a   href="February_Revolution_(Russia).md" class="wikilink"
+<a href="February_Revolution_(Russia)" class="wikilink"
 title="Russia">Russia</a> and
-"<a   href="German_Revolution_(1918).md" class="wikilink"
+<a href="German_Revolution_(1918)" class="wikilink"
 title="Germany">Germany</a>, mutinies had crippled the French Army in
 1917 and unrest was growing across the USA. Despite neither side having
 a clear victory, the war was declared to be a victory for the entente,
@@ -28,21 +28,21 @@ and the Treaty of Versailles disbanded the Ottoman and Austro-Hungarian
 Empires, and severely limited the ability of Germany to function as a
 state.
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Wars.md" class="wikilink"
+<a href="Category:Wars" class="wikilink"
 title="Category:Wars">Category:Wars</a>
-"<a   href="Category:1910s.md" class="wikilink"
+<a href="Category:1910s" class="wikilink"
 title="Category:1910s">Category:1910s</a>
-"<a   href="Category:1914.md" class="wikilink"
+<a href="Category:1914" class="wikilink"
 title="Category:1914">Category:1914</a>
-"<a   href="Category:1915.md" class="wikilink"
+<a href="Category:1915" class="wikilink"
 title="Category:1915">Category:1915</a>
-"<a   href="Category:1916.md" class="wikilink"
+<a href="Category:1916" class="wikilink"
 title="Category:1916">Category:1916</a>
-"<a   href="Category:1917.md" class="wikilink"
+<a href="Category:1917" class="wikilink"
 title="Category:1917">Category:1917</a>
-"<a   href="Category:1918.md" class="wikilink"
+<a href="Category:1918" class="wikilink"
 title="Category:1918">Category:1918</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>

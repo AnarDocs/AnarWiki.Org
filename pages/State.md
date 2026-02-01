@@ -5,24 +5,24 @@
 A **state** is a political organization that claims a monopoly on the
 legitimate use of violence within a defined territory, and exercises
 centralized control over a population through codified laws,
-hierarchical "<a   href="Social_Hierarchy.md" class="wikilink"
+hierarchical <a href="Social_Hierarchy" class="wikilink"
 title="hierarchical">hierarchical</a> power structures, and organized
 institutions.[^1] The state maintains its authority through various
 means including military force, legal systems, taxation, and ideological
 justification.
 
 According to
-"<a   href="Anarchism.md" class="wikilink" title="anarchists">anarchists</a>,
+<a href="Anarchism" class="wikilink" title="anarchists">anarchists</a>,
 states are defined by their anti-democratic nature, excluding most
 people from making decisions about how society is run—either through
 explicitly undemocratic regimes (dictatorships) or by maintaining a
 facade of democracy through elections that fail by inertia and complex
-legal "<a   href="bureaucracy.md" class="wikilink"
+legal <a href="bureaucracy" class="wikilink"
 title="bureaucracy">bureaucracy</a>
-("<a   href="Representative_Democracy.md" class="wikilink"
+(<a href="Representative_Democracy" class="wikilink"
 title="representative democracy">representative democracy</a>). States
 represent the most obvious and violent form of
-"<a   href="Social_Hierarchy.md" class="wikilink"
+<a href="Social_Hierarchy" class="wikilink"
 title="social hierarchy">social hierarchy</a> in the world today, and
 their dissolution is a necessary part of the project for human freedom.
 
@@ -59,9 +59,9 @@ structures with ruling elites who collected taxes, while societies
 relying on root crops did not develop such hierarchies.[^3]
 
 Many theorists argue that the
-"<a   href="Neolithic_Revolution.md" class="wikilink"
+<a href="Neolithic_Revolution" class="wikilink"
 title="Neolithic Revolution">Neolithic Revolution</a> led to the rise of
-states, as the use of "<a   href="agriculture.md" class="wikilink"
+states, as the use of <a href="agriculture" class="wikilink"
 title="agriculture">agriculture</a> enabled much more production of food
 per person. This meant that people could specialise in tasks other than
 gathering food, and the control of food production and distribution
@@ -70,11 +70,11 @@ to enforce class society.
 
 Critics point out that many agricultural societies did not develop
 states—some even remained strongly non-hierarchical—such as
-"<a   href="Highland_New_Guinea.md" class="wikilink"
+<a href="Highland_New_Guinea" class="wikilink"
 title="Highland New Guinea">Highland New Guinea</a>,
-"<a   href="Aboriginal_Australia.md" class="wikilink"
+<a href="Aboriginal_Australia" class="wikilink"
 title="Aboriginal Australia">Aboriginal Australia</a>, and the
-"<a   href="Haudenosaunee_Confederacy.md" class="wikilink"
+<a href="Haudenosaunee_Confederacy" class="wikilink"
 title="Haudenosaunee">Haudenosaunee</a>.
 
 **Irrigation Systems**: In regions like ancient Egypt, large-scale
@@ -92,14 +92,14 @@ through collective agreement to create a state.
 This theory has been strongly criticised as it fails to offer exact
 dates and archaeological evidence for its claims. The first urban
 environments
-("<a   href="Catal_Huyuk.md" class="wikilink" title="Catal Huyuk">Catal
+(<a href="Catal_Huyuk" class="wikilink" title="Catal Huyuk">Catal
 Huyuk</a> and
-"<a   href="Cayonu_Tepesi.md" class="wikilink" title="Cayonu Tepesi">Cayonu
+<a href="Cayonu_Tepesi" class="wikilink" title="Cayonu Tepesi">Cayonu
 Tepesi</a>) show no evidence of a state, and the largest urban
 environments during the formation of states
-("<a   href="Indus_River_Valley_Civilization.md" class="wikilink"
+(<a href="Indus_River_Valley_Civilization" class="wikilink"
 title="Indus River Valley">Indus River Valley</a> and
-"<a   href="Minoan_Crete_Civilization.md" class="wikilink"
+<a href="Minoan_Crete_Civilization" class="wikilink"
 title="Minoan Crete">Minoan Crete</a>) likewise show no evidence of
 state structures.
 
@@ -152,7 +152,7 @@ formation.
 lived in a state and faced injustice, soon leaving the state to form
 their own non-state communities that develop their own unique culture.
 Examples include
-"<a   href="Zomia.md" class="wikilink" title="Zomia">Zomia</a>, where
+<a href="Zomia" class="wikilink" title="Zomia">Zomia</a>, where
 populations in the Southeast Asian highlands deliberately adopted social
 structures, agricultural practices, and even oral (rather than written)
 cultures specifically designed to resist state incorporation.
@@ -170,16 +170,16 @@ asserting that god had granted the ruling class the right and duty to
 rule over populations. This idea is also called *theocracy*. Theocracies
 largely collapsed with the Enlightenment and rise of secular ideals,
 although theocratic ideals still guide the states of
-"<a   href="Saudi_Arabia.md" class="wikilink" title="Saudi Arabia">Saudi
-Arabia</a>, "<a   href="Iran.md" class="wikilink" title="Iran">Iran</a>,
-"<a   href="Mauritania.md" class="wikilink" title="Mauritania">Mauritania</a>,
-"<a   href="Sudan.md" class="wikilink" title="Sudan">Sudan</a>,
-"<a   href="Afghanistan.md" class="wikilink"
+<a href="Saudi_Arabia" class="wikilink" title="Saudi Arabia">Saudi
+Arabia</a>, <a href="Iran" class="wikilink" title="Iran">Iran</a>,
+<a href="Mauritania" class="wikilink" title="Mauritania">Mauritania</a>,
+<a href="Sudan" class="wikilink" title="Sudan">Sudan</a>,
+<a href="Afghanistan" class="wikilink"
 title="Afghanistan">Afghanistan</a>,
-"<a   href="Vatican_City.md" class="wikilink" title="Vatican City">Vatican
+<a href="Vatican_City" class="wikilink" title="Vatican City">Vatican
 City</a>, and parts of
-"<a   href="Israel.md" class="wikilink" title="Israel">Israel</a> and the
-"<a   href="United_States_of_America.md" class="wikilink" title="USA">USA</a>.
+<a href="Israel" class="wikilink" title="Israel">Israel</a> and the
+<a href="United_States_of_America" class="wikilink" title="USA">USA</a>.
 
 ### Social Contract
 
@@ -214,8 +214,8 @@ Progressive statists argue that humanity has natural tendencies toward
 bigotry and inequality, and that the state can step in as a progressive
 agent to alleviate poverty and enforce equality, thus improving people's
 lives. This is generally the view of
-"<a   href="Liberalism.md" class="wikilink" title="liberals">liberals</a> and
-"<a   href="Social_Democracy.md" class="wikilink"
+<a href="Liberalism" class="wikilink" title="liberals">liberals</a> and
+<a href="Social_Democracy" class="wikilink"
 title="social democrats">social democrats</a>.
 
 Modern welfare liberalism extends this by arguing the state must
@@ -226,14 +226,14 @@ market failures and provide public goods.
 Critics counter that the state frequently aids in the creation of
 artificial poverty and bigotry, inventing and violently enforcing
 arbitrary concepts of
-"<a   href="gender.md" class="wikilink" title="gender">gender</a>,
-"<a   href="race.md" class="wikilink" title="race">race</a>, and
-"<a   href="class.md" class="wikilink" title="class">class</a>, as well as
+<a href="gender" class="wikilink" title="gender">gender</a>,
+<a href="race" class="wikilink" title="race">race</a>, and
+<a href="class" class="wikilink" title="class">class</a>, as well as
 destroying the
-"<a   href="commons.md" class="wikilink" title="commons">commons</a>,
+<a href="commons" class="wikilink" title="commons">commons</a>,
 attacking
-"<a   href="Squatting.md" class="wikilink" title="squats">squats</a>,
-"<a   href="Repression_of_Trade_Unions.md" class="wikilink"
+<a href="Squatting" class="wikilink" title="squats">squats</a>,
+<a href="Repression_of_Trade_Unions" class="wikilink"
 title="repressing trade unions">repressing trade unions</a>, and
 privatising key public services—all organisations that clearly help
 people escape deprivation.
@@ -246,7 +246,7 @@ then exploits the giving of these concessions as propaganda.
 
 ### Defense of Revolution
 
-Some states—notably "<a   href="Authoritarian_Socialism.md" class="wikilink"
+Some states—notably <a href="Authoritarian_Socialism" class="wikilink"
 title="authoritarian socialist">authoritarian socialist</a> ones—have
 claimed legitimacy by stating that a state is necessary for defending
 revolutionary gains from outside counter-revolution. The Marxist
@@ -255,7 +255,7 @@ transform economic relations, with the "dictatorship of the proletariat"
 using state power transitionally to suppress counter-revolution before
 the state eventually "withers away."
 
-Critics put forth the "<a   href="Hydra_Hypothesis.md" class="wikilink"
+Critics put forth the <a href="Hydra_Hypothesis" class="wikilink"
 title="hydra hypothesis">hydra hypothesis</a>: that statism and
 hierarchy actually make counter-revolution easier to succeed, while
 decentralised insurgencies against oppression can last far longer.
@@ -266,7 +266,7 @@ communism.
 
 ### Will to Power
 
-"<a   href="Will_to_Power.md" class="wikilink" title="Will to Power">Will to
+<a href="Will_to_Power" class="wikilink" title="Will to Power">Will to
 Power</a> arguments hold that states are essentially gangs, and that
 this is acceptable—whoever can take power is justified in holding it.
 This view is difficult to argue against since it is nihilistic, and
@@ -314,7 +314,7 @@ power, while anarchists see it as condemnation.
 
 Some argue that no ethical justification for the state exists—these
 thinkers are usually known as
-"<a   href="Philosophical_Anarchism.md" class="wikilink"
+<a href="Philosophical_Anarchism" class="wikilink"
 title="philosophical anarchists">philosophical anarchists</a>. They
 contend that the state invents stories to justify its own existence. The
 burden of proof for the need for a state lies with those making the
@@ -328,7 +328,7 @@ Robert Higgs argues:
 > Anarchy's mayhem is wholly conjectural; the state's mayhem is
 > undeniably, factually horrendous."[^5]
 
-"<a   href="Peter_Gelderloos.md" class="wikilink"
+<a href="Peter_Gelderloos" class="wikilink"
 title="Peter Gelderloos">Peter Gelderloos</a> further argues that
 ideological conditioning prevents most people from even questioning
 statist assumptions:
@@ -341,8 +341,8 @@ statist assumptions:
 > information that conflicts with this narrative, once it already
 > constitutes our fundamental worldview and sense of self. We grow up
 > lacking information about
-> "<a   href="List_of_Anarchist_Societies.md" class="wikilink"
->" title="contemporary or historical stateless peoples">contemporary or
+> <a href="List_of_Anarchist_Societies" class="wikilink"
+> title="contemporary or historical stateless peoples">contemporary or
 > historical stateless peoples</a>. The vast majority never surpass this
 > ignorance. States and their leaders are fed to us as the protagonists
 > of history, and when the stateless cannot be symbolically suppressed
@@ -665,7 +665,7 @@ non-hierarchical organization. Hierarchy is learned, not innate.
 ## List of States
 
 *See:
-"<a   href="List_of_States.md" class="wikilink" title="List of States">List of
+<a href="List_of_States" class="wikilink" title="List of States">List of
 States</a>*
 
 ## Notable Theorists
@@ -681,18 +681,18 @@ States</a>*
 
 ### Anti-State
 
-- "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+- <a href="Pierre-Joseph_Proudhon" class="wikilink"
   title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>
-- "<a   href="Mikhail_Bakunin.md" class="wikilink"
+- <a href="Mikhail_Bakunin" class="wikilink"
   title="Mikhail Bakunin">Mikhail Bakunin</a>
-- "<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+- <a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
   Kropotkin</a>
-- "<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+- <a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
   Goldman</a>
 - Pierre Clastres
 - Fredy Perlman
 - James C. Scott
-- "<a   href="Peter_Gelderloos.md" class="wikilink"
+- <a href="Peter_Gelderloos" class="wikilink"
   title="Peter Gelderloos">Peter Gelderloos</a>
 - Alan Carter
 
@@ -700,23 +700,23 @@ States</a>*
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Political_Philosophy.md" class="wikilink"
+<a href="Category:Political_Philosophy" class="wikilink"
 title="Category:Political Philosophy">Category:Political Philosophy</a>
-"<a   href="Category:State_Theory.md" class="wikilink"
+<a href="Category:State_Theory" class="wikilink"
 title="Category:State Theory">Category:State Theory</a>
-"<a   href="Category:States.md" class="wikilink"
+<a href="Category:States" class="wikilink"
 title="Category:States">Category:States</a>
-"<a   href="Category:Statism.md" class="wikilink"
+<a href="Category:Statism" class="wikilink"
 title="Category:Statism">Category:Statism</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Weber, Max (1919). "Politics as a Vocation"
@@ -736,9 +736,9 @@ title="Category:Featured">Category:Featured</a>
 [^5]: Higgs, Robert. "The Burden of Proof Should Rest on Statists, Not
     Anarchists"
 
-[^6]: "<a   href="Peter_Gelderloos.md" class="wikilink"
+[^6]: <a href="Peter_Gelderloos" class="wikilink"
     title="Peter Gelderloos">Peter Gelderloos</a> (2017) -
-    "<a   href="Worshiping_Power:_An_Anarchist_View_of_Early_State_Formation.md"
+    <a href="Worshiping_Power:_An_Anarchist_View_of_Early_State_Formation"
     class="wikilink"
     title="Worshiping Power: An Anarchist View of Early State Formation">Worshiping
     Power: An Anarchist View of Early State Formation</a>: Zomia: A

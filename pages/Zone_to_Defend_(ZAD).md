@@ -91,9 +91,9 @@ football stadium and one at Sivens against a dam.[^7]
 
 <references/>
 
-"<a   href="Category:Autonomous_Zones.md" class="wikilink"
+<a href="Category:Autonomous_Zones" class="wikilink"
 title="Category:Autonomous Zones">Category:Autonomous Zones</a>
-"<a   href="Category:France.md" class="wikilink"
+<a href="Category:France" class="wikilink"
 title="Category:France">Category:France</a>
 
 [^1]: Crimethinc, "La ZAD: Another End of the World is Possible:

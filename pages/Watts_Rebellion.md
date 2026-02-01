@@ -27,7 +27,7 @@ violence was an appropriate one or no." The police and National Guard
 response was brutal, with four thousand arrested and thirty-four
 killed.[^5]
 
-The "<a   href="Situationist_International.md" class="wikilink"
+The <a href="Situationist_International" class="wikilink"
 title="Situationist International">Situationist International</a>
 supported the uprising and remarked, "What American blacks are really
 daring to demand is the right to really live, and in the final analysis

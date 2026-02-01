@@ -7,7 +7,7 @@ power and organisational authority in centralised bodies, typically
 leadership committees or planning bureaus, with the power to issue
 binding directives to lower levels of organisation. Within socialist
 movements, centralism has been most associated with
-"<a   href="democratic_centralism.md" class="wikilink"
+<a href="democratic_centralism.md" class="wikilink"
 title="democratic centralism">democratic centralism</a> - the
 organisational principle adopted by Leninist parties - and central
 economic planning as practiced in the Soviet Union and other state
@@ -27,13 +27,13 @@ making movements more vulnerable to defeat.
 The most influential form of centralism in revolutionary movements has
 been democratic centralism. First used by the German socialist
 Schweitzer in the General Association of German Workers (which
-"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a> and
-"<a   href="Friedrich_Engels.md" class="wikilink"
+<a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a> and
+<a href="Friedrich_Engels.md" class="wikilink"
 title="Friedrich Engels">Friedrich Engels</a> actually criticized in
 their September 1868 letters), the concept was later adopted by Russian
 Social Democrats.[^1]
 
-"<a   href="Vladimir_Lenin.md" class="wikilink"
+<a href="Vladimir_Lenin.md" class="wikilink"
 title="Vladimir Lenin">Vladimir Lenin</a>'s 1906 formulation defined it
 as "freedom of discussion, unity of action." By 1917, the Sixth Party
 Congress of the Russian Social Democratic Labor Party (Bolshevik)
@@ -81,7 +81,7 @@ swift, coherent action in response to changing conditions.
 
 Anarchists argue that centralism inevitably concentrates power in the
 hands of a few, creating a new ruling class rather than liberating
-workers. As "<a   href="Mikhail_Bakunin.md" class="wikilink"
+workers. As <a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> predicted, centralized
 revolutionary organization produces dictatorship over the proletariat
 rather than of the proletariat.
@@ -92,7 +92,7 @@ workers' democracy. From spring 1918 onwards - before the civil war
 escalated - the Bolsheviks disbanded soviets with non-Bolshevik
 majorities and crushed working-class opposition to party directives.[^6]
 
-As "<a   href="Ngo_Van.md" class="wikilink" title="Ngo Van">Ngo Van</a>, a
+As <a href="Ngo_Van.md" class="wikilink" title="Ngo Van">Ngo Van</a>, a
 Vietnamese revolutionary who participated in Leninist parties,
 concluded: "the so-called 'workers' parties' (Leninist parties in
 particular) are embryonic forms of the state. Once in power, these
@@ -107,7 +107,7 @@ claim to serve. This mirrors how union bureaucracies, though originating
 from the working class, develop interests opposed to workers through
 their position as professional mediators.
 
-"<a   href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
+<a href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
 Nettlau</a> warned in 1909 that centralized organizations develop "a
 group of pure interests that sets itself up opposite everyone,"
 functioning like trusts whether capitalist or worker-controlled.[^8]
@@ -138,7 +138,7 @@ demands while avoiding punishment, managers engaged in:
 - Falsifying reports to create the appearance of meeting quotas
 - Trading favors and goods rather than following official plans[^11]
 
-As "<a   href="Romeo_Kokriatski.md" class="wikilink"
+As <a href="Romeo_Kokriatski.md" class="wikilink"
 title="Romeo Kokriatski">Romeo Kokriatski</a> describes, the entire
 system functioned on the principle that "the trick is not to actually do
 things – doing things is dangerous, risky, and could bring down the
@@ -201,7 +201,7 @@ thinking, centralism creates internal tensions and factional struggles
 that weaken movements.
 
 The
-"<a   href="Makhnovist.md" class="wikilink" title="Makhnovist">Makhnovist</a>
+<a href="Makhnovist.md" class="wikilink" title="Makhnovist">Makhnovist</a>
 movement demonstrated that decentralized organization could effectively
 defend revolution. Operating under conditions as difficult as the
 Bolsheviks faced, the Makhnovists maintained soviet democracy and
@@ -214,7 +214,7 @@ counter-revolutionary forces.[^17]
 
 Decentralized organization prevents the emergence of permanent
 leadership with independent interests.
-"<a   href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
+<a href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
 Nettlau</a> argued that centralized bodies inevitably function like
 states: "such an organism has never gone away on its own: it is there,
 it remains and it tends to extend itself; the State has done it and the
@@ -235,7 +235,7 @@ bodies that develop independent interests.
 
 Anarchists do not oppose coordination or large-scale organization, but
 reject centralized command structures. As
-"<a   href="Luigi_Fabbri.md" class="wikilink" title="Luigi Fabbri">Luigi
+<a href="Luigi_Fabbri.md" class="wikilink" title="Luigi Fabbri">Luigi
 Fabbri</a> explained, anarchists oppose "the marxists' utopian idea of
 production organized in a centralized way" while supporting broad
 national and international organizations coordinated through
@@ -265,13 +265,13 @@ essential for revolution, which requires the active participation and
 initiative of masses of people.
 
 As
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> argued from 1890 onwards, large-scale modern production is
 "interwoven and mutually dependent," requiring coordination. But this
 coordination can be achieved through workers directly managing their own
 affairs rather than submitting to central planning.[^22]
 
-"<a   href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
+<a href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
 Nettlau</a> emphasized that effective organization requires "full
 liberty, the liberty of trial and experiment, as it exists in science;
 which means that it is possible only in anarchy."[^23] Decentralized
@@ -285,7 +285,7 @@ locally, others require broader coordination. Centralized planning
 cannot determine optimal proportions because planners are separated from
 actual conditions and develop interests in maintaining their authority.
 
-"<a   href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
+<a href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">Max
 Nettlau</a> argued the crucial issue is finding appropriate proportions
 for each organizational function. These proportions must emerge through
 voluntary experimentation: "For every organism there must be a certain
@@ -414,7 +414,7 @@ resilient.
 ### Makhnovist Ukraine
 
 The
-"<a   href="Makhnovist.md" class="wikilink" title="Makhnovist">Makhnovist</a>
+<a href="Makhnovist.md" class="wikilink" title="Makhnovist">Makhnovist</a>
 movement demonstrated decentralized revolutionary organization during
 the Russian Civil War. Operating in conditions as difficult as the
 Bolsheviks faced, the Makhnovists maintained soviet democracy and
@@ -434,7 +434,7 @@ Regional Congresses held the army accountable for such decisions.
 
 ### Revolutionary Spain
 
-In "<a   href="Revolutionary_Spain.md" class="wikilink"
+In <a href="Revolutionary_Spain.md" class="wikilink"
 title="Revolutionary Spain">Revolutionary Spain</a>, anarchists
 implemented decentralized coordination across regions. Workers and
 peasants directly managed collectivized industries and agriculture
@@ -490,20 +490,20 @@ power concentration entirely.
 
 ## See Also
 
-- "<a   href="Democratic_Centralism.md" class="wikilink"
+- <a href="Democratic_Centralism.md" class="wikilink"
   title="Democratic Centralism">Democratic Centralism</a>
-- "<a   href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>
-- "<a   href="Workers&#39;_Councils.md" class="wikilink"
+- <a href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>
+- <a href="Workers&#39;_Councils.md" class="wikilink"
   title="Workers&#39; Councils">Workers' Councils</a>
-- "<a   href="Self-Management.md" class="wikilink"
+- <a href="Self-Management.md" class="wikilink"
   title="Self-Management">Self-Management</a>
-- "<a   href="Makhnovist_Movement.md" class="wikilink"
+- <a href="Makhnovist_Movement.md" class="wikilink"
   title="Makhnovist Movement">Makhnovist Movement</a>
-- "<a   href="Revolutionary_Spain.md" class="wikilink"
+- <a href="Revolutionary_Spain.md" class="wikilink"
   title="Revolutionary Spain">Revolutionary Spain</a>
-- "<a   href="Anarcho-syndicalism.md" class="wikilink"
+- <a href="Anarcho-syndicalism.md" class="wikilink"
   title="Anarcho-syndicalism">Anarcho-syndicalism</a>
-- "<a   href="Bolshevism.md" class="wikilink" title="Bolshevism">Bolshevism</a>
+- <a href="Bolshevism.md" class="wikilink" title="Bolshevism">Bolshevism</a>
 
 ## External Links
 
@@ -524,19 +524,19 @@ power concentration entirely.
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Organisational_Theory.md" class="wikilink"
+<a href="Category:Organisational_Theory.md" class="wikilink"
 title="Category:Organisational Theory">Category:Organisational
-Theory</a> "<a   href="Category:Marxist-Leninism.md" class="wikilink"
+Theory</a> <a href="Category:Marxist-Leninism.md" class="wikilink"
 title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Scott Nappalos, "Democratic Centralism in Practice and Idea"

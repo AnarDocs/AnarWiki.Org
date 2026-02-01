@@ -1,4 +1,4 @@
-"<a   href="Wikipedia:Riseup.md" class="wikilink" title="Riseup">Riseup</a> is
+<a href="Wikipedia:Riseup.md" class="wikilink" title="Riseup">Riseup</a> is
 a Seattle-based collective with members worldwide who provide free
 privacy-respecting communication infrastructure including email[^1],
 file sharing[^2], document editing,[^3] and social networking.[^4]
@@ -86,7 +86,7 @@ December 2017:
 
 <references/>
 
-"<a   href="Category:Technology.md" class="wikilink"
+<a href="Category:Technology.md" class="wikilink"
 title="Category:Technology">Category:Technology</a>
 
 [^1]: <https://riseup.net/en/email>

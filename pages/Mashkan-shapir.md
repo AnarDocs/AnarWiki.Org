@@ -26,9 +26,9 @@ David Graeber and David Wengrow summarize:
 
 <references/>
 
-"<a   href="Category:Mesopotamia.md" class="wikilink"
+<a href="Category:Mesopotamia.md" class="wikilink"
 title="Category:Mesopotamia">Category:Mesopotamia</a>
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 

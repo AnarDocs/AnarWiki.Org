@@ -54,11 +54,11 @@ master apart from God."[^7]
 
 <references/>
 
-"<a   href="Category:Islam.md" class="wikilink"
+<a href="Category:Islam.md" class="wikilink"
 title="Category:Islam">Category:Islam</a>
-"<a   href="Category:Religion.md" class="wikilink"
+<a href="Category:Religion.md" class="wikilink"
 title="Category:Religion">Category:Religion</a>
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 

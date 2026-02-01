@@ -135,7 +135,7 @@ land.[^15]
 # Neighboring Societies
 
 In precolonial times, the Nishnabeeg signed a treaty with the
-"<a   href="Haudenosaunee.md" class="wikilink"
+<a href="Haudenosaunee.md" class="wikilink"
 title="Haudenosaunee">Haudenosaunee</a> called Gdoo-naaganinaa, meaning
 "Our dish." The treaty recognized the fact that the two parties ate from
 a shared "dish" since they shared hunting areas and overlapping plant
@@ -146,11 +146,11 @@ meetings and rituals.[^16]
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Leanne Simpson, "Looking after Gdoo-naaganinaa: Precolonial

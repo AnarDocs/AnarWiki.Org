@@ -1,26 +1,26 @@
 The **Rebel Zapatista Autonomous Municipalities** or **Municipios
 Autónomos Rebel des Zapatistas** (**MAREZ**) are an
-"<a   href="List_of_Anarchist_Societies.md" class="wikilink"
+<a href="List_of_Anarchist_Societies.md" class="wikilink"
 title="autonomous society">autonomous society</a> within the Mexican
 state that emerged as a result of the
-"<a   href="Zapatista_Revolution.md" class="wikilink"
+<a href="Zapatista_Revolution.md" class="wikilink"
 title="Zapatista Revolution">Zapatista Revolution</a> in
-"<a   href="Timeline_of_Anarchism.md" class="wikilink" title="1994">1994</a>
+<a href="Timeline_of_Anarchism.md" class="wikilink" title="1994">1994</a>
 inspired by the
-"<a   href="Indigenism.md" class="wikilink" title="indigenist">indigenist</a>
-ideology of "<a   href="Neo-Zapatismo.md" class="wikilink"
+<a href="Indigenism.md" class="wikilink" title="indigenist">indigenist</a>
+ideology of <a href="Neo-Zapatismo.md" class="wikilink"
 title="Neo-Zapatismo">Neo-Zapatismo</a>. They control roughly a third of
-the "<a   href="Mexico.md" class="wikilink" title="Mexican">Mexican</a> state
+the <a href="Mexico.md" class="wikilink" title="Mexican">Mexican</a> state
 of Chiapas with a population of around 360,000 people.[^1]
 
 ## Decision-Making
 
 At a local level, people attend a
-"<a   href="Democratic_Assembly.md" class="wikilink"
+<a href="Democratic_Assembly.md" class="wikilink"
 title="popular assembly">popular assembly</a> of around 300 families
 where anyone over the age of 12 can participate in decision-making,
 these assemblies strive to reach a
-"<a   href="consensus.md" class="wikilink" title="consensus">consensus</a> but
+<a href="consensus.md" class="wikilink" title="consensus">consensus</a> but
 are willing to fall back to a majority vote.
 
 Each community has 3 main administrative structures: (1) the
@@ -29,7 +29,7 @@ for land control*, which deals with forestry and disputes with
 neighboring communities; and (3) the *agencia*, a community police
 agency.
 
-The communities form a "<a   href="confederation.md" class="wikilink"
+The communities form a <a href="confederation.md" class="wikilink"
 title="confederation">confederation</a> with other communities to create
 an autonomous municipalities, which form further confederations with
 other municipalities to create a region. The Zapatistas are composed of
@@ -49,7 +49,7 @@ government' or 'autonomous government') as well as various multinational
 banks and corporations, drug cartels, fascist groups, the CIA (who
 support Mexico and cartels on behalf of the US). All of these tensions
 and occasional violent confrontations are known as the
-"<a   href="Chiapas_Conflict.md" class="wikilink"
+<a href="Chiapas_Conflict.md" class="wikilink"
 title="Chiapas Conflict">Chiapas Conflict</a>.
 
 Entry to the Zapatista Communities is quite easy provided you can get
@@ -62,35 +62,35 @@ into Mexico and Chiapas, according to one visitor of the communities:
 ## Crime
 
 Each community has an autonomous police agency (agencia), more akin to a
-"<a   href="Neighborhood_Watch.md" class="wikilink"
+<a href="Neighborhood_Watch.md" class="wikilink"
 title="neighborhood watch">neighborhood watch</a>, and a judicial
 council. There is almost no
-"<a   href="crime.md" class="wikilink" title="crime">crime</a> and
-"<a   href="prison.md" class="wikilink" title="prison">prison</a> population,
-due to an emphasis on "<a   href="Restorative_Justice.md" class="wikilink"
+<a href="crime.md" class="wikilink" title="crime">crime</a> and
+<a href="prison.md" class="wikilink" title="prison">prison</a> population,
+due to an emphasis on <a href="Restorative_Justice.md" class="wikilink"
 title="restorative">restorative</a> and
-"<a   href="Transformative_Justice.md" class="wikilink"
+<a href="Transformative_Justice.md" class="wikilink"
 title="transformative justice">transformative justice</a> over
-"<a   href="Punitive_Justice.md" class="wikilink"
+<a href="Punitive_Justice.md" class="wikilink"
 title="punitive justice">punitive justice</a> and due to
-"<a   href="Commons.md" class="wikilink" title="common ownership">common
+<a href="Commons.md" class="wikilink" title="common ownership">common
 ownership</a> of land preventing
-"<a   href="hunger.md" class="wikilink" title="hunger">hunger</a>, the
-"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+<a href="hunger.md" class="wikilink" title="hunger">hunger</a>, the
+<a href="Workers&#39;_Self-Management.md" class="wikilink"
 title="control of work">control of work</a> and
-"<a   href="Democratic_Education.md" class="wikilink"
+<a href="Democratic_Education.md" class="wikilink"
 title="education">education</a>. The only two people in jail (in a
 society of 360,000, which means they have the lowest prisoner population
 per capita in the world) are in jail for being admitted foreign agents
 planting marijuana crops to justify military incursions into their
 communities using the
-"<a   href="War_on_Drugs.md" class="wikilink" title="war on drugs">war on
+<a href="War_on_Drugs.md" class="wikilink" title="war on drugs">war on
 drugs</a> as a pretext.[^4]
 
 ## Economy
 
 The economy is mainly composed of
-"<a   href="Worker_Cooperative.md" class="wikilink"
+<a href="Worker_Cooperative.md" class="wikilink"
 title="worker cooperatives">worker cooperatives</a>, family farms and
 community stores with the councils of good government providing
 low-interest loans, free education, radio stations and health-care to
@@ -98,7 +98,7 @@ communities. The economy is largely self-reliant and agricultural,
 producing mainly corn, beans, coffee, bananas, sugar, cattle, chickens,
 pigs and clothing at cooperatives. The communities have abolished
 private (but not personal) ownership of property and instituted a system
-of "<a   href="Commons.md" class="wikilink"
+of <a href="Commons.md" class="wikilink"
 title="common ownership of land">common ownership of land</a>, and they
 sell over \$44 million worth of goods to international markets each
 year.[^5]
@@ -109,7 +109,7 @@ year.[^5]
 
 The Zapatistas run hundreds of schools with thousands of teachers
 modeled around the principles of
-"<a   href="Democratic_Education.md" class="wikilink"
+<a href="Democratic_Education.md" class="wikilink"
 title="democratic educatio">democratic education</a> where students and
 communities collectively decide on school curriculum and students are
 not subjects to grading. On average, the Zapatistas have more schools
@@ -241,56 +241,56 @@ In terms of LGBT rights:
 
 ## See Also
 
-- "<a   href="Zapatista_Army_of_National_Liberation.md" class="wikilink"
+- <a href="Zapatista_Army_of_National_Liberation.md" class="wikilink"
   title="Zapatista Army of National Liberation">Zapatista Army of National
   Liberation</a>
-- "<a   href="Zapatista_Revolution.md" class="wikilink"
+- <a href="Zapatista_Revolution.md" class="wikilink"
   title="Zapatista Revolution">Zapatista Revolution</a>
-- "<a   href="Neo-Zapatismo.md" class="wikilink"
+- <a href="Neo-Zapatismo.md" class="wikilink"
   title="Neo-Zapatismo">Neo-Zapatismo</a>
-- "<a   href="Zapatismo.md" class="wikilink" title="Zapatismo">Zapatismo</a>
-- "<a   href="Chiapas_Conflict.md" class="wikilink"
+- <a href="Zapatismo.md" class="wikilink" title="Zapatismo">Zapatismo</a>
+- <a href="Chiapas_Conflict.md" class="wikilink"
   title="Chiapas Conflict">Chiapas Conflict</a>
-- "<a   href="Mexican_Revolution.md" class="wikilink"
+- <a href="Mexican_Revolution.md" class="wikilink"
   title="Mexican Revolution">Mexican Revolution</a>
-- "<a   href="Mexico.md" class="wikilink" title="Mexico">Mexico</a>
-- "<a   href="Morelos_Commune.md" class="wikilink"
+- <a href="Mexico.md" class="wikilink" title="Mexico">Mexico</a>
+- <a href="Morelos_Commune.md" class="wikilink"
   title="Morelos Commune">Morelos Commune</a>
 
 ## References
 
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Zapatismo.md" class="wikilink"
+Socialism</a> <a href="Category:Zapatismo.md" class="wikilink"
 title="Category:Zapatismo">Category:Zapatismo</a>
-"<a   href="Category:Indigenism.md" class="wikilink"
+<a href="Category:Indigenism.md" class="wikilink"
 title="Category:Indigenism">Category:Indigenism</a>
-"<a   href="Category:Mexico.md" class="wikilink"
+<a href="Category:Mexico.md" class="wikilink"
 title="Category:Mexico">Category:Mexico</a>
-"<a   href="Category:Societies.md" class="wikilink"
+<a href="Category:Societies.md" class="wikilink"
 title="Category:Societies">Category:Societies</a>
-"<a   href="Category:Central_America.md" class="wikilink"
+<a href="Category:Central_America.md" class="wikilink"
 title="Category:Central America">Category:Central America</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America.md" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:Latin_America.md" class="wikilink"
+<a href="Category:Latin_America.md" class="wikilink"
 title="Category:Latin America">Category:Latin America</a>
-"<a   href="Category:Anarchist_Societies.md" class="wikilink"
+<a href="Category:Anarchist_Societies.md" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-"<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Current_Anarchist_Societies.md" class="wikilink"
 title="Category:Current Anarchist Societies">Category:Current Anarchist
-Societies</a> "<a   href="Category:1994.md" class="wikilink"
+Societies</a> <a href="Category:1994.md" class="wikilink"
 title="Category:1994">Category:1994</a>
-"<a   href="Category:1990s.md" class="wikilink"
+<a href="Category:1990s.md" class="wikilink"
 title="Category:1990s">Category:1990s</a>
-"<a   href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century.md" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-"<a   href="Category:Zapatistas.md" class="wikilink"
+<a href="Category:Zapatistas.md" class="wikilink"
 title="Category:Zapatistas">Category:Zapatistas</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
-[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^1]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Rebel_Zapatista_Autonomous_Municipalities>
 
 [^2]: Niels Barmeyer (2009) Developing Zapatista Autonomy: Conflict and
@@ -305,8 +305,9 @@ title="Category:Featured">Category:Featured</a>
 [^5]: *Resistencia Autónoma: Cuaderno de texto de primer grado del curso
     de "La Libertad según l@s Zapatistas"*, 6-13.
 
-[^6]: "<a   href="Raúl_Zibechi.md" class="wikilink" title="Raúl Zibechi">Raúl
-    Zibechi</a> (2012) "<a   href="Territories_in_Resistance:_A_Cartography_of_Latin_American_Social_Movements.md"
+[^6]: <a href="Raúl_Zibechi.md" class="wikilink" title="Raúl Zibechi">Raúl
+    Zibechi</a> (2012) <a
+    href="Territories_in_Resistance:_A_Cartography_of_Latin_American_Social_Movements.md"
     class="wikilink"
     title="Territories in Resistance: A Cartography of Latin American Social Movements">Territories
     in Resistance: A Cartography of Latin American Social Movements</a>
@@ -328,7 +329,7 @@ title="Category:Featured">Category:Featured</a>
     Scarcity in
     Chiapas](https://schoolsforchiapas.org/development-and-extraction-water-scarcity-in-chiapas/)
 
-[^13]: "<a   href="Schools_for_Chiapas.md" class="wikilink"
+[^13]: <a href="Schools_for_Chiapas.md" class="wikilink"
     title="Schools for Chiapas">Schools for Chiapas</a> - [Neem: The
     People's
     Pharmacy](https://schoolsforchiapas.org/advances/sustainable-agriculture/trees/neem/)

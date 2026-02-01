@@ -118,13 +118,13 @@ control of Tabor in 1452.[^19]
 
 <references/>
 
-"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Christian_Anarchists.md" class="wikilink"
+<a href="Category:Christian_Anarchists" class="wikilink"
 title="Category:Christian Anarchists">Category:Christian Anarchists</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Norman Cohn, *The Pursuit of the Millennium: Revolutionary
@@ -140,7 +140,7 @@ title="Category:Featured">Category:Featured</a>
 [^5]: Cohn, *The Pursuit of the Millennium*, 215, 217.
 
 [^6]: Peter Marshall,
-    "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
+    <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
     class="wikilink"
     title="Demanding the Impossible: A History of Anarchism">Demanding the
     Impossible: A History of Anarchism</a> (London: HarperPerennial,
@@ -157,7 +157,7 @@ title="Category:Featured">Category:Featured</a>
     2004), 55n.
 
 [^11]: Marshall,
-    "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
+    <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
     class="wikilink"
     title="Demanding the Impossible: A History of Anarchism">Demanding the
     Impossible: A History of Anarchism</a>, 92. Cohn, *The Pursuit of

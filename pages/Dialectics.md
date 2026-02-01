@@ -6,7 +6,7 @@
 development through contradiction and the resolution of opposing forces.
 While dialectical thinking has ancient roots, it became central to
 Marxist philosophy through Karl Marx's appropriation and transformation
-of "<a   href="Georg_Wilhelm_Friedrich_Hegel.md" class="wikilink"
+of <a href="Georg_Wilhelm_Friedrich_Hegel.md" class="wikilink"
 title="Georg Wilhelm Friedrich Hegel">Georg Wilhelm Friedrich Hegel</a>'s
 idealist dialectics into what he claimed was a materialist framework.
 Marx asserted he had "turned Hegel right-side up" by grounding
@@ -25,10 +25,10 @@ claim to understand the "laws of history."
 
 Dialectics as a philosophical method traces back to ancient Greece,
 particularly to
-"<a   href="Heraclitus.md" class="wikilink" title="Heraclitus">Heraclitus</a>
+<a href="Heraclitus.md" class="wikilink" title="Heraclitus">Heraclitus</a>
 who argued that "everything flows" and emphasized the unity of
 opposites, and to
-"<a   href="Plato.md" class="wikilink" title="Plato">Plato</a>'s dialectical
+<a href="Plato.md" class="wikilink" title="Plato">Plato</a>'s dialectical
 method in the Dialogues featuring Socratic questioning.[^2] However,
 modern dialectics is most associated with the German idealist
 philosopher G.W.F. Hegel.
@@ -49,7 +49,7 @@ or ideal forces.
 ### Marx's "Materialist" Transformation
 
 Karl Marx, initially a
-"<a   href="Young_Hegelian.md" class="wikilink" title="Young Hegelian">Young
+<a href="Young_Hegelian.md" class="wikilink" title="Young Hegelian">Young
 Hegelian</a>, claimed to have fundamentally transformed Hegel's
 dialectics by making it materialist rather than idealist. In the
 postface to the second edition of Capital, Marx wrote:
@@ -65,11 +65,11 @@ but in material phenomena, particularly in economic relations such as
 the conflict between capital and labor. He proposed that dialectical
 analysis could resolve these material contradictions through
 understanding how systems of
-"<a   href="social_organization.md" class="wikilink"
+<a href="social_organization.md" class="wikilink"
 title="social organization">social organization</a> are structured by
 modes of production.
 
-"<a   href="Friedrich_Engels.md" class="wikilink"
+<a href="Friedrich_Engels.md" class="wikilink"
 title="Friedrich Engels">Friedrich Engels</a> later systematized
 dialectical materialism in works like *Dialectics of Nature* and
 *Anti-Dühring*, formulating three "laws" of dialectics:
@@ -182,11 +182,11 @@ than liberation.[^14]
 
 ### Fatalism and Determinism
 
-"<a   href="Errico_Malatesta.md" class="wikilink"
+<a href="Errico_Malatesta.md" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> provided one of the most
 penetrating anarchist critiques of dialectical materialism, seeing it as
 just as fatalistic as Hegelian idealism. He criticized
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> for falling into "mechanistic fatalism" by attempting to
 make anarchism scientifically inevitable through dialectical reasoning,
 arguing this removes human will and choice from history.[^15]
@@ -205,7 +205,7 @@ of accelerating or protecting "inevitable" historical development.
 
 ### Bakunin's Rejection
 
-"<a   href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin.md" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a>, initially influenced by
 Hegelian dialectics as a left Hegelian, later rejected dialectical
 necessity—the idea that contradictions must resolve in predetermined
@@ -221,7 +221,7 @@ justification for the dictatorship of intellectuals over workers.
 
 ### Proudhon's Alternative
 
-"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> developed his
 own use of dialectical reasoning but without Hegelian metaphysical
 baggage. His concept of "antinomies" showed contradictions without
@@ -229,7 +229,7 @@ claiming they resolved in predetermined ways or followed inexorable
 historical laws.
 
 Proudhon's famous statement that
-""<a   href="property.md" class="wikilink" title="property">property</a> is
+"<a href="property.md" class="wikilink" title="property">property</a> is
 theft" AND property is necessary exemplifies this approach. The
 contradiction doesn't resolve into a neat synthesis but must be managed
 through practical arrangements. This represents dialectical thinking
@@ -412,7 +412,7 @@ materialism:
 
 **Kropotkin** attempted to ground anarchist theory in biology and
 anthropology, particularly through his concept of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 in evolution, though Malatesta criticized this as its own form of
 determinism.
 
@@ -530,7 +530,7 @@ domination as they arise. There is no point at which the struggle ends
 because the "correct" stage of history has been reached.
 
 This perspective explains anarchism's emphasis on
-**"<a   href="prefigurative_politics.md" class="wikilink"
+**<a href="prefigurative_politics.md" class="wikilink"
 title="prefigurative politics">prefigurative politics</a>**—the
 principle that means must match ends. Since the process of struggle
 shapes its outcomes, one cannot use hierarchical domination to achieve
@@ -618,7 +618,7 @@ than adherence to a single correct line.
 ### Analytical Philosophy as an Anarchist Alternative
 
 Some anarchist thinkers such as
-"<a   href="Alan_Carter.md" class="wikilink" title="Alan Carter">Alan
+<a href="Alan_Carter.md" class="wikilink" title="Alan Carter">Alan
 Carter</a>[^28] have turned to analytical philosophy as an explicit
 alternative to dialectical reasoning. Analytical philosophy emphasizes
 clarity of expression, logical rigor, precise definitions, and empirical
@@ -771,17 +771,17 @@ inexorable historical laws.
   libertarian Marxists, P.
   Murtaugh](https://theanarchistlibrary.org/library/p-murtaugh-the-end-of-dialectical-materialism-an-anarchist-reply-to-the-libertarian-marxists)
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Marxism.md" class="wikilink"
+<a href="Category:Marxism.md" class="wikilink"
 title="Category:Marxism">Category:Marxism</a>
-"<a   href="Category:Philosophy.md" class="wikilink"
+<a href="Category:Philosophy.md" class="wikilink"
 title="Category:Philosophy">Category:Philosophy</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts.md" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

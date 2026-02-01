@@ -1,4 +1,4 @@
-The "<a   href="Wikipedia:Situationist_International.md" class="wikilink"
+The <a href="Wikipedia:Situationist_International" class="wikilink"
 title="Situationist International">Situationist International</a> was a
 libertarian Marxist group, based primarily in France from 1957 to 1972,
 that criticized the consumerist “society of the spectacle” and played a
@@ -133,11 +133,11 @@ functioned as strikebreakers."[^14]
 
 <references/>
 
-"<a   href="Category:Libertarian_Marxism.md" class="wikilink"
+<a href="Category:Libertarian_Marxism" class="wikilink"
 title="Category:Libertarian Marxism">Category:Libertarian Marxism</a>
-"<a   href="Category:France.md" class="wikilink"
+<a href="Category:France" class="wikilink"
 title="Category:France">Category:France</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Situationist International, "The Beginning of An Era", originally

@@ -4,10 +4,10 @@
 
 ***Bolo'bolo*** is a 1983 book by **P.M.**, a pseudonym for **Hans
 Widmer**, in which he outlines a plan for
-"<a   href="utopia.md" class="wikilink" title="utopia">utopia</a>. The work
+<a href="utopia.md" class="wikilink" title="utopia">utopia</a>. The work
 presents both a critique of the current world system and a detailed
 blueprint for an alternative
-"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 society based on decentralized intentional communities. P.M. describes
 his vision as "part of (my) second reality" - a subjective alternative
 to the dominant industrial civilization that could be realized globally
@@ -65,7 +65,7 @@ establishment of autonomous regions.
 The remainder of the work describes the theoretical future social order
 using a constructed vocabulary. An **ibu** is an individual person or
 ego - the basic human unit in the system. A **bolo** is an
-"<a   href="intentional_community.md" class="wikilink"
+<a href="intentional_community.md" class="wikilink"
 title="intentional community">intentional community</a> of 300-500 ibus
 that serves as the basic unit of social organization, typically
 occupying one or two city blocks, a smaller neighborhood, or a complex
@@ -162,17 +162,17 @@ P.M. presents a detailed schedule for transition:
 
 <references/>
 
-"<a   href="Category:Anarchist_books.md" class="wikilink"
+<a href="Category:Anarchist_books.md" class="wikilink"
 title="Category:Anarchist books">Category:Anarchist books</a>
-"<a   href="Category:Books.md" class="wikilink"
+<a href="Category:Books.md" class="wikilink"
 title="Category:Books">Category:Books</a>
-"<a   href="Category:Anarchist_Non-Fiction.md" class="wikilink"
+<a href="Category:Anarchist_Non-Fiction.md" class="wikilink"
 title="Category:Anarchist Non-Fiction">Category:Anarchist
-Non-Fiction</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+Non-Fiction</a> <a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+<a href="Category:Anarchist_Utopias.md" class="wikilink"
 title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-"<a   href="Category:Utopian_Fiction.md" class="wikilink"
+<a href="Category:Utopian_Fiction.md" class="wikilink"
 title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

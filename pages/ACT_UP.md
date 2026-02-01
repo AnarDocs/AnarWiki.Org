@@ -4,7 +4,7 @@
 </figure>
 
 Founded in New York in 1987, AIDS Coalition to Unleash Power
-"<a   href="Wikipedia:ACT_UP.md" class="wikilink" title="(ACT UP)">(ACT
+<a href="Wikipedia:ACT_UP.md" class="wikilink" title="(ACT UP)">(ACT
 UP)</a> is a direct action network that seeks to end the AIDS crisis.
 ACT UP's strategy during their heyday involved: "nonviolent civil
 disobedience, inside-outside strategic positioning (protesting and

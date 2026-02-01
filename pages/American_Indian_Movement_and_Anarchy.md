@@ -16,12 +16,12 @@ Dakota. WARN took over leadership roles once leading men in AIM were
 targeted by the U.S. government. WARN participated in the Wounded Knee
 uprising among collaborations with AIM.[^2] AIM was also in the Rainbow
 Coalition with the
-"<a   href="Black_Panther_Party_and_Anarchy.md" class="wikilink"
+<a href="Black_Panther_Party_and_Anarchy.md" class="wikilink"
 title="Black Panther Party">Black Panther Party</a>, Young Lords, and
 Chicano Crusade for Justice among other groups.[^3]
 
 AIM’s historic high-profile actions included participation in the 1969
-"<a   href="Alcatraz_occupation.md" class="wikilink"
+<a href="Alcatraz_occupation.md" class="wikilink"
 title="Alcatraz occupation">Alcatraz occupation</a>, the 1972 Trail of
 Broken Treaties, the 1973 siege of Wounded Knee, and the 1975 Ogala
 shootout. In the 1990s, AIM split into two factions. The website of the
@@ -62,7 +62,7 @@ organization:
 # Alcatraz occupation
 
 AIM members participated in the 1969-1971
-"<a   href="Alcatraz_occupation.md" class="wikilink"
+<a href="Alcatraz_occupation.md" class="wikilink"
 title="occupation of Alcatraz Island">occupation of Alcatraz Island</a>
 in the San Francisco Bay. Organizing as “Indians of All Tribes,”
 hundreds of occupiers organized classes and protests, bringing worldwide

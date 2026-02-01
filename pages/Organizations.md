@@ -7,54 +7,54 @@
 ![](Up9thCommonGround7Feb06ClothesTent.jpg "Up9thCommonGround7Feb06ClothesTent.jpg")
 distribution center\]\]
 
-- "<a   href="ACT_UP.md" class="wikilink" title="ACT UP">ACT UP</a>
-- "<a   href="Bruderhof_factories.md" class="wikilink"
+- <a href="ACT_UP.md" class="wikilink" title="ACT UP">ACT UP</a>
+- <a href="Bruderhof_factories.md" class="wikilink"
   title="Bruderhof factories">Bruderhof factories</a>
-- "<a   href="Common_Ground_Collective.md" class="wikilink"
+- <a href="Common_Ground_Collective.md" class="wikilink"
   title="Common Ground Collective">Common Ground Collective</a>
-- "<a   href="Cooperation_Jackson.md" class="wikilink"
+- <a href="Cooperation_Jackson.md" class="wikilink"
   title="Cooperation Jackson">Cooperation Jackson</a>
-- "<a   href="Wikipedia:Libertarian_Youth.md" class="wikilink"
+- <a href="Wikipedia:Libertarian_Youth.md" class="wikilink"
   title="Libertarian Youth Federation of Iberia (FIJL)">Libertarian Youth
   Federation of Iberia (FIJL)</a>
-- "<a   href="Riseup.md" class="wikilink" title="Riseup">Riseup</a>
-- "<a   href="Shamrik_Mukti_Dal.md" class="wikilink"
+- <a href="Riseup.md" class="wikilink" title="Riseup">Riseup</a>
+- <a href="Shamrik_Mukti_Dal.md" class="wikilink"
   title="Shamrik Mukti Dal">Shamrik Mukti Dal</a>
-- "<a   href="Yippies.md" class="wikilink" title="Yippies">Yippies</a>
+- <a href="Yippies.md" class="wikilink" title="Yippies">Yippies</a>
 
 ## Workers Unions
 
 - Aid Group for the Libertarians and Independent Syndicalists in Cuba
   (GALSIC)[^1]
-- "<a   href="Wikipedia:Alliance_for_Workers%27_Liberty.md" class="wikilink"
+- <a href="Wikipedia:Alliance_for_Workers%27_Liberty.md" class="wikilink"
   title="Autonomous Workers&#39; League (AWL)">Autonomous Workers' League
   (AWL)</a>
-- "<a   href="Wikipedia:Free_Union_(anarchist_organisation).md" class="wikilink"
+- <a href="Wikipedia:Free_Union_(anarchist_organisation).md" class="wikilink"
   title="Free Union -Dutch- (Independent League of Trade Unions OVB)">Free
   Union -Dutch- (Independent League of Trade Unions OVB)</a>
-- "<a   href="Wikipedia:General_Confederation_of_Labour_(France).md"
+- <a href="Wikipedia:General_Confederation_of_Labour_(France).md"
   class="wikilink"
   title="General Confederation of Labour -French- (CGT), 230,000 members in 1906">General
   Confederation of Labour -French- (CGT), 230,000 members in 1906</a>
 - [General Workers' Federation (GFP), 40,000
   members](https://www.facebook.com/profile.php?id=100057279766896)
-- "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+- <a href="Industrial_Workers_of_the_World.md" class="wikilink"
   title="Industrial Workers of the World">Industrial Workers of the
   World</a>
-  "<a   href="Wikipedia:Industrial_Workers_of_the_World.md" class="wikilink"
+  <a href="Wikipedia:Industrial_Workers_of_the_World.md" class="wikilink"
   title="(IWW)">(IWW)</a>
-- "<a   href="Wikipedia:Unione_Sindacale_Italiana.md" class="wikilink"
+- <a href="Wikipedia:Unione_Sindacale_Italiana.md" class="wikilink"
   title="Italian Syndicalist Union (USI)">Italian Syndicalist Union
   (USI)</a>
-- "<a   href="Wikipedia:Confederación_Nacional_del_Trabajo.md" class="wikilink"
+- <a href="Wikipedia:Confederación_Nacional_del_Trabajo.md" class="wikilink"
   title="National Convention of Workers (CNT), 400,000 members in 1972">National
   Convention of Workers (CNT), 400,000 members in 1972</a>
-- "<a   href="Wikipedia:Solidarity_(Polish_trade_union).md" class="wikilink"
+- <a href="Wikipedia:Solidarity_(Polish_trade_union).md" class="wikilink"
   title="Solidarity (Polish Trade Union)">Solidarity (Polish Trade
   Union)</a>
 - [Solidarity Union Democracy -French-
   (SUD)](https://www.sud-afp.org/?lang=en)
-- "<a   href="Wikipedia:Solidarity_Federation.md" class="wikilink"
+- <a href="Wikipedia:Solidarity_Federation.md" class="wikilink"
   title="Syndicalist Workers&#39; Federation (SWF)">Syndicalist Workers'
   Federation (SWF)</a>
 
@@ -73,37 +73,37 @@ a transformative justice collective.\]\]
 
 ![](Flag_of_Yippies.svg "Flag_of_Yippies.svg")\]\]
 
-- "<a   href="Arditi_del_Popolo.md" class="wikilink"
+- <a href="Arditi_del_Popolo.md" class="wikilink"
   title="Arditi del Popolo">Arditi del Popolo</a>
-- "<a   href="Combahee_River_Collective.md" class="wikilink"
+- <a href="Combahee_River_Collective.md" class="wikilink"
   title="Combahee River Collective">Combahee River Collective</a>
-- "<a   href="Jane.md" class="wikilink" title="Jane">Jane</a>
-- "<a   href="Libertarian_Socialist_Institute.md" class="wikilink"
+- <a href="Jane.md" class="wikilink" title="Jane">Jane</a>
+- <a href="Libertarian_Socialist_Institute.md" class="wikilink"
   title="Libertarian Socialist Institute">Libertarian Socialist
   Institute</a>
-- "<a   href="MOVE.md" class="wikilink" title="MOVE">MOVE</a>
-- "<a   href="Philly_Stands_Up.md" class="wikilink"
+- <a href="MOVE.md" class="wikilink" title="MOVE">MOVE</a>
+- <a href="Philly_Stands_Up.md" class="wikilink"
   title="Philly Stands Up">Philly Stands Up</a>
-- "<a   href="Philly&#39;s_Pissed.md" class="wikilink"
+- <a href="Philly&#39;s_Pissed.md" class="wikilink"
   title="Philly&#39;s Pissed">Philly's Pissed</a>
-- "<a   href="San_Francisco_Diggers.md" class="wikilink"
+- <a href="San_Francisco_Diggers.md" class="wikilink"
   title="San Francisco Diggers">San Francisco Diggers</a>
-- "<a   href="Situationist_International.md" class="wikilink"
+- <a href="Situationist_International.md" class="wikilink"
   title="Situationist International">Situationist International</a>
-- "<a   href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
+- <a href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
   title="Student Nonviolent Coordinating Committee">Student Nonviolent
   Coordinating Committee</a>
-- "<a   href="Young_Negroes&#39;_Cooperative_League.md" class="wikilink"
+- <a href="Young_Negroes&#39;_Cooperative_League.md" class="wikilink"
   title="Young Negroes&#39; Cooperative League">Young Negroes' Cooperative
   League</a>
-- "<a   href="Revolutionary_Anarchist_Federation(Turkey).md" class="wikilink"
+- <a href="Revolutionary_Anarchist_Federation(Turkey).md" class="wikilink"
   title="Revolutionary Anarchist Federation(Turkey)">Revolutionary
   Anarchist Federation(Turkey)</a>
 
-## "<a   href="Historical_Workers_Unions.md" class="wikilink"
+## <a href="Historical_Workers_Unions.md" class="wikilink"
 title="Workers Unions">Workers Unions</a>
 
-"<a   href="Historical_Workers_Unions.md" class="wikilink"
+<a href="Historical_Workers_Unions.md" class="wikilink"
 title="Follow for a list of Workers Unions throughout history">Follow
 for a list of Workers Unions throughout history</a>
 
@@ -122,80 +122,80 @@ title="Woman_with_cnt-fai_flag.jpg" />
 ![](Wall_st_is_war_st.jpg "Wall_st_is_war_st.jpg")/Up Against the Wall
 Motherfuckers\]\]
 
-"<a   href="Anti-Authoritarian_International.md" class="wikilink"
+<a href="Anti-Authoritarian_International.md" class="wikilink"
 title="Anti-Authoritarian International">Anti-Authoritarian
 International</a> ("Black International")
 
-"<a   href="Black_Mask.md" class="wikilink" title="Black Mask">Black Mask</a>/
+<a href="Black_Mask.md" class="wikilink" title="Black Mask">Black Mask</a>/
 Up Against the Wall Motherfuckers
 
-"<a   href="Burlington_Greens.md" class="wikilink"
+<a href="Burlington_Greens.md" class="wikilink"
 title="Burlington Greens">Burlington Greens</a>
 
-"<a   href="Fraternity_of_the_Red_Flag.md" class="wikilink"
+<a href="Fraternity_of_the_Red_Flag.md" class="wikilink"
 title="Fraternity of the Red Flag">Fraternity of the Red Flag</a>
 
-"<a   href="Freedom_Fight.md" class="wikilink" title="Freedom Fight">Freedom
+<a href="Freedom_Fight.md" class="wikilink" title="Freedom Fight">Freedom
 Fight</a>
 
-"<a   href="Free_Popular_University_(Egypt).md" class="wikilink"
+<a href="Free_Popular_University_(Egypt).md" class="wikilink"
 title="Free Popular University (Egypt)">Free Popular University
 (Egypt)</a>
 
-"<a   href="Guangzhou_commune.md" class="wikilink"
+<a href="Guangzhou_commune.md" class="wikilink"
 title="Teahouse Labour Union">Teahouse Labour Union</a>, 11,000 members
 in 1918
 
-"<a   href="Guangzhou_commune.md" class="wikilink"
+<a href="Guangzhou_commune.md" class="wikilink"
 title="Crock-Cow Society">Crock-Cow Society</a>
 
-"<a   href="International_Workers&#39;_Association.md" class="wikilink"
+<a href="International_Workers&#39;_Association.md" class="wikilink"
 title="International Workers&#39; Association">International Workers'
 Association</a> (IWA)
 
-"<a   href="International_Working_Men’s_Association.md" class="wikilink"
+<a href="International_Working_Men’s_Association.md" class="wikilink"
 title="International Working Men’s Association">International Working
 Men’s Association</a> (IWMA)
 
-"<a   href="Jugoremedija.md" class="wikilink"
+<a href="Jugoremedija.md" class="wikilink"
 title="Jugoremedija">Jugoremedija</a>
 
-"<a   href="Shinmin_Prefecture.md" class="wikilink"
+<a href="Shinmin_Prefecture.md" class="wikilink"
 title="Korean Anarchist Communist Federation">Korean Anarchist Communist
 Federation</a> (KACF)
 
-"<a   href="Shinmin_Prefecture.md" class="wikilink"
+<a href="Shinmin_Prefecture.md" class="wikilink"
 title="Korean Anarchist Federation in Manchuria">Korean Anarchist
 Federation in Manchuria</a> (KAF-M)
 
-"<a   href="Mujeres_Creando.md" class="wikilink"
+<a href="Mujeres_Creando.md" class="wikilink"
 title="Mujeres Creando">Mujeres Creando</a>
 
 National Confederation of Labor (CNT), 2 million members in 1936
 
-"<a   href="Schwarze_Scharen.md" class="wikilink"
+<a href="Schwarze_Scharen.md" class="wikilink"
 title="Schwarze Scharen">Schwarze Scharen</a>
 
-"<a   href="US_Green_movement.md" class="wikilink"
+<a href="US_Green_movement.md" class="wikilink"
 title="Left Green Network">Left Green Network</a>
 
-"<a   href="US_Green_movement.md" class="wikilink" title="Youth Greens">Youth
+<a href="US_Green_movement.md" class="wikilink" title="Youth Greens">Youth
 Greens</a>
 
-"<a   href="Conspiracy_of_Fire_Nuclei.md" class="wikilink"
+<a href="Conspiracy_of_Fire_Nuclei.md" class="wikilink"
 title="Conspiracy of Fire Nuclei">Conspiracy of Fire Nuclei</a>
 
-"<a   href="Informal_Anarchist_Federation.md" class="wikilink"
+<a href="Informal_Anarchist_Federation.md" class="wikilink"
 title="Informal Anarchist Federation">Informal Anarchist Federation</a>
 
-"<a   href="Anarchist_Struggle.md" class="wikilink"
+<a href="Anarchist_Struggle.md" class="wikilink"
 title="Anarchist Struggle">Anarchist Struggle</a>
 
-"<a   href="The_Queer_Insurrection_and_Liberation_Army.md" class="wikilink"
+<a href="The_Queer_Insurrection_and_Liberation_Army.md" class="wikilink"
 title="The Queer Insurrection and Liberation Army">The Queer
 Insurrection and Liberation Army</a>
 
-"<a   href="International_Revolutionary_People&#39;s_Guerrilla_Forces.md"
+<a href="International_Revolutionary_People&#39;s_Guerrilla_Forces.md"
 class="wikilink"
 title="International Revolutionary People&#39;s Guerrilla Forces">International
 Revolutionary People's Guerrilla Forces</a>
@@ -426,26 +426,26 @@ Wiyathi Collective within the Anti-Capitalist Convergence
 
 ![](BPP.jpg "BPP.jpg")\]\]
 
-"<a   href="American_Indian_Movement_and_Anarchy.md" class="wikilink"
+<a href="American_Indian_Movement_and_Anarchy.md" class="wikilink"
 title="American Indian Movement and Anarchy">American Indian Movement
 and Anarchy</a>
 
-"<a   href="Anusilan_Samiti.md" class="wikilink"
+<a href="Anusilan_Samiti.md" class="wikilink"
 title="Anusilan Samiti">Anusilan Samiti</a>
 
-"<a   href="Black_Panther_Party_and_Anarchy.md" class="wikilink"
+<a href="Black_Panther_Party_and_Anarchy.md" class="wikilink"
 title="Black Panther Party and Anarchy">Black Panther Party and
 Anarchy</a>
 
-"<a   href="Students_for_a_Democratic_Society.md" class="wikilink"
+<a href="Students_for_a_Democratic_Society.md" class="wikilink"
 title="Students for a Democratic Society">Students for a Democratic
 Society</a>
 
-"<a   href="Weather_Underground_and_Anarchy.md" class="wikilink"
+<a href="Weather_Underground_and_Anarchy.md" class="wikilink"
 title="Weather Underground and Anarchy">Weather Underground and
 Anarchy</a>
 
-"<a   href="Mondragon.md" class="wikilink" title="Mondragon">Mondragon</a>
+<a href="Mondragon.md" class="wikilink" title="Mondragon">Mondragon</a>
 
 # Unsorted
 
@@ -660,7 +660,7 @@ Free General Workers' Union (SMOT)
 
 Federation of South African Trade Unions (FOSATU)
 
-"<a   href="Spies_for_Peace.md" class="wikilink" title="Spies for Peace">Spies
+<a href="Spies_for_Peace.md" class="wikilink" title="Spies for Peace">Spies
 for Peace</a>
 
 Black Front Society (KSS)

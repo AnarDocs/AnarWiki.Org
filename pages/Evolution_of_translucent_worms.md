@@ -18,9 +18,9 @@ but the Englishman who first described them called them
 
 <references/>
 
-"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action.md" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-"<a   href="Category:Natural_World.md" class="wikilink"
+<a href="Category:Natural_World.md" class="wikilink"
 title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Lynn Margulis, *Symbiotic Planet: A New View of Evolution* (New

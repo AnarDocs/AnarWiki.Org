@@ -14,7 +14,7 @@ that stabilize the entire system. Energy flows from plants to the
 animals that consume them, to decomposers (microbes) that process animal
 carcasses, and back to the plants. As in any forest, the trees are
 connected underground through a vast
-"<a   href="mycorrhizal_network.md" class="wikilink"
+<a href="mycorrhizal_network.md" class="wikilink"
 title="mycorrhizal network">mycorrhizal network</a> in which trees and
 fungi share resources and information with each other.
 

@@ -216,13 +216,13 @@ Peter Gelderloos comments in *How Nonviolence Protects the State*:
 
 <references/>
 
-"<a   href="Category:Direct_Action.md" class="wikilink"
+<a href="Category:Direct_Action" class="wikilink"
 title="Category:Direct Action">Category:Direct Action</a>
-"<a   href="Category:USA.md" class="wikilink"
+<a href="Category:USA" class="wikilink"
 title="Category:USA">Category:USA</a>
-"<a   href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Mark Rudd, *Underground: My Life with SDS and the Weathermen* (New

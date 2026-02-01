@@ -6,12 +6,12 @@ well-being, eudaimonia, flourishing and well-being.
 ## Happiness and Libertarian Socialism
 
 Happiness is largely dependent on both negative and positive freedom.
-Whether or not a "<a   href="List_of_Anarchist_Societies.md" class="wikilink"
+Whether or not a <a href="List_of_Anarchist_Societies.md" class="wikilink"
 title="anarchist society">anarchist society</a> would make people more
 happy is unknown, however, data and testimony provide some clues, for
 example,
-"<a   href="George_Orwell.md" class="wikilink" title="George Orwell">George
-Orwell</a> said of "<a   href="Revolutionary_Spain.md" class="wikilink"
+<a href="George_Orwell.md" class="wikilink" title="George Orwell">George
+Orwell</a> said of <a href="Revolutionary_Spain.md" class="wikilink"
 title="Revolutionary Spain">Revolutionary Spain</a>:
 
 > I had dropped more or less by chance into the only community of any
@@ -40,38 +40,38 @@ title="Revolutionary Spain">Revolutionary Spain</a>:
 > and not as cogs in the capitalist machine.[^1]
 
 The anthropologist Colin Turnbull, after living with a
-"<a   href="Mbuti.md" class="wikilink" title="Mbuti">Mbuti</a> band, remarked,
+<a href="Mbuti.md" class="wikilink" title="Mbuti">Mbuti</a> band, remarked,
 "They were a people who had found in the forest something that made life
 more than just worth living, something that made it, with all its
 hardships and problems and tragedies, a wonderful thing full of joy and
 happiness and free of care."[^2]
 
 Happiness at work through satisfaction is also important, and can be
-provided by "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+provided by <a href="Workers&#39;_Self-Management.md" class="wikilink"
 title="workers&#39; self-management">workers' self-management</a>.
 According to a study drawing on a questionnaire from the population of
-the "<a   href="Italy.md" class="wikilink" title="Italian">Italian</a>
-province of Trento, "<a   href="Worker_Cooperative.md" class="wikilink"
+the <a href="Italy.md" class="wikilink" title="Italian">Italian</a>
+province of Trento, <a href="Worker_Cooperative.md" class="wikilink"
 title="worker cooperatives">worker cooperatives</a> are the only form of
 enterprise that fosters social trust between employees.[^3] A survey
 conducted in Seoul,
-"<a   href="South_Korea.md" class="wikilink" title="South Korea">South
+<a href="South_Korea.md" class="wikilink" title="South Korea">South
 Korea</a> suggests that in conventional firms, the more demanding the
 job is, the less committed the employees are, however, this was not the
 case in worker cooperatives.[^4] In the
-"<a   href="United_States_of_America.md" class="wikilink" title="US">US</a>,
+<a href="United_States_of_America.md" class="wikilink" title="US">US</a>,
 home health aides in worker cooperatives were significantly more
 satisfied with their jobs than in other agencies.[^5]
 
 ## References
 
-"<a   href="Category:Psychology.md" class="wikilink"
+<a href="Category:Psychology.md" class="wikilink"
 title="Category:Psychology">Category:Psychology</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
 
-[^1]: "<a   href="George_Orwell.md" class="wikilink" title="George Orwell">George
-    Orwell</a> - "<a   href="Homage_to_Catalonia.md" class="wikilink"
+[^1]: <a href="George_Orwell.md" class="wikilink" title="George Orwell">George
+    Orwell</a> - <a href="Homage_to_Catalonia.md" class="wikilink"
     title="Homage to Catalonia">Homage to Catalonia</a>
 
 [^2]: Colin Turnbull - *The Forest People,*page 28

@@ -5,14 +5,14 @@ for free-market capitalism, deregulation, privatization, reduced
 government spending on social programs, and the marketization of
 previously public services.[^1] From an anarchist perspective,
 neoliberalism represents an intensification of
-"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
 and state power, despite rhetoric about "freedom" and "small
 government." It is characterized by the massive
-"<a   href="enclosure.md" class="wikilink" title="enclosure">enclosure</a> of
-"<a   href="commons.md" class="wikilink" title="commons">commons</a>, the
-dismantling of welfare states, "<a   href="privatisation.md" class="wikilink"
+<a href="enclosure.md" class="wikilink" title="enclosure">enclosure</a> of
+<a href="commons.md" class="wikilink" title="commons">commons</a>, the
+dismantling of welfare states, <a href="privatisation.md" class="wikilink"
 title="privatisation">privatisation</a> of public services, repression
-of "<a   href="Trade_Union.md" class="wikilink" title="trade unions">trade
+of <a href="Trade_Union.md" class="wikilink" title="trade unions">trade
 unions</a>, deregulation benefiting corporations, and expansion of
 police and military powers to enforce market relations.
 
@@ -39,16 +39,16 @@ problems.
 
 The term "neoliberalism" was coined at the Colloque Walter Lippmann in
 Paris in 1938, attended by economists including
-"<a   href="Friedrich_Hayek.md" class="wikilink"
+<a href="Friedrich_Hayek.md" class="wikilink"
 title="Friedrich Hayek">Friedrich Hayek</a> and Ludwig von Mises.[^3]
 These thinkers sought to revive liberal economic thought in response to
-the "<a   href="Great_Depression.md" class="wikilink"
+the <a href="Great_Depression.md" class="wikilink"
 title="Great Depression">Great Depression</a>, which had discredited
 laissez-faire capitalism, and to counter the growth of social democracy,
 communism, and fascism.
 
 In 1947, Hayek founded the
-"<a   href="Mont_Pelerin_Society.md" class="wikilink"
+<a href="Mont_Pelerin_Society.md" class="wikilink"
 title="Mont Pelerin Society">Mont Pelerin Society</a>, bringing together
 economists, businesspeople, and activists to develop and promote
 neoliberal ideas.[^4] The society was funded by wealthy individuals and
@@ -61,12 +61,12 @@ Adam Smith Institute, all funded by corporate interests.
 
 Neoliberal policies remained marginal until economic crises in the 1970s
 created opportunities for implementation. The first major experiment
-occurred in "<a   href="Chile.md" class="wikilink" title="Chile">Chile</a>
+occurred in <a href="Chile.md" class="wikilink" title="Chile">Chile</a>
 following the 1973 military coup against democratically-elected
 socialist president Salvador Allende. The dictatorship of Augusto
 Pinochet, with support from the United States, implemented radical
 free-market policies designed by the "Chicago Boys" - Chilean economists
-trained under "<a   href="Milton_Friedman.md" class="wikilink"
+trained under <a href="Milton_Friedman.md" class="wikilink"
 title="Milton Friedman">Milton Friedman</a> at the University of
 Chicago.[^5] This included privatization, deregulation, crushing of
 trade unions, and cuts to social spending. The Chilean experience
@@ -76,17 +76,17 @@ overcome popular resistance - a pattern repeated elsewhere.
 In 1976, neoliberal policies began in Argentina under military
 dictatorship, and in China under Deng Xiaoping's market reforms.
 
-In 1979, "<a   href="Margaret_Thatcher.md" class="wikilink"
+In 1979, <a href="Margaret_Thatcher.md" class="wikilink"
 title="Margaret Thatcher">Margaret Thatcher</a> became Prime Minister of
 the
-"<a   href="United_Kingdom.md" class="wikilink" title="United Kingdom">United
+<a href="United_Kingdom.md" class="wikilink" title="United Kingdom">United
 Kingdom</a>, implementing aggressive neoliberal policies including
 privatization of state industries, attacks on trade unions (particularly
 the miners' strike of 1984-85), deregulation of financial markets, and
 cuts to social services.
 
 Following Thatcher,
-"<a   href="Ronald_Reagan.md" class="wikilink" title="Ronald Reagan">Ronald
+<a href="Ronald_Reagan.md" class="wikilink" title="Ronald Reagan">Ronald
 Reagan</a> became U.S. President in 1981, pursuing similar policies -
 tax cuts for the wealthy, deregulation, union-busting (starting with the
 air traffic controllers' strike), and increased military spending. The
@@ -99,30 +99,30 @@ Throughout the 1980s-1990s, neoliberal policies spread globally, often
 imposed through international institutions:
 
 In 1980, neoliberalism began in
-"<a   href="Japan.md" class="wikilink" title="Japan">Japan</a> as the
+<a href="Japan.md" class="wikilink" title="Japan">Japan</a> as the
 government shifted focus from rural areas to Tokyo, reduced tariffs and
 subsidies, expanded the working week, and raised the retirement age.
 
 In 1983-1984, neoliberal "reforms" began in Australia and
-"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">New
+<a href="New_Zealand.md" class="wikilink" title="New Zealand">New
 Zealand</a>, with New Zealand's Labour government under
-"<a   href="Roger_Douglas.md" class="wikilink" title="Roger Douglas">Roger
+<a href="Roger_Douglas.md" class="wikilink" title="Roger Douglas">Roger
 Douglas</a> implementing particularly radical free-market policies
 (known as "Rogernomics") including privatization, deregulation, and
 welfare cuts.
 
 In 1985, neoliberalism began in
-"<a   href="Brazil.md" class="wikilink" title="Brazil">Brazil</a>.
+<a href="Brazil.md" class="wikilink" title="Brazil">Brazil</a>.
 
 In 1988, neoliberal policies began in
-"<a   href="Mexico.md" class="wikilink" title="Mexico">Mexico</a>, leading to
+<a href="Mexico.md" class="wikilink" title="Mexico">Mexico</a>, leading to
 the 1994 North American Free Trade Agreement (NAFTA).
 
-The "<a   href="International_Monetary_Fund.md" class="wikilink"
+The <a href="International_Monetary_Fund.md" class="wikilink"
 title="International Monetary Fund">International Monetary Fund</a>
 (IMF) and
-"<a   href="World_Bank.md" class="wikilink" title="World Bank">World Bank</a>
-imposed neoliberal ""<a   href="structural_adjustment.md" class="wikilink"
+<a href="World_Bank.md" class="wikilink" title="World Bank">World Bank</a>
+imposed neoliberal "<a href="structural_adjustment.md" class="wikilink"
 title="structural adjustment">structural adjustment</a>" programs on
 developing countries as conditions for loans, requiring privatization,
 deregulation, cuts to social spending, and opening to foreign
@@ -220,7 +220,7 @@ poor and racialized communities.
 ### Enclosure of the Commons
 
 Neoliberalism represents a new wave of
-"<a   href="enclosure.md" class="wikilink" title="enclosure">enclosure</a>,
+<a href="enclosure.md" class="wikilink" title="enclosure">enclosure</a>,
 privatizing resources and spaces previously held in common - from water
 and forests to knowledge (through intellectual property) and even
 genetic material. This dispossesses communities of their means of
@@ -233,7 +233,7 @@ all people as isolated consumers rather than members of communities,
 neoliberalism attacks the social bonds and collective organizations
 necessary for resistance. The destruction of trade unions, mutual aid
 networks, and public spaces where people gather has atomized the
-"<a   href="working_class.md" class="wikilink" title="working class">working
+<a href="working_class.md" class="wikilink" title="working class">working
 class</a> and made collective action more difficult.
 
 ### Environmental Devastation
@@ -286,17 +286,17 @@ particular distribution of power favoring capital over labor.
 
 Resistance to neoliberalism has taken many forms, from
 anti-globalization movements and occupations to strikes and riots. The
-"<a   href="Zapatista_Army_of_National_Liberation.md" class="wikilink"
+<a href="Zapatista_Army_of_National_Liberation.md" class="wikilink"
 title="Zapatistas">Zapatistas</a> in Mexico launched their uprising in
 1994 explicitly against NAFTA and neoliberal capitalism. The
 alter-globalization movement of the late 1990s-early 2000s challenged
 institutions like the
-"<a   href="World_Trade_Organization.md" class="wikilink"
+<a href="World_Trade_Organization.md" class="wikilink"
 title="World Trade Organization">World Trade Organization</a> and World
 Bank. The 2008 financial crisis sparked movements like
-"<a   href="Occupy_Wall_Street.md" class="wikilink"
+<a href="Occupy_Wall_Street.md" class="wikilink"
 title="Occupy Wall Street">Occupy Wall Street</a>. The
-"<a   href="Yellow_Vests.md" class="wikilink" title="Yellow Vests">Yellow
+<a href="Yellow_Vests.md" class="wikilink" title="Yellow Vests">Yellow
 Vests</a> protests in France and the 2019 Chilean uprising both targeted
 neoliberal policies.
 
@@ -309,17 +309,17 @@ of non-capitalist ways of organizing society.
 
 ## See Also
 
-- "<a   href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>
-- "<a   href="Privatisation.md" class="wikilink"
+- <a href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>
+- <a href="Privatisation.md" class="wikilink"
   title="Privatisation">Privatisation</a>
-- "<a   href="Enclosure.md" class="wikilink" title="Enclosure">Enclosure</a>
-- "<a   href="Globalization.md" class="wikilink"
+- <a href="Enclosure.md" class="wikilink" title="Enclosure">Enclosure</a>
+- <a href="Globalization.md" class="wikilink"
   title="Globalization">Globalization</a>
-- "<a   href="Structural_Adjustment.md" class="wikilink"
+- <a href="Structural_Adjustment.md" class="wikilink"
   title="Structural Adjustment">Structural Adjustment</a>
-- "<a   href="Anarchist_Economics.md" class="wikilink"
+- <a href="Anarchist_Economics.md" class="wikilink"
   title="Anarchist Economics">Anarchist Economics</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 
 ## References
 
@@ -330,15 +330,15 @@ of non-capitalist ways of organizing society.
 - [Stanford Encyclopedia of Philosophy entry on
   Neoliberalism](https://plato.stanford.edu/entries/neoliberalism/)
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Economics.md" class="wikilink"
+<a href="Category:Economics.md" class="wikilink"
 title="Category:Economics">Category:Economics</a>
-"<a   href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies.md" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-"<a   href="Category:Capitalism.md" class="wikilink"
+<a href="Category:Capitalism.md" class="wikilink"
 title="Category:Capitalism">Category:Capitalism</a>
-"<a   href="Category:Neoliberalism.md" class="wikilink"
+<a href="Category:Neoliberalism.md" class="wikilink"
 title="Category:Neoliberalism">Category:Neoliberalism</a>
 
 [^1]: Vallier, Kevin (2021). "Neoliberalism". Stanford Encyclopedia of

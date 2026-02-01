@@ -1,2 +1,2 @@
-1.  REDIRECT "<a   href="Occupy_movement.md" class="wikilink"
+1.  REDIRECT <a href="Occupy_movement" class="wikilink"
     title="Occupy movement">Occupy movement</a>

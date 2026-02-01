@@ -1,6 +1,6 @@
 The **Landless Workers' Movement** (Portuguese: *Movimento dos
 Trabalhadores Sem Terra*, **MST**) is a left-wing social movement in
-"<a   href="Brazil.md" class="wikilink" title="Brazil">Brazil</a> and is
+<a href="Brazil.md" class="wikilink" title="Brazil">Brazil</a> and is
 generally considered on of the largest in the world.
 
 ## Land reform before the 1988 constitution
@@ -1024,13 +1024,13 @@ Contestado settlement, signed a protocol of intentions in
 January<sup>\[*when?*\]</sup> during the fifth World Social
 Forum.<sup>\[245\]</sup>
 
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-"<a   href="Category:Brazil.md" class="wikilink"
+<a href="Category:Brazil.md" class="wikilink"
 title="Category:Brazil">Category:Brazil</a>
-"<a   href="Category:South_America.md" class="wikilink"
+<a href="Category:South_America.md" class="wikilink"
 title="Category:South America">Category:South America</a>
-"<a   href="Category:Social_Movements.md" class="wikilink"
+<a href="Category:Social_Movements.md" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>

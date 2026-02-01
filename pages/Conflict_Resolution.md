@@ -3,23 +3,23 @@
 ## Overview
 
 **Conflict resolution** within
-"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
 refers to the diverse methods by which disputes, harms, and
 disagreements are addressed without recourse to
-"<a   href="state.md" class="wikilink" title="state">state</a> authority or
+<a href="state.md" class="wikilink" title="state">state</a> authority or
 coercive institutions. Anarchist approaches to conflict reject the
 premise that hierarchical institutions are necessary for maintaining
 social order, instead emphasising
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
 community accountability, and processes oriented toward genuine
 resolution rather than punishment.
 
 Conflict does not disappear with the abolition of the state. However,
 anarchists argue that the state itself introduces numerous sources of
 conflict—through
-"<a   href="property.md" class="wikilink" title="property">property</a> laws
+<a href="property.md" class="wikilink" title="property">property</a> laws
 that create artificial scarcity, through
-"<a   href="capitalism.md" class="wikilink" title="capitalist">capitalist</a>
+<a href="capitalism.md" class="wikilink" title="capitalist">capitalist</a>
 exploitation that generates material desperation, and through
 hierarchical power structures that breed resentment—while simultaneously
 exacerbating conflicts that would otherwise be manageable through direct
@@ -46,9 +46,9 @@ guilt and imposing punishment.[^3]
 
 ### Anarchist Theorisation
 
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>'s
-*"<a   href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+*<a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
 title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
 Evolution</a>* (1902) provided early theoretical grounding for anarchist
 conflict resolution by documenting how cooperation and mutual
@@ -57,7 +57,7 @@ primary basis for social order in both animal and human societies.[^4]
 
 Later anarchist thinkers developed these insights into more systematic
 approaches. The restorative and
-"<a   href="transformative_justice.md" class="wikilink"
+<a href="transformative_justice.md" class="wikilink"
 title="transformative justice">transformative justice</a> movements,
 while not exclusively anarchist, have drawn heavily on anarchist
 principles of non-hierarchy and community accountability.[^5]
@@ -97,7 +97,7 @@ communities of the capacity to manage their own conflicts.[^9]
 
 **Property over people**: State legal systems devote enormous resources
 to protecting
-"<a   href="property.md" class="wikilink" title="property">property</a>
+<a href="property.md" class="wikilink" title="property">property</a>
 rights, often at the expense of human wellbeing. Laws criminalise
 poverty-driven acts like theft or trespass while enabling exploitation,
 environmental destruction, and other harms committed by the
@@ -158,7 +158,7 @@ restored where possible.[^16]
 
 ### Transformative Justice
 
-"<a   href="Transformative_justice.md" class="wikilink"
+<a href="Transformative_justice.md" class="wikilink"
 title="Transformative justice">Transformative justice</a> goes beyond
 resolving individual conflicts to address the conditions that give rise
 to harm. Rather than asking only "who did what to whom and what
@@ -174,7 +174,7 @@ rather than merely reacting to it.
 ### Norms Around Use and Access
 
 Many conflicts addressed by state legal systems concern
-"<a   href="property.md" class="wikilink" title="property">property</a> and
+<a href="property.md" class="wikilink" title="property">property</a> and
 resource access. Anarchist thinking reframes these disputes by
 distinguishing between **use** and **ownership**.[^18]
 
@@ -200,7 +200,7 @@ of trust, exclusion from cooperative networks, damage to
 reputation.[^20]
 
 These consequences are not trivial. In communities based on
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 and cooperation, being known as someone who does not honour agreements
 is genuinely costly. Access to shared resources, participation in
 collective projects, and social inclusion all depend on maintaining
@@ -215,7 +215,7 @@ unlike criminal records or state-imposed sanctions.
 
 ### The Zapatistas
 
-The "<a   href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
+The <a href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
 communities in Chiapas, Mexico have developed extensive systems for
 conflict resolution without state involvement. Local *Juntas de Buen
 Gobierno* (Good Government Councils) handle disputes through processes
@@ -226,7 +226,7 @@ punish).[^21]
 ### Rojava
 
 The autonomous region of
-"<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> in northern
+<a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> in northern
 Syria has implemented conflict resolution systems based on communal
 assemblies and peace committees. These bodies handle everything from
 family disputes to more serious conflicts, with emphasis on
@@ -292,16 +292,16 @@ enforcement.[^26]
 
 ## See Also
 
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- "<a   href="Transformative_Justice.md" class="wikilink"
+- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Transformative_Justice.md" class="wikilink"
   title="Transformative Justice">Transformative Justice</a>
-- "<a   href="Restorative_Justice.md" class="wikilink"
+- <a href="Restorative_Justice.md" class="wikilink"
   title="Restorative Justice">Restorative Justice</a>
-- "<a   href="Direct_Democracy.md" class="wikilink"
+- <a href="Direct_Democracy.md" class="wikilink"
   title="Direct Democracy">Direct Democracy</a>
-- "<a   href="Prefigurative_Politics.md" class="wikilink"
+- <a href="Prefigurative_Politics.md" class="wikilink"
   title="Prefigurative Politics">Prefigurative Politics</a>
-- "<a   href="Prison_Abolition.md" class="wikilink"
+- <a href="Prison_Abolition.md" class="wikilink"
   title="Prison Abolition">Prison Abolition</a>
 
 ## Bibliography
@@ -324,17 +324,17 @@ enforcement.[^26]
 
 <references/>
 
-"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts.md" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism.md" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism.md" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> "<a   href="Category:Social_Organisation.md" class="wikilink"
+Socialism</a> <a href="Category:Social_Organisation.md" class="wikilink"
 title="Category:Social Organisation">Category:Social Organisation</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Scott, James C. *The Art of Not Being Governed: An Anarchist

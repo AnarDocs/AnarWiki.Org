@@ -25,7 +25,7 @@ Peter Gelderloos, Anarchy Works [^1]:
 > allow the new political class to ascend.
 >
 > In the years immediately prior to the War, a number of
-> "<a   href="Anabaptists.md" class="wikilink" title="Anabaptist">Anabaptist</a>
+> <a href="Anabaptists.md" class="wikilink" title="Anabaptist">Anabaptist</a>
 > prophets began travelling around the region espousing revolutionary
 > ideas against political authority, church doctrine, and even against
 > the reforms of Martin Luther. These people included Thomas Dreschel,
@@ -92,12 +92,12 @@ Peter Gelderloos, Anarchy Works [^1]:
 
 <references/>
 
-"<a   href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe.md" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-"<a   href="Category:Germany.md" class="wikilink"
+<a href="Category:Germany.md" class="wikilink"
 title="Category:Germany">Category:Germany</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki.md" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
-[^1]: "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+[^1]: <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>

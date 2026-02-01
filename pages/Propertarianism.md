@@ -1,23 +1,23 @@
 # Propertarianism
 
 *Also known as:
-Anarcho-"<a   href="Capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
-Right-"<a   href="Libertarian.md" class="wikilink"
+Anarcho-<a href="Capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
+Right-<a href="Libertarian.md" class="wikilink"
 title="libertarianism">libertarianism</a>. See
-"<a   href="Co-optation_of_Anarchism.md" class="wikilink"
+<a href="Co-optation_of_Anarchism.md" class="wikilink"
 title="Co-optation of Anarchism">Co-optation of Anarchism</a>*
 
 **Propertarianism** is a political philosophy that reduces all questions
-of law and ethics to "<a   href="private_property.md" class="wikilink"
+of law and ethics to <a href="private_property.md" class="wikilink"
 title="private property">private property</a> rights. Despite some of
 its advocates calling themselves "anarchists" or "libertarians", the
 anarchist movement does not recognize propertarianism as a form of
 anarchism, viewing it instead as a variant of
-"<a   href="classical_liberalism.md" class="wikilink"
+<a href="classical_liberalism.md" class="wikilink"
 title="classical liberalism">classical liberalism</a>,
-"<a   href="neoliberalism.md" class="wikilink"
+<a href="neoliberalism.md" class="wikilink"
 title="neoliberalism">neoliberalism</a>, and
-"<a   href="right-wing_politics.md" class="wikilink"
+<a href="right-wing_politics.md" class="wikilink"
 title="right-wing politics">right-wing politics</a> that is
 fundamentally incompatible with anarchist principles.
 
@@ -28,10 +28,10 @@ absolute private property rights enforced by private agencies, or
 alternatively supports a minimal "night-watchman state" limited to
 protecting property and contracts. The philosophy emerged primarily in
 mid-20th century America, developed by economists like
-"<a   href="Murray_Rothbard.md" class="wikilink"
+<a href="Murray_Rothbard.md" class="wikilink"
 title="Murray Rothbard">Murray Rothbard</a> and
-"<a   href="Robert_Nozick.md" class="wikilink" title="Robert Nozick">Robert
-Nozick</a>, drawing from the "<a   href="Austrian_School.md" class="wikilink"
+<a href="Robert_Nozick.md" class="wikilink" title="Robert Nozick">Robert
+Nozick</a>, drawing from the <a href="Austrian_School.md" class="wikilink"
 title="Austrian School">Austrian School</a> of economics and classical
 liberal theory rather than anarchist traditions.[^1]
 
@@ -44,7 +44,7 @@ word, such as 'propertarian,' to describe them."[^2]
 
 Historically, the term "libertarian" was coined in the 1890s in France
 by anarchist
-"<a   href="Élisée_Reclus.md" class="wikilink" title="Élisée Reclus">Élisée
+<a href="Élisée_Reclus.md" class="wikilink" title="Élisée Reclus">Élisée
 Reclus</a> as a substitute for "anarchist" when that term was banned by
 the government.[^3] For over a century, "libertarian" was synonymous
 with anarchism and libertarian socialism.[^4]
@@ -89,11 +89,11 @@ proper."[^8]
 ### Support for Capitalism and Hierarchy
 
 While anarchism is fundamentally
-"<a   href="anti-capitalist.md" class="wikilink"
+<a href="anti-capitalist.md" class="wikilink"
 title="anti-capitalist">anti-capitalist</a> and opposes all forms of
 hierarchy and domination, propertarianism explicitly supports capitalist
 property relations,
-"<a   href="wage_labour.md" class="wikilink" title="wage labour">wage
+<a href="wage_labour.md" class="wikilink" title="wage labour">wage
 labour</a>, and economic hierarchy. Anarchists argue that capitalism
 inherently creates hierarchical power relations between employers and
 workers, landlords and tenants, and those who own the means of
@@ -139,15 +139,15 @@ the same name (for example, Murray Rothbard's anarcho-capitalism)."[^13]
 
 Propertarianism emerged in the United States during the mid-20th
 century, primarily through the work of Murray Rothbard. Rothbard
-combined elements from the "<a   href="Austrian_School.md" class="wikilink"
+combined elements from the <a href="Austrian_School.md" class="wikilink"
 title="Austrian School">Austrian School</a> of economics (particularly
-"<a   href="Ludwig_von_Mises.md" class="wikilink"
+<a href="Ludwig_von_Mises.md" class="wikilink"
 title="Ludwig von Mises">Ludwig von Mises</a> and
-"<a   href="Friedrich_Hayek.md" class="wikilink"
+<a href="Friedrich_Hayek.md" class="wikilink"
 title="Friedrich Hayek">Friedrich Hayek</a>), aspects of 19th-century
-"<a   href="individualist_anarchism.md" class="wikilink"
+<a href="individualist_anarchism.md" class="wikilink"
 title="individualist anarchism">individualist anarchism</a> (while
-rejecting their "<a   href="labour_theory_of_value.md" class="wikilink"
+rejecting their <a href="labour_theory_of_value.md" class="wikilink"
 title="labour theory of value">labour theory of value</a> and
 anti-capitalism), and classical liberal political theory.[^14]
 
@@ -157,15 +157,15 @@ Rothbard is credited with developing and popularizing the ideology.[^15]
 ### Connection to the New Right and Paleoconservatism
 
 By the 1990s, Rothbard had aligned propertarianism with the
-"<a   href="paleoconservative.md" class="wikilink"
+<a href="paleoconservative.md" class="wikilink"
 title="paleoconservative">paleoconservative</a> movement, advocating an
 "outreach to rednecks" and citing figures like David Duke and Joseph
 McCarthy as models.[^16] This alliance attracted criticism for flirting
 with racism and social reaction.
 
 Propertarianism is often associated with the
-"<a   href="New_Right.md" class="wikilink" title="New Right">New Right</a>,
-combining extreme "<a   href="laissez-faire.md" class="wikilink"
+<a href="New_Right.md" class="wikilink" title="New Right">New Right</a>,
+combining extreme <a href="laissez-faire.md" class="wikilink"
 title="laissez-faire">laissez-faire</a> economics with social
 conservatism.[^17]
 
@@ -201,7 +201,7 @@ despite its anti-state rhetoric.
 ### Absolute Private Property
 
 Propertarians advocate for absolute private property rights without the
-"<a   href="Lockean_proviso.md" class="wikilink"
+<a href="Lockean_proviso.md" class="wikilink"
 title="Lockean proviso">Lockean proviso</a> (which required leaving
 "enough and as good" for others). They support the privatization of all
 resources, including land, water, air, and all means of production.
@@ -212,7 +212,7 @@ unconditional ownership regardless of continued use.
 
 Despite their disagreement with Locke on property coming with some
 responsibilities, Propertarians still justify private property through
-"<a   href="John_Locke.md" class="wikilink" title="John Locke">John Locke</a>'s
+<a href="John_Locke.md" class="wikilink" title="John Locke">John Locke</a>'s
 concept of 'improvement' - that land becomes rightfully owned when
 someone improves it through labour. This philosophy suffers multiple
 flaws:
@@ -233,10 +233,10 @@ practices were dismissed as 'non-use' to justify appropriation.
 ### Self-Ownership
 
 Propertarians ground their philosophy in the concept of
-"<a   href="Self-Ownership.md" class="wikilink"
+<a href="Self-Ownership.md" class="wikilink"
 title="self-ownership">self-ownership</a> - the claim that individuals
 have property rights in their own persons. This principle, derived from
-"<a   href="John_Locke.md" class="wikilink" title="John Locke">John Locke</a>,
+<a href="John_Locke.md" class="wikilink" title="John Locke">John Locke</a>,
 asserts that people "own themselves" like objects, and therefore own
 their labor and whatever it produces.
 
@@ -257,7 +257,7 @@ product of isolated individuals.
 ### Non-Aggression Principle
 
 Propertarians claim to follow a
-""<a   href="Non-Aggression_Principle.md" class="wikilink"
+"<a href="Non-Aggression_Principle.md" class="wikilink"
 title="non-aggression principle">non-aggression principle</a>" (NAP),
 but define "aggression" solely as violation of private property rights.
 Critics point out this allows for massive economic coercion and power
@@ -284,16 +284,16 @@ maintaining artificial scarcity through force.
 ### Wage Labour
 
 Unlike anarchists who view
-"<a   href="wage_labour.md" class="wikilink" title="wage labour">wage
+<a href="wage_labour.md" class="wikilink" title="wage labour">wage
 labour</a> as exploitative and incompatible with freedom, propertarians
 defend the employer-employee relationship as a legitimate voluntary
 contract, ignoring the coercive nature of economic necessity.
 
 ### Rejection of Positive Rights
 
-Propertarians recognize only "<a   href="negative_rights.md" class="wikilink"
+Propertarians recognize only <a href="negative_rights.md" class="wikilink"
 title="negative rights">negative rights</a> (freedom from interference
-with property) and reject "<a   href="positive_rights.md" class="wikilink"
+with property) and reject <a href="positive_rights.md" class="wikilink"
 title="positive rights">positive rights</a> (such as rights to food,
 shelter, healthcare, or education) as illegitimate impositions on
 property owners.
@@ -337,16 +337,16 @@ consistently exclude propertarianism from anarchism.
 
 Propertarianism is more accurately classified alongside:
 
-- "<a   href="Classical_liberalism.md" class="wikilink"
+- <a href="Classical_liberalism.md" class="wikilink"
   title="Classical liberalism">Classical liberalism</a>
-- "<a   href="Neoliberalism.md" class="wikilink"
+- <a href="Neoliberalism.md" class="wikilink"
   title="Neoliberalism">Neoliberalism</a>
-- "<a   href="Economic_liberalism.md" class="wikilink"
+- <a href="Economic_liberalism.md" class="wikilink"
   title="Economic liberalism">Economic liberalism</a>
-- "<a   href="Minarchism.md" class="wikilink" title="Minarchism">Minarchism</a>
+- <a href="Minarchism.md" class="wikilink" title="Minarchism">Minarchism</a>
 - The
-  "<a   href="New_Right.md" class="wikilink" title="New Right">New Right</a>
-- "<a   href="Paleoconservatism.md" class="wikilink"
+  <a href="New_Right.md" class="wikilink" title="New Right">New Right</a>
+- <a href="Paleoconservatism.md" class="wikilink"
   title="Paleoconservatism">Paleoconservatism</a> (in some variants)
 
 It shares with these ideologies a commitment to capitalism, private
@@ -355,42 +355,42 @@ anti-hierarchical principles central to anarchism.
 
 ## See Also
 
-- "<a   href="Self-Ownership.md" class="wikilink"
+- <a href="Self-Ownership.md" class="wikilink"
   title="Self-Ownership">Self-Ownership</a>
-- "<a   href="Non-Agression_Principle.md" class="wikilink"
+- <a href="Non-Agression_Principle.md" class="wikilink"
   title="Non-Agression Principle">Non-Agression Principle</a>
-- "<a   href="Libertarian_Socialism.md" class="wikilink"
+- <a href="Libertarian_Socialism.md" class="wikilink"
   title="Libertarian socialism">Libertarian socialism</a>
-- "<a   href="Anti-capitalism.md" class="wikilink"
+- <a href="Anti-capitalism.md" class="wikilink"
   title="Anti-capitalism">Anti-capitalism</a>
-- "<a   href="Critique_of_work.md" class="wikilink"
+- <a href="Critique_of_work.md" class="wikilink"
   title="Critique of work">Critique of work</a>
-- "<a   href="Property_is_theft.md" class="wikilink"
+- <a href="Property_is_theft.md" class="wikilink"
   title="Property is theft">Property is theft</a>
-- "<a   href="Wage_slavery.md" class="wikilink" title="Wage slavery">Wage
+- <a href="Wage_slavery.md" class="wikilink" title="Wage slavery">Wage
   slavery</a>
-- "<a   href="Individualist_anarchism.md" class="wikilink"
+- <a href="Individualist_anarchism.md" class="wikilink"
   title="Individualist anarchism">Individualist anarchism</a>
 
 ## References
 
 <references/>
 
-"<a   href="Category:Anti-anarchism.md" class="wikilink"
+<a href="Category:Anti-anarchism.md" class="wikilink"
 title="Category:Anti-anarchism">Category:Anti-anarchism</a>
-"<a   href="Category:Classical_liberalism.md" class="wikilink"
+<a href="Category:Classical_liberalism.md" class="wikilink"
 title="Category:Classical liberalism">Category:Classical liberalism</a>
-"<a   href="Category:Economic_liberalism.md" class="wikilink"
+<a href="Category:Economic_liberalism.md" class="wikilink"
 title="Category:Economic liberalism">Category:Economic liberalism</a>
-"<a   href="Category:Ideologies_of_capitalism.md" class="wikilink"
+<a href="Category:Ideologies_of_capitalism.md" class="wikilink"
 title="Category:Ideologies of capitalism">Category:Ideologies of
-capitalism</a> "<a   href="Category:Right-wing_politics.md" class="wikilink"
+capitalism</a> <a href="Category:Right-wing_politics.md" class="wikilink"
 title="Category:Right-wing politics">Category:Right-wing politics</a>
-"<a   href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts.md" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts.md" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

@@ -19,11 +19,11 @@ against British occupation alongside the nationalist movement.[^2]
 
 <references/>
 
-"<a   href="Category:Egypt.md" class="wikilink"
+<a href="Category:Egypt.md" class="wikilink"
 title="Category:Egypt">Category:Egypt</a>
-"<a   href="Category:Anarchist_Organizations.md" class="wikilink"
+<a href="Category:Anarchist_Organizations.md" class="wikilink"
 title="Category:Anarchist Organizations">Category:Anarchist
-Organizations</a> "<a   href="Category:Organizations.md" class="wikilink"
+Organizations</a> <a href="Category:Organizations.md" class="wikilink"
 title="Category:Organizations">Category:Organizations</a>
 
 [^1]: Anthony Gorman, "'Diverse in Race, Religion and Nationality...But

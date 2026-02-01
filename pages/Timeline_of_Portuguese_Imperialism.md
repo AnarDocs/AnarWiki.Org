@@ -1,11 +1,11 @@
 A timeline of the creation and maintenance of the
-"<a   href="Portuguese_Empire.md" class="wikilink"
+<a href="Portuguese_Empire" class="wikilink"
 title="Portuguese Empire">Portuguese Empire</a>.
 
 ## 1400s
 
 - 1415: Portugal colonises Ceuta in
-  "<a   href="Morocco.md" class="wikilink" title="Morocco">Morocco</a>, but it
+  <a href="Morocco" class="wikilink" title="Morocco">Morocco</a>, but it
   was quickly recaptured.
 - 1415:Henry the Navigator, a Portuguese Prince, explores coastal
   Africa. The Battle of Ceuta is fought, during which the Portuguese
@@ -140,9 +140,9 @@ title="Portuguese Empire">Portuguese Empire</a>.
 - 1999:Macau is handed over to the People’s Republic of China,
   effectively ending the Portuguese overseas empire.
 
-"<a   href="Category:Timelines.md" class="wikilink"
+<a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>
-"<a   href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-"<a   href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>

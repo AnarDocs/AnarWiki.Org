@@ -6,7 +6,7 @@
 </figure>
 
 Anarres is the anarchist-run planet in Ursula K. Le Guin's novel
-"<a   href="The_Dispossessed_(Ursula_K._Le_Guin).md" class="wikilink"
+<a href="The_Dispossessed_(Ursula_K._Le_Guin).md" class="wikilink"
 title="The Dispossessed">The Dispossessed</a>. About two hundred
 years[^1] before the start of the plot, the neighboring capitalist
 planet Urras had sent its anarchist rebels there, where they proceeded
@@ -306,17 +306,17 @@ that characterizes Urrasti society.[^56]
 
 <references/>
 
-"<a   href="Category:Anarchist_Fiction.md" class="wikilink"
+<a href="Category:Anarchist_Fiction.md" class="wikilink"
 title="Category:Anarchist Fiction">Category:Anarchist Fiction</a>
-"<a   href="Category:Utopian_Fiction.md" class="wikilink"
+<a href="Category:Utopian_Fiction.md" class="wikilink"
 title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-"<a   href="Category:Anarchist_books.md" class="wikilink"
+<a href="Category:Anarchist_books.md" class="wikilink"
 title="Category:Anarchist books">Category:Anarchist books</a>
-"<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+<a href="Category:Anarchist_Utopias.md" class="wikilink"
 title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-"<a   href="Category:Books.md" class="wikilink"
+<a href="Category:Books.md" class="wikilink"
 title="Category:Books">Category:Books</a>
-"<a   href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured.md" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Ursula K. Le Guin, *The Dispossessed: An Ambiguous Utopia* (New
