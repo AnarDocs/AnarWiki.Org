@@ -3,25 +3,25 @@
 ## Overview
 
 Throughout the history of the socialist movement,
-<a href="Marxism" class="wikilink" title="Marxists">Marxists</a>
+"<a   href="Marxism.md" class="wikilink" title="Marxists">"Marxists</a>
 (particularly
-<a href="Leninism" class="wikilink" title="Leninists">Leninists</a>)
+"<a   href="Leninism.md" class="wikilink" title="Leninists">"Leninists</a>)
 have frequently misrepresented
-<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
 ideas and history. These misrepresentations often involve claiming that
 anarchists reject
-<a href="Class_Struggle" class="wikilink" title="class struggle">class
+"<a   href="Class_Struggle.md" class="wikilink" title="class struggle">"class
 struggle</a>, oppose organisation, dismiss the
-<a href="Working_Class" class="wikilink" title="working class">working
+"<a   href="Working_Class.md" class="wikilink" title="working class">"working
 class</a>, or hold positions that directly contradict actual anarchist
 theory and practice.
 
 As Nicholas Walter noted, anarchism "has never had this limited vision.
 It has always challenged all forms of authority and exploitation, and
 has been equally critical of
-<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>
+"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>
 and religion as it has been of the
-<a href="state" class="wikilink" title="state">state</a>."[^1]
+"<a   href="state.md" class="wikilink" title="state">"state</a>."[^1]
 
 ## Common Misrepresentations
 
@@ -32,12 +32,12 @@ believe defence is unnecessary.
 
 **Reality:** Anarchists have always recognised the necessity of
 defending a revolution.
-<a href="Mikhail_Bakunin" class="wikilink" title="Bakunin">Bakunin</a>
+"<a   href="Mikhail_Bakunin.md" class="wikilink" title="Bakunin">"Bakunin</a>
 argued that "communes will have to reorganise themselves along
 revolutionary lines" and "in order to defend the revolution, their
 volunteers will at the same time form a communal militia."[^2]
-<a href="Errico_Malatesta" class="wikilink"
-title="Malatesta">Malatesta</a> explicitly pointed to "corps of
+"<a   href="Errico_Malatesta.md" class="wikilink"
+title="Malatesta">"Malatesta</a> explicitly pointed to "corps of
 volunteers (anarchist formations)" as means of defending revolution from
 "attempts to reduce a free people to a state of slavery again."[^3]
 
@@ -52,18 +52,18 @@ concentrate power in the hands of a new ruling elite.
 struggle, and the centrality of the working class.
 
 **Reality:**
-<a href="Class_struggle" class="wikilink" title="Class struggle">Class
+"<a   href="Class_struggle.md" class="wikilink" title="Class struggle">"Class
 struggle</a> has always been central to anarchist theory. Bakunin stated
 there was "between the proletariat and the bourgeoisie, an
 irreconcilable antagonism" and stressed that workers must "unite"
 through "the union of all local and national workers' associations into
 a world-wide association."[^4]
 
-<a href="Peter_Kropotkin" class="wikilink"
-title="Kropotkin">Kropotkin</a> argued anarchists should "take an active
+"<a   href="Peter_Kropotkin.md" class="wikilink"
+title="Kropotkin">"Kropotkin</a> argued anarchists should "take an active
 part in those workers' organisations which carry on the direct struggle
 of Labour against Capital."[^5]
-<a href="Emma_Goldman" class="wikilink" title="Goldman">Goldman</a>
+"<a   href="Emma_Goldman.md" class="wikilink" title="Goldman">"Goldman</a>
 stated that "the most powerful force for social transformation is the
 working class movement."[^6]
 
@@ -77,8 +77,8 @@ yearning for pre-capitalist social forms.
 
 **Reality:** Anarchists base their ideas on current trends within
 society while critically evaluating capitalist "progress." When
-<a href="Pierre-Joseph_Proudhon" class="wikilink"
-title="Proudhon">Proudhon</a> advocated for artisans and peasants in
+"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+title="Proudhon">"Proudhon</a> advocated for artisans and peasants in
 mid-19th century France, he was addressing the actual composition of the
 working class - which even Marx and Engels admitted was "far more than
 half of the population" in countries like France.[^8]
@@ -86,8 +86,8 @@ half of the population" in countries like France.[^8]
 Proudhon also recognised large-scale industry, arguing that "certain
 industries" required "combined employment of a large number of workers"
 and advocated "association among the workers" and
-<a href="Workers&#39;_Self-Management" class="wikilink"
-title="workers&#39; control">workers' control</a> of production.[^9]
+"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+title="workers&#39; control">"workers' control</a> of production.[^9]
 
 Kropotkin's work *Fields, Factories and Workshops* provided detailed
 analysis of contemporary economic trends, not romantic nostalgia. He
@@ -108,8 +108,8 @@ Bakunin argued the revolution must involve "complete destruction of the
 State" *and* "all productive capital and instruments of
 labour...confiscated for the benefit of toilers associations."[^10]
 Kropotkin wrote extensively on
-<a href="Mutual_Aid_and_Cooperation" class="wikilink"
-title="expropriation">expropriation</a> of capital and stated "the
+"<a   href="Mutual_Aid_and_Cooperation.md" class="wikilink"
+title="expropriation">"expropriation</a> of capital and stated "the
 revolution will burn on until it has accomplished its mission: the
 abolition of property-owning and of the State."[^11]
 
@@ -128,14 +128,14 @@ would follow revolution.[^13] Kropotkin stressed "we do not believe that
 in any country the Revolution will be accomplished at a stroke" and
 called belief in a "One-day Revolution" a harmful fallacy.[^14]
 
-<a href="Alexander_Berkman" class="wikilink" title="Berkman">Berkman</a>
+"<a   href="Alexander_Berkman.md" class="wikilink" title="Berkman">"Berkman</a>
 explicitly stated that "in the first stages of the revolution, during
 the process of re-construction" rationing would be necessary before full
 communism could be achieved.[^15]
 
 The difference is that anarchists argue the transition must be based on
 libertarian principles - federalism,
-<a href="Direct_Action" class="wikilink" title="direct democracy">direct
+"<a   href="Direct_Action.md" class="wikilink" title="direct democracy">"direct
 democracy</a>, and workers' self-management - rather than recreating
 hierarchical state structures.
 
@@ -178,8 +178,8 @@ Ironically, Marx, Engels and Lenin all held similar views about an
 
 ### Anarchism and Syndicalism
 
-**Marxist Claim:** <a href="Anarcho-Syndicalism" class="wikilink"
-title="Anarcho-syndicalism">Anarcho-syndicalism</a> represents an
+**Marxist Claim:** "<a   href="Anarcho-Syndicalism.md" class="wikilink"
+title="Anarcho-syndicalism">"Anarcho-syndicalism</a> represents an
 improvement over "classical" anarchism by recognising class struggle and
 organisation.
 
@@ -203,7 +203,7 @@ ideas, not a departure from them.
 "liberal" rather than socialist politics.
 
 **Reality:** Anarchists recognise that without
-<a href="Equality" class="wikilink" title="equality">equality</a>,
+"<a   href="Equality.md" class="wikilink" title="equality">"equality</a>,
 liberty becomes merely "freedom to pick a master." As Bakunin argued,
 capitalism turns "the worker into a subordinate, a passive and obedient
 servant."[^24]
@@ -241,8 +241,8 @@ others.
 it opposes majority rule.
 
 **Reality:** Anarchists support
-<a href="Self-Management" class="wikilink"
-title="self-management">self-management</a> (direct democracy) while
+"<a   href="Self-Management.md" class="wikilink"
+title="self-management">"self-management</a> (direct democracy) while
 recognising that democracy's value lies in protecting individual freedom
 through collective decision-making. As Malatesta argued, rights to
 dissent and civil disobedience are essential: "It is not a question of
@@ -250,12 +250,12 @@ being right or wrong; it is a question of freedom, freedom for
 all."[^27]
 
 Ironically, leading Marxists like Lenin and
-<a href="Leon_Trotsky" class="wikilink" title="Trotsky">Trotsky</a>
+"<a   href="Leon_Trotsky.md" class="wikilink" title="Trotsky">"Trotsky</a>
 explicitly advocated "party dictatorship" and overriding democratic
 decisions when they conflicted with party interests. When Trotsky banned
 a conference of workers, peasants and partisans in Ukraine, he
 demonstrated the truly anti-democratic nature of
-<a href="Bolshevism" class="wikilink" title="Bolshevism">Bolshevism</a>.[^28]
+"<a   href="Bolshevism.md" class="wikilink" title="Bolshevism">"Bolshevism</a>.[^28]
 
 ### Survival Without Workers' Movement
 
@@ -268,7 +268,7 @@ of bourgeois intellectuals and professionals that supported the PSI was
 vastly greater."[^29]
 
 In Spain, anarchism dominated the working class movement, with the
-<a href="CNT-FAI" class="wikilink" title="CNT">CNT</a> organising more
+"<a   href="CNT-FAI.md" class="wikilink" title="CNT">"CNT</a> organising more
 industrial workers than the socialist UGT. In Switzerland, Bakunin
 gained support among "builders, carpenters and workers in the heavier
 trades."[^30]
@@ -289,9 +289,9 @@ politics."[^31]
 Anarchists recognise that economic struggles become political when the
 state intervenes on behalf of capital. We argue these struggles should
 be fought through
-<a href="Direct_Action" class="wikilink" title="direct action">direct
+"<a   href="Direct_Action.md" class="wikilink" title="direct action">"direct
 action</a>,
-<a href="Solidarity" class="wikilink" title="solidarity">solidarity</a>
+"<a   href="Solidarity.md" class="wikilink" title="solidarity">"solidarity</a>
 and working class self-organisation rather than through bourgeois
 electoral methods.
 
@@ -311,20 +311,20 @@ working as equals, influencing others through the power of their ideas
 rather than institutional control.
 
 The irony of this criticism is that
-<a href="Vladimir_Lenin" class="wikilink"
-title="Lenin&#39;s">Lenin's</a> model shared many features with
+"<a   href="Vladimir_Lenin.md" class="wikilink"
+title="Lenin&#39;s">"Lenin's</a> model shared many features with
 Bakunin's Alliance (including secret and open structures,
 centralisation, top-down decision making) yet Marxists only criticise
 one. Meanwhile, the historical record shows Leninist parties either
 degenerating into reformism (social democracy) or totalitarianism
-(<a href="Stalinism" class="wikilink" title="Stalinism">Stalinism</a>).
+("<a   href="Stalinism.md" class="wikilink" title="Stalinism">"Stalinism</a>).
 
 ## Historical Context
 
 These misrepresentations have a long history, beginning with Marx and
 Engels' polemics against Bakunin in the
-<a href="First_International" class="wikilink"
-title="First International">First International</a>. As Max Nettlau
+"<a   href="First_International.md" class="wikilink"
+title="First International">"First International</a>. As Max Nettlau
 noted, Marx and Engels "acted with that shocking lack of honesty which
 was characteristic of all their polemics. They worked with inadequate
 documentation, which, according to their custom, they supplemented with
@@ -359,16 +359,16 @@ emancipate the working class on its behalf.
 
 ## See Also
 
-- <a href="Text:Anarchism_Or_Socialism" class="wikilink"
-  title="Anarchism Or Socialism, Joseph Stalin">Anarchism Or Socialism,
+- "<a   href="Text:Anarchism_Or_Socialism.md" class="wikilink"
+  title="Anarchism Or Socialism, Joseph Stalin">"Anarchism Or Socialism,
   Joseph Stalin</a>
-- <a href="On_Authority_(Book)" class="wikilink"
-  title="On Authority, Friedrich Engels">On Authority, Friedrich
+- "<a   href="On_Authority_(Book).md" class="wikilink"
+  title="On Authority, Friedrich Engels">"On Authority, Friedrich
   Engels</a>
-- <a href="Anarchist_Views_on_Marxism" class="wikilink"
-  title="Anarchist Views On Marxism">Anarchist Views On Marxism</a>
-- <a href="Marxist-Leninist_Persecution_Of_Anarchists" class="wikilink"
-  title="Marxist-Leninist Persecution Of Anarchists">Marxist-Leninist
+- "<a   href="Anarchist_Views_on_Marxism.md" class="wikilink"
+  title="Anarchist Views On Marxism">"Anarchist Views On Marxism</a>
+- "<a   href="Marxist-Leninist_Persecution_Of_Anarchists.md" class="wikilink"
+  title="Marxist-Leninist Persecution Of Anarchists">"Marxist-Leninist
   Persecution Of Anarchists</a>
 
 ## References
@@ -378,18 +378,18 @@ emancipate the working class on its behalf.
 Source: [The Anarchist FAQ, Section H.2. Iain
 McKay](https://www.anarchistfaq.org/afaq/sectionH.html#sech2)
 
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Marxism" class="wikilink"
-title="Category:Marxism">Category:Marxism</a>
-<a href="Category:Anarchist_Theory" class="wikilink"
-title="Category:Anarchist Theory">Category:Anarchist Theory</a>
-<a href="Category:Class_Struggle" class="wikilink"
-title="Category:Class Struggle">Category:Class Struggle</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Controversial_Concepts" class="wikilink"
-title="Category:Controversial Concepts">Category:Controversial
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Marxism.md" class="wikilink"
+title="Category:Marxism">"Category:Marxism</a>
+"<a   href="Category:Anarchist_Theory.md" class="wikilink"
+title="Category:Anarchist Theory">"Category:Anarchist Theory</a>
+"<a   href="Category:Class_Struggle.md" class="wikilink"
+title="Category:Class Struggle">"Category:Class Struggle</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+title="Category:Controversial Concepts">"Category:Controversial
 Concepts</a>
 
 [^1]: Brian Morris, "Anthropology and Anarchism," Anarchy: A Journal of

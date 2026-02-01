@@ -64,7 +64,7 @@ Action [^1]:
 
 <references/>
 
-[^1]: <a href="Anarchy_in_Action" class="wikilink"
-    title="Anarchy_in_Action">Anarchy_in_Action</a>
+[^1]: "<a   href="Anarchy_in_Action.md" class="wikilink"
+    title="Anarchy_in_Action">"Anarchy_in_Action</a>
 
 [^2]: 'The Squatters in Winter', News Chronicle, 14 January 1947.

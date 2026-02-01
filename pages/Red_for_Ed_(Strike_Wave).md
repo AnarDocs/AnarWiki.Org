@@ -1,9 +1,9 @@
 **Red for Ed** refers to a wave of
-<a href="List_of_Strikes" class="wikilink" title="strikes">strikes</a>
+"<a   href="List_of_Strikes.md" class="wikilink" title="strikes">"strikes</a>
 by educational workers, notably high school teachers, across the
-<a href="United_States_of_America" class="wikilink" title="US">US</a> in
-<a href="Timeline_of_Anarchism_in_North_America" class="wikilink"
-title="2018 and 2019">2018 and 2019</a>.
+"<a   href="United_States_of_America.md" class="wikilink" title="US">"US</a> in
+"<a   href="Timeline_of_Anarchism_in_North_America.md" class="wikilink"
+title="2018 and 2019">"2018 and 2019</a>.
 
 ## Background
 
@@ -145,29 +145,29 @@ On the 21st of May, 2018 a one-day strike was held by teachers.[^10]
 
 ## References
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Strikes" class="wikilink"
-title="Category:Strikes">Category:Strikes</a>
-<a href="Category:Schools" class="wikilink"
-title="Category:Schools">Category:Schools</a>
-<a href="Category:USA" class="wikilink"
-title="Category:USA">Category:USA</a>
-<a href="Category:North_America" class="wikilink"
-title="Category:North America">Category:North America</a>
-<a href="Category:2010s" class="wikilink"
-title="Category:2010s">Category:2010s</a>
-<a href="Category:2018" class="wikilink"
-title="Category:2018">Category:2018</a>
-<a href="Category:2019" class="wikilink"
-title="Category:2019">Category:2019</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Strikes.md" class="wikilink"
+title="Category:Strikes">"Category:Strikes</a>
+"<a   href="Category:Schools.md" class="wikilink"
+title="Category:Schools">"Category:Schools</a>
+"<a   href="Category:USA.md" class="wikilink"
+title="Category:USA">"Category:USA</a>
+"<a   href="Category:North_America.md" class="wikilink"
+title="Category:North America">"Category:North America</a>
+"<a   href="Category:2010s.md" class="wikilink"
+title="Category:2010s">"Category:2010s</a>
+"<a   href="Category:2018.md" class="wikilink"
+title="Category:2018">"Category:2018</a>
+"<a   href="Category:2019.md" class="wikilink"
+title="Category:2019">"Category:2019</a>
 
-[^1]: <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
     <https://en.wikipedia.org/wiki/2018–19_education_workers'_strikes_in_the_United_States>
 
-[^2]: <a href="www.wsws.org_en_articles_2018_02_28_stat-f28.html"
+[^2]: "<a   href="www.wsws.org_en_articles_2018_02_28_stat-f28.html.md"
     class="wikilink"
-    title="www.wsws.org/en/articles/2018/02/28/stat-f28.html">www.wsws.org/en/articles/2018/02/28/stat-f28.html</a>
+    title="www.wsws.org/en/articles/2018/02/28/stat-f28.html">"www.wsws.org/en/articles/2018/02/28/stat-f28.html</a>
 
 [^3]:
 

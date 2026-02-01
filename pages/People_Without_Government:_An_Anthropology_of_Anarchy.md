@@ -4,7 +4,7 @@
 
 **People Without Government: An Anthropology of Anarchy** is a
 comprehensive anthropological examination of
-<a href="anarchy" class="wikilink" title="anarchic societies">anarchic
+"<a   href="anarchy.md" class="wikilink" title="anarchic societies">"anarchic
 societies</a> throughout history and across cultures. Written by Harold
 Barclay, the work challenges the common misconception that anarchy
 equates to chaos by documenting numerous stateless societies that
@@ -15,7 +15,7 @@ organisation in human history.
 
 The work distinguishes between anarchy as a societal condition (absence
 of rulers and government) and
-<a href="anarchism" class="wikilink" title="anarchism">anarchism</a> as
+"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a> as
 a 19th-century political philosophy advocating for individual freedom
 and the abolition of oppressive institutions. Through detailed case
 studies spanning hunter-gatherer, horticultural, pastoral, and
@@ -68,7 +68,7 @@ certain supernatural sanctions.
 
 #### Hunter-Gatherer Societies
 
-The **<a href="Inuit" class="wikilink" title="Inuit">Inuit</a>**
+The **"<a   href="Inuit.md" class="wikilink" title="Inuit">"Inuit</a>**
 exemplify "primitive anarchy" with informal leadership based on ability
 rather than coercion. Leaders called "isumataq" ('he who thinks') are
 recognised for hunting prowess and wisdom but cannot compel obedience.
@@ -77,14 +77,14 @@ dissenting parties free to separate. Conflict resolution involves
 diffuse sanctions including ostracism, ridicule, and song competitions
 where opponents insult each other before community judges.
 
-The **<a href="San_people" class="wikilink" title="San">San</a>**
+The **"<a   href="San_people.md" class="wikilink" title="San">"San</a>**
 organise into loosely structured bands without formal leaders, though
 "owners" of land around water holes hold influence through kinship ties.
 Physical combat is immediately interrupted by relatives, followed by
 extended discussion aimed at resolution. Severe conflicts often result
 in group splitting rather than continued confrontation.
 
-**<a href="Pygmy_peoples" class="wikilink" title="Pygmies">Pygmies</a>**
+**"<a   href="Pygmy_peoples.md" class="wikilink" title="Pygmies">"Pygmies</a>**
 strongly avoid personal authority, viewing responsibility as communal
 with "the forest itself" acting as chief and arbitrator. Decision-making
 involves casual, informal discussions with all adult males until
@@ -93,21 +93,21 @@ agreement is reached, whilst women participate by offering opinions.
 #### Horticultural Societies
 
 The
-**<a href="Lugbara_people" class="wikilink" title="Lugbara">Lugbara</a>**
+**"<a   href="Lugbara_people.md" class="wikilink" title="Lugbara">"Lugbara</a>**
 demonstrate political decentralisation through segmentary lineage
 systems. Elders possess ritual authority through invoking ancestral
 ghosts who influence descendants, whilst "men whose names are known" act
 as mediators in disputes between lineages. Religious sanctions through
 ancestral spirits serve as the primary form of social control.
 
-**<a href="Tiv_people" class="wikilink" title="Tiv">Tiv</a>** society
+**"<a   href="Tiv_people.md" class="wikilink" title="Tiv">"Tiv</a>** society
 features compound elders who settle quarrels through mediation rather
 than enforcement. Age sets provide mutual aid and protection across
 lineage lines, whilst market places represent limited governmental
 functions through lineage segments controlling market magic and
 providing police and judges.
 
-The **<a href="Ibo_people" class="wikilink" title="Ibo">Ibo</a>**
+The **"<a   href="Ibo_people.md" class="wikilink" title="Ibo">"Ibo</a>**
 exhibit a "multicentric power system" with village elders forming
 deliberative, legislative, judicial, and executive bodies. Younger
 age-grade members act as enforcers for community decisions, whilst
@@ -116,14 +116,14 @@ influence.
 
 #### Pastoral Societies
 
-The **<a href="Nuer_people" class="wikilink" title="Nuer">Nuer</a>**
+The **"<a   href="Nuer_people.md" class="wikilink" title="Nuer">"Nuer</a>**
 represent a famous example of segmentary patrilineal organisation
 without government. The leopard skin chief serves as ritual specialist
 and mediator who encourages blood money payments and threatens curses
 but lacks true judicial or enforcement powers. Feuding between segments
 functions as the primary political mechanism for maintaining balance.
 
-**<a href="Sami_people" class="wikilink" title="Samek">Samek</a>
+**"<a   href="Sami_people.md" class="wikilink" title="Samek">"Samek</a>
 (Lapps)** organise as reindeer herders with individualistic worldviews
 and anarchic social structures. Small, independent bands make collective
 decisions through adult male councils, whilst band leaders coordinate
@@ -133,25 +133,25 @@ management.
 #### Agricultural Societies
 
 **Ancient
-<a href="Iceland" class="wikilink" title="Iceland">Iceland</a>**
+"<a   href="Iceland.md" class="wikilink" title="Iceland">"Iceland</a>**
 developed a confederation of independent chiefdoms where godhis (chiefs)
 mediated disputes but lacked police forces, depending entirely on
 followers' goodwill. Assemblies called "Things" legislated and acted as
 courts but could not enforce decisions, leading enforcement to rely on
 public willingness or aggrieved parties pursuing feuds.
 
-**<a href="Berbers" class="wikilink" title="Imazighen (Berbers)">Imazighen
+**"<a   href="Berbers.md" class="wikilink" title="Imazighen (Berbers)">"Imazighen
 (Berbers)</a>** maintain highly decentralised polities based on
 patrilineages. Village councils composed of lineage spokespersons decide
 matters through unanimous consensus, enforcing decisions via banishment
 or ostracism backed by public opinion.
 
 Modern
-**<a href="Anabaptist" class="wikilink" title="Anabaptist">Anabaptist</a>**
+**"<a   href="Anabaptist.md" class="wikilink" title="Anabaptist">"Anabaptist</a>**
 sects including
-<a href="Mennonites" class="wikilink" title="Mennonites">Mennonites</a>,
-<a href="Amish" class="wikilink" title="Amish">Amish</a>, and
-<a href="Hutterites" class="wikilink" title="Hutterites">Hutterites</a>
+"<a   href="Mennonites.md" class="wikilink" title="Mennonites">"Mennonites</a>,
+"<a   href="Amish.md" class="wikilink" title="Amish">"Amish</a>, and
+"<a   href="Hutterites.md" class="wikilink" title="Hutterites">"Hutterites</a>
 practice anarchy within state systems. These religious communities
 reject state participation as un-Christian, governing themselves through
 congregational decisions with "disfellowshiping" (expulsion and
@@ -161,13 +161,13 @@ shunning) as ultimate punishment.
 
 The book examines intentional anarchist communities including the
 **Ukrainian Anarchist Movement** under
-<a href="Nestor_Makhno" class="wikilink" title="Nestor Makhno">Nestor
+"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">"Nestor
 Makhno</a> (1918-1919), which aimed for communal ownership and voluntary
 administration but faced contradictions due to wartime conditions and
 Makhno's own authoritarian proclamations.
 
-The **<a href="Spanish_Revolution" class="wikilink"
-title="Spanish Revolution">Spanish Revolution</a>** (1936-1939)
+The **"<a   href="Spanish_Revolution.md" class="wikilink"
+title="Spanish Revolution">"Spanish Revolution</a>** (1936-1939)
 represented the largest anarchist movement with mass support.
 Collectives promoted communal ownership, voluntary membership, and equal
 pay, though decisions often relied on majority vote rather than
@@ -253,15 +253,15 @@ Original Sources:
 
 <references/>
 
-<a href="Category:Anarchist_Non-Fiction" class="wikilink"
-title="Category:Anarchist Non-Fiction">Category:Anarchist
-Non-Fiction</a> <a href="Category:Anarchist_books" class="wikilink"
-title="Category:Anarchist books">Category:Anarchist books</a>
-<a href="Category:Books" class="wikilink"
-title="Category:Books">Category:Books</a>
-<a href="Category:Anthropology" class="wikilink"
-title="Category:Anthropology">Category:Anthropology</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Non-Fiction.md" class="wikilink"
+title="Category:Anarchist Non-Fiction">"Category:Anarchist
+Non-Fiction</a> "<a   href="Category:Anarchist_books.md" class="wikilink"
+title="Category:Anarchist books">"Category:Anarchist books</a>
+"<a   href="Category:Books.md" class="wikilink"
+title="Category:Books">"Category:Books</a>
+"<a   href="Category:Anthropology.md" class="wikilink"
+title="Category:Anthropology">"Category:Anthropology</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>

@@ -2,8 +2,8 @@
 
 **La Vía Campesina** (from Spanish *la vía campesina*, meaning the
 peasant way) is an international farmers organization founded in 1993 in
-<a href="Mons" class="wikilink" title="Mons">Mons</a>,
-<a href="Belgium" class="wikilink" title="Belgium">Belgium</a>. The
+"<a   href="Mons.md" class="wikilink" title="Mons">"Mons</a>,
+"<a   href="Belgium.md" class="wikilink" title="Belgium">"Belgium</a>. The
 network comprises an estimated 200 million peasants, fishers and
 small-scale farmers organized through 182 organisations in 81
 countries,[^1] describing itself as "an international movement which
@@ -31,8 +31,8 @@ had arisen in the 1990s; during that time, human rights and development
 agendas became integrated which expanded from political and civil rights
 to include social and economic rights.[^5] The agrarian peasants'
 movement moved to challenge the hegemonic ideology of
-<a href="neoliberalism" class="wikilink"
-title="neoliberalism">neoliberalism</a> in global economics and to find
+"<a   href="neoliberalism.md" class="wikilink"
+title="neoliberalism">"neoliberalism</a> in global economics and to find
 alternatives that would protect the rights of workers around the
 world.[^6]
 
@@ -41,15 +41,15 @@ world.[^6]
 The organization was founded in 1993 by farmers organizations from
 Europe, Latin America, Asia, North America, Central America and
 Africa.[^7] The foundation followed the Uruguay Round of the
-<a href="General_Agreement_on_Tariffs_and_Trade" class="wikilink"
-title="General Agreement on Tariffs and Trade">General Agreement on
+"<a   href="General_Agreement_on_Tariffs_and_Trade.md" class="wikilink"
+title="General Agreement on Tariffs and Trade">"General Agreement on
 Tariffs and Trade</a> (GATT), where the
-<a href="World_Trade_Organization" class="wikilink"
-title="World Trade Organization">World Trade Organization</a> (WTO)'s
-<a href="Agreement_on_Agriculture" class="wikilink"
-title="Agreement on Agriculture">Agreement on Agriculture</a> and the
-<a href="Trade-related_Intellectual_Property_Rights" class="wikilink"
-title="Trade Related Intellectual Property Rights">Trade Related
+"<a   href="World_Trade_Organization.md" class="wikilink"
+title="World Trade Organization">"World Trade Organization</a> (WTO)'s
+"<a   href="Agreement_on_Agriculture.md" class="wikilink"
+title="Agreement on Agriculture">"Agreement on Agriculture</a> and the
+"<a   href="Trade-related_Intellectual_Property_Rights.md" class="wikilink"
+title="Trade Related Intellectual Property Rights">"Trade Related
 Intellectual Property Rights</a> (TRIPS) were signed and approved.[^8]
 These agreements caused backlash from many people around the world for
 focusing on technical problems rather than the human right to access to
@@ -65,30 +65,29 @@ The movement has grown and is now recognized as a part of the global
 dialogue on food and agriculture. It has presented in several
 international fora, such as:
 
-- The <a href="Food_and_Agriculture_Organization_of_the_United_Nations"
+- The "<a   href="Food_and_Agriculture_Organization_of_the_United_Nations.md"
   class="wikilink"
-  title="Food and Agriculture Organization of the United Nations">Food and
+  title="Food and Agriculture Organization of the United Nations">"Food and
   Agriculture Organization of the United Nations</a> (FAO)[^12]
-- The <a
-  href="International_Convention_for_the_Protection_of_New_Varieties_of_Plants"
+- The "<a   href="International_Convention_for_the_Protection_of_New_Varieties_of_Plants.md"
   class="wikilink"
-  title="International Union for the Protection of New Varieties of Plants">International
+  title="International Union for the Protection of New Varieties of Plants">"International
   Union for the Protection of New Varieties of Plants</a> (UPOV)[^13]
-- The <a href="UN_Human_Rights_Council" class="wikilink"
-  title="UN Human Rights Council">UN Human Rights Council</a> (HRC)[^14]
+- The "<a   href="UN_Human_Rights_Council.md" class="wikilink"
+  title="UN Human Rights Council">"UN Human Rights Council</a> (HRC)[^14]
 - The
-  <a href="World_Intellectual_Property_Organization" class="wikilink"
-  title="World Intellectual Property Organization">World Intellectual
+  "<a   href="World_Intellectual_Property_Organization.md" class="wikilink"
+  title="World Intellectual Property Organization">"World Intellectual
   Property Organization</a> (WIPO)
 
 Via Campesina has been involved in the negotiations[^15] of the
-<a href="United_Nations_Declaration_on_the_Rights_of_Peasants"
+"<a   href="United_Nations_Declaration_on_the_Rights_of_Peasants.md"
 class="wikilink"
-title="United Nations Declaration on the Rights of Peasants and other people living in Rural areas">United
+title="United Nations Declaration on the Rights of Peasants and other people living in Rural areas">"United
 Nations Declaration on the Rights of Peasants and other people living in
 Rural areas</a>, adopted by the
-<a href="United_Nations_General_Assembly" class="wikilink"
-title="UN General Assembly">UN General Assembly</a> in December
+"<a   href="United_Nations_General_Assembly.md" class="wikilink"
+title="UN General Assembly">"UN General Assembly</a> in December
 2018.[^16]
 
 ## Philosophy
@@ -100,7 +99,7 @@ In 1996, LVC coined the term "food sovereignty" which they define as
 produced through ecologically sound and sustainable methods, and their
 right to define their own food and agriculture systems."[^17] This
 concept was introduced at the World Food Summit in 1996 and differs from
-<a href="food_security" class="wikilink" title="food security">food
+"<a   href="food_security.md" class="wikilink" title="food security">"food
 security</a>. The phrase "culturally appropriate" signifies that the
 food that is available and accessible for the population should fit with
 the cultural background of the people consuming it.
@@ -111,8 +110,8 @@ population's\] dietary and food preferences for an active and healthy
 life"[^18] and is more focused on the provision of food for all by
 whatever means necessary, whether by local production or global imports.
 As a result, economic policies concerned with food security typically
-emphasize <a href="industrial_farming" class="wikilink"
-title="industrial farming">industrial farming</a> that can produce more
+emphasize "<a   href="industrial_farming.md" class="wikilink"
+title="industrial farming">"industrial farming</a> that can produce more
 food cheaper.[^19]
 
 ### Anti-Capitalism and Feminism
@@ -125,8 +124,8 @@ consumerism and trade liberalization."[^21]
 
 In recent years, the movement has placed greater emphasis on gender
 issues and women's rights, and strengthened its opposition to
-<a href="transnational_corporations" class="wikilink"
-title="transnational corporations">transnational corporations</a>.[^22]
+"<a   href="transnational_corporations.md" class="wikilink"
+title="transnational corporations">"transnational corporations</a>.[^22]
 
 ### Agroecology
 
@@ -162,16 +161,16 @@ appropriate."[^24]
 
 The anti-capitalist movement's decentralized structure and direct
 action-oriented strategy have much in common with the horizontal
-unionist tendency of <a href="Green_Syndicalism" class="wikilink"
-title="Green Syndicalism">Green Syndicalism</a>. Some researchers have
+unionist tendency of "<a   href="Green_Syndicalism.md" class="wikilink"
+title="Green Syndicalism">"Green Syndicalism</a>. Some researchers have
 found overlaps between LVC's approach and the philosophy of
-<a href="Ecofeminism" class="wikilink"
-title="Ecofeminism">Ecofeminism</a>.[^25]
+"<a   href="Ecofeminism.md" class="wikilink"
+title="Ecofeminism">"Ecofeminism</a>.[^25]
 
 ### Food Regimes
 
 Friedmann defines a
-<a href="Food_regimes" class="wikilink" title="food regime">food
+"<a   href="Food_regimes.md" class="wikilink" title="food regime">"food
 regime</a> as a "rule governed structure of production and consumption
 of food on a world scale".[^26] A food regime is marked by a period of
 transition in food production that results in significant social,
@@ -186,16 +185,16 @@ weather and disease.[^29]
 Food regimes are the result of "political struggles among contending
 social groups" for control over how food production is framed and
 conceptualized, according to McMichael.[^30] The corporate food regime
-came about with the <a href="Neoliberalism" class="wikilink"
-title="neoliberal">neoliberal</a> economic theory which is motivated by
+came about with the "<a   href="Neoliberalism.md" class="wikilink"
+title="neoliberal">"neoliberal</a> economic theory which is motivated by
 efficiency and trade liberalization, and states that nations should
 focus their efforts and resources on producing goods and services where
 they have an advantage relative to other nations. The corporate food
 regime has existed for only the last 100 years, as compared to the
-millennia prior to <a href="industrialization" class="wikilink"
-title="industrialization">industrialization</a> and the
-<a href="Green_Revolution" class="wikilink"
-title="Green Revolution">Green Revolution</a>.[^31]
+millennia prior to "<a   href="industrialization.md" class="wikilink"
+title="industrialization">"industrialization</a> and the
+"<a   href="Green_Revolution.md" class="wikilink"
+title="Green Revolution">"Green Revolution</a>.[^31]
 
 ### Peasant Identity
 
@@ -206,7 +205,7 @@ reclaiming of this identity has been called "re-peasantization".[^33]
 
 According to Desmarais (2008), the term "peasant" in English has a
 connotation related to
-<a href="feudalism" class="wikilink" title="feudalism">feudalism</a>,
+"<a   href="feudalism.md" class="wikilink" title="feudalism">"feudalism</a>,
 but in other languages and contexts, the meaning is broader; *campesino*
 comes from the word *campo*, meaning "countryside", which ties the
 people to the land.[^34] This feudalist connotation is one reason why
@@ -249,8 +248,8 @@ to assess and improve global food production and sovereignty.[^44]
 
 According to Michael Menser, La Via Campesina is an example of the
 success and expansion of transnational movements in regards to
-<a href="participatory_democracy" class="wikilink"
-title="participatory democracy">participatory democracy</a> due to its
+"<a   href="participatory_democracy.md" class="wikilink"
+title="participatory democracy">"participatory democracy</a> due to its
 organization model and adaptation to ensure fair representation.[^45]
 
 ### Women's involvement
@@ -273,8 +272,8 @@ Commission.[^49]
 
 The women on the committee were heavily involved in editing the draft of
 the cornerstone position on food sovereignty that was presented at the
-<a href="World_Food_Summit" class="wikilink"
-title="World Food Summit">World Food Summit</a> in 1996.[^50] They
+"<a   href="World_Food_Summit.md" class="wikilink"
+title="World Food Summit">"World Food Summit</a> in 1996.[^50] They
 included health as a consideration for food production without
 agro-chemicals, as well as the importance of women's involvement in
 policy changes because women typically were barred from political
@@ -300,23 +299,23 @@ The thousands of blockaders organized horizontally and were influenced
 by ideas of queer feminism and North-South solidarity.[^54]
 
 La Vía Campesina also partners with other social movements and
-<a href="non-governmental_organization" class="wikilink"
-title="non-governmental organization">non-governmental organizations</a>
+"<a   href="non-governmental_organization.md" class="wikilink"
+title="non-governmental organization">"non-governmental organizations</a>
 (NGOs) to strengthen its international presence.[^55]
 
 ### Member Organizations
 
 LVC's member organizations include Brazil's
-<a href="Landless_Workers&#39;_Movement" class="wikilink"
-title="Landless Workers&#39; Movement">Landless Workers' Movement</a>
+"<a   href="Landless_Workers&#39;_Movement.md" class="wikilink"
+title="Landless Workers&#39; Movement">"Landless Workers' Movement</a>
 which has seized land where 150,000 families currently reside.
 
 LVC has supported
-<a href="15th_Garden" class="wikilink" title="15th Garden">15th
+"<a   href="15th_Garden.md" class="wikilink" title="15th Garden">"15th
 Garden</a> movement, a horizontally-structured and anti-Assadist urban
 farming movement in Syria. The name 15th garden comes from the March
-15th anniversary of the <a href="Syrian_Revolution" class="wikilink"
-title="Syrian Revolution">Syrian Revolution</a>.[^56]
+15th anniversary of the "<a   href="Syrian_Revolution.md" class="wikilink"
+title="Syrian Revolution">"Syrian Revolution</a>.[^56]
 
 LVC's Cuban affiliate ANAP led the campesino-to-campesino (farmer to
 farmer) movement that spread agroecological techniques which
@@ -335,23 +334,23 @@ dramatically improved both per-hectare and per-hour productivity.[^57]
 
 <references/>
 
-<a href="Category:Social_Movements" class="wikilink"
-title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
+"<a   href="Category:Social_Movements.md" class="wikilink"
+title="Category:Social Movements">"Category:Social Movements</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
 Communities</a>
-<a href="Category:Current_Anarchist_Societies" class="wikilink"
-title="Category:Current Anarchist Societies">Category:Current Anarchist
+"<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
+title="Category:Current Anarchist Societies">"Category:Current Anarchist
 Societies</a>
-<a href="Category:Workers&#39;_Self-Management" class="wikilink"
-title="Category:Workers&#39; Self-Management">Category:Workers'
+"<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+title="Category:Workers&#39; Self-Management">"Category:Workers'
 Self-Management</a>
-<a href="Category:Anarchist_Societies" class="wikilink"
-title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Societies.md" class="wikilink"
+title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: [**Members of La Via Campesina** as of
     2018](https://viacampesina.org/en/wp-content/uploads/sites/2/2018/03/List-of-members.pdf)

@@ -8,12 +8,12 @@ centralized leadership. These resistance strategies employ small,
 independent groups (covert cells) or individuals (lone wolves) that
 operate autonomously while sharing common goals and ideological
 frameworks. Non-hierarchical resistance can encompass activities ranging
-from <a href="civil_disobedience" class="wikilink"
-title="civil disobedience">civil disobedience</a> and
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
-to <a href="sabotage" class="wikilink" title="sabotage">sabotage</a> and
+from "<a   href="civil_disobedience.md" class="wikilink"
+title="civil disobedience">"civil disobedience</a> and
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+to "<a   href="sabotage.md" class="wikilink" title="sabotage">"sabotage</a> and
 other forms of
-<a href="direct_action" class="wikilink" title="direct action">direct
+"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
 action</a>.
 
 From an anarchist perspective, non-hierarchical resistance represents
@@ -41,11 +41,11 @@ including right-wing extremist Louis Beam in the 1980s-90s.
 
 However, anarchists had been practicing forms of non-hierarchical
 resistance long before these formalizations. The
-<a href="propaganda_of_the_deed" class="wikilink"
-title="propaganda of the deed">propaganda of the deed</a> actions of
+"<a   href="propaganda_of_the_deed.md" class="wikilink"
+title="propaganda of the deed">"propaganda of the deed</a> actions of
 19th century anarchists, the decentralized organizing of the
-<a href="Spanish_Revolution" class="wikilink"
-title="Spanish Revolution">Spanish Revolution</a>, and various
+"<a   href="Spanish_Revolution.md" class="wikilink"
+title="Spanish Revolution">"Spanish Revolution</a>, and various
 insurrectionary anarchist campaigns all demonstrate anarchist engagement
 with horizontal resistance structures.
 
@@ -76,8 +76,8 @@ themselves. Creating hierarchical structures to fight hierarchy risks
 reproducing the very power dynamics anarchists seek to abolish.
 
 Non-hierarchical organizing embodies
-<a href="prefigurative_politics" class="wikilink"
-title="prefigurative politics">prefigurative politics</a> - the idea
+"<a   href="prefigurative_politics.md" class="wikilink"
+title="prefigurative politics">"prefigurative politics</a> - the idea
 that revolutionary movements should embody in their practice the social
 relations they wish to create. By organizing horizontally, anarchist
 resistance movements demonstrate the viability of non-hierarchical
@@ -103,34 +103,34 @@ respond to, but there is no formal command structure.[^4]
 
 ### Animal Liberation Movement
 
-The <a href="Animal_Liberation_Front" class="wikilink"
-title="Animal Liberation Front">Animal Liberation Front</a> (ALF),
+The "<a   href="Animal_Liberation_Front.md" class="wikilink"
+title="Animal Liberation Front">"Animal Liberation Front</a> (ALF),
 formed in 1976, adopted a leaderless resistance model focused on animal
 liberation through direct action. The ALF operates through independent
 cells that conduct raids to liberate animals and cause economic damage
 to enterprises exploiting animals, without any central command structure
 coordinating these actions.
 
-The <a href="Earth_Liberation_Front" class="wikilink"
-title="Earth Liberation Front">Earth Liberation Front</a> (ELF), which
+The "<a   href="Earth_Liberation_Front.md" class="wikilink"
+title="Earth Liberation Front">"Earth Liberation Front</a> (ELF), which
 emerged from
-<a href="Earth_First!" class="wikilink" title="Earth First!">Earth
+"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
 First!</a> in 1992, similarly employs non-hierarchical organizing for
-<a href="ecotage" class="wikilink" title="ecotage">ecotage</a> and
+"<a   href="ecotage.md" class="wikilink" title="ecotage">"ecotage</a> and
 property destruction targeting environmental destruction. Both movements
 explicitly forbid actions that harm human or non-human life, while
 maintaining that property destruction constitutes legitimate direct
 action against systems of oppression.[^5]
 
-The <a href="Hunt_Saboteurs_Association" class="wikilink"
-title="Hunt Saboteurs Association">Hunt Saboteurs Association</a>,
+The "<a   href="Hunt_Saboteurs_Association.md" class="wikilink"
+title="Hunt Saboteurs Association">"Hunt Saboteurs Association</a>,
 founded in 1964, rapidly spread across the United Kingdom through a
 leaderless model, with autonomous groups forming to disrupt fox hunts
 without central coordination.
 
 ### Radical Environmental Movement
 
-<a href="Earth_First!" class="wikilink" title="Earth First!">Earth
+"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
 First!</a>, founded in 1980, made use of decentralized direct action
 including treesitting and treespiking to oppose environmental
 destruction. While the organization was committed to nonviolent tactics,
@@ -146,12 +146,12 @@ adopted the same acronym.
 ### Contemporary Movements
 
 More recent movements including elements of
-<a href="Antifa" class="wikilink" title="Antifa">Antifa</a>,
-<a href="Extinction_Rebellion" class="wikilink"
-title="Extinction Rebellion">Extinction Rebellion</a>, and various
+"<a   href="Antifa.md" class="wikilink" title="Antifa">"Antifa</a>,
+"<a   href="Extinction_Rebellion.md" class="wikilink"
+title="Extinction Rebellion">"Extinction Rebellion</a>, and various
 autonomous anti-capitalist networks have employed non-hierarchical
 resistance strategies. The
-<a href="Yellow_Vests" class="wikilink" title="Yellow Vests">Yellow
+"<a   href="Yellow_Vests.md" class="wikilink" title="Yellow Vests">"Yellow
 Vests</a> movement in France demonstrated how decentralized movements
 can emerge spontaneously through social media and shared grievances,
 operating effectively without formal leadership structures.[^6]
@@ -182,8 +182,8 @@ spokescouncils or other horizontal decision-making structures.
 
 Affinity groups represent the anarchist iteration of cell structure,
 emphasizing trust, autonomy, and
-<a href="consensus_decision-making" class="wikilink"
-title="consensus decision-making">consensus decision-making</a> rather
+"<a   href="consensus_decision-making.md" class="wikilink"
+title="consensus decision-making">"consensus decision-making</a> rather
 than command relationships. Unlike some cell systems that rely on
 cutouts and dead drops, affinity groups are built on genuine solidarity
 and shared values.
@@ -260,8 +260,8 @@ and the maintenance of non-hierarchical principles.
 ### Security Culture Requirements
 
 Non-hierarchical resistance requires strong
-<a href="security_culture" class="wikilink"
-title="security culture">security culture</a> - shared understanding of
+"<a   href="security_culture.md" class="wikilink"
+title="security culture">"security culture</a> - shared understanding of
 how to avoid surveillance, protect sensitive information, and maintain
 operational security. Without explicit leadership enforcing security
 protocols, all participants must internalize these practices.
@@ -349,8 +349,8 @@ including different participants.
 
 ## Relationship to Insurrectionary Anarchism
 
-<a href="Insurrectionary_anarchism" class="wikilink"
-title="Insurrectionary anarchism">Insurrectionary anarchism</a>
+"<a   href="Insurrectionary_anarchism.md" class="wikilink"
+title="Insurrectionary anarchism">"Insurrectionary anarchism</a>
 particularly emphasizes non-hierarchical resistance through informal
 organization and autonomous action. Insurrectionary anarchists critique
 formal anarchist organizations as reproducing hierarchy and bureaucracy,
@@ -367,10 +367,10 @@ Critics of insurrectionary anarchism argue that rejecting all formal
 organization limits movements' ability to sustain long-term struggle,
 maintain institutional memory, or coordinate complex campaigns. They
 advocate for non-hierarchical but more structured approaches like
-<a href="platformism" class="wikilink"
-title="platformism">platformism</a> or
-<a href="synthesist_anarchism" class="wikilink"
-title="synthesist anarchism">synthesist anarchism</a> that maintain
+"<a   href="platformism.md" class="wikilink"
+title="platformism">"platformism</a> or
+"<a   href="synthesist_anarchism.md" class="wikilink"
+title="synthesist anarchism">"synthesist anarchism</a> that maintain
 horizontal organization while creating greater capacity for
 coordination.
 
@@ -438,48 +438,48 @@ maintains hierarchical power relations.
 
 ## See Also
 
-- <a href="Insurrectionary_Anarchism" class="wikilink"
-  title="Insurrectionary Anarchism">Insurrectionary Anarchism</a>
-- <a href="Affinity_Groups" class="wikilink"
-  title="Affinity Groups">Affinity Groups</a>
-- <a href="Security_Culture" class="wikilink"
-  title="Security Culture">Security Culture</a>
-- <a href="Propaganda_of_the_Deed" class="wikilink"
-  title="Propaganda of the Deed">Propaganda of the Deed</a>
-- <a href="Direct_Action" class="wikilink" title="Direct Action">Direct
+- "<a   href="Insurrectionary_Anarchism.md" class="wikilink"
+  title="Insurrectionary Anarchism">"Insurrectionary Anarchism</a>
+- "<a   href="Affinity_Groups.md" class="wikilink"
+  title="Affinity Groups">"Affinity Groups</a>
+- "<a   href="Security_Culture.md" class="wikilink"
+  title="Security Culture">"Security Culture</a>
+- "<a   href="Propaganda_of_the_Deed.md" class="wikilink"
+  title="Propaganda of the Deed">"Propaganda of the Deed</a>
+- "<a   href="Direct_Action.md" class="wikilink" title="Direct Action">"Direct
   Action</a>
-- <a href="Prefigurative_Politics" class="wikilink"
-  title="Prefigurative Politics">Prefigurative Politics</a>
-- <a href="Animal_Liberation_Front" class="wikilink"
-  title="Animal Liberation Front">Animal Liberation Front</a>
-- <a href="Earth_Liberation_Front" class="wikilink"
-  title="Earth Liberation Front">Earth Liberation Front</a>
-- <a href="Autonomous_Organizing" class="wikilink"
-  title="Autonomous Organizing">Autonomous Organizing</a>
-- <a href="Illegalism" class="wikilink" title="Illegalism">Illegalism</a>
+- "<a   href="Prefigurative_Politics.md" class="wikilink"
+  title="Prefigurative Politics">"Prefigurative Politics</a>
+- "<a   href="Animal_Liberation_Front.md" class="wikilink"
+  title="Animal Liberation Front">"Animal Liberation Front</a>
+- "<a   href="Earth_Liberation_Front.md" class="wikilink"
+  title="Earth Liberation Front">"Earth Liberation Front</a>
+- "<a   href="Autonomous_Organizing.md" class="wikilink"
+  title="Autonomous Organizing">"Autonomous Organizing</a>
+- "<a   href="Illegalism.md" class="wikilink" title="Illegalism">"Illegalism</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Anarchist_Tactics" class="wikilink"
-title="Category:Anarchist Tactics">Category:Anarchist Tactics</a>
-<a href="Category:Insurrectionary_Anarchism" class="wikilink"
-title="Category:Insurrectionary Anarchism">Category:Insurrectionary
-Anarchism</a> <a href="Category:Direct_Action" class="wikilink"
-title="Category:Direct Action">Category:Direct Action</a>
-<a href="Category:Revolutionary_Strategy" class="wikilink"
-title="Category:Revolutionary Strategy">Category:Revolutionary
-Strategy</a> <a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Anarchist_Tactics.md" class="wikilink"
+title="Category:Anarchist Tactics">"Category:Anarchist Tactics</a>
+"<a   href="Category:Insurrectionary_Anarchism.md" class="wikilink"
+title="Category:Insurrectionary Anarchism">"Category:Insurrectionary
+Anarchism</a> "<a   href="Category:Direct_Action.md" class="wikilink"
+title="Category:Direct Action">"Category:Direct Action</a>
+"<a   href="Category:Revolutionary_Strategy.md" class="wikilink"
+title="Category:Revolutionary Strategy">"Category:Revolutionary
+Strategy</a> "<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Garfinkel, Simson (2003). "Leaderless resistance today". First
     Monday 8(3)

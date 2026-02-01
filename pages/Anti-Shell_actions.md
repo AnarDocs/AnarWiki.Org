@@ -1,5 +1,5 @@
 From Peter Gelderloos,
-<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
 Works</a>:
 
 > For example, major protests, boycotts, and acts of sabotage against

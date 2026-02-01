@@ -11,13 +11,13 @@ social organization, freedom and self-fulfillment.[^2]
 Ecological approaches to anarchism were first formulated during the 19th
 century, as the rise of capitalism and colonialism caused environmental
 degradation. Drawing from the ecology of Charles Darwin, the anarchist
-<a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a> elaborated a naturalist
+"<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a> elaborated a naturalist
 philosophy that rejected the dualistic separation of humanity from
 nature. This was developed into an ecological philosophy by
-<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
 Kropotkin</a> and
-<a href="Élisée_Reclus" class="wikilink" title="Élisée Reclus">Élisée
+"<a   href="Élisée_Reclus.md" class="wikilink" title="Élisée Reclus">"Élisée
 Reclus</a>, who advocated for the decentralisation and degrowth of
 industry as a means to advance both social justice and environmental
 protection.
@@ -60,10 +60,10 @@ position over nature.[^10]
 ### Classical Anarchist Roots
 
 The ecological roots of anarchism go back to the classical anarchists,
-such as <a href="Pierre-Joseph_Proudhon" class="wikilink"
-title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> and
-<a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a>, who both conceived of human
+such as "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a> and
+"<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a>, who both conceived of human
 nature as the basis for anarchism.[^11] Drawing from Charles Darwin's
 work,[^12] Bakunin considered people to be an intrinsic part of their
 environment.[^13] Bakunin rejected Cartesian dualism, denying its
@@ -74,9 +74,9 @@ environment as a means to achieve freedom.[^15]
 
 Bakunin's naturalism was developed into an ecological philosophy by the
 geographers
-<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
 Kropotkin</a> and
-<a href="Élisée_Reclus" class="wikilink" title="Élisée Reclus">Élisée
+"<a   href="Élisée_Reclus.md" class="wikilink" title="Élisée Reclus">"Élisée
 Reclus</a>, who conceived the relationship between human society and
 nature as a dialectic. Their environmental ethics, which combined social
 justice with environmental protection, anticipated the green anarchist
@@ -92,15 +92,15 @@ industrialisation, Kropotkin argued for the localisation of the economy,
 which he felt would increase people's connection with the land and halt
 environmental damage.[^18]
 
-In *<a href="Fields,_Factories_and_Workshops" class="wikilink"
-title="Fields, Factories and Workshops">Fields, Factories and
+In *"<a   href="Fields,_Factories_and_Workshops.md" class="wikilink"
+title="Fields, Factories and Workshops">"Fields, Factories and
 Workshops</a>*, Kropotkin advocated for the satisfaction of human needs
 through horticulture, and the decentralisation and degrowth of
 industry.[^19] He also criticised the division of labour, both between
 mental and manual labourers, and between the rural peasantry and urban
 proletariat.[^20] In
-*<a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
-title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
+*"<a   href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+title="Mutual Aid: A Factor of Evolution">"Mutual Aid: A Factor of
 Evolution</a>*, he elaborated on the natural basis for communism,[^21]
 depicting the formation of social organisation among animals through the
 practice of mutual aid.[^22]
@@ -118,18 +118,18 @@ Kropotkin and Reclus' synthesis of environmental and social justice
 formed the foundation for eco-socialism, chiefly associated with
 libertarian socialists who advocated for a "return to nature", such as
 Robert Blatchford,
-<a href="William_Morris" class="wikilink" title="William Morris">William
+"<a   href="William_Morris.md" class="wikilink" title="William Morris">"William
 Morris</a> and Henry Stephens Salt.[^25] Ecological aspects of anarchism
 were also emphasised by
-<a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
-Goldman</a> and <a href="Alexander_Berkman" class="wikilink"
-title="Alexander Berkman">Alexander Berkman</a>, who, drawing from the
+"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">"Emma
+Goldman</a> and "<a   href="Alexander_Berkman.md" class="wikilink"
+title="Alexander Berkman">"Alexander Berkman</a>, who, drawing from the
 work of Henry David Thoreau, conceived of anarchism as a means to
 promote unity between humans and the natural world.[^26] These early
 ecological developments in anarchism lay the foundations for the
 elaboration of green anarchism in the 1960s, when it was first taken up
 by figures within the
-<a href="New_Left" class="wikilink" title="New Left">New Left</a>.[^27]
+"<a   href="New_Left.md" class="wikilink" title="New Left">"New Left</a>.[^27]
 
 ## History
 
@@ -151,8 +151,8 @@ decentralisation and diversity as solutions for socio-ecological
 systems.[^31]
 
 Green anarchism as a tendency was first developed by the American social
-anarchist <a href="Murray_Bookchin" class="wikilink"
-title="Murray Bookchin">Murray Bookchin</a>.[^32] Bookchin had already
+anarchist "<a   href="Murray_Bookchin.md" class="wikilink"
+title="Murray Bookchin">"Murray Bookchin</a>.[^32] Bookchin had already
 began addressing the problem of environmental degradation as far back as
 the 1950s.[^33] In 1962, he published the first major modern work of
 environmentalism, *Our Synthetic Environment*, which warned of the
@@ -175,18 +175,18 @@ Following on from deep ecology,[^39] the next major development in green
 anarchist philosophy was the articulation of anarcho-primitivism, which
 was critical of agriculture, technology and civilisation.[^40] First
 developed in the pages of the American anarchist magazine
-*<a href="Fifth_Estate" class="wikilink" title="Fifth Estate">Fifth
+*"<a   href="Fifth_Estate.md" class="wikilink" title="Fifth Estate">"Fifth
 Estate</a>* during the mid-1980s, anarcho-primitivist theory was
 developed by Fredy Perlman, David Watson,[^41] and particularly
-<a href="John_Zerzan" class="wikilink" title="John Zerzan">John
+"<a   href="John_Zerzan.md" class="wikilink" title="John Zerzan">"John
 Zerzan</a>.[^42] It was later taken up by the American periodical *Green
 Anarchy* and British periodical
-*<a href="Green_Anarchist" class="wikilink" title="Green Anarchist">Green
+*"<a   href="Green_Anarchist.md" class="wikilink" title="Green Anarchist">"Green
 Anarchist</a>*,[^43] and partly inspired groups such as the
-<a href="Animal_Liberation_Front" class="wikilink"
-title="Animal Liberation Front">Animal Liberation Front</a> (ALF),
-<a href="Earth_Liberation_Front" class="wikilink"
-title="Earth Liberation Front">Earth Liberation Front</a> (ELF) and
+"<a   href="Animal_Liberation_Front.md" class="wikilink"
+title="Animal Liberation Front">"Animal Liberation Front</a> (ALF),
+"<a   href="Earth_Liberation_Front.md" class="wikilink"
+title="Earth Liberation Front">"Earth Liberation Front</a> (ELF) and
 Individualists Tending to the Wild (ITS).[^44]
 
 ### From Theory to Practice
@@ -198,7 +198,7 @@ providing a direct continuity between contemporary environmentalism and
 the New Left of the 1960s.[^45]
 
 In the 1980s, green anarchist groups such as
-<a href="Earth_First!" class="wikilink" title="Earth First!">Earth
+"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
 First!</a> started taking direct action against deforestation, roadworks
 and industrial agriculture.[^46] They called their sabotage actions
 "monkey-wrenching", after Edward Abbey's 1984 novel *The Monkey Wrench
@@ -223,8 +223,8 @@ establishment of the anti-globalisation movement (AGM), as well as its
 transformation into the subsequent global justice movement (GJM).[^51]
 
 The AGM gained support in both the Global North and Global South, with
-the <a href="Zapatista_Army_of_National_Liberation" class="wikilink"
-title="Zapatista Army of National Liberation">Zapatista Army of National
+the "<a   href="Zapatista_Army_of_National_Liberation.md" class="wikilink"
+title="Zapatista Army of National Liberation">"Zapatista Army of National
 Liberation</a> (EZLN) becoming a key organisation within the
 movement.[^52] It also gained a wide range of support from different
 sectors of society, not only including activists from left-wing politics
@@ -339,7 +339,7 @@ to be broken down and humans to return to a hunter-gather
 lifestyle.[^80]
 
 Libertarian socialists such as
-<a href="Noam_Chomsky" class="wikilink" title="Noam Chomsky">Noam
+"<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">"Noam
 Chomsky</a> and Michael Albert have been critical of
 anarcho-primitivism, with the former arguing that it would inevitably
 result in genocide.[^81]
@@ -349,8 +349,8 @@ result in genocide.[^81]
 Green syndicalism, as developed by Graham Purchase and Judi Bari,[^82]
 advocates for the unification of the labour movement with environmental
 movement and for trade unions such as the
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="Industrial Workers of the World">Industrial Workers of the
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="Industrial Workers of the World">"Industrial Workers of the
 World</a> (IWW) to adopt ecological concerns into their platforms.[^83]
 
 Seeing workers' self-management as a means to address environmental
@@ -425,7 +425,7 @@ it has faced criticism from various perspectives. Some Marxists and
 other leftists have argued that certain green anarchist tendencies,
 particularly anarcho-primitivism, are impractical and would lead to
 massive human suffering if implemented.
-<a href="Noam_Chomsky" class="wikilink" title="Noam Chomsky">Noam
+"<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">"Noam
 Chomsky</a> has specifically criticized anarcho-primitivism, arguing
 that abandoning modern technology and returning to pre-agricultural
 societies would result in the death of billions of people.[^99]
@@ -451,20 +451,20 @@ hierarchy as the root cause of environmental problems.
 
 <references/>
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies" class="wikilink"
-title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Environmentalism" class="wikilink"
-title="Category:Environmentalism">Category:Environmentalism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Ideologies.md" class="wikilink"
+title="Category:Ideologies">"Category:Ideologies</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:Environmentalism.md" class="wikilink"
+title="Category:Environmentalism">"Category:Environmentalism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Price, Andy (2019). "Green Anarchism" in The Palgrave Handbook of
     Anarchism, p.281

@@ -121,18 +121,18 @@ The nine MOVE members arrested in 1978 have been referred to as the MOVE
 2019.[^18]
 
 MOVE supporter Mumia Abu-Jamal, a journalist who belonged to the
-<a href="Black_Panther_Party_and_Anarchy" class="wikilink"
-title="Black Panther Party">Black Panther Party</a> is still in prison
+"<a   href="Black_Panther_Party_and_Anarchy.md" class="wikilink"
+title="Black Panther Party">"Black Panther Party</a> is still in prison
 and is being supported by MOVE.[^19]
 
 ## References
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: "About MOVE",
     <https://web.archive.org/web/20141103175340/http://onamove.com/about/>.

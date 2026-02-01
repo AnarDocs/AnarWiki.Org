@@ -70,8 +70,8 @@ company executive Roberto Adinolfi in Genoa.[^8]
 The FAI has strongly supported the Conspiracy of Cells of Fire since the
 latter network's emergence in 2008. Several FAI actions in 2014 were
 jointly claimed with the
-<a href="Earth_Liberation_Front" class="wikilink"
-title="Earth Liberation Front">Earth Liberation Front</a>.
+"<a   href="Earth_Liberation_Front.md" class="wikilink"
+title="Earth Liberation Front">"Earth Liberation Front</a>.
 
 <references/>
 

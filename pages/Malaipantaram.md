@@ -42,12 +42,12 @@ Hinduism.[^6]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:India" class="wikilink"
-title="Category:India">Category:India</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:India.md" class="wikilink"
+title="Category:India">"Category:India</a>
 
 [^1]: Brian Morris, "Anarchism, Individualism, and South Indian
     Foragers: Memories and Reflections" in Brian Morris, *Anthropology,

@@ -1,27 +1,27 @@
 # Twin Oaks Community
 
 **Twin Oaks Community** is a
-<a href="secular" class="wikilink" title="secular">secular</a>
-<a href="intentional_community" class="wikilink"
-title="intentional community">intentional community</a> and
-<a href="ecovillage" class="wikilink" title="ecovillage">ecovillage</a>
+"<a   href="secular.md" class="wikilink" title="secular">"secular</a>
+"<a   href="intentional_community.md" class="wikilink"
+title="intentional community">"intentional community</a> and
+"<a   href="ecovillage.md" class="wikilink" title="ecovillage">"ecovillage</a>
 of approximately 100 people living on 450 acres in Louisa County,
 Virginia. Founded in 1967, it represents one of the longest-running and
 most successful examples of
-<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
 organization in North America. While Twin Oaks doesn't explicitly
 identify as anarchist, its core values of
-<a href="cooperation" class="wikilink"
-title="cooperation">cooperation</a>,
-<a href="egalitarianism" class="wikilink"
-title="egalitarianism">egalitarianism</a>,
-<a href="nonviolence" class="wikilink"
-title="nonviolence">nonviolence</a>,
-<a href="sustainability" class="wikilink"
-title="sustainability">sustainability</a>, and income sharing, combined
+"<a   href="cooperation.md" class="wikilink"
+title="cooperation">"cooperation</a>,
+"<a   href="egalitarianism.md" class="wikilink"
+title="egalitarianism">"egalitarianism</a>,
+"<a   href="nonviolence.md" class="wikilink"
+title="nonviolence">"nonviolence</a>,
+"<a   href="sustainability.md" class="wikilink"
+title="sustainability">"sustainability</a>, and income sharing, combined
 with its rejection of hierarchical authority and embrace of
-<a href="direct_democracy" class="wikilink"
-title="direct democracy">direct democracy</a>, make it a significant
+"<a   href="direct_democracy.md" class="wikilink"
+title="direct democracy">"direct democracy</a>, make it a significant
 case study in applied anarchist principles.
 
 ## Overview
@@ -40,11 +40,11 @@ anarchists, but rather they use words like egalitarian, feminist and
 The community operates without traditional capitalist wage
 relationships, police, or coercive hierarchy. Instead, it has developed
 sophisticated systems of
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
-<a href="consensus_decision-making" class="wikilink"
-title="consensus decision-making">consensus decision-making</a>, and
-<a href="restorative_justice" class="wikilink"
-title="restorative justice">restorative justice</a> that demonstrate the
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
+"<a   href="consensus_decision-making.md" class="wikilink"
+title="consensus decision-making">"consensus decision-making</a>, and
+"<a   href="restorative_justice.md" class="wikilink"
+title="restorative justice">"restorative justice</a> that demonstrate the
 viability of anarchist organization on a significant scale.
 
 ## Culture
@@ -54,10 +54,10 @@ viability of anarchist organization on a significant scale.
 Twin Oaks culture explicitly rejects domination and hierarchy in favor
 of cooperation and mutual support. As their core values statement
 emphasizes, the community is built around
-<a href="egalitarianism" class="wikilink"
-title="egalitarianism">egalitarianism</a> and
-<a href="nonviolence" class="wikilink"
-title="nonviolence">nonviolence</a>, creating what one academic study
+"<a   href="egalitarianism.md" class="wikilink"
+title="egalitarianism">"egalitarianism</a> and
+"<a   href="nonviolence.md" class="wikilink"
+title="nonviolence">"nonviolence</a>, creating what one academic study
 called "among the most non-sexist social systems in human history."[^3]
 
 The community practices what they call "consent culture," assuming that
@@ -83,8 +83,8 @@ specific political actions.[^6]
 
 Rather than relying on punishment or authority figures, Twin Oaks has
 developed sophisticated conflict resolution systems based on
-<a href="restorative_justice" class="wikilink"
-title="restorative justice">restorative justice</a> principles. The
+"<a   href="restorative_justice.md" class="wikilink"
+title="restorative justice">"restorative justice</a> principles. The
 community uses mediation, facilitated meetings, and community support
 through their Process Team rather than hierarchical enforcement.[^7]
 
@@ -97,8 +97,8 @@ doesn't deal with conflict that determines its health."[^8]
 ### Labor Credit System
 
 Twin Oaks' most revolutionary innovation is its
-<a href="labor_credit_system" class="wikilink"
-title="labor credit system">labor credit system</a>, which effectively
+"<a   href="labor_credit_system.md" class="wikilink"
+title="labor credit system">"labor credit system</a>, which effectively
 eliminates the wage-labor relationship central to capitalism. All
 members work approximately 38 hours per week, with all labor valued
 equally regardless of type - from income-generating work to childcare to
@@ -120,7 +120,7 @@ for contribution while maintaining equality.[^11]
 While originally inspired by Skinner's "planner-manager" system, Twin
 Oaks governance evolved into a form of participatory democracy that
 resembles
-<a href="sociocracy" class="wikilink" title="sociocracy">sociocracy</a>.
+"<a   href="sociocracy.md" class="wikilink" title="sociocracy">"sociocracy</a>.
 The community uses a modified consensus process where authority is
 delegated to managers and planners, but these positions remain
 accountable to the membership.[^12]
@@ -150,7 +150,7 @@ hierarchical control.[^15]
 ### Beyond Capitalism
 
 Twin Oaks operates a
-<a href="gift_economy" class="wikilink" title="gift economy">gift
+"<a   href="gift_economy.md" class="wikilink" title="gift economy">"gift
 economy</a> internally while interfacing with the capitalist market
 externally. Members have no individual income and share all resources
 collectively, with the community providing housing, food, healthcare,
@@ -201,8 +201,8 @@ through collective effort rather than state or market mechanisms.
 
 ### Prefigurative Politics
 
-Twin Oaks demonstrates <a href="prefigurative_politics" class="wikilink"
-title="prefigurative politics">prefigurative politics</a> by creating
+Twin Oaks demonstrates "<a   href="prefigurative_politics.md" class="wikilink"
+title="prefigurative politics">"prefigurative politics</a> by creating
 the kind of society anarchists envision rather than waiting for
 revolutionary change. As one member explained in their 1990 speech:
 "They decided to form a network of lovers, if you will, mostly quite
@@ -268,11 +268,11 @@ the last 20 years."[^27]
 ### Network Building
 
 Twin Oaks has helped establish several sister communities including
-<a href="Acorn_Community" class="wikilink" title="Acorn Community">Acorn
-Community</a>, <a href="Living_Energy_Farm" class="wikilink"
-title="Living Energy Farm">Living Energy Farm</a>, and
-<a href="East_Wind_Community" class="wikilink"
-title="East Wind Community">East Wind Community</a>, creating a network
+"<a   href="Acorn_Community.md" class="wikilink" title="Acorn Community">"Acorn
+Community</a>, "<a   href="Living_Energy_Farm.md" class="wikilink"
+title="Living Energy Farm">"Living Energy Farm</a>, and
+"<a   href="East_Wind_Community.md" class="wikilink"
+title="East Wind Community">"East Wind Community</a>, creating a network
 of anarchist-influenced intentional communities that Butcher describes
 as potentially comprising "the basis for a comparative study of the
 successes and failures of these related communities."[^28]
@@ -322,27 +322,27 @@ anarchist theory put into successful practice.
 - Twin Oaks Community. Various internal documentation on values,
   practices, and organization. 2025.
 
-<a href="Category:Current_Anarchist_Societies" class="wikilink"
-title="Category:Current Anarchist Societies">Category:Current Anarchist
+"<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
+title="Category:Current Anarchist Societies">"Category:Current Anarchist
 Societies</a>
-<a href="Category:Intentional_Communities" class="wikilink"
-title="Category:Intentional Communities">Category:Intentional
+"<a   href="Category:Intentional_Communities.md" class="wikilink"
+title="Category:Intentional Communities">"Category:Intentional
 Communities</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
 Communities</a>
-<a href="Category:Egalitarian_Communities" class="wikilink"
-title="Category:Egalitarian Communities">Category:Egalitarian
-Communities</a> <a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:21st_Century" class="wikilink"
-title="Category:21st Century">Category:21st Century</a>
-<a href="Category:Direct_Democracy" class="wikilink"
-title="Category:Direct Democracy">Category:Direct Democracy</a>
-<a href="Category:Mutual_Aid" class="wikilink"
-title="Category:Mutual Aid">Category:Mutual Aid</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Egalitarian_Communities.md" class="wikilink"
+title="Category:Egalitarian Communities">"Category:Egalitarian
+Communities</a> "<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:21st_Century.md" class="wikilink"
+title="Category:21st Century">"Category:21st Century</a>
+"<a   href="Category:Direct_Democracy.md" class="wikilink"
+title="Category:Direct Democracy">"Category:Direct Democracy</a>
+"<a   href="Category:Mutual_Aid.md" class="wikilink"
+title="Category:Mutual Aid">"Category:Mutual Aid</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Wikipedia. "Twin Oaks Community." 2025.
 

@@ -3,8 +3,8 @@
 <figcaption>07PLAYGROUND4-popup.jpg</figcaption>
 </figure>
 
-From Colin Ward, <a href="Anarchy_in_Action" class="wikilink"
-title="Anarchy in Action">Anarchy in Action</a>:
+From Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
+title="Anarchy in Action">"Anarchy in Action</a>:
 
 > The Emdrup playground was begun in 1943 by the Copenhagen Workers'
 > Co-operative Housing Association after their landscape archi­tect, C.

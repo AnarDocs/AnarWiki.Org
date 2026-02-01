@@ -1,17 +1,17 @@
 The **Sunagawa Struggle** was an effort by farmers, leftists and
-students in <a href="Japan" class="wikilink" title="Japan">Japan</a> to
+students in "<a   href="Japan.md" class="wikilink" title="Japan">"Japan</a> to
 stop the construction of a
-<a href="Timeline_of_US_Imperialism" class="wikilink"
-title="US military base">US military base</a> in western Tokyo in
-<a href="Timeline_of_Anarchism_in_Eastern_Asia" class="wikilink"
-title="1955 and 1957">1955 and 1957</a>.
+"<a   href="Timeline_of_US_Imperialism.md" class="wikilink"
+title="US military base">"US military base</a> in western Tokyo in
+"<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
+title="1955 and 1957">"1955 and 1957</a>.
 
 ## Background
 
 The Tachikawa Air Force Base (AFB) was a US airfield in western Tokyo.
 The US military and the Japanese government planned to use this airfield
-for transporting <a href="Nuclear_Weapons" class="wikilink"
-title="nuclear weapons">nuclear weapons</a>. In order to accommodate for
+for transporting "<a   href="Nuclear_Weapons.md" class="wikilink"
+title="nuclear weapons">"nuclear weapons</a>. In order to accommodate for
 the larger aircraft needed to transport these weapons, the Tachikawa AFB
 needed to expand and lengthen the runway for longer landing and takeoff
 distances. However, that meant that the government would need to use the
@@ -25,7 +25,7 @@ priests in Sunagawa, the small village adjacent to the Tachikawa AFB,
 began a campaign of nonviolent interjection and occupation of their own
 farmland in order to physically prevent officials from surveying and
 taking their land. Protests began in October 1956. On the 12th of
-October, <a href="police" class="wikilink" title="police">police</a>
+October, "<a   href="police.md" class="wikilink" title="police">"police</a>
 beat villagers and demonstrators with clubs, injuring 260 people. The
 next day, four thousand people including Diet (Japanese Parliament)
 members from the Socialist party, the Councilor of the Communist Party,
@@ -66,39 +66,39 @@ were indicted on criminal trespassing charges.
 After the Sunagawa riots, the US military canceled the construction
 program in 1957, officially announcing its decision to not build
 Tachikawa AFB in 1968. The campaign inspired the
-<a href="Sanrizuka_Struggle" class="wikilink"
-title="Sanrizuka Struggle">Sanrizuka Struggle</a> against civilian
+"<a   href="Sanrizuka_Struggle.md" class="wikilink"
+title="Sanrizuka Struggle">"Sanrizuka Struggle</a> against civilian
 Narita Airport in 1966.
 
 ## References
 
-<a href="Global_Nonviolent_Action_Database" class="wikilink"
-title="Global Nonviolent Action Database">Global Nonviolent Action
+"<a   href="Global_Nonviolent_Action_Database.md" class="wikilink"
+title="Global Nonviolent Action Database">"Global Nonviolent Action
 Database</a> - [Sunagawa farmers prevent expansion of Tachikawa Air
 Force Base,
 1956-57](https://nvdatabase.swarthmore.edu/content/sunagawa-farmers-prevent-expansion-tachikawa-air-force-base-1956-57)
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Japan" class="wikilink"
-title="Category:Japan">Category:Japan</a>
-<a href="Category:1955" class="wikilink"
-title="Category:1955">Category:1955</a>
-<a href="Category:1956" class="wikilink"
-title="Category:1956">Category:1956</a>
-<a href="Category:1957" class="wikilink"
-title="Category:1957">Category:1957</a>
-<a href="Category:1950s" class="wikilink"
-title="Category:1950s">Category:1950s</a>
-<a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Anti-Imperialism" class="wikilink"
-title="Category:Anti-Imperialism">Category:Anti-Imperialism</a>
-<a href="Category:Asia" class="wikilink"
-title="Category:Asia">Category:Asia</a>
-<a href="Category:Eastern_Asia" class="wikilink"
-title="Category:Eastern Asia">Category:Eastern Asia</a>
-<a href="Category:Land_Defense" class="wikilink"
-title="Category:Land Defense">Category:Land Defense</a>
-<a href="Category:Anti-Militarism" class="wikilink"
-title="Category:Anti-Militarism">Category:Anti-Militarism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Japan.md" class="wikilink"
+title="Category:Japan">"Category:Japan</a>
+"<a   href="Category:1955.md" class="wikilink"
+title="Category:1955">"Category:1955</a>
+"<a   href="Category:1956.md" class="wikilink"
+title="Category:1956">"Category:1956</a>
+"<a   href="Category:1957.md" class="wikilink"
+title="Category:1957">"Category:1957</a>
+"<a   href="Category:1950s.md" class="wikilink"
+title="Category:1950s">"Category:1950s</a>
+"<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:Anti-Imperialism.md" class="wikilink"
+title="Category:Anti-Imperialism">"Category:Anti-Imperialism</a>
+"<a   href="Category:Asia.md" class="wikilink"
+title="Category:Asia">"Category:Asia</a>
+"<a   href="Category:Eastern_Asia.md" class="wikilink"
+title="Category:Eastern Asia">"Category:Eastern Asia</a>
+"<a   href="Category:Land_Defense.md" class="wikilink"
+title="Category:Land Defense">"Category:Land Defense</a>
+"<a   href="Category:Anti-Militarism.md" class="wikilink"
+title="Category:Anti-Militarism">"Category:Anti-Militarism</a>

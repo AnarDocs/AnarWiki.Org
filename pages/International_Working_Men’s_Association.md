@@ -28,9 +28,9 @@ program for the Brotherhood that the revolutionary association “must
 necessarily take the form of a secret society,” and members would be
 “subject to strict discipline.”[^5]
 
-In <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
+In "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
 class="wikilink"
-title="Demanding the Impossible: A History of Anarchism">Demanding the
+title="Demanding the Impossible: A History of Anarchism">"Demanding the
 Impossible: A History of Anarchism</a>, Peter Marshall contends that
 Bakunin's emphasis on secrecy and conspiracy sharply contradicted with
 his aims of building a libertarian society.
@@ -80,7 +80,7 @@ the uprising was short-lived, it inspired a wave of other uprisings "in
 Toulouse, Narbonne, Cette, Perpignan, Limoges, Saint-Etienne, Le
 Creusot, and other towns."[^10] The most significant in the wave of
 uprisings was the 1871 formation of the
-<a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
+"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
 Commune</a>. According to Peter Marshall, the uprising "marked the
 beginning of the revolutionary movement which was to culminate in the
 Paris Commune the following spring."[^11]
@@ -186,9 +186,9 @@ compromise with the reformists killed the IWMA.”[^22]
     Masters: An Anthology of Anarchism* (Oakland: AK Press, 2005), 160.
 
 [^6]: Peter Marshall,
-    <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
+    "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
     class="wikilink"
-    title="Demanding the Impossible: A History of Anarchism">Demanding the
+    title="Demanding the Impossible: A History of Anarchism">"Demanding the
     Impossible: A History of Anarchism</a>
 
 [^7]: *An Anarchist FAQ*, “J.3.7 Doesn't Bakunin's **Invisible
@@ -198,18 +198,18 @@ compromise with the reformists killed the IWMA.”[^22]
 [^8]: *ibid*.
 
 [^9]: Peter Marshall,
-    <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
+    "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
     class="wikilink"
-    title="Demanding the Impossible: A History of Anarchism">Demanding the
+    title="Demanding the Impossible: A History of Anarchism">"Demanding the
     Impossible: A History of Anarchism</a>. Graham, *We Do Not Fear
     Anarchy*, 143.
 
 [^10]: Paul Avrich quoted in Graham, *We Do Not Fear Anarchy*, 143.
 
 [^11]: Peter Marshall,
-    <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
+    "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
     class="wikilink"
-    title="Demanding the Impossible: A History of Anarchism">Demanding the
+    title="Demanding the Impossible: A History of Anarchism">"Demanding the
     Impossible: A History of Anarchism</a>
 
 [^12]: Graham, *We Do Not Fear Anarchy*, 167.

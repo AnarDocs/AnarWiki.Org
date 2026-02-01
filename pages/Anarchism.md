@@ -5,8 +5,8 @@ system and so work for the maximisation of individual liberty and social
 equality. They see the goals of liberty and equality as mutually
 self-supporting.[^1]
 
-Anarchy, is defined by <a href="Pierre-Joseph_Proudhon" class="wikilink"
-title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> as "the
+Anarchy, is defined by "<a   .md class="wikilink"
+title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a> as "the
 absence of a master, of a sovereign."[^2] In other words, anarchism is a
 political theory which aims to create a society within which individuals
 freely co-operate together as equals. As such, anarchism should not be
@@ -34,8 +34,8 @@ Errico Malatesta expresses it:
 
 ## History
 
-*Main Article: <a href="History_of_Anarchism" class="wikilink"
-title="History of Anarchism">History of Anarchism</a>*
+*Main Article: "<a   .md class="wikilink"
+title="History of Anarchism">"History of Anarchism</a>*
 
 ## Key Concepts
 
@@ -47,7 +47,7 @@ The word "anarchy" is from the Greek, prefix an (or a), meaning "not,"
 
 **Anarchy** refers to a society, entity, group of people, or a single
 person that rejects
-<a href="Hierarchy" class="wikilink" title="hierarchy">hierarchy</a>.
+"<a   .md class="wikilink" title="hierarchy">"hierarchy</a>.
 
 Anarchist theories have a fundamental critique of government, a vision
 of a society without government, and a proposed method of reaching such
@@ -90,7 +90,7 @@ government, and not absence of all law.
 
 ### Direct Action
 
-**<a href="Direct_Action" class="wikilink" title="Direct Action">Direct
+**"<a   .md class="wikilink" title="Direct Action">"Direct
 Action</a>** refers to actions and forms of organising that are
 unmediated by authority. It emphasises people taking matters into their
 own hands rather than relying on representatives, politicians, or
@@ -98,7 +98,7 @@ hierarchical institutions to act on their behalf.
 
 ### Mutual Aid
 
-**<a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>**
+**"<a   .md class="wikilink" title="Mutual Aid">"Mutual Aid</a>**
 refers to the voluntary cooperation and giving of resources to others
 without an expectation of a reward. It differs from charity in that it
 is based on reciprocity and solidarity rather than hierarchy, and builds
@@ -106,19 +106,19 @@ community power rather than dependence.
 
 ### Propaganda by Deed
 
-**<a href="Propaganda_of_the_Deed" class="wikilink"
-title="Propaganda of the Deed">Propaganda of the Deed</a>** or
+**"<a   .md class="wikilink"
+title="Propaganda of the Deed">"Propaganda of the Deed</a>** or
 **propaganda of the deed**, is a type of
-<a href="direct_action" class="wikilink" title="direct action">direct
+"<a   .md class="wikilink" title="direct action">"direct
 action</a> intended to influence public opinion. The action itself is
 meant to serve as an example for others to follow, acting as a catalyst
-for <a href="social_revolution" class="wikilink"
-title="social revolution">social revolution</a>.
+for "<a   .md class="wikilink"
+title="social revolution">"social revolution</a>.
 
 ### Prefigurative Politics
 
-**<a href="Prefiguration" class="wikilink"
-title="Prefiguration">Prefiguration</a>** is the practice of organising
+**"<a   .md class="wikilink"
+title="Prefiguration">"Prefiguration</a>** is the practice of organising
 in ways that reflect the desired future society. Anarchists attempt to
 embody non-hierarchical relationships and horizontal decision-making in
 their current movements, effectively "building the new world in the
@@ -145,67 +145,67 @@ superiority.
 Many (but not all) of these tendencies overlap and are compatible with
 each other:
 
-- <a href="Anarcha-Feminism" class="wikilink"
-  title="Anarcha-Feminism">Anarcha-Feminism</a>
-- <a href="Anarchism_Without_Adjectives" class="wikilink"
-  title="Anarchism Without Adjectives">Anarchism Without Adjectives</a>
-- <a href="Anarcho-Pacifism" class="wikilink"
-  title="Anarcho-Pacifism">Anarcho-Pacifism</a>
-- <a href="Crypto-Anarchism" class="wikilink"
-  title="Crypto-Anarchism">Crypto-Anarchism</a>
-- <a href="Green_Anarchism" class="wikilink"
-  title="Green/Eco-Anarchism">Green/Eco-Anarchism</a>
-  - <a href="Anarcho-Primitivism" class="wikilink"
-    title="Anarcho-Primitivism">Anarcho-Primitivism</a>
-  - <a href="Social_Ecology" class="wikilink" title="Social Ecology">Social
+- "<a   .md class="wikilink"
+  title="Anarcha-Feminism">"Anarcha-Feminism</a>
+- "<a   .md class="wikilink"
+  title="Anarchism Without Adjectives">"Anarchism Without Adjectives</a>
+- "<a   .md class="wikilink"
+  title="Anarcho-Pacifism">"Anarcho-Pacifism</a>
+- "<a   .md class="wikilink"
+  title="Crypto-Anarchism">"Crypto-Anarchism</a>
+- "<a   .md class="wikilink"
+  title="Green/Eco-Anarchism">"Green/Eco-Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Anarcho-Primitivism">"Anarcho-Primitivism</a>
+  - "<a   .md class="wikilink" title="Social Ecology">"Social
     Ecology</a>
-- <a href="Individualist_Anarchism" class="wikilink"
-  title="Individualist Anarchism">Individualist Anarchism</a>[^6]
-  - <a href="Egoist_Anarchism" class="wikilink"
-    title="Egoist Anarchism">Egoist Anarchism</a>
-  - <a href="Existentialist_Anarchism" class="wikilink"
-    title="Existentialist Anarchism">Existentialist Anarchism</a>
-  - <a href="Free-Market_Anarchism" class="wikilink"
-    title="Free-Market Anarchism">Free-Market Anarchism</a>
-    - <a href="Agorism" class="wikilink" title="Agorism">Agorism</a>
-    - <a href="Mutualism" class="wikilink" title="Mutualism">Mutualism</a>
-  - <a href="Philosophical_Anarchism" class="wikilink"
-    title="Philosophical Anarchism">Philosophical Anarchism</a>
-- <a href="Platformism" class="wikilink"
-  title="Platformism">Platformism</a>
-- <a href="Post-Anarchism" class="wikilink"
-  title="Post-Anarchism">Post-Anarchism</a>
-  - <a href="Black_Anarchism" class="wikilink" title="Black Anarchism">Black
+- "<a   .md class="wikilink"
+  title="Individualist Anarchism">"Individualist Anarchism</a>[^6]
+  - "<a   .md class="wikilink"
+    title="Egoist Anarchism">"Egoist Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Existentialist Anarchism">"Existentialist Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Free-Market Anarchism">"Free-Market Anarchism</a>
+    - "<a   .md class="wikilink" title="Agorism">"Agorism</a>
+    - "<a   .md class="wikilink" title="Mutualism">"Mutualism</a>
+  - "<a   .md class="wikilink"
+    title="Philosophical Anarchism">"Philosophical Anarchism</a>
+- "<a   .md class="wikilink"
+  title="Platformism">"Platformism</a>
+- "<a   .md class="wikilink"
+  title="Post-Anarchism">"Post-Anarchism</a>
+  - "<a   .md class="wikilink" title="Black Anarchism">"Black
     Anarchism</a>
-- <a href="Post-Left_Anarchism" class="wikilink"
-  title="Post-Left Anarchism">Post-Left Anarchism</a>
-- <a href="Queer_Anarchism" class="wikilink" title="Queer Anarchism">Queer
+- "<a   .md class="wikilink"
+  title="Post-Left Anarchism">"Post-Left Anarchism</a>
+- "<a   .md class="wikilink" title="Queer Anarchism">"Queer
   Anarchism</a>
-- <a href="Religious_Anarchism" class="wikilink"
-  title="Religious Anarchism">Religious Anarchism</a>
-  - <a href="Buddhist_Anarchism" class="wikilink"
-    title="Buddhist Anarchism">Buddhist Anarchism</a>
-  - <a href="Christian_Anarchism" class="wikilink"
-    title="Christian Anarchism">Christian Anarchism</a>
-    - <a href="Catholic_Workerism" class="wikilink"
-      title="Catholic Workerism">Catholic Workerism</a>
-  - <a href="Islamic_Anarchism" class="wikilink"
-    title="Islamic Anarchism">Islamic Anarchism</a>
-  - <a href="Jewish_Anarchism" class="wikilink"
-    title="Jewish Anarchism">Jewish Anarchism</a>
-  - <a href="Taoist_Anarchism" class="wikilink"
-    title="Taoist Anarchism">Taoist Anarchism</a>
-- <a href="Social_Anarchism" class="wikilink"
-  title="Social Anarchism">Social Anarchism</a>
-  - <a href="Anarcho-Collectivism" class="wikilink"
-    title="Anarcho-Collectivism">Anarcho-Collectivism</a>
-  - <a href="Anarcho-Communism" class="wikilink"
-    title="Anarcho-Communism">Anarcho-Communism</a>
-  - <a href="Anarcho-Syndicalism" class="wikilink"
-    title="Anarcho-Syndicalism">Anarcho-Syndicalism</a>
+- "<a   .md class="wikilink"
+  title="Religious Anarchism">"Religious Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Buddhist Anarchism">"Buddhist Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Christian Anarchism">"Christian Anarchism</a>
+    - "<a   .md class="wikilink"
+      title="Catholic Workerism">"Catholic Workerism</a>
+  - "<a   .md class="wikilink"
+    title="Islamic Anarchism">"Islamic Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Jewish Anarchism">"Jewish Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Taoist Anarchism">"Taoist Anarchism</a>
+- "<a   .md class="wikilink"
+  title="Social Anarchism">"Social Anarchism</a>
+  - "<a   .md class="wikilink"
+    title="Anarcho-Collectivism">"Anarcho-Collectivism</a>
+  - "<a   .md class="wikilink"
+    title="Anarcho-Communism">"Anarcho-Communism</a>
+  - "<a   .md class="wikilink"
+    title="Anarcho-Syndicalism">"Anarcho-Syndicalism</a>
 
-Misnamed <a href="Propertarianism" class="wikilink"
-title="Anarcho-Capitalism / Right-Wing Libertarianism (Propertarianism)">Anarcho-Capitalism
+Misnamed "<a   .md class="wikilink"
+title="Anarcho-Capitalism / Right-Wing Libertarianism (Propertarianism)">"Anarcho-Capitalism
 / Right-Wing Libertarianism (Propertarianism)</a> is not an Anarchist
 tendency.
 
@@ -218,20 +218,20 @@ achieving Anarchism.
 
 ## References
 
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Anarchisms" class="wikilink"
-title="Category:Anarchisms">Category:Anarchisms</a>
-<a href="Category:Ideologies" class="wikilink"
-title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Anarchopedia_Import" class="wikilink"
-title="Category:Anarchopedia Import">Category:Anarchopedia Import</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   .md class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   .md class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   .md class="wikilink"
+title="Category:Anarchisms">"Category:Anarchisms</a>
+"<a   .md class="wikilink"
+title="Category:Ideologies">"Category:Ideologies</a>
+"<a   .md class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   .md class="wikilink"
+title="Category:Anarchopedia Import">"Category:Anarchopedia Import</a>
+"<a   .md class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: <https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq-full#text-amuse-label-seca12>
 

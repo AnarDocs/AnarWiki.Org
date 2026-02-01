@@ -24,8 +24,8 @@ formed the Club of Revolutionary Republican Women Citizens. Leaders
 included Claire Lacombe and Pauline Léon.[^3]
 
 The limits of the French Revolution can be seen in its relation to the
-<a href="Anarchy_in_the_Haitian_Revolution" class="wikilink"
-title="Haitian Revolution">Haitian Revolution</a>. Although, by 1792,
+"<a   href="Anarchy_in_the_Haitian_Revolution.md" class="wikilink"
+title="Haitian Revolution">"Haitian Revolution</a>. Although, by 1792,
 Parisian masses did support Haitian independence[^4], the norm was not
 always for revolutionaries to support liberation of the French colony
 and its slaves.[^5]
@@ -135,9 +135,9 @@ over France as dictator in 1799.
     1-40.
 
 [^6]: Janet Biehl,
-    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
+    "<a   href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
     class="wikilink"
-    title="The Politics of Social Ecology: Libertarian Municipalism">The
+    title="The Politics of Social Ecology: Libertarian Municipalism">"The
     Politics of Social Ecology: Libertarian Municipalism</a>.
 
 [^7]: Peter Kropotkin, *The Great French Revolution 1789-1793*,

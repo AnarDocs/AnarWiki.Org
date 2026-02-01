@@ -100,7 +100,7 @@ decision-making.[^12]
 
 The **Revolutionary Insurrectionary Army of Ukraine** (Black Army or
 Makhnovshchina) led by
-<a href="Nestor_Makhno" class="wikilink" title="Nestor Makhno">Nestor
+"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">"Nestor
 Makhno</a> controlled significant territory in Ukraine. This force
 fought against both White and Red armies while implementing anarchist
 principles including elected commanders and voluntary association. They
@@ -111,18 +111,18 @@ promoted peasant self-governance in liberated areas and fielded up to
 
 The **CNT-FAI militias** represented perhaps the most significant
 anarchist military force in history. The
-<a href="Confederación_Nacional_del_Trabajo" class="wikilink"
-title="Confederación Nacional del Trabajo">Confederación Nacional del
+"<a   href="Confederación_Nacional_del_Trabajo.md" class="wikilink"
+title="Confederación Nacional del Trabajo">"Confederación Nacional del
 Trabajo</a> (CNT) and
-<a href="Federación_Anarquista_Ibérica" class="wikilink"
-title="Federación Anarquista Ibérica">Federación Anarquista Ibérica</a>
+"<a   href="Federación_Anarquista_Ibérica.md" class="wikilink"
+title="Federación Anarquista Ibérica">"Federación Anarquista Ibérica</a>
 (FAI) organized militias controlling large parts of Catalonia and
 Aragon. These forces operated with elected delegates, rotating
 positions, and minimal hierarchy.
 
 The **Durruti Column**, led by
-<a href="Buenaventura_Durruti" class="wikilink"
-title="Buenaventura Durruti">Buenaventura Durruti</a>, was the most
+"<a   href="Buenaventura_Durruti.md" class="wikilink"
+title="Buenaventura Durruti">"Buenaventura Durruti</a>, was the most
 famous unit, fielding thousands of fighters and implementing anarchist
 principles on the battlefield.[^15][^16]
 
@@ -131,7 +131,7 @@ principles on the battlefield.[^15][^16]
 In Manchuria, Korean anarchists established the **Korean People's
 Association** and organized military units defending autonomous zones.
 Led by figures like
-<a href="Kim_Chwa-chin" class="wikilink" title="Kim Chwa-chin">Kim
+"<a   href="Kim_Chwa-chin.md" class="wikilink" title="Kim Chwa-chin">"Kim
 Chwa-chin</a>, these forces protected anarchist communes from Japanese
 forces and local warlords, controlling an area with approximately 2
 million inhabitants.[^17]
@@ -139,8 +139,8 @@ million inhabitants.[^17]
 ### Mexican Revolution (1910s)
 
 The **Magonista forces** led by
-<a href="Ricardo_Flores_Magón" class="wikilink"
-title="Ricardo Flores Magón">Ricardo Flores Magón</a> and the Partido
+"<a   href="Ricardo_Flores_Magón.md" class="wikilink"
+title="Ricardo Flores Magón">"Ricardo Flores Magón</a> and the Partido
 Liberal Mexicano conducted military campaigns in Baja California and
 other regions. They briefly controlled several towns and attempted to
 establish anarchist communes before being defeated by federal
@@ -179,10 +179,10 @@ and indigenous self-governance.[^21][^22]
 
 The **YPG/YPJ** (People's/Women's Protection Units) and broader Syrian
 Democratic Forces implement "democratic confederalism" influenced by
-<a href="Murray_Bookchin" class="wikilink"
-title="Murray Bookchin">Murray Bookchin</a> and
-<a href="Abdullah_Öcalan" class="wikilink"
-title="Abdullah Öcalan">Abdullah Öcalan</a>:
+"<a   href="Murray_Bookchin.md" class="wikilink"
+title="Murray Bookchin">"Murray Bookchin</a> and
+"<a   href="Abdullah_Öcalan.md" class="wikilink"
+title="Abdullah Öcalan">"Abdullah Öcalan</a>:
 
 - Dual leadership with male and female co-commanders at every level
 - YPJ operates as autonomous women's military force
@@ -290,15 +290,15 @@ horizontal principles.
 
 ## See Also
 
-- <a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>
-- <a href="Direct_Democracy" class="wikilink"
-  title="Direct Democracy">Direct Democracy</a>
-- <a href="Libertarian_Socialism" class="wikilink"
-  title="Libertarian Socialism">Libertarian Socialism</a>
-- <a href="Workers&#39;_Self-Management" class="wikilink"
-  title="Workers&#39; Self-Management">Workers' Self-Management</a>
-- <a href="Autonomous_Zones" class="wikilink"
-  title="Autonomous Zones">Autonomous Zones</a>
+- "<a   href="Anarchism.md" class="wikilink" title="Anarchism">"Anarchism</a>
+- "<a   href="Direct_Democracy.md" class="wikilink"
+  title="Direct Democracy">"Direct Democracy</a>
+- "<a   href="Libertarian_Socialism.md" class="wikilink"
+  title="Libertarian Socialism">"Libertarian Socialism</a>
+- "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
+- "<a   href="Autonomous_Zones.md" class="wikilink"
+  title="Autonomous Zones">"Autonomous Zones</a>
 
 ## References
 
@@ -306,19 +306,19 @@ horizontal principles.
 
 ## External Links
 
-<a href="Category:Anarchist_Military_Forces" class="wikilink"
-title="Category:Anarchist Military Forces">Category:Anarchist Military
+"<a   href="Category:Anarchist_Military_Forces.md" class="wikilink"
+title="Category:Anarchist Military Forces">"Category:Anarchist Military
 Forces</a>
-<a href="Category:Anti-Authoritarian_Organizations" class="wikilink"
-title="Category:Anti-Authoritarian Organizations">Category:Anti-Authoritarian
-Organizations</a> <a href="Category:Military_History" class="wikilink"
-title="Category:Military History">Category:Military History</a>
-<a href="Category:Social_Movements" class="wikilink"
-title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:Revolutionary_Movements" class="wikilink"
-title="Category:Revolutionary Movements">Category:Revolutionary
-Movements</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Anti-Authoritarian_Organizations.md" class="wikilink"
+title="Category:Anti-Authoritarian Organizations">"Category:Anti-Authoritarian
+Organizations</a> "<a   href="Category:Military_History.md" class="wikilink"
+title="Category:Military History">"Category:Military History</a>
+"<a   href="Category:Social_Movements.md" class="wikilink"
+title="Category:Social Movements">"Category:Social Movements</a>
+"<a   href="Category:Revolutionary_Movements.md" class="wikilink"
+title="Category:Revolutionary Movements">"Category:Revolutionary
+Movements</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Tacitus, *Germania*, Chapter 7 and 11, describing Germanic
     military customs and assemblies

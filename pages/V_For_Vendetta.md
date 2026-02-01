@@ -278,14 +278,14 @@ its list of the 100 most influential novels.
 - readable comics @ archive.org
 - <https://theanarchistlibrary.org/library/joshua-anol-a-closer-look-at-v>
 
-<a href="Category:Anarchist_Fiction" class="wikilink"
-title="Category:Anarchist Fiction">Category:Anarchist Fiction</a>
-<a href="Category:Anarchist_books" class="wikilink"
-title="Category:Anarchist books">Category:Anarchist books</a>
-<a href="Category:Movies_Featuring_Anarchists" class="wikilink"
-title="Category:Movies Featuring Anarchists">Category:Movies Featuring
-Anarchists</a> <a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Fiction.md" class="wikilink"
+title="Category:Anarchist Fiction">"Category:Anarchist Fiction</a>
+"<a   href="Category:Anarchist_books.md" class="wikilink"
+title="Category:Anarchist books">"Category:Anarchist books</a>
+"<a   href="Category:Movies_Featuring_Anarchists.md" class="wikilink"
+title="Category:Movies Featuring Anarchists">"Category:Movies Featuring
+Anarchists</a> "<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Shantz, Jeff. *Specters of Anarchy: Literature and the Anarchist
     Imagination*. Algora Publishing, 2015, p. 223.

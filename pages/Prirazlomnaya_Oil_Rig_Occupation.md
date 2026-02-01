@@ -1,10 +1,10 @@
 The **Prirazlomnaya Oil Rig Occupation** was an
-<a href="Environmentalism" class="wikilink"
-title="environmentalist">environmentalist</a> effort to block the
+"<a   href="Environmentalism.md" class="wikilink"
+title="environmentalist">"environmentalist</a> effort to block the
 construction of an offshore oil rig in
-<a href="Russia" class="wikilink" title="Russia">Russia</a> in
-<a href="Timeline_of_Anarchism_in_Northern_Asia" class="wikilink"
-title="2012">2012</a>.
+"<a   href="Russia.md" class="wikilink" title="Russia">"Russia</a> in
+"<a   href="Timeline_of_Anarchism_in_Northern_Asia.md" class="wikilink"
+title="2012">"2012</a>.
 
 ## Background
 
@@ -36,35 +36,35 @@ Rig.[^3]
 
 ## References
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:21st_Century" class="wikilink"
-title="Category:21st Century">Category:21st Century</a>
-<a href="Category:2010s" class="wikilink"
-title="Category:2010s">Category:2010s</a>
-<a href="Category:2012" class="wikilink"
-title="Category:2012">Category:2012</a>
-<a href="Category:Russia" class="wikilink"
-title="Category:Russia">Category:Russia</a>
-<a href="Category:Northern_Asia" class="wikilink"
-title="Category:Northern Asia">Category:Northern Asia</a>
-<a href="Category:Asia" class="wikilink"
-title="Category:Asia">Category:Asia</a>
-<a href="Category:Europe" class="wikilink"
-title="Category:Europe">Category:Europe</a>
-<a href="Category:Western_Europe" class="wikilink"
-title="Category:Western Europe">Category:Western Europe</a>
-<a href="Category:Germany" class="wikilink"
-title="Category:Germany">Category:Germany</a>
-<a href="Category:Environmentalism" class="wikilink"
-title="Category:Environmentalism">Category:Environmentalism</a>
-<a href="Category:Greenpeace" class="wikilink"
-title="Category:Greenpeace">Category:Greenpeace</a>
-<a href="Category:Fossil_Fuels" class="wikilink"
-title="Category:Fossil Fuels">Category:Fossil Fuels</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:21st_Century.md" class="wikilink"
+title="Category:21st Century">"Category:21st Century</a>
+"<a   href="Category:2010s.md" class="wikilink"
+title="Category:2010s">"Category:2010s</a>
+"<a   href="Category:2012.md" class="wikilink"
+title="Category:2012">"Category:2012</a>
+"<a   href="Category:Russia.md" class="wikilink"
+title="Category:Russia">"Category:Russia</a>
+"<a   href="Category:Northern_Asia.md" class="wikilink"
+title="Category:Northern Asia">"Category:Northern Asia</a>
+"<a   href="Category:Asia.md" class="wikilink"
+title="Category:Asia">"Category:Asia</a>
+"<a   href="Category:Europe.md" class="wikilink"
+title="Category:Europe">"Category:Europe</a>
+"<a   href="Category:Western_Europe.md" class="wikilink"
+title="Category:Western Europe">"Category:Western Europe</a>
+"<a   href="Category:Germany.md" class="wikilink"
+title="Category:Germany">"Category:Germany</a>
+"<a   href="Category:Environmentalism.md" class="wikilink"
+title="Category:Environmentalism">"Category:Environmentalism</a>
+"<a   href="Category:Greenpeace.md" class="wikilink"
+title="Category:Greenpeace">"Category:Greenpeace</a>
+"<a   href="Category:Fossil_Fuels.md" class="wikilink"
+title="Category:Fossil Fuels">"Category:Fossil Fuels</a>
 
-[^1]: <a href="Global_Nonviolent_Action_Database" class="wikilink"
-    title="Global Nonviolent Action Database">Global Nonviolent Action
+[^1]: "<a   href="Global_Nonviolent_Action_Database.md" class="wikilink"
+    title="Global Nonviolent Action Database">"Global Nonviolent Action
     Database</a>: [Greenpeace challenges Gazprom, prevents oil
     production at Prirazlomnaya field,
     2012](https://nvdatabase.swarthmore.edu/content/greenpeace-challenges-gazprom-prevents-oil-production-prirazlomnaya-field-2012)

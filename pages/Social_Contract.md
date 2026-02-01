@@ -26,14 +26,14 @@ property, government, or laws until cosmic decay led them to appoint a
 ruler in exchange for order.[^2]
 
 The concept was articulated by Glaucon in
-<a href="Plato" class="wikilink" title="Plato">Plato</a>'s *Republic*,
+"<a   href="Plato.md" class="wikilink" title="Plato">"Plato</a>'s *Republic*,
 who described justice as arising from an agreement among people who
 recognized that avoiding mutual harm was preferable to the chaos of
 unlimited freedom. Glaucon portrayed the social contract as a compromise
 between the best condition (doing injustice without punishment) and the
 worst (suffering injustice without recourse).[^3]
 
-<a href="Epicurus" class="wikilink" title="Epicurus">Epicurus</a> in the
+"<a   href="Epicurus.md" class="wikilink" title="Epicurus">"Epicurus</a> in the
 fourth century BCE developed the idea that justice stems from mutual
 agreement and advantage, writing that "there never was such a thing as
 absolute justice, but only agreements made in mutual dealings among men
@@ -44,22 +44,22 @@ suffering of harm."[^4]
 
 The theory gained prominence during the Enlightenment, when philosophers
 sought secular justifications for political authority.
-<a href="Thomas_Hobbes" class="wikilink" title="Thomas Hobbes">Thomas
+"<a   href="Thomas_Hobbes.md" class="wikilink" title="Thomas Hobbes">"Thomas
 Hobbes</a> in *Leviathan* (1651) argued that in the "state of nature"
 human life would be "solitary, poor, nasty, brutish and short" due to
 unlimited natural freedoms leading to perpetual conflict. To escape this
 condition, individuals supposedly contract to establish an absolute
 sovereign authority.[^5]
 
-<a href="John_Locke" class="wikilink" title="John Locke">John Locke</a>'s
+"<a   href="John_Locke.md" class="wikilink" title="John Locke">"John Locke</a>'s
 *Second Treatise of Government* (1689) presented a different version,
 arguing that individuals in the state of nature possess natural rights
 to life, liberty, and property. They form governments to protect these
 rights through an impartial judge, retaining the right to revolt if the
 government fails in its duties.[^6]
 
-<a href="Jean-Jacques_Rousseau" class="wikilink"
-title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a>'s *Du Contrat
+"<a   href="Jean-Jacques_Rousseau.md" class="wikilink"
+title="Jean-Jacques Rousseau">"Jean-Jacques Rousseau</a>'s *Du Contrat
 Social* (1762) offered yet another interpretation, emphasizing the
 "general will" and arguing that individuals must "forfeit their rights
 to the whole so that such conditions were equal for all." Rousseau's
@@ -93,8 +93,8 @@ genuine agreement or mere force.
 ### The Fiction of Consent
 
 The fundamental problem with social contract theory is that no such
-contract ever existed. As <a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a> observed, "It was a great
+contract ever existed. As "<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a> observed, "It was a great
 fallacy on the part of Jean Jacques Rousseau to have assumed that
 primitive society was established by a free contract entered into by
 savages."[^8] Society preceded any deliberate agreement; humans are
@@ -111,7 +111,7 @@ while I was in a state of not being able to will, to think, to speak, I
 bound myself and all my descendants into perpetual slavery."[^9]
 
 As
-<a href="David_Hume" class="wikilink" title="David Hume">David Hume</a>
+"<a   href="David_Hume.md" class="wikilink" title="David Hume">"David Hume</a>
 noted even while supporting constitutional government, actual consent
 "has very seldom had place in any degree and never almost in its full
 extent." Most governments arose through conquest and force, not
@@ -120,8 +120,8 @@ agreement.[^10]
 ### Society Versus State
 
 Social contract theory systematically conflates
-<a href="society" class="wikilink" title="society">society</a> with the
-<a href="state" class="wikilink" title="state">state</a>, treating them
+"<a   href="society.md" class="wikilink" title="society">"society</a> with the
+"<a   href="state.md" class="wikilink" title="state">"state</a>, treating them
 as identical when they are fundamentally different. Society is "the
 natural mode of existence of the human collectivity, independent of any
 contract. It governs itself through customs or traditional habits, but
@@ -184,10 +184,10 @@ universal rights. As Bakunin observed, "There is no common right, no
 social contract of any kind between them; otherwise they would cease to
 be independent states."[^18]
 
-### <a href="Patriotism" class="wikilink" title="Patriotism">Patriotism</a> and the Negation of Humanity
+### "<a   href="Patriotism.md" class="wikilink" title="Patriotism">"Patriotism</a> and the Negation of Humanity
 
 The logical consequence of state morality is
-<a href="patriotism" class="wikilink" title="patriotism">patriotism</a> -
+"<a   href="patriotism.md" class="wikilink" title="patriotism">"patriotism</a> -
 the duty to serve one's state against all others. This "transcendent
 morality" demands that citizens commit acts that would be crimes if done
 for personal benefit: "to offend, oppress, rob, plunder, assassinate, or
@@ -246,8 +246,8 @@ legitimize what is actually rule by force.[^25]
 ### Free Association
 
 Rather than imaginary contracts imposing authority, anarchists advocate
-genuine <a href="free_association" class="wikilink"
-title="free association">free association</a>. True voluntary
+genuine "<a   href="free_association.md" class="wikilink"
+title="free association">"free association</a>. True voluntary
 cooperation requires no permanent binding agreements or submission to
 sovereign power. Individuals and groups associate freely for mutual
 benefit and retain the right to dissociate at any time.
@@ -276,7 +276,7 @@ humanity" - not upon obedience to authority.[^27]
 ### Federalism
 
 Where coordination is needed beyond face-to-face communities,
-<a href="federalism" class="wikilink" title="federalism">federalism</a>
+"<a   href="federalism.md" class="wikilink" title="federalism">"federalism</a>
 provides a voluntary alternative to the state. Free federations are
 "founded upon the liberty for all the parties to unite or not to unite,
 and with liberty for each of these always to leave a union even when
@@ -290,7 +290,7 @@ right to withdraw, ensuring relationships remain genuinely voluntary.
 ### Consensus
 
 Where collective decisions are necessary,
-<a href="consensus" class="wikilink" title="consensus">consensus</a>-base
+"<a   href="consensus.md" class="wikilink" title="consensus">"consensus</a>-base
 assemblies allow communities to organise themselves without creating a
 separate ruling class. All participate in decision-making rather than
 delegating authority to representatives who inevitably form a privileged
@@ -306,8 +306,8 @@ always, in fact, minorities that do the governing."[^29]
 
 Despite its philosophical problems, social contract theory profoundly
 influenced modern political thought. The
-<a href="United_States_Declaration_of_Independence" class="wikilink"
-title="United States Declaration of Independence">United States
+"<a   href="United_States_Declaration_of_Independence.md" class="wikilink"
+title="United States Declaration of Independence">"United States
 Declaration of Independence</a> drew on Lockean ideas of natural rights
 and the right to revolt against unjust government, though in practice
 the American state has deviated far from these principles.[^30]
@@ -323,40 +323,40 @@ even as anarchists rejected the theory's statist conclusions.
 
 ## See Also
 
-- <a href="State" class="wikilink" title="State">State</a>
-- <a href="Authority" class="wikilink" title="Authority">Authority</a>
-- <a href="Legitimacy" class="wikilink" title="Legitimacy">Legitimacy</a>
-- <a href="Consent" class="wikilink" title="Consent">Consent</a>
-- <a href="Free_Association" class="wikilink"
-  title="Free Association">Free Association</a>
-- <a href="Federalism" class="wikilink" title="Federalism">Federalism</a>
-- <a href="Direct_Democracy" class="wikilink"
-  title="Direct Democracy">Direct Democracy</a>
-- <a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- <a href="Patriotism" class="wikilink" title="Patriotism">Patriotism</a>
-- <a href="Jean-Jacques_Rousseau" class="wikilink"
-  title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a>
-- <a href="Pierre-Joseph_Proudhon" class="wikilink"
-  title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>
-- <a href="Mikhail_Bakunin" class="wikilink"
-  title="Mikhail Bakunin">Mikhail Bakunin</a>
+- "<a   href="State.md" class="wikilink" title="State">"State</a>
+- "<a   href="Authority.md" class="wikilink" title="Authority">"Authority</a>
+- "<a   href="Legitimacy.md" class="wikilink" title="Legitimacy">"Legitimacy</a>
+- "<a   href="Consent.md" class="wikilink" title="Consent">"Consent</a>
+- "<a   href="Free_Association.md" class="wikilink"
+  title="Free Association">"Free Association</a>
+- "<a   href="Federalism.md" class="wikilink" title="Federalism">"Federalism</a>
+- "<a   href="Direct_Democracy.md" class="wikilink"
+  title="Direct Democracy">"Direct Democracy</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+- "<a   href="Patriotism.md" class="wikilink" title="Patriotism">"Patriotism</a>
+- "<a   href="Jean-Jacques_Rousseau.md" class="wikilink"
+  title="Jean-Jacques Rousseau">"Jean-Jacques Rousseau</a>
+- "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+  title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a>
+- "<a   href="Mikhail_Bakunin.md" class="wikilink"
+  title="Mikhail Bakunin">"Mikhail Bakunin</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Political_Philosophy" class="wikilink"
-title="Category:Political Philosophy">Category:Political Philosophy</a>
-<a href="Category:State_Theory" class="wikilink"
-title="Category:State Theory">Category:State Theory</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Enlightenment" class="wikilink"
-title="Category:Enlightenment">Category:Enlightenment</a>
-<a href="Category:Liberalism" class="wikilink"
-title="Category:Liberalism">Category:Liberalism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Political_Philosophy.md" class="wikilink"
+title="Category:Political Philosophy">"Category:Political Philosophy</a>
+"<a   href="Category:State_Theory.md" class="wikilink"
+title="Category:State Theory">"Category:State Theory</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Enlightenment.md" class="wikilink"
+title="Category:Enlightenment">"Category:Enlightenment</a>
+"<a   href="Category:Liberalism.md" class="wikilink"
+title="Category:Liberalism">"Category:Liberalism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Celeste Friend, "Social Contract Theory", Internet Encyclopedia of
     Philosophy

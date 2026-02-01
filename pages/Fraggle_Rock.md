@@ -133,14 +133,14 @@ interact with humans until they befriend one (Doc) in the last episode.
 
 <references/>
 
-<a href="Category:Anarchist_Utopias" class="wikilink"
-title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-<a href="Category:Utopian_Fiction" class="wikilink"
-title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-<a href="Category:Movies_Featuring_Anarchists" class="wikilink"
-title="Category:Movies Featuring Anarchists">Category:Movies Featuring
-Anarchists</a> <a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+title="Category:Anarchist Utopias">"Category:Anarchist Utopias</a>
+"<a   href="Category:Utopian_Fiction.md" class="wikilink"
+title="Category:Utopian Fiction">"Category:Utopian Fiction</a>
+"<a   href="Category:Movies_Featuring_Anarchists.md" class="wikilink"
+title="Category:Movies Featuring Anarchists">"Category:Movies Featuring
+Anarchists</a> "<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Steve Johnson, "Muppet maestro and ‘gentle anarchist’ Jim Henson,"
     *The Day*, 10 October 2010,

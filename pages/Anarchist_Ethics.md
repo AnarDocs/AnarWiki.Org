@@ -1,8 +1,8 @@
 # Anarchist Ethics
 
 **Anarchist ethics** represents a distinctive approach to
-<a href="moral_philosophy" class="wikilink"
-title="moral philosophy">moral philosophy</a> that centers on
+"<a   href="moral_philosophy.md" class="wikilink"
+title="moral philosophy">"moral philosophy</a> that centers on
 anti-hierarchical principles and the rejection of imposed authority in
 moral decision-making. Unlike religious or state-based moral systems,
 anarchist ethics derives its foundations from observations of social
@@ -13,8 +13,8 @@ statute.
 ## Overview
 
 Anarchist ethics occupies a central position within
-<a href="anarchist_theory" class="wikilink"
-title="anarchist theory">anarchist theory</a> and practice,
+"<a   href="anarchist_theory.md" class="wikilink"
+title="anarchist theory">"anarchist theory</a> and practice,
 distinguishing anarchism from other revolutionary traditions through its
 emphasis on moral evaluation over purely economic analysis.[^1] The
 tradition focuses particularly on micropolitical questions - the
@@ -22,20 +22,20 @@ everyday decisions and power relations of civil society - rather than
 solely on macropolitical institutional change.[^2]
 
 The ethical framework of anarchism is identifiable through core concepts
-including anti-hierarchy, <a href="prefiguration" class="wikilink"
-title="prefiguration">prefiguration</a> (means being in accordance with
+including anti-hierarchy, "<a   href="prefiguration.md" class="wikilink"
+title="prefiguration">"prefiguration</a> (means being in accordance with
 ends), and a social conception of the self.[^3] These principles remain
 stable across different anarchist tendencies, though their relative
 priority varies between sub-ideologies such as
-<a href="green_anarchism" class="wikilink" title="green anarchism">green
-anarchism</a> or <a href="anarcho-syndicalism" class="wikilink"
-title="anarcho-syndicalism">anarcho-syndicalism</a>.
+"<a   href="green_anarchism.md" class="wikilink" title="green anarchism">"green
+anarchism</a> or "<a   href="anarcho-syndicalism.md" class="wikilink"
+title="anarcho-syndicalism">"anarcho-syndicalism</a>.
 
 ## Historical Development
 
 ### Classical Foundations
 
-<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
 Kropotkin</a>'s work on ethics, particularly his unfinished *Ethics:
 Origin and Development*, provided an early systematic treatment of
 anarchist moral philosophy.[^4] Kropotkin rejected both religious
@@ -44,7 +44,7 @@ the scientific observation of animal and human societies. He identified
 the moral sentiment as arising from sympathy and solidarity - natural
 features of social existence that long predate human civilization.[^5]
 
-<a href="Adam_Smith" class="wikilink" title="Adam Smith">Adam Smith</a>'s
+"<a   href="Adam_Smith.md" class="wikilink" title="Adam Smith">"Adam Smith</a>'s
 *The Theory of Moral Sentiment* influenced anarchist thinking despite
 Smith's later association with capitalism. Smith identified sympathy as
 the foundation of moral behavior - the capacity to imagine oneself in
@@ -56,7 +56,7 @@ provided a foundation for secular anarchist ethics.
 
 The mid-twentieth century saw significant debates about the role of
 ethics within anarchism. Writers like
-<a href="Herbert_Read" class="wikilink" title="Herbert Read">Herbert
+"<a   href="Herbert_Read.md" class="wikilink" title="Herbert Read">"Herbert
 Read</a> in *The Philosophy of Anarchism* developed virtue-based
 approaches emphasizing prefiguration and the rejection of universal
 moral commandments.[^7] Meanwhile, tensions emerged between different
@@ -98,7 +98,7 @@ treat others as you would wish to be treated under similar
 circumstances.[^15] This emerges not from abstract reasoning but from
 the practical necessities of social existence. Species that develop
 strong practices of
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
 and solidarity prove more successful in survival and flourishing than
 those dominated by purely competitive relations.[^16]
 
@@ -126,8 +126,8 @@ brings satisfaction and the avoidance of what causes distress.
 Many anarchist theorists, particularly those in the social anarchist
 tradition, align with a practice-based virtue ethics derived from
 Aristotelian philosophy and developed by thinkers like
-<a href="Alasdair_MacIntyre" class="wikilink"
-title="Alasdair MacIntyre">Alasdair MacIntyre</a>.[^19] This approach
+"<a   href="Alasdair_MacIntyre.md" class="wikilink"
+title="Alasdair MacIntyre">"Alasdair MacIntyre</a>.[^19] This approach
 views virtues not as abstract ideals but as qualities embedded in and
 arising from social practices.
 
@@ -158,8 +158,8 @@ virtues tend to be resilient and sustainable across time and geography,
 forming traditions of cooperative activity.
 
 This approach aligns with anarchism's emphasis on
-<a href="prefiguration" class="wikilink"
-title="prefiguration">prefiguration</a> - the principle that means must
+"<a   href="prefiguration.md" class="wikilink"
+title="prefiguration">"prefiguration</a> - the principle that means must
 embody the ends sought.[^28] Political activities should generate
 immediate shared goods and virtuous relations, not merely serve as
 instruments toward a distant goal. When practices are corrupted by
@@ -209,9 +209,9 @@ goal, producing tyranny rather than freedom.[^40]
 
 Some anarchists, particularly during the Cold War period, incorporated
 liberal rights-based language into their ethics. Thinkers like
-<a href="Giovanni_Baldelli" class="wikilink"
-title="Giovanni Baldelli">Giovanni Baldelli</a> and
-<a href="David_Wieck" class="wikilink" title="David Wieck">David
+"<a   href="Giovanni_Baldelli.md" class="wikilink"
+title="Giovanni Baldelli">"Giovanni Baldelli</a> and
+"<a   href="David_Wieck.md" class="wikilink" title="David Wieck">"David
 Wieck</a> emphasized individual autonomy and freedom from coercion
 alongside egalitarian principles.[^41]
 
@@ -247,11 +247,11 @@ incompatible with anarchist opposition to hierarchy and domination.[^47]
 ### Egoism and Post-Left Critiques
 
 Drawing on
-<a href="Max_Stirner" class="wikilink" title="Max Stirner">Max
+"<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner">"Max
 Stirner</a>'s philosophy, some anarchists advocate ethical egoism - the
 view that individuals should pursue their own interests without regard
 for universal moral principles.[^48] Post-left anarchists like
-<a href="Bob_Black" class="wikilink" title="Bob Black">Bob Black</a>
+"<a   href="Bob_Black.md" class="wikilink" title="Bob Black">"Bob Black</a>
 have criticized what they view as moralistic puritanism within
 anarchism.[^49]
 
@@ -285,7 +285,7 @@ subjective preferences dependent on individual consciousness alone.[^55]
 
 Anarchist ethics provides resources for addressing contentious questions
 like whether to deny platforms to
-<a href="fascism" class="wikilink" title="fascists">fascists</a> and
+"<a   href="fascism.md" class="wikilink" title="fascists">"fascists</a> and
 bigots.[^56] Rather than applying a single universal principle, a
 practice-based approach recognizes that different contexts require
 different norms.
@@ -370,15 +370,15 @@ but diverges significantly:
 
 Modern anarchist practice continues to generate ethical insights:
 
-- <a href="Horizontalism" class="wikilink"
-  title="Horizontal organization">Horizontal organization</a> embodies
+- "<a   href="Horizontalism.md" class="wikilink"
+  title="Horizontal organization">"Horizontal organization</a> embodies
   egalitarian values in immediate relationships[^72]
-- <a href="Mutual_aid" class="wikilink" title="Mutual aid">Mutual aid</a>
+- "<a   href="Mutual_aid.md" class="wikilink" title="Mutual aid">"Mutual aid</a>
   initiatives create solidarity rather than charity
-- <a href="Direct_action" class="wikilink" title="Direct action">Direct
+- "<a   href="Direct_action.md" class="wikilink" title="Direct action">"Direct
   action</a> enables moral agency rather than petitioning authorities
-- <a href="Prefigurative_politics" class="wikilink"
-  title="Prefigurative politics">Prefigurative politics</a> makes
+- "<a   href="Prefigurative_politics.md" class="wikilink"
+  title="Prefigurative politics">"Prefigurative politics</a> makes
   ethical living possible now rather than deferred to the future[^73]
 
 ## Critiques and Challenges
@@ -419,22 +419,22 @@ broadcast among others!"[^78]
 
 <references/>
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ethics" class="wikilink"
-title="Category:Ethics">Category:Ethics</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Political_Philosophy" class="wikilink"
-title="Category:Political Philosophy">Category:Political Philosophy</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Ethics.md" class="wikilink"
+title="Category:Ethics">"Category:Ethics</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Political_Philosophy.md" class="wikilink"
+title="Category:Political Philosophy">"Category:Political Philosophy</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Benjamin Franks, 'Anarchism and Ethics', in Anarchism and Moral
     Philosophy

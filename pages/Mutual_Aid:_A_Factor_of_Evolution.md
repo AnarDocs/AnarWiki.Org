@@ -4,58 +4,58 @@
 
 ***Mutual Aid: A Factor of Evolution*** is a 1902 collection of
 anthropological essays by Russian
-<a href="naturalist" class="wikilink" title="naturalist">naturalist</a>
-and <a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="naturalist.md" class="wikilink" title="naturalist">"naturalist</a>
+and "<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
 philosopher
-<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
 Kropotkin</a>. The essays, initially published in the English periodical
-*<a href="The_Nineteenth_Century" class="wikilink"
-title="The Nineteenth Century">The Nineteenth Century</a>* between 1890
+*"<a   href="The_Nineteenth_Century.md" class="wikilink"
+title="The Nineteenth Century">"The Nineteenth Century</a>* between 1890
 and 1896,[^1] explore the role of mutually beneficial
-<a href="cooperation" class="wikilink"
-title="cooperation">cooperation</a> and
-<a href="reciprocal_altruism" class="wikilink"
-title="reciprocity">reciprocity</a> (or
-"<a href="Mutual_aid_(organization_theory)" class="wikilink"
-title="mutual aid">mutual aid</a>") in the animal kingdom and human
+"<a   href="cooperation.md" class="wikilink"
+title="cooperation">"cooperation</a> and
+"<a   href="reciprocal_altruism.md" class="wikilink"
+title="reciprocity">"reciprocity</a> (or
+""<a   href="Mutual_aid_(organization_theory).md" class="wikilink"
+title="mutual aid">"mutual aid</a>") in the animal kingdom and human
 societies both past and present.
 
 Kropotkin's seminal work presents a radical challenge to dominant
-interpretations of <a href="social_Darwinism" class="wikilink"
-title="social Darwinism">social Darwinism</a> that emphasize competition
-and <a href="survival_of_the_fittest" class="wikilink"
-title="survival of the fittest">survival of the fittest</a>, and against
+interpretations of "<a   href="social_Darwinism.md" class="wikilink"
+title="social Darwinism">"social Darwinism</a> that emphasize competition
+and "<a   href="survival_of_the_fittest.md" class="wikilink"
+title="survival of the fittest">"survival of the fittest</a>, and against
 the romantic depictions by writers such as
-<a href="Jean-Jacques_Rousseau" class="wikilink"
-title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a>, who thought
+"<a   href="Jean-Jacques_Rousseau.md" class="wikilink"
+title="Jean-Jacques Rousseau">"Jean-Jacques Rousseau</a>, who thought
 that cooperation was motivated by universal love. Instead, Kropotkin
 argues that mutual aid and cooperation, rather than competitive
 struggle, are the primary drivers of evolution in both the animal
 kingdom and human societies. He demonstrates that mutual aid has
 pragmatic advantages for the survival of human and animal communities
 and, along with the
-<a href="conscience" class="wikilink" title="conscience">conscience</a>,
+"<a   href="conscience.md" class="wikilink" title="conscience">"conscience</a>,
 has been promoted through natural selection.
 
 *Mutual Aid* is considered a fundamental text in
-<a href="anarchist_communism" class="wikilink"
-title="anarchist communism">anarchist communism</a>.[^2] It presents a
+"<a   href="anarchist_communism.md" class="wikilink"
+title="anarchist communism">"anarchist communism</a>.[^2] It presents a
 scientific basis for communism as an alternative to the
-<a href="historical_materialism" class="wikilink"
-title="historical materialism">historical materialism</a> of the
-<a href="Marxism" class="wikilink" title="Marxists">Marxists</a>.
+"<a   href="historical_materialism.md" class="wikilink"
+title="historical materialism">"historical materialism</a> of the
+"<a   href="Marxism.md" class="wikilink" title="Marxists">"Marxists</a>.
 Kropotkin considers the importance of mutual aid for prosperity and
 survival in the animal kingdom, in indigenous and early European
 societies, in the medieval
-<a href="Free_imperial_city" class="wikilink" title="free cities">free
+"<a   href="Free_imperial_city.md" class="wikilink" title="free cities">"free
 cities</a> (especially through the
-<a href="guild" class="wikilink" title="guild">guilds</a>), and in the
+"<a   href="guild.md" class="wikilink" title="guild">"guilds</a>), and in the
 late 19th century village, labor movement, and impoverished people. He
 criticizes the
-<a href="State_(polity)" class="wikilink" title="State">State</a> for
+"<a   href="State_(polity).md" class="wikilink" title="State">"State</a> for
 destroying historically important mutual aid institutions, particularly
-through the imposition of <a href="private_property" class="wikilink"
-title="private property">private property</a>.
+through the imposition of "<a   href="private_property.md" class="wikilink"
+title="private property">"private property</a>.
 
 ## Summary
 
@@ -70,9 +70,9 @@ Kropotkin critiques the widespread overemphasis on "bitter struggle for
 the means of existence among animals belonging to the same species".
 Drawing on extensive observations, particularly from his firsthand
 experiences in
-<a href="Siberia" class="wikilink" title="Siberia">Siberia</a> and
-<a href="Northeast_Asia" class="wikilink"
-title="Northeast Asia">Northeast Asia</a>, he demonstrates that
+"<a   href="Siberia.md" class="wikilink" title="Siberia">"Siberia</a> and
+"<a   href="Northeast_Asia.md" class="wikilink"
+title="Northeast Asia">"Northeast Asia</a>, he demonstrates that
 **sociability is as much a law of nature as mutual struggle, and often
 far more important for success and progressive evolution**.
 
@@ -82,8 +82,8 @@ struggle between organisms and the environment. He observed that animal
 populations were limited not by food sources, which were abundant, but
 rather by harsh weather. For example, predatory birds may compete by
 stealing food from one another while
-<a href="migratory_bird" class="wikilink"
-title="migratory bird">migratory birds</a> cooperate in order to survive
+"<a   href="migratory_bird.md" class="wikilink"
+title="migratory bird">"migratory birds</a> cooperate in order to survive
 harsh winters by traveling long distances.
 
 Animals that develop habits of mutual aid are demonstrably the fittest,
@@ -150,7 +150,7 @@ aid, emerging as a federation of village communities and guilds,
 fiercely independent from feudal lords and external state control. These
 cities were self-governing, with their own jurisdiction and
 administration decided by popular assemblies.
-<a href="Guild" class="wikilink" title="Guild">Guilds</a> functioned as
+"<a   href="Guild.md" class="wikilink" title="Guild">"Guilds</a> functioned as
 brotherhoods providing comprehensive mutual support, regulating trade,
 ensuring quality, and promoting justice among members. Cities ensured
 "the common first food and lodging of poor and rich alike," prohibiting
@@ -192,21 +192,21 @@ evolutionary thought".[^4]
 
 As a description of biology, Kropotkin's perspective is consistent with
 contemporary understanding. Many biologists, including
-<a href="Stephen_Jay_Gould" class="wikilink"
-title="Stephen Jay Gould">Stephen Jay Gould</a>, consider it an
+"<a   href="Stephen_Jay_Gould.md" class="wikilink"
+title="Stephen Jay Gould">"Stephen Jay Gould</a>, consider it an
 important catalyst in the scientific study of cooperation.[^5] Gould
 admired Kropotkin's observations, noting that cooperation, if it
 increases individual survival, is not ruled out by
-<a href="natural_selection" class="wikilink"
-title="natural selection">natural selection</a>, and is in fact
+"<a   href="natural_selection.md" class="wikilink"
+title="natural selection">"natural selection</a>, and is in fact
 encouraged.[^6] Douglas H. Boucher places Kropotkin's book as a
 precursor to the development of the biological theory of altruism.[^7]
 
 Kropotkin's ideas expressed the now recognized importance of
-<a href="Mutualism_(biology)" class="wikilink"
-title="mutualism">mutualism</a> (a beneficial relationship between two
-different species) and <a href="Altruism_in_animals" class="wikilink"
-title="altruism">altruism</a> (when one member of a species aids
+"<a   href="Mutualism_(biology).md" class="wikilink"
+title="mutualism">"mutualism</a> (a beneficial relationship between two
+different species) and "<a   href="Altruism_in_animals.md" class="wikilink"
+title="altruism">"altruism</a> (when one member of a species aids
 another) in biology.
 
 ## Legacy
@@ -237,19 +237,19 @@ urging a future based on expanded, more humane forms of mutual support.
 
 <references/>
 
-<a href="Category:Anarchist_books" class="wikilink"
-title="Category:Anarchist books">Category:Anarchist books</a>
-<a href="Category:Books" class="wikilink"
-title="Category:Books">Category:Books</a>
-<a href="Category:Anarchist_Non-Fiction" class="wikilink"
-title="Category:Anarchist Non-Fiction">Category:Anarchist
+"<a   href="Category:Anarchist_books.md" class="wikilink"
+title="Category:Anarchist books">"Category:Anarchist books</a>
+"<a   href="Category:Books.md" class="wikilink"
+title="Category:Books">"Category:Books</a>
+"<a   href="Category:Anarchist_Non-Fiction.md" class="wikilink"
+title="Category:Anarchist Non-Fiction">"Category:Anarchist
 Non-Fiction</a>
-<a href="Category:Works_by_Peter_Kropotkin" class="wikilink"
-title="Category:Works by Peter Kropotkin">Category:Works by Peter
-Kropotkin</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Works_by_Peter_Kropotkin.md" class="wikilink"
+title="Category:Works by Peter Kropotkin">"Category:Works by Peter
+Kropotkin</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Brian Skyrms (ed.), "Mutual aid" in *Evolution of the Social
     Contract*, 2nd edition, Cambridge: Cambridge University Press, 2014,

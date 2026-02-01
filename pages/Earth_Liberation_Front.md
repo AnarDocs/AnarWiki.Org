@@ -14,10 +14,10 @@ environmentally destructive industries. Beginning in the UK in 1992, it
 spread throughout Europe at first and then to the United States in 1996.
 In the mid to late 2010s, ELF cells have taken action in countries such
 as Chile, Mexico, Iran, Turkey, and Russia, often in collaboration with
-the <a href="Animal_Liberation_Front" class="wikilink"
-title="Animal Liberation Front">Animal Liberation Front</a> (ALF) and
-<a href="Informal_Anarchist_Federation" class="wikilink"
-title="Informal Anarchist Federation">Informal Anarchist Federation</a>
+the "<a   href="Animal_Liberation_Front.md" class="wikilink"
+title="Animal Liberation Front">"Animal Liberation Front</a> (ALF) and
+"<a   href="Informal_Anarchist_Federation.md" class="wikilink"
+title="Informal Anarchist Federation">"Informal Anarchist Federation</a>
 (FAI).
 
 ELF actions have taken place in "Australia, Canada, Chile, Colombia,
@@ -31,7 +31,7 @@ environmental activists" had caused over \$100 million according to the
 Anti-Defamation League[^3]). The ELF's 1997 *Beltane* communique begins,
 "Welcome to the struggle of all species to be free. We are the burning
 rage of this dying planet." The declaration endorses both
-<a href="Social_Ecology" class="wikilink" title="social ecology">social
+"<a   href="Social_Ecology.md" class="wikilink" title="social ecology">"social
 ecology</a> and deep ecology, and it says, "We take inspiration from
 Luddites, Diggers, the Autonome squatter movement, the A.L.F., the
 Zapatistas, and the little people--those mischievous elves of lore.
@@ -77,8 +77,8 @@ cells follow certain guidelines:
 
 The ELF, or the "Elves", first formed in Brighton, United Kingdom in
 1992, at a national gathering of Earth First!ers. Fashioning themselves
-after the <a href="Animal_Liberation_Front" class="wikilink"
-title="Animal Liberation Front">Animal Liberation Front</a>, the ELF
+after the "<a   href="Animal_Liberation_Front.md" class="wikilink"
+title="Animal Liberation Front">"Animal Liberation Front</a>, the ELF
 went on to use militant tactics to help out Earth First! campaigns. For
 instance, "during British Earth First!'s Mahogany Means Murder campaign
 of the early 1990s, Elves would mingle in with the EF! activists and
@@ -127,8 +127,8 @@ biotech research facilities at the University of Washington, 35 SUVs at
 Eugene's Romania Chevrolet Truck Center, and a Bureau of Land Management
 wild horse corral. The cell also attacked a meat company in Eugene and
 signed the action as the
-<a href="Animal_Liberation_Front" class="wikilink"
-title="Animal Liberation Front">Animal Liberation Front</a>: "As long as
+"<a   href="Animal_Liberation_Front.md" class="wikilink"
+title="Animal Liberation Front">"Animal Liberation Front</a>: "As long as
 companies continue to operate and profit off of Mother Earth and Her
 sentient beings, the Animal Liberation Front will continue to target
 these operations and their insurance companies until they are out of
@@ -295,8 +295,8 @@ In 2014, an Iranian cell spray-painted "ELF" and a circle-A next to a
 critique of the cutting down of two old-growth trees in the city of
 Sabzevar. The same year, attacks on excavators in Russia and Turkey were
 each signed by the "ELF/FAI/IRF." FAI referred to the
-<a href="Informal_Anarchist_Federation" class="wikilink"
-title="Informal Anarchist Federation">Informal Anarchist Federation</a>
+"<a   href="Informal_Anarchist_Federation.md" class="wikilink"
+title="Informal Anarchist Federation">"Informal Anarchist Federation</a>
 and IRF stood for "International Revolutionary Front." Later that year,
 a U.K. attack on luxury and corporate cars was signed by "F.A.I. Torches
 in the Night -Earth Liberation Front."[^22]
@@ -307,8 +307,8 @@ have acted to demonstrate that we will never accept their offers to live
 in this filthy puddle that is full of automatons filled with
 indifference who do not show even the most minimal respect for the
 Earth." In 2016, a group of ELF and
-<a href="Animal_Liberation_Front" class="wikilink"
-title="Animal Liberation Front">Animal Liberation Front</a> cells
+"<a   href="Animal_Liberation_Front.md" class="wikilink"
+title="Animal Liberation Front">"Animal Liberation Front</a> cells
 jointly took responsibility for a series of coordinated sabotages and
 blockades around Chile against pharmacies, a butcher shop, a
 slaughterhouse, a railroad, a bank, and a police station.[^23]
@@ -318,7 +318,7 @@ Forest Company truck.[^24] In 2018 ELF and ALF cells spray-painted a
 Chilean police boat and launched banner drops and noise bombs against
 the dairy and hydroelectric industries. The accompanying communique
 expressed solidarity with
-<a href="Mapuche" class="wikilink" title="Mapuche">Mapuche</a>
+"<a   href="Mapuche.md" class="wikilink" title="Mapuche">"Mapuche</a>
 resistance to hydroelectric dams.[^25]
 
 # Criticism
@@ -357,8 +357,8 @@ against logging equipment in Michigan.[^31]
 
 <references/>
 
-<a href="Category:Organizations" class="wikilink"
-title="Category:Organizations">Category:Organizations</a>
+"<a   href="Category:Organizations.md" class="wikilink"
+title="Category:Organizations">"Category:Organizations</a>
 
 [^1]: Michael Loadenthal, "The Earth Liberation Front: A Social Movement
     Analysis," ''Radical Criminology, No. 2 (2013),

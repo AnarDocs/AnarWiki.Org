@@ -4,13 +4,13 @@
 the highlands of Southeast Asia, covering 2.5 million square kilometers
 and home to between 80 million and 100 million people. Zomia means
 "highlander" in several Tibeto-Burman languages. Political scientist
-<a href="James_C._Scott" class="wikilink" title="James C. Scott">James
+"<a   href="James_C._Scott.md" class="wikilink" title="James C. Scott">"James
 C. Scott</a> argues that it is "the largest remaining region of the
 world whose peoples have not yet been fully incorporated into
 nation-states. Its days are numbered."[^1]
 
-Scott argues that these <a href="stateless_societies" class="wikilink"
-title="stateless societies">stateless societies</a>' decentralized
+Scott argues that these "<a   href="stateless_societies.md" class="wikilink"
+title="stateless societies">"stateless societies</a>' decentralized
 organizational forms, choice of what crops to grow, choice of where to
 live, and even their emphasis on oral culture all reflect centuries and
 centuries of strategically evading capture by the lowland states.
@@ -46,8 +46,8 @@ The peoples of Zomia developed sophisticated strategies to remain
 outside state control. These included:
 
 - **Mobile agriculture**:
-  <a href="Slash-and-burn_agriculture" class="wikilink"
-  title="Slash-and-burn agriculture">Slash-and-burn agriculture</a> and
+  "<a   href="Slash-and-burn_agriculture.md" class="wikilink"
+  title="Slash-and-burn agriculture">"Slash-and-burn agriculture</a> and
   the cultivation of crops like sweet potatoes and cassava that could be
   harvested quickly and stored underground
 - **Oral traditions**: Deliberate rejection of written language to avoid
@@ -97,8 +97,8 @@ escapes from state authority.
 ### Anti-Hierarchical Organization
 
 Following the model described by anthropologist
-<a href="Pierre_Clastres" class="wikilink"
-title="Pierre Clastres">Pierre Clastres</a>, Zomian societies were
+"<a   href="Pierre_Clastres.md" class="wikilink"
+title="Pierre Clastres">"Pierre Clastres</a>, Zomian societies were
 organized to prevent the emergence of permanent political authority.
 They maintained what Clastres called "societies against the state" -
 social formations that actively worked to prevent the concentration of
@@ -121,8 +121,8 @@ invariably, redistributive."[^13]
 Despite finding irrigated wet rice to be a state-friendly crop, Scott
 rejects Karl Wittfogel's hydraulic hypothesis that irrigation
 automatically necessitates states. Scott observes Zomia's history of
-<a href="stateless_irrigation" class="wikilink"
-title="stateless irrigation">stateless irrigation</a>:
+"<a   href="stateless_irrigation.md" class="wikilink"
+title="stateless irrigation">"stateless irrigation</a>:
 
 [^14]
 
@@ -208,19 +208,19 @@ years.[^20]
 
 ## See Also
 
-- <a href="Anarchist_societies" class="wikilink"
-  title="Anarchist societies">Anarchist societies</a>
-- <a href="Stateless_societies" class="wikilink"
-  title="Stateless societies">Stateless societies</a>
-- <a href="Anti-authoritarian_communities" class="wikilink"
-  title="Anti-authoritarian communities">Anti-authoritarian
+- "<a   href="Anarchist_societies.md" class="wikilink"
+  title="Anarchist societies">"Anarchist societies</a>
+- "<a   href="Stateless_societies.md" class="wikilink"
+  title="Stateless societies">"Stateless societies</a>
+- "<a   href="Anti-authoritarian_communities.md" class="wikilink"
+  title="Anti-authoritarian communities">"Anti-authoritarian
   communities</a>
-- <a href="Pierre_Clastres" class="wikilink"
-  title="Pierre Clastres">Pierre Clastres</a>
-- <a href="James_C._Scott" class="wikilink" title="James C. Scott">James
+- "<a   href="Pierre_Clastres.md" class="wikilink"
+  title="Pierre Clastres">"Pierre Clastres</a>
+- "<a   href="James_C._Scott.md" class="wikilink" title="James C. Scott">"James
   C. Scott</a>
-- <a href="Stateless_irrigation" class="wikilink"
-  title="Stateless irrigation">Stateless irrigation</a>
+- "<a   href="Stateless_irrigation.md" class="wikilink"
+  title="Stateless irrigation">"Stateless irrigation</a>
 
 ## References
 
@@ -235,18 +235,18 @@ years.[^20]
 - [Zomia Land Without
   State](https://booksandideas.net/Zomia-Land-Without-State)
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Current_Anarchist_Societies" class="wikilink"
-title="Category:Current Anarchist Societies">Category:Current Anarchist
-Societies</a> <a href="Category:Anarchist_Societies" class="wikilink"
-title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
+title="Category:Current Anarchist Societies">"Category:Current Anarchist
+Societies</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
+title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: James C. Scott, *The Art of Not Being Governed: An Anarchist
     History of Upland Southeast Asia* (New Haven: Yale University Press,

@@ -35,8 +35,8 @@ the 1960s. Women “played a large part” in the heresy, and many of these
 women belonged to a movement of beatas called the Beguines (their
 masculine counterpart was called the Beghards).[^2] Raoul Vaneigem, a
 former member of the
-<a href="Situationist_International" class="wikilink"
-title="Situationist International">Situationist International</a>
+"<a   href="Situationist_International.md" class="wikilink"
+title="Situationist International">"Situationist International</a>
 celebrates the Free Spirits as people who “renounced all spiritual and
 temporal authority, seeking no more than to live in accordance with
 their own desires.”[^3]
@@ -133,8 +133,8 @@ them as anything but subversive.
 
 The Free Spirits preceded and may have influenced later heresies
 including the fifteenth-century Bohemian Adamites (a radical offshoot of
-the <a href="Taborite_communes" class="wikilink"
-title="Taborite communes">Taborite communes</a>, who are themselves a
+the "<a   href="Taborite_communes.md" class="wikilink"
+title="Taborite communes">"Taborite communes</a>, who are themselves a
 radical offshoot of the Hussite movement) and the alumbrados of Spain.
 Cohn argues, “\[T\]he Free Spirit flourished at various times both in
 Italy and in Spain \[…\] similar doctrines \[to Marguerite Porete’s and
@@ -148,8 +148,8 @@ alumbrados.[^13]
 
 <references/>
 
-<a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
+"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
 
 [^1]: Norman Cohn, *The Pursuit of the Millennium* (London: Granada
     Publishing Limited, 1970), 148-149.

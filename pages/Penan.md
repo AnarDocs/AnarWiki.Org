@@ -8,7 +8,7 @@ The Penan are an egalitarian and historically hunter-gatherer society on
 the island of Borneo (mainly the Malaysian part). Though most live in
 villages today, some continue living nomadically. Their present
 population is 10,000 to 12,000. Alongside
-<a href="Dayak" class="wikilink" title="Dayak">Dayak</a> and other
+"<a   href="Dayak.md" class="wikilink" title="Dayak">"Dayak</a> and other
 native communities, the Penan have fought to defend Borneo’s rainforests
 from the logging, palm oil, and hydroelectric industries.[^1]
 
@@ -42,10 +42,10 @@ an extension of themselves.”[^5]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
 
 [^1]: Survival International, “Logging and oil palm destroying tribe’s
     forest home,” <https://www.survivalinternational.org/tribes/penan>.

@@ -618,16 +618,16 @@ grateful.”[^74]
 
 ## Also See
 
-- <a href="Zapatista_Revolution" class="wikilink"
-  title="Zapatista Revolution">Zapatista Revolution</a>
-- <a href="Zapatista_Army_of_National_Liberation" class="wikilink"
-  title="Zapatista Army of National Liberation">Zapatista Army of National
+- "<a   href="Zapatista_Revolution.md" class="wikilink"
+  title="Zapatista Revolution">"Zapatista Revolution</a>
+- "<a   href="Zapatista_Army_of_National_Liberation.md" class="wikilink"
+  title="Zapatista Army of National Liberation">"Zapatista Army of National
   Liberation</a>
-- <a href="Rebel_Zapatista_Autonomous_Municipalities" class="wikilink"
-  title="Rebel Zapatista Autonomous Municipalities">Rebel Zapatista
+- "<a   href="Rebel_Zapatista_Autonomous_Municipalities.md" class="wikilink"
+  title="Rebel Zapatista Autonomous Municipalities">"Rebel Zapatista
   Autonomous Municipalities</a>
-- <a href="Mexican_Revolution_and_Anarchy" class="wikilink"
-  title="Mexican Revolution and Anarchy">Mexican Revolution and
+- "<a   href="Mexican_Revolution_and_Anarchy.md" class="wikilink"
+  title="Mexican Revolution and Anarchy">"Mexican Revolution and
   Anarchy</a>
 
 ## Links
@@ -642,12 +642,12 @@ grateful.”[^74]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: John Vidal, "Mexico’s Zapatista rebels, 24 years on and defiant in
     mountain strongholds," *The Guardian*, 17 February 2018,
@@ -751,7 +751,7 @@ title="Category:Featured">Category:Featured</a>
 
 [^25]: Zibechi, *Territories in Resistance*, 132. For definitions of
     mutualism and collectivism, see
-    <a href="Theory" class="wikilink" title="Theory">Theory</a>.
+    "<a   href="Theory.md" class="wikilink" title="Theory">"Theory</a>.
 
 [^26]: Hilary Klein, "The Zapatista Movement: Blending Indigenous
     Traditions with Revolutionary Praxis," in eds. Barry Maxwell and
@@ -837,8 +837,8 @@ title="Category:Featured">Category:Featured</a>
 
 [^56]: Grubacic and O'Hearn, *Adventures in Exile and Mutual Aid*, 148.
 
-[^57]: <a href="Alter-globalization_movement" class="wikilink"
-    title="Alter-globalization movement">Alter-globalization movement</a>
+[^57]: "<a   href="Alter-globalization_movement.md" class="wikilink"
+    title="Alter-globalization movement">"Alter-globalization movement</a>
 
 [^58]: <https://en.wikipedia.org/wiki/Mexican_peso_crisis>.
 
@@ -887,5 +887,5 @@ title="Category:Featured">Category:Featured</a>
 [^73]: <https://libcom.org/article/death-zapatista-neoliberalisms-assault-indigenous-autonomy/>
 
 [^74]: Peter Gelerloos,
-    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
     Works</a>.

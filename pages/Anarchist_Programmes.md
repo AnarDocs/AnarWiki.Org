@@ -8,10 +8,10 @@ anarchist movements. Unlike traditional political party manifestos that
 focus on electoral success and state power, anarchist programmes
 articulate visions for revolutionary transformation based on principles
 of
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
-<a href="direct_action" class="wikilink" title="direct action">direct
-action</a>, and <a href="anti-authoritarianism" class="wikilink"
-title="anti-authoritarianism">anti-authoritarianism</a>.
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
+"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
+action</a>, and "<a   href="anti-authoritarianism.md" class="wikilink"
+title="anti-authoritarianism">"anti-authoritarianism</a>.
 
 These documents serve multiple functions within anarchist theory and
 practice: they provide ideological coherence to diverse movements, offer
@@ -28,12 +28,12 @@ codify anarchist principles into a coherent political programme.
 
 This early period established key themes that would persist throughout
 anarchist programme literature: the rejection of state socialism,
-emphasis on <a href="workers&#39;_self-management" class="wikilink"
-title="workers&#39; self-management">workers' self-management</a>, and
+emphasis on "<a   href="workers&#39;_self-management.md" class="wikilink"
+title="workers&#39; self-management">"workers' self-management</a>, and
 the integration of economic and social transformation. The programmes of
 this era reflected the influence of
-<a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a>'s collectivist anarchism and
+"<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a>'s collectivist anarchism and
 the growing anarchist presence within international workers' movements.
 
 ## Tendencies
@@ -46,30 +46,30 @@ principles while addressing practical questions of revolutionary
 strategy. These documents typically emphasized:
 
 - Abolition of private property and the state
-- Establishment of <a href="free_association" class="wikilink"
-  title="free association">free associations</a> of producers and
+- Establishment of "<a   href="free_association.md" class="wikilink"
+  title="free association">"free associations</a> of producers and
   consumers
-- <a href="Direct_democracy" class="wikilink"
-  title="Direct democracy">Direct democracy</a> and
-  <a href="federalism" class="wikilink" title="federalism">federalism</a>
+- "<a   href="Direct_democracy.md" class="wikilink"
+  title="Direct democracy">"Direct democracy</a> and
+  "<a   href="federalism.md" class="wikilink" title="federalism">"federalism</a>
   as organizational principles
-- <a href="Revolutionary" class="wikilink"
-  title="Revolutionary">Revolutionary</a> rather than reformist
+- "<a   href="Revolutionary.md" class="wikilink"
+  title="Revolutionary">"Revolutionary</a> rather than reformist
   approaches to social change
 
 ### Anarcho-Syndicalist Programmes
 
 The 1927 **Programme of Anarcho-Syndicalism** by **Gregori Petrovich
 Maximoff** represented a significant development in anarchist programme
-literature. <a href="Anarcho-syndicalist" class="wikilink"
-title="Anarcho-syndicalist">Anarcho-syndicalist</a> programmes
+literature. "<a   href="Anarcho-syndicalist.md" class="wikilink"
+title="Anarcho-syndicalist">"Anarcho-syndicalist</a> programmes
 emphasized:
 
-- <a href="Workers&#39;_councils" class="wikilink"
-  title="Workers&#39; councils">Workers' councils</a> and
-  <a href="labor_unions" class="wikilink" title="labor unions">labor
+- "<a   href="Workers&#39;_councils.md" class="wikilink"
+  title="Workers&#39; councils">"Workers' councils</a> and
+  "<a   href="labor_unions.md" class="wikilink" title="labor unions">"labor
   unions</a> as vehicles for revolution
-- <a href="General_strike" class="wikilink" title="General strike">General
+- "<a   href="General_strike.md" class="wikilink" title="General strike">"General
   strike</a> as primary revolutionary tactic
 - Integration of workplace struggle with broader social transformation
 - Detailed economic planning for post-revolutionary society
@@ -80,19 +80,19 @@ Modern anarchist programmes, such as those produced by the **Black Rose
 Federation** (2023) and **CrimethInc** (2020), reflect contemporary
 concerns while maintaining core anarchist principles:
 
-- <a href="Climate_change" class="wikilink" title="Climate change">Climate
-  change</a> and <a href="ecological_crisis" class="wikilink"
-  title="ecological crisis">ecological crisis</a>
-- <a href="Identity_politics" class="wikilink"
-  title="Identity politics">Identity politics</a> and
-  <a href="intersectionality" class="wikilink"
-  title="intersectionality">intersectionality</a>
-- <a href="Technology" class="wikilink" title="Technology">Technology</a>
-  and <a href="surveillance_capitalism" class="wikilink"
-  title="surveillance capitalism">surveillance capitalism</a>
-- <a href="Prefigurative_politics" class="wikilink"
-  title="Prefigurative politics">Prefigurative politics</a> and
-  <a href="dual_power" class="wikilink" title="dual power">dual power</a>
+- "<a   href="Climate_change.md" class="wikilink" title="Climate change">"Climate
+  change</a> and "<a   href="ecological_crisis.md" class="wikilink"
+  title="ecological crisis">"ecological crisis</a>
+- "<a   href="Identity_politics.md" class="wikilink"
+  title="Identity politics">"Identity politics</a> and
+  "<a   href="intersectionality.md" class="wikilink"
+  title="intersectionality">"intersectionality</a>
+- "<a   href="Technology.md" class="wikilink" title="Technology">"Technology</a>
+  and "<a   href="surveillance_capitalism.md" class="wikilink"
+  title="surveillance capitalism">"surveillance capitalism</a>
+- "<a   href="Prefigurative_politics.md" class="wikilink"
+  title="Prefigurative politics">"Prefigurative politics</a> and
+  "<a   href="dual_power.md" class="wikilink" title="dual power">"dual power</a>
   strategies
 
 ## Functions and Purposes
@@ -131,28 +131,28 @@ practice, offering concrete guidance for activists and organizers.
 
 All anarchist programmes reject the state as a tool for social
 transformation, distinguishing anarchist approaches from
-<a href="Marxist-Leninist" class="wikilink"
-title="Marxist-Leninist">Marxist-Leninist</a> and
-<a href="social_democratic" class="wikilink"
-title="social democratic">social democratic</a> alternatives. This
+"<a   href="Marxist-Leninist.md" class="wikilink"
+title="Marxist-Leninist">"Marxist-Leninist</a> and
+"<a   href="social_democratic.md" class="wikilink"
+title="social democratic">"social democratic</a> alternatives. This
 anti-statist position shapes all other aspects of anarchist programme
 content.
 
 ### Economic Democracy
 
 Programmes typically advocate for
-<a href="worker_cooperatives" class="wikilink"
-title="worker cooperatives">worker cooperatives</a>,
-<a href="mutual_aid_networks" class="wikilink"
-title="mutual aid networks">mutual aid networks</a>, and
-<a href="gift_economies" class="wikilink" title="gift economies">gift
+"<a   href="worker_cooperatives.md" class="wikilink"
+title="worker cooperatives">"worker cooperatives</a>,
+"<a   href="mutual_aid_networks.md" class="wikilink"
+title="mutual aid networks">"mutual aid networks</a>, and
+"<a   href="gift_economies.md" class="wikilink" title="gift economies">"gift
 economies</a> as alternatives to both capitalism and state socialism.
 Economic democracy is viewed as inseparable from political freedom.
 
 ### Federalism
 
 Most anarchist programmes propose
-<a href="federal" class="wikilink" title="federal">federal</a>
+"<a   href="federal.md" class="wikilink" title="federal">"federal</a>
 structures that balance local autonomy with broader coordination. This
 federalist approach reflects anarchist commitments to both individual
 freedom and collective action.
@@ -171,7 +171,7 @@ replacement with anarchist alternatives.
 Anarchist programmes have generated significant debate within anarchist
 movements. Critics argue that formal programmes contradict anarchist
 principles of spontaneity and anti-authoritarianism. The
-**<a href="Platform" class="wikilink" title="Platform">Platform</a>**
+**"<a   href="Platform.md" class="wikilink" title="Platform">"Platform</a>**
 debate of the 1920s exemplified these tensions, with some anarchists
 viewing organizational programmes as inherently authoritarian.
 
@@ -198,9 +198,9 @@ global capitalism have prompted new programmatic approaches that
 maintain core anarchist principles while addressing 21st-century
 realities.
 
-The rise of <a href="prefigurative_politics" class="wikilink"
-title="prefigurative politics">prefigurative politics</a> and
-<a href="dual_power" class="wikilink" title="dual power">dual power</a>
+The rise of "<a   href="prefigurative_politics.md" class="wikilink"
+title="prefigurative politics">"prefigurative politics</a> and
+"<a   href="dual_power.md" class="wikilink" title="dual power">"dual power</a>
 strategies has influenced recent programme development, with documents
 like **Community, Democracy, and Mutual Aid** (2017) emphasizing the
 construction of alternative institutions alongside resistance to
@@ -241,9 +241,9 @@ existing ones.
 <!-- -->
 
 - 1936, Confederación Nacional del Trabajo,
-  <a href="The_Confederal_Concept_Of_Libertarian_Communism"
+  "<a   href="The_Confederal_Concept_Of_Libertarian_Communism.md"
   class="wikilink"
-  title="The Confederal Concept Of Libertarian Communism">The Confederal
+  title="The Confederal Concept Of Libertarian Communism">"The Confederal
   Concept Of Libertarian Communism</a>
 
 <!-- -->
@@ -310,31 +310,31 @@ existing ones.
 
 <!-- -->
 
-- <a href="Anarchist_Organization" class="wikilink"
-  title="Anarchist Organization">Anarchist Organization</a>
-- <a href="Platformism" class="wikilink"
-  title="Platformism">Platformism</a>
-- <a href="Dual_Power" class="wikilink" title="Dual Power">Dual Power</a>
-- <a href="Prefiguration" class="wikilink"
-  title="Prefigurative Politics">Prefigurative Politics</a>
+- "<a   href="Anarchist_Organization.md" class="wikilink"
+  title="Anarchist Organization">"Anarchist Organization</a>
+- "<a   href="Platformism.md" class="wikilink"
+  title="Platformism">"Platformism</a>
+- "<a   href="Dual_Power.md" class="wikilink" title="Dual Power">"Dual Power</a>
+- "<a   href="Prefiguration.md" class="wikilink"
+  title="Prefigurative Politics">"Prefigurative Politics</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies" class="wikilink"
-title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
-<a href="Category:Anarchist_Transition" class="wikilink"
-title="Category:Anarchist Transition">Category:Anarchist Transition</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Ideologies.md" class="wikilink"
+title="Category:Ideologies">"Category:Ideologies</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
+"<a   href="Category:Anarchist_Transition.md" class="wikilink"
+title="Category:Anarchist Transition">"Category:Anarchist Transition</a>

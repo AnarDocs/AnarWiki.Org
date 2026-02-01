@@ -1,17 +1,17 @@
 **Council Communism**or **Councilism**is a
-<a href="Libertarian_Marxism" class="wikilink"
-title="libertarian marxist">libertarian marxist</a> philosophy that
+"<a   href="Libertarian_Marxism.md" class="wikilink"
+title="libertarian marxist">"libertarian marxist</a> philosophy that
 developed after the
-<a href="October_Revolution_(Russia)" class="wikilink"
-title="Russian Revolution">Russian Revolution</a> and the
-<a href="German_Revolution" class="wikilink"
-title="German Revolution">German Revolution</a>. It believes that
+"<a   href="October_Revolution_(Russia).md" class="wikilink"
+title="Russian Revolution">"Russian Revolution</a> and the
+"<a   href="German_Revolution.md" class="wikilink"
+title="German Revolution">"German Revolution</a>. It believes that
 workers' councils are the only effective way to establish a communist
 society. Council Communism frequently overlaps with
-<a href="Anarcho-Syndicalism" class="wikilink"
-title="anarcho-syndicalism">anarcho-syndicalism</a>, but retains a
+"<a   href="Anarcho-Syndicalism.md" class="wikilink"
+title="anarcho-syndicalism">"anarcho-syndicalism</a>, but retains a
 strong connection to
-<a href="marxism" class="wikilink" title="marxism">marxism</a>.
+"<a   href="marxism.md" class="wikilink" title="marxism">"marxism</a>.
 
 ## Steps
 
@@ -44,7 +44,7 @@ council communism:
 
 ## Notable Council Communists
 
-- <a href="Anton_Pannekoek" class="wikilink" title="Anton Pannekoek">Anton
+- "<a   href="Anton_Pannekoek.md" class="wikilink" title="Anton Pannekoek">"Anton
   Pannekoek</a>
 - Bernhard Reichenbach
 - Ernst Schwarz
@@ -55,20 +55,20 @@ council communism:
 - Jan Appel
 - Karl Schröder
 - Marinus van der Lubbe
-- <a href="Ngô_Văn_Xuyet" class="wikilink" title="Ngô Văn Xuyet">Ngô Văn
+- "<a   href="Ngô_Văn_Xuyet.md" class="wikilink" title="Ngô Văn Xuyet">"Ngô Văn
   Xuyet</a>
 - Otto Rühle
-- <a href="Paul_Mattick" class="wikilink" title="Paul Mattick">Paul
+- "<a   href="Paul_Mattick.md" class="wikilink" title="Paul Mattick">"Paul
   Mattick</a>
 - Paul Mattick Jr.
 
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Libertarian_Marxism" class="wikilink"
-title="Category:Libertarian Marxism">Category:Libertarian Marxism</a>
-<a href="Category:Council_Communism" class="wikilink"
-title="Category:Council Communism">Category:Council Communism</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies" class="wikilink"
-title="Category:Ideologies">Category:Ideologies</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:Libertarian_Marxism.md" class="wikilink"
+title="Category:Libertarian Marxism">"Category:Libertarian Marxism</a>
+"<a   href="Category:Council_Communism.md" class="wikilink"
+title="Category:Council Communism">"Category:Council Communism</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Ideologies.md" class="wikilink"
+title="Category:Ideologies">"Category:Ideologies</a>

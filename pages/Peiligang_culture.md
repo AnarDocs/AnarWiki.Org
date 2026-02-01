@@ -28,12 +28,12 @@ played an important role in everyday life.[^5]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:China" class="wikilink"
-title="Category:China">Category:China</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:China.md" class="wikilink"
+title="Category:China">"Category:China</a>
 
 [^1]: Li Liu, *The Chinese Neolithic: Trajectories to Early States*
     (Cambridge: Cambridge University Press, 2004), 163.

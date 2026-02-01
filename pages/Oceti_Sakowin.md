@@ -10,17 +10,17 @@ is egalitarian and consensus-based. Their traditional land, much of it
 unceded territory, includes much of what's now known as North Dakota,
 South Dakota, Minnesota, and Nebraska. The Oceti Sakowin have been at
 the forefront of many decolonization and land defense struggles
-including <a href="Red_Cloud&#39;s_War" class="wikilink"
-title="Red Cloud&#39;s War">Red Cloud's War</a>, the
-<a href="Alcatraz_occupation" class="wikilink"
-title="Alcatraz occupation">Alcatraz occupation</a>,
-<a href="American_Indian_Movement_and_Anarchy" class="wikilink"
-title="American Indian Movement">American Indian Movement</a>,
-<a href="2007_Lakota_declaration_of_independence" class="wikilink"
-title="2007 Lakota declaration of independence">2007 Lakota declaration
+including "<a   href="Red_Cloud&#39;s_War.md" class="wikilink"
+title="Red Cloud&#39;s War">"Red Cloud's War</a>, the
+"<a   href="Alcatraz_occupation.md" class="wikilink"
+title="Alcatraz occupation">"Alcatraz occupation</a>,
+"<a   href="American_Indian_Movement_and_Anarchy.md" class="wikilink"
+title="American Indian Movement">"American Indian Movement</a>,
+"<a   href="2007_Lakota_declaration_of_independence.md" class="wikilink"
+title="2007 Lakota declaration of independence">"2007 Lakota declaration
 of independence</a>, and
-<a href="Standing_Rock_Uprising" class="wikilink"
-title="Standing Rock Uprising">Standing Rock Uprising</a>.
+"<a   href="Standing_Rock_Uprising.md" class="wikilink"
+title="Standing Rock Uprising">"Standing Rock Uprising</a>.
 
 *Indian Country Today* reports:
 
@@ -51,10 +51,10 @@ consensus-based decision-making traditions:
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
 
 [^1]: Sarah Sunshine Manning, "The Power of Sakowin Women," *Indian
     Country Today*, 13 September 2018,

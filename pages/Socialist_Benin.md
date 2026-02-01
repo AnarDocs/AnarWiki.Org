@@ -1,11 +1,11 @@
 **Socialist Benin**, officially the **People's** or **Popular Republic
 of Benin**, refers to a period of
-<a href="Benin" class="wikilink" title="Benin&#39;s">Benin's</a> history
+"<a   href="Benin.md" class="wikilink" title="Benin&#39;s">"Benin's</a> history
 where the government was run according to
-<a href="Marxist-Leninism" class="wikilink"
-title="Marxist-Leninist">Marxist-Leninist</a> principles. It was one of
-many <a href="African_Socialism" class="wikilink"
-title="socialist nations in Africa">socialist nations in Africa</a>.
+"<a   href="Marxist-Leninism.md" class="wikilink"
+title="Marxist-Leninist">"Marxist-Leninist</a> principles. It was one of
+many "<a   href="African_Socialism.md" class="wikilink"
+title="socialist nations in Africa">"socialist nations in Africa</a>.
 
 ## History
 
@@ -21,12 +21,12 @@ Established following a military coup in 1972, the leader of the country
 (Mathieu Kérékou), initially claiming to be a centrist, announced his
 intentions in 1974, nationalising the industrial and financial sectors,
 declaring the country to be Marxist-Leninist and pursuing relations with
-the <a href="USSR" class="wikilink" title="USSR">USSR</a>,
-<a href="Socialist_Libya" class="wikilink" title="Libya">Libya</a>,
-<a href="Cuba" class="wikilink" title="Cuba">Cuba</a>,
-<a href="East_Germany" class="wikilink" title="East Germany">East
+the "<a   href="USSR.md" class="wikilink" title="USSR">"USSR</a>,
+"<a   href="Socialist_Libya.md" class="wikilink" title="Libya">"Libya</a>,
+"<a   href="Cuba.md" class="wikilink" title="Cuba">"Cuba</a>,
+"<a   href="East_Germany.md" class="wikilink" title="East Germany">"East
 Germany</a> and
-<a href="North_Korea" class="wikilink" title="North Korea">North
+"<a   href="North_Korea.md" class="wikilink" title="North Korea">"North
 Korea</a>.
 
 ### Trouble
@@ -38,7 +38,7 @@ corrupt government.
 ### Collapse
 
 After the introduction of IMF reforms,
-<a href="Benin_Uprising_(1989)" class="wikilink" title="an uprising">an
+"<a   href="Benin_Uprising_(1989).md" class="wikilink" title="an uprising">"an
 uprising</a> broke out across the country over high cost of living and
 anger at the government. These were successful and forced the government
 to abandon Marxist-Leninism and aim to become a liberal democracy.
@@ -53,8 +53,8 @@ to abandon Marxist-Leninism and aim to become a liberal democracy.
   period.
 - The government renamed the country from the French colonial name
   Dahomey to Benin, in reference to the African Benin Empire and
-  <a href="Benin_Megacommunity" class="wikilink"
-  title="Benin Megacommunity">Benin Megacommunity</a>.
+  "<a   href="Benin_Megacommunity.md" class="wikilink"
+  title="Benin Megacommunity">"Benin Megacommunity</a>.
 - Cotton production increased.
 - Roads were expanded across the country.
 
@@ -63,10 +63,10 @@ to abandon Marxist-Leninism and aim to become a liberal democracy.
 - The government was an authoritarian dictatorship which tortured
   political prisoners and antagonised unions and the church.
 - In the late 1980s, the government implemented
-  <a href="Neoliberalism" class="wikilink"
-  title="neoliberal">neoliberal</a> reforms with the assistance of the
-  <a href="International_Monetary_Fund" class="wikilink"
-  title="IMF">IMF</a>.
+  "<a   href="Neoliberalism.md" class="wikilink"
+  title="neoliberal">"neoliberal</a> reforms with the assistance of the
+  "<a   href="International_Monetary_Fund.md" class="wikilink"
+  title="IMF">"IMF</a>.
 - The government attempted an extreme form of atheism which banned
   practicing of certain religions (whilst allowing the president to
   practice religion in private)
@@ -74,33 +74,33 @@ to abandon Marxist-Leninism and aim to become a liberal democracy.
   education system
 - The former president later became an evangelical christian... eerily
   similar to
-  <a href="Jim_Jones" class="wikilink" title="Jim Jones">Jim Jones</a>
+  "<a   href="Jim_Jones.md" class="wikilink" title="Jim Jones">"Jim Jones</a>
 
 ## References
 
-<a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
 [People's Republic of
 Benin](https://en.wikipedia.org/wiki/People%27s_Republic_of_Benin)
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Benin" class="wikilink"
-title="Category:Benin">Category:Benin</a>
-<a href="Category:Western_Africa" class="wikilink"
-title="Category:Western Africa">Category:Western Africa</a>
-<a href="Category:Africa" class="wikilink"
-title="Category:Africa">Category:Africa</a>
-<a href="Category:1970s" class="wikilink"
-title="Category:1970s">Category:1970s</a>
-<a href="Category:1980s" class="wikilink"
-title="Category:1980s">Category:1980s</a>
-<a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Marxist-Leninism" class="wikilink"
-title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
-<a href="Category:Authoritarian_Socialism" class="wikilink"
-title="Category:Authoritarian Socialism">Category:Authoritarian
-Socialism</a> <a href="Category:Authortarian_States" class="wikilink"
-title="Category:Authortarian States">Category:Authortarian States</a>
-<a href="Category:Past_States" class="wikilink"
-title="Category:Past States">Category:Past States</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Benin.md" class="wikilink"
+title="Category:Benin">"Category:Benin</a>
+"<a   href="Category:Western_Africa.md" class="wikilink"
+title="Category:Western Africa">"Category:Western Africa</a>
+"<a   href="Category:Africa.md" class="wikilink"
+title="Category:Africa">"Category:Africa</a>
+"<a   href="Category:1970s.md" class="wikilink"
+title="Category:1970s">"Category:1970s</a>
+"<a   href="Category:1980s.md" class="wikilink"
+title="Category:1980s">"Category:1980s</a>
+"<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:Marxist-Leninism.md" class="wikilink"
+title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+"<a   href="Category:Authoritarian_Socialism.md" class="wikilink"
+title="Category:Authoritarian Socialism">"Category:Authoritarian
+Socialism</a> "<a   href="Category:Authortarian_States.md" class="wikilink"
+title="Category:Authortarian States">"Category:Authortarian States</a>
+"<a   href="Category:Past_States.md" class="wikilink"
+title="Category:Past States">"Category:Past States</a>

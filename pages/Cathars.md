@@ -8,7 +8,7 @@ The Cathars were a Christian heresy in Western Europe that emerged in
 the 11th or 12th century and flourished until the 14th century
 especially in France and Italy. Their name came from the Greek word
 *Katharoi* meaning "the Pure." Strongly influenced by contact with the
-<a href="Bogomils" class="wikilink" title="Bogomils">Bogomils</a>,
+"<a   href="Bogomils.md" class="wikilink" title="Bogomils">"Bogomils</a>,
 Cathars had a gnostic cosmology of a good God fighting against an evil
 deity. A majority of the Cathars were women. The movement saw women as
 equals and honored the feminine side of God known as Sophia. Women were
@@ -34,8 +34,8 @@ be of assistance to others, they inspired devoted followers."[^2]
 
 <references/>
 
-<a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
+"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
 
 [^1]: Arthur Evans, *Witchcraft and the Gay Counterculture: A Radical
     View of Western Civilization and Some of the People it Has Tried to

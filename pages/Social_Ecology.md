@@ -49,8 +49,8 @@ Anarchism, advancing Social Ecology as a stand-alone theory.
 The remainder of this article focuses on Bookchinite or orthodox
 versions of Social Ecology (with a big-S and big-E). However, other
 versions of social ecology have developed by John P. Clark and by the
-<a href="Kurdistan_democratic_confederalists" class="wikilink"
-title="Kurdistan democratic confederalists">Kurdistan democratic
+"<a   href="Kurdistan_democratic_confederalists.md" class="wikilink"
+title="Kurdistan democratic confederalists">"Kurdistan democratic
 confederalists</a>.
 
 # Culture
@@ -146,12 +146,12 @@ statist structures with citizen's assemblies. Ultimately, Social
 Ecologists would create a giant confederation of communes. [^16]
 
 Social Ecology has greatly influenced a number of struggles including
-the <a href="US_anti-nuclear_movement" class="wikilink"
-title="US anti-nuclear movement">US anti-nuclear movement</a>,
-<a href="US_Green_movement" class="wikilink"
-title="US Green movement">US Green movement</a>, and
-<a href="Kurdistan_democratic_confederalists" class="wikilink"
-title="Kurdistan democratic confederalists">Kurdistan democratic
+the "<a   href="US_anti-nuclear_movement.md" class="wikilink"
+title="US anti-nuclear movement">"US anti-nuclear movement</a>,
+"<a   href="US_Green_movement.md" class="wikilink"
+title="US Green movement">"US Green movement</a>, and
+"<a   href="Kurdistan_democratic_confederalists.md" class="wikilink"
+title="Kurdistan democratic confederalists">"Kurdistan democratic
 confederalists</a>.
 
 # Neighboring Societies
@@ -163,13 +163,13 @@ replace the military and police forces.
 
 <references/>
 
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Peter Marshall,
-    <a href="[[Demanding_the_Impossible:_A_History_of_Anarchism"
+    "<a   href="[[Demanding_the_Impossible:_A_History_of_Anarchism.md"
     class="wikilink"
-    title="Demanding the Impossible: A History of Anarchism"><span
+    title="Demanding the Impossible: A History of Anarchism">"<span
     class="wikilink">Demanding the Impossible: A History of
     Anarchism</span></a>.
 

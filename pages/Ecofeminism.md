@@ -14,10 +14,10 @@ Heller, Maria Mies, Val Plumwood, Ariel Salleh, and Vandana Shiva.
 
 <references/>
 
-<a href="Category:Feminism" class="wikilink"
-title="Category:Feminism">Category:Feminism</a>
-<a href="Category:Anarcha-Feminism" class="wikilink"
-title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
+"<a   href="Category:Feminism.md" class="wikilink"
+title="Category:Feminism">"Category:Feminism</a>
+"<a   href="Category:Anarcha-Feminism.md" class="wikilink"
+title="Category:Anarcha-Feminism">"Category:Anarcha-Feminism</a>
 
 [^1]: Christelle Terreblanche, "Ecofeminism" in *Pluriverse: A
     Post-Development Dictionary*, eds. Alberto Acosta, Ariel Salleh,

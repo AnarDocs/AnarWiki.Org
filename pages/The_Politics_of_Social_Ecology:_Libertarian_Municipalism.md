@@ -4,12 +4,12 @@
 
 **The Politics of Social Ecology: Libertarian Municipalism** is a
 seminal work by
-<a href="Janet_Biehl" class="wikilink" title="Janet Biehl">Janet
+"<a   href="Janet_Biehl.md" class="wikilink" title="Janet Biehl">"Janet
 Biehl</a>, based on the decades-long development of libertarian
 municipalist ideas by
-<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
-social theorist <a href="Murray_Bookchin" class="wikilink"
-title="Murray Bookchin">Murray Bookchin</a>. The book serves as a
+"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
+social theorist "<a   href="Murray_Bookchin.md" class="wikilink"
+title="Murray Bookchin">"Murray Bookchin</a>. The book serves as a
 concise, introductory overview, sketching the historical and
 philosophical context of these ideas, and providing practical guidance
 for creating a new municipal movement towards democratic cities. It is
@@ -17,7 +17,7 @@ considered a summary introduction to Bookchin's original works.
 
 The book articulates libertarian municipalism as the political dimension
 of the broader philosophy of
-<a href="social_ecology" class="wikilink" title="social ecology">social
+"<a   href="social_ecology.md" class="wikilink" title="social ecology">"social
 ecology</a>, aiming to radically transform society in a humane,
 rational, and ecological way. Biehl makes it clear that the ideas
 presented are all Bookchin's and that only the articulation is hers,
@@ -29,8 +29,8 @@ ten years as well as a philosopher in her own right.
 ### Core Tenets of Libertarian Municipalism
 
 The book presents libertarian municipalism as fundamentally distinct
-from statecraft, emphasizing <a href="direct_democracy" class="wikilink"
-title="direct democracy">direct democracy</a> through face-to-face
+from statecraft, emphasizing "<a   href="direct_democracy.md" class="wikilink"
+title="direct democracy">"direct democracy</a> through face-to-face
 democratic institutions, particularly popular assemblies. The work draws
 a sharp distinction between politics and Statecraft, where Statecraft
 refers to the professionalised, manipulative, and often immoral systems
@@ -118,17 +118,17 @@ meetings, bylaws, and a clear structure, to gradually gain legal power.
 ## Critiques
 
 The book provides a strong critique of prevailing social structures and
-other radical approaches. The <a href="Nation-State" class="wikilink"
-title="Nation-State">Nation-State</a> is described as fundamentally an
+other radical approaches. The "<a   href="Nation-State.md" class="wikilink"
+title="Nation-State">"Nation-State</a> is described as fundamentally an
 instrument of domination, historically built by curtailing municipal
 freedoms and centralising power.
-<a href="Capitalism" class="wikilink" title="Capitalism">Capitalism</a>
+"<a   href="Capitalism.md" class="wikilink" title="Capitalism">"Capitalism</a>
 is described as a "grow-or-die" system driven by rivalry and expansion
 that commodifies all aspects of life, creates immense inequality, and is
 inherently destructive to both human society and the natural world.
 
-The work also critiques <a href="cooperatives" class="wikilink"
-title="cooperatives">cooperatives</a> as insufficient to challenge
+The work also critiques "<a   href="cooperatives.md" class="wikilink"
+title="cooperatives">"cooperatives</a> as insufficient to challenge
 capitalism when operating as standalone entities, as they are typically
 assimilated by market dictates and competition, often becoming
 "collective capitalists" themselves. Worker's control as a primary unit
@@ -170,13 +170,13 @@ theoretical strength.
 
 <references/>
 
-<a href="Category:Anarchist_Non-Fiction" class="wikilink"
-title="Category:Anarchist Non-Fiction">Category:Anarchist
-Non-Fiction</a> <a href="Category:Anarchist_books" class="wikilink"
-title="Category:Anarchist books">Category:Anarchist books</a>
-<a href="Category:Books" class="wikilink"
-title="Category:Books">Category:Books</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Non-Fiction.md" class="wikilink"
+title="Category:Anarchist Non-Fiction">"Category:Anarchist
+Non-Fiction</a> "<a   href="Category:Anarchist_books.md" class="wikilink"
+title="Category:Anarchist books">"Category:Anarchist books</a>
+"<a   href="Category:Books.md" class="wikilink"
+title="Category:Books">"Category:Books</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>

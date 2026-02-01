@@ -4,22 +4,22 @@
 
 The **Non-Aggression Principle** (NAP), also called the **non-aggression
 axiom**, **non-coercion principle**, or **zero-aggression principle**,
-is a concept central to <a href="right-libertarian" class="wikilink"
-title="right-libertarian">right-libertarian</a> and
-<a href="anarcho-capitalist" class="wikilink"
-title="anarcho-capitalist">anarcho-capitalist</a> philosophy which
+is a concept central to "<a   href="right-libertarian.md" class="wikilink"
+title="right-libertarian">"right-libertarian</a> and
+"<a   href="anarcho-capitalist.md" class="wikilink"
+title="anarcho-capitalist">"anarcho-capitalist</a> philosophy which
 claims that "aggression" - defined as initiating or threatening forceful
 interference with individuals or their property - is illegitimate and
 should be prohibited.[^1]
 
 The NAP is presented by its proponents as the foundational principle
 from which all other rights can be deduced, and is used to justify
-extreme <a href="laissez-faire_capitalism" class="wikilink"
-title="laissez-faire capitalism">laissez-faire capitalism</a>,
+extreme "<a   href="laissez-faire_capitalism.md" class="wikilink"
+title="laissez-faire capitalism">"laissez-faire capitalism</a>,
 opposition to
-<a href="taxation" class="wikilink" title="taxation">taxation</a>, and
+"<a   href="taxation.md" class="wikilink" title="taxation">"taxation</a>, and
 rejection of government regulation. Like the
-<a href="Golden_Rule" class="wikilink" title="Golden Rule">Golden
+"<a   href="Golden_Rule.md" class="wikilink" title="Golden Rule">"Golden
 Rule</a>, the NAP follows an ethics of reciprocity, where the
 permissibility of an action depends on the preceding actions of others.
 
@@ -36,10 +36,10 @@ establishing which property rights are legitimate in the first place.
 ### Early Formulations
 
 The concept has roots in
-<a href="John_Locke" class="wikilink" title="John Locke">John Locke</a>'s
+"<a   href="John_Locke.md" class="wikilink" title="John Locke">"John Locke</a>'s
 political philosophy, though the specific formulation emerged in the
 20th century. The first clear articulation appeared in
-<a href="Ayn_Rand" class="wikilink" title="Ayn Rand">Ayn Rand</a>'s 1946
+"<a   href="Ayn_Rand.md" class="wikilink" title="Ayn Rand">"Ayn Rand</a>'s 1946
 article "The Textbook of Americanism," written for the Motion Picture
 Alliance for the Preservation of American Ideals - a conservative
 Hollywood organization that reported suspected communists to the House
@@ -61,8 +61,8 @@ refused to revise her arguments.
 
 ### Rothbard's Axiom
 
-<a href="Murray_Rothbard" class="wikilink"
-title="Murray Rothbard">Murray Rothbard</a> developed a similar concept
+"<a   href="Murray_Rothbard.md" class="wikilink"
+title="Murray Rothbard">"Murray Rothbard</a> developed a similar concept
 he called the "non-aggression axiom" by at least 1963. In his 1973 book
 *For a New Liberty: The Libertarian Manifesto*, he wrote: "The
 libertarian creed rests upon one central axiom: that no man or group of
@@ -92,11 +92,11 @@ Proponents of the NAP make three main assertions:
   circumstances
 - All legitimate rights can be deduced from the NAP
 - Consistently applying the NAP necessarily produces extreme
-  <a href="propertarian" class="wikilink"
-  title="propertarian">propertarian</a> positions - no
-  <a href="taxation" class="wikilink" title="taxation">taxation</a>, no
-  regulation, absolute <a href="private_property" class="wikilink"
-  title="private property">private property</a> rights
+  "<a   href="propertarian.md" class="wikilink"
+  title="propertarian">"propertarian</a> positions - no
+  "<a   href="taxation.md" class="wikilink" title="taxation">"taxation</a>, no
+  regulation, absolute "<a   href="private_property.md" class="wikilink"
+  title="private property">"private property</a> rights
 
 The principle is meant to distinguish between aggressive force
 (forbidden) and defensive force (permitted). Proponents claim this
@@ -106,11 +106,11 @@ philosophy.
 ### Application to Property
 
 Central to right-libertarian use of the NAP is extending it beyond
-bodily autonomy to encompass <a href="private_property" class="wikilink"
-title="private property">private property</a>. Any interference with
+bodily autonomy to encompass "<a   href="private_property.md" class="wikilink"
+title="private property">"private property</a>. Any interference with
 property - including taxation, regulation, or
-<a href="trespassing" class="wikilink"
-title="trespassing">trespassing</a> - is defined as "aggression"
+"<a   href="trespassing.md" class="wikilink"
+title="trespassing">"trespassing</a> - is defined as "aggression"
 equivalent to physical assault. This allows proponents to claim that
 violent defense of property claims is merely "self-defense."
 
@@ -137,8 +137,8 @@ from which property rights are derived.
 Rothbard himself demonstrated this circularity in *For a New Liberty*.
 After claiming the non-aggression axiom as foundational, he immediately
 abandoned it when discussing property, instead turning to Lockean
-<a href="homesteading" class="wikilink"
-title="homesteading">homesteading</a> theory to determine legitimate
+"<a   href="homesteading.md" class="wikilink"
+title="homesteading">"homesteading</a> theory to determine legitimate
 ownership. He could not use the NAP to determine whether someone
 reclaiming a watch they previously owned was "aggression" - he needed a
 separate theory of property first.[^7]
@@ -210,8 +210,8 @@ system. It prohibits certain actions but provides no positive guidance
 and permits morally abhorrent behavior.
 
 Consider: You encounter someone hanging from a cliff begging for help.
-Under the NAP and <a href="negative_rights" class="wikilink"
-title="negative rights">negative rights</a>, you may walk away - you are
+Under the NAP and "<a   href="negative_rights.md" class="wikilink"
+title="negative rights">"negative rights</a>, you may walk away - you are
 "initiating" nothing. Most people would rightfully consider this deeply
 immoral, potentially even considering you responsible for their death.
 Yet the NAP is indifferent.
@@ -238,10 +238,10 @@ by indigenous peoples, formerly enslaved people, or workers.
 
 If property was stolen yesterday, the NAP permits reclaiming it by
 force. If it was stolen a century ago during
-<a href="colonialism" class="wikilink"
-title="colonialism">colonialism</a> or
-<a href="enclosure_of_the_commons" class="wikilink"
-title="enclosure of the commons">enclosure of the commons</a>, suddenly
+"<a   href="colonialism.md" class="wikilink"
+title="colonialism">"colonialism</a> or
+"<a   href="enclosure_of_the_commons.md" class="wikilink"
+title="enclosure of the commons">"enclosure of the commons</a>, suddenly
 we must respect current ownership and reclamation becomes "aggression."
 The principle that claims to be based on rational deduction conveniently
 produces conclusions that preserve existing power structures.
@@ -261,8 +261,8 @@ property-owning agents.
 Some right-libertarians have argued that children are property of their
 parents. Others claim parents have no obligation to feed their children,
 and letting them starve is merely "inaction" rather than aggression.
-<a href="Murray_Rothbard" class="wikilink"
-title="Murray Rothbard">Murray Rothbard</a> explicitly defended parents'
+"<a   href="Murray_Rothbard.md" class="wikilink"
+title="Murray Rothbard">"Murray Rothbard</a> explicitly defended parents'
 right to let babies die through neglect, arguing that forcing parents to
 care for children would violate the NAP.[^10]
 
@@ -277,12 +277,12 @@ its moral bankruptcy.**
 The NAP's flexibility in defining "aggression" allows its proponents to
 declare virtually anything they dislike as a form of force requiring
 violent resistance.
-<a href="Taxation" class="wikilink" title="Taxation">Taxation</a> is
+"<a   href="Taxation.md" class="wikilink" title="Taxation">"Taxation</a> is
 "aggression at gunpoint."
-<a href="Regulation" class="wikilink" title="Regulation">Regulation</a>
+"<a   href="Regulation.md" class="wikilink" title="Regulation">"Regulation</a>
 is "violence." Even voluntary
-<a href="boycotts" class="wikilink" title="boycotts">boycotts</a> or
-<a href="strikes" class="wikilink" title="strikes">strikes</a> are
+"<a   href="boycotts.md" class="wikilink" title="boycotts">"boycotts</a> or
+"<a   href="strikes.md" class="wikilink" title="strikes">"strikes</a> are
 sometimes characterized as aggression.
 
 Meanwhile, actions right-libertarians support are defined as
@@ -337,9 +337,9 @@ systemic issues rather than focusing solely on individual physical
 confrontations.
 
 The closest anarchist analogue to the NAP is
-<a href="mutualism" class="wikilink" title="mutualism">mutualism</a>'s
+"<a   href="mutualism.md" class="wikilink" title="mutualism">"mutualism</a>'s
 rigorous application of the ethic of reciprocity - the
-<a href="Golden_Rule" class="wikilink" title="Golden Rule">Golden
+"<a   href="Golden_Rule.md" class="wikilink" title="Golden Rule">"Golden
 Rule</a>. However, this is understood as one principle among many within
 a complete moral framework, not as an axiom from which everything else
 derives. As Alexander Berkman argued:
@@ -362,8 +362,8 @@ liberation.
 
 Some right-libertarian philosophers have themselves recognized the NAP's
 flaws. David Friedman noted the principle's ambiguity through a
-<a href="sorites_paradox" class="wikilink"
-title="sorites paradox">sorites paradox</a>: shining a flashlight on
+"<a   href="sorites_paradox.md" class="wikilink"
+title="sorites paradox">"sorites paradox</a>: shining a flashlight on
 someone's property is not aggression, but shining a gigawatt laser
 certainly is - yet both involve photons crossing boundaries, with no
 clear cutoff point deducible from the principle itself.[^13]
@@ -394,12 +394,12 @@ sound like 'This or that is wrong, because I say so.'"[^15]
 
 <references/>
 
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Critiques_of_Capitalism" class="wikilink"
-title="Category:Critiques of Capitalism">Category:Critiques of
-Capitalism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Critiques_of_Capitalism.md" class="wikilink"
+title="Category:Critiques of Capitalism">"Category:Critiques of
+Capitalism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Roderick Long, "Nonaggression Axiom" in The Encyclopedia of
     Libertarianism (2008), pp. 357-60

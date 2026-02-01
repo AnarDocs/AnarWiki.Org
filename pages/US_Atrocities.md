@@ -394,8 +394,8 @@ physical violence or injury.*
   everywhere.
   [1](https://en.wikipedia.org/wiki/Haska_Meyna_wedding_party_airstrike)
 - On September 16, 2007, employees of
-  <a href="(https:_en.wikipedia.org_wiki_Academi)" class="wikilink"
-  title="Blackwater">Blackwater</a> (since renamed Academi), a private
+  "<a   href="(https:_en.wikipedia.org_wiki_Academi).md" class="wikilink"
+  title="Blackwater">"Blackwater</a> (since renamed Academi), a private
   military company, killed 17 Iraqi civilians and injured 20 more in the
   [Nisour Square
   massacre](https://en.wikipedia.org/wiki/Nisour_Square_massacre),
@@ -648,7 +648,7 @@ physical violence or injury.*
 - In 1980, the US helped Turkish armed forces in the [1980 Turkish coup
   d’état](https://en.wikipedia.org/wiki/1980_Turkish_coup_d%27%C3%A9tat),
   including supplying them with American-made Sikorski helicopters.
-  <a href="1" class="wikilink" title="1">1</a>
+  "<a   href="1.md" class="wikilink" title="1">"1</a>
 - In 1980, the US funded and sold weapons to both sides in the
   [Iran-Iraq War](https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War),
   hoping to destabilize the region and create a puppet regime favorable
@@ -5960,5 +5960,5 @@ The original list is from
 [1](https://github.com/dessalines/essays/blob/main/us_atrocities.md)[atrocities.md
 <https://github.com/dessalines/essays/blob/main/us_atrocities.md>](Https://github.com/dessalines/essays/blob/main/us)
 
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>

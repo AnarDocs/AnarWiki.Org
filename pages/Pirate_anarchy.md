@@ -168,7 +168,7 @@ book.[^14]
 
 ## Also See
 
-- <a href="Cokaygne" class="wikilink" title="Cokaygne">Cokaygne</a>
+- "<a   href="Cokaygne.md" class="wikilink" title="Cokaygne">"Cokaygne</a>
 - [Pirate Enlightenment, or the Real Libertalia, David
   Graeber](https://www.penguin.co.uk/books/453898/pirate-enlightenment-or-the-real-libertalia-by-graeber-david/9781802061567),
   2023
@@ -177,14 +177,14 @@ book.[^14]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchist_Utopias" class="wikilink"
-title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-<a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+title="Category:Anarchist Utopias">"Category:Anarchist Utopias</a>
+"<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Peter Leeson, "An-arrgh-chy: The Law and Economics of Pirate
     Organization," Journal of Political Economy, 2007, vol. 115, no. 6,

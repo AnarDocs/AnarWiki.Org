@@ -2,38 +2,38 @@
 
 The **Morelos Commune** (Spanish: *Comuna de Morelos*) was the political
 and economic system established in the Mexican state of
-<a href="Morelos" class="wikilink" title="Morelos">Morelos</a> between
-1913 and 1917. Led by <a href="Emiliano_Zapata" class="wikilink"
-title="Emiliano Zapata">Emiliano Zapata</a>, the people of Morelos
+"<a   href="Morelos.md" class="wikilink" title="Morelos">"Morelos</a> between
+1913 and 1917. Led by "<a   href="Emiliano_Zapata.md" class="wikilink"
+title="Emiliano Zapata">"Emiliano Zapata</a>, the people of Morelos
 implemented a series of wide-reaching social reforms based on the
 proposals laid out in the
-<a href="Plan_of_Ayala" class="wikilink" title="Plan of Ayala">Plan of
+"<a   href="Plan_of_Ayala.md" class="wikilink" title="Plan of Ayala">"Plan of
 Ayala</a>. The term "Morelos Commune" was coined by the Mexican
 historian
-<a href="Adolfo_Gilly" class="wikilink" title="Adolfo Gilly">Adolfo
+"<a   href="Adolfo_Gilly.md" class="wikilink" title="Adolfo Gilly">"Adolfo
 Gilly</a>, in an invocation of the
-<a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
+"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
 Commune</a> of 1871.[^1][^2]
 
 ## Background
 
 The native institutions of Morelos traced their ancestry back to the
 time of the
-<a href="Aztec_Empire" class="wikilink" title="Aztec Empire">Aztec
+"<a   href="Aztec_Empire.md" class="wikilink" title="Aztec Empire">"Aztec
 Empire</a>, before the Spanish conquest of the Americas. The local Nahua
 people held the land in the region under
-<a href="common_ownership" class="wikilink"
-title="common ownership">common ownership</a>, which guaranteed them
+"<a   href="common_ownership.md" class="wikilink"
+title="common ownership">"common ownership</a>, which guaranteed them
 autonomy and self-sufficiency.[^3]
 
 During the 19th century, the sugar industry in Morelos grew increasingly
 profitable, as foreign demand for the product expanded and new
 technologies eased production and distribution. In order to grow the
 Mexican economy, the regime of
-<a href="Porfirio_Díaz" class="wikilink" title="Porfirio Díaz">Porfirio
+"<a   href="Porfirio_Díaz.md" class="wikilink" title="Porfirio Díaz">"Porfirio
 Díaz</a> oversaw a mass concentration of land ownership into
-<a href="private_property" class="wikilink"
-title="private property">private property</a>, reducing the amount of
+"<a   href="private_property.md" class="wikilink"
+title="private property">"private property</a>, reducing the amount of
 common land in the country to only 2% of arable land. The state of
 Morelos, where much of the country's sugar industry was concentrated,
 was among the hardest hit by this policy. Only 23.7% of land in Morelos
@@ -48,29 +48,29 @@ increased dramatically with the privatization of land, forcing peasants
 onto the large estates as agricultural labourers. Morelos' peasants were
 forced to work for the *haciendas* year-round and were only provided
 with earthen floor huts for accommodation, keeping them in
-<a href="poverty" class="wikilink" title="poverty">poverty</a>.[^5]
+"<a   href="poverty.md" class="wikilink" title="poverty">"poverty</a>.[^5]
 
 ## History
 
 ### Revolution
 
-The <a href="Mexican_Revolution" class="wikilink"
-title="Mexican Revolution">Mexican Revolution</a> broke out in 1910, as
+The "<a   href="Mexican_Revolution.md" class="wikilink"
+title="Mexican Revolution">"Mexican Revolution</a> broke out in 1910, as
 several different rebel groups under the leadership of Francisco Madero
 rose up against the established order of the *Porfiriato*. When the
 Porifirian sugar estates collapsed, leaving no alternative means of
 subsistence for their workers, Madero's promises of
-<a href="agrarian_reform" class="wikilink"
-title="agrarian reform">agrarian reform</a> won over the peasant leader
-<a href="Emiliano_Zapata" class="wikilink"
-title="Emiliano Zapata">Emiliano Zapata</a>, who organised the sugar
+"<a   href="agrarian_reform.md" class="wikilink"
+title="agrarian reform">"agrarian reform</a> won over the peasant leader
+"<a   href="Emiliano_Zapata.md" class="wikilink"
+title="Emiliano Zapata">"Emiliano Zapata</a>, who organised the sugar
 workers of Morelos to attack the *haciendas* and seize the land for
 their communities.[^6]
 
 This series of expropriations of privately-owned land by armed peasants
 led to the establishment of the
-<a href="Liberation_Army_of_the_South" class="wikilink"
-title="Liberation Army of the South">Liberation Army of the South</a>
+"<a   href="Liberation_Army_of_the_South.md" class="wikilink"
+title="Liberation Army of the South">"Liberation Army of the South</a>
 (ELS), which spearheaded the revolutionary uprising in Morelos. On 20
 May 1911, the ELS captured Cuautla, and on 21 May, they captured the
 state capital of Cuernavaca.[^7]
@@ -80,7 +80,7 @@ Mexico, the revolutionary forces had completely taken over the state of
 Morelos. President Madero soon went back on his promises of agrarian
 reform and ordered the Zapatistas to disarm. On 25 November 1911, Zapata
 responded by issuing the
-<a href="Plan_of_Ayala" class="wikilink" title="Plan of Ayala">Plan of
+"<a   href="Plan_of_Ayala.md" class="wikilink" title="Plan of Ayala">"Plan of
 Ayala</a>, in which he called for the autonomy of Morelos and the
 immediate redistribution of land from the *haciendas* to the
 peasantry.[^8]
@@ -94,15 +94,15 @@ occupied by Villa and the Zapatistas, the latter of whom desired to
 
 On 9 December 1914, Zapata's Liberation Army of the South left the
 capital for their home state of Morelos, where they established a
-<a href="self-governance" class="wikilink"
-title="self-governing">self-governing</a> and egalitarian
-<a href="society" class="wikilink" title="society">society</a>. The
+"<a   href="self-governance.md" class="wikilink"
+title="self-governing">"self-governing</a> and egalitarian
+"<a   href="society.md" class="wikilink" title="society">"society</a>. The
 Morelos Commune was influenced by local indigenous practices of
-self-management as well as <a href="agrarian_socialism" class="wikilink"
-title="agrarian socialism">agrarian socialism</a>,
-<a href="Magonism" class="wikilink" title="Magonism">Magonism</a>, and
-<a href="libertarian_socialism" class="wikilink"
-title="libertarian socialism">libertarian socialism</a>.[^10][^11]
+self-management as well as "<a   href="agrarian_socialism.md" class="wikilink"
+title="agrarian socialism">"agrarian socialism</a>,
+"<a   href="Magonism.md" class="wikilink" title="Magonism">"Magonism</a>, and
+"<a   href="libertarian_socialism.md" class="wikilink"
+title="libertarian socialism">"libertarian socialism</a>.[^10][^11]
 
 The movement was based on land reform through agrarian communalism in a
 way that was "antagonistic…to capitalism and its inherent need for the
@@ -124,8 +124,8 @@ appointed by Zapata as the state's Secretary of Agriculture. Municipal
 councils of local elders were convened in order to determine how to
 break up the *haciendas* and redistribute their land holdings, with
 decisions being passed from the bottom-up to the Zapatista command for
-enforcement. <a href="Workers&#39;_cooperative" class="wikilink"
-title="Workers&#39; cooperative">Workers' cooperatives</a> were also
+enforcement. "<a   href="Workers&#39;_cooperative.md" class="wikilink"
+title="Workers&#39; cooperative">"Workers' cooperatives</a> were also
 established to manage agricultural output, while credit unions were set
 up in order to support the reorganisation of land ownership.[^14]
 
@@ -142,22 +142,22 @@ of their locality".[^15]
 
 In October 1915, the Zapatistas passed a series of laws that brought
 industry under
-<a href="state_ownership" class="wikilink" title="state ownership">state
+"<a   href="state_ownership.md" class="wikilink" title="state ownership">"state
 ownership</a> and redistributed land to the peasantry. These reforms
 were implemented in Morelos, but did not extend elsewhere in Mexico, due
 to the provincialism of the Zapatistas. The agrarian reforms and the
 nationalisation of the sugar industry in Morelos encouraged the state's
 agricultural and industrial workers to unite around the Zapatistas'
 Ayala Plan, which gave the movement a tendency towards
-<a href="anti-capitalism" class="wikilink"
-title="anti-capitalism">anti-capitalism</a>.[^16]
+"<a   href="anti-capitalism.md" class="wikilink"
+title="anti-capitalism">"anti-capitalism</a>.[^16]
 
 ## Dissolution
 
 As Morelos itself was completely untouched by American corporate
 interests, Zapata distinguished himself as one of the only Latin
 American social revolutionaries that did not attack the
-<a href="United_States" class="wikilink" title="United States">United
+"<a   href="United_States.md" class="wikilink" title="United States">"United
 States</a>. But the Zapatistas' threats against private property
 nevertheless alarmed the government of the United States, as over
 one-quarter of Mexican land was held by American corporations. They
@@ -187,18 +187,18 @@ state.
 
 Belgian critical theorist Bruno Bosteels would later compare the Morelos
 Commune to the
-<a href="Soviet_(council)" class="wikilink" title="Soviets">Soviets</a>
-of the <a href="Russian_Revolution" class="wikilink"
-title="Russian Revolution">Russian Revolution</a>, due to the
+"<a   href="Soviet_(council).md" class="wikilink" title="Soviets">"Soviets</a>
+of the "<a   href="Russian_Revolution.md" class="wikilink"
+title="Russian Revolution">"Russian Revolution</a>, due to the
 decentralised and autonomous organisational structure used for
 collective decision-making in Morelos.[^20] Edward Kantowicz also
-compared the Commune to the <a href="Makhnovshchina" class="wikilink"
-title="Makhnovshchina">Makhnovshchina</a> in eastern Ukraine, due to
+compared the Commune to the "<a   href="Makhnovshchina.md" class="wikilink"
+title="Makhnovshchina">"Makhnovshchina</a> in eastern Ukraine, due to
 similar structures and ideals.[^21]
 
 In contemporary history, the legacy of the Morelos Commune has been
-claimed by the <a href="Zapatista_uprising" class="wikilink"
-title="Zapatista uprising">Zapatista uprising</a> of 1994, during which
+claimed by the "<a   href="Zapatista_uprising.md" class="wikilink"
+title="Zapatista uprising">"Zapatista uprising</a> of 1994, during which
 the Zapatista Army of National Liberation (EZLN) established communal
 forms of governance in Chiapas. Its spirit lives on rather concretely in
 the continuation of community assembly and commoning movements in the
@@ -214,16 +214,16 @@ region and beyond.[^22]
 
 <references/>
 
-<a href="Category:Past_Anarchist_Societies" class="wikilink"
-title="Category:Past Anarchist Societies">Category:Past Anarchist
-Societies</a> <a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
+title="Category:Past Anarchist Societies">"Category:Past Anarchist
+Societies</a> "<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Bosteels, Bruno (2014). "The Mexican Commune". In Shannon Brincat
     (ed.). Communism in the 21st Century. Vol. 2. pp. 161–189

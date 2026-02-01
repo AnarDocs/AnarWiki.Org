@@ -1,23 +1,23 @@
 **Resistance to Pinochet** refers to various methods taken out by
-leftist <a href="Guerilla_Warfare" class="wikilink"
-title="guerillas">guerillas</a> in
-<a href="Chile" class="wikilink" title="Chile">Chile</a> under
-the<a href="Pinochet_Dictatorship" class="wikilink"
-title="Pinochet Dictatorship">Pinochet Dictatorship</a>.
+leftist "<a   href="Guerilla_Warfare.md" class="wikilink"
+title="guerillas">"guerillas</a> in
+"<a   href="Chile.md" class="wikilink" title="Chile">"Chile</a> under
+the"<a   href="Pinochet_Dictatorship.md" class="wikilink"
+title="Pinochet Dictatorship">"Pinochet Dictatorship</a>.
 
 ## Groups
 
-- <a href="Revolutionary_Left_Movement_(Chile)" class="wikilink"
-  title="Revolutionary Left Movement">Revolutionary Left Movement</a>
+- "<a   href="Revolutionary_Left_Movement_(Chile).md" class="wikilink"
+  title="Revolutionary Left Movement">"Revolutionary Left Movement</a>
   (MIR) - Marxist-Leninist guerilla group that evolved out of student
   activism and trade unions in 1967.
-- <a href="Lautaro_Youth_Movement_(Chile)" class="wikilink"
-  title="Lautaro Youth Movement">Lautaro Youth Movement</a> (MJL) -
+- "<a   href="Lautaro_Youth_Movement_(Chile).md" class="wikilink"
+  title="Lautaro Youth Movement">"Lautaro Youth Movement</a> (MJL) -
   Marxist-Leninist-Maoist guerilla group that was formed by former
   members of the MAPU political party, a small democratic socialist
   political party inspired by Liberation Theology in 1982.
-- <a href="Manuel_Rodriguez_Patriotic_Front_(Chile)" class="wikilink"
-  title="Manuel Rodriguez Patriotic Front">Manuel Rodriguez Patriotic
+- "<a   href="Manuel_Rodriguez_Patriotic_Front_(Chile).md" class="wikilink"
+  title="Manuel Rodriguez Patriotic Front">"Manuel Rodriguez Patriotic
   Front</a> (FPMR) - Marxist-Leninist guerilla group that formed as the
   paramilitary wing of the Communist Party of Chile in 1983.
 
@@ -259,29 +259,29 @@ Sergeo Olivares and Martin Urtubia, who came to Canada in
 
 \[<https://en.wikipedia.org/wiki/Armed_resistance_in_Chile_(1973–1990>)
 Armed Resistance in Chile (1973-1990)\] at
-<a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a>
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a>
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Chile" class="wikilink"
-title="Category:Chile">Category:Chile</a>
-<a href="Category:1973" class="wikilink"
-title="Category:1973">Category:1973</a>
-<a href="Category:1970s" class="wikilink"
-title="Category:1970s">Category:1970s</a>
-<a href="Category:1980s" class="wikilink"
-title="Category:1980s">Category:1980s</a>
-<a href="Category:1988" class="wikilink"
-title="Category:1988">Category:1988</a>
-<a href="Category:1980" class="wikilink"
-title="Category:1980">Category:1980</a>
-<a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:South_America" class="wikilink"
-title="Category:South America">Category:South America</a>
-<a href="Category:Guerilla_Warfare" class="wikilink"
-title="Category:Guerilla Warfare">Category:Guerilla Warfare</a>
-<a href="Category:Uprisings" class="wikilink"
-title="Category:Uprisings">Category:Uprisings</a>
-<a href="Category:Resistance_Movements" class="wikilink"
-title="Category:Resistance Movements">Category:Resistance Movements</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Chile.md" class="wikilink"
+title="Category:Chile">"Category:Chile</a>
+"<a   href="Category:1973.md" class="wikilink"
+title="Category:1973">"Category:1973</a>
+"<a   href="Category:1970s.md" class="wikilink"
+title="Category:1970s">"Category:1970s</a>
+"<a   href="Category:1980s.md" class="wikilink"
+title="Category:1980s">"Category:1980s</a>
+"<a   href="Category:1988.md" class="wikilink"
+title="Category:1988">"Category:1988</a>
+"<a   href="Category:1980.md" class="wikilink"
+title="Category:1980">"Category:1980</a>
+"<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:South_America.md" class="wikilink"
+title="Category:South America">"Category:South America</a>
+"<a   href="Category:Guerilla_Warfare.md" class="wikilink"
+title="Category:Guerilla Warfare">"Category:Guerilla Warfare</a>
+"<a   href="Category:Uprisings.md" class="wikilink"
+title="Category:Uprisings">"Category:Uprisings</a>
+"<a   href="Category:Resistance_Movements.md" class="wikilink"
+title="Category:Resistance Movements">"Category:Resistance Movements</a>

@@ -1,31 +1,31 @@
 **Pierre-Joseph Proudhon** (15 January 1809 – 19 January 1865) was a
 French
-<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>,
-<a href="socialist" class="wikilink" title="socialist">socialist</a>,
+"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>,
+"<a   href="socialist.md" class="wikilink" title="socialist">"socialist</a>,
 philosopher, and economist who founded
-<a href="mutualism" class="wikilink" title="mutualist">mutualist</a>
+"<a   href="mutualism.md" class="wikilink" title="mutualist">"mutualist</a>
 philosophy and is widely considered the "father of anarchism".[^1] He
 was the first person to publicly declare himself an *anarchist*,[^2] and
 remains one of anarchism's most influential theorists. Proudhon's famous
-assertion that "<a href="property_is_theft" class="wikilink"
-title="property is theft">property is theft</a>" appeared in his
-groundbreaking 1840 work *<a href="What_Is_Property?" class="wikilink"
-title="What Is Property?">What Is Property?</a>*, challenging both
+assertion that ""<a   href="property_is_theft.md" class="wikilink"
+title="property is theft">"property is theft</a>" appeared in his
+groundbreaking 1840 work *"<a   href="What_Is_Property?.md" class="wikilink"
+title="What Is Property?">"What Is Property?</a>*, challenging both
 capitalist property relations and state socialism.
 
 Proudhon described the
-<a href="liberty" class="wikilink" title="liberty">liberty</a> he
+"<a   href="liberty.md" class="wikilink" title="liberty">"liberty</a> he
 pursued as the synthesis of community and individualism. His mutualism
-bridges <a href="individualist_anarchism" class="wikilink"
-title="individualist anarchism">individualist anarchism</a> and
-<a href="social_anarchism" class="wikilink"
-title="social anarchism">social anarchism</a>, advocating for
-<a href="workers&#39;_self-management" class="wikilink"
-title="workers&#39; self-management">workers' self-management</a>,
-<a href="cooperatives" class="wikilink"
-title="cooperatives">cooperatives</a>, and
-<a href="free_association" class="wikilink"
-title="free association">free association</a> while opposing both
+bridges "<a   href="individualist_anarchism.md" class="wikilink"
+title="individualist anarchism">"individualist anarchism</a> and
+"<a   href="social_anarchism.md" class="wikilink"
+title="social anarchism">"social anarchism</a>, advocating for
+"<a   href="workers&#39;_self-management.md" class="wikilink"
+title="workers&#39; self-management">"workers' self-management</a>,
+"<a   href="cooperatives.md" class="wikilink"
+title="cooperatives">"cooperatives</a>, and
+"<a   href="free_association.md" class="wikilink"
+title="free association">"free association</a> while opposing both
 private property in the means of production and state control of the
 economy.
 
@@ -80,8 +80,8 @@ Over the years, Proudhon rose to be a corrector for the press,
 proofreading publications. By 1829, he had become more interested in
 social issues than in religious theory. Of particular importance during
 this period was his encounter with
-<a href="Charles_Fourier" class="wikilink"
-title="Charles Fourier">Charles Fourier</a>, who in 1829 came to
+"<a   href="Charles_Fourier.md" class="wikilink"
+title="Charles Fourier">"Charles Fourier</a>, who in 1829 came to
 Gauthier as a customer seeking to publish his work *Le Nouveau Monde
 Industriel et Sociétaire*. Proudhon supervised the printing of the book,
 which gave him ample opportunity to talk with Fourier about a variety of
@@ -151,11 +151,11 @@ he felt that this was an indicator that his writing made elite academics
 uncomfortable.[^16]
 
 In 1840, Proudhon published his first major work
-*<a href="What_Is_Property?" class="wikilink"
-title="What Is Property?">What Is Property?</a>* (*Qu'est-ce que la
+*"<a   href="What_Is_Property?.md" class="wikilink"
+title="What Is Property?">"What Is Property?</a>* (*Qu'est-ce que la
 propriété?*). This groundbreaking work attracted the attention of the
 French authorities and the scrutiny of
-<a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>,
+"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">"Karl Marx</a>,
 who started a correspondence with its author. The two influenced each
 other and they met in Paris while Marx was exiled there.
 
@@ -171,8 +171,8 @@ The Philosophy of Poverty*) which prompted a book-length critique from
 Karl Marx entitled *The Poverty of Philosophy*, commencing a rift
 between anarchism and Marxism that would be continued by the Bakuninists
 and collectivist anarchists in the
-<a href="First_International" class="wikilink"
-title="First International">First International</a> and that continues
+"<a   href="First_International.md" class="wikilink"
+title="First International">"First International</a> and that continues
 to this day.[^18]
 
 ### Revolutionary Activity
@@ -195,8 +195,8 @@ never been awake. You are a man for whom logic does not exist. You do
 not hear anything, you do not understand anything."[^21]
 
 After the death of his follower
-<a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a>, Proudhon's libertarian
+"<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a>, Proudhon's libertarian
 socialism diverged into individualist anarchism, collectivist anarchism,
 anarcho-communism and anarcho-syndicalism, with notable proponents such
 as Carlo Cafiero, Joseph Déjacque, Peter Kropotkin and Benjamin Tucker.
@@ -746,41 +746,41 @@ at odds with fascist ideology.
 
 ## See Also
 
-- <a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>
-- <a href="Mutualism" class="wikilink" title="Mutualism">Mutualism</a>
-- <a href="Workers&#39;_Self-Management" class="wikilink"
-  title="Workers&#39; Self-Management">Workers' Self-Management</a>
-- <a href="Libertarian_Socialism" class="wikilink"
-  title="Libertarian Socialism">Libertarian Socialism</a>
-- <a href="Free_Association" class="wikilink"
-  title="Free Association">Free Association</a>
-- <a href="Market_Anarchism" class="wikilink"
-  title="Market Anarchism">Market Anarchism</a>
-- <a href="Anarcho-Syndicalism" class="wikilink"
-  title="Anarcho-Syndicalism">Anarcho-Syndicalism</a>
-- <a href="First_International" class="wikilink"
-  title="First International">First International</a>
-- <a href="Property_is_Theft" class="wikilink"
-  title="Property is Theft">Property is Theft</a>
+- "<a   href="Anarchism.md" class="wikilink" title="Anarchism">"Anarchism</a>
+- "<a   href="Mutualism.md" class="wikilink" title="Mutualism">"Mutualism</a>
+- "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
+- "<a   href="Libertarian_Socialism.md" class="wikilink"
+  title="Libertarian Socialism">"Libertarian Socialism</a>
+- "<a   href="Free_Association.md" class="wikilink"
+  title="Free Association">"Free Association</a>
+- "<a   href="Market_Anarchism.md" class="wikilink"
+  title="Market Anarchism">"Market Anarchism</a>
+- "<a   href="Anarcho-Syndicalism.md" class="wikilink"
+  title="Anarcho-Syndicalism">"Anarcho-Syndicalism</a>
+- "<a   href="First_International.md" class="wikilink"
+  title="First International">"First International</a>
+- "<a   href="Property_is_Theft.md" class="wikilink"
+  title="Property is Theft">"Property is Theft</a>
 
-<a href="Category:Anarchists" class="wikilink"
-title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:French_Anarchists" class="wikilink"
-title="Category:French Anarchists">Category:French Anarchists</a>
-<a href="Category:Mutualists" class="wikilink"
-title="Category:Mutualists">Category:Mutualists</a>
-<a href="Category:Libertarian_Socialists" class="wikilink"
-title="Category:Libertarian Socialists">Category:Libertarian
-Socialists</a> <a href="Category:Anarchist_Theorists" class="wikilink"
-title="Category:Anarchist Theorists">Category:Anarchist Theorists</a>
-<a href="Category:1809_births" class="wikilink"
-title="Category:1809 births">Category:1809 births</a>
-<a href="Category:1865_deaths" class="wikilink"
-title="Category:1865 deaths">Category:1865 deaths</a>
-<a href="Category:19th_Century" class="wikilink"
-title="Category:19th Century">Category:19th Century</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Anarchists.md" class="wikilink"
+title="Category:Anarchists">"Category:Anarchists</a>
+"<a   href="Category:French_Anarchists.md" class="wikilink"
+title="Category:French Anarchists">"Category:French Anarchists</a>
+"<a   href="Category:Mutualists.md" class="wikilink"
+title="Category:Mutualists">"Category:Mutualists</a>
+"<a   href="Category:Libertarian_Socialists.md" class="wikilink"
+title="Category:Libertarian Socialists">"Category:Libertarian
+Socialists</a> "<a   href="Category:Anarchist_Theorists.md" class="wikilink"
+title="Category:Anarchist Theorists">"Category:Anarchist Theorists</a>
+"<a   href="Category:1809_births.md" class="wikilink"
+title="Category:1809 births">"Category:1809 births</a>
+"<a   href="Category:1865_deaths.md" class="wikilink"
+title="Category:1865 deaths">"Category:1865 deaths</a>
+"<a   href="Category:19th_Century.md" class="wikilink"
+title="Category:19th Century">"Category:19th Century</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Guérin, Daniel (1989) \[1970\]. *Anarchism: From Theory to
     Practice*. New York: Monthly Review Press.

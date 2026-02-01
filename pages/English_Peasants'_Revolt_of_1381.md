@@ -46,9 +46,9 @@ was indeed being disseminated at the time of the revolt."[^7]
 <references/>
 
 [^1]: Peter Marshall,
-    <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
+    "<a   href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
     class="wikilink"
-    title="Demanding the Impossible: A History of Anarchism">Demanding the
+    title="Demanding the Impossible: A History of Anarchism">"Demanding the
     Impossible: A History of Anarchism</a>.
 
 [^2]: <https://www.britannica.com/event/Peasants-Revolt>.

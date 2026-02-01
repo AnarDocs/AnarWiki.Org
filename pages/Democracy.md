@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Representative_Democracy" class="wikilink"
-    title="Representative Democracy">Representative Democracy</a>
+1.  REDIRECT "<a   href="Representative_Democracy.md" class="wikilink"
+    title="Representative Democracy">"Representative Democracy</a>

@@ -4,7 +4,7 @@ archive, it having gone offline in 2024.</small>*
 **Tankie Wiki time, grab a drink.**
 
 A collection of kind of ragefans of the
-"<a href="Tankie" class="wikilink" title="tankie">tankie</a>" subculture
+""<a   href="Tankie.md" class="wikilink" title="tankie">"tankie</a>" subculture
 documenting some of their greatest hits. Also arguably, tankie culture
 is a bit of a fandom itself, and tends to attempt to ingratiate itself
 in all other media based sub-cultures, and as such is worthy for
@@ -42,130 +42,130 @@ authors and activists.
 further down below</small>*
 
 - Anti-Tankie
-  - <a href="Tankie:Anti-Tankie" class="wikilink"
-    title="Anti-Tankie">Anti-Tankie</a>
-  - <a href="Tankie:Anti-work" class="wikilink"
-    title="Anti-work">Anti-work</a>
-  - <a href="Tankie:Marxist_critiques" class="wikilink"
-    title="Marxist critiques">Marxist critiques</a>
-  - <a href="Tankie:Marxist-Leninist_critiques" class="wikilink"
-    title="Marxist-Leninist critiques">Marxist-Leninist critiques</a>
-  - <a href="Tankie:State_contradictions" class="wikilink"
-    title="State contradictions">State contradictions</a>
+  - "<a   href="Tankie:Anti-Tankie.md" class="wikilink"
+    title="Anti-Tankie">"Anti-Tankie</a>
+  - "<a   href="Tankie:Anti-work.md" class="wikilink"
+    title="Anti-work">"Anti-work</a>
+  - "<a   href="Tankie:Marxist_critiques.md" class="wikilink"
+    title="Marxist critiques">"Marxist critiques</a>
+  - "<a   href="Tankie:Marxist-Leninist_critiques.md" class="wikilink"
+    title="Marxist-Leninist critiques">"Marxist-Leninist critiques</a>
+  - "<a   href="Tankie:State_contradictions.md" class="wikilink"
+    title="State contradictions">"State contradictions</a>
 - Atrocities
-  - <a href="Tankie:Chinese_Cultural_Revolution_1966-1976" class="wikilink"
-    title="Chinese &quot;Cultural Revolution&quot;, 1966-1976">Chinese
+  - "<a   href="Tankie:Chinese_Cultural_Revolution_1966-1976.md" class="wikilink"
+    title="Chinese &quot;Cultural Revolution&quot;, 1966-1976">"Chinese
     "Cultural Revolution", 1966-1976</a>
-  - <a href="Tankie:Great_Chinese_famine_1959-1961" class="wikilink"
-    title="Great Chinese famine, 1959-1961">Great Chinese famine,
+  - "<a   href="Tankie:Great_Chinese_famine_1959-1961.md" class="wikilink"
+    title="Great Chinese famine, 1959-1961">"Great Chinese famine,
     1959-1961</a>
-  - <a href="Tankie:Uyghur_genocide" class="wikilink"
-    title="Uyghur genocide">Uyghur genocide</a>
-  - <a href="TankieUkrainian_famine_1932-1933" class="wikilink"
-    title="Ukrainian famine 1932-1933">Ukrainian famine 1932-1933</a>
+  - "<a   href="Tankie:Uyghur_genocide.md" class="wikilink"
+    title="Uyghur genocide">"Uyghur genocide</a>
+  - "<a   href="TankieUkrainian_famine_1932-1933.md" class="wikilink"
+    title="Ukrainian famine 1932-1933">"Ukrainian famine 1932-1933</a>
 - Authoritarianism
-  - <a href="Tankie:Arrests" class="wikilink" title="Arrests">Arrests</a>
-  - <a href="Tankie:Censorship" class="wikilink"
-    title="Censorship">Censorship</a>
+  - "<a   href="Tankie:Arrests.md" class="wikilink" title="Arrests">"Arrests</a>
+  - "<a   href="Tankie:Censorship.md" class="wikilink"
+    title="Censorship">"Censorship</a>
   - Deportations and purges of nationalities
   - Drug Wars
   - Expansion of Government Powers
   - Paternalism
   - People Fleeing For Political Asylum
   - Persecution of Religious Freedoms
-  - <a href="Tankie:Prisons,_Police_and_Criminal_Justice_Systems"
+  - "<a   href="Tankie:Prisons,_Police_and_Criminal_Justice_Systems.md"
     class="wikilink"
-    title="Prisons, Police and Criminal Justice Systems">Prisons, Police and
+    title="Prisons, Police and Criminal Justice Systems">"Prisons, Police and
     Criminal Justice Systems</a>
-  - <a href="Tankie:Suppression_of_Political_Dissent" class="wikilink"
-    title="Suppression of Political Dissent">Suppression of Political
+  - "<a   href="Tankie:Suppression_of_Political_Dissent.md" class="wikilink"
+    title="Suppression of Political Dissent">"Suppression of Political
     Dissent</a>
-  - <a href="Tankie:Surveillance" class="wikilink"
-    title="Surveillance">Surveillance</a>
-  - <a href="Tankie:Theories_of_Authoritarianism" class="wikilink"
-    title="Theories of Authoritarianism">Theories of Authoritarianism</a>
+  - "<a   href="Tankie:Surveillance.md" class="wikilink"
+    title="Surveillance">"Surveillance</a>
+  - "<a   href="Tankie:Theories_of_Authoritarianism.md" class="wikilink"
+    title="Theories of Authoritarianism">"Theories of Authoritarianism</a>
 - Bigotry
   - Ableism
   - Anti-immigration
-  - <a href="Tankie:Anti-LGBTQIA+" class="wikilink"
-    title="Anti-LGBTQIA+">Anti-LGBTQIA+</a>
+  - "<a   href="Tankie:Anti-LGBTQIA+.md" class="wikilink"
+    title="Anti-LGBTQIA+">"Anti-LGBTQIA+</a>
   - Anti-sex work
   - Border politics
   - Colonialism
-  - <a href="Tankie:Cultural_Genocide_is_still_genocide" class="wikilink"
-    title="Cultural Genocide is still genocide">Cultural Genocide is still
+  - "<a   href="Tankie:Cultural_Genocide_is_still_genocide.md" class="wikilink"
+    title="Cultural Genocide is still genocide">"Cultural Genocide is still
     genocide</a>
   - Imperialism
   - Linguicism
-  - <a href="Tankie:Nationalism" class="wikilink"
-    title="Nationalism">Nationalism</a>
-  - <a href="Tankie:Patriarchy" class="wikilink"
-    title="Patriarchy">Patriarchy</a>
+  - "<a   href="Tankie:Nationalism.md" class="wikilink"
+    title="Nationalism">"Nationalism</a>
+  - "<a   href="Tankie:Patriarchy.md" class="wikilink"
+    title="Patriarchy">"Patriarchy</a>
   - Racism
     - Anti-Asian racism
-    - <a href="Tankie:Anti-Black_racism" class="wikilink"
-      title="Anti-Black racism">Anti-Black racism</a>
+    - "<a   href="Tankie:Anti-Black_racism.md" class="wikilink"
+      title="Anti-Black racism">"Anti-Black racism</a>
     - Anti-Indigenous racism
     - Antisemitism
     - Antiziganism
     - Islamophobia
     - Whiteness
 - Economics
-  - <a href="Tankie:Accumulation" class="wikilink"
-    title="Accumulation">Accumulation</a>
-  - <a href="Tankie:Central_Planning" class="wikilink"
-    title="Central Planning">Central Planning</a>
+  - "<a   href="Tankie:Accumulation.md" class="wikilink"
+    title="Accumulation">"Accumulation</a>
+  - "<a   href="Tankie:Central_Planning.md" class="wikilink"
+    title="Central Planning">"Central Planning</a>
   - COVID Managements
-  - <a href="Tankie:Environmental" class="wikilink"
-    title="Environmental">Environmental</a>
+  - "<a   href="Tankie:Environmental.md" class="wikilink"
+    title="Environmental">"Environmental</a>
   - International Capitalism
-  - <a href="Tankie:Government_Mismanagements" class="wikilink"
-    title="Government Mismanagements">Government Mismanagements</a>
+  - "<a   href="Tankie:Government_Mismanagements.md" class="wikilink"
+    title="Government Mismanagements">"Government Mismanagements</a>
   - National Economies
-    - <a href="Tankie:Chinese_Economics" class="wikilink"
-      title="Chinese Economics">Chinese Economics</a>
+    - "<a   href="Tankie:Chinese_Economics.md" class="wikilink"
+      title="Chinese Economics">"Chinese Economics</a>
     - Cuban Economics
     - East German (DDR) Economics
     - Nepali Economics
     - Nicaraguan Economics
     - North Korean Economics
-    - <a href="Tankie:Soviet_Economics" class="wikilink"
-      title="Soviet Economics">Soviet Economics</a>
+    - "<a   href="Tankie:Soviet_Economics.md" class="wikilink"
+      title="Soviet Economics">"Soviet Economics</a>
     - Venezuelan Economics
     - Vietnamese Economics
 - Imperialism
   - Campism
   - Colonialism
   - Deportations and purges of nationalities
-  - <a href="Tankie:Imperial_Tendencies_in_Marx_and_Engels" class="wikilink"
-    title="Imperial Tendencies in Marx and Engels">Imperial Tendencies in
+  - "<a   href="Tankie:Imperial_Tendencies_in_Marx_and_Engels.md" class="wikilink"
+    title="Imperial Tendencies in Marx and Engels">"Imperial Tendencies in
     Marx and Engels</a>
-- <a href="Tankie:Populism" class="wikilink" title="Populism">Populism</a>
+- "<a   href="Tankie:Populism.md" class="wikilink" title="Populism">"Populism</a>
 - Repression
   - Historical Repression
     - Baku Commune, 1917 - 1918
     - Budapest Commune, 1919
-    - <a href="Tankie:Kronstadt_Rebellion,_1921" class="wikilink"
-      title="Kronstadt Rebellion, 1921">Kronstadt Rebellion, 1921</a>
+    - "<a   href="Tankie:Kronstadt_Rebellion,_1921.md" class="wikilink"
+      title="Kronstadt Rebellion, 1921">"Kronstadt Rebellion, 1921</a>
     - Barcelona May Days, 1937
     - East German Uprising, 1953
     - Vorkuta uprising, 1953
     - Norilsk uprising, 1953
-    - <a href="Tankie:Hungarian_Uprising,_1956" class="wikilink"
-      title="Hungarian Uprising, 1956">Hungarian Uprising, 1956</a>
+    - "<a   href="Tankie:Hungarian_Uprising,_1956.md" class="wikilink"
+      title="Hungarian Uprising, 1956">"Hungarian Uprising, 1956</a>
     - Poznan Uprising, 1956
     - Chinese "Cultural Revolution", 1966-1976
-      - <a href="Tankie:Shanghai_Commune,_1967" class="wikilink"
-        title="Shanghai Commune, 1967">Shanghai Commune, 1967</a>
+      - "<a   href="Tankie:Shanghai_Commune,_1967.md" class="wikilink"
+        title="Shanghai Commune, 1967">"Shanghai Commune, 1967</a>
     - Tiananmen Square, 1989
-  - <a href="Tankie:Suppression_of_anarchist_movements" class="wikilink"
-    title="Suppression of anarchist movements">Suppression of anarchist
+  - "<a   href="Tankie:Suppression_of_anarchist_movements.md" class="wikilink"
+    title="Suppression of anarchist movements">"Suppression of anarchist
     movements</a>
-  - <a href="Tankie:Suppression_of_Marxist_movements" class="wikilink"
-    title="Suppression of Marxist movements">Suppression of Marxist
+  - "<a   href="Tankie:Suppression_of_Marxist_movements.md" class="wikilink"
+    title="Suppression of Marxist movements">"Suppression of Marxist
     movements</a>
-  - <a href="Tankie:Suppression_of_Workers&#39;_movements" class="wikilink"
-    title="Suppression of Workers&#39; movements">Suppression of Workers'
+  - "<a   href="Tankie:Suppression_of_Workers&#39;_movements.md" class="wikilink"
+    title="Suppression of Workers&#39; movements">"Suppression of Workers'
     movements</a>
 
 ## About Us
@@ -216,8 +216,8 @@ entries</small>*
 ## Old Table of Contents
 
 - Anti-Tankie
-  - <a href="Tankie:Anti-Tankie" class="wikilink"
-    title="Anti-Tankie">Anti-Tankie</a>
+  - "<a   href="Tankie:Anti-Tankie.md" class="wikilink"
+    title="Anti-Tankie">"Anti-Tankie</a>
   - Anti-work
   - Dishonest Arguments
     - Accumulation
@@ -233,8 +233,8 @@ entries</small>*
     - Tokenization
   - Marxist critiques
   - Marxist-Leninist critiques
-  - <a href="Tankie:State_contradictions" class="wikilink"
-    title="State contradictions">State contradictions</a>
+  - "<a   href="Tankie:State_contradictions.md" class="wikilink"
+    title="State contradictions">"State contradictions</a>
 - Atrocities
   - Afghan refugee crisis
   - Anfal genocide
@@ -401,8 +401,8 @@ entries</small>*
     - Thailand Protests
     - Ukraine Protests
     - Venezuela Protests
-  - <a href="Tankie:Suppression_of_anarchist_movements" class="wikilink"
-    title="Suppression of anarchist movements">Suppression of anarchist
+  - "<a   href="Tankie:Suppression_of_anarchist_movements.md" class="wikilink"
+    title="Suppression of anarchist movements">"Suppression of anarchist
     movements</a>
   - Suppression of Marxist movements
   - Suppression of Workers' movements

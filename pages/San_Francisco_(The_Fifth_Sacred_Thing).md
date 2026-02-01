@@ -98,12 +98,12 @@ prisoners.[^15]
 
 <references/>
 
-<a href="Category:Anarchist_Utopias" class="wikilink"
-title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-<a href="Category:Utopian_Fiction" class="wikilink"
-title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+title="Category:Anarchist Utopias">"Category:Anarchist Utopias</a>
+"<a   href="Category:Utopian_Fiction.md" class="wikilink"
+title="Category:Utopian Fiction">"Category:Utopian Fiction</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Starhawk, *The Fifth Sacred Thing* (New York: Bantam Books, 1993),
     1.

@@ -37,10 +37,10 @@ Ngo Van Xuyet elaborates:
 
 <references/>
 
-<a href="Category:Taoism" class="wikilink"
-title="Category:Taoism">Category:Taoism</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
+"<a   href="Category:Taoism.md" class="wikilink"
+title="Category:Taoism">"Category:Taoism</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
 Communities</a>
 
 [^1]: "Anarchism" in *Encyclopedia of Religion and Nature*, edited by

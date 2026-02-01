@@ -11,8 +11,8 @@ Animals" by Lyta Gold and Nick Sirotich[^1]:
 > work’s sake.
 
 The black cat is a common symbol of the
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="Industrial Workers of the World">Industrial Workers of the
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="Industrial Workers of the World">"Industrial Workers of the
 World</a>, anarcho-syndicalism, and wildcat strikes.
 
 <references/>

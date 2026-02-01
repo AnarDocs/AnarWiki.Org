@@ -1,12 +1,12 @@
 **Worker Cooperatives** (also called **Producer
 Cooperatives**,**Employee-Owned Enterprises** or **Labor-Managed
-Firms**) are <a href="Cooperative" class="wikilink"
-title="cooperatives">cooperatives</a> which produce goods or provide
-services and are <a href="Workers&#39;_Self-Management" class="wikilink"
-title="managed by their workers">managed by their workers</a> in
-<a href="Democratic_Assembly" class="wikilink"
-title="assemblies">assemblies</a> or by elected managers.
-<a href="Money" class="wikilink" title="Money">Money</a> gained by the
+Firms**) are "<a   href="Cooperative.md" class="wikilink"
+title="cooperatives">"cooperatives</a> which produce goods or provide
+services and are "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+title="managed by their workers">"managed by their workers</a> in
+"<a   href="Democratic_Assembly.md" class="wikilink"
+title="assemblies">"assemblies</a> or by elected managers.
+"<a   href="Money.md" class="wikilink" title="Money">"Money</a> gained by the
 cooperative is reinvested to pay for the operating costs of the business
 (like bills, rent, taxes, licensing, materials and so on) and then is
 either equally distributed to workers via shares or is paid based on the
@@ -37,35 +37,35 @@ capitalist countries. This apparent paradox has many explanations.
 ## Notable Worker Cooperatives
 
 - Ocean spray
-- <a href="Amul" class="wikilink" title="Amul">Amul</a> - Dairy Products
-- <a href="CECOSESOLA" class="wikilink" title="CECOSESOLA">CECOSESOLA</a>
-- <a href="Citybikes_Workers&#39;_Cooperative" class="wikilink"
-  title="Citybikes Workers&#39; Cooperative">Citybikes Workers'
+- "<a   href="Amul.md" class="wikilink" title="Amul">"Amul</a> - Dairy Products
+- "<a   href="CECOSESOLA.md" class="wikilink" title="CECOSESOLA">"CECOSESOLA</a>
+- "<a   href="Citybikes_Workers&#39;_Cooperative.md" class="wikilink"
+  title="Citybikes Workers&#39; Cooperative">"Citybikes Workers'
   Cooperative</a>
-- <a href="Edinburgh_Bicycle_Co-operative" class="wikilink"
-  title="Edinburgh Bicycle Co-operative">Edinburgh Bicycle
+- "<a   href="Edinburgh_Bicycle_Co-operative.md" class="wikilink"
+  title="Edinburgh Bicycle Co-operative">"Edinburgh Bicycle
   Co-operative</a>
-- <a href="Egged_(Cooperative)" class="wikilink" title="Egged">Egged</a> -
+- "<a   href="Egged_(Cooperative).md" class="wikilink" title="Egged">"Egged</a> -
   Bus Transport
-- <a href="Evergreen_Cooperatives" class="wikilink"
-  title="Evergreen Cooperatives">Evergreen Cooperatives</a> - Green
+- "<a   href="Evergreen_Cooperatives.md" class="wikilink"
+  title="Evergreen Cooperatives">"Evergreen Cooperatives</a> - Green
   Industry
-- <a href="John_Lewis_Partnership" class="wikilink"
-  title="John Lewis Partnership">John Lewis Partnership</a>
-- <a href="Mondragon" class="wikilink" title="Mondragon">Mondragon</a>
+- "<a   href="John_Lewis_Partnership.md" class="wikilink"
+  title="John Lewis Partnership">"John Lewis Partnership</a>
+- "<a   href="Mondragon.md" class="wikilink" title="Mondragon">"Mondragon</a>
 
 ## References
 
-<a href="Category:Cooperatives" class="wikilink"
-title="Category:Cooperatives">Category:Cooperatives</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
+"<a   href="Category:Cooperatives.md" class="wikilink"
+title="Category:Cooperatives">"Category:Cooperatives</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
 Socialism</a>
-<a href="Category:Workers&#39;_Self-Management" class="wikilink"
-title="Category:Workers&#39; Self-Management">Category:Workers'
-Self-Management</a> <a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Worker_Cooperatives" class="wikilink"
-title="Category:Worker Cooperatives">Category:Worker Cooperatives</a>
+"<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+title="Category:Workers&#39; Self-Management">"Category:Workers'
+Self-Management</a> "<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Worker_Cooperatives.md" class="wikilink"
+title="Category:Worker Cooperatives">"Category:Worker Cooperatives</a>

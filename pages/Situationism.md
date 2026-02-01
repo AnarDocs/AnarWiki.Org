@@ -1,11 +1,11 @@
 **Situationism** refers to the ideas developed by the
-<a href="Situationist_International" class="wikilink"
-title="Situationist International">Situationist International</a>, a
+"<a   href="Situationist_International.md" class="wikilink"
+title="Situationist International">"Situationist International</a>, a
 group of intellectuals, artists and revolutionaries active in Western
 Europe from 1957 to 1972. It developed several
-<a href="Anarchism" class="wikilink" title="anarchists">anarchists</a>
-and <a href="Libertarian_Marxism" class="wikilink"
-title="libertarian marxist">libertarian marxist</a> ideas that have
+"<a   href="Anarchism.md" class="wikilink" title="anarchists">"anarchists</a>
+and "<a   href="Libertarian_Marxism.md" class="wikilink"
+title="libertarian marxist">"libertarian marxist</a> ideas that have
 influenced the left to this day.
 
 ## Key Concepts
@@ -14,21 +14,21 @@ influenced the left to this day.
 
 ### Détournement
 
-<a href="Hijacking_(Situationism)" class="wikilink"
-title="Détournement">Détournement</a> or Hijacking is the process by
-which <a href="Radical_(Person)" class="wikilink"
-title="radicals">radicals</a> distort non-radical art to give a radical
+"<a   href="Hijacking_(Situationism).md" class="wikilink"
+title="Détournement">"Détournement</a> or Hijacking is the process by
+which "<a   href="Radical_(Person).md" class="wikilink"
+title="radicals">"radicals</a> distort non-radical art to give a radical
 message.
 
 ### Psychogeography
 
 ### Recuperation
 
-<a href="Co-optation" class="wikilink"
-title="Recuperation">Recuperation</a> is the process by which power
+"<a   href="Co-optation.md" class="wikilink"
+title="Recuperation">"Recuperation</a> is the process by which power
 structures distort and manipulate
-<a href="Social_Movement" class="wikilink"
-title="social movements">social movements</a> in order to strengthen the
+"<a   href="Social_Movement.md" class="wikilink"
+title="social movements">"social movements</a> in order to strengthen the
 system they are protesting.
 
 ### Situationist prank
@@ -38,8 +38,8 @@ structures.
 
 ### Spectacle
 
-<a href="Spectacle_(Situationism)" class="wikilink"
-title="Spectacle">Spectacle</a> is the way power structures tend to
+"<a   href="Spectacle_(Situationism).md" class="wikilink"
+title="Spectacle">"Spectacle</a> is the way power structures tend to
 'distract' the people their ruling over into submission.
 
 ### Unitary urbanism
@@ -122,5 +122,5 @@ title="Spectacle">Spectacle</a> is the way power structures tend to
 - Walter Korun
 - Walter Olmo
 
-<a href="Category:Situationism" class="wikilink"
-title="Category:Situationism">Category:Situationism</a>
+"<a   href="Category:Situationism.md" class="wikilink"
+title="Category:Situationism">"Category:Situationism</a>

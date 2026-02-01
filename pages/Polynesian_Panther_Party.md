@@ -1,16 +1,16 @@
 The **Polynesian Panther Party** was a revolutionary movement founded by
-<a href="New_Zealand" class="wikilink" title="New Zealand">New
+"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">"New
 Zealand</a> born Polynesians on the
-<a href="Timeline_of_Anarchism_in_Oceania" class="wikilink"
-title="16th of June 1971">16th of June 1971</a>.The party was explicitly
+"<a   href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
+title="16th of June 1971">"16th of June 1971</a>.The party was explicitly
 influenced (as were many other groups and
-<a href="Revolutions_of_1967_-_1975" class="wikilink"
-title="protests">protests</a>) by the US
-<a href="Black_Panther_Party" class="wikilink"
-title="Black Panther Party">Black Panther Party</a>, particularly
-<a href="Huey_Newton" class="wikilink" title="Huey Newton’s">Huey
+"<a   href="Revolutions_of_1967_-_1975.md" class="wikilink"
+title="protests">"protests</a>) by the US
+"<a   href="Black_Panther_Party.md" class="wikilink"
+title="Black Panther Party">"Black Panther Party</a>, particularly
+"<a   href="Huey_Newton.md" class="wikilink" title="Huey Newton’s">"Huey
 Newton’s</a> policy of black unity. They located the causes of
-<a href="Māori" class="wikilink" title="Māori">Māori</a> and Pacific
+"<a   href="Māori.md" class="wikilink" title="Māori">"Māori</a> and Pacific
 Island oppression within the exploitative social relations of
 capitalism. Consequently, the Polynesian Panthers promoted a strategy of
 liberation based on the complete overthrow of the capitalist system and
@@ -25,10 +25,10 @@ June 1971 by six young Pacific Islander men: Fred Schmidt, Nooroa
 Teavae, Paul Dapp, Vaughan Sanft, Eddie Williams and Will 'Ilolahia. At
 the time many Pacific Island youth were supporters of Māori political
 initiatives such as the
-<a href="Bastion_Point_Occupation" class="wikilink"
-title="Bastion Point occupation">Bastion Point occupation</a> and
-<a href="Waitangi_Day_Protests" class="wikilink"
-title="Waitangi Day protests">Waitangi Day protests</a>, and gained
+"<a   href="Bastion_Point_Occupation.md" class="wikilink"
+title="Bastion Point occupation">"Bastion Point occupation</a> and
+"<a   href="Waitangi_Day_Protests.md" class="wikilink"
+title="Waitangi Day protests">"Waitangi Day protests</a>, and gained
 skills in political lobbying and processes which they used to raise the
 profile of Pacific people in New Zealand. Because of the working-class
 background of its members the movement concerned itself with issues
@@ -86,18 +86,18 @@ end of the organisation.
 
 ## References
 
-<a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
 [Polynesian Panthers](https://en.wikipedia.org/wiki/Polynesian_Panthers)
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:New_Zealand" class="wikilink"
-title="Category:New Zealand">Category:New Zealand</a>
-<a href="Category:Panther_Movements" class="wikilink"
-title="Category:Panther Movements">Category:Panther Movements</a>
-<a href="Category:1970s" class="wikilink"
-title="Category:1970s">Category:1970s</a>
-<a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Oceania" class="wikilink"
-title="Category:Oceania">Category:Oceania</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:New_Zealand.md" class="wikilink"
+title="Category:New Zealand">"Category:New Zealand</a>
+"<a   href="Category:Panther_Movements.md" class="wikilink"
+title="Category:Panther Movements">"Category:Panther Movements</a>
+"<a   href="Category:1970s.md" class="wikilink"
+title="Category:1970s">"Category:1970s</a>
+"<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:Oceania.md" class="wikilink"
+title="Category:Oceania">"Category:Oceania</a>

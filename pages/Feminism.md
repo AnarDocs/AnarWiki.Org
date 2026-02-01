@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Anarcha-Feminism" class="wikilink"
-    title="Anarcha-Feminism">Anarcha-Feminism</a>
+1.  REDIRECT "<a   href="Anarcha-Feminism.md" class="wikilink"
+    title="Anarcha-Feminism">"Anarcha-Feminism</a>

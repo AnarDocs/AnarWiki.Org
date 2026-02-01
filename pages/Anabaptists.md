@@ -1,10 +1,10 @@
 Peter Gelderloos,
-<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
 Works</a>:
 
 > In the years immediately prior to the \[1524
-> <a href="German_Peasants&#39;_War" class="wikilink"
-> title="German Peasants&#39; War">German Peasants' War</a>\], a number
+> "<a   href="German_Peasants&#39;_War.md" class="wikilink"
+>" title="German Peasants&#39; War">German Peasants' War</a>\], a number
 > of Anabaptist prophets began travelling around the region espousing
 > revolutionary ideas against political authority, church doctrine, and
 > even against the reforms of Martin Luther. These people included
@@ -70,9 +70,9 @@ Works</a>:
 > destroyed for good.
 
 Harold Barclay,
-<a href="People_Without_Government:_An_Anthropology_of_Anarchy"
+"<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
 class="wikilink"
-title="People Without Government: An Anthropology of Anarchy">People
+title="People Without Government: An Anthropology of Anarchy">"People
 Without Government: An Anthropology of Anarchy</a>
 
 > Kropotkin, in his essay on the origin of the state, mentions the

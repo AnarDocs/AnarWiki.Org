@@ -1,32 +1,32 @@
 ![](Margarethe_Faas-Hardegger.jpg "Margarethe_Faas-Hardegger.jpg")
 **Margarethe Faas-Hardegger** (20 February 1882 in
-<a href="Bern" class="wikilink" title="Bern">Bern</a> – 23 September
-1963 in <a href="Minusio" class="wikilink" title="Minusio">Minusio</a>)
+"<a   href="Bern.md" class="wikilink" title="Bern">"Bern</a> – 23 September
+1963 in "<a   href="Minusio.md" class="wikilink" title="Minusio">"Minusio</a>)
 was a Swiss
-<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>,
-<a href="socialist_feminist" class="wikilink"
-title="socialist feminist">socialist feminist</a>,
-<a href="women&#39;s_rights" class="wikilink"
-title="women&#39;s rights">women's rights</a> activist, and trade
+"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>,
+"<a   href="socialist_feminist.md" class="wikilink"
+title="socialist feminist">"socialist feminist</a>,
+"<a   href="women&#39;s_rights.md" class="wikilink"
+title="women&#39;s rights">"women's rights</a> activist, and trade
 unionist who became the leading figure of the Swiss women workers'
 movement at the beginning of the 20th century. Her leadership saw the
 Swiss women workers' movement gain a political and
-<a href="feminist" class="wikilink" title="feminist">feminist</a>
+"<a   href="feminist.md" class="wikilink" title="feminist">"feminist</a>
 profile. Faas-Hardegger made
-<a href="women&#39;s_suffrage" class="wikilink"
-title="women&#39;s suffrage">women's suffrage</a> part of the Swiss
+"<a   href="women&#39;s_suffrage.md" class="wikilink"
+title="women&#39;s suffrage">"women's suffrage</a> part of the Swiss
 trade unions' platform, as well as
-<a href="maternity_insurance" class="wikilink"
-title="maternity insurance">maternity insurance</a>, access to
+"<a   href="maternity_insurance.md" class="wikilink"
+title="maternity insurance">"maternity insurance</a>, access to
 contraception, and the idea of paid
-<a href="Homemaking" class="wikilink" title="housework">housework</a>.
+"<a   href="Homemaking.md" class="wikilink" title="housework">"housework</a>.
 
 ## Biography
 
 Margarethe Hardegger trained as a telephone
-<a href="switchboard_operator" class="wikilink"
-title="switchboard operator">switchboard operator</a> and obtained a
-late *<a href="Matura" class="wikilink" title="Matura">Matura</a>*
+"<a   href="switchboard_operator.md" class="wikilink"
+title="switchboard operator">"switchboard operator</a> and obtained a
+late *"<a   href="Matura.md" class="wikilink" title="Matura">"Matura</a>*
 diploma with the support of her later husband, the lawyer August
 Faas.\[1\] She had two daughters, Olga and Lisa, with Faas, whom she
 married in 1903 and divorced in 1912. Since 1916 she cohabited with the
@@ -35,8 +35,8 @@ later husband.\[2\]
 
 In 1903, Hardegger co-founded the Bernese Textile Workers' Association.
 In 1905, she became the first women workers' secretary of the
-<a href="Swiss_Federation_of_Trade_Unions" class="wikilink"
-title="Swiss Federation of Trade Unions">Swiss Federation of Trade
+"<a   href="Swiss_Federation_of_Trade_Unions.md" class="wikilink"
+title="Swiss Federation of Trade Unions">"Swiss Federation of Trade
 Unions</a> (SGB), abandoning law school to obtain the post. She founded
 several trade union sections and consumer cooperatives, as well as the
 women's newspapers *Die Vorkämpferin* and *L'Exploitée* (The Exploited)
@@ -155,20 +155,20 @@ and compensation.
 - Website about Margarethe Hardegger:
   <http://www.margarethe-hardegger.ch/> (archived)
 
-<a href="Category:1882_births" class="wikilink"
-title="Category:1882 births">Category:1882 births</a>
-<a href="Category:1963_deaths" class="wikilink"
-title="Category:1963 deaths">Category:1963 deaths</a>
-<a href="Category:Swiss_anarchists" class="wikilink"
-title="Category:Swiss anarchists">Category:Swiss anarchists</a>
-<a href="Category:Anarchists" class="wikilink"
-title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:Anarchist_Women" class="wikilink"
-title="Category:Anarchist Women">Category:Anarchist Women</a>
-<a href="Category:Abortion-rights_activists" class="wikilink"
-title="Category:Abortion-rights activists">Category:Abortion-rights
+"<a   href="Category:1882_births.md" class="wikilink"
+title="Category:1882 births">"Category:1882 births</a>
+"<a   href="Category:1963_deaths.md" class="wikilink"
+title="Category:1963 deaths">"Category:1963 deaths</a>
+"<a   href="Category:Swiss_anarchists.md" class="wikilink"
+title="Category:Swiss anarchists">"Category:Swiss anarchists</a>
+"<a   href="Category:Anarchists.md" class="wikilink"
+title="Category:Anarchists">"Category:Anarchists</a>
+"<a   href="Category:Anarchist_Women.md" class="wikilink"
+title="Category:Anarchist Women">"Category:Anarchist Women</a>
+"<a   href="Category:Abortion-rights_activists.md" class="wikilink"
+title="Category:Abortion-rights activists">"Category:Abortion-rights
 activists</a>
-<a href="Category:LGBTQ+_rights_activists" class="wikilink"
-title="Category:LGBTQ+ rights activists">Category:LGBTQ+ rights
-activists</a> <a href="Category:Anarcha-Feminists" class="wikilink"
-title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
+"<a   href="Category:LGBTQ+_rights_activists.md" class="wikilink"
+title="Category:LGBTQ+ rights activists">"Category:LGBTQ+ rights
+activists</a> "<a   href="Category:Anarcha-Feminists.md" class="wikilink"
+title="Category:Anarcha-Feminists">"Category:Anarcha-Feminists</a>

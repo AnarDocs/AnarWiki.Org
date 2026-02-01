@@ -1,26 +1,26 @@
 The **Oka Uprising** (or **Oka Crisis** in the
-<a href="Mass_Media" class="wikilink" title="Canadian media">Canadian
+"<a   href="Mass_Media.md" class="wikilink" title="Canadian media">"Canadian
 media</a>) was an
-<a href="Indigenism" class="wikilink" title="indigenist">indigenist</a>
-<a href="List_of_Libertarian_Socialist_Revolutions" class="wikilink"
-title="uprising">uprising</a> against the illegal expropriation of
-sacred <a href="Haudenosaunee_Confederacy" class="wikilink"
-title="Mohawk">Mohawk</a> land by
-<a href="Ruling_Class" class="wikilink"
-title="capitalists">capitalists</a> in Oka, Quebec,
-<a href="Canada" class="wikilink" title="Canada">Canada</a> in
-<a href="Timeline_of_Indigenism" class="wikilink" title="1990">1990</a>.
+"<a   href="Indigenism.md" class="wikilink" title="indigenist">"indigenist</a>
+"<a   href="List_of_Libertarian_Socialist_Revolutions.md" class="wikilink"
+title="uprising">"uprising</a> against the illegal expropriation of
+sacred "<a   href="Haudenosaunee_Confederacy.md" class="wikilink"
+title="Mohawk">"Mohawk</a> land by
+"<a   href="Ruling_Class.md" class="wikilink"
+title="capitalists">"capitalists</a> in Oka, Quebec,
+"<a   href="Canada.md" class="wikilink" title="Canada">"Canada</a> in
+"<a   href="Timeline_of_Indigenism.md" class="wikilink" title="1990">"1990</a>.
 
 ## Background
 
 Mohawk people first settled in the Montreal area in the early 18th
 century, moving north from their homeland in the Hudson River valley.
 They displaced the Wyandot people (or Hurons) native to the area, with
-whom the <a href="Haudenosaunee" class="wikilink"
-title="Haudenosaunee">Haudenosaunee</a> (of which the Mohawk were a
+whom the "<a   href="Haudenosaunee.md" class="wikilink"
+title="Haudenosaunee">"Haudenosaunee</a> (of which the Mohawk were a
 tribe) had long been in conflict, and who had been weakened through
 prolonged contact with
-<a href="French_Empire" class="wikilink" title="French settlers">French
+"<a   href="French_Empire.md" class="wikilink" title="French settlers">"French
 settlers</a>. Mohawk settlement in the St Lawrence river valley was
 influenced to a great extent by French Jesuit missionaries who sought
 converts from among the Mohawk and who established Jesuit missionary
@@ -42,7 +42,7 @@ this stand-off with force.
 
 In 1936, the seminary sold the territory under protest by the local
 Mohawk community. At the time they still kept cattle on the
-<a href="Commons" class="wikilink" title="common land">common land</a>.
+"<a   href="Commons.md" class="wikilink" title="common land">"common land</a>.
 By 1956, the Mohawk were left to six remaining square kilometers from
 their original 165. In 1959, the town approved the development of a
 private nine-hole golf course, the *Club de golf d'Oka*, on a portion of
@@ -227,27 +227,27 @@ re-elected mayor of Oka by acclamation. He later said of the crisis that
 his responsibilities as mayor required him to act as he
 did.<sup>\[28\]</sup>
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Indigenism" class="wikilink"
-title="Category:Indigenism">Category:Indigenism</a>
-<a href="Category:Canada" class="wikilink"
-title="Category:Canada">Category:Canada</a>
-<a href="Category:North_America" class="wikilink"
-title="Category:North America">Category:North America</a>
-<a href="Category:Uprisings" class="wikilink"
-title="Category:Uprisings">Category:Uprisings</a>
-<a href="Category:Anti-Colonialism" class="wikilink"
-title="Category:Anti-Colonialism">Category:Anti-Colonialism</a>
-<a href="Category:1990" class="wikilink"
-title="Category:1990">Category:1990</a>
-<a href="Category:1990s" class="wikilink"
-title="Category:1990s">Category:1990s</a>
-<a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Indigenous_Uprisings" class="wikilink"
-title="Category:Indigenous Uprisings">Category:Indigenous Uprisings</a>
-<a href="Category:Anti-Colonial_Uprising" class="wikilink"
-title="Category:Anti-Colonial Uprising">Category:Anti-Colonial
-Uprising</a> <a href="Category:Golf" class="wikilink"
-title="Category:Golf">Category:Golf</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Indigenism.md" class="wikilink"
+title="Category:Indigenism">"Category:Indigenism</a>
+"<a   href="Category:Canada.md" class="wikilink"
+title="Category:Canada">"Category:Canada</a>
+"<a   href="Category:North_America.md" class="wikilink"
+title="Category:North America">"Category:North America</a>
+"<a   href="Category:Uprisings.md" class="wikilink"
+title="Category:Uprisings">"Category:Uprisings</a>
+"<a   href="Category:Anti-Colonialism.md" class="wikilink"
+title="Category:Anti-Colonialism">"Category:Anti-Colonialism</a>
+"<a   href="Category:1990.md" class="wikilink"
+title="Category:1990">"Category:1990</a>
+"<a   href="Category:1990s.md" class="wikilink"
+title="Category:1990s">"Category:1990s</a>
+"<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:Indigenous_Uprisings.md" class="wikilink"
+title="Category:Indigenous Uprisings">"Category:Indigenous Uprisings</a>
+"<a   href="Category:Anti-Colonial_Uprising.md" class="wikilink"
+title="Category:Anti-Colonial Uprising">"Category:Anti-Colonial
+Uprising</a> "<a   href="Category:Golf.md" class="wikilink"
+title="Category:Golf">"Category:Golf</a>

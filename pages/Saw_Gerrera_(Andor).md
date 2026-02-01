@@ -5,7 +5,7 @@ Onderon who became one of the earliest organized rebels against the
 Galactic Empire. Beginning as a monarchist resistance fighter during the
 Clone Wars, Gerrera's political philosophy evolved through decades of
 struggle into explicit
-<a href="anarchism" class="wikilink" title="anarchism">anarchism</a>,
+"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a>,
 making him one of the few characters in Star Wars to explicitly identify
 with a specific political ideology.[^1]
 
@@ -91,8 +91,8 @@ revolution risk becoming as authoritarian as the regimes they
 oppose.[^13]
 
 This reflects the classical anarchist position articulated by theorists
-like <a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a>, who warned that
+like "<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a>, who warned that
 revolutionary dictatorships, even temporary ones, would inevitably seek
 to perpetuate themselves.[^14] However, Gerrera's practice often
 contradicted this principle, as his increasingly brutal tactics came to
@@ -102,8 +102,8 @@ mirror the very violence he fought against.
 
 Gerrera's reluctance to subordinate his Partisans to broader rebel
 networks reflected a core
-<a href="libertarian_socialism" class="wikilink"
-title="libertarian socialist">libertarian socialist</a> concern: that
+"<a   href="libertarian_socialism.md" class="wikilink"
+title="libertarian socialist">"libertarian socialist</a> concern: that
 revolutionary organizations, if they mirror the hierarchical structures
 they oppose, will inevitably reproduce those same power dynamics in any
 post-revolutionary society.[^15]
@@ -126,8 +126,8 @@ His orchestrated bombing that killed Moff Quarsh Panaka nearly also
 killed Princess Leia Organa, demonstrating how revolutionary violence
 could become indistinguishable from the terror it claimed to
 oppose.[^18] Such tactics followed the logic of 19th-century anarchist
-"<a href="Propaganda_of_the_Deed" class="wikilink"
-title="Propaganda of the Deed">Propaganda of the Deed</a>" - using
+""<a   href="Propaganda_of_the_Deed.md" class="wikilink"
+title="Propaganda of the Deed">"Propaganda of the Deed</a>" - using
 dramatic violent acts to inspire broader uprising while demonstrating
 state vulnerability.[^19]
 
@@ -264,10 +264,10 @@ authoritarianism they fight against.[^37]
 
 <references/>
 
-<a href="Category:Fictional_Anarchists" class="wikilink"
-title="Category:Fictional Anarchists">Category:Fictional Anarchists</a>
-<a href="Category:Fictional_Characters" class="wikilink"
-title="Category:Fictional Characters">Category:Fictional Characters</a>
+"<a   href="Category:Fictional_Anarchists.md" class="wikilink"
+title="Category:Fictional Anarchists">"Category:Fictional Anarchists</a>
+"<a   href="Category:Fictional_Characters.md" class="wikilink"
+title="Category:Fictional Characters">"Category:Fictional Characters</a>
 
 [^1]: Taylor, Nate. "The Means and Ends of Saw Gerrera: An analysis of
     revolutionary ethics in Star Wars"

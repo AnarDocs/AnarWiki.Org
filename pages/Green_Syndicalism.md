@@ -10,10 +10,10 @@ writes:
 Green syndicalism is inspired by Judi Bari's efforts to organize timber
 workers and environmentalists in northern California in the 1980s and
 1990s, under a coalition between the
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="Industrial Workers of the World">Industrial Workers of the
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="Industrial Workers of the World">"Industrial Workers of the
 World</a> (IWW) and
-<a href="Earth_First!" class="wikilink" title="Earth First!">Earth
+"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
 First!</a>. The IWW in 1991 voted to change its preamble for the first
 time since 1908, in order to include the words "and live in harmony with
 the earth." According to Shantz, "These seven words present a
@@ -29,7 +29,7 @@ that advocated, in part, building solar panels instead of nuclear
 weapons.[^3]
 
 A global movement overlapping with green syndicalism is
-<a href="La_Via_Campesina" class="wikilink" title="La Via Campesina">La
+"<a   href="La_Via_Campesina.md" class="wikilink" title="La Via Campesina">"La
 Via Campesina</a>, a decentralized network of an estimated 200 million
 small farmers committed to sustainable food production. The ultimate
 strategy of green syndicalism involves taking over the means of

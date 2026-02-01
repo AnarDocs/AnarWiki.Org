@@ -206,8 +206,8 @@ scales. Anarchists respond that:
 Without formal authority, anarchist communities must develop alternative
 approaches to conflict:
 
-- **<a href="Transformative_Justice" class="wikilink"
-  title="Transformative justice">Transformative justice</a>** processes
+- **"<a   href="Transformative_Justice.md" class="wikilink"
+  title="Transformative justice">"Transformative justice</a>** processes
   that address root causes
 - Community accountability without punishment systems
 - Voluntary mediation and facilitated dialogue
@@ -232,15 +232,15 @@ commitment to voluntary association and the rejection of domination.
 
 ## See Also
 
-- <a href="Consensus_decision-making" class="wikilink"
-  title="Consensus decision-making">Consensus decision-making</a>
-- <a href="Direct_democracy" class="wikilink"
-  title="Direct democracy">Direct democracy</a>
-- <a href="Anarchist_organizing" class="wikilink"
-  title="Anarchist organizing">Anarchist organizing</a>
-- <a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- <a href="Voluntary_association" class="wikilink"
-  title="Voluntary association">Voluntary association</a>
+- "<a   href="Consensus_decision-making.md" class="wikilink"
+  title="Consensus decision-making">"Consensus decision-making</a>
+- "<a   href="Direct_democracy.md" class="wikilink"
+  title="Direct democracy">"Direct democracy</a>
+- "<a   href="Anarchist_organizing.md" class="wikilink"
+  title="Anarchist organizing">"Anarchist organizing</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+- "<a   href="Voluntary_association.md" class="wikilink"
+  title="Voluntary association">"Voluntary association</a>
 
 ## References
 
@@ -270,18 +270,18 @@ commitment to voluntary association and the rejection of domination.
 - [A Critique: Consensus Decisionmaking and its Discontents, Luther
   Blissett](https://usa.anarchistlibraries.net/library/luther-blissett-a-critique-consensus-decisionmaking-and-its-discontents)
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Decision-making" class="wikilink"
-title="Category:Decision-making">Category:Decision-making</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Decision-making.md" class="wikilink"
+title="Category:Decision-making">"Category:Decision-making</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: CrimethInc., "From Democracy to Freedom"
 

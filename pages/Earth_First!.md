@@ -26,8 +26,8 @@ Zealand, Belgium, Canada, China, Japan, Nigeria, South Africa.[^2]
 
 One of the major impacts of Earth First! has arguably been to empower
 more moderate environmental groups, through the use of what political
-scientists call the <a href="radical_flank_effect" class="wikilink"
-title="radical flank effect">radical flank effect</a>. Friends of the
+scientists call the "<a   href="radical_flank_effect.md" class="wikilink"
+title="radical flank effect">"radical flank effect</a>. Friends of the
 Earth founder David Brower once remarked, "I thank God for the arrival
 of Earth First!, they make me look moderate."[^3] Still, some mainstream
 environmentalists have condemned the network's militant tactics. For
@@ -36,8 +36,8 @@ Earth First! as "outlaws and terrorists."[^4]
 
 Earth First! members have played leading roles in forming other
 important anti-authoritarian ecological and climate justice groups. The
-<a href="Earth_Liberation_Front" class="wikilink"
-title="Earth Liberation Front">Earth Liberation Front</a> first formed
+"<a   href="Earth_Liberation_Front.md" class="wikilink"
+title="Earth Liberation Front">"Earth Liberation Front</a> first formed
 at an Earth First! gathering in the United Kingdom in 1992.[^5] Earth
 First!ers played an important role in building the Mountain Justice
 movement resisting strip mining in Appalachia. Many of the founding
@@ -52,8 +52,8 @@ For current news on Earth First!, check out
 A major inspiration for Earth First! came from the novel *The Monkey
 Wrench Gang* by Edward Abbey, a self-described anarchist whose father
 was rumored to have been a member of the anarchistic labor union the
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="Industrial Workers of the World">Industrial Workers of the
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="Industrial Workers of the World">"Industrial Workers of the
 World</a>.[^7]
 
 Abbey's novel described four wilderness lovers who used
@@ -96,8 +96,8 @@ anarchist pagan writer Starhawk.[^11]
 
 Early on, Earth First! connected with anarchist history in several ways.
 They published a *Little Green Songbook* modeled on the anarchistic
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="Industrial Workers of the World">Industrial Workers of the
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="Industrial Workers of the World">"Industrial Workers of the
 World</a>'s "Little Red Songbook" in the *Earth First! Journal* written
 under the pseudonym Leon Czolgosz, the name of President McKinley's
 anarchist assassin.[^12] The co-founder Howie Wolke reflects, "There was
@@ -264,8 +264,8 @@ and indigenous communities.[^32]
 
 In the the USA's Eugene, Oregon, *Green Anarchy* grew out of the green
 anarchist milieu that produced the country's most active
-<a href="Earth_Liberation_Front" class="wikilink"
-title="Earth Liberation Front">Earth Liberation Front</a> cell.
+"<a   href="Earth_Liberation_Front.md" class="wikilink"
+title="Earth Liberation Front">"Earth Liberation Front</a> cell.
 Altogether rejecting the left, *Green Anarchy* published articles and
 action reports emphasizing "autonomous and uncivilized rebellion."[^33]
 
@@ -274,15 +274,15 @@ action reports emphasizing "autonomous and uncivilized rebellion."[^33]
 ## Redwood Summer
 
 In 1989, Bari organized timber workers in northern California into the
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="Industrial Workers of the World">Industrial Workers of the
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="Industrial Workers of the World">"Industrial Workers of the
 World</a> Local \#1, often known as “Earth First!-IWW Local \#1”. The
 Earth First!-IWW local organized a campaign against Georgia-Pacific's
 exposure of PCB to its workers. The local joined with other Earth First!
 chapters to plan Redwood Summer, a 1990 mobilization against corporate
 logging inspired by the
-<a href="Student_Nonviolent_Coordinating_Committee" class="wikilink"
-title="Student Nonviolent Coordinating Committee">Student Nonviolent
+"<a   href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
+title="Student Nonviolent Coordinating Committee">"Student Nonviolent
 Coordinating Committee</a>'s 1964 Freedom Summer. By identifying timber
 corporations as a common enemy, Bari helped join together groups that
 the ruling class sought to pit against each other. Bari's biographer
@@ -363,8 +363,8 @@ incidents, together with several pepper-spraying incidents in the fall
 of 1997, radicalized the movement and planted serious tactical questions
 about the effectiveness of Gandhian nonviolence. Earth First!ers went on
 to become organizers and participants in the Black Bloc at 1999's World
-Trade Organization <a href="1999_Seattle_WTO_shutdown" class="wikilink"
-title="protest in Seattle">protest in Seattle</a>.[^39]
+Trade Organization "<a   href="1999_Seattle_WTO_shutdown.md" class="wikilink"
+title="protest in Seattle">"protest in Seattle</a>.[^39]
 
 ## Earth First! in the Climate Movement
 
@@ -417,8 +417,8 @@ that fall they formed the Reclaim the Streets (RTS) network that
 illegally took over streets in order to hold public block parties.
 Throughout the 1990s, EF! stopped the construction of at least six road
 projects that had been already started.[^45] The
-<a href="Earth_Liberation_Front" class="wikilink"
-title="Earth Liberation Front">Earth Liberation Front</a> first formed
+"<a   href="Earth_Liberation_Front.md" class="wikilink"
+title="Earth Liberation Front">"Earth Liberation Front</a> first formed
 at an Earth First! gathering in the United Kingdom in 1992.[^46]
 
 # Bookchin's Critique
@@ -484,8 +484,8 @@ biocentrism:
 
 <references/>
 
-<a href="Category:Organizations" class="wikilink"
-title="Category:Organizations">Category:Organizations</a>
+"<a   href="Category:Organizations.md" class="wikilink"
+title="Category:Organizations">"Category:Organizations</a>
 
 [^1]: Anonymous, *Earth First! Direct Action Manual, Third Edition,* 5.
 
@@ -500,8 +500,8 @@ title="Category:Organizations">Category:Organizations</a>
     Earth.'; Wilderness guerrillas," *The San Diego Union-Tribune*, 14
     January 1989.
 
-[^5]: <a href="Earth_Liberation_Front" class="wikilink"
-    title="Earth Liberation Front">Earth Liberation Front</a>.
+[^5]: "<a   href="Earth_Liberation_Front.md" class="wikilink"
+    title="Earth Liberation Front">"Earth Liberation Front</a>.
 
 [^6]: "Our Story," *Rising Tide North America*,
     <https://risingtidenorthamerica.org/about-rising-tide-north-america/our-history/>.
@@ -657,8 +657,8 @@ title="Category:Organizations">Category:Organizations</a>
     Protest & Resistance" in *Earth First! Journal*, Samhain/Yule 2010,
     21-22.
 
-[^46]: <a href="Earth_Liberation_Front" class="wikilink"
-    title="Earth Liberation Front">Earth Liberation Front</a>.
+[^46]: "<a   href="Earth_Liberation_Front.md" class="wikilink"
+    title="Earth Liberation Front">"Earth Liberation Front</a>.
 
 [^47]: Murray Bookchin, "Social Ecology Versus Deep Ecology," *Anarchy
     Archives*,

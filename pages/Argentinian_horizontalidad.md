@@ -3,21 +3,21 @@
 ## Overview
 
 **Argentinian Horizontalidad** (horizontalism) is a form of
-<a href="direct_democracy" class="wikilink"
-title="direct democracy">direct democracy</a> and
-<a href="anti-authoritarian" class="wikilink"
-title="anti-authoritarian">anti-authoritarian</a> organizing that
+"<a   href="direct_democracy.md" class="wikilink"
+title="direct democracy">"direct democracy</a> and
+"<a   href="anti-authoritarian.md" class="wikilink"
+title="anti-authoritarian">"anti-authoritarian</a> organizing that
 emerged during Argentina's 2001 economic crisis. The practice emphasizes
 horizontal power relations,
-<a href="consensus_decision-making" class="wikilink"
-title="consensus decision-making">consensus decision-making</a>, and the
+"<a   href="consensus_decision-making.md" class="wikilink"
+title="consensus decision-making">"consensus decision-making</a>, and the
 rejection of traditional hierarchical leadership structures.
 Horizontalidad became the organizing principle for hundreds of
 neighborhood assemblies, factory occupations, and social movements that
 arose during the popular rebellion against neoliberal policies.
 
 The concept represents a practical application of
-<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
 principles, where participants build power collectively rather than
 seeking to take power through traditional political channels. As one
 activist described it: "We are building power, not taking it."
@@ -28,7 +28,7 @@ activist described it: "We are building power, not taking it."
 
 Horizontalidad emerged organically during the December 2001 popular
 rebellion in
-<a href="Argentina" class="wikilink" title="Argentina">Argentina</a>,
+"<a   href="Argentina.md" class="wikilink" title="Argentina">"Argentina</a>,
 when millions of people took to the streets declaring "Que se vayan
 todos!" (They all must go!). As people formed neighborhood assemblies
 and occupied factories, they instinctively rejected the hierarchical
@@ -37,7 +37,7 @@ organization.
 
 The practice developed as communities sought alternatives to both the
 failed neoliberal state and traditional
-<a href="trade_unions" class="wikilink" title="trade unions">trade
+"<a   href="trade_unions.md" class="wikilink" title="trade unions">"trade
 unions</a> and political parties that attempted to co-opt the
 spontaneous uprising. Participants deliberately avoided appointing
 leaders, instead rotating responsibilities and ensuring all voices could
@@ -49,8 +49,8 @@ While the intensity of the movement decreased as Argentina's economy
 stabilized, some assemblies and horizontalist practices continue to
 operate. The principles of horizontalidad have influenced social
 movements throughout Latin America and beyond, serving as a model for
-<a href="anti-authoritarian" class="wikilink"
-title="anti-authoritarian">anti-authoritarian</a> organizing. The
+"<a   href="anti-authoritarian.md" class="wikilink"
+title="anti-authoritarian">"anti-authoritarian</a> organizing. The
 experiences remain in collective memory as seeds for future movements
 and continue to inform grassroots organizing strategies.
 
@@ -91,8 +91,8 @@ Traditional leftist organizations criticized the movement's rejection of
 political parties and established unions, arguing this weakened the
 potential for broader political transformation. However, supporters view
 this as a strength that prevented co-optation and maintained the
-movement's <a href="anti-authoritarian" class="wikilink"
-title="anti-authoritarian">anti-authoritarian</a> character.
+movement's "<a   href="anti-authoritarian.md" class="wikilink"
+title="anti-authoritarian">"anti-authoritarian</a> character.
 
 The practice has also faced violent state repression, with dozens killed
 during the 2001 uprising, demonstrating the challenges horizontalist
@@ -101,7 +101,7 @@ movements face when confronting established power structures.
 ## Anarchy Works Excerpt
 
 From Peter Gelderloos,
-<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
 Works</a>:
 
 In December 2001, a long-brewing economic crisis in Argentina matured
@@ -290,22 +290,22 @@ Daniela describes women's leading role in the movement:
 
 <references/>
 
-<a href="Category:Social_Movements" class="wikilink"
-title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:Workers&#39;_Self-Management" class="wikilink"
-title="Category:Workers&#39; Self-Management">Category:Workers'
+"<a   href="Category:Social_Movements.md" class="wikilink"
+title="Category:Social Movements">"Category:Social Movements</a>
+"<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+title="Category:Workers&#39; Self-Management">"Category:Workers'
 Self-Management</a>
-<a href="Category:Current_Anarchist_Societies" class="wikilink"
-title="Category:Current Anarchist Societies">Category:Current Anarchist
+"<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
+title="Category:Current Anarchist Societies">"Category:Current Anarchist
 Societies</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchist_Societies" class="wikilink"
-title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
+title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Natasha Gordon and Paul Chatterton, Taking Back Control: A Journey
     through Argentina's Popular Uprising, Leeds (UK): University of

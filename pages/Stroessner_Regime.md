@@ -1,12 +1,12 @@
 The **Stroessner Regime** was a military dictatorship,
-<a href="Timeline_of_US_Imperialism" class="wikilink"
-title="sponsored by the US">sponsored by the US</a> that ruled
-<a href="Paraguay" class="wikilink" title="Paraguay">Paraguay</a> from
+"<a   href="Timeline_of_US_Imperialism.md" class="wikilink"
+title="sponsored by the US">"sponsored by the US</a> that ruled
+"<a   href="Paraguay.md" class="wikilink" title="Paraguay">"Paraguay</a> from
 1954 until its downfall in
-<a href="Revolutions_of_1986_-_1992" class="wikilink"
-title="1989">1989</a>. It was led by the dictator
-<a href="Alfredo_Stroessner" class="wikilink"
-title="Alfredo Stroessner">Alfredo Stroessner</a>.
+"<a   href="Revolutions_of_1986_-_1992.md" class="wikilink"
+title="1989">"1989</a>. It was led by the dictator
+"<a   href="Alfredo_Stroessner.md" class="wikilink"
+title="Alfredo Stroessner">"Alfredo Stroessner</a>.
 
 ## HistoDapsownfalle
 
@@ -46,11 +46,11 @@ Josef Mengele and Stroessner was an open sympathiser of the Nazis.
 Foreign press often referred to his government as the "poor man's Nazi
 regime".
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Dictatorships" class="wikilink"
-title="Category:Dictatorships">Category:Dictatorships</a>
-<a href="Category:South_America" class="wikilink"
-title="Category:South America">Category:South America</a>
-<a href="Category:Paraguay" class="wikilink"
-title="Category:Paraguay">Category:Paraguay</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Dictatorships.md" class="wikilink"
+title="Category:Dictatorships">"Category:Dictatorships</a>
+"<a   href="Category:South_America.md" class="wikilink"
+title="Category:South America">"Category:South America</a>
+"<a   href="Category:Paraguay.md" class="wikilink"
+title="Category:Paraguay">"Category:Paraguay</a>

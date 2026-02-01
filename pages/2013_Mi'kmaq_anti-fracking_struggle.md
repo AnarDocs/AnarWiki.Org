@@ -68,12 +68,12 @@ Standing Rock, and with far less resources, were victorious."[^8]
 
 <references/>
 
-<a href="Category:Direct_Action" class="wikilink"
-title="Category:Direct Action">Category:Direct Action</a>
-<a href="Category:21st_Century" class="wikilink"
-title="Category:21st Century">Category:21st Century</a>
-<a href="Category:Canada" class="wikilink"
-title="Category:Canada">Category:Canada</a>
+"<a   href="Category:Direct_Action.md" class="wikilink"
+title="Category:Direct Action">"Category:Direct Action</a>
+"<a   href="Category:21st_Century.md" class="wikilink"
+title="Category:21st Century">"Category:21st Century</a>
+"<a   href="Category:Canada.md" class="wikilink"
+title="Category:Canada">"Category:Canada</a>
 
 [^1]: Kris Sims, "Our Warrior Problem: Militant Natives are causing
     trouble and they aren't going away," *Toronto Sun*, 2 November 2013,

@@ -191,7 +191,7 @@ say, the Russian Revolution"[^2]:
 <references/>
 
 [^1]: Peter Gelderloos,
-    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
     Works</a>
 
 [^2]: David Graeber, "The Shock of Victory," Infoshop, 2007

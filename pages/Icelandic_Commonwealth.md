@@ -2,13 +2,13 @@
 
 The **Icelandic Commonwealth** (Old Norse: *Íslands þjóðveldi*), also
 known as the **Icelandic Free State**, was a remarkable experiment in
-<a href="stateless_society" class="wikilink"
-title="stateless society">stateless society</a> that existed in Iceland
+"<a   href="stateless_society.md" class="wikilink"
+title="stateless society">"stateless society</a> that existed in Iceland
 from 930 to 1262 CE. For over three centuries, Iceland operated without
 a centralized government, police force, or executive authority, instead
 organizing itself through voluntary associations, competitive
-governance, and <a href="restorative_justice" class="wikilink"
-title="restorative justice">restorative justice</a>. This system
+governance, and "<a   href="restorative_justice.md" class="wikilink"
+title="restorative justice">"restorative justice</a>. This system
 demonstrates both the possibilities and limitations of decentralized
 organization in medieval Europe.
 
@@ -18,13 +18,13 @@ The Icelandic Commonwealth emerged when Norse settlers, fleeing the
 centralized authority of Harald Fairhair in Norway, established a unique
 political system designed to avoid the tyranny they had escaped.[^1] The
 Commonwealth was characterized as a
-<a href="stateless_society" class="wikilink"
-title="stateless society">stateless society</a> by modern historians,
+"<a   href="stateless_society.md" class="wikilink"
+title="stateless society">"stateless society</a> by modern historians,
 with no executive body to enforce laws and no centralized authority
 making unilateral decisions.[^2]
 
 The system was built around the
-<a href="Althing" class="wikilink" title="Althing">Althing</a>
+"<a   href="Althing.md" class="wikilink" title="Althing">"Althing</a>
 (Alþingi), a national assembly that served as both legislature and
 court, and a network of local assemblies called *things*. Power was
 distributed among competing chieftains (*goðar*) who provided governance
@@ -47,8 +47,8 @@ decision-making. As historian William Ian Miller notes, the society was
 participation of large numbers of free people in decision making within
 and without the homestead."[^4]
 
-The <a href="Icelandic_Sagas" class="wikilink"
-title="Icelandic Sagas">Icelandic Sagas</a> reflect cultural values that
+The "<a   href="Icelandic_Sagas.md" class="wikilink"
+title="Icelandic Sagas">"Icelandic Sagas</a> reflect cultural values that
 prioritized honor, justice, and community solidarity over individual
 accumulation. Social relations preceded economic relations, with "the
 nexus of household, kin, Thing, even enmity, more than the nexus of
@@ -58,7 +58,7 @@ cash, bound people to each other."[^5]
 
 Like other anarchist societies, Iceland maintained its legal and
 cultural traditions through sophisticated oral transmission. The
-<a href="Lawspeaker" class="wikilink" title="Lawspeaker">Lawspeaker</a>
+"<a   href="Lawspeaker.md" class="wikilink" title="Lawspeaker">"Lawspeaker</a>
 (*lögsögumaður*) was responsible for memorizing and reciting the entire
 legal code at the annual Althing, ensuring that law remained accessible
 to the community rather than controlled by a literate elite.[^6]
@@ -122,8 +122,8 @@ appeals mechanism.[^14]
 Crucially, courts had no executive authority to carry out sentences.
 Instead, "enforcement of a verdict became the responsibility of the
 injured party or his family," creating a system of
-<a href="restorative_justice" class="wikilink"
-title="restorative justice">restorative justice</a> based on
+"<a   href="restorative_justice.md" class="wikilink"
+title="restorative justice">"restorative justice</a> based on
 compensation rather than punishment.[^15]
 
 The most severe penalties were outlawry and exile - essentially
@@ -141,7 +141,7 @@ These communes were "mutual insurance companies" that provided social
 welfare, assisted with fire and livestock losses, and organized summer
 grazing lands. Membership was mandatory for all farmers in a given area,
 creating a comprehensive
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
 network.[^17]
 
 The Hreppar system demonstrates that early Iceland combined elements of
@@ -198,8 +198,8 @@ features.
 ## Why the Icelandic Commonwealth Was Not Anarcho-Capitalist
 
 While libertarian scholars like David Friedman have claimed medieval
-Iceland as an example of <a href="anarcho-capitalism" class="wikilink"
-title="anarcho-capitalism">anarcho-capitalism</a>, this interpretation
+Iceland as an example of "<a   href="anarcho-capitalism.md" class="wikilink"
+title="anarcho-capitalism">"anarcho-capitalism</a>, this interpretation
 fundamentally misunderstands the society's economic and social
 organization.
 
@@ -357,22 +357,22 @@ capitalism emerged, anarchy disappeared.
   Rent-Seeking: The Icelandic Commonwealth, 930-1262." George Mason
   University, 1991.
 
-<a href="Category:Past_Anarchist_Societies" class="wikilink"
-title="Category:Past Anarchist Societies">Category:Past Anarchist
-Societies</a> <a href="Category:Medieval_Period" class="wikilink"
-title="Category:Medieval Period">Category:Medieval Period</a>
-<a href="Category:Stateless_Societies" class="wikilink"
-title="Category:Stateless Societies">Category:Stateless Societies</a>
-<a href="Category:Nordic_History" class="wikilink"
-title="Category:Nordic History">Category:Nordic History</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Direct_Democracy" class="wikilink"
-title="Category:Direct Democracy">Category:Direct Democracy</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
+title="Category:Past Anarchist Societies">"Category:Past Anarchist
+Societies</a> "<a   href="Category:Medieval_Period.md" class="wikilink"
+title="Category:Medieval Period">"Category:Medieval Period</a>
+"<a   href="Category:Stateless_Societies.md" class="wikilink"
+title="Category:Stateless Societies">"Category:Stateless Societies</a>
+"<a   href="Category:Nordic_History.md" class="wikilink"
+title="Category:Nordic History">"Category:Nordic History</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Direct_Democracy.md" class="wikilink"
+title="Category:Direct Democracy">"Category:Direct Democracy</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Wikipedia. "Icelandic Commonwealth." 2025.
 

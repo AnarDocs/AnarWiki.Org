@@ -7,13 +7,13 @@ originally referring to the ranked organization of religious
 authorities.[^1]
 
 From an
-<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
 perspective, hierarchy represents a fundamental threat to human
-<a href="freedom" class="wikilink" title="freedom">freedom</a> and
-<a href="equality" class="wikilink" title="equality">equality</a>,
+"<a   href="freedom.md" class="wikilink" title="freedom">"freedom</a> and
+"<a   href="equality.md" class="wikilink" title="equality">"equality</a>,
 organizing society through relations of dominance and submission rather
 than cooperation and
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>.
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>.
 Anarchists argue that hierarchy is not a natural or inevitable feature
 of human society, but rather a social construct that can and should be
 challenged and replaced with egalitarian forms of organization.
@@ -29,14 +29,14 @@ the accumulated power that can be brought against them, while
 simultaneously fearing to abdicate power over those below them.[^2]
 
 The anthropologist
-<a href="David_Graeber" class="wikilink" title="David Graeber">David
+"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
 Graeber</a> argued that the concept of hierarchy as used in contemporary
 social science often conflates two distinct logical operations: linear
 ranking (where elements are arranged along a single scale of
 superiority) and taxonomic classification (where categories are
 organized by levels of inclusion). This conflation, popularized
 particularly through the work of French anthropologist
-<a href="Louis_Dumont" class="wikilink" title="Louis Dumont">Louis
+"<a   href="Louis_Dumont.md" class="wikilink" title="Louis Dumont">"Louis
 Dumont</a>, has naturalized inequality by treating hierarchical
 arrangements as inherently meaningful and legitimate rather than as
 contingent results of power relations.[^3]
@@ -46,15 +46,15 @@ contingent results of power relations.[^3]
 ### Origins
 
 The development of hierarchy predates
-<a href="agriculture" class="wikilink"
-title="agriculture">agriculture</a> and
-<a href="civilization" class="wikilink"
-title="civilization">civilization</a>, appearing in some
-<a href="hunter-gatherer" class="wikilink"
-title="hunter-gatherer">hunter-gatherer</a> societies in embryonic
+"<a   href="agriculture.md" class="wikilink"
+title="agriculture">"agriculture</a> and
+"<a   href="civilization.md" class="wikilink"
+title="civilization">"civilization</a>, appearing in some
+"<a   href="hunter-gatherer.md" class="wikilink"
+title="hunter-gatherer">"hunter-gatherer</a> societies in embryonic
 forms. Two major types of hierarchy evidenced among some foraging
 peoples are
-<a href="patriarchy" class="wikilink" title="patriarchy">patriarchy</a>
+"<a   href="patriarchy.md" class="wikilink" title="patriarchy">"patriarchy</a>
 (male dominance) and gerontocracy (rule by elders).
 
 Among the Aché of the Amazonian forests and the Aranda of central
@@ -66,7 +66,7 @@ excluded from full participation in group affairs.[^4]
 
 However, other hunter-gatherer groups demonstrated thoroughly
 egalitarian social organization. The
-<a href="Mbuti" class="wikilink" title="Mbuti">Mbuti</a> of the Ituri
+"<a   href="Mbuti.md" class="wikilink" title="Mbuti">"Mbuti</a> of the Ituri
 forest in central Africa minimized gender distinctions, used
 non-gendered familial labels, and organized society around five
 autonomous age groups that held balanced power over one another. The
@@ -84,8 +84,8 @@ status, could gain elevated status with age by participating in the
 hierarchy.
 
 Gerontocracy enabled rudimentary forms of policing in
-<a href="stateless_society" class="wikilink"
-title="stateless societies">stateless societies</a>. Age grades that
+"<a   href="stateless_society.md" class="wikilink"
+title="stateless societies">"stateless societies</a>. Age grades that
 some groups used in libertarian ways became tools for political
 authority in societies that subordinated young people to old. Youth
 transformed from autonomous defenders of justice into enforcers of the
@@ -166,13 +166,13 @@ collective interests. People learn to bow instinctively before anyone
 claiming greater importance. This conditioning manifests in various
 forms of oppression:
 
-- <a href="Racism" class="wikilink" title="Racism">Racism</a> emerges
+- "<a   href="Racism.md" class="wikilink" title="Racism">"Racism</a> emerges
   from hierarchical thinking that ranks racial groups
-- <a href="Classism" class="wikilink" title="Classism">Classism</a>
+- "<a   href="Classism.md" class="wikilink" title="Classism">"Classism</a>
   values wealthy people over poor people
-- <a href="Sexism" class="wikilink" title="Sexism">Sexism</a> places men
+- "<a   href="Sexism.md" class="wikilink" title="Sexism">"Sexism</a> places men
   above women
-- <a href="Homophobia" class="wikilink" title="Homophobia">Homophobia</a>
+- "<a   href="Homophobia.md" class="wikilink" title="Homophobia">"Homophobia</a>
   allows marginalized people to feel superior to someone
 
 Power makes people cruel and heartless, while submission makes people
@@ -213,7 +213,7 @@ female and male characteristics.
 
 ### Contemporary Anarchist Practice
 
-<a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>
+"<a   href="Anarchism.md" class="wikilink" title="Anarchism">"Anarchism</a>
 represents both a rejection of hierarchy and a positive vision of
 egalitarian organization. Rather than conceiving anarchism solely as a
 large-scale political program, it can be understood as an individual
@@ -275,37 +275,37 @@ hierarchical arrangements.
 
 ## See Also
 
-- <a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>
-- <a href="Authority" class="wikilink" title="Authority">Authority</a>
-- <a href="Domination" class="wikilink" title="Domination">Domination</a>
-- <a href="Equality" class="wikilink" title="Equality">Equality</a>
-- <a href="Freedom" class="wikilink" title="Freedom">Freedom</a>
-- <a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- <a href="Patriarchy" class="wikilink" title="Patriarchy">Patriarchy</a>
-- <a href="Power" class="wikilink" title="Power">Power</a>
-- <a href="Social_Ecology" class="wikilink" title="Social Ecology">Social
+- "<a   href="Anarchism.md" class="wikilink" title="Anarchism">"Anarchism</a>
+- "<a   href="Authority.md" class="wikilink" title="Authority">"Authority</a>
+- "<a   href="Domination.md" class="wikilink" title="Domination">"Domination</a>
+- "<a   href="Equality.md" class="wikilink" title="Equality">"Equality</a>
+- "<a   href="Freedom.md" class="wikilink" title="Freedom">"Freedom</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+- "<a   href="Patriarchy.md" class="wikilink" title="Patriarchy">"Patriarchy</a>
+- "<a   href="Power.md" class="wikilink" title="Power">"Power</a>
+- "<a   href="Social_Ecology.md" class="wikilink" title="Social Ecology">"Social
   Ecology</a>
-- <a href="Stateless_Society" class="wikilink"
-  title="Stateless Society">Stateless Society</a>
+- "<a   href="Stateless_Society.md" class="wikilink"
+  title="Stateless Society">"Stateless Society</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Authority" class="wikilink"
-title="Category:Authority">Category:Authority</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Authority.md" class="wikilink"
+title="Category:Authority">"Category:Authority</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Anonymous (1934). "Hiérarchie" in *Encyclopédie Anarchiste*.
     Translated by Paul Sharkey.

@@ -1,20 +1,20 @@
 # V (Fictional Anarchist Revolutionary)
 
 **V** is the protagonist of the graphic novel
-<a href="V_for_Vendetta" class="wikilink" title="V for Vendetta">V for
+"<a   href="V_for_Vendetta.md" class="wikilink" title="V for Vendetta">"V for
 Vendetta</a>, created by
-<a href="Alan_Moore" class="wikilink" title="Alan Moore">Alan Moore</a>
+"<a   href="Alan_Moore.md" class="wikilink" title="Alan Moore">"Alan Moore</a>
 and David Lloyd in 1982. V is an
-<a href="Anarchism" class="wikilink" title="anarchist">anarchist</a>
-revolutionary and <a href="freedom_fighter" class="wikilink"
-title="freedom fighter">freedom fighter</a> who employs
-<a href="propaganda_of_the_deed" class="wikilink"
-title="propaganda of the deed">propaganda of the deed</a> to topple the
+"<a   href="Anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+revolutionary and "<a   href="freedom_fighter.md" class="wikilink"
+title="freedom fighter">"freedom fighter</a> who employs
+"<a   href="propaganda_of_the_deed.md" class="wikilink"
+title="propaganda of the deed">"propaganda of the deed</a> to topple the
 fascist Norsefire regime that controls a
-<a href="dystopia" class="wikilink" title="dystopia">dystopian</a>
-<a href="United_Kingdom" class="wikilink" title="United Kingdom">United
+"<a   href="dystopia.md" class="wikilink" title="dystopia">"dystopian</a>
+"<a   href="United_Kingdom.md" class="wikilink" title="United Kingdom">"United
 Kingdom</a>. Easily recognizable by his
-<a href="Guy_Fawkes" class="wikilink" title="Guy Fawkes">Guy Fawkes</a>
+"<a   href="Guy_Fawkes.md" class="wikilink" title="Guy Fawkes">"Guy Fawkes</a>
 mask, V represents one of the most prominent depictions of anarchist
 philosophy and practice in popular culture.
 
@@ -22,13 +22,13 @@ philosophy and practice in popular culture.
 
 V was created as a prisoner known as "the man in room five" at Larkhill
 Resettlement Camp, one of several
-<a href="concentration_camp" class="wikilink"
-title="concentration camp">concentration camps</a> operated by the
+"<a   href="concentration_camp.md" class="wikilink"
+title="concentration camp">"concentration camps</a> operated by the
 fascist Norsefire government. The camps targeted
-<a href="black_people" class="wikilink" title="black people">black
-people</a>, <a href="Jews" class="wikilink" title="Jews">Jews</a>,
-<a href="homosexuals" class="wikilink"
-title="homosexuals">homosexuals</a>, political dissidents, and other
+"<a   href="black_people.md" class="wikilink" title="black people">"black
+people</a>, "<a   href="Jews.md" class="wikilink" title="Jews">"Jews</a>,
+"<a   href="homosexuals.md" class="wikilink"
+title="homosexuals">"homosexuals</a>, political dissidents, and other
 groups deemed undesirable by the regime. While imprisoned, V was
 subjected to horrific medical experimentation conducted by Dr. Delia
 Surridge, which paradoxically granted him enhanced physical and
@@ -46,7 +46,7 @@ against the Norsefire regime.
 
 V articulates a clear distinction between anarchy and chaos that forms
 the foundation of his political philosophy. When
-<a href="Evey_Hammond" class="wikilink" title="Evey Hammond">Evey
+"<a   href="Evey_Hammond.md" class="wikilink" title="Evey Hammond">"Evey
 Hammond</a> asks if the riots following his actions represent "the Land
 of Do-As-You-Please," V responds: "No. This is only the land of
 take-what-you-want. Anarchy means 'without leaders', not 'without
@@ -70,7 +70,7 @@ revolutionary change requires both the demolition of oppressive
 structures and the construction of liberatory alternatives. V embodies
 the "Destroyer" face through his campaign of violence against the
 Norsefire regime, while
-<a href="Evey_Hammond" class="wikilink" title="Evey Hammond">Evey
+"<a   href="Evey_Hammond.md" class="wikilink" title="Evey Hammond">"Evey
 Hammond</a>, who assumes V's identity after his death, represents the
 potential "Creator" face that can build an anarchist society from the
 ruins of fascism.
@@ -103,8 +103,8 @@ society based on voluntary association and mutual aid.
 
 ### Propaganda of the Deed
 
-V employs <a href="propaganda_of_the_deed" class="wikilink"
-title="propaganda of the deed">propaganda of the deed</a>—the use of
+V employs "<a   href="propaganda_of_the_deed.md" class="wikilink"
+title="propaganda of the deed">"propaganda of the deed</a>—the use of
 spectacular actions to inspire and educate the populace. His destruction
 of the Old Bailey and later the Houses of Parliament serve both
 practical and symbolic purposes. These actions physically dismantle the
@@ -137,8 +137,8 @@ transmit cultural memory that the fascist state seeks to erase.
 ### Strategic Violence
 
 V's use of violence represents a form of
-<a href="Insurrectionary_Anarchism" class="wikilink"
-title="Insurrectionary Anarchism">Insurrectionary Anarchism</a>,
+"<a   href="Insurrectionary_Anarchism.md" class="wikilink"
+title="Insurrectionary Anarchism">"Insurrectionary Anarchism</a>,
 employing direct armed struggle against state apparatus. However, his
 violence is carefully targeted at state officials and infrastructure
 rather than indiscriminate terrorism. Each killing serves a specific
@@ -158,23 +158,23 @@ purpose in dismantling the regime's power structure:
 
 V's anarchism resists easy categorization within specific anarchist
 tendencies. Scholar Joshua Anol suggests V's philosophy most closely
-resembles <a href="Anarchism_Without_Adjectives" class="wikilink"
-title="Anarchism Without Adjectives">Anarchism Without Adjectives</a>, a
+resembles "<a   href="Anarchism_Without_Adjectives.md" class="wikilink"
+title="Anarchism Without Adjectives">"Anarchism Without Adjectives</a>, a
 tradition that embraces multiple anarchist approaches rather than
 adhering to a single ideological school.[^5]
 
 V's thought incorporates elements of:
 
-- **<a href="Social_Anarchism" class="wikilink"
-  title="Social Anarchism">Social Anarchism</a>** - Emphasizing mutual
+- **"<a   href="Social_Anarchism.md" class="wikilink"
+  title="Social Anarchism">"Social Anarchism</a>** - Emphasizing mutual
   aid and voluntary cooperation as the basis for an orderly anarchist
   society
-- **<a href="Insurrectionary_Anarchism" class="wikilink"
-  title="Insurrectionary Anarchism">Insurrectionary Anarchism</a>** -
+- **"<a   href="Insurrectionary_Anarchism.md" class="wikilink"
+  title="Insurrectionary Anarchism">"Insurrectionary Anarchism</a>** -
   Embracing violent rebellion as necessary for overthrowing
   authoritarian regimes
-- **<a href="Individualist_Anarchism" class="wikilink"
-  title="Individualist Anarchism">Individualist Anarchism</a>** -
+- **"<a   href="Individualist_Anarchism.md" class="wikilink"
+  title="Individualist Anarchism">"Individualist Anarchism</a>** -
   Stressing personal autonomy and self-actualization, exemplified in his
   relationship with Evey
 
@@ -215,8 +215,8 @@ authoritative pronouncements.
 ### Thatcherism and Neo-Fascism
 
 V for Vendetta emerged from the political climate of early 1980s Britain
-under <a href="Margaret_Thatcher" class="wikilink"
-title="Margaret Thatcher">Margaret Thatcher</a>'s conservative
+under "<a   href="Margaret_Thatcher.md" class="wikilink"
+title="Margaret Thatcher">"Margaret Thatcher</a>'s conservative
 government. Moore explained: "There were fascist groups, the National
 Front, the British National party, who were flexing their muscles and
 sort of trying to make political capital out of what were fairly
@@ -233,9 +233,9 @@ such trends.
 
 V deliberately invokes British traditions of resistance to authority,
 from
-<a href="Robin_Hood" class="wikilink" title="Robin Hood">Robin Hood</a>
+"<a   href="Robin_Hood.md" class="wikilink" title="Robin Hood">"Robin Hood</a>
 to
-<a href="Guy_Fawkes" class="wikilink" title="Guy Fawkes">Guy Fawkes</a>.
+"<a   href="Guy_Fawkes.md" class="wikilink" title="Guy Fawkes">"Guy Fawkes</a>.
 Moore noted: "The British have always had sympathy with a dashing
 villain."[^10] By appropriating the Guy Fawkes iconography, V connects
 his struggle to historical resistance against state oppression,
@@ -247,9 +247,9 @@ defiance against tyranny.
 V for Vendetta has become one of the most widely recognized
 representations of anarchist ideas in popular culture. The Guy Fawkes
 mask has been adopted by various activist movements, most notably
-<a href="Anonymous" class="wikilink" title="Anonymous">Anonymous</a> and
-<a href="Occupy_Wall_Street" class="wikilink"
-title="Occupy Wall Street">Occupy Wall Street</a>, as a symbol of
+"<a   href="Anonymous.md" class="wikilink" title="Anonymous">"Anonymous</a> and
+"<a   href="Occupy_Wall_Street.md" class="wikilink"
+title="Occupy Wall Street">"Occupy Wall Street</a>, as a symbol of
 resistance to authority and institutional power.
 
 However, the 2005 film adaptation significantly diluted the anarchist
@@ -296,33 +296,33 @@ authoritarian relations in the name of liberation.
 
 ## See Also
 
-- <a href="Insurrectionary_Anarchism" class="wikilink"
-  title="Insurrectionary Anarchism">Insurrectionary Anarchism</a>
-- <a href="Propaganda_of_the_Deed" class="wikilink"
-  title="Propaganda of the Deed">Propaganda of the Deed</a>
-- <a href="Guy_Fawkes" class="wikilink" title="Guy Fawkes">Guy Fawkes</a>
-- <a href="Evey_Hammond" class="wikilink" title="Evey Hammond">Evey
+- "<a   href="Insurrectionary_Anarchism.md" class="wikilink"
+  title="Insurrectionary Anarchism">"Insurrectionary Anarchism</a>
+- "<a   href="Propaganda_of_the_Deed.md" class="wikilink"
+  title="Propaganda of the Deed">"Propaganda of the Deed</a>
+- "<a   href="Guy_Fawkes.md" class="wikilink" title="Guy Fawkes">"Guy Fawkes</a>
+- "<a   href="Evey_Hammond.md" class="wikilink" title="Evey Hammond">"Evey
   Hammond</a>
-- <a href="Alan_Moore" class="wikilink" title="Alan Moore">Alan Moore</a>
+- "<a   href="Alan_Moore.md" class="wikilink" title="Alan Moore">"Alan Moore</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Fictional_Anarchists" class="wikilink"
-title="Category:Fictional Anarchists">Category:Fictional Anarchists</a>
-<a href="Category:Fictional_Characters" class="wikilink"
-title="Category:Fictional Characters">Category:Fictional Characters</a>
-<a href="Category:V_for_Vendetta" class="wikilink"
-title="Category:V for Vendetta">Category:V for Vendetta</a>
-<a href="Category:Propaganda_of_the_Deed" class="wikilink"
-title="Category:Propaganda of the Deed">Category:Propaganda of the
-Deed</a> <a href="Category:Insurrectionary_Anarchism" class="wikilink"
-title="Category:Insurrectionary Anarchism">Category:Insurrectionary
-Anarchism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Fictional_Anarchists.md" class="wikilink"
+title="Category:Fictional Anarchists">"Category:Fictional Anarchists</a>
+"<a   href="Category:Fictional_Characters.md" class="wikilink"
+title="Category:Fictional Characters">"Category:Fictional Characters</a>
+"<a   href="Category:V_for_Vendetta.md" class="wikilink"
+title="Category:V for Vendetta">"Category:V for Vendetta</a>
+"<a   href="Category:Propaganda_of_the_Deed.md" class="wikilink"
+title="Category:Propaganda of the Deed">"Category:Propaganda of the
+Deed</a> "<a   href="Category:Insurrectionary_Anarchism.md" class="wikilink"
+title="Category:Insurrectionary Anarchism">"Category:Insurrectionary
+Anarchism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Moore, Alan. V for Vendetta, Chapter II: Verwirrung, p. 15
 

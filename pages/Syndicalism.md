@@ -1,83 +1,83 @@
 **Syndicalism** represents a radical and
-<a href="Militancy" class="wikilink" title="militant">militant</a>
+"<a   href="Militancy.md" class="wikilink" title="militant">"militant</a>
 current in
-<a href="Working_Class" class="wikilink" title="working class">working
+"<a   href="Working_Class.md" class="wikilink" title="working class">"working
 class</a> movements which aims to create
-<a href="Trade_Union" class="wikilink" title="trade unions">trade
+"<a   href="Trade_Union.md" class="wikilink" title="trade unions">"trade
 unions</a> that will launch a revolution to destroy
-<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>
+"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>
 and create a society
-<a href="Workers&#39;_Self-Management" class="wikilink"
-title="run by the working class">run by the working class</a>.
+"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+title="run by the working class">"run by the working class</a>.
 Syndicalism has inspired trends within
-<a href="anarchism" class="wikilink" title="anarchism">anarchism</a>,
-<a href="marxism" class="wikilink" title="marxism">marxism</a>,
-<a href="fascism" class="wikilink" title="fascism">fascism</a> and
-<a href="environmentalism" class="wikilink"
-title="environmentalism">environmentalism</a>.
+"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a>,
+"<a   href="marxism.md" class="wikilink" title="marxism">"marxism</a>,
+"<a   href="fascism.md" class="wikilink" title="fascism">"fascism</a> and
+"<a   href="environmentalism.md" class="wikilink"
+title="environmentalism">"environmentalism</a>.
 
 # History
 
 ## Origins
 
 The roots of syndicalism can be traced to the
-<a href="International_Workingmen&#39;s_Association" class="wikilink"
-title="International Workingmen&#39;s Association">International
+"<a   href="International_Workingmen&#39;s_Association.md" class="wikilink"
+title="International Workingmen&#39;s Association">"International
 Workingmen's Association</a> (IWA), where the anti-authoritarian faction
 advocated for
-<a href="trade_union" class="wikilink" title="trade union">trade
+"<a   href="trade_union.md" class="wikilink" title="trade union">"trade
 unions</a> to overthrow the
-<a href="State" class="wikilink" title="state">state</a> through a
-<a href="general_strike" class="wikilink" title="general strike">general
+"<a   href="State.md" class="wikilink" title="state">"state</a> through a
+"<a   href="general_strike.md" class="wikilink" title="general strike">"general
 strike</a>.[^1] This syndicalist approach was adopted by anarchists in
-<a href="Spain" class="wikilink" title="Spain">Spain</a>,
-<a href="Cuba" class="wikilink" title="Cuba">Cuba</a>,
-<a href="Mexico" class="wikilink" title="Mexico">Mexico</a> and the
-<a href="United_States" class="wikilink" title="United States">United
+"<a   href="Spain.md" class="wikilink" title="Spain">"Spain</a>,
+"<a   href="Cuba.md" class="wikilink" title="Cuba">"Cuba</a>,
+"<a   href="Mexico.md" class="wikilink" title="Mexico">"Mexico</a> and the
+"<a   href="United_States.md" class="wikilink" title="United States">"United
 States</a>, where it became the dominant organisational form among
 libertarian movements.[^2]
 
 ## Revolutionary Syndicalism
 
 Revolutionary syndicalism first emerged in
-<a href="France" class="wikilink" title="France">France</a> through the
-establishment of *<a href="Bourse_du_Travail" class="wikilink"
-title="Bourses du Travail">Bourses du Travail</a>* (Labour Exchanges),
+"<a   href="France.md" class="wikilink" title="France">"France</a> through the
+establishment of *"<a   href="Bourse_du_Travail.md" class="wikilink"
+title="Bourses du Travail">"Bourses du Travail</a>* (Labour Exchanges),
 which provided
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
 to workers and organised strike actions.[^3] These labour exchanges
 eventually formed the
-<a href="General_Confederation_of_Labour_(France)" class="wikilink"
-title="General Confederation of Labour">General Confederation of
+"<a   href="General_Confederation_of_Labour_(France).md" class="wikilink"
+title="General Confederation of Labour">"General Confederation of
 Labour</a> (CGT), which grew to include 60% of French workers and
-successfully won the <a href="eight-hour_day" class="wikilink"
-title="eight-hour day">eight-hour day</a> and the
-<a href="weekend" class="wikilink" title="weekend">weekend</a> through
+successfully won the "<a   href="eight-hour_day.md" class="wikilink"
+title="eight-hour day">"eight-hour day</a> and the
+"<a   href="weekend.md" class="wikilink" title="weekend">"weekend</a> through
 general strike action.[^4]
 
 By the 1910s, revolutionary syndicalism had spread throughout Europe,
 with syndicalist unions emerging in the
-<a href="Netherlands" class="wikilink"
-title="Netherlands">Netherlands</a>,
-<a href="Italy" class="wikilink" title="Italy">Italy</a>,
-<a href="Portugal" class="wikilink" title="Portugal">Portugal</a>,
-<a href="Germany" class="wikilink" title="Germany">Germany</a> and
-<a href="Sweden" class="wikilink" title="Sweden">Sweden</a>.[^5] The
-concurrent development of <a href="industrial_unionism" class="wikilink"
-title="industrial unionism">industrial unionism</a> led to the formation
-of the <a href="Industrial_Workers_of_the_World" class="wikilink"
-title="Industrial Workers of the World">Industrial Workers of the
+"<a   href="Netherlands.md" class="wikilink"
+title="Netherlands">"Netherlands</a>,
+"<a   href="Italy.md" class="wikilink" title="Italy">"Italy</a>,
+"<a   href="Portugal.md" class="wikilink" title="Portugal">"Portugal</a>,
+"<a   href="Germany.md" class="wikilink" title="Germany">"Germany</a> and
+"<a   href="Sweden.md" class="wikilink" title="Sweden">"Sweden</a>.[^5] The
+concurrent development of "<a   href="industrial_unionism.md" class="wikilink"
+title="industrial unionism">"industrial unionism</a> led to the formation
+of the "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="Industrial Workers of the World">"Industrial Workers of the
 World</a> (IWW) across the English-speaking world.[^6]
 
 ## War and Revolution
 
 The outbreak of
-<a href="World_War_I" class="wikilink" title="World War I">World War
+"<a   href="World_War_I.md" class="wikilink" title="World War I">"World War
 I</a> divided syndicalists between internationalist and defencist
 positions, ultimately discrediting "neutral syndicalism" as workers
 witnessed the movement's inability to prevent war.[^7] During the
-<a href="Revolutions_of_1917–1923" class="wikilink"
-title="Revolutions of 1917–1923">Revolutions of 1917–1923</a>,
+"<a   href="Revolutions_of_1917–1923.md" class="wikilink"
+title="Revolutions of 1917–1923">"Revolutions of 1917–1923</a>,
 syndicalists became active participants in revolutionary movements
 throughout Europe, Latin America and Asia, though these uprisings were
 ultimately suppressed by nationalist or communist dictatorships.[^8]
@@ -85,15 +85,15 @@ ultimately suppressed by nationalist or communist dictatorships.[^8]
 ## Spanish Revolution
 
 Syndicalism reached its apex during the
-<a href="Spanish_Revolution_of_1936" class="wikilink"
-title="Spanish Revolution of 1936">Spanish Revolution of 1936</a>, when
-the <a href="Confederación_Nacional_del_Trabajo" class="wikilink"
-title="National Confederation of Labour">National Confederation of
+"<a   href="Spanish_Revolution_of_1936.md" class="wikilink"
+title="Spanish Revolution of 1936">"Spanish Revolution of 1936</a>, when
+the "<a   href="Confederación_Nacional_del_Trabajo.md" class="wikilink"
+title="National Confederation of Labour">"National Confederation of
 Labour</a> (CNT) led the defeat of fascist forces in
-<a href="Catalonia" class="wikilink" title="Catalonia">Catalonia</a> and
+"<a   href="Catalonia.md" class="wikilink" title="Catalonia">"Catalonia</a> and
 established a revolutionary economy that
-<a href="Collectivisation" class="wikilink"
-title="collectivised">collectivised</a> three-quarters of the Republican
+"<a   href="Collectivisation.md" class="wikilink"
+title="collectivised">"collectivised</a> three-quarters of the Republican
 territories.[^9] This represented the most successful implementation of
 syndicalist principles in practice, demonstrating workers' capacity for
 self-organisation and economic management.
@@ -101,45 +101,45 @@ self-organisation and economic management.
 ## Decline and Revival
 
 Following
-<a href="World_War_II" class="wikilink" title="World War II">World War
+"<a   href="World_War_II.md" class="wikilink" title="World War II">"World War
 II</a>, syndicalism experienced rapid decline as unions were either
-marginalised by <a href="social_corporatism" class="wikilink"
-title="social corporatism">social corporatism</a> or repressed by
+marginalised by "<a   href="social_corporatism.md" class="wikilink"
+title="social corporatism">"social corporatism</a> or repressed by
 authoritarian states.[^10] However, the movement began experiencing
-revival following the <a href="protests_of_1968" class="wikilink"
-title="protests of 1968">protests of 1968</a> and has seen renewed
-growth in response to <a href="globalisation" class="wikilink"
-title="globalisation">globalisation</a> and
-<a href="neoliberalism" class="wikilink"
-title="neoliberalism">neoliberalism</a>.[^11]
+revival following the "<a   href="protests_of_1968.md" class="wikilink"
+title="protests of 1968">"protests of 1968</a> and has seen renewed
+growth in response to "<a   href="globalisation.md" class="wikilink"
+title="globalisation">"globalisation</a> and
+"<a   href="neoliberalism.md" class="wikilink"
+title="neoliberalism">"neoliberalism</a>.[^11]
 
 # Theory
 
 ## Anti-Political Approach
 
-Syndicalism maintains an <a href="anti-politics" class="wikilink"
-title="anti-political">anti-political</a> stance, rejecting
-participation in <a href="parliamentary_politics" class="wikilink"
-title="parliamentary politics">parliamentary politics</a> and the
+Syndicalism maintains an "<a   href="anti-politics.md" class="wikilink"
+title="anti-political">"anti-political</a> stance, rejecting
+participation in "<a   href="parliamentary_politics.md" class="wikilink"
+title="parliamentary politics">"parliamentary politics</a> and the
 formation of political parties.[^12] Syndicalists argue that political
 participation corrupts the labour movement by substituting
-<a href="representative_democracy" class="wikilink"
-title="representative democracy">representative democracy</a> for
-workers' <a href="self-organisation" class="wikilink"
-title="self-organisation">self-organisation</a>, leading to the
-abandonment of <a href="anti-capitalism" class="wikilink"
-title="anti-capitalism">anti-capitalism</a> in favour of
-<a href="nationalism" class="wikilink"
-title="nationalism">nationalism</a>.[^13]
+"<a   href="representative_democracy.md" class="wikilink"
+title="representative democracy">"representative democracy</a> for
+workers' "<a   href="self-organisation.md" class="wikilink"
+title="self-organisation">"self-organisation</a>, leading to the
+abandonment of "<a   href="anti-capitalism.md" class="wikilink"
+title="anti-capitalism">"anti-capitalism</a> in favour of
+"<a   href="nationalism.md" class="wikilink"
+title="nationalism">"nationalism</a>.[^13]
 
 ## Direct Action
 
 Central to syndicalist practice is
-<a href="direct_action" class="wikilink" title="direct action">direct
+"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
 action</a>, which includes
-<a href="boycott" class="wikilink" title="boycott">boycotts</a>,
-<a href="sabotage" class="wikilink" title="sabotage">sabotage</a> and
-<a href="strike_action" class="wikilink" title="strike action">strike
+"<a   href="boycott.md" class="wikilink" title="boycott">"boycotts</a>,
+"<a   href="sabotage.md" class="wikilink" title="sabotage">"sabotage</a> and
+"<a   href="strike_action.md" class="wikilink" title="strike action">"strike
 actions</a>. These methods allow workers to directly confront their
 employers and force concessions without relying on political
 intermediaries.[^14] Strike actions are viewed as "revolutionary drill"
@@ -149,7 +149,7 @@ state.
 ## Federalism
 
 Syndicalist organisations operate according to
-<a href="federalist" class="wikilink" title="federalist">federalist</a>
+"<a   href="federalist.md" class="wikilink" title="federalist">"federalist</a>
 principles, with unions maintaining autonomy while coordinating through
 voluntary association.[^15] This federal structure builds from the
 bottom-up, linking workplace unions into local cartels, regional
@@ -159,36 +159,36 @@ democratic control and preventing bureaucratic centralisation.
 ## Workers' Control
 
 The ultimate goal of syndicalism is establishing
-<a href="workers&#39;_control" class="wikilink"
-title="workers&#39; control">workers' control</a> over production and
-distribution, creating a <a href="socialist_economy" class="wikilink"
-title="socialist economy">socialist economy</a> managed directly by the
+"<a   href="workers&#39;_control.md" class="wikilink"
+title="workers&#39; control">"workers' control</a> over production and
+distribution, creating a "<a   href="socialist_economy.md" class="wikilink"
+title="socialist economy">"socialist economy</a> managed directly by the
 producers themselves.[^16] Trade unions serve as both the means to
 achieve immediate improvements in working conditions and as the
 foundation for a future society based on
-<a href="workers&#39;_self-management" class="wikilink"
-title="workers&#39; self-management">workers' self-management</a>.
+"<a   href="workers&#39;_self-management.md" class="wikilink"
+title="workers&#39; self-management">"workers' self-management</a>.
 
 # Tendencies
 
-- <a href="Anarcho-Syndicalism" class="wikilink"
-  title="Anarcho-Syndicalism">Anarcho-Syndicalism</a>
-- <a href="Council_Communism" class="wikilink"
-  title="Council Communism">Council Communism</a>
-- <a href="De_Leonism" class="wikilink" title="De Leonism">De Leonism</a>
-- <a href="Green_Syndicalism" class="wikilink"
-  title="Green Syndicalism">Green Syndicalism</a>
-- <a href="National_Syndicalism" class="wikilink"
-  title="National Syndicalism">National Syndicalism</a>
-- <a href="Sorelianism" class="wikilink"
-  title="Sorelianism">Sorelianism</a>
+- "<a   href="Anarcho-Syndicalism.md" class="wikilink"
+  title="Anarcho-Syndicalism">"Anarcho-Syndicalism</a>
+- "<a   href="Council_Communism.md" class="wikilink"
+  title="Council Communism">"Council Communism</a>
+- "<a   href="De_Leonism.md" class="wikilink" title="De Leonism">"De Leonism</a>
+- "<a   href="Green_Syndicalism.md" class="wikilink"
+  title="Green Syndicalism">"Green Syndicalism</a>
+- "<a   href="National_Syndicalism.md" class="wikilink"
+  title="National Syndicalism">"National Syndicalism</a>
+- "<a   href="Sorelianism.md" class="wikilink"
+  title="Sorelianism">"Sorelianism</a>
 
 # Contemporary Relevance
 
 Modern syndicalism continues to offer an alternative to both
-<a href="state_socialism" class="wikilink" title="state socialism">state
+"<a   href="state_socialism.md" class="wikilink" title="state socialism">"state
 socialism</a> and
-<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>,
+"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>,
 emphasising direct worker organisation and action. Contemporary
 syndicalist unions have re-emerged globally, organising strikes and
 achieving reforms while maintaining their revolutionary vision of a
@@ -198,20 +198,20 @@ worker-controlled society.[^17]
 
 <references/>
 
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies" class="wikilink"
-title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Anarcho-Syndicalism" class="wikilink"
-title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
-<a href="Category:Syndicalism" class="wikilink"
-title="Category:Syndicalism">Category:Syndicalism</a>
-<a href="Category:Green_Syndicalism" class="wikilink"
-title="Category:Green Syndicalism">Category:Green Syndicalism</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Ideologies.md" class="wikilink"
+title="Category:Ideologies">"Category:Ideologies</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Anarcho-Syndicalism.md" class="wikilink"
+title="Category:Anarcho-Syndicalism">"Category:Anarcho-Syndicalism</a>
+"<a   href="Category:Syndicalism.md" class="wikilink"
+title="Category:Syndicalism">"Category:Syndicalism</a>
+"<a   href="Category:Green_Syndicalism.md" class="wikilink"
+title="Category:Green Syndicalism">"Category:Green Syndicalism</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Damier, Vadim (2009). Anarcho-syndicalism in the 20th Century. p.
     5

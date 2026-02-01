@@ -1,5 +1,5 @@
 ![](ChicagoAnarchists.jpg "ChicagoAnarchists.jpg") From
-<a href="An_Anarchist_FAQ" class="wikilink" title="An Anarchist FAQ">An
+"<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">"An
 Anarchist FAQ</a>:
 
 > May 1st is a day of special significance for the labour movement.

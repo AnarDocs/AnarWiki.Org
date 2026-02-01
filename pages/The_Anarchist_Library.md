@@ -116,8 +116,8 @@ of addressing them often falls on under-resourced communities.[^47]
   (PDF), Bloomsbury Academic, ISBN
   [978-1-4411-7212-9](https://en.wikipedia.org/wiki/Special:BookSources/978-1-4411-7212-9)*
 
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: ["The Anarchist Library talk at 2020 London Anarchist
     Bookfair"](https://bookshelf.theanarchistlibrary.org/library/librarian-the-anarchist-library-talk-at-2020-london-anarchist-bookfair-en)

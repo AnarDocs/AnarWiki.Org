@@ -4,7 +4,7 @@
 
 **African Anarchism** is a book authored by I.E. Igariwey and Sam Mbah,
 published in 2001 by
-<a href="See_Sharp_Press" class="wikilink" title="See Sharp Press">See
+"<a   href="See_Sharp_Press.md" class="wikilink" title="See Sharp Press">"See
 Sharp Press</a>. The publisher, Chaz Bufe, notes in the foreword that
 while the initial title suggested a history, the book is more accurately
 a "forward-looking book concerned with achieving positive social
@@ -12,7 +12,7 @@ change," with a more fitting title being "African Anarchism: Prospects
 for the Future".
 
 The work explores the potential for
-<a href="anarchism" class="wikilink" title="anarchism">anarchism</a> in
+"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a> in
 Africa by examining traditional African societies, critiquing
 post-colonial African socialism, and proposing anarchistic solutions for
 the continent's future development.
@@ -22,8 +22,8 @@ the continent's future development.
 ### Author's Intent
 
 The authors, as members of the
-<a href="Awareness_League" class="wikilink"
-title="Awareness League">Awareness League</a>, were compelled to write
+"<a   href="Awareness_League.md" class="wikilink"
+title="Awareness League">"Awareness League</a>, were compelled to write
 this book to enrich anarchism with an African perspective and to carve
 out a place for Africa within the framework of the worldwide anarchist
 movement, especially given "the collapse of the authoritarian left".
@@ -39,43 +39,43 @@ have not spread as fast as they should.
 The book is structured into seven chapters:
 
 **Chapter 1: What Is Anarchism?** - This chapter defines
-<a href="anarchism" class="wikilink" title="anarchism">anarchism</a> as
+"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a> as
 a social philosophy and movement, explaining that it arises from the
 objective conditions of workers and producers, advocating for the
 complete abolition of the state system and
-<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>.
+"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>.
 It differentiates anarchism from common misconceptions, clarifying that
 it is basically opposed to violence, disorder, chaos, and terrorism, and
 does not imply the absence of organization but rather advocates for
 horizontal, decentralised, and democratic structures. It traces the
-origins of <a href="anarcho-syndicalism" class="wikilink"
-title="anarcho-syndicalism">anarcho-syndicalism</a>, noting that
+origins of "<a   href="anarcho-syndicalism.md" class="wikilink"
+title="anarcho-syndicalism">"anarcho-syndicalism</a>, noting that
 anarchist principles date back to ancient times with thinkers like Zeno
 and later
-<a href="William_Godwin" class="wikilink" title="William Godwin">William
-Godwin</a> and <a href="Pierre-Joseph_Proudhon" class="wikilink"
-title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>.
-<a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a> and
-<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+"<a   href="William_Godwin.md" class="wikilink" title="William Godwin">"William
+Godwin</a> and "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a>.
+"<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a> and
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
 Kropotkin</a> are highlighted as key figures who elaborated on anarchist
 goals and practical philosophy.
 
 **Chapter 2: Anarchism In History** - This chapter explores the
 contentious relationship between anarchism and related social movements,
-including <a href="Marxist_socialism" class="wikilink"
-title="Marxist socialism">Marxist socialism</a>,
-<a href="syndicalism" class="wikilink"
-title="syndicalism">syndicalism</a>, and
-<a href="guild_socialism" class="wikilink" title="guild socialism">guild
+including "<a   href="Marxist_socialism.md" class="wikilink"
+title="Marxist socialism">"Marxist socialism</a>,
+"<a   href="syndicalism.md" class="wikilink"
+title="syndicalism">"syndicalism</a>, and
+"<a   href="guild_socialism.md" class="wikilink" title="guild socialism">"guild
 socialism</a>, despite their shared goal of abolishing capitalism and
 reconstructing society. It details the fundamental differences that led
 to the rift between
-<a href="Marx" class="wikilink" title="Marx">Marx</a> and
-<a href="Bakunin" class="wikilink" title="Bakunin">Bakunin</a> within
-the <a href="First_International_Workingmen&#39;s_Association"
+"<a   href="Marx.md" class="wikilink" title="Marx">"Marx</a> and
+"<a   href="Bakunin.md" class="wikilink" title="Bakunin">"Bakunin</a> within
+the "<a   href="First_International_Workingmen&#39;s_Association.md"
 class="wikilink"
-title="First International Workingmen&#39;s Association">First
+title="First International Workingmen&#39;s Association">"First
 International Workingmen's Association</a>, particularly concerning the
 role of the state.
 
@@ -87,17 +87,17 @@ African communalism, characterised by the absence of classes,
 exploitative social relations, and hierarchical governmental
 apparatuses, with decision-making often by consensus. Case studies of
 stateless societies like the
-<a href="Igbo" class="wikilink" title="Igbo">Igbo</a>, Niger Delta
+"<a   href="Igbo.md" class="wikilink" title="Igbo">"Igbo</a>, Niger Delta
 Peoples, and Tallensi are provided to illustrate these features. It
-examines the impact of <a href="colonialism" class="wikilink"
-title="colonialism">colonialism</a>, the incorporation of Africa into
+examines the impact of "<a   href="colonialism.md" class="wikilink"
+title="colonialism">"colonialism</a>, the incorporation of Africa into
 the world capitalist economy, and the resultant class formation. The
 chapter poses the question: "Is There an African Anarchism?" and touches
 on indigenous ideas and movements like Nigeria's farm settlements
 (modelled on Israeli
-<a href="Kibbutz" class="wikilink" title="Kibbutz">Kibbutz</a>) and
-Ghana's <a href="Awareness_League" class="wikilink"
-title="Awareness League">Awareness League</a>.
+"<a   href="Kibbutz.md" class="wikilink" title="Kibbutz">"Kibbutz</a>) and
+Ghana's "<a   href="Awareness_League.md" class="wikilink"
+title="Awareness League">"Awareness League</a>.
 
 **Chapter 4: The Development of Socialism in Africa** - This chapter
 looks at how colonialism superimposed capitalism on Africa, creating new
@@ -105,8 +105,8 @@ class structures. It details the emergence and role of the trade union
 movement in the liberation struggle, particularly in Nigeria and South
 Africa, showcasing their fight against colonial exploitation and foreign
 capital. It discusses the "revolution" in Guinea and the formation of
-the <a href="Awareness_League" class="wikilink"
-title="Awareness League">Awareness League</a> as an African anarchist
+the "<a   href="Awareness_League.md" class="wikilink"
+title="Awareness League">"Awareness League</a> as an African anarchist
 movement in Nigeria.
 
 **Chapter 5: The Failure of Socialism in Africa** - This chapter argues
@@ -114,7 +114,7 @@ that various forms of "African socialism" failed to improve the lives of
 ordinary people, often due to over-centralisation, reliance on state
 power, and the perpetuation of class privilege. Case studies like Guinea
 and Tanzania
-(<a href="Ujamaa" class="wikilink" title="Ujamaa">Ujamaa</a> villages)
+("<a   href="Ujamaa.md" class="wikilink" title="Ujamaa">"Ujamaa</a> villages)
 are presented to demonstrate how state capitalism and bureaucratic
 centralism led to underdevelopment, instability, and political
 corruption. The military's role in maintaining the status quo is also
@@ -174,19 +174,19 @@ traditional African social structures.
 
 <references/>
 
-<a href="Category:Anarchist_Non-Fiction" class="wikilink"
-title="Category:Anarchist Non-Fiction">Category:Anarchist
-Non-Fiction</a> <a href="Category:Anarchist_books" class="wikilink"
-title="Category:Anarchist books">Category:Anarchist books</a>
-<a href="Category:Books" class="wikilink"
-title="Category:Books">Category:Books</a>
-<a href="Category:African_Politics" class="wikilink"
-title="Category:African Politics">Category:African Politics</a>
-<a href="Category:Post-Colonial_Studies" class="wikilink"
-title="Category:Post-Colonial Studies">Category:Post-Colonial
-Studies</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Africa" class="wikilink"
-title="Category:Africa">Category:Africa</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Non-Fiction.md" class="wikilink"
+title="Category:Anarchist Non-Fiction">"Category:Anarchist
+Non-Fiction</a> "<a   href="Category:Anarchist_books.md" class="wikilink"
+title="Category:Anarchist books">"Category:Anarchist books</a>
+"<a   href="Category:Books.md" class="wikilink"
+title="Category:Books">"Category:Books</a>
+"<a   href="Category:African_Politics.md" class="wikilink"
+title="Category:African Politics">"Category:African Politics</a>
+"<a   href="Category:Post-Colonial_Studies.md" class="wikilink"
+title="Category:Post-Colonial Studies">"Category:Post-Colonial
+Studies</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Africa.md" class="wikilink"
+title="Category:Africa">"Category:Africa</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>

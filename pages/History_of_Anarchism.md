@@ -12,50 +12,50 @@ before the earliest civilisations existed.
 Prehistoric society existed without formal hierarchies, which some
 anthropologists have described as similar to anarchism. The first traces
 of formal anarchist thought can be found in
-<a href="ancient_Greece" class="wikilink" title="ancient Greece">ancient
+"<a   href="ancient_Greece.md" class="wikilink" title="ancient Greece">"ancient
 Greece</a> and
-<a href="Ancient_China" class="wikilink" title="China">China</a>, where
+"<a   href="Ancient_China.md" class="wikilink" title="China">"China</a>, where
 numerous philosophers questioned the necessity of the
-<a href="state" class="wikilink" title="state">state</a> and declared
+"<a   href="state.md" class="wikilink" title="state">"state</a> and declared
 the moral right of the individual to live free from coercion. During the
 Middle Ages, some religious sects espoused libertarian thought, and the
 Age of Enlightenment, and the attendant rise of rationalism and science,
 signalled the birth of the modern anarchist movement. Alongside
-<a href="Marxism" class="wikilink" title="Marxism">Marxism</a>, modern
+"<a   href="Marxism.md" class="wikilink" title="Marxism">"Marxism</a>, modern
 anarchism was a significant part of the workers' movement at the end of
 the 19th century. Modernism, industrialisation, reaction to capitalism
 and mass migration helped anarchism to flourish and to spread around the
 globe. Major anarchist schools of thought sprouted up as anarchism grew
 as a social movement, particularly
-<a href="anarcho-collectivism" class="wikilink"
-title="anarcho-collectivism">anarcho-collectivism</a>,
-<a href="anarcho-communism" class="wikilink"
-title="anarcho-communism">anarcho-communism</a>,
-<a href="anarcho-syndicalism" class="wikilink"
-title="anarcho-syndicalism">anarcho-syndicalism</a>, and
-<a href="individualist_anarchism" class="wikilink"
-title="individualist anarchism">individualist anarchism</a>. As the
+"<a   href="anarcho-collectivism.md" class="wikilink"
+title="anarcho-collectivism">"anarcho-collectivism</a>,
+"<a   href="anarcho-communism.md" class="wikilink"
+title="anarcho-communism">"anarcho-communism</a>,
+"<a   href="anarcho-syndicalism.md" class="wikilink"
+title="anarcho-syndicalism">"anarcho-syndicalism</a>, and
+"<a   href="individualist_anarchism.md" class="wikilink"
+title="individualist anarchism">"individualist anarchism</a>. As the
 workers' movement grew, the divide between anarchists and Marxists grew
 as well. The two currents formally split at the fifth congress of the
-<a href="First_International" class="wikilink"
-title="First International">First International</a> in 1872. Anarchists
+"<a   href="First_International.md" class="wikilink"
+title="First International">"First International</a> in 1872. Anarchists
 participated enthusiastically in the
-<a href="Russian_Revolution" class="wikilink"
-title="Russian Revolution">Russian Revolution</a>, but as soon as the
-<a href="Bolsheviks" class="wikilink" title="Bolsheviks">Bolsheviks</a>
+"<a   href="Russian_Revolution.md" class="wikilink"
+title="Russian Revolution">"Russian Revolution</a>, but as soon as the
+"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">"Bolsheviks</a>
 established their authority, anarchist movements, most notably the
-<a href="Makhnovshchina" class="wikilink"
-title="Makhnovshchina">Makhnovshchina</a> and the
-<a href="Kronstadt_rebellion" class="wikilink"
-title="Kronstadt rebellion">Kronstadt rebellion</a>, were harshly
+"<a   href="Makhnovshchina.md" class="wikilink"
+title="Makhnovshchina">"Makhnovshchina</a> and the
+"<a   href="Kronstadt_rebellion.md" class="wikilink"
+title="Kronstadt rebellion">"Kronstadt rebellion</a>, were harshly
 suppressed.
 
 Anarchism played a historically prominent role during the
-<a href="Spanish_Civil_War" class="wikilink"
-title="Spanish Civil War">Spanish Civil War</a>, when an anarchist
+"<a   href="Spanish_Civil_War.md" class="wikilink"
+title="Spanish Civil War">"Spanish Civil War</a>, when an anarchist
 territory was established in Catalonia.
-<a href="Revolutionary_Spain" class="wikilink"
-title="Revolutionary Catalonia">Revolutionary Catalonia</a> was
+"<a   href="Revolutionary_Spain.md" class="wikilink"
+title="Revolutionary Catalonia">"Revolutionary Catalonia</a> was
 organised along anarcho-syndicalist lines, with powerful labor unions in
 the cities and collectivised agriculture in the country, but ended in
 the defeat of the anarchists.
@@ -65,9 +65,9 @@ force. In association with the New Left and Post-left tendencies,
 anarchism has influenced social movements that espouse personal autonomy
 and direct democracy. It has also played major roles in the
 anti-globalization movement,
-<a href="Zapatista" class="wikilink" title="Zapatista">Zapatista</a>
+"<a   href="Zapatista.md" class="wikilink" title="Zapatista">"Zapatista</a>
 revolution, and
-<a href="Rojava" class="wikilink" title="Rojava">Rojava</a> revolution.
+"<a   href="Rojava.md" class="wikilink" title="Rojava">"Rojava</a> revolution.
 
 ## Background
 
@@ -77,8 +77,8 @@ strictly associated with class struggle. Others feel this perspective is
 far too narrow.[^2] While the former group examines anarchism as a
 phenomenon that occurred during the 19th century, the latter group looks
 to ancient history to trace anarchism's roots.[^3] Anarchist philosopher
-<a href="Murray_Bookchin" class="wikilink"
-title="Murray Bookchin">Murray Bookchin</a> describes the continuation
+"<a   href="Murray_Bookchin.md" class="wikilink"
+title="Murray Bookchin">"Murray Bookchin</a> describes the continuation
 of the "legacy of freedom" of humankind (the revolutionary moments) that
 existed throughout history, in contrast with the "legacy of domination"
 which consists of states, capitalism and other organisational forms.[^4]
@@ -99,9 +99,9 @@ affirming diverse geohistories".[^7]
 ### Prehistoric and Ancient Era
 
 Many scholars of anarchism, including anthropologists
-<a href="Harold_Barclay" class="wikilink" title="Harold Barclay">Harold
+"<a   href="Harold_Barclay.md" class="wikilink" title="Harold Barclay">"Harold
 Barclay</a> and
-<a href="David_Graeber" class="wikilink" title="David Graeber">David
+"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
 Graeber</a>, claim that some form of anarchy dates back to prehistory.
 The longest period of human existence, that before the recorded history
 of human society, was without a separate class of established authority
@@ -113,11 +113,11 @@ anarchist ideas were formulated as a critical response to, and a
 rejection of, coercive political institutions and hierarchical social
 relationships.[^10]
 
-<a href="Taoism" class="wikilink" title="Taoism">Taoism</a>, which
+"<a   href="Taoism.md" class="wikilink" title="Taoism">"Taoism</a>, which
 developed in ancient China, has been linked to anarchist thought by some
 scholars. Taoist sages
-<a href="Lao_Tzu" class="wikilink" title="Lao Tzu">Lao Tzu</a> and
-<a href="Zhuang_Zhou" class="wikilink" title="Zhuang Zhou">Zhuang
+"<a   href="Lao_Tzu.md" class="wikilink" title="Lao Tzu">"Lao Tzu</a> and
+"<a   href="Zhuang_Zhou.md" class="wikilink" title="Zhuang Zhou">"Zhuang
 Zhou</a>, whose principles were grounded in an "anti-polity" stance and
 a rejection of any kind of involvement in political movements or
 organisations, developed a philosophy of "non-rule" in the *Tao Te
@@ -140,15 +140,15 @@ evil.[^15]
 Some convictions and ideas deeply held by modern anarchists were first
 expressed in ancient Greece.[^16] The first known political usage of the
 word *anarchy* appeared in plays by
-<a href="Aeschylus" class="wikilink" title="Aeschylus">Aeschylus</a> and
-<a href="Sophocles" class="wikilink" title="Sophocles">Sophocles</a> in
+"<a   href="Aeschylus.md" class="wikilink" title="Aeschylus">"Aeschylus</a> and
+"<a   href="Sophocles.md" class="wikilink" title="Sophocles">"Sophocles</a> in
 the fifth century BC.[^17] Ancient Greece also saw the first Western
 instance of anarchy as a philosophical ideal mainly, but not only, by
 the Cynics and Stoics. The Cynics
-<a href="Diogenes_of_Sinope" class="wikilink"
-title="Diogenes of Sinope">Diogenes of Sinope</a> and
-<a href="Crates_of_Thebes" class="wikilink"
-title="Crates of Thebes">Crates of Thebes</a> are both supposed to have
+"<a   href="Diogenes_of_Sinope.md" class="wikilink"
+title="Diogenes of Sinope">"Diogenes of Sinope</a> and
+"<a   href="Crates_of_Thebes.md" class="wikilink"
+title="Crates of Thebes">"Crates of Thebes</a> are both supposed to have
 advocated for anarchistic forms of society, although little remains of
 their writings. Their most significant contribution was the radical
 approach of *nomos* (law) and *physis* (nature). Contrary to the rest of
@@ -156,7 +156,7 @@ Greek philosophy, aiming to blend *nomos* and *physis* in harmony,
 Cynics dismissed *nomos* (and in consequence: the authorities,
 hierarchies, establishments and moral code of polis) while promoting a
 way of life, based solely on *physis*.[^18]
-<a href="Zeno_of_Citium" class="wikilink" title="Zeno of Citium">Zeno of
+"<a   href="Zeno_of_Citium.md" class="wikilink" title="Zeno of Citium">"Zeno of
 Citium</a>, the founder of Stoicism, who was much influenced by the
 Cynics, described his vision of an egalitarian utopian society around
 300 BC.[^19] Zeno's *Republic* advocates a form of anarchic society
@@ -168,17 +168,17 @@ people follow their instincts, they will have no need of law courts or
 police, no temples and no public worship, and use no money—free gifts
 taking the place of monetary exchanges.[^20]
 
-<a href="Socrates" class="wikilink" title="Socrates">Socrates</a>
+"<a   href="Socrates.md" class="wikilink" title="Socrates">"Socrates</a>
 expressed some views appropriate to anarchism. He constantly questioned
 authority and at the centre of his philosophy stood every man's right to
 freedom of consciousness.[^21]
-<a href="Aristippus" class="wikilink" title="Aristippus">Aristippus</a>,
+"<a   href="Aristippus.md" class="wikilink" title="Aristippus">"Aristippus</a>,
 a pupil of Socrates and founder of the Hedonistic school, claimed that
 he did not wish either to rule or be ruled. He saw the State as a danger
 to personal autonomy.[^22] Not all ancient Greeks had anarchic
 tendencies. Other philosophers such as
-<a href="Plato" class="wikilink" title="Plato">Plato</a> and
-<a href="Aristotle" class="wikilink" title="Aristotle">Aristotle</a>
+"<a   href="Plato.md" class="wikilink" title="Plato">"Plato</a> and
+"<a   href="Aristotle.md" class="wikilink" title="Aristotle">"Aristotle</a>
 used the term anarchy negatively in association with democracy which
 they mistrusted as inherently vulnerable and prone to deteriorate into
 tyranny.[^23]
@@ -191,7 +191,7 @@ in the Tanakh as well as in New Testament texts.[^24]
 ### Middle Ages
 
 In Persia during the Middle Ages a Zoroastrian prophet named
-<a href="Mazdak" class="wikilink" title="Mazdak">Mazdak</a>, now
+"<a   href="Mazdak.md" class="wikilink" title="Mazdak">"Mazdak</a>, now
 considered a proto-socialist, called for the abolition of private
 property, free love and overthrowing the king. He and his thousands of
 followers were massacred in 582 CE, but his teaching influenced Islamic
@@ -201,8 +201,8 @@ Najdiyya Khirijites. This form of revolutionary Islam was not communist
 or egalitarian. It did not resemble current concepts of anarchism, but
 preached the State was harmful, illegitimate, immoral and
 unnecessary.[^26] In Europe, Christianity was overshadowing all aspects
-of life. The <a href="Brethren_of_the_Free_Spirit" class="wikilink"
-title="Brethren of the Free Spirit">Brethren of the Free Spirit</a> was
+of life. The "<a   href="Brethren_of_the_Free_Spirit.md" class="wikilink"
+title="Brethren of the Free Spirit">"Brethren of the Free Spirit</a> was
 the most notable example of heretic belief that had some vague
 anarchistic tendencies. They held anticleric sentiments and believed in
 total freedom. Even though most of their ideas were individualistic, the
@@ -211,7 +211,7 @@ for many years.[^27] Other anarchistic religious movements in Europe
 during the Middle Ages included the Hussites and Adamites.[^28]
 
 20th-century historian
-<a href="James_Joll" class="wikilink" title="James Joll">James Joll</a>
+"<a   href="James_Joll.md" class="wikilink" title="James Joll">"James Joll</a>
 described anarchism as two opposing sides. In the Middle Ages, zealotic
 and ascetic religious movements emerged, which rejected institutions,
 laws and the established order. In the 18th century another anarchist
@@ -225,21 +225,21 @@ With the spread of the Renaissance across Europe, anti-authoritarian and
 secular ideas re-emerged. The most prominent thinkers advocating for
 liberty, mainly French, were employing utopia in their works to bypass
 strict state censorship. In *Gargantua and Pantagruel* (1532-1552),
-<a href="François_Rabelais" class="wikilink"
-title="François Rabelais">François Rabelais</a> wrote of the Abby of
+"<a   href="François_Rabelais.md" class="wikilink"
+title="François Rabelais">"François Rabelais</a> wrote of the Abby of
 Thelema (meaning "will" or "wish"), an imaginary utopia whose motto was
 "Do as Thou Will". Around the same time, French law student
-<a href="Etienne_de_la_Boetie" class="wikilink"
-title="Etienne de la Boetie">Etienne de la Boetie</a> wrote his
+"<a   href="Etienne_de_la_Boetie.md" class="wikilink"
+title="Etienne de la Boetie">"Etienne de la Boetie</a> wrote his
 *Discourse on Voluntary Servitude* where he argued that tyranny resulted
 from voluntary submission and could be abolished by the people refusing
 to obey the authorities above them. Later still in France,
-<a href="Gabriel_de_Foigny" class="wikilink"
-title="Gabriel de Foigny">Gabriel de Foigny</a> perceived a utopia with
+"<a   href="Gabriel_de_Foigny.md" class="wikilink"
+title="Gabriel de Foigny">"Gabriel de Foigny</a> perceived a utopia with
 freedom-loving people without government and no need of religion, as he
 wrote in *The Southern Land, Known*. For this, Geneva authorities jailed
-de Foigny. <a href="François_Fénelon" class="wikilink"
-title="François Fénelon">François Fénelon</a> also used utopia to
+de Foigny. "<a   href="François_Fénelon.md" class="wikilink"
+title="François Fénelon">"François Fénelon</a> also used utopia to
 project his political views in the book *Les Aventures de Télémaque*
 that infuriated Louis XIV.[^30]
 
@@ -248,17 +248,17 @@ Anabaptists) are sometimes credited as the religious forerunners of
 modern anarchism. Even though the Reformation was a religious movement
 and strengthened the state, it also opened the way for the humanistic
 values of the French Revolution.[^31] During the English Civil War,
-<a href="Christian_anarchism" class="wikilink"
-title="Christian anarchism">Christian anarchism</a> found one of its
+"<a   href="Christian_anarchism.md" class="wikilink"
+title="Christian anarchism">"Christian anarchism</a> found one of its
 most articulate exponents in
-<a href="Gerrard_Winstanley" class="wikilink"
-title="Gerrard Winstanley">Gerrard Winstanley</a>, who was part of the
+"<a   href="Gerrard_Winstanley.md" class="wikilink"
+title="Gerrard Winstanley">"Gerrard Winstanley</a>, who was part of the
 Diggers movement. He published a pamphlet, *The New Law of
 Righteousness*, calling for communal ownership and social and economic
 organisation in small agrarian communities. Drawing on the Bible, he
 argued that "the blessings of the earth" should "be common to all" and
 "none Lord over others".[^32]
-<a href="William_Blake" class="wikilink" title="William Blake">William
+"<a   href="William_Blake.md" class="wikilink" title="William Blake">"William
 Blake</a> has also been said to have espoused an anarchistic political
 position.[^33]
 
@@ -272,8 +272,8 @@ The Quaker sect, mostly because of their ahierarchical governance and
 social relations, based on their beliefs of the divine spirit
 universally within all people and humanity's absolute equality, had some
 anarchistic tendencies; such values must have influenced
-<a href="Benjamin_Tucker" class="wikilink"
-title="Benjamin Tucker">Benjamin Tucker</a> the editor and publisher of
+"<a   href="Benjamin_Tucker.md" class="wikilink"
+title="Benjamin Tucker">"Benjamin Tucker</a> the editor and publisher of
 the individualist anarchist periodical *Liberty*.[^35]
 
 ## Early Anarchism
@@ -286,38 +286,38 @@ Enlightenment gave thinkers of the time confidence that humans can
 reason for themselves. When nature was tamed through science, society
 could be set free. The development of anarchism was strongly influenced
 by the works of
-<a href="Jean_Meslier" class="wikilink" title="Jean Meslier">Jean
-Meslier</a>, <a href="Baron_d&#39;Holbach" class="wikilink"
-title="Baron d&#39;Holbach">Baron d'Holbach</a>, whose materialistic
+"<a   href="Jean_Meslier.md" class="wikilink" title="Jean Meslier">"Jean
+Meslier</a>, "<a   href="Baron_d&#39;Holbach.md" class="wikilink"
+title="Baron d&#39;Holbach">"Baron d'Holbach</a>, whose materialistic
 worldview later resonated with anarchists, and
-<a href="Jean-Jacques_Rousseau" class="wikilink"
-title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a>, especially in
+"<a   href="Jean-Jacques_Rousseau.md" class="wikilink"
+title="Jean-Jacques Rousseau">"Jean-Jacques Rousseau</a>, especially in
 his *Discourse on Inequality* and arguments for the moral centrality of
 freedom. Rousseau affirmed the goodness in the nature of men and viewed
 the state as fundamentally oppressive.
-<a href="Denis_Diderot" class="wikilink" title="Denis Diderot">Denis
+"<a   href="Denis_Diderot.md" class="wikilink" title="Denis Diderot">"Denis
 Diderot</a>'s *Supplément au voyage de Bougainville* (*The Supplement to
 the Voyage of Bougainville*) was also influential.[^36]
 
-The <a href="French_Revolution" class="wikilink"
-title="French Revolution">French Revolution</a> stands as a landmark in
+The "<a   href="French_Revolution.md" class="wikilink"
+title="French Revolution">"French Revolution</a> stands as a landmark in
 the history of anarchism. The use of revolutionary violence by masses
 would captivate anarchists of later centuries, with such events as the
 Women's March on Versailles, the
-<a href="Storming_of_the_Bastille" class="wikilink"
-title="Storming of the Bastille">Storming of the Bastille</a> and the
+"<a   href="Storming_of_the_Bastille.md" class="wikilink"
+title="Storming of the Bastille">"Storming of the Bastille</a> and the
 Réveillon riots seen as the revolutionary archetype.[^37] Anarchists
 came to identify with the *Enragés* ("enraged ones") who expressed the
 demands of the *sans-culottes* ("without breeches"; commoners) who
 opposed revolutionary government as a contradiction in terms. Denouncing
 the Jacobin dictatorship,
-<a href="Jean_Varlet" class="wikilink" title="Jean Varlet">Jean
+"<a   href="Jean_Varlet.md" class="wikilink" title="Jean Varlet">"Jean
 Varlet</a> wrote in 1794 that "government and revolution are
 incompatible, unless the people wish to set its constituted authorities
 in permanent insurrection against itself".[^38] In his *Manifeste des
 Égaux* (*Manifesto of the Equals*) of 1801,
-<a href="Sylvain_Maréchal" class="wikilink"
-title="Sylvain Maréchal">Sylvain Maréchal</a> looked forward to the
+"<a   href="Sylvain_Maréchal.md" class="wikilink"
+title="Sylvain Maréchal">"Sylvain Maréchal</a> looked forward to the
 disappearance, once and for all, of "the revolting distinction between
 rich and poor, of great and small, of masters and valets, of governors
 and governed".[^39] The French Revolution came to depict in the minds of
@@ -328,13 +328,13 @@ ultimately executed by guillotine.[^40]
 
 The debate over the effects of the French Revolution on the anarchist
 cause continues to this day. To anarchist historian
-<a href="Max_Nettlau" class="wikilink" title="Max Nettlau">Max
+"<a   href="Max_Nettlau.md" class="wikilink" title="Max Nettlau">"Max
 Nettlau</a>, the French revolution was a turning point in anarchistic
 thought, as it promoted the ideals of "Liberty, Fraternity, and
 Equality". Yet he felt that the outcome did nothing more than re-shape
 and modernise the militaristic state.[^41] Russian revolutionary and
 anarchist thinker
-<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
 Kropotkin</a>, however, traced the origins of the anarchist movement
 further back, linking it to struggles against authority in feudal
 societies and earlier revolutionary traditions.[^42] In a more moderate
@@ -342,12 +342,12 @@ approach, independent scholar Sean Sheehan points out that the French
 Revolution proved that even the strongest political establishments can
 be overthrown.[^43]
 
-<a href="William_Godwin" class="wikilink" title="William Godwin">William
+"<a   href="William_Godwin.md" class="wikilink" title="William Godwin">"William
 Godwin</a> in England was the first to develop an expression of modern
 anarchist thought.[^44] He is generally regarded as the founder of the
 school of thought known as
-<a href="philosophical_anarchism" class="wikilink"
-title="philosophical anarchism">philosophical anarchism</a>.[^45] He
+"<a   href="philosophical_anarchism.md" class="wikilink"
+title="philosophical anarchism">"philosophical anarchism</a>.[^45] He
 argued in *Political Justice* (1793) that government has an inherently
 malevolent influence on society, and that it perpetuates dependency and
 ignorance. He thought the spread of the use of reason to the masses
@@ -368,15 +368,15 @@ private judgement.[^47]
 
 ### Proudhon and Stirner
 
-Frenchman <a href="Pierre-Joseph_Proudhon" class="wikilink"
-title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> is regarded as
+Frenchman "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a> is regarded as
 the founder of modern anarchism, a label he adopted in his
 groundbreaking work *What is Property? Or, an Inquiry into the Principle
 of Right and Government* published in 1840. In it he asks "What is
 property?", a question that he answers with the famous accusation
-"<a href="Property_is_theft" class="wikilink"
-title="Property is theft">Property is theft</a>".[^48] Proudhon's theory
-of <a href="mutualism" class="wikilink" title="mutualism">mutualism</a>
+""<a   href="Property_is_theft.md" class="wikilink"
+title="Property is theft">"Property is theft</a>".[^48] Proudhon's theory
+of "<a   href="mutualism.md" class="wikilink" title="mutualism">"mutualism</a>
 rejects the state, capitalism, and communism.[^49] It calls for a
 co-operative society in which the free associations of individuals are
 linked in a decentralised federation based on a "Bank of the People"
@@ -392,23 +392,23 @@ Lausanne, but diminished in European influence with the rise of
 anarcho-communism. Instead, Mutualism would find fertile ground among
 American individualists in the late 19th century.[^52]
 
-In Spain, <a href="Ramón_de_la_Sagra" class="wikilink"
-title="Ramón de la Sagra">Ramón de la Sagra</a> established the
+In Spain, "<a   href="Ramón_de_la_Sagra.md" class="wikilink"
+title="Ramón de la Sagra">"Ramón de la Sagra</a> established the
 anarchist journal *El Porvenir* in La Coruña in 1845 which was inspired
 by Proudhon's ideas.[^53] Catalan politician
-<a href="Francesc_Pi_i_Margall" class="wikilink"
-title="Francesc Pi i Margall">Francesc Pi i Margall</a> became the
+"<a   href="Francesc_Pi_i_Margall.md" class="wikilink"
+title="Francesc Pi i Margall">"Francesc Pi i Margall</a> became the
 principal translator of Proudhon's works into Spanish.[^54] He would
 later briefly become president of Spain in 1873 while leader of the
 Democratic Republican Federal Party,[^55] where he tried to implement
 some of Proudhon's ideas.[^56]
 
 An influential form of
-<a href="individualist_anarchism" class="wikilink"
-title="individualist anarchism">individualist anarchism</a> called
+"<a   href="individualist_anarchism.md" class="wikilink"
+title="individualist anarchism">"individualist anarchism</a> called
 egoism or egoist anarchism, was expounded by one of the earliest and
 best-known proponents of individualist anarchism, German philosopher
-<a href="Max_Stirner" class="wikilink" title="Max Stirner">Max
+"<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner">"Max
 Stirner</a>.[^57] Stirner's *The Ego and Its Own* (also translated as
 *The Individual and his Property* or *The Unique and His Property*),
 published in 1844, is a founding text of the philosophy.[^58] Stirner
@@ -434,8 +434,8 @@ Europe was shocked by another revolutionary wave in 1848 which started
 once again in Paris. The new government, consisting mostly of Jacobins,
 was backed by the working class but failed to implement meaningful
 reforms. Pierre-Joseph Proudhon and Russian revolutionary
-<a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a> were involved in the events
+"<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a> were involved in the events
 of 1848. The failure of the revolution shaped Proudhon's views. He
 became convinced that a revolution should aim to destroy authority, not
 grasp power. He saw capitalism as the root of social problems and
@@ -445,11 +445,11 @@ due to the failure of the revolutions, lost his confidence in any kind
 of reform.[^67]
 
 Other anarchists active in the 1848 Revolution in France include
-<a href="Anselme_Bellegarrigue" class="wikilink"
-title="Anselme Bellegarrigue">Anselme Bellegarrigue</a>, Ernest
+"<a   href="Anselme_Bellegarrigue.md" class="wikilink"
+title="Anselme Bellegarrigue">"Anselme Bellegarrigue</a>, Ernest
 Coeurderoy and the early anarcho-communist
-<a href="Joseph_Déjacque" class="wikilink"
-title="Joseph Déjacque">Joseph Déjacque</a>, who was the first person to
+"<a   href="Joseph_Déjacque.md" class="wikilink"
+title="Joseph Déjacque">"Joseph Déjacque</a>, who was the first person to
 call himself a libertarian.[^68] Unlike Proudhon, Déjacque argued that
 "it is not the product of his or her labour that the worker has a right
 to, but to the satisfaction of his or her needs, whatever may be their
@@ -474,18 +474,18 @@ anarchists to advance their causes.[^76]
 ### First International and Paris Commune
 
 In 1864, the creation of the
-<a href="International_Workingmen&#39;s_Association" class="wikilink"
-title="International Workingmen&#39;s Association">International
+"<a   href="International_Workingmen&#39;s_Association.md" class="wikilink"
+title="International Workingmen&#39;s Association">"International
 Workingmen's Association</a> (IWA, also called the "First
 International") united diverse revolutionary currents - including
 socialist Marxists, trade unionists, communists and anarchists.[^77]
-<a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>, a
+"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">"Karl Marx</a>, a
 leading figure of the International, became a member of its General
 Council.[^78]
 
 Four years later, in 1868, Mikhail Bakunin joined the First
-International with his <a href="collectivist_anarchist" class="wikilink"
-title="collectivist anarchist">collectivist anarchist</a> associates.
+International with his "<a   href="collectivist_anarchist.md" class="wikilink"
+title="collectivist anarchist">"collectivist anarchist</a> associates.
 They advocated the collectivisation of property and the revolutionary
 overthrow of the state.[^79] Bakunin corresponded with other members of
 the International, seeking to establish a loose brotherhood of
@@ -510,7 +510,7 @@ political abstentionism and small property holdings.[^83]
 
 Meanwhile, an uprising after the Franco-Prussian War of 1870 to 1871 led
 to the formation of the
-<a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
+"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
 Commune</a> in March 1871. Anarchists had a prominent role in the
 Commune,[^84] next to Blanquists and - to a lesser extent - Marxists.
 The uprising was greatly influenced by anarchists and had a great impact
@@ -518,11 +518,11 @@ on anarchist history.[^85] Radical socialist views, like Proudhonian
 federalism, were implemented to a small extent. Most importantly, the
 workers proved they could run their own services and factories. After
 the defeat of the Commune, anarchists like
-<a href="Eugène_Varlin" class="wikilink" title="Eugène Varlin">Eugène
+"<a   href="Eugène_Varlin.md" class="wikilink" title="Eugène Varlin">"Eugène
 Varlin</a>,
-<a href="Louise_Michel" class="wikilink" title="Louise Michel">Louise
+"<a   href="Louise_Michel.md" class="wikilink" title="Louise Michel">"Louise
 Michel</a>, and
-<a href="Élisée_Reclus" class="wikilink" title="Élisée Reclus">Élisée
+"<a   href="Élisée_Reclus.md" class="wikilink" title="Élisée Reclus">"Élisée
 Reclus</a> were shot or imprisoned.[^86] The French Third Republic
 persecuted socialist supporters for a decade. Leading members of the
 International who survived the bloody suppression of the Commune fled to
@@ -541,14 +541,14 @@ Congress, adopting a revolutionary anarchist programme.[^89]
 
 ### Emergence of Anarcho-Communism
 
-<a href="Anarcho-communism" class="wikilink"
-title="Anarcho-communism">Anarcho-communism</a> developed out of radical
+"<a   href="Anarcho-communism.md" class="wikilink"
+title="Anarcho-communism">"Anarcho-communism</a> developed out of radical
 socialist currents after the 1789 French Revolution but was first
 formulated as such in the Italian section of the First
 International.[^90] It was the convincing critique of
-<a href="Carlo_Cafiero" class="wikilink" title="Carlo Cafiero">Carlo
-Cafiero</a> and <a href="Errico_Malatesta" class="wikilink"
-title="Errico Malatesta">Errico Malatesta</a> that paved the way for
+"<a   href="Carlo_Cafiero.md" class="wikilink" title="Carlo Cafiero">"Carlo
+Cafiero</a> and "<a   href="Errico_Malatesta.md" class="wikilink"
+title="Errico Malatesta">"Errico Malatesta</a> that paved the way for
 anarcho-communism to surpass collectivism; they argued that collectivism
 would inevitably end in competition and inequality.[^91] Essayist Alain
 Pengam comments that between 1880 and 1890 the perspective of a
@@ -589,8 +589,8 @@ rally, were arrested and charged with the murder of the deceased
 officers. They became international political celebrities in the labour
 movement. Four of the men were executed and a fifth committed suicide
 before his execution. The incident became known as the
-<a href="Haymarket_affair" class="wikilink"
-title="Haymarket affair">Haymarket affair</a> and was a setback for the
+"<a   href="Haymarket_affair.md" class="wikilink"
+title="Haymarket affair">"Haymarket affair</a> and was a setback for the
 movement and the struggle for the eight-hour day. In 1890 a second
 attempt, this time international in scope, to organise for the
 eight-hour day was made. It had the secondary purpose of memorialising
@@ -608,8 +608,8 @@ the First International.[^106] Anarcho-syndicalists advocated that
 labour syndicates should focus not only on the conditions and wages of
 workers but also on revolutionary objectives.[^107]
 
-The French <a href="Confédération_Générale_du_Travail" class="wikilink"
-title="Confédération Générale du Travail">Confédération Générale du
+The French "<a   href="Confédération_Générale_du_Travail.md" class="wikilink"
+title="Confédération Générale du Travail">"Confédération Générale du
 Travail</a> (General Confederation of Labour) was one of Europe's most
 prominent syndicalist organisations and, while rejecting illegalism, was
 heavily influenced by anarchism.[^108] As a grassroots organisation and
@@ -621,7 +621,7 @@ In 1907, the International Anarchist Congress of Amsterdam gathered
 delegates from most European countries, the United States, Japan and
 Latin America.[^110] A central debate concerned the relation between
 anarchism and trade unionism.[^111] Errico Malatesta and
-<a href="Pierre_Monatte" class="wikilink" title="Pierre Monatte">Pierre
+"<a   href="Pierre_Monatte.md" class="wikilink" title="Pierre Monatte">"Pierre
 Monatte</a> strongly disagreed on this issue. Monatte thought that
 syndicalism was revolutionary and would create the conditions for a
 social revolution, while Malatesta did not consider syndicalism by
@@ -635,8 +635,8 @@ of achieving it.[^113]
 
 In Spain, syndicalism had grown significantly during the 1880s but the
 first anarchist related organisations didn't flourish. In 1910 however,
-the <a href="Confederación_Nacional_del_Trabajo" class="wikilink"
-title="Confederación Nacional del Trabajo">Confederación Nacional del
+the "<a   href="Confederación_Nacional_del_Trabajo.md" class="wikilink"
+title="Confederación Nacional del Trabajo">"Confederación Nacional del
 Trabajo</a> (National Confederation of Labour or CNT) was founded and
 gradually became entwined with anarchism.[^114] The CNT was affiliated
 with the International Workers' Association, a federation of
@@ -653,8 +653,8 @@ its activity then taking place outside of Western Europe.[^117]
 ### Propaganda of the Deed
 
 The use of revolutionary political violence, known as
-<a href="propaganda_of_the_deed" class="wikilink"
-title="propaganda of the deed">propaganda of the deed</a>, was employed
+"<a   href="propaganda_of_the_deed.md" class="wikilink"
+title="propaganda of the deed">"propaganda of the deed</a>, was employed
 by a small but influential part of the anarchist movement over a roughly
 four decade period, beginning in the 1880s.[^118] It was conceived as a
 form of insurrectionary action used to provoke and inspire the masses to
@@ -666,14 +666,14 @@ colonies favoured individualist political expression and acts.[^121] But
 the prime factor in the rise of propaganda of the deed, as historian
 Constance Bantman outlines, was the writings of Russian revolutionaries
 between 1869 and 1891, namely of Mikhail Bakunin and
-<a href="Sergei_Nechaev" class="wikilink" title="Sergei Nechaev">Sergei
+"<a   href="Sergei_Nechaev.md" class="wikilink" title="Sergei Nechaev">"Sergei
 Nechaev</a> who developed significant insurrectionary strategies.[^122]
 
-<a href="Paul_Brousse" class="wikilink" title="Paul Brousse">Paul
+"<a   href="Paul_Brousse.md" class="wikilink" title="Paul Brousse">"Paul
 Brousse</a>, a medical doctor and active militant of violent
 insurrection, popularised the actions of propaganda of the deed.[^123]
 In the United States,
-<a href="Johann_Most" class="wikilink" title="Johann Most">Johann
+"<a   href="Johann_Most.md" class="wikilink" title="Johann Most">"Johann
 Most</a> advocated publicising violent acts of retaliation against
 counter-revolutionaries because "we preach not only action in and for
 itself, but also action as propaganda".[^124] Russian
@@ -681,27 +681,27 @@ anarchist-communists employed terrorism and illegal acts in their
 struggle.[^125] Numerous heads of state were assassinated or attacked by
 members of the anarchist movement.[^126] In 1901, the Polish-American
 anarchist
-<a href="Leon_Czolgosz" class="wikilink" title="Leon Czolgosz">Leon
+"<a   href="Leon_Czolgosz.md" class="wikilink" title="Leon Czolgosz">"Leon
 Czolgosz</a> assassinated the president of the United States,
-<a href="William_McKinley" class="wikilink"
-title="William McKinley">William McKinley</a>.
-<a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
+"<a   href="William_McKinley.md" class="wikilink"
+title="William McKinley">"William McKinley</a>.
+"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">"Emma
 Goldman</a>, who was erroneously suspected of being involved, expressed
 some sympathy for Czolgosz and incurred a great deal of negative
 publicity.[^127] Goldman also supported
-<a href="Alexander_Berkman" class="wikilink"
-title="Alexander Berkman">Alexander Berkman</a> in his failed
+"<a   href="Alexander_Berkman.md" class="wikilink"
+title="Alexander Berkman">"Alexander Berkman</a> in his failed
 assassination attempt of steel industrialist Henry Frick in the wake of
 the Homestead Strike, and she wrote about how these small acts of
 violence were incomparable to the deluge of violence regularly committed
 by the state and capital.[^128] In Europe, a wave of illegalism (the
 embracement of a criminal way of life) spread throughout the anarchist
 movement, with
-<a href="Marius_Jacob" class="wikilink" title="Marius Jacob">Marius
+"<a   href="Marius_Jacob.md" class="wikilink" title="Marius Jacob">"Marius
 Jacob</a>,
-<a href="Ravachol" class="wikilink" title="Ravachol">Ravachol</a>,
+"<a   href="Ravachol.md" class="wikilink" title="Ravachol">"Ravachol</a>,
 intellectual Émile Henry and the
-<a href="Bonnot_Gang" class="wikilink" title="Bonnot Gang">Bonnot
+"<a   href="Bonnot_Gang.md" class="wikilink" title="Bonnot Gang">"Bonnot
 Gang</a> being notable examples. The Bonnot Gang in particular justified
 illegal and violent behavior by claiming that they were "taking back"
 property that did not rightfully belong to capitalists.[^129] In Russia,
@@ -739,8 +739,8 @@ century.[^135]
 
 Anarchists were involved in the Strandzha Commune and Krusevo Republic
 established in Macedonia in Ilinden–Preobrazhenie Uprising of 1903, and
-in the <a href="Mexican_Revolution" class="wikilink"
-title="Mexican Revolution">Mexican Revolution</a> of 1910. The
+in the "<a   href="Mexican_Revolution.md" class="wikilink"
+title="Mexican Revolution">"Mexican Revolution</a> of 1910. The
 revolutionary wave of 1917–23 saw varying degrees of active
 participation by anarchists.[^136] Following the failed 1905 Russian
 Revolution, anarchists participated again in both the February and
@@ -756,19 +756,19 @@ opposition.[^140] After their grasp on power was stabilized, the
 Bolsheviks crushed the anarchists.[^141] Anarchists in central Russia
 were either imprisoned, driven underground, or joined the victorious
 Bolsheviks. Anarchists from Petrograd and Moscow fled to Ukraine.[^142]
-There, the <a href="Makhnovshchina" class="wikilink"
-title="Makhnovshchina">Makhnovshchina</a> established an autonomous
+There, the "<a   href="Makhnovshchina.md" class="wikilink"
+title="Makhnovshchina">"Makhnovshchina</a> established an autonomous
 region of four hundred square miles with a population of approximately
 seven million. Anarchists who had fought in the Russian Civil War at
 first against the anti-Bolshevik White Army now also fought the Red
 Army, Ukrainian People's Army, and the German and Austrian forces who
 fought under the Treaty of Brest-Litovsk.[^143] This conflict culminated
-in the 1921 <a href="Kronstadt_rebellion" class="wikilink"
-title="Kronstadt rebellion">Kronstadt rebellion</a>, a garrison in
+in the 1921 "<a   href="Kronstadt_rebellion.md" class="wikilink"
+title="Kronstadt rebellion">"Kronstadt rebellion</a>, a garrison in
 Kronstadt where Baltic Fleet sailors and citizens made demands for
 reforms. The new government suppressed the rebellion.[^144] The
 Revolutionary Insurgent Army of Ukraine, led by
-<a href="Nestor_Makhno" class="wikilink" title="Nestor Makhno">Nestor
+"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">"Nestor
 Makhno</a>, continued to fight until August 1921 when it was crushed by
 the state only months after the Kronstadt rebellion.[^145]
 
@@ -795,8 +795,8 @@ left these organisations to join the Communist International.[^149]
 
 From the collapse of anarchism in the newly formed Soviet Union, two
 anarchist trends arose. The first,
-<a href="platformism" class="wikilink"
-title="platformism">platformism</a>, was propagated in the anarchist
+"<a   href="platformism.md" class="wikilink"
+title="platformism">"platformism</a>, was propagated in the anarchist
 journal *Dielo Truda* by a group of Russian exiles, including Nestor
 Makhno. Their main objective, as proponent Piotr Arsinov wrote, was to
 create a non-hierarchical party that would offer "common organisation of
@@ -807,15 +807,15 @@ purpose of providing a strategy for class struggle, as Bakunin and
 Kropotkin had suggested before.[^151] The other trend emerged as an
 organisational alternative to platformism, since it had similarities to
 party structure. Anarchist intellectual
-<a href="Volin" class="wikilink" title="Volin">Volin</a> was one of the
+"<a   href="Volin.md" class="wikilink" title="Volin">"Volin</a> was one of the
 most notable opponents of platformism, and he pointed toward to what is
-today known as <a href="synthesis_anarchism" class="wikilink"
-title="synthesis anarchism">synthesis anarchism</a>.[^152]
+today known as "<a   href="synthesis_anarchism.md" class="wikilink"
+title="synthesis anarchism">"synthesis anarchism</a>.[^152]
 
 During the German Revolution of 1918–1919, anarchists
-<a href="Gustav_Landauer" class="wikilink"
-title="Gustav Landauer">Gustav Landauer</a> and
-<a href="Erich_Mühsam" class="wikilink" title="Erich Mühsam">Erich
+"<a   href="Gustav_Landauer.md" class="wikilink"
+title="Gustav Landauer">"Gustav Landauer</a> and
+"<a   href="Erich_Mühsam.md" class="wikilink" title="Erich Mühsam">"Erich
 Mühsam</a> took important leadership positions within the revolutionary
 councilist structures of the Bavarian Soviet Republic.[^153] In Italy,
 the syndicalist trade union Unione Sindacale Italiana (Italian
@@ -828,8 +828,8 @@ In Mexico, the Mexican Liberal Party was established and during the
 early 1910s it conducted a series of military offensives, leading to the
 conquest and occupation of certain towns and districts in Baja
 California. Under the leadership of anarcho-communist
-<a href="Ricardo_Flores_Magón" class="wikilink"
-title="Ricardo Flores Magón">Ricardo Flores Magón</a>, its slogan was
+"<a   href="Ricardo_Flores_Magón.md" class="wikilink"
+title="Ricardo Flores Magón">"Ricardo Flores Magón</a>, its slogan was
 *Tierra y Libertad* ('Land and Liberty').[^155] Magón's journal
 *Regeneración* ('Regeneration') had a significant circulation, and he
 helped urban workers turn to anarcho-syndicalism. He also influenced the
@@ -858,13 +858,13 @@ signed the pacification pact with the fascists.[^161] AdP consisted of
 militant proletarians, anarchists, communists and even socialists. It
 numbered twenty-thousand members in 144 sections.[^162] The veteran
 Italian anarchist,
-<a href="Luigi_Fabbri" class="wikilink" title="Luigi Fabbri">Luigi
+"<a   href="Luigi_Fabbri.md" class="wikilink" title="Luigi Fabbri">"Luigi
 Fabbri</a>, was one of the first critical theorists of fascism,
 describing it as "the preventive counter-revolution".[^163] Italian
 anarchists
-<a href="Gino_Lucetti" class="wikilink" title="Gino Lucetti">Gino
+"<a   href="Gino_Lucetti.md" class="wikilink" title="Gino Lucetti">"Gino
 Lucetti</a> and
-<a href="Anteo_Zamboni" class="wikilink" title="Anteo Zamboni">Anteo
+"<a   href="Anteo_Zamboni.md" class="wikilink" title="Anteo Zamboni">"Anteo
 Zamboni</a> narrowly failed an assassination attempt against Benito
 Mussolini. Italian anarchists formed various partisan groups during
 World War II.[^164]
@@ -894,8 +894,8 @@ resistance to various fascist regimes throughout Europe.[^170]
 
 ### Spanish Revolution
 
-The <a href="Spanish_Revolution_of_1936" class="wikilink"
-title="Spanish Revolution of 1936">Spanish Revolution of 1936</a> was
+The "<a   href="Spanish_Revolution_of_1936.md" class="wikilink"
+title="Spanish Revolution of 1936">"Spanish Revolution of 1936</a> was
 the first and only time that libertarian socialism became an imminent
 reality. It stood on the ground of a strong anarchist movement in Spain
 that dated back to the 19th century. Anarchist groups enjoyed broad
@@ -921,10 +921,10 @@ militias, took control of urban and large areas of rural Spain where
 they collectivised the land.[^176] Barcelona was the site of the most
 dramatic change, as workers broke bourgeois habits and even gender
 hierarchies. Newly formed anarcho-feminist group
-<a href="Mujeres_Libres" class="wikilink" title="Mujeres Libres">Mujeres
+"<a   href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">"Mujeres
 Libres</a> (Free Women) had an active role in the social transformation
 in Barcelona. This rebellious culture impressed visitors such as
-<a href="George_Orwell" class="wikilink" title="George Orwell">George
+"<a   href="George_Orwell.md" class="wikilink" title="George Orwell">"George
 Orwell</a>. Enterprises and farms were collectivised, and working
 conditions improved drastically. In rural Aragon money was abolished and
 the economy was collectivised.[^177] Villages were run by popular
@@ -941,8 +941,8 @@ the government of the former trade unionist Francisco Largo Caballero.
 This was justified by CNT-FAI as a historical necessity since war was
 being waged, but other prominent anarchists disagreed, both on principle
 and as a tactical move.[^180] In November 1936 the prominent
-anarcho-feminist <a href="Federica_Montseny" class="wikilink"
-title="Federica Montseny">Federica Montseny</a> was installed as
+anarcho-feminist "<a   href="Federica_Montseny.md" class="wikilink"
+title="Federica Montseny">"Federica Montseny</a> was installed as
 minister of Health—the first woman in Spanish history to become a
 cabinet minister.[^181]
 
@@ -988,11 +988,11 @@ universalism in the journal *Hsin Shih-chi*. Anarchism was growing in
 influence until the mid-1920s when Bolshevik successes seemed to
 indicate the way to communism.[^189] Likewise in Japan,
 anarcho-communists such as
-<a href="Kōtoku_Shūsui" class="wikilink" title="Kōtoku Shūsui">Kōtoku
+"<a   href="Kōtoku_Shūsui.md" class="wikilink" title="Kōtoku Shūsui">"Kōtoku
 Shūsui</a>,
-<a href="Osugi_Sakae" class="wikilink" title="Osugi Sakae">Osugi
+"<a   href="Osugi_Sakae.md" class="wikilink" title="Osugi Sakae">"Osugi
 Sakae</a> and
-<a href="Hatta_Shuzo" class="wikilink" title="Hatta Shuzo">Hatta
+"<a   href="Hatta_Shuzo.md" class="wikilink" title="Hatta Shuzo">"Hatta
 Shuzo</a> were inspired by the works of westerners philosophers and
 opposed capitalism and the state. Shuzo created the school of "pure
 anarchism". Because of the industrial growth, anarcho-syndicalism also
@@ -1005,7 +1005,7 @@ anarchists were in full support of it.[^191] In Korea, anarchism took a
 different course. Korea was under Japanese rule from 1910 to 1945 and in
 the early phases of that period, anarchists took part in national
 resistance, forming an anarchist zone in Shinmin Manchuria from 1928 to
-1931. <a href="Kim_Chwa-chin" class="wikilink" title="Kim Chwa-chin">Kim
+1931. "<a   href="Kim_Chwa-chin.md" class="wikilink" title="Kim Chwa-chin">"Kim
 Chwa-chin</a> was a prominent figure of the movement.[^192] In India,
 anarchism did not thrive, partly because of its reputation for being
 violent. The fragile anarchist movement developed in India was more
@@ -1065,19 +1065,19 @@ American anarchists like Tucker and Spooner were left
 libertarians.[^200] The scholar Martin stated the American anarchists
 were mutualist anarchists in support of the labor theory of value.[^201]
 American anarchist justified private property as the safeguard of
-personal autonomy.[^202] <a href="Henry_David_Thoreau" class="wikilink"
-title="Henry David Thoreau">Henry David Thoreau</a> was an important
+personal autonomy.[^202] "<a   href="Henry_David_Thoreau.md" class="wikilink"
+title="Henry David Thoreau">"Henry David Thoreau</a> was an important
 early influence on individualist anarchist thought in the United States
 in the mid 19th century. He was skeptical towards government—in his work
 *Civil Disobedience* he declared that *"That government is best which
 governs least"*. He has frequently been cited as an
 anarcho-individualist, even though he was never rebellious.[^203]
-<a href="Josiah_Warren" class="wikilink" title="Josiah Warren">Josiah
+"<a   href="Josiah_Warren.md" class="wikilink" title="Josiah Warren">"Josiah
 Warren</a> was, at the late 19th century, a prominent advocate of a
 variant of mutualism called equitable commerce, a fair trade system
 where the price of a product is based on labor effort instead of the
-cost of manufacturing.[^204] <a href="Benjamin_Tucker" class="wikilink"
-title="Benjamin Tucker">Benjamin Tucker</a>, also influenced by
+cost of manufacturing.[^204] "<a   href="Benjamin_Tucker.md" class="wikilink"
+title="Benjamin Tucker">"Benjamin Tucker</a>, also influenced by
 Proudhon, was the editor of the prominent anarchist journal *Liberty*
 and a proponent of individualism.[^205]
 
@@ -1088,12 +1088,12 @@ became known nationwide. But anarchism quickly declined when it was
 associated with terrorist violence.[^207]
 
 An important concern for American individualist anarchism was
-<a href="free_love" class="wikilink" title="free love">free love</a>.
+"<a   href="free_love.md" class="wikilink" title="free love">"free love</a>.
 Free love particularly stressed women's rights since most sexual laws
 discriminated against women, for example, marriage laws and anti-birth
 control measures.[^208] Openly bisexual radical
-<a href="Edna_St._Vincent_Millay" class="wikilink"
-title="Edna St. Vincent Millay">Edna St. Vincent Millay</a> and lesbian
+"<a   href="Edna_St._Vincent_Millay.md" class="wikilink"
+title="Edna St. Vincent Millay">"Edna St. Vincent Millay</a> and lesbian
 anarchist Margaret Anderson were prominent among them. Discussion groups
 organised by the Villagers were frequented by Emma Goldman, among
 others.[^209]
@@ -1107,8 +1107,8 @@ for moral right or wrong, ultimately sided with the latter.[^210]
 
 The Modern Schools, also called Ferrer Schools, were schools established
 in the United States in the early 20th century. They were modelled after
-the Escuela Moderna of <a href="Francisco_Ferrer" class="wikilink"
-title="Francisco Ferrer">Francisco Ferrer</a>, the Catalan educator and
+the Escuela Moderna of "<a   href="Francisco_Ferrer.md" class="wikilink"
+title="Francisco Ferrer">"Francisco Ferrer</a>, the Catalan educator and
 anarchist. They were an important part of the anarchist, free schooling,
 socialist, and labour movements in the United States intending to
 educate the working classes from a secular, class-conscious perspective.
@@ -1117,8 +1117,8 @@ nighttime continuing-education lectures for adults. The first and most
 notable of the Modern Schools was opened in New York City in 1911.
 Commonly called the Ferrer Center, it was founded by notable
 anarchists—including Leonard Abbott, Alexander Berkman,
-<a href="Voltairine_de_Cleyre" class="wikilink"
-title="Voltairine de Cleyre">Voltairine de Cleyre</a> and Emma
+"<a   href="Voltairine_de_Cleyre.md" class="wikilink"
+title="Voltairine de Cleyre">"Voltairine de Cleyre</a> and Emma
 Goldman.[^211] The school used Montessori methods and equipment, and
 emphasised academic freedom rather than fixed subjects, such as spelling
 and arithmetic.[^212]
@@ -1137,12 +1137,12 @@ a new cultural movement at the turn of the century, with less of a
 social component and more of a personal rebellion against norms.[^216]
 Impressionists and neo-Impressionist painters were attracted by
 anarchism, most notably French
-<a href="Camille_Pissarro" class="wikilink"
-title="Camille Pissarro">Camille Pissarro</a>.[^217] Modernist writers
+"<a   href="Camille_Pissarro.md" class="wikilink"
+title="Camille Pissarro">"Camille Pissarro</a>.[^217] Modernist writers
 having anarchist tendencies, such as
-<a href="Henrik_Ibsen" class="wikilink" title="Henrik Ibsen">Henrik
+"<a   href="Henrik_Ibsen.md" class="wikilink" title="Henrik Ibsen">"Henrik
 Ibsen</a> and
-<a href="James_Joyce" class="wikilink" title="James Joyce">James
+"<a   href="James_Joyce.md" class="wikilink" title="James Joyce">"James
 Joyce</a>, led to the impression that "modernism itself can be
 understood as the aesthetic realisation of anarchist politics".[^218]
 Dadaism arose from individualists aiming to use art to achieve *total
@@ -1151,7 +1151,7 @@ proponents played a significant role in the Berlin rising of 1918.[^219]
 One of the main individualist anarchist journals in France,
 *L'Anarchie*, was established in 1905.[^220] A notable individualist was
 Stirnerist
-<a href="Émile_Armand" class="wikilink" title="Émile Armand">Émile
+"<a   href="Émile_Armand.md" class="wikilink" title="Émile Armand">"Émile
 Armand</a> who was a defender of polyamory and homosexuality.[^221]
 
 ## Post-War
@@ -1170,8 +1170,8 @@ were believed to be the gradual demystification of the Soviet Union and
 tensions at the climax of the Cold War.[^224] The New Left, which arose
 in the 1950s, was a libertarian socialist movement that was closer to
 anarchism. Prominent thinkers such as
-<a href="Herbert_Marcuse" class="wikilink"
-title="Herbert Marcuse">Herbert Marcuse</a> and Wright Mills were
+"<a   href="Herbert_Marcuse.md" class="wikilink"
+title="Herbert Marcuse">"Herbert Marcuse</a> and Wright Mills were
 critical of United States and Soviet Marxism.[^225]
 
 In France, a wave of protests and demonstrations confronted the
@@ -1200,11 +1200,11 @@ Originally founded in 1957, The Situationist International rose to
 prominence during events of 1968 with the principal argument that life
 had turned into a "spectacle" because of the corrosive effect of
 capitalism.[^233] They later dissolved in 1972.[^234] The late 1960s saw
-the flourish of <a href="anarcha-feminism" class="wikilink"
-title="anarcha-feminism">anarcha-feminism</a>. It attacked the state,
+the flourish of "<a   href="anarcha-feminism.md" class="wikilink"
+title="anarcha-feminism">"anarcha-feminism</a>. It attacked the state,
 capitalism and patriarchy and was organized in a decentralised
 manner.[^235]
-<a href="Black_anarchism" class="wikilink" title="Black anarchism">Black
+"<a   href="Black_anarchism.md" class="wikilink" title="Black anarchism">"Black
 anarchism</a> began to take form at this time and influenced anarchism's
 move from a Eurocentric demographic.[^236]
 
@@ -1250,14 +1250,14 @@ Economic Forum, as part of anti-globalisation movement. Some anarchist
 factions at these protests engaged in rioting, property destruction, and
 violent confrontations with police. These actions were precipitated by
 ad hoc, leaderless, anonymous cadres known as
-<a href="black_bloc" class="wikilink" title="black bloc">black blocs</a>.
+"<a   href="black_bloc.md" class="wikilink" title="black bloc">"black blocs</a>.
 Other organisational tactics pioneered during this period include
 security culture, affinity groups and the use of decentralised
 technologies such as the Internet.[^245] Occupy Wall Street movement had
 roots in anarchist philosophy.[^246]
 
 According to anarchist scholar
-<a href="Simon_Critchley" class="wikilink" title="Simon Critchley">Simon
+"<a   href="Simon_Critchley.md" class="wikilink" title="Simon Critchley">"Simon
 Critchley</a>, "contemporary anarchism can be seen as a powerful
 critique of the pseudo-libertarianism of contemporary neo-liberalism
 \[...\] One might say that contemporary anarchism is about
@@ -1270,7 +1270,7 @@ many contemporary forms of anarchism are not confrontational. Instead,
 they are trying to build an alternative way of social organization
 (following the theories of dual power), based on mutual interdependence
 and voluntary cooperation, for instance in groups such as
-<a href="Food_Not_Bombs" class="wikilink" title="Food Not Bombs">Food
+"<a   href="Food_Not_Bombs.md" class="wikilink" title="Food Not Bombs">"Food
 Not Bombs</a> and in self-managed social centers.[^248] Scholar Carissa
 Honeywell takes the example of Food Not Bombs group of collectives, to
 highlight some features of how contemporary anarchist groups work:
@@ -1295,12 +1295,12 @@ whole.[^251]
 - [History of Anarchism](http://www.katesharpleylibrary.net/f7m1bn).
   Kate Sharpley Library.
 
-<a href="Category:Anarchist_History" class="wikilink"
-title="Category:Anarchist History">Category:Anarchist History</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Anarchist_History.md" class="wikilink"
+title="Category:Anarchist History">"Category:Anarchist History</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Levy, Carl. "Social Histories of Anarchism." Journal for the Study
     of Radicalism 4, no. 2 (Fall 2010): 1

@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Cybernetics" class="wikilink"
-    title="Cybernetics">Cybernetics</a>
+1.  REDIRECT "<a   href="Cybernetics.md" class="wikilink"
+    title="Cybernetics">"Cybernetics</a>

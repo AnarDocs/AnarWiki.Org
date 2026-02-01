@@ -3,8 +3,8 @@
 Various factors would encourage people to contribute to their
 communities and perform necessary work in anarchist society, in the
 absence of
-<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>,
-<a href="state" class="wikilink" title="state">state</a> coercion, and
+"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>,
+"<a   href="state.md" class="wikilink" title="state">"state</a> coercion, and
 monetary rewards.
 
 ## Origins
@@ -17,8 +17,8 @@ sewage work, or other essential manual labor.
 
 Historical evidence demonstrates that complex civilizations have
 functioned without monetary systems. The
-<a href="Indus_Valley_Civilization" class="wikilink"
-title="Indus Valley Civilization">Indus Valley Civilization</a> (3300
+"<a   href="Indus_Valley_Civilization.md" class="wikilink"
+title="Indus Valley Civilization">"Indus Valley Civilization</a> (3300
 BCE) maintained sophisticated plumbing and sewage systems across six
 million inhabitants without evidence of hierarchy, monetary exchange, or
 coercive labor arrangements.[^1] Similarly, ancient Chinese and Roman
@@ -59,7 +59,7 @@ operate in a post-capitalist society:
 - Recognition and respect from community members
 - Social status based on contribution rather than wealth accumulation
 - Reciprocal relationships and
-  <a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
+  "<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
 - Belonging and acceptance within the community
 
 **Practical Benefits**
@@ -72,9 +72,9 @@ operate in a post-capitalist society:
 **Alternative Economic Models**
 
 Under
-<a href="mutualist" class="wikilink" title="mutualist">mutualist</a> and
-<a href="collectivist_anarchism" class="wikilink"
-title="collectivist anarchism">collectivist anarchism</a> systems,
+"<a   href="mutualist.md" class="wikilink" title="mutualist">"mutualist</a> and
+"<a   href="collectivist_anarchism.md" class="wikilink"
+title="collectivist anarchism">"collectivist anarchism</a> systems,
 labour vouchers could provide additional incentives for difficult or
 essential work. These might include:
 
@@ -91,12 +91,12 @@ is organized:
 - **Work Rotation**: Essential tasks could be shared among community
   members rather than concentrated in specialized roles
 - **Technological Solutions**: Without
-  <a href="profit_motive" class="wikilink" title="profit motive">profit
+  "<a   href="profit_motive.md" class="wikilink" title="profit motive">"profit
   motive</a> restricting innovation to profitable ventures, automation
   and improved methods could reduce unpleasant aspects of necessary work
 - **Reduced Waste**: Elimination of
-  <a href="planned_obsolescence" class="wikilink"
-  title="planned obsolescence">planned obsolescence</a> and
+  "<a   href="planned_obsolescence.md" class="wikilink"
+  title="planned obsolescence">"planned obsolescence</a> and
   overproduction would decrease the volume of waste requiring management
 - **Preventive Design**: Infrastructure could be designed for
   maintainability and cleanliness rather than short-term profit
@@ -106,8 +106,8 @@ is organized:
 
 ### Spanish Revolution
 
-During the <a href="Spanish_Civil_War" class="wikilink"
-title="Spanish Civil War">Spanish Civil War</a> (1936-1939), plumbers'
+During the "<a   href="Spanish_Civil_War.md" class="wikilink"
+title="Spanish Civil War">"Spanish Civil War</a> (1936-1939), plumbers'
 collectives in republican areas organized work through democratic
 assemblies. Members performed tasks for various combinations of payment,
 trade, and revolutionary solidarity, working toward eventual elimination
@@ -123,10 +123,10 @@ plumbing, and public facilities through voluntary cooperation.
 
 ### Contemporary Cooperatives
 
-Modern <a href="workers&#39;_cooperatives" class="wikilink"
-title="workers&#39; cooperatives">workers' cooperatives</a> and
-<a href="intentional_communities" class="wikilink"
-title="intentional communities">intentional communities</a> demonstrate
+Modern "<a   href="workers&#39;_cooperatives.md" class="wikilink"
+title="workers&#39; cooperatives">"workers' cooperatives</a> and
+"<a   href="intentional_communities.md" class="wikilink"
+title="intentional communities">"intentional communities</a> demonstrate
 successful organization of essential tasks without traditional wage
 relationships. Many operate with equal compensation or resource sharing
 while maintaining necessary infrastructure and services.
@@ -159,7 +159,7 @@ connection address this concern more effectively than economic coercion.
 Contemporary examples of non-monetary motivation include:
 
 - Open-source software development by volunteer programmers
-- <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a>
+- "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a>
   maintenance by unpaid editors
 - Volunteer firefighting and emergency services
 - Community gardens and food distribution networks
@@ -171,35 +171,35 @@ recipients of their labor.
 
 ## See Also
 
-- <a href="Anarchist_Economics" class="wikilink"
-  title="Anarchist Economics">Anarchist Economics</a>
-- <a href="Anarcho-Communist_Economics" class="wikilink"
-  title="Anarcho-Communist Economics">Anarcho-Communist Economics</a>
-- <a href="Mutualist_Economics" class="wikilink"
-  title="Mutualist Economics">Mutualist Economics</a>
-- <a href="Human_Nature" class="wikilink" title="Human Nature">Human
+- "<a   href="Anarchist_Economics.md" class="wikilink"
+  title="Anarchist Economics">"Anarchist Economics</a>
+- "<a   href="Anarcho-Communist_Economics.md" class="wikilink"
+  title="Anarcho-Communist Economics">"Anarcho-Communist Economics</a>
+- "<a   href="Mutualist_Economics.md" class="wikilink"
+  title="Mutualist Economics">"Mutualist Economics</a>
+- "<a   href="Human_Nature.md" class="wikilink" title="Human Nature">"Human
   Nature</a>
-- <a href="Incentives" class="wikilink" title="Incentives">Incentives</a>
+- "<a   href="Incentives.md" class="wikilink" title="Incentives">"Incentives</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Work" class="wikilink"
-title="Category:Work">Category:Work</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:Work.md" class="wikilink"
+title="Category:Work">"Category:Work</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Anarchist analysis of
-    <a href="Indus_Valley_Civilization" class="wikilink"
-    title="Indus Valley">Indus Valley</a> social organization
+    "<a   href="Indus_Valley_Civilization.md" class="wikilink"
+    title="Indus Valley">"Indus Valley</a> social organization

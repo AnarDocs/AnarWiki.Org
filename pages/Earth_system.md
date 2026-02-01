@@ -51,8 +51,8 @@ that "life transforms and in many cases regulates the planet."[^5]
 
 # Examples of Self-Regulation
 
-<a href="File:Gaia_evidence.png" class="wikilink"
-title="framed">framed</a>
+"<a   href="File:Gaia_evidence.png.md" class="wikilink"
+title="framed">"framed</a>
 
 Harding's book *Animate Earth* presents the charts above as evidence of
 the Earth's ability to self-regulate. The figure on the left shows that
@@ -115,7 +115,7 @@ to make it a home. There emerged a self-regulating interaction between
 early photosynthesizers (cyanoacteria) who *cooled* the Earth by
 removing heat-trapping carbon-dioxide from the atmosphere and methanogen
 decomposers who *warmed* the Earth by converting
-<a href="bacteria" class="wikilink" title="bacteria">bacteria</a> into
+"<a   href="bacteria.md" class="wikilink" title="bacteria">"bacteria</a> into
 the greenhouse gases carbon dioxide and methane.[^10] So, the
 photosynthesizers were like the light daisies of the Daisyworld model,
 and the decomposers were like the dark daisies. Together, they kept the
@@ -126,8 +126,8 @@ planet at livable temperatures.[^11]
 Around 2.5 eons ago, photosynthesizers transformed the atmosphere from
 being methane-dominated to being oxygen-dominated. This transformation
 heralded a new geological era, the Proterozoic. This period saw the
-<a href="Evolution_of_eukaryotes" class="wikilink"
-title="evolution of eukaryotes">evolution of eukaryotes</a>, when two
+"<a   href="Evolution_of_eukaryotes.md" class="wikilink"
+title="evolution of eukaryotes">"evolution of eukaryotes</a>, when two
 cells symbiotically combined to form a more complex cell with a nucleus
 surrounded by a membrane. The new type of cell, the eukaryote, went on
 to become the building block of plants, animals, and fungi.
@@ -159,8 +159,8 @@ levels of deforestation and greenhouse gas emissions.
 # Resistance
 
 Raoul Vaneigem, formerly a theorist of the
-<a href="Situationist_International" class="wikilink"
-title="Situationist International">Situationist International</a>,
+"<a   href="Situationist_International.md" class="wikilink"
+title="Situationist International">"Situationist International</a>,
 argues that the Earth engages in resistance to the grow-or-die,
 destructive capitalist system:
 
@@ -172,9 +172,9 @@ destructive capitalist system:
 Many anti-authoritarian societies, communities, and movements have
 sought to live in harmony with and act in defense of the Earth. For
 example, see
-<a href="Earth_First!" class="wikilink" title="Earth First!">Earth
-First!</a> and <a href="Earth_Liberation_Front" class="wikilink"
-title="Earth Liberation Front">Earth Liberation Front</a>.
+"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
+First!</a> and "<a   href="Earth_Liberation_Front.md" class="wikilink"
+title="Earth Liberation Front">"Earth Liberation Front</a>.
 
 <references/>
 

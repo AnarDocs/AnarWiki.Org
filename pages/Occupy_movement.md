@@ -219,16 +219,16 @@ legion of occupiers."[^18]
 
 <references/>
 
-<a href="Category:USA" class="wikilink"
-title="Category:USA">Category:USA</a>
-<a href="Category:North_America" class="wikilink"
-title="Category:North America">Category:North America</a>
-<a href="Category:Direct_Action" class="wikilink"
-title="Category:Direct Action">Category:Direct Action</a>
-<a href="Category:Uprisings" class="wikilink"
-title="Category:Uprisings">Category:Uprisings</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:USA.md" class="wikilink"
+title="Category:USA">"Category:USA</a>
+"<a   href="Category:North_America.md" class="wikilink"
+title="Category:North America">"Category:North America</a>
+"<a   href="Category:Direct_Action.md" class="wikilink"
+title="Category:Direct Action">"Category:Direct Action</a>
+"<a   href="Category:Uprisings.md" class="wikilink"
+title="Category:Uprisings">"Category:Uprisings</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Paul Krugman, "Oligarchy, American Style," *New York Times*, 3
     November 2011,

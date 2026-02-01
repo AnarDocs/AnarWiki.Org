@@ -3,8 +3,8 @@
 <figcaption>Bandiera2.jpg</figcaption>
 </figure>
 
-The <a href="Wikipedia:Arditi_del_Popolo" class="wikilink"
-title="Arditi del Popolo">Arditi del Popolo</a> (The People's Daring
+The "<a   href="Wikipedia:Arditi_del_Popolo.md" class="wikilink"
+title="Arditi del Popolo">"Arditi del Popolo</a> (The People's Daring
 Ones) were co-founded in Rome in June 1921 by Argo Secondari, an
 Anarchist. A decentralized anti-fascist militia, they included
 Anarchists, Communists, Socialists, and republicans. Within months of
@@ -42,14 +42,14 @@ common enemy.[^6]
 
 <references/>
 
-<a href="Category:Direct_Action" class="wikilink"
-title="Category:Direct Action">Category:Direct Action</a>
-<a href="Category:Anti-Fascism" class="wikilink"
-title="Category:Anti-Fascism">Category:Anti-Fascism</a>
-<a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Social_Movements" class="wikilink"
-title="Category:Social Movements">Category:Social Movements</a>
+"<a   href="Category:Direct_Action.md" class="wikilink"
+title="Category:Direct Action">"Category:Direct Action</a>
+"<a   href="Category:Anti-Fascism.md" class="wikilink"
+title="Category:Anti-Fascism">"Category:Anti-Fascism</a>
+"<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:Social_Movements.md" class="wikilink"
+title="Category:Social Movements">"Category:Social Movements</a>
 
 [^1]: Mark Bray, *Antifa: The Anti-Fascist Handbook* (Brooklyn: Melville
     House, 2017), 13.

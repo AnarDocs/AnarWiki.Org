@@ -1,10 +1,10 @@
 The **Whyalla Glove Factory Work-In** was an episode of
-<a href="Workers&#39;_Self-Management" class="wikilink"
-title="workers&#39; control">workers' control</a> in Whyalla,
-<a href="Commonwealth_of_Australia" class="wikilink"
-title="South Australia">South Australia</a> from
-<a href="Timeline_of_Anarchism_in_Oceania" class="wikilink"
-title="1972 to 1973">1972 to 1973</a>.
+"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
+title="workers&#39; control">"workers' control</a> in Whyalla,
+"<a   href="Commonwealth_of_Australia.md" class="wikilink"
+title="South Australia">"South Australia</a> from
+"<a   href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
+title="1972 to 1973">"1972 to 1973</a>.
 
 ## Background
 
@@ -178,50 +178,50 @@ company.”<sup>63</sup>
 
 ## See Also
 
-- <a href="Work-In" class="wikilink" title="Work-In">Work-In</a>
-- <a href="Harco_Work-In" class="wikilink" title="Harco Work-In">Harco
+- "<a   href="Work-In.md" class="wikilink" title="Work-In">"Work-In</a>
+- "<a   href="Harco_Work-In.md" class="wikilink" title="Harco Work-In">"Harco
   Work-In</a>
-- <a href="Clutha_Development_Mine_Work-In" class="wikilink"
-  title="Clutha Development Mine Work-In">Clutha Development Mine
+- "<a   href="Clutha_Development_Mine_Work-In.md" class="wikilink"
+  title="Clutha Development Mine Work-In">"Clutha Development Mine
   Work-In</a>
-- <a href="Sydney_Opera_House_Work-In" class="wikilink"
-  title="Sydney Opera House Work-In">Sydney Opera House Work-In</a>
-- <a href="Wyong_Plaza_Work-In" class="wikilink"
-  title="Wyong Plaza Work-In">Wyong Plaza Work-In</a>
-- <a href="Nymboida_Mine_Work-In" class="wikilink"
-  title="Nymboida Mine Work-In">Nymboida Mine Work-In</a>
-- <a href="Coal_Cliff_Work-In" class="wikilink"
-  title="Coal Cliff Work-In">Coal Cliff Work-In</a>
-- <a href="Sanyo_Television_Factory_Work-In" class="wikilink"
-  title="Sanyo Television Factory Work-In">Sanyo Television Factory
+- "<a   href="Sydney_Opera_House_Work-In.md" class="wikilink"
+  title="Sydney Opera House Work-In">"Sydney Opera House Work-In</a>
+- "<a   href="Wyong_Plaza_Work-In.md" class="wikilink"
+  title="Wyong Plaza Work-In">"Wyong Plaza Work-In</a>
+- "<a   href="Nymboida_Mine_Work-In.md" class="wikilink"
+  title="Nymboida Mine Work-In">"Nymboida Mine Work-In</a>
+- "<a   href="Coal_Cliff_Work-In.md" class="wikilink"
+  title="Coal Cliff Work-In">"Coal Cliff Work-In</a>
+- "<a   href="Sanyo_Television_Factory_Work-In.md" class="wikilink"
+  title="Sanyo Television Factory Work-In">"Sanyo Television Factory
   Work-In</a>
-- <a href="Union_Carbide_Work-In" class="wikilink"
-  title="Union Carbide Work-In">Union Carbide Work-In</a>
-- <a href="Department_of_Social_Security_Work-In" class="wikilink"
-  title="Department of Social Security Work-In">Department of Social
+- "<a   href="Union_Carbide_Work-In.md" class="wikilink"
+  title="Union Carbide Work-In">"Union Carbide Work-In</a>
+- "<a   href="Department_of_Social_Security_Work-In.md" class="wikilink"
+  title="Department of Social Security Work-In">"Department of Social
   Security Work-In</a>
 
 ## References
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Strikes" class="wikilink"
-title="Category:Strikes">Category:Strikes</a>
-<a href="Category:Work-Ins" class="wikilink"
-title="Category:Work-Ins">Category:Work-Ins</a>
-<a href="Category:Workers&#39;_Self-Management" class="wikilink"
-title="Category:Workers&#39; Self-Management">Category:Workers'
-Self-Management</a> <a href="Category:Australia" class="wikilink"
-title="Category:Australia">Category:Australia</a>
-<a href="Category:1970s" class="wikilink"
-title="Category:1970s">Category:1970s</a>
-<a href="Category:Oceania" class="wikilink"
-title="Category:Oceania">Category:Oceania</a>
-<a href="Category:1972" class="wikilink"
-title="Category:1972">Category:1972</a>
-<a href="Category:1973" class="wikilink"
-title="Category:1973">Category:1973</a>
-<a href="Category:20th_Century" class="wikilink"
-title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Worker_Cooperatives" class="wikilink"
-title="Category:Worker Cooperatives">Category:Worker Cooperatives</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Strikes.md" class="wikilink"
+title="Category:Strikes">"Category:Strikes</a>
+"<a   href="Category:Work-Ins.md" class="wikilink"
+title="Category:Work-Ins">"Category:Work-Ins</a>
+"<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+title="Category:Workers&#39; Self-Management">"Category:Workers'
+Self-Management</a> "<a   href="Category:Australia.md" class="wikilink"
+title="Category:Australia">"Category:Australia</a>
+"<a   href="Category:1970s.md" class="wikilink"
+title="Category:1970s">"Category:1970s</a>
+"<a   href="Category:Oceania.md" class="wikilink"
+title="Category:Oceania">"Category:Oceania</a>
+"<a   href="Category:1972.md" class="wikilink"
+title="Category:1972">"Category:1972</a>
+"<a   href="Category:1973.md" class="wikilink"
+title="Category:1973">"Category:1973</a>
+"<a   href="Category:20th_Century.md" class="wikilink"
+title="Category:20th Century">"Category:20th Century</a>
+"<a   href="Category:Worker_Cooperatives.md" class="wikilink"
+title="Category:Worker Cooperatives">"Category:Worker Cooperatives</a>

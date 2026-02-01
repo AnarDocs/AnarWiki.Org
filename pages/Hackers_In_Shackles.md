@@ -1,5 +1,5 @@
 **Adapted from a presentation given by
-<a href="User:Diggity" class="wikilink" title="Diggity">Diggity</a>**
+"<a   href="User:Diggity.md" class="wikilink" title="Diggity">"Diggity</a>**
 
 # “Hackers in Shackles”? WTF?
 
@@ -28,8 +28,8 @@ Food for thought:
 
 # What We Want From Software
 
-<a href="hot_dog_cart_photo" class="wikilink"
-title="hot dog cart photo">hot dog cart photo</a>
+"<a   href="hot_dog_cart_photo.md" class="wikilink"
+title="hot dog cart photo">"hot dog cart photo</a>
 
 # Free/Open-Source Software (FOSS)
 

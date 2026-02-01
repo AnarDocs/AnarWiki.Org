@@ -1,6 +1,6 @@
 **Anarchy Works** is a book by
-<a href="Peter_Gelderloos" class="wikilink"
-title="Peter Gelderloos">Peter Gelderloos</a> that explains how an
+"<a   href="Peter_Gelderloos.md" class="wikilink"
+title="Peter Gelderloos">"Peter Gelderloos</a> that explains how an
 anarchist society would work and answers common objections. It was
 published in 2010.
 
@@ -59,9 +59,9 @@ the state.
 You can read the full book here:
 <https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works>
 
-<a href="Category:Anarchist_books" class="wikilink"
-title="Category:Anarchist books">Category:Anarchist books</a>
-<a href="Category:Books" class="wikilink"
-title="Category:Books">Category:Books</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_books.md" class="wikilink"
+title="Category:Anarchist books">"Category:Anarchist books</a>
+"<a   href="Category:Books.md" class="wikilink"
+title="Category:Books">"Category:Books</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>

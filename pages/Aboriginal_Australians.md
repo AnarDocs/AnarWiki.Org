@@ -111,7 +111,7 @@ From Harold Barclay, People Without Government [^1]:
 
 <references/>
 
-[^1]: <a href="People_Without_Government:_An_Anthropology_of_Anarchy"
+[^1]: "<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
     class="wikilink"
-    title="People Without Government: An Anthropology of Anarchy">People
+    title="People Without Government: An Anthropology of Anarchy">"People
     Without Government: An Anthropology of Anarchy</a>

@@ -1,5 +1,5 @@
-From Colin Ward, <a href="Anarchy_in_Action" class="wikilink"
-title="Anarchy in Action">Anarchy in Action</a>:
+From Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
+title="Anarchy in Action">"Anarchy in Action</a>:
 
 > One essentially anarchist revolution that has advanced enormously in
 > our own day is the sexual revolution. It is anarchist precisely

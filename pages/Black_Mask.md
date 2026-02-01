@@ -8,8 +8,8 @@ Ben Morea and Ron Hahne in New York City in 1966. Later called Up
 Against the Wall, Motherfuckers, the group's militant and theatrical
 actions included the pioneering use of the black bloc, fighting their
 way into the Pentagon, and cutting the fence at
-<a href="Woodstock_Festival" class="wikilink"
-title="Woodstock Festival">Woodstock Festival</a>. The group's member
+"<a   href="Woodstock_Festival.md" class="wikilink"
+title="Woodstock Festival">"Woodstock Festival</a>. The group's member
 Osha Newmann described their asthetic as "flower power with thorns."[^1]
 
 Black Mask's many influences included the New York jazz scene, the
@@ -53,8 +53,8 @@ middle-class nightmare … an anti-media media phenomenon simply because
 their name could not be printed."[^6]
 
 In 1969, UAW/MF cut the fences at the
-<a href="Woodstock_Festival" class="wikilink"
-title="Woodstock Festival">Woodstock Festival</a>, letting people in for
+"<a   href="Woodstock_Festival.md" class="wikilink"
+title="Woodstock Festival">"Woodstock Festival</a>, letting people in for
 free.[^7]
 
 Many UAW/MF members left New York in 1971 to escape what Cornell

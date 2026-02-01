@@ -99,10 +99,10 @@ fork.
 
 <references/>
 
-<a href="Category:Venezuela" class="wikilink"
-title="Category:Venezuela">Category:Venezuela</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
+"<a   href="Category:Venezuela.md" class="wikilink"
+title="Category:Venezuela">"Category:Venezuela</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
 Communities</a>
 
 [^1]: George Ciccariello-Maher, *Building the Commune: Radical Democracy

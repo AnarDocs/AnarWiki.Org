@@ -3,8 +3,8 @@
 ## Overview
 
 The co-optation of anarchist terminology by
-<a href="Propertarianism" class="wikilink"
-title="right-libertarian">right-libertarian</a> capitalists represents a
+"<a   href="Propertarianism.md" class="wikilink"
+title="right-libertarian">"right-libertarian</a> capitalists represents a
 deliberate appropriation of anarchist language and symbolism by
 proponents of free-market capitalism and private property. Beginning in
 the mid-20th century, certain right-libertarian theorists began
@@ -237,7 +237,7 @@ have adopted anarchist language while defending capitalism:
   identifies as anarchist while defending private property and
   free-market capitalism
 - **Samuel Edward Konkin III** - Founder of
-  <a href="Agorism" class="wikilink" title="Agorism">Agorism</a>, a
+  "<a   href="Agorism.md" class="wikilink" title="Agorism">"Agorism</a>, a
   market-based theory emphasizing counter-economics and black markets as
   means to dissolve the state
 - **Michael Malice** - Contemporary commentator and author who describes
@@ -250,32 +250,32 @@ property relations and accepting or embracing economic hierarchy.
 
 ## See Also
 
-- <a href="Anarcho-Capitalism" class="wikilink"
-  title="Anarcho-Capitalism">Anarcho-Capitalism</a>
-- <a href="Libertarianism" class="wikilink"
-  title="Libertarianism">Libertarianism</a>
-- <a href="Classical_Anarchism" class="wikilink"
-  title="Classical Anarchism">Classical Anarchism</a>
-- <a href="Anarchist_Economics" class="wikilink"
-  title="Anarchist Economics">Anarchist Economics</a>
-- <a href="Private_Property" class="wikilink"
-  title="Private Property">Private Property</a>
-- <a href="Wage_Labor" class="wikilink" title="Wage Labor">Wage Labor</a>
+- "<a   href="Anarcho-Capitalism.md" class="wikilink"
+  title="Anarcho-Capitalism">"Anarcho-Capitalism</a>
+- "<a   href="Libertarianism.md" class="wikilink"
+  title="Libertarianism">"Libertarianism</a>
+- "<a   href="Classical_Anarchism.md" class="wikilink"
+  title="Classical Anarchism">"Classical Anarchism</a>
+- "<a   href="Anarchist_Economics.md" class="wikilink"
+  title="Anarchist Economics">"Anarchist Economics</a>
+- "<a   href="Private_Property.md" class="wikilink"
+  title="Private Property">"Private Property</a>
+- "<a   href="Wage_Labor.md" class="wikilink" title="Wage Labor">"Wage Labor</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Political_Ideologies" class="wikilink"
-title="Category:Political Ideologies">Category:Political Ideologies</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Capitalism" class="wikilink"
-title="Category:Capitalism">Category:Capitalism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Political_Ideologies.md" class="wikilink"
+title="Category:Political Ideologies">"Category:Political Ideologies</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Capitalism.md" class="wikilink"
+title="Category:Capitalism">"Category:Capitalism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Marshall, Peter. *Demanding the Impossible: A History of
     Anarchism*. London: Fontana Press, 1993.

@@ -1,7 +1,7 @@
 **Zionist Terrorism**refer to acts of
-<a href="terrorism" class="wikilink" title="terrorism">terrorism</a>
+"<a   href="terrorism.md" class="wikilink" title="terrorism">"terrorism</a>
 committed in the name of
-<a href="Zionism" class="wikilink" title="Zionism">Zionism</a>.
+"<a   href="Zionism.md" class="wikilink" title="Zionism">"Zionism</a>.
 
 ## List of Attacks
 
@@ -20,17 +20,17 @@ committed in the name of
 
 ## References
 
-<a href="Category:Religions" class="wikilink"
-title="Category:Religions">Category:Religions</a>
-<a href="Category:Judaism" class="wikilink"
-title="Category:Judaism">Category:Judaism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Religions.md" class="wikilink"
+title="Category:Religions">"Category:Religions</a>
+"<a   href="Category:Judaism.md" class="wikilink"
+title="Category:Judaism">"Category:Judaism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
-[^1]: <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
     [Cave of the Patriarchs
     massacre](https://en.wikipedia.org/wiki/Cave_of_the_Patriarchs_massacre)
 
-[^2]: <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^2]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
     [Assassination of Yitzhak
     Rabin](https://en.wikipedia.org/wiki/Assassination_of_Yitzhak_Rabin)

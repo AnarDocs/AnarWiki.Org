@@ -5,7 +5,7 @@ title="Red_cloud_and_other_souix.jpg" />
 </figure>
 
 From Peter Gelderloos,
-<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
 Works</a>:
 
 > Even more impressive than the example provided by the Makhnovists is

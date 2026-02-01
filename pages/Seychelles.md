@@ -1,22 +1,22 @@
 The **Republic of Seychelles** is a
-<a href="Capitalism" class="wikilink" title="capitalist">capitalist</a>
-<a href="List_of_States" class="wikilink" title="state">state</a>
+"<a   href="Capitalism.md" class="wikilink" title="capitalist">"capitalist</a>
+"<a   href="List_of_States.md" class="wikilink" title="state">"state</a>
 located in the Indian Ocean (although technically a part of Eastern
 Africa) near
-<a href="Somalia" class="wikilink" title="Somalia">Somalia</a>,
-<a href="Madagascar" class="wikilink" title="Madagascar">Madagascar</a>,
-<a href="Comoros" class="wikilink" title="Comoros">Comoros</a>,
-<a href="Mauritius" class="wikilink" title="Mauritius">Mauritius</a> and
-<a href="Diego_Garcia" class="wikilink" title="Diego Garcia">Diego
+"<a   href="Somalia.md" class="wikilink" title="Somalia">"Somalia</a>,
+"<a   href="Madagascar.md" class="wikilink" title="Madagascar">"Madagascar</a>,
+"<a   href="Comoros.md" class="wikilink" title="Comoros">"Comoros</a>,
+"<a   href="Mauritius.md" class="wikilink" title="Mauritius">"Mauritius</a> and
+"<a   href="Diego_Garcia.md" class="wikilink" title="Diego Garcia">"Diego
 Garcia</a>.
 
 ## History
 
 From 1977 to 2004, the Seychelles practiced
-<a href="African_Socialism" class="wikilink"
-title="African Socialism">African Socialism</a> led
-by <a href="France-Albert_Rene" class="wikilink"
-title="France-Albert René">France-Albert René</a> following a bloodless
+"<a   href="African_Socialism.md" class="wikilink"
+title="African Socialism">"African Socialism</a> led
+by "<a   href="France-Albert_Rene.md" class="wikilink"
+title="France-Albert René">"France-Albert René</a> following a bloodless
 coup by René's supporters in 1977. This was one of the more successful
 efforts at African Socialism, with the country soon scoring the
 highest HDI in Africa and having some of the best levels of literacy,
@@ -27,13 +27,13 @@ assassinations and torture of dissidents, but in 2004 René stepped down
 peacefully and a representative democracy developed. Since then
 inequality and poverty have increased on the islands.
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:States" class="wikilink"
-title="Category:States">Category:States</a>
-<a href="Category:Africa" class="wikilink"
-title="Category:Africa">Category:Africa</a>
-<a href="Category:Eastern_Africa" class="wikilink"
-title="Category:Eastern Africa">Category:Eastern Africa</a>
-<a href="Category:Seychelles" class="wikilink"
-title="Category:Seychelles">Category:Seychelles</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:States.md" class="wikilink"
+title="Category:States">"Category:States</a>
+"<a   href="Category:Africa.md" class="wikilink"
+title="Category:Africa">"Category:Africa</a>
+"<a   href="Category:Eastern_Africa.md" class="wikilink"
+title="Category:Eastern Africa">"Category:Eastern Africa</a>
+"<a   href="Category:Seychelles.md" class="wikilink"
+title="Category:Seychelles">"Category:Seychelles</a>

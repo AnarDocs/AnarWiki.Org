@@ -5,19 +5,19 @@ title="Noam_Chomsky_portrait_2017_retouched.jpg" />
 </figure>
 
 **Avram Noam Chomsky** (born December 7, 1928) is an American linguist,
-<a href="Science" class="wikilink" title="cognitive scientist">cognitive
+"<a   href="Science.md" class="wikilink" title="cognitive scientist">"cognitive
 scientist</a>, historian, philosopher and
-<a href="Anarcho-Syndicalism" class="wikilink"
-title="anarcho-syndicalist">anarcho-syndicalist</a> activist who has
-focused on criticism of <a href="US_Foreign_Policy" class="wikilink"
-title="US foreign policy">US foreign policy</a>, the
-<a href="Mass_Media" class="wikilink" title="mass media">mass media</a>
-and <a href="corporations" class="wikilink"
-title="corporations">corporations</a>. Often described as the "father of
+"<a   href="Anarcho-Syndicalism.md" class="wikilink"
+title="anarcho-syndicalist">"anarcho-syndicalist</a> activist who has
+focused on criticism of "<a   href="US_Foreign_Policy.md" class="wikilink"
+title="US foreign policy">"US foreign policy</a>, the
+"<a   href="Mass_Media.md" class="wikilink" title="mass media">"mass media</a>
+and "<a   href="corporations.md" class="wikilink"
+title="corporations">"corporations</a>. Often described as the "father of
 modern linguistics," Chomsky has pioneered revolutionary theories in
 linguistics while simultaneously developing a radical critique of power
 structures that has made him one of the world's most prominent
-<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
 voices.
 
 ## Life
@@ -27,8 +27,8 @@ voices.
 Noam's parents were immigrants to the USA from Eastern Europe. His
 mother, Elsie Simonofsky, came from Belarus in 1906, while his father,
 William Chomsky, left Ukraine for the USA in 1913 and became an
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="IWW">IWW</a> member at some point.[^1] William placed great
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="IWW">"IWW</a> member at some point.[^1] William placed great
 emphasis on educating people to be "well integrated, free and
 independent in their thinking, concerned about improving and enhancing
 the world, and eager to participate in making life more meaningful and
@@ -120,7 +120,7 @@ reaction to what he termed a 30-year class war.[^19]
 src="Ecology,_Ethics,_Anarchism_-_In_Conversation_with_Noam_Chomsky_-_March_28,_2014.webm"
 title="Ecology,_Ethics,_Anarchism_-_In_Conversation_with_Noam_Chomsky_-_March_28,_2014.webm"
 controls=""><a
-href="Ecology,_Ethics,_Anarchism_-_In_Conversation_with_Noam_Chomsky_-_March_28,_2014.webm">Video</a></video>
+href="Ecology,_Ethics,_Anarchism_-_In_Conversation_with_Noam_Chomsky_-_March_28,_2014.webm.md">Video</a></video>
 <figcaption>Ecology,_Ethics,_Anarchism_-_In_Conversation_with_Noam_Chomsky_-_March_28,_2014.webm</figcaption>
 </figure>
 
@@ -283,32 +283,32 @@ within an anarchist framework that rejects the legitimacy of all states.
 
 <references/>
 
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:American_anarchists" class="wikilink"
-title="Category:American anarchists">Category:American anarchists</a>
-<a href="Category:Anarcho-Syndicalism" class="wikilink"
-title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
-<a href="Category:Anarcho-Syndicalists" class="wikilink"
-title="Category:Anarcho-Syndicalists">Category:Anarcho-Syndicalists</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Anarchists" class="wikilink"
-title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:USA" class="wikilink"
-title="Category:USA">Category:USA</a>
-<a href="Category:North_America" class="wikilink"
-title="Category:North America">Category:North America</a>
-<a href="Category:Philosophers" class="wikilink"
-title="Category:Philosophers">Category:Philosophers</a>
-<a href="Category:Wikipedia" class="wikilink"
-title="Category:Wikipedia">Category:Wikipedia</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:American_anarchists.md" class="wikilink"
+title="Category:American anarchists">"Category:American anarchists</a>
+"<a   href="Category:Anarcho-Syndicalism.md" class="wikilink"
+title="Category:Anarcho-Syndicalism">"Category:Anarcho-Syndicalism</a>
+"<a   href="Category:Anarcho-Syndicalists.md" class="wikilink"
+title="Category:Anarcho-Syndicalists">"Category:Anarcho-Syndicalists</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:Anarchists.md" class="wikilink"
+title="Category:Anarchists">"Category:Anarchists</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:USA.md" class="wikilink"
+title="Category:USA">"Category:USA</a>
+"<a   href="Category:North_America.md" class="wikilink"
+title="Category:North America">"Category:North America</a>
+"<a   href="Category:Philosophers.md" class="wikilink"
+title="Category:Philosophers">"Category:Philosophers</a>
+"<a   href="Category:Wikipedia.md" class="wikilink"
+title="Category:Wikipedia">"Category:Wikipedia</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
-[^1]: <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
     <https://en.wikipedia.org/wiki/William_Chomsky>
 
 [^2]: Barsky, Robert F. (1997). Noam Chomsky: A Life of Dissent.

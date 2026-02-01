@@ -1,10 +1,10 @@
 The **Xiamen Anti-Factory Campaign of 2007** was a grassroots
-<a href="Timeline_of_Environmentalism" class="wikilink"
-title="environmental campaign">environmental campaign</a> to stop the
+"<a   href="Timeline_of_Environmentalism.md" class="wikilink"
+title="environmental campaign">"environmental campaign</a> to stop the
 construction of a chemical factory Xiamen, Fujian,
-<a href="China" class="wikilink" title="China">China</a> in
-<a href="Timeline_of_Anarchism_in_Eastern_Asia" class="wikilink"
-title="2007">2007</a>.
+"<a   href="China.md" class="wikilink" title="China">"China</a> in
+"<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
+title="2007">"2007</a>.
 
 It was announced in November 2006 that a chemical plant producing
 paraxylene (PX) and teraphalic acid would be built in the Haicang
@@ -99,19 +99,19 @@ voted for the plant to be moved from Xiamen.
 
 In 2008 the plant was moved inland.
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:2007" class="wikilink"
-title="Category:2007">Category:2007</a>
-<a href="Category:2000s" class="wikilink"
-title="Category:2000s">Category:2000s</a>
-<a href="Category:21st_Century" class="wikilink"
-title="Category:21st Century">Category:21st Century</a>
-<a href="Category:China" class="wikilink"
-title="Category:China">Category:China</a>
-<a href="Category:Asia" class="wikilink"
-title="Category:Asia">Category:Asia</a>
-<a href="Category:Eastern_Asia" class="wikilink"
-title="Category:Eastern Asia">Category:Eastern Asia</a>
-<a href="Category:Environmentalism" class="wikilink"
-title="Category:Environmentalism">Category:Environmentalism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:2007.md" class="wikilink"
+title="Category:2007">"Category:2007</a>
+"<a   href="Category:2000s.md" class="wikilink"
+title="Category:2000s">"Category:2000s</a>
+"<a   href="Category:21st_Century.md" class="wikilink"
+title="Category:21st Century">"Category:21st Century</a>
+"<a   href="Category:China.md" class="wikilink"
+title="Category:China">"Category:China</a>
+"<a   href="Category:Asia.md" class="wikilink"
+title="Category:Asia">"Category:Asia</a>
+"<a   href="Category:Eastern_Asia.md" class="wikilink"
+title="Category:Eastern Asia">"Category:Eastern Asia</a>
+"<a   href="Category:Environmentalism.md" class="wikilink"
+title="Category:Environmentalism">"Category:Environmentalism</a>

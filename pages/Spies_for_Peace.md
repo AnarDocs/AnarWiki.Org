@@ -1,5 +1,5 @@
-From Colin Ward, <a href="Anarchy_in_Action" class="wikilink"
-title="Anarchy in Action">Anarchy in Action</a>:
+From Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
+title="Anarchy in Action">"Anarchy in Action</a>:
 
 > Those readers who remember the days of CND and the Committee of 100
 > may recall the episode of the Spies for Peace. A group of people

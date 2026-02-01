@@ -21,9 +21,9 @@ Harold Barclay, in the section below, also speaks of gender inequality
 among the Tonga.
 
 From Harold Barclay,
-<a href="People_Without_Government:_An_Anthropology_of_Anarchy"
+"<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
 class="wikilink"
-title="People Without Government: An Anthropology of Anarchy">People
+title="People Without Government: An Anthropology of Anarchy">"People
 Without Government: An Anthropology of Anarchy</a>:
 
 > ## The Plateau Tonga
@@ -176,10 +176,10 @@ Without Government: An Anthropology of Anarchy</a>:
 > 'pristine' matrilineal type in practising virilocal residence[^2] and
 > in ascribing no little influence to the father's kin group.
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Matriarchy" class="wikilink"
-title="Category:Matriarchy">Category:Matriarchy</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Matriarchy.md" class="wikilink"
+title="Category:Matriarchy">"Category:Matriarchy</a>
 
 [^1]: Tim Matthews, "Notes on the Precolonial History of the Tonga, with
     Emphasis on the Upper River Gwembe and Victoria Falls Areas" in Chet

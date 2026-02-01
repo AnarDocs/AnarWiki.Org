@@ -126,7 +126,7 @@ the families living with her. Sixteen people died in total.[^23]
 [^4]: Winship, *The Times & Trials*, 4.
 
 [^5]: Peter Gelderloos,
-    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
     Works</a>.
 
 [^6]: Rothbard, *Conceived in Liberty*, 181. Ann M. Little, *The Many
@@ -145,7 +145,7 @@ the families living with her. Sixteen people died in total.[^23]
 [^11]: Rothbard, *Conceived in Liberty*, 183.
 
 [^12]: Gelderloos,
-    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
     Works</a>.
 
 [^13]: Rothbard, *Conceived in Liberty*, 177.

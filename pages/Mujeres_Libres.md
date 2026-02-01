@@ -1,26 +1,26 @@
 **Mujeres Libres** (English: *Free Women*) was an
-<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
 women's organisation that existed in
-<a href="Spain" class="wikilink" title="Spain">Spain</a> from 1936 to
-1939. Founded by <a href="Lucía_Sánchez_Saornil" class="wikilink"
-title="Lucía Sánchez Saornil">Lucía Sánchez Saornil</a>,
-<a href="Mercedes_Comaposada" class="wikilink"
-title="Mercedes Comaposada">Mercedes Comaposada</a>, and
-<a href="Amparo_Poch_y_Gascón" class="wikilink"
-title="Amparo Poch y Gascón">Amparo Poch y Gascón</a> as a small women's
+"<a   href="Spain.md" class="wikilink" title="Spain">"Spain</a> from 1936 to
+1939. Founded by "<a   href="Lucía_Sánchez_Saornil.md" class="wikilink"
+title="Lucía Sánchez Saornil">"Lucía Sánchez Saornil</a>,
+"<a   href="Mercedes_Comaposada.md" class="wikilink"
+title="Mercedes Comaposada">"Mercedes Comaposada</a>, and
+"<a   href="Amparo_Poch_y_Gascón.md" class="wikilink"
+title="Amparo Poch y Gascón">"Amparo Poch y Gascón</a> as a small women's
 group in Madrid, it rapidly grew to a national federation of 30,000
 members at its height in the summer of 1938.[^1]
 
 The organisation emerged from the
-<a href="Anarchism_in_Spain" class="wikilink"
-title="Spanish anarcho-syndicalist movement">Spanish anarcho-syndicalist
+"<a   href="Anarchism_in_Spain.md" class="wikilink"
+title="Spanish anarcho-syndicalist movement">"Spanish anarcho-syndicalist
 movement</a>, composed of three main organisations: the
-<a href="Confederación_Nacional_del_Trabajo" class="wikilink"
-title="CNT">CNT</a> union, the
-<a href="Federación_Anarquista_Ibérica" class="wikilink"
-title="FAI">FAI</a> federation, and the
-<a href="Federación_Ibérica_de_Juventudes_Libertarias" class="wikilink"
-title="FIJL">FIJL</a> youth wing. Many women who participated in these
+"<a   href="Confederación_Nacional_del_Trabajo.md" class="wikilink"
+title="CNT">"CNT</a> union, the
+"<a   href="Federación_Anarquista_Ibérica.md" class="wikilink"
+title="FAI">"FAI</a> federation, and the
+"<a   href="Federación_Ibérica_de_Juventudes_Libertarias.md" class="wikilink"
+title="FIJL">"FIJL</a> youth wing. Many women who participated in these
 groups felt that their issues were being ignored by the predominantly
 male anarchists. As a result, the autonomous Mujeres Libres groups were
 created, pursuing both women's liberation and the anarchist social
@@ -30,11 +30,11 @@ important and inseparable.[^2]
 While Mujeres Libres sought recognition as the fourth main organisation
 within the anarchist movement, they never formally achieved equal status
 to the other branches. Founded in the
-<a href="Second_Spanish_Republic" class="wikilink"
-title="Second Spanish Republic">Second Spanish Republic</a>, the group
+"<a   href="Second_Spanish_Republic.md" class="wikilink"
+title="Second Spanish Republic">"Second Spanish Republic</a>, the group
 followed the anarchists in supporting the Republican faction when the
-<a href="Spanish_Civil_War" class="wikilink"
-title="Spanish Civil War">Spanish Civil War</a> began. Upon victory by
+"<a   href="Spanish_Civil_War.md" class="wikilink"
+title="Spanish Civil War">"Spanish Civil War</a> began. Upon victory by
 the opposing Nationalist forces in 1939, Mujeres Libres collapsed, and
 the anarchist movement as a whole was outlawed.
 
@@ -68,15 +68,15 @@ anarchist trade unions made little effort to organise women, perceiving
 them as potential strike-breakers.[^7]
 
 One reason that sexist beliefs remained so prominent was that
-<a href="Pierre-Joseph_Proudhon" class="wikilink"
-title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>, often
+"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a>, often
 referred to as 'the father of anarchism', had openly believed that women
 were inferior, and advocated in his writings that women should remain in
 domestic roles even following the anarchist revolution. Even for the
 most egalitarian-minded men, it has been commented that "the anarchist
 utopia stopped at the front door".[^8] Women attending
-<a href="Federación_Ibérica_de_Juventudes_Libertarias" class="wikilink"
-title="FIJL">FIJL</a> youth groups reported witnessing sexism, with
+"<a   href="Federación_Ibérica_de_Juventudes_Libertarias.md" class="wikilink"
+title="FIJL">"FIJL</a> youth groups reported witnessing sexism, with
 young men making fun of female speakers and questioning whether women
 could accomplish anything through separate organisation.[^9]
 
@@ -112,8 +112,8 @@ members in the summer of 1938.[^14]
 From September to November 1935, Lucía Sánchez Saornil and CNT National
 Secretary Mariano Rodríguez Vázquez corresponded publicly through the
 pages of the anarchist newspaper
-*<a href="Solidaridad_Obrera" class="wikilink"
-title="Solidaridad Obrera">Solidaridad Obrera</a>* regarding the
+*"<a   href="Solidaridad_Obrera.md" class="wikilink"
+title="Solidaridad Obrera">"Solidaridad Obrera</a>* regarding the
 position of women within the anarchist movement. Sánchez Saornil was
 sharply critical of the way in which anarchist women were encouraged
 into the movement, arguing that "The vast majority of male comrades...
@@ -141,8 +141,8 @@ was distributed and advertised via existing anarchist networks.
 
 ### During the Spanish Revolution
 
-When the <a href="Spanish_Civil_War" class="wikilink"
-title="Spanish Civil War">Spanish Civil War</a> began in July 1936,
+When the "<a   href="Spanish_Civil_War.md" class="wikilink"
+title="Spanish Civil War">"Spanish Civil War</a> began in July 1936,
 women played a full part in the revolutionary response to the military
 uprising. Women were present everywhere - on committees, in the
 militias, and in the front lines. In the early battles of the civil war,
@@ -180,8 +180,8 @@ call."[^21]
 
 Mujeres Libres often collaborated with the anarchist humanitarian
 organisation
-<a href="Solidaridad_Internacional_Antifascista" class="wikilink"
-title="Solidaridad Internacional Antifascista">Solidaridad Internacional
+"<a   href="Solidaridad_Internacional_Antifascista.md" class="wikilink"
+title="Solidaridad Internacional Antifascista">"Solidaridad Internacional
 Antifascista</a>, of which Lucía Sánchez Saornil was general secretary.
 They provided assistance to refugees and wounded soldiers during the
 Civil War.[^22]
@@ -201,8 +201,8 @@ and extension of control, the informal leadership of the CNT-FAI decided
 to enter the government. With more or less heart-searching and
 rationalisation, they participated in the legalising, take-over and
 eventual suppression of the revolutionary gains.[^24]
-<a href="Federica_Montseny" class="wikilink"
-title="Federica Montseny">Federica Montseny</a>, after some hesitation,
+"<a   href="Federica_Montseny.md" class="wikilink"
+title="Federica Montseny">"Federica Montseny</a>, after some hesitation,
 accepted the appointment of Minister of Health.
 
 The situation deteriorated further with the Barcelona May Days of 1937,
@@ -283,7 +283,7 @@ lying-in hospital which provided birth and post-natal care for mothers,
 and offered education for all women regarding child and maternal health,
 sexuality, and eugenics. This was bolstered by their February 1938
 founding of the
-<a href="Louise_Michel" class="wikilink" title="Louise Michel">Louise
+"<a   href="Louise_Michel.md" class="wikilink" title="Louise Michel">"Louise
 Michel</a> Institute of Maternal and Child Care, offering extensive
 medical services and counselling for mothers and children.[^35]
 
@@ -460,14 +460,14 @@ belief that women's activism should only take place alongside anarchist
 organising. During the Civil War, within the Republic, ideological
 tensions between various factions were extremely prominent. The
 Communist Party had set up women's organisations, particularly the
-PCE-led <a href="Asociación_de_Mujeres_Antifascistas" class="wikilink"
-title="Association of Antifascist Women">Association of Antifascist
+PCE-led "<a   href="Asociación_de_Mujeres_Antifascistas.md" class="wikilink"
+title="Association of Antifascist Women">"Association of Antifascist
 Women</a> (AMA).[^53]
 
 In the name of anti-fascist unity, the AMA called for the unification of
 women's groups into one organisation dedicated to mobilising women for
-the war effort. <a href="Dolores_Ibárruri" class="wikilink"
-title="Dolores Ibárruri">Dolores Ibárruri</a>, a prominent female
+the war effort. "<a   href="Dolores_Ibárruri.md" class="wikilink"
+title="Dolores Ibárruri">"Dolores Ibárruri</a>, a prominent female
 Communist figure and leader of the AMA, contested that women should be
 organised and encouraged into the workforce, but focused on the war
 effort rather than women's emancipation.[^54]
@@ -556,27 +556,27 @@ Aranda, is centred on members of Mujeres Libres.
 
 <references/>
 
-<a href="Category:Anarchist_Organisations" class="wikilink"
-title="Category:Anarchist Organisations">Category:Anarchist
-Organisations</a> <a href="Category:Anarcha-feminism" class="wikilink"
-title="Category:Anarcha-feminism">Category:Anarcha-feminism</a>
-<a href="Category:Spain" class="wikilink"
-title="Category:Spain">Category:Spain</a>
-<a href="Category:Spanish_Civil_War" class="wikilink"
-title="Category:Spanish Civil War">Category:Spanish Civil War</a>
-<a href="Category:Spanish_Revolution" class="wikilink"
-title="Category:Spanish Revolution">Category:Spanish Revolution</a>
-<a href="Category:Women&#39;s_Organisations" class="wikilink"
-title="Category:Women&#39;s Organisations">Category:Women's
+"<a   href="Category:Anarchist_Organisations.md" class="wikilink"
+title="Category:Anarchist Organisations">"Category:Anarchist
+Organisations</a> "<a   href="Category:Anarcha-feminism.md" class="wikilink"
+title="Category:Anarcha-feminism">"Category:Anarcha-feminism</a>
+"<a   href="Category:Spain.md" class="wikilink"
+title="Category:Spain">"Category:Spain</a>
+"<a   href="Category:Spanish_Civil_War.md" class="wikilink"
+title="Category:Spanish Civil War">"Category:Spanish Civil War</a>
+"<a   href="Category:Spanish_Revolution.md" class="wikilink"
+title="Category:Spanish Revolution">"Category:Spanish Revolution</a>
+"<a   href="Category:Women&#39;s_Organisations.md" class="wikilink"
+title="Category:Women&#39;s Organisations">"Category:Women's
 Organisations</a>
-<a href="Category:Defunct_Anarchist_Organisations" class="wikilink"
-title="Category:Defunct Anarchist Organisations">Category:Defunct
-Anarchist Organisations</a> <a href="Category:1930s" class="wikilink"
-title="Category:1930s">Category:1930s</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Defunct_Anarchist_Organisations.md" class="wikilink"
+title="Category:Defunct Anarchist Organisations">"Category:Defunct
+Anarchist Organisations</a> "<a   href="Category:1930s.md" class="wikilink"
+title="Category:1930s">"Category:1930s</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Temma Kaplan, "Spanish Anarchism and Women's Liberation", Journal
     of Contemporary History, Vol. 6, No. 2, 1971

@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Communism_Definition" class="wikilink"
-    title="Communism Definition">Communism Definition</a>
+1.  REDIRECT "<a   href="Communism_Definition.md" class="wikilink"
+    title="Communism Definition">"Communism Definition</a>

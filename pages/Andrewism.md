@@ -1,5 +1,5 @@
 **Andrewism** formerly Saint Andrewism,[^1] is an
-<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
 YouTuber, writer, artist and musician from Trinidad and Tobago. He began
 publishing videos in July 2020.
 
@@ -20,11 +20,11 @@ March.[^10] His favourite colour is golden yellow.[^11]
 ## Politics
 
 Andrew enjoys philosophy.[^12] His favourite anarchist writers include
-<a href="Errico_Malatesta" class="wikilink"
-title="Errico Malatesta">Errico Malatesta</a> and
-<a href="Ashanti_Alston" class="wikilink" title="Ashanti Alston">Ashanti
+"<a   href="Errico_Malatesta.md" class="wikilink"
+title="Errico Malatesta">"Errico Malatesta</a> and
+"<a   href="Ashanti_Alston.md" class="wikilink" title="Ashanti Alston">"Ashanti
 Alston</a>,[^13] and his favourite political thinker is
-<a href="bell_hooks" class="wikilink" title="bell hooks">bell hooks</a>.[^14]
+"<a   href="bell_hooks.md" class="wikilink" title="bell hooks">"bell hooks</a>.[^14]
 Andrew has described his political position as post-civilization,
 post-colonial, solarpunk anarchist-communist (strongly informed by Black
 Anarchists)[^15] with Anarkata tendencies.[^16]
@@ -42,8 +42,8 @@ do their own research, and introspect.[^20] Andrew moderates comments to
 remove racism and disrespect.[^21] Andrew "refuses to compromise \[his\]
 most basic principles to "market \[him\]self" and grow an
 audience."[^22] Some of his video scripts can be found on
-<a href="The_Anarchist_Library" class="wikilink"
-title="The Anarchist Library">The Anarchist Library</a>.[^23] The music
+"<a   href="The_Anarchist_Library.md" class="wikilink"
+title="The Anarchist Library">"The Anarchist Library</a>.[^23] The music
 in his videos is produced by salmon_the_ghost.
 
 He used the name Saint Andrew because it was his artist signature for a
@@ -74,12 +74,12 @@ jeopardizing his main channel.[^28]
 - <https://soundcloud.com/andrewismtherapper>
 - <https://youtube.fandom.com/wiki/Andrewism>
 
-<a href="Category:_Trinidad_and_Tobago_anarchists" class="wikilink"
-title="Category: Trinidad and Tobago anarchists">Category: Trinidad and
-Tobago anarchists</a> <a href="Category:Anarchists" class="wikilink"
-title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:_Trinidad_and_Tobago_anarchists.md" class="wikilink"
+title="Category: Trinidad and Tobago anarchists">"Category: Trinidad and
+Tobago anarchists</a> "<a   href="Category:Anarchists.md" class="wikilink"
+title="Category:Anarchists">"Category:Anarchists</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: <https://www.youtube.com/post/UgkxNiuLx122XAp3lN4dTON_yIVbBnzJsAQb>
 

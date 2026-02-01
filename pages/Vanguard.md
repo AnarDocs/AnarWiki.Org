@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Vanguardism" class="wikilink"
-    title="Vanguardism">Vanguardism</a>
+1.  REDIRECT "<a   href="Vanguardism.md" class="wikilink"
+    title="Vanguardism">"Vanguardism</a>

@@ -35,8 +35,8 @@ himself from economic death."[^3]
 Although Schuyler later became a conservative social commentator, Baker
 remained an autonomous anti-capitalist for her entire life. She became a
 central organizer in the civil rights movement and an adult adviser to
-the <a href="Student_Nonviolent_Coordinating_Committee" class="wikilink"
-title="Student Nonviolent Coordinating Committee">Student Nonviolent
+the "<a   href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
+title="Student Nonviolent Coordinating Committee">"Student Nonviolent
 Coordinating Committee</a>,
 
 <references/>

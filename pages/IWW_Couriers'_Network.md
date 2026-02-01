@@ -1,12 +1,12 @@
 The **IWW Couriers' Network** is an
-<a href="Industrial_Workers_of_the_World" class="wikilink"
-title="IWW">IWW</a> group that works with food delivery workers, mainly
+"<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
+title="IWW">"IWW</a> group that works with food delivery workers, mainly
 those working for UberEats and Deliveroo in the
-<a href="United_Kingdom" class="wikilink" title="UK">UK</a> and
-<a href="Ireland" class="wikilink" title="Ireland">Ireland</a>. Inspired
-by the <a href="Black_Friday_(Germany)" class="wikilink"
-title="Black Friday">Black Friday</a> actions by food delivery workers
-in <a href="Germany" class="wikilink" title="Germany">Germany</a> in
+"<a   href="United_Kingdom.md" class="wikilink" title="UK">"UK</a> and
+"<a   href="Ireland.md" class="wikilink" title="Ireland">"Ireland</a>. Inspired
+by the "<a   href="Black_Friday_(Germany).md" class="wikilink"
+title="Black Friday">"Black Friday</a> actions by food delivery workers
+in "<a   href="Germany.md" class="wikilink" title="Germany">"Germany</a> in
 2017.[^1] It was created in January 2018, with hundreds of members
 across Bristol, Cardiff, Glasgow, Edinburgh, Aberdeen, Dublin, Derry and
 Cork.[^2]
@@ -25,30 +25,30 @@ drop.[^4]
 
 ## References
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:IWW" class="wikilink"
-title="Category:IWW">Category:IWW</a>
-<a href="Category:Northern_Europe" class="wikilink"
-title="Category:Northern Europe">Category:Northern Europe</a>
-<a href="Category:Europe" class="wikilink"
-title="Category:Europe">Category:Europe</a>
-<a href="Category:UK" class="wikilink"
-title="Category:UK">Category:UK</a>
-<a href="Category:Ireland" class="wikilink"
-title="Category:Ireland">Category:Ireland</a>
-<a href="Category:Trade_Unions" class="wikilink"
-title="Category:Trade Unions">Category:Trade Unions</a>
-<a href="Category:2019" class="wikilink"
-title="Category:2019">Category:2019</a>
-<a href="Category:2010s" class="wikilink"
-title="Category:2010s">Category:2010s</a>
-<a href="Category:21st_Century" class="wikilink"
-title="Category:21st Century">Category:21st Century</a>
-<a href="Category:2018" class="wikilink"
-title="Category:2018">Category:2018</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Libertarian_Socialism.md" class="wikilink"
+title="Category:Libertarian Socialism">"Category:Libertarian
+Socialism</a> "<a   href="Category:IWW.md" class="wikilink"
+title="Category:IWW">"Category:IWW</a>
+"<a   href="Category:Northern_Europe.md" class="wikilink"
+title="Category:Northern Europe">"Category:Northern Europe</a>
+"<a   href="Category:Europe.md" class="wikilink"
+title="Category:Europe">"Category:Europe</a>
+"<a   href="Category:UK.md" class="wikilink"
+title="Category:UK">"Category:UK</a>
+"<a   href="Category:Ireland.md" class="wikilink"
+title="Category:Ireland">"Category:Ireland</a>
+"<a   href="Category:Trade_Unions.md" class="wikilink"
+title="Category:Trade Unions">"Category:Trade Unions</a>
+"<a   href="Category:2019.md" class="wikilink"
+title="Category:2019">"Category:2019</a>
+"<a   href="Category:2010s.md" class="wikilink"
+title="Category:2010s">"Category:2010s</a>
+"<a   href="Category:21st_Century.md" class="wikilink"
+title="Category:21st Century">"Category:21st Century</a>
+"<a   href="Category:2018.md" class="wikilink"
+title="Category:2018">"Category:2018</a>
 
 [^1]: <https://iww.org.uk/news/solidarity-with-german-couriers-fighting-deliveroo/>
 

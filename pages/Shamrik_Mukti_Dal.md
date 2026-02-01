@@ -1,5 +1,5 @@
-The <a href="Wikipedia:Shramik_Mukti_Dal" class="wikilink"
-title="Shamrik Mukti Dal">Shamrik Mukti Dal</a> is a
+The "<a   href="Wikipedia:Shramik_Mukti_Dal.md" class="wikilink"
+title="Shamrik Mukti Dal">"Shamrik Mukti Dal</a> is a
 “post-traditionalist communist” movement formed in rural Maharashta,
 India in the 1980s. The movement's manifesto calls for “a new
 ecologically balanced, prosperous, non-exploitative society” and
@@ -13,10 +13,10 @@ structure.”[^1]
 
 <references/>
 
-<a href="Category:India" class="wikilink"
-title="Category:India">Category:India</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
+"<a   href="Category:India.md" class="wikilink"
+title="Category:India">"Category:India</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
 Communities</a>
 
 [^1]: Maia Ramnath, *Decolonizing Anarchism: An Anti-Authoritarian

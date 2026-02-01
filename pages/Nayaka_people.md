@@ -32,12 +32,12 @@ The religion has also incorporated minor deities of Hindu neighbors.[^6]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:India" class="wikilink"
-title="Category:India">Category:India</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:India.md" class="wikilink"
+title="Category:India">"Category:India</a>
 
 [^1]: Nurit Bird-David, "The Nayaka of the Wynaad, South India" in *The
     Cambridge Encyclopedia of Hunters and Gatherers* ed. Richard B. Lee

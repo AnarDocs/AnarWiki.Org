@@ -5,8 +5,8 @@
 **Jackson** is a fictional post-apocalyptic community featured in the
 video game series *The Last of Us* and its HBO television adaptation.
 The settlement represents a functional example of
-<a href="anarcho-communism" class="wikilink"
-title="anarcho-communism">anarcho-communism</a> in practice, operating
+"<a   href="anarcho-communism.md" class="wikilink"
+title="anarcho-communism">"anarcho-communism</a> in practice, operating
 without centralized state authority through democratic council
 governance, collective ownership of resources, and mutual aid
 principles.
@@ -18,12 +18,12 @@ principles.
 Following the collapse of the United States government during the
 Cordyceps pandemic, the town of Jackson was established by survivors
 seeking an alternative to the authoritarian
-<a href="FEDRA" class="wikilink" title="FEDRA">FEDRA</a> quarantine
+"<a   href="FEDRA.md" class="wikilink" title="FEDRA">"FEDRA</a> quarantine
 zones that dominated other population centers.[^1] In the HBO series
 timeline, Maria and her group took over the abandoned area around 2016,
 gradually building it into a self-sufficient community.[^2] Tommy
 Miller, a former member of the
-<a href="Fireflies" class="wikilink" title="Fireflies">Fireflies</a>
+"<a   href="Fireflies.md" class="wikilink" title="Fireflies">"Fireflies</a>
 militant group, joined the community and married Maria, becoming
 instrumental in its development.
 
@@ -48,23 +48,23 @@ participation in the democratic process.
 
 When describing their system to outsiders, Maria explicitly identifies
 Jackson as practicing
-<a href="communism" class="wikilink" title="communism">communism</a>,
+"<a   href="communism.md" class="wikilink" title="communism">"communism</a>,
 stating: "No one person's in charge. I'm on the council. Democratically
 elected, serving 300 people, including children. Everyone pitches in. We
 rotate patrols, food prep, repairs, hunting, harvesting. Everything you
 see in our town ... greenhouses, livestock, all shared."[^5]
 
 This structure aligns with anarchist principles of
-<a href="horizontalism" class="wikilink"
-title="horizontalism">horizontalism</a> and
-<a href="direct_democracy" class="wikilink"
-title="direct democracy">direct democracy</a>, rejecting hierarchical
+"<a   href="horizontalism.md" class="wikilink"
+title="horizontalism">"horizontalism</a> and
+"<a   href="direct_democracy.md" class="wikilink"
+title="direct democracy">"direct democracy</a>, rejecting hierarchical
 state authority in favor of participatory self-governance.
 
 ### Economic Organization
 
 Jackson functions as a
-<a href="commune" class="wikilink" title="commune">commune</a> based on
+"<a   href="commune.md" class="wikilink" title="commune">"commune</a> based on
 collective ownership and the principle of "from each according to
 ability, to each according to need." The community maintains no currency
 system, with all essential services including electricity, housing, food
@@ -85,16 +85,16 @@ profit.[^7]
 ### Social Relations
 
 Jackson appears to have achieved the
-<a href="classless_society" class="wikilink"
-title="classless society">classless society</a> envisioned by anarchist
+"<a   href="classless_society.md" class="wikilink"
+title="classless society">"classless society</a> envisioned by anarchist
 and communist theory. There are no landlords collecting rent, no
 employers extracting surplus value from workers, and no religious
 authority dictating moral codes. The multi-faith house of worship
 indicates religious pluralism without
-<a href="theocracy" class="wikilink" title="theocracy">theocracy</a>.
+"<a   href="theocracy.md" class="wikilink" title="theocracy">"theocracy</a>.
 
 The community demonstrates
-<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
 in practice, with residents supporting each other through collective
 labor and shared resources. During crisis situations, such as infected
 horde attacks, the entire community mobilizes according to ability - the
@@ -110,8 +110,8 @@ management or state coercion. Democratic participation extends to all
 ages, preventing the formation of a permanent ruling class.
 
 The rotation of labor prevents the crystallization of a
-<a href="division_of_labor" class="wikilink"
-title="division of labor">division of labor</a> that could create new
+"<a   href="division_of_labor.md" class="wikilink"
+title="division of labor">"division of labor</a> that could create new
 class distinctions. By sharing both productive and unproductive work,
 Jackson avoids the alienation inherent in capitalist specialization.
 
@@ -142,20 +142,20 @@ representatives can be recalled and hold no special privileges.
 ## Anarchist Analysis
 
 Jackson serves as a fictional illustration of
-<a href="libertarian_socialism" class="wikilink"
-title="libertarian socialism">libertarian socialism</a> and
-<a href="anarcho-communism" class="wikilink"
-title="anarcho-communism">anarcho-communism</a> in practice. The
+"<a   href="libertarian_socialism.md" class="wikilink"
+title="libertarian socialism">"libertarian socialism</a> and
+"<a   href="anarcho-communism.md" class="wikilink"
+title="anarcho-communism">"anarcho-communism</a> in practice. The
 community fulfills the three core criteria that
-<a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>
+"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">"Karl Marx</a>
 identified for communism: it is classless, moneyless, and arguably
 stateless.
 
 The settlement demonstrates that the "A" within the circle "O" -
 representing
-<a href="Anarchy" class="wikilink" title="Anarchy">Anarchy</a> within
-<a href="Organization" class="wikilink"
-title="Organization">Organization</a> - need not be contradictory.
+"<a   href="Anarchy.md" class="wikilink" title="Anarchy">"Anarchy</a> within
+"<a   href="Organization.md" class="wikilink"
+title="Organization">"Organization</a> - need not be contradictory.
 Jackson maintains high functionality through voluntary coordination and
 shared accountability rather than through hierarchical command
 structures.
@@ -169,18 +169,18 @@ worst catastrophes, like war, I survived. People are able to keep the
 society."[^10]
 
 Sociologist
-<a href="David_Graeber" class="wikilink" title="David Graeber">David
+"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
 Graeber</a> argued that anarchist cooperative communities have been the
 default for most of human history. Jackson's fictional success echoes
 historical examples such as
-<a href="Revolutionary_Catalonia" class="wikilink"
-title="Revolutionary Catalonia">Revolutionary Catalonia</a>, the
-<a href="Free_Territory" class="wikilink" title="Free Territory">Free
+"<a   href="Revolutionary_Catalonia.md" class="wikilink"
+title="Revolutionary Catalonia">"Revolutionary Catalonia</a>, the
+"<a   href="Free_Territory.md" class="wikilink" title="Free Territory">"Free
 Territory</a> of Ukraine, and contemporary experiments in
-<a href="Rojava" class="wikilink" title="Rojava">Rojava</a> and the
-<a href="Zapatista" class="wikilink" title="Zapatista">Zapatista</a>
+"<a   href="Rojava.md" class="wikilink" title="Rojava">"Rojava</a> and the
+"<a   href="Zapatista.md" class="wikilink" title="Zapatista">"Zapatista</a>
 communities of
-<a href="Chiapas" class="wikilink" title="Chiapas">Chiapas</a>.
+"<a   href="Chiapas.md" class="wikilink" title="Chiapas">"Chiapas</a>.
 
 ## Cultural Impact
 
@@ -209,14 +209,14 @@ with the term.
 
 <references/>
 
-<a href="Category:Anarchist_Utopias" class="wikilink"
-title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-<a href="Category:Utopian_Fiction" class="wikilink"
-title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-<a href="Category:Fictional_Anarchist_Societies" class="wikilink"
-title="Category:Fictional Anarchist Societies">Category:Fictional
-Anarchist Societies</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+title="Category:Anarchist Utopias">"Category:Anarchist Utopias</a>
+"<a   href="Category:Utopian_Fiction.md" class="wikilink"
+title="Category:Utopian Fiction">"Category:Utopian Fiction</a>
+"<a   href="Category:Fictional_Anarchist_Societies.md" class="wikilink"
+title="Category:Fictional Anarchist Societies">"Category:Fictional
+Anarchist Societies</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: <https://thelastofus.fandom.com/wiki/Jackson>
 

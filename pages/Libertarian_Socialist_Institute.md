@@ -9,12 +9,12 @@ now.” [^1]
 
 <references/>
 
-<a href="Category:India" class="wikilink"
-title="Category:India">Category:India</a>
-<a href="Category:Anarchist_Organizations" class="wikilink"
-title="Category:Anarchist Organizations">Category:Anarchist
-Organizations</a> <a href="Category:Organizations" class="wikilink"
-title="Category:Organizations">Category:Organizations</a>
+"<a   href="Category:India.md" class="wikilink"
+title="Category:India">"Category:India</a>
+"<a   href="Category:Anarchist_Organizations.md" class="wikilink"
+title="Category:Anarchist Organizations">"Category:Anarchist
+Organizations</a> "<a   href="Category:Organizations.md" class="wikilink"
+title="Category:Organizations">"Category:Organizations</a>
 
 [^1]: Maia Ramnath, *Decolonizing Anarchism: An Anti-Authoritarian
     History of India's Liberation Struggle* (Oakland: AK Press, 2011),

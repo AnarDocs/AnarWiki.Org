@@ -12,12 +12,12 @@ popular decision-making, and celebration of the goddess Inanna may have
 signified a strong status of women. However, by the late fourth and
 early third millennium, Uruk was colonial power with a clear state.
 Uruk's culture borrowed many elements from the preceding cultures of
-<a href="Neolithic_Mesopotamia" class="wikilink"
-title="Neolithic Mesopotamia">Neolithic Mesopotamia</a>.
+"<a   href="Neolithic_Mesopotamia.md" class="wikilink"
+title="Neolithic Mesopotamia">"Neolithic Mesopotamia</a>.
 
 David Graeber and David Wengrow note that the Great Court was much
-larger than the Pnyx where the <a href="Athenian_polis" class="wikilink"
-title="Athenian polis">Athenian polis</a> met, even though Uruk had a
+larger than the Pnyx where the "<a   href="Athenian_polis.md" class="wikilink"
+title="Athenian polis">"Athenian polis</a> met, even though Uruk had a
 smaller population than classical Athens. "This suggests a wider range
 of participation, which would make sense if women were not entirely
 excluded and if early Uruk did not, like later Athens, define some 20
@@ -155,16 +155,16 @@ grain-and-manpower modules that were ideal for state formation."[^10]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Anarchist_Societies" class="wikilink"
-title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:Past_Anarchist_Societies" class="wikilink"
-title="Category:Past Anarchist Societies">Category:Past Anarchist
-Societies</a> <a href="Category:Before_Common_Era" class="wikilink"
-title="Category:Before Common Era">Category:Before Common Era</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:Anarchist_Societies.md" class="wikilink"
+title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+"<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
+title="Category:Past Anarchist Societies">"Category:Past Anarchist
+Societies</a> "<a   href="Category:Before_Common_Era.md" class="wikilink"
+title="Category:Before Common Era">"Category:Before Common Era</a>
 
 [^1]: David Graeber and David Wengrow, *The Dawn of Everything: A New
     History of Humanity* (New York: Farrar, Straus and Giroux, 2021),

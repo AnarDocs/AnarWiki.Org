@@ -1,6 +1,6 @@
 From 1969 to 1990, the People's Democratic Republic of Yemen or South
-Yemen became the only <a href="Marxist-Leninism" class="wikilink"
-title="Marxist-Leninist">Marxist-Leninist</a> state in the Arab world.
+Yemen became the only "<a   href="Marxist-Leninism.md" class="wikilink"
+title="Marxist-Leninist">"Marxist-Leninist</a> state in the Arab world.
 Some of it's achievements include:
 
 - The country pursued socialist economic policies like nationalisation,
@@ -19,17 +19,17 @@ which killed thousands of people and created 60,000 refugees. After
 this, an agreement was reached for reunification in the country in 1990,
 ending socialism in Yemen.
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Marxist-Leninism" class="wikilink"
-title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
-<a href="Category:Authoritarian_Socialism" class="wikilink"
-title="Category:Authoritarian Socialism">Category:Authoritarian
-Socialism</a> <a href="Category:Former_States" class="wikilink"
-title="Category:Former States">Category:Former States</a>
-<a href="Category:Yemen" class="wikilink"
-title="Category:Yemen">Category:Yemen</a>
-<a href="Category:Western_Asia" class="wikilink"
-title="Category:Western Asia">Category:Western Asia</a>
-<a href="Category:Asia" class="wikilink"
-title="Category:Asia">Category:Asia</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Marxist-Leninism.md" class="wikilink"
+title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+"<a   href="Category:Authoritarian_Socialism.md" class="wikilink"
+title="Category:Authoritarian Socialism">"Category:Authoritarian
+Socialism</a> "<a   href="Category:Former_States.md" class="wikilink"
+title="Category:Former States">"Category:Former States</a>
+"<a   href="Category:Yemen.md" class="wikilink"
+title="Category:Yemen">"Category:Yemen</a>
+"<a   href="Category:Western_Asia.md" class="wikilink"
+title="Category:Western Asia">"Category:Western Asia</a>
+"<a   href="Category:Asia.md" class="wikilink"
+title="Category:Asia">"Category:Asia</a>

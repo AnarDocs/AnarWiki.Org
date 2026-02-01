@@ -1,5 +1,5 @@
 ![](Oaxaca_protests.jpg "Oaxaca_protests.jpg") From Peter Gelderloos,
-<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
 Works</a>:
 
 > The rebellion in the southern Mexican state of Oaxaca offer another
@@ -162,8 +162,8 @@ Works</a>:
 
 <references/>
 
---<a href="User:DFischer" class="wikilink" title="DFischer">DFischer</a>
-(<a href="User_talk:DFischer" class="wikilink" title="talk">talk</a>)
+--"<a   href="User:DFischer.md" class="wikilink" title="DFischer">"DFischer</a>
+("<a   href="User_talk:DFischer.md" class="wikilink" title="talk">"talk</a>)
 12:28, 24 August 2014 (EDT)
 
 [^1]: Wikipedia, “Asamblea Popular de los Pueblos de Oaxaca,” \[viewed

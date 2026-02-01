@@ -227,24 +227,24 @@ considered the closest relative to the Seminoles' Panther Clan, was down
 to about 50 in the 1990s.[^27] The *Earth First! Newswire* reported in
 2014 that the Independent Traditional Seminole Nation of Florida had
 joined up with
-<a href="Earth_First!" class="wikilink" title="Earth First!">Earth
+"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
 First!</a> and other groups to stop a proposed power plant by Florida
 Power and Light.[^28]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
-title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Matriarchy" class="wikilink"
-title="Category:Matriarchy">Category:Matriarchy</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
+title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+"<a   href="Category:Matriarchy.md" class="wikilink"
+title="Category:Matriarchy">"Category:Matriarchy</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Russell Maroon Shoatz,
-    <a href="Maroon&#39;s_Collected_Writings" class="wikilink"
-    title="Maroon&#39;s Collected Writings">Maroon's Collected Writings</a>.
+    "<a   href="Maroon&#39;s_Collected_Writings.md" class="wikilink"
+    title="Maroon&#39;s Collected Writings">"Maroon's Collected Writings</a>.
 
 [^2]: Kay Givens McGowan, "Weeping for the Lost Matriarchy" in
     *Daughters of Mother Earth: the wisdom of Native American women*

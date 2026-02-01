@@ -1,19 +1,19 @@
 The **Encyclopedia of Peaceful Societies** is an online encyclopedia
 created by the
-<a href="University" class="wikilink" title="University">University</a>
+"<a   href="University.md" class="wikilink" title="University">"University</a>
 of Alabama at Birmingham College of Arts and Sciences Department of
-<a href="Anthropology" class="wikilink"
-title="Anthropology">Anthropology</a> that aims to document examples of
+"<a   href="Anthropology.md" class="wikilink"
+title="Anthropology">"Anthropology</a> that aims to document examples of
 societies with little to no
-<a href="violence" class="wikilink" title="violence">violence</a> and
-<a href="war" class="wikilink" title="war">war</a> as an introduction to
+"<a   href="violence.md" class="wikilink" title="violence">"violence</a> and
+"<a   href="war.md" class="wikilink" title="war">"war</a> as an introduction to
 scholars,
-<a href="Student" class="wikilink" title="students">students</a> and
+"<a   href="Student.md" class="wikilink" title="students">"students</a> and
 activists.
 
 ## Entries
 
-- <a href="Amish" class="wikilink" title="Amish">Amish</a>
+- "<a   href="Amish.md" class="wikilink" title="Amish">"Amish</a>
 - Batek
 - Birhor
 - Buid
@@ -24,7 +24,7 @@ activists.
 - Ifaluk
 - Inuit of Utkuhikhalik and Qipisa Communities
 - Ju/’hoansi
-- <a href="Kadar" class="wikilink" title="Kadar">Kadar</a>
+- "<a   href="Kadar.md" class="wikilink" title="Kadar">"Kadar</a>
 - Ladakhi
 - Lepchas
 - Malapandaram
@@ -33,7 +33,7 @@ activists.
 - Paliyans
 - Piaroa
 - Rural Thai
-- <a href="Semai" class="wikilink" title="Semai">Semai</a>
+- "<a   href="Semai.md" class="wikilink" title="Semai">"Semai</a>
 - Tahitians
 - Tristan Islanders
 - Yanadi

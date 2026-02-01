@@ -4,7 +4,7 @@
 
 The **Golden Rule** and **Platinum Rule** represent two related but
 distinct ethical principles that have significant implications for
-<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
 theory and practice. The Golden Rule, typically formulated as "do unto
 others as you would have them do unto you," has ancient roots across
 multiple philosophical and religious traditions. The Platinum Rule, a
@@ -44,7 +44,7 @@ return.[^5]
 
 Early anarchists explicitly invoked the Golden Rule as foundational to
 their vision of society. In 1904, the anarchist writer H.W. described
-<a href="anarchism" class="wikilink" title="anarchism">anarchism</a> as
+"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a> as
 aiming "to establish an ideal state of society based on the 'golden
 rule,' in which all distinctions of castes and privileges are abolished,
 and in which each individual is expected to labor spontaneously for the
@@ -87,8 +87,8 @@ a framework for respecting individual autonomy.
 When properly understood, reciprocity demands that we "treat one another
 as individuals—unique individuals, with all of the emphasis that a Max
 Stirner might give to that term."[^10] This interpretation aligns the
-Golden Rule with <a href="individualist_anarchism" class="wikilink"
-title="individualist anarchist">individualist anarchist</a> principles
+Golden Rule with "<a   href="individualist_anarchism.md" class="wikilink"
+title="individualist anarchist">"individualist anarchist</a> principles
 while maintaining social solidarity through mutual recognition.
 
 William Batchelder Greene, the nineteenth-century mutualist, recognised
@@ -110,7 +110,7 @@ be treated. Instead we must attend to what they say they want, not what
 we think they want)."[^13]
 
 For Ross, this principle connects anarchism to
-<a href="Love" class="wikilink" title="love itself">love itself</a>: "At
+"<a   href="Love.md" class="wikilink" title="love itself">"love itself</a>: "At
 the heart of all anarchism is how we treat other people. Anarchism
 demands that this treatment is always respectful and egalitarian: no one
 can coerce another, whether by overt means or subtle."[^14] This
@@ -177,18 +177,18 @@ should apply universally regardless of individual preferences.
 Within anarchist circles, debate continues over whether these ethical
 principles can be effectively applied without some form of social
 organisation to mediate conflicts between individuals' differing desires
-and needs. <a href="Anarcho-communist" class="wikilink"
-title="Anarcho-communists">Anarcho-communists</a> and
-<a href="Mutualist_Economics" class="wikilink"
-title="mutualists">mutualists</a> may differ on the institutional forms
+and needs. "<a   href="Anarcho-communist.md" class="wikilink"
+title="Anarcho-communists">"Anarcho-communists</a> and
+"<a   href="Mutualist_Economics.md" class="wikilink"
+title="mutualists">"mutualists</a> may differ on the institutional forms
 best suited to realising reciprocal ethics in practice.
 
 The tension between respecting individual uniqueness and maintaining
 coherent social norms remains an ongoing challenge for anarchist theory,
 though most anarchists would argue that
-<a href="voluntary_association" class="wikilink"
-title="voluntary association">voluntary association</a> and
-<a href="free_agreement" class="wikilink" title="free agreement">free
+"<a   href="voluntary_association.md" class="wikilink"
+title="voluntary association">"voluntary association</a> and
+"<a   href="free_agreement.md" class="wikilink" title="free agreement">"free
 agreement</a> provide the necessary mechanisms for navigating such
 tensions without recourse to authority.
 
@@ -209,16 +209,16 @@ tensions without recourse to authority.
 
 <references/>
 
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ethics" class="wikilink"
-title="Category:Ethics">Category:Ethics</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Ethics.md" class="wikilink"
+title="Category:Ethics">"Category:Ethics</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
 
 [^1]: Matthew 7:12 (NIV).
 

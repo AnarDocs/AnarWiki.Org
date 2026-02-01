@@ -1,10 +1,10 @@
 *Note: If you are looking for Right-Libertarianism see
-<a href="Propertarianism" class="wikilink"
-title="Propertarianism">Propertarianism</a>*
+"<a   href="Propertarianism.md" class="wikilink"
+title="Propertarianism">"Propertarianism</a>*
 
 To be a Libertarian is to be a
-<a href="Libertarian_Socialism" class="wikilink"
-title="Libertarian Socialist">Libertarian Socialist</a>. That is to
+"<a   href="Libertarian_Socialism.md" class="wikilink"
+title="Libertarian Socialist">"Libertarian Socialist</a>. That is to
 believe in being free of hierarchy and class, free of others owning you,
 or others owning what you need to survive.
 

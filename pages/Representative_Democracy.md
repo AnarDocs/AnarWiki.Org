@@ -2,21 +2,21 @@
 
 **Representative democracy** (also **indirect democracy**,
 **representative government** or **psephocracy**) is a type of
-<a href="democracy" class="wikilink" title="democracy">democracy</a>
+"<a   href="democracy.md" class="wikilink" title="democracy">"democracy</a>
 founded on the principle of elected officials representing a group of
 people, as opposed to direct democracy. These should not be confused
 with directly democratic
-<a href="Anarchism" class="wikilink" title="anarchists">anarchists</a>
-<a href="Confederation" class="wikilink"
-title="confederations">confederations</a>, in which 'representative's
+"<a   href="Anarchism.md" class="wikilink" title="anarchists">"anarchists</a>
+"<a   href="Confederation.md" class="wikilink"
+title="confederations">"confederations</a>, in which 'representative's
 (called delegates for the sake of simplicity) are subject to recall,
 short-terms and only represent a small interest.
 
 ## History
 
 *See Also:
-<a href="Timeline_of_Representative_Democracy" class="wikilink"
-title="Timeline of Representative Democracy">Timeline of Representative
+"<a   href="Timeline_of_Representative_Democracy.md" class="wikilink"
+title="Timeline of Representative Democracy">"Timeline of Representative
 Democracy</a>*
 
 The development of representative democracy has been a long and unstable
@@ -26,11 +26,11 @@ forming as well as backslides into more authoritarian governments.
 ### Precursors
 
 Although numerous direct democracies have existed throughout history
-(<a href="Athenian_Polis" class="wikilink" title="Ancient Athens">Ancient
-Athens</a>, <a href="Haudenosaunee_Confederacy" class="wikilink"
-title="Haudenosaunee">Haudenosaunee</a>, possibly the
-<a href="Indus_River_Valley_Civilization" class="wikilink"
-title="Indus River Valley Civilisation">Indus River Valley
+("<a   href="Athenian_Polis.md" class="wikilink" title="Ancient Athens">"Ancient
+Athens</a>, "<a   href="Haudenosaunee_Confederacy.md" class="wikilink"
+title="Haudenosaunee">"Haudenosaunee</a>, possibly the
+"<a   href="Indus_River_Valley_Civilization.md" class="wikilink"
+title="Indus River Valley Civilisation">"Indus River Valley
 Civilisation</a>) there are few examples of representative democracies.
 
 ### First wave
@@ -111,15 +111,15 @@ than dictatorships[^1] and are far less likely to repress their citizens
 dictatorships. Additionally, democracies have significantly lower
 violent crime rates. Although there are notably violent democracies
 (notably
-<a href="United_States_of_America" class="wikilink" title="USA">USA</a>,
-<a href="Israel" class="wikilink" title="Israel">Israel</a>,
-<a href="South_Africa" class="wikilink" title="South Africa">South
+"<a   href="United_States_of_America.md" class="wikilink" title="USA">"USA</a>,
+"<a   href="Israel.md" class="wikilink" title="Israel">"Israel</a>,
+"<a   href="South_Africa.md" class="wikilink" title="South Africa">"South
 Africa</a> and
-<a href="Colombia" class="wikilink" title="Colombia">Colombia</a>) and
+"<a   href="Colombia.md" class="wikilink" title="Colombia">"Colombia</a>) and
 peaceful dictatorships there is an incredibly strong relationship
 between democracy and peace. Of the 40 most peaceful countries on Earth,
-only 2 (<a href="Qatar" class="wikilink" title="Qatar">Qatar</a> and
-<a href="Bhutan" class="wikilink" title="Bhutan">Bhutan</a>) aren't
+only 2 ("<a   href="Qatar.md" class="wikilink" title="Qatar">"Qatar</a> and
+"<a   href="Bhutan.md" class="wikilink" title="Bhutan">"Bhutan</a>) aren't
 democracies.
 
 ## Negatives
@@ -127,10 +127,10 @@ democracies.
 ### Authoritarian Criticisms
 
 Sociologist
-<a href="Robert_Michels" class="wikilink" title="Robert Michels">Robert
+"<a   href="Robert_Michels.md" class="wikilink" title="Robert Michels">"Robert
 Michels</a> argued that all democratic institutions suffer from an
-<a href="Iron_Law_of_Oligarchy" class="wikilink"
-title="Iron Law of Oligarchy">Iron Law of Oligarchy</a>, which states
+"<a   href="Iron_Law_of_Oligarchy.md" class="wikilink"
+title="Iron Law of Oligarchy">"Iron Law of Oligarchy</a>, which states
 that power tends to be concentrated over time in ANY democratic
 organisations, effectively dooming democracy to always be a failure.
 
@@ -147,13 +147,13 @@ incompatible with anarchist principles.
 
 The fundamental anarchist objection to democracy - whether
 representative or direct - is that it remains a form of government, a
-system of rule over people. <a href="Errico_Malatesta" class="wikilink"
-title="Errico Malatesta">Errico Malatesta</a> argued that democracy
+system of rule over people. "<a   href="Errico_Malatesta.md" class="wikilink"
+title="Errico Malatesta">"Errico Malatesta</a> argued that democracy
 constitutes "government of the majority of the elected by the majority
 of the electors," which "is already beginning to bear a strong
 resemblance to minority government."[^2]
-<a href="Pierre-Joseph_Proudhon" class="wikilink"
-title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> declared that
+"<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
+title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a> declared that
 "the revolutionary formula cannot be Direct Legislation, nor Direct
 Government, nor Simplified Government, that it is No Government,"[^3]
 explicitly rejecting democracy alongside monarchy and aristocracy.
@@ -168,8 +168,8 @@ eliminating rulership entirely.[^4]
 Anarchists reject the principle of majority rule as a form of tyranny.
 Proudhon characterized democracy as "nothing but the tyranny of
 majorities, the most execrable tyranny of all,"[^5] while
-<a href="Mikhail_Bakunin" class="wikilink"
-title="Mikhail Bakunin">Mikhail Bakunin</a> opposed "all legislation,
+"<a   href="Mikhail_Bakunin.md" class="wikilink"
+title="Mikhail Bakunin">"Mikhail Bakunin</a> opposed "all legislation,
 all authority and every privileged, licensed, official, and legal
 influence, even that arising from universal suffrage."[^6]
 
@@ -178,8 +178,8 @@ dominate minorities, nor of minorities to dominate majorities. The
 anarchist solution is not rule by any group but "the abolition of the
 gendarme" and "free agreement, which will be there for all when no one
 has the means to force others."[^7]
-<a href="Voltairine_de_Cleyre" class="wikilink"
-title="Voltairine de Cleyre">Voltairine de Cleyre</a> argued that
+"<a   href="Voltairine_de_Cleyre.md" class="wikilink"
+title="Voltairine de Cleyre">"Voltairine de Cleyre</a> argued that
 majority rule is "essentially pernicious" and that "the only desirable
 condition of society is one in which no one is compelled to accept an
 arrangement to which he has not consented."[^8]
@@ -187,7 +187,7 @@ arrangement to which he has not consented."[^8]
 #### Democracy and Alienation
 
 Anarchists identify democracy as a system that perpetuates
-<a href="Alienation" class="wikilink" title="alienation">alienation</a> -
+"<a   href="Alienation.md" class="wikilink" title="alienation">"alienation</a> -
 the separation of people from control over their own lives. Democracy
 requires that "our desires be separate from our power to act,"
 transferring one's will and autonomy to an outside power, whether an
@@ -211,8 +211,8 @@ life" by transforming "living individuals into producer-consumers" and
 
 The democratic process provides an illusion of participation while real
 power remains concentrated in economic elites.
-<a href="Peter_Gelderloos" class="wikilink"
-title="Peter Gelderloos">Peter Gelderloos</a> argues that "the
+"<a   href="Peter_Gelderloos.md" class="wikilink"
+title="Peter Gelderloos">"Peter Gelderloos</a> argues that "the
 fundamental purpose of a democracy, same as any other government, is to
 maintain the wealth and power of the ruling class."[^12] Historical
 examples like the Civil Rights movement in the United States demonstrate
@@ -225,7 +225,7 @@ movements.
 Unlike some contemporary activists who distinguish between
 representative and direct democracy, classical anarchists extended their
 critique to all democratic forms.
-<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
 Kropotkin</a> observed that "majority rule is as defective as any other
 kind of rule,"[^13] and noted that in intentional communities, "majority
 rule and elected government have always been synonymous and concomitant
@@ -249,7 +249,7 @@ universal applicability.[^17] This is why democracy has proven "so
 compatible with nationalism and the state; it presupposes the Other, who
 is not accorded the same rights or political agency."[^18]
 
-As <a href="Rousseau" class="wikilink" title="Rousseau">Rousseau</a>
+As "<a   href="Rousseau.md" class="wikilink" title="Rousseau">"Rousseau</a>
 explicitly acknowledged in his Social Contract, there is no
 contradiction between democracy and slavery - the freedom of citizens
 can coexist with the chains of others. This zero-sum conception of
@@ -262,12 +262,12 @@ visions or practices. When they employed the term, they used it "in its
 conventional, statist sense to refer to actually-existing democratic
 institutions."[^20] The association between anarchism and democracy only
 emerged prominently around the 1980s, primarily through
-<a href="Murray_Bookchin" class="wikilink"
-title="Murray Bookchin">Murray Bookchin</a>'s writings, as a rhetorical
+"<a   href="Murray_Bookchin.md" class="wikilink"
+title="Murray Bookchin">"Murray Bookchin</a>'s writings, as a rhetorical
 strategy to increase anarchism's mainstream appeal.
 
 However, some contemporary anarchists - notably anthropologist
-<a href="David_Graeber" class="wikilink" title="David Graeber">David
+"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
 Graeber</a> - have used "democracy" in a non-governmental sense to
 simply mean situations where people control their own lives and their
 choices are respected. This usage treats democracy not as a system of
@@ -290,13 +290,13 @@ one's own terms).[^22]
 
 Rather than seeking to perfect or radicalize democracy, most anarchists
 advocate for its abolition in favor of
-<a href="Voluntary_Association" class="wikilink"
-title="voluntary association">voluntary association</a>,
-<a href="Free_Agreement" class="wikilink" title="free agreement">free
+"<a   href="Voluntary_Association.md" class="wikilink"
+title="voluntary association">"voluntary association</a>,
+"<a   href="Free_Agreement.md" class="wikilink" title="free agreement">"free
 agreement</a>,
-<a href="Mutual_Aid" class="wikilink" title="mutual aid">mutual aid</a>,
+"<a   href="Mutual_Aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
 and
-<a href="Federation" class="wikilink" title="federalist">federalist</a>
+"<a   href="Federation.md" class="wikilink" title="federalist">"federalist</a>
 structures that disperse rather than concentrate decision-making
 authority. The distinction is between government in any form and
 self-determination through freely-made agreements that require no
@@ -312,17 +312,17 @@ which he has not consented."[^24]
 
 ## See Also
 
-- <a href="Direct_Democracy" class="wikilink"
-  title="Direct Democracy">Direct Democracy</a>
-- <a href="Anarchist_Critique_of_Democracy" class="wikilink"
-  title="Anarchist Critique of Democracy">Anarchist Critique of
+- "<a   href="Direct_Democracy.md" class="wikilink"
+  title="Direct Democracy">"Direct Democracy</a>
+- "<a   href="Anarchist_Critique_of_Democracy.md" class="wikilink"
+  title="Anarchist Critique of Democracy">"Anarchist Critique of
   Democracy</a>
-- <a href="Consensus_Decision_Making" class="wikilink"
-  title="Consensus Decision Making">Consensus Decision Making</a>
-- <a href="Voluntary_Association" class="wikilink"
-  title="Voluntary Association">Voluntary Association</a>
-- <a href="Timeline_of_Representative_Democracy" class="wikilink"
-  title="Timeline of Representative Democracy">Timeline of Representative
+- "<a   href="Consensus_Decision_Making.md" class="wikilink"
+  title="Consensus Decision Making">"Consensus Decision Making</a>
+- "<a   href="Voluntary_Association.md" class="wikilink"
+  title="Voluntary Association">"Voluntary Association</a>
+- "<a   href="Timeline_of_Representative_Democracy.md" class="wikilink"
+  title="Timeline of Representative Democracy">"Timeline of Representative
   Democracy</a>
 
 ## External Links
@@ -346,16 +346,16 @@ which he has not consented."[^24]
 
 <references/>
 
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Democracy" class="wikilink"
-title="Category:Democracy">Category:Democracy</a>
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
-<a href="Category:Controversial_Concepts" class="wikilink"
-title="Category:Controversial Concepts">Category:Controversial
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Democracy.md" class="wikilink"
+title="Category:Democracy">"Category:Democracy</a>
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
+"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+title="Category:Controversial Concepts">"Category:Controversial
 Concepts</a>
 
 [^1]: Dictatorship is used here to indicate to indicate any

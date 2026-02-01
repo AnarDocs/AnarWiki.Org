@@ -1,12 +1,12 @@
 The **Tahitian General Strike of 2010** was a
-<a href="List_of_General_Strikes" class="wikilink"
-title="general strike">general strike</a> in Tahiti
-(<a href="French_Polynesia" class="wikilink"
-title="French Polynesia">French Polynesia</a>, a
-<a href="French_Empire" class="wikilink" title="colony">colony</a> of
-<a href="France" class="wikilink" title="France">France</a>) in
-<a href="Timeline_of_Anarchism_in_Oceania" class="wikilink"
-title="2010">2010</a> calling for massive economic reform.
+"<a   href="List_of_General_Strikes.md" class="wikilink"
+title="general strike">"general strike</a> in Tahiti
+("<a   href="French_Polynesia.md" class="wikilink"
+title="French Polynesia">"French Polynesia</a>, a
+"<a   href="French_Empire.md" class="wikilink" title="colony">"colony</a> of
+"<a   href="France.md" class="wikilink" title="France">"France</a>) in
+"<a   href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
+title="2010">"2010</a> calling for massive economic reform.
 
 ## Background
 

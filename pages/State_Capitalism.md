@@ -222,24 +222,24 @@ the working class achieve liberation.
 
 <references/>
 
-<a href="Category:Concepts" class="wikilink"
-title="Category:Concepts">Category:Concepts</a>
-<a href="Category:State_Capitalism" class="wikilink"
-title="Category:State Capitalism">Category:State Capitalism</a>
-<a href="Category:Counter-Revolution" class="wikilink"
-title="Category:Counter-Revolution">Category:Counter-Revolution</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
-<a href="Category:Authoritarian_Socialism" class="wikilink"
-title="Category:Authoritarian Socialism">Category:Authoritarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Marxism" class="wikilink"
-title="Category:Marxism">Category:Marxism</a>
-<a href="Category:Marxist-Leninism" class="wikilink"
-title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
-<a href="Category:Controversial_Concepts" class="wikilink"
-title="Category:Controversial Concepts">Category:Controversial
+"<a   href="Category:Concepts.md" class="wikilink"
+title="Category:Concepts">"Category:Concepts</a>
+"<a   href="Category:State_Capitalism.md" class="wikilink"
+title="Category:State Capitalism">"Category:State Capitalism</a>
+"<a   href="Category:Counter-Revolution.md" class="wikilink"
+title="Category:Counter-Revolution">"Category:Counter-Revolution</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
+"<a   href="Category:Authoritarian_Socialism.md" class="wikilink"
+title="Category:Authoritarian Socialism">"Category:Authoritarian
+Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Marxism.md" class="wikilink"
+title="Category:Marxism">"Category:Marxism</a>
+"<a   href="Category:Marxist-Leninism.md" class="wikilink"
+title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+"<a   href="Category:Controversial_Concepts.md" class="wikilink"
+title="Category:Controversial Concepts">"Category:Controversial
 Concepts</a>
 
 [^1]: Engels, Frederick (1954). Anti-Duhring; Herr Eugen Duhring's

@@ -7,7 +7,7 @@ Starting in the 1960s, the biologist Lynn Margulis did much to clarify
 and make mainstream the theory of the symbiotic origin of
 eukaryotes.[^1] Margulis writes with her co-author (and son) Dorion
 Sagan, "The creative force of symbiosis produced eukaryotic cells from
-<a href="Bacteria" class="wikilink" title="bacteria">bacteria</a>. Hence
+"<a   href="Bacteria.md" class="wikilink" title="bacteria">"bacteria</a>. Hence
 all larger organisms--protocoists, fungi, animals, and
 plants--originated symbiogenetically."[^2]
 

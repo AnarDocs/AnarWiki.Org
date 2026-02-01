@@ -40,5 +40,5 @@ From Peter Gelderloos, Anarchy Works [^1]
 
 <references/>
 
-[^1]: <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
+[^1]: "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
     Works</a>

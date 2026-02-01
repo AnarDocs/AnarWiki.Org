@@ -1,11 +1,11 @@
 **102 Eaton Square** or **Belgravia** was an unused mansion in London,
-UK that had occupied by <a href="List_of_Squats" class="wikilink"
-title="squatters">squatters</a> (belonging to
-<a href="Autonomous_Nation_of_Anarchist_Libertarian" class="wikilink"
-title="Autonomous Nation of Anarchist Libertarian">Autonomous Nation of
+UK that had occupied by "<a   href="List_of_Squats.md" class="wikilink"
+title="squatters">"squatters</a> (belonging to
+"<a   href="Autonomous_Nation_of_Anarchist_Libertarian.md" class="wikilink"
+title="Autonomous Nation of Anarchist Libertarian">"Autonomous Nation of
 Anarchist Libertarian</a>) and turned into a homeless shelter in
-<a href="Timeline_of_Anarchism_in_Europe" class="wikilink"
-title="2017">2017</a>.
+"<a   href="Timeline_of_Anarchism_in_Europe.md" class="wikilink"
+title="2017">"2017</a>.
 
 ## History
 
@@ -18,20 +18,20 @@ defeated by police.[^2]
 
 ## References
 
-<a href="Category:Squatting" class="wikilink"
-title="Category:Squatting">Category:Squatting</a>
-<a href="Category:Europe" class="wikilink"
-title="Category:Europe">Category:Europe</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Direct_Action" class="wikilink"
-title="Category:Direct Action">Category:Direct Action</a>
-<a href="Category:United_Kingdom" class="wikilink"
-title="Category:United Kingdom">Category:United Kingdom</a>
-<a href="Category:2017" class="wikilink"
-title="Category:2017">Category:2017</a>
-<a href="Category:21st_Century" class="wikilink"
-title="Category:21st Century">Category:21st Century</a>
+"<a   href="Category:Squatting.md" class="wikilink"
+title="Category:Squatting">"Category:Squatting</a>
+"<a   href="Category:Europe.md" class="wikilink"
+title="Category:Europe">"Category:Europe</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:Direct_Action.md" class="wikilink"
+title="Category:Direct Action">"Category:Direct Action</a>
+"<a   href="Category:United_Kingdom.md" class="wikilink"
+title="Category:United Kingdom">"Category:United Kingdom</a>
+"<a   href="Category:2017.md" class="wikilink"
+title="Category:2017">"Category:2017</a>
+"<a   href="Category:21st_Century.md" class="wikilink"
+title="Category:21st Century">"Category:21st Century</a>
 
 [^1]: <https://en.squat.net/2017/01/28/london-anal-belgravia-squatters-fight-off-fascist-thugs/>
 

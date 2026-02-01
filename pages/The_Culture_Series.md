@@ -2,9 +2,9 @@
 
 The **Culture series** is a collection of science fiction novels and
 short stories written by Scottish author
-<a href="Iain_M._Banks" class="wikilink" title="Iain M. Banks">Iain M.
+"<a   href="Iain_M._Banks.md" class="wikilink" title="Iain M. Banks">"Iain M.
 Banks</a> between 1987 and 2012. The series depicts
-<a href="The_Culture" class="wikilink" title="The Culture">The
+"<a   href="The_Culture.md" class="wikilink" title="The Culture">"The
 Culture</a>, a post-scarcity anarchist civilisation spanning the galaxy,
 composed of various humanoid species and advanced artificial
 intelligences living in harmony.
@@ -21,41 +21,41 @@ The Culture itself represents one of science fiction's most detailed
 explorations of anarchist society, featuring no government, laws, or
 money, yet maintaining order through consensus and the benevolent
 guidance of superintelligent AIs called
-<a href="Mind_(The_Culture)" class="wikilink" title="Minds">Minds</a>.
+"<a   href="Mind_(The_Culture).md" class="wikilink" title="Minds">"Minds</a>.
 
 ## The Books
 
 The series comprises nine novels and one short story collection:
 
-- **<a href="Consider_Phlebas" class="wikilink"
-  title="Consider Phlebas">Consider Phlebas</a>** (1987) - Set during
+- **"<a   href="Consider_Phlebas.md" class="wikilink"
+  title="Consider Phlebas">"Consider Phlebas</a>** (1987) - Set during
   the Idiran-Culture War, told from the perspective of an enemy agent
-- **<a href="The_Player_of_Games" class="wikilink"
-  title="The Player of Games">The Player of Games</a>** (1988) - A
+- **"<a   href="The_Player_of_Games.md" class="wikilink"
+  title="The Player of Games">"The Player of Games</a>** (1988) - A
   Culture citizen is recruited to subvert a barbaric empire through a
   tournament
-- **<a href="The_State_of_the_Art" class="wikilink"
-  title="The State of the Art">The State of the Art</a>** (1989) - Short
+- **"<a   href="The_State_of_the_Art.md" class="wikilink"
+  title="The State of the Art">"The State of the Art</a>** (1989) - Short
   story collection including the Culture's covert visit to 1970s Earth
-- **<a href="Use_of_Weapons" class="wikilink" title="Use of Weapons">Use of
+- **"<a   href="Use_of_Weapons.md" class="wikilink" title="Use of Weapons">"Use of
   Weapons</a>** (1990) - The story of a non-Culture mercenary working as
   a Culture agent
-- **<a href="Excession" class="wikilink" title="Excession">Excession</a>** (1996) -
+- **"<a   href="Excession.md" class="wikilink" title="Excession">"Excession</a>** (1996) -
   An alien artifact triggers conspiracy among Culture Minds
-- **<a href="Inversions_(novel)" class="wikilink"
-  title="Inversions">Inversions</a>** (1998) - Two stories of apparent
+- **"<a   href="Inversions_(novel).md" class="wikilink"
+  title="Inversions">"Inversions</a>** (1998) - Two stories of apparent
   Culture agents on a medieval-level world
-- **<a href="Look_to_Windward" class="wikilink"
-  title="Look to Windward">Look to Windward</a>** (2000) - Explores the
+- **"<a   href="Look_to_Windward.md" class="wikilink"
+  title="Look to Windward">"Look to Windward</a>** (2000) - Explores the
   aftermath of Culture intervention gone wrong
-- **<a href="Matter_(novel)" class="wikilink" title="Matter">Matter</a>** (2008) -
+- **"<a   href="Matter_(novel).md" class="wikilink" title="Matter">"Matter</a>** (2008) -
   A Culture agent returns to her homeworld on an artificial
   megastructure
-- **<a href="Surface_Detail" class="wikilink" title="Surface Detail">Surface
+- **"<a   href="Surface_Detail.md" class="wikilink" title="Surface Detail">"Surface
   Detail</a>** (2010) - A war over digitised afterlives spills into the
   real world
-- **<a href="The_Hydrogen_Sonata" class="wikilink"
-  title="The Hydrogen Sonata">The Hydrogen Sonata</a>** (2012) - The
+- **"<a   href="The_Hydrogen_Sonata.md" class="wikilink"
+  title="The Hydrogen Sonata">"The Hydrogen Sonata</a>** (2012) - The
   final days of a civilisation about to Sublime
 
 ## Major Themes
@@ -81,8 +81,8 @@ a threat but as equal partners in civilisation.
 
 A central tension throughout the series involves the Culture's dilemma
 over intervening in less advanced civilisations. The organisation
-<a href="Contact_(The_Culture)" class="wikilink"
-title="Contact">Contact</a> and its intelligence wing Special
+"<a   href="Contact_(The_Culture).md" class="wikilink"
+title="Contact">"Contact</a> and its intelligence wing Special
 Circumstances engage in "good works" to guide other societies toward
 more humane paths, often employing morally questionable methods
 including blackmail, regime change, and false flag operations.
@@ -169,22 +169,22 @@ Deeps Expedition naming all its craft after Culture ships and drones.
 
 <references/>
 
-<a href="Category:Anarchist_Fiction" class="wikilink"
-title="Category:Anarchist Fiction">Category:Anarchist Fiction</a>
-<a href="Category:Post-Scarcity" class="wikilink"
-title="Category:Post-Scarcity">Category:Post-Scarcity</a>
-<a href="Category:Artificial_Intelligence" class="wikilink"
-title="Category:Artificial Intelligence">Category:Artificial
-Intelligence</a> <a href="Category:Posthumanism" class="wikilink"
-title="Category:Posthumanism">Category:Posthumanism</a>
-<a href="Category:Anarchist_Concepts" class="wikilink"
-title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Utopian_Fiction" class="wikilink"
-title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-<a href="Category:Anarchist_Utopias" class="wikilink"
-title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchist_Fiction.md" class="wikilink"
+title="Category:Anarchist Fiction">"Category:Anarchist Fiction</a>
+"<a   href="Category:Post-Scarcity.md" class="wikilink"
+title="Category:Post-Scarcity">"Category:Post-Scarcity</a>
+"<a   href="Category:Artificial_Intelligence.md" class="wikilink"
+title="Category:Artificial Intelligence">"Category:Artificial
+Intelligence</a> "<a   href="Category:Posthumanism.md" class="wikilink"
+title="Category:Posthumanism">"Category:Posthumanism</a>
+"<a   href="Category:Anarchist_Concepts.md" class="wikilink"
+title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+"<a   href="Category:Utopian_Fiction.md" class="wikilink"
+title="Category:Utopian Fiction">"Category:Utopian Fiction</a>
+"<a   href="Category:Anarchist_Utopias.md" class="wikilink"
+title="Category:Anarchist Utopias">"Category:Anarchist Utopias</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Banks, Iain M. *A Few Notes on the Culture*. 1994
 

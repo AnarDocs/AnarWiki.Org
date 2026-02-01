@@ -1,7 +1,7 @@
 From Harold Barclay,
-<a href="People_Without_Government:_An_Anthropology_of_Anarchy"
+"<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
 class="wikilink"
-title="People Without Government: An Anthropology of Anarchy">People
+title="People Without Government: An Anthropology of Anarchy">"People
 Without Government: An Anthropology of Anarchy</a>:
 
 > Over a third of a million Lugbara dwell in southern Uganda and

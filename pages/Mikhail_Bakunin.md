@@ -1,16 +1,16 @@
 **Mikhail Alexandrovich Bakunin** (30th of May 1814 - 1st of July 1876)
 was one of the most influential figures in the history and development
-of <a href="anarchism" class="wikilink" title="anarchism">anarchism</a>,
+of "<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a>,
 so much so that he is sometimes referred to as the 'father of
 anarchism'. He is credited with linking the anarchist movement to
-<a href="feminism" class="wikilink" title="feminism">feminism</a>,
-<a href="atheism" class="wikilink" title="atheism">atheism</a>,
-<a href="revolution" class="wikilink" title="revolution">revolution</a>,
+"<a   href="feminism.md" class="wikilink" title="feminism">"feminism</a>,
+"<a   href="atheism.md" class="wikilink" title="atheism">"atheism</a>,
+"<a   href="revolution.md" class="wikilink" title="revolution">"revolution</a>,
 developing the concept of
-<a href="Anarcho-Collectivism" class="wikilink"
-title="anarcho-collectivism">anarcho-collectivism</a> and being one of
+"<a   href="Anarcho-Collectivism.md" class="wikilink"
+title="anarcho-collectivism">"anarcho-collectivism</a> and being one of
 the first critics of the very concept of
-<a href="Market_Economy" class="wikilink" title="markets">markets</a>.
+"<a   href="Market_Economy.md" class="wikilink" title="markets">"markets</a>.
 However, he was known to be openly racist and anti-semitic, with critics
 accusing him of being a violent terrorist.
 
@@ -110,8 +110,8 @@ Kwiatkowska, the daughter of a Polish merchant. He had been teaching her
 French. He got a job with the Amur Development Agency from his second
 cousin, the liberal governor in Eastern Siberia. Mikhail proposed the
 construction of a United States of Siberia, modeled of the
-<a href="United_States_of_America" class="wikilink"
-title="United States of America">United States of America</a>. Mikahil
+"<a   href="United_States_of_America.md" class="wikilink"
+title="United States of America">"United States of America</a>. Mikahil
 quit his job and recieved a pension from the state, and his second
 cousin was forced to resigned over his views and fear of a Siberian
 revolution. He was replaced by the new and more liberal governor
@@ -136,7 +136,7 @@ the Alliance of Revolutionary Socialists.
 
 By 1866, his secret society grew to have members in most of Europe's
 countries, and began to oppose the very existence of the
-<a href="State_(Polity)" class="wikilink" title="state">state</a>. He
+"<a   href="State_(Polity).md" class="wikilink" title="state">"state</a>. He
 met Giuseppe Fanelli and later sponsored him to travel to Barcelona to
 share his libertarian visions and recruit revolutionists to the
 International Workingmen's Association. He began to advocated for the
@@ -302,8 +302,8 @@ grow; not the purely formal liberty conceded, measured out and regulated
 by the State, an eternal lie which in reality represents nothing more
 than the privilege of some founded on the slavery of the rest; not the
 individualistic, egoistic, shabby, and fictitious liberty extolled by
-the School of <a href="Jean-Jacques_Rosseau" class="wikilink"
-title="J.-J. Rousseau">J.-J. Rousseau</a> and other schools of bourgeois
+the School of "<a   href="Jean-Jacques_Rosseau.md" class="wikilink"
+title="J.-J. Rousseau">"J.-J. Rousseau</a> and other schools of bourgeois
 liberalism, which considers the would-be rights of all men, represented
 by the State which limits the rights of each — an idea that leads
 inevitably to the reduction of the rights of each to zero. No, I mean
@@ -420,12 +420,12 @@ own."[^23]
 
 ## References
 
-<a href="Category:Russian_anarchists" class="wikilink"
-title="Category:Russian anarchists">Category:Russian anarchists</a>
-<a href="Category:Anarcho-Collectivists" class="wikilink"
-title="Category:Anarcho-Collectivists">Category:Anarcho-Collectivists</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Russian_anarchists.md" class="wikilink"
+title="Category:Russian anarchists">"Category:Russian anarchists</a>
+"<a   href="Category:Anarcho-Collectivists.md" class="wikilink"
+title="Category:Anarcho-Collectivists">"Category:Anarcho-Collectivists</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
 
 [^1]: Mikhail Bakunin (1842) The Reaction in Germany
     [www.marxists.org/reference/archive/bakunin/works/1842/reaction-germany.htm](https://www.marxists.org/reference/archive/bakunin/works/1842/reaction-germany.htm) -
@@ -451,14 +451,14 @@ title="Category:Featured">Category:Featured</a>
     <https://www.marxists.org/reference/archive/bakunin/works/1872/karl-marx.htm>
 
 [^9]: Mikhail Bakunin (1873)
-    <a href="Statism_and_Anarchy" class="wikilink"
-    title="Statism and Anarchy">Statism and Anarchy</a> -
+    "<a   href="Statism_and_Anarchy.md" class="wikilink"
+    title="Statism and Anarchy">"Statism and Anarchy</a> -
     <https://libcom.org/library/statism-anarchy-mikhail-bakunin>
 
-[^10]: <a href="Daniel_Guérin" class="wikilink" title="Daniel Guérin">Daniel
+[^10]: "<a   href="Daniel_Guérin.md" class="wikilink" title="Daniel Guérin">"Daniel
     Guérin</a> (1970)
-    <a href="Anarchism:_From_Theory_to_Practice" class="wikilink"
-    title="Anarchism: From Theory to Practice">Anarchism: From Theory to
+    "<a   href="Anarchism:_From_Theory_to_Practice.md" class="wikilink"
+    title="Anarchism: From Theory to Practice">"Anarchism: From Theory to
     Practice</a>
 
 [^11]:

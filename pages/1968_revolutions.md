@@ -70,13 +70,13 @@ group's role, which historians of the occupation have neglected:
 > white students. So, our role was pivotal, though ignored historically
 > and journalistically.[^9]
 
-## <a href="The_May-June_Revolt_in_France,_1968" class="wikilink"
-title="The May-June Revolt in France, 1968">The May-June Revolt in
+## "<a   href="The_May-June_Revolt_in_France,_1968.md" class="wikilink"
+title="The May-June Revolt in France, 1968">"The May-June Revolt in
 France, 1968</a>
 
 *Also see the article
-<a href="The_May-June_Revolt_in_France,_1968" class="wikilink"
-title="The May-June Revolt in France, 1968">The May-June Revolt in
+"<a   href="The_May-June_Revolt_in_France,_1968.md" class="wikilink"
+title="The May-June Revolt in France, 1968">"The May-June Revolt in
 France, 1968</a>.*
 
 In May and June of 1968, a wave of riots and occupations swept France

@@ -120,8 +120,8 @@ X363823
 
 ### Organisation of the New Society
 
-- The <a href="Libertarian_Commune" class="wikilink"
-  title="Libertarian Commune">Libertarian Commune</a> was proposed as
+- The "<a   href="Libertarian_Commune.md" class="wikilink"
+  title="Libertarian Commune">"Libertarian Commune</a> was proposed as
   the political and administrative entity and the basis of the new
   social mechanism, operating autonomously and federating regionally and
   nationally. Communes were to manage local resources, coordinate
@@ -216,23 +216,23 @@ X363823
 
 See
 
-- <a href="Anarchist_Programmes" class="wikilink"
-  title="Anarchist Programmes">Anarchist Programmes</a>
-- <a href="Anarchist_Revolutionary_Methods" class="wikilink"
-  title="Anarchist Revolutionary Methods">Anarchist Revolutionary
+- "<a   href="Anarchist_Programmes.md" class="wikilink"
+  title="Anarchist Programmes">"Anarchist Programmes</a>
+- "<a   href="Anarchist_Revolutionary_Methods.md" class="wikilink"
+  title="Anarchist Revolutionary Methods">"Anarchist Revolutionary
   Methods</a>
 
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:CNT" class="wikilink"
-title="Category:CNT">Category:CNT</a>
-<a href="Category:Libertarian_Communism" class="wikilink"
-title="Category:Libertarian Communism">Category:Libertarian
-Communism</a> <a href="Category:Spanish_Civil_War" class="wikilink"
-title="Category:Spanish Civil War">Category:Spanish Civil War</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Anarchist_Transition" class="wikilink"
-title="Category:Anarchist Transition">Category:Anarchist Transition</a>
-<a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+"<a   href="Category:Anarchism.md" class="wikilink"
+title="Category:Anarchism">"Category:Anarchism</a>
+"<a   href="Category:CNT.md" class="wikilink"
+title="Category:CNT">"Category:CNT</a>
+"<a   href="Category:Libertarian_Communism.md" class="wikilink"
+title="Category:Libertarian Communism">"Category:Libertarian
+Communism</a> "<a   href="Category:Spanish_Civil_War.md" class="wikilink"
+title="Category:Spanish Civil War">"Category:Spanish Civil War</a>
+"<a   href="Category:AnarWiki.md" class="wikilink"
+title="Category:AnarWiki">"Category:AnarWiki</a>
+"<a   href="Category:Anarchist_Transition.md" class="wikilink"
+title="Category:Anarchist Transition">"Category:Anarchist Transition</a>
+"<a   href="Category:Featured.md" class="wikilink"
+title="Category:Featured">"Category:Featured</a>
