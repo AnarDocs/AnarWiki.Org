@@ -2,17 +2,17 @@
 
 **Kuwasi Balagoon** (born **Donald Weems**; December 22, 1946 – December
 13, 1986) was a revolutionary
-"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>,
+"<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>,
 "<a   href="Black_Liberation_Army.md" class="wikilink"
-title="Black Liberation Army">"Black Liberation Army</a> soldier, and
+title="Black Liberation Army">Black Liberation Army</a> soldier, and
 member of the "<a   href="Black_Panther_Party.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a>. A pioneering
+title="Black Panther Party">Black Panther Party</a>. A pioneering
 theorist of "<a   href="New_Afrikan_anarchism.md" class="wikilink"
-title="New Afrikan anarchism">"New Afrikan anarchism</a>, Balagoon
+title="New Afrikan anarchism">New Afrikan anarchism</a>, Balagoon
 synthesized
-"<a   href="anarchism.md" class="wikilink" title="anarchist theory">"anarchist
+"<a   href="anarchism.md" class="wikilink" title="anarchist theory">anarchist
 theory</a> with "<a   href="Black_nationalism.md" class="wikilink"
-title="Black liberationist">"Black liberationist</a> praxis, creating a
+title="Black liberationist">Black liberationist</a> praxis, creating a
 unique revolutionary ideology that rejected both capitalist oppression
 and authoritarian socialism. As an openly bisexual Black revolutionary,
 Balagoon challenged heteronormative assumptions within radical movements
@@ -24,15 +24,15 @@ capitalism, and imperialism.
 Kuwasi Balagoon was born Donald Weems on December 22, 1946 in the
 predominantly Black community of Lakeland in
 "<a   href="Prince_George&#39;s_County,_Maryland.md" class="wikilink"
-title="Prince George&#39;s County, Maryland">"Prince George's County,
+title="Prince George&#39;s County, Maryland">Prince George's County,
 Maryland</a>. Growing up during the height of the
 "<a   href="civil_rights_movement.md" class="wikilink"
-title="civil rights movement">"civil rights movement</a>, the teenage
+title="civil rights movement">civil rights movement</a>, the teenage
 Weems was profoundly influenced by
 "<a   href="Gloria_Richardson.md" class="wikilink"
-title="Gloria Richardson">"Gloria Richardson</a> and the militant
+title="Gloria Richardson">Gloria Richardson</a> and the militant
 "<a   href="Cambridge_movement.md" class="wikilink"
-title="Cambridge movement">"Cambridge movement</a> in Maryland, which
+title="Cambridge movement">Cambridge movement</a> in Maryland, which
 broke from the passive resistance model advocated by mainstream civil
 rights organizations. The Cambridge movement embraced active
 self-defense against white supremacist violence, culminating in the
@@ -40,7 +40,7 @@ Cambridge riot of 1963 that required National Guard intervention for
 over a year.[^1]
 
 After graduating high school, Weems enlisted in the
-"<a   href="US_Army.md" class="wikilink" title="US Army">"US Army</a> and was
+"<a   href="US_Army.md" class="wikilink" title="US Army">US Army</a> and was
 deployed to Germany. His military service exposed him to the racism
 endemic to American imperial institutions, as he and other Black
 soldiers faced physical attacks and discrimination from white officers
@@ -55,7 +55,7 @@ Black immigrants from Africa and the Caribbean, finding the experience
 of meeting Black people of diverse nationalities stimulating. This
 international perspective led him to embrace a more
 "<a   href="Afrocentrism.md" class="wikilink"
-title="Afrocentric">"Afrocentric</a> worldview that would later inform
+title="Afrocentric">Afrocentric</a> worldview that would later inform
 his pan-Africanist politics.[^3]
 
 After serving three years, mostly in Germany, Weems received an
@@ -84,7 +84,7 @@ Following this, Weems joined the Central Harlem Committee for
 Self-Defense, which provided material support to students occupying
 buildings during the
 "<a   href="Columbia_University_protests_of_1968.md" class="wikilink"
-title="Columbia University protests of 1968">"Columbia University
+title="Columbia University protests of 1968">Columbia University
 protests of 1968</a>. Around this time, Weems also became involved with
 the Yoruba Temple in Harlem, led by Adefunmi, which promoted West
 African traditional religion and Black nationalism. Under Adefunmi's
@@ -97,36 +97,36 @@ Sunday, and "Balagoon" a Yoruba name meaning "Warlord."[^8][^9]
 As the 1960s progressed, Balagoon became increasingly committed to
 revolutionary politics, reading works like
 *"<a   href="The_Autobiography_of_Malcolm_X.md" class="wikilink"
-title="The Autobiography of Malcolm X">"The Autobiography of Malcolm
+title="The Autobiography of Malcolm X">The Autobiography of Malcolm
 X</a>*, Robert F. Williams'
 *"<a   href="Negroes_with_Guns.md" class="wikilink"
-title="Negroes with Guns">"Negroes with Guns</a>* and his newsletter *The
+title="Negroes with Guns">Negroes with Guns</a>* and his newsletter *The
 Crusader*, and following
-"<a   href="H._Rap_Brown.md" class="wikilink" title="H. Rap Brown">"H. Rap
+"<a   href="H._Rap_Brown.md" class="wikilink" title="H. Rap Brown">H. Rap
 Brown</a> of the
 "<a   href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
-title="Student Nonviolent Coordinating Committee">"Student Nonviolent
+title="Student Nonviolent Coordinating Committee">Student Nonviolent
 Coordinating Committee</a>. These influences led Balagoon to conclude
 that Black liberation could only be achieved through "protracted
 "<a   href="guerrilla_warfare.md" class="wikilink"
-title="guerrilla warfare">"guerrilla warfare</a>."[^10]
+title="guerrilla warfare">guerrilla warfare</a>."[^10]
 
 Balagoon joined the "<a   href="Black_Panther_Party.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a> after learning of
-"<a   href="Huey_Newton.md" class="wikilink" title="Huey Newton">"Huey
+title="Black Panther Party">Black Panther Party</a> after learning of
+"<a   href="Huey_Newton.md" class="wikilink" title="Huey Newton">Huey
 Newton</a>'s October 1967 shootout with Oakland police. When the Student
 Nonviolent Coordinating Committee and the Revolutionary Action Movement
 established a Harlem chapter of the BPP, Balagoon quickly joined,
 attracted by the Panthers' adoption of
-"<a   href="Maoism.md" class="wikilink" title="Maoism">"Maoism</a> and emphasis
+"<a   href="Maoism.md" class="wikilink" title="Maoism">Maoism</a> and emphasis
 on armed self-defense. Unlike West Coast chapters that focused on
 survival programs like free breakfast initiatives, the New York chapters
 emphasized tenant organizing, community takeovers of institutions like
 Lincoln Hospital (in coalition with the
-"<a   href="Young_Lords.md" class="wikilink" title="Young Lords">"Young
+"<a   href="Young_Lords.md" class="wikilink" title="Young Lords">Young
 Lords</a>), and building connections with the Provisional Government of
 the "<a   href="Republic_of_New_Afrika.md" class="wikilink"
-title="Republic of New Afrika">"Republic of New Afrika</a>.[^11][^12]
+title="Republic of New Afrika">Republic of New Afrika</a>.[^11][^12]
 
 ## Political Prisoner
 
@@ -136,17 +136,17 @@ In February 1969, Balagoon was arrested in New Jersey and charged with
 bank robbery.[^13] Two months later, on April 2, 1969, he was indicted
 along with 20 other Panther leaders and organizers on conspiracy charges
 in what became known as the
-"<a   href="Panther_21.md" class="wikilink" title="Panther 21">"Panther 21</a>
+"<a   href="Panther_21.md" class="wikilink" title="Panther 21">Panther 21</a>
 case. The charges included conspiracy to bomb the New York Botanical
 Gardens, police stations, and department stores, as well as conspiracy
 to assassinate police officers—charges that were later revealed to be
 part of the FBI's
-"<a   href="COINTELPRO.md" class="wikilink" title="COINTELPRO">"COINTELPRO</a>
+"<a   href="COINTELPRO.md" class="wikilink" title="COINTELPRO">COINTELPRO</a>
 program to destroy the Black Panther Party.[^14][^15]
 
 While most defendants were released on bail, Balagoon was held without
 bail due to the pending New Jersey charges. He and fellow Panther
-"<a   href="Sekou_Odinga.md" class="wikilink" title="Sekou Odinga">"Sekou
+"<a   href="Sekou_Odinga.md" class="wikilink" title="Sekou Odinga">Sekou
 Odinga</a> were specifically accused of attempting to ambush New York
 City police officers, accusations based largely on the coerced testimony
 of BPP member Joan Bird, who defense attorneys alleged had been beaten
@@ -154,7 +154,7 @@ by police until she agreed to implicate them.[^16] When Odinga learned
 of Bird's arrest and beating, he escaped police custody and eventually
 fled to Algeria where Panther leader
 "<a   href="Eldridge_Cleaver.md" class="wikilink"
-title="Eldridge Cleaver">"Eldridge Cleaver</a> was based.[^17]
+title="Eldridge Cleaver">Eldridge Cleaver</a> was based.[^17]
 
 In October 1970, while awaiting trial, Balagoon participated in
 coordinated prison uprisings at both the Queens Branch House of
@@ -178,14 +178,14 @@ During his imprisonment, Balagoon became profoundly disillusioned with
 the authoritarian structure of the Black Panther Party. The expulsion of
 popular figures like former Army Ranger
 "<a   href="Geronimo_Pratt.md" class="wikilink"
-title="Geronimo Pratt">"Geronimo Pratt</a>—who was later proven to have
+title="Geronimo Pratt">Geronimo Pratt</a>—who was later proven to have
 been wrongfully convicted—demoralized many New York Panthers.[^20]
 Tensions between West Coast and East Coast chapters escalated over
 questions of centralized leadership, whether to embrace pan-Africanism
 or internationalism, and the party's increasing focus on legal defense
 rather than community organizing. When the California leadership
 expelled New York leaders "<a   href="Dhoruba_bin_Wahad.md" class="wikilink"
-title="Dhoruba bin Wahad">"Dhoruba bin Wahad</a>, Michael "Cetewayo"
+title="Dhoruba bin Wahad">Dhoruba bin Wahad</a>, Michael "Cetewayo"
 Tabor, and Connie Matthews, the New York chapter officially split from
 the national organization.[^21]
 
@@ -196,20 +196,20 @@ The true democratic process which they were willing to die for, for the
 sake of their children, they would not claim for themselves."[^22]
 
 Groups like the "<a   href="Anarchist_Black_Cross.md" class="wikilink"
-title="Anarchist Black Cross">"Anarchist Black Cross</a>—which also
+title="Anarchist Black Cross">Anarchist Black Cross</a>—which also
 influenced fellow BPP member
 "<a   href="Lorenzo_Kom&#39;boa_Ervin.md" class="wikilink"
-title="Lorenzo Kom&#39;boa Ervin">"Lorenzo Kom'boa Ervin</a>—sent
+title="Lorenzo Kom&#39;boa Ervin">Lorenzo Kom'boa Ervin</a>—sent
 Balagoon anarchist literature in prison. He studied the works of
 "<a   href="Errico_Malatesta.md" class="wikilink"
-title="Errico Malatesta">"Errico Malatesta</a>,
+title="Errico Malatesta">Errico Malatesta</a>,
 "<a   href="Buenaventura_Durruti.md" class="wikilink"
-title="Buenaventura Durruti">"Buenaventura Durruti</a>,
+title="Buenaventura Durruti">Buenaventura Durruti</a>,
 "<a   href="Severino_Di_Giovanni.md" class="wikilink"
-title="Severino Di Giovanni">"Severino Di Giovanni</a>,
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">"Emma
+title="Severino Di Giovanni">Severino Di Giovanni</a>,
+"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>, and
-"<a   href="Wilhelm_Reich.md" class="wikilink" title="Wilhelm Reich">"Wilhelm
+"<a   href="Wilhelm_Reich.md" class="wikilink" title="Wilhelm Reich">Wilhelm
 Reich</a>, seeking to apply anarchist theory to Black liberation
 struggle. Goldman's concept of "free love" particularly resonated with
 Balagoon, who was bisexual and rejected bourgeois sexual
@@ -219,7 +219,7 @@ Balagoon came to identify as a "New Afrikan Anarchist," synthesizing
 anarchism with the Republic of New Afrika's concept of Africans in
 America as an internal colony. This ideological framework led him toward
 the more militant "<a   href="Black_Liberation_Army.md" class="wikilink"
-title="Black Liberation Army">"Black Liberation Army</a>, which advocated
+title="Black Liberation Army">Black Liberation Army</a>, which advocated
 underground guerrilla warfare against the state.[^25]
 
 ## Revolutionary Activity
@@ -248,9 +248,9 @@ returned from Africa.[^28][^29]
 
 The BLA formed an alliance with white revolutionary groups including the
 "<a   href="May_19_Communist_Organization.md" class="wikilink"
-title="May 19 Communist Organization">"May 19 Communist Organization</a>
+title="May 19 Communist Organization">May 19 Communist Organization</a>
 and former "<a   href="Weather_Underground.md" class="wikilink"
-title="Weather Underground">"Weather Underground</a> members,
+title="Weather Underground">Weather Underground</a> members,
 collectively calling themselves the Revolutionary Armed Task Force
 (RATF). This coalition included Muslims, revolutionary nationalists,
 communists, and Balagoon as the sole anarchist. Despite his critique of
@@ -270,7 +270,7 @@ Ku Klux Klan.[^31]
 
 On November 2, 1979, Balagoon participated in one of the BLA's most
 successful operations: the liberation of
-"<a   href="Assata_Shakur.md" class="wikilink" title="Assata Shakur">"Assata
+"<a   href="Assata_Shakur.md" class="wikilink" title="Assata Shakur">Assata
 Shakur</a> from Clinton Correctional Facility for Women in New Jersey.
 An armed team of four BLA members, including Balagoon and Odinga, along
 with two white allies from the RATF, executed a well-planned operation
@@ -298,9 +298,9 @@ struggles on the African continent.[^35]
 ## Trial and Imprisonment
 
 Balagoon was tried alongside
-"<a   href="David_Gilbert.md" class="wikilink" title="David Gilbert">"David
+"<a   href="David_Gilbert.md" class="wikilink" title="David Gilbert">David
 Gilbert</a> and "<a   href="Judith_Alice_Clark.md" class="wikilink"
-title="Judith Alice Clark">"Judith Alice Clark</a> in July 1983. The
+title="Judith Alice Clark">Judith Alice Clark</a> in July 1983. The
 trial was moved from Rockland County to Orange County due to concerns
 about jury impartiality. Balagoon dismissed his legal representation and
 defended himself, using the courtroom as a platform to articulate New
@@ -379,7 +379,7 @@ Organization.[^45][^46]
 
 Despite facing homophobia, Balagoon earned deep respect from his
 comrades through his unwavering commitment to revolutionary struggle.
-"<a   href="Sekou_Odinga.md" class="wikilink" title="Sekou Odinga">"Sekou
+"<a   href="Sekou_Odinga.md" class="wikilink" title="Sekou Odinga">Sekou
 Odinga</a> remembered him as "a walking contradiction"—someone equally
 ready for dangerous operations and gentle enough to be trusted as a
 babysitter. Balagoon enjoyed getting high (experimenting with any drug
@@ -389,7 +389,7 @@ any category" while never separating his diverse interests from the
 struggle for liberation.[^47]
 
 "<a   href="Dhoruba_bin_Wahad.md" class="wikilink"
-title="Dhoruba bin Wahad">"Dhoruba bin Wahad</a> recalled a powerful
+title="Dhoruba bin Wahad">Dhoruba bin Wahad</a> recalled a powerful
 memory of Balagoon during a trip through the South. When asked to "bust
 a verse or two," Balagoon proclaimed: "white folks don't mind, and Black
 folks don't matter."[^48]
@@ -421,19 +421,19 @@ political legacy that continues to inspire contemporary anarchist
 movements.[^52]
 
 In 2019,
-"<a   href="PM_Press.md" class="wikilink" title="PM Press">"PM Press</a>
+"<a   href="PM_Press.md" class="wikilink" title="PM Press">PM Press</a>
 published *Kuwasi Balagoon: A Soldier's Story*, an expanded collection
 of writings by and about Balagoon edited by Matt Meyer and Karl
 Kersplebedeb, featuring contributions from
-"<a   href="Sekou_Odinga.md" class="wikilink" title="Sekou Odinga">"Sekou
+"<a   href="Sekou_Odinga.md" class="wikilink" title="Sekou Odinga">Sekou
 Odinga</a>,
-"<a   href="David_Gilbert.md" class="wikilink" title="David Gilbert">"David
+"<a   href="David_Gilbert.md" class="wikilink" title="David Gilbert">David
 Gilbert</a>, Meg Starr,
-"<a   href="Ashanti_Alston.md" class="wikilink" title="Ashanti Alston">"Ashanti
+"<a   href="Ashanti_Alston.md" class="wikilink" title="Ashanti Alston">Ashanti
 Alston</a>, and other activists.[^53]
 
 Since 2020,
-"<a   href="Black_and_Pink.md" class="wikilink" title="Black and Pink">"Black
+"<a   href="Black_and_Pink.md" class="wikilink" title="Black and Pink">Black
 and Pink</a>, a prison abolitionist organization supporting LGBTQ and
 HIV-positive prisoners, has awarded the annual "Kuwasi Balagoon Award"
 to people living with HIV/AIDS, honoring his revolutionary legacy and
@@ -474,27 +474,27 @@ Action has been captured."[^56]
 <references/>
 
 "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>
 "<a   href="Category:Black_Anarchists.md" class="wikilink"
-title="Category:Black Anarchists">"Category:Black Anarchists</a>
+title="Category:Black Anarchists">Category:Black Anarchists</a>
 "<a   href="Category:New_Afrikan_Anarchists.md" class="wikilink"
-title="Category:New Afrikan Anarchists">"Category:New Afrikan
+title="Category:New Afrikan Anarchists">Category:New Afrikan
 Anarchists</a> "<a   href="Category:Black_Liberation_Army.md" class="wikilink"
-title="Category:Black Liberation Army">"Category:Black Liberation
+title="Category:Black Liberation Army">Category:Black Liberation
 Army</a> "<a   href="Category:Black_Panther_Party.md" class="wikilink"
-title="Category:Black Panther Party">"Category:Black Panther Party</a>
+title="Category:Black Panther Party">Category:Black Panther Party</a>
 "<a   href="Category:Political_Prisoners.md" class="wikilink"
-title="Category:Political Prisoners">"Category:Political Prisoners</a>
+title="Category:Political Prisoners">Category:Political Prisoners</a>
 "<a   href="Category:LGBTQ_Anarchists.md" class="wikilink"
-title="Category:LGBTQ Anarchists">"Category:LGBTQ Anarchists</a>
+title="Category:LGBTQ Anarchists">Category:LGBTQ Anarchists</a>
 "<a   href="Category:Revolutionary_Literature.md" class="wikilink"
-title="Category:Revolutionary Literature">"Category:Revolutionary
+title="Category:Revolutionary Literature">Category:Revolutionary
 Literature</a> "<a   href="Category:1946_Births.md" class="wikilink"
-title="Category:1946 Births">"Category:1946 Births</a>
+title="Category:1946 Births">Category:1946 Births</a>
 "<a   href="Category:1986_Deaths.md" class="wikilink"
-title="Category:1986 Deaths">"Category:1986 Deaths</a>
+title="Category:1986 Deaths">Category:1986 Deaths</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Umoja, Akinyele. "Maroon: Kuwasi Balagoon and the Evolution of
     Revolutionary New Afrikan Anarchism." Science & Society, Vol. 79,

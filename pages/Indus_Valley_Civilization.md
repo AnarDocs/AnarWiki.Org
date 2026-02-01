@@ -8,7 +8,7 @@
 The **Indus Valley Civilization**, also known as the **Harappan
 Civilization**, was a possibly
 "<a   href="List_of_Anarchist_Societies.md" class="wikilink"
-title="anarchist society">"anarchist society</a> that flourished from
+title="anarchist society">anarchist society</a> that flourished from
 approximately 3300 BCE to 1300 BCE (with its mature period lasting from
 2600 to 1900 BCE). With a population of five million people at its
 height, it has no strong evidence of having had warfare, inequality, or
@@ -82,9 +82,9 @@ Egypt and Sumer) and the lack of any centralized political buildings
 such as courts, palaces, military barracks or parliaments, it can be
 safe to assume that the most likely method of decision-making was some
 kind of "<a   href="confederation.md" class="wikilink"
-title="confederation">"confederation</a> rooted in
+title="confederation">confederation</a> rooted in
 "<a   href="Democratic_Assembly.md" class="wikilink"
-title="local assemblies">"local assemblies</a>.
+title="local assemblies">local assemblies</a>.
 
 ## Economy
 
@@ -132,11 +132,11 @@ animal-powered wheeled carts and an extensive maritime network composed
 of docks and ships.
 
 In terms of modern
-"<a   href="Anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 theory, the economy mainly resembled a
-"<a   href="Mutualism.md" class="wikilink" title="mutualist">"mutualist</a> one
+"<a   href="Mutualism.md" class="wikilink" title="mutualist">mutualist</a> one
 with elements of "<a   href="Anarcho-Communism.md" class="wikilink"
-title="anarcho-communism">"anarcho-communism</a>.
+title="anarcho-communism">anarcho-communism</a>.
 
 ### City-Countryside Balance
 
@@ -234,31 +234,31 @@ able to survive.
 <references/>
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
-title="Category:Past Anarchist Societies">"Category:Past Anarchist
+title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a> "<a   href="Category:Before_Common_Era.md" class="wikilink"
-title="Category:Before Common Era">"Category:Before Common Era</a>
+title="Category:Before Common Era">Category:Before Common Era</a>
 "<a   href="Category:India.md" class="wikilink"
-title="Category:India">"Category:India</a>
+title="Category:India">Category:India</a>
 "<a   href="Category:Pakistan.md" class="wikilink"
-title="Category:Pakistan">"Category:Pakistan</a>
+title="Category:Pakistan">Category:Pakistan</a>
 "<a   href="Category:Afghanistan.md" class="wikilink"
-title="Category:Afghanistan">"Category:Afghanistan</a>
+title="Category:Afghanistan">Category:Afghanistan</a>
 "<a   href="Category:Southern_Asia.md" class="wikilink"
-title="Category:Southern Asia">"Category:Southern Asia</a>
+title="Category:Southern Asia">Category:Southern Asia</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Peter Gelderloos, *Worshiping Power: An Anarchist View of Early
     State Formation* (Oakland: AK Press, 2016), 142.

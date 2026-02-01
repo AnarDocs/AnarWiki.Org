@@ -1,2 +1,2 @@
 1.  REDIRECT "<a   href="Libertarian_Socialism.md" class="wikilink"
-    title="Libertarian Socialism">"Libertarian Socialism</a>
+    title="Libertarian Socialism">Libertarian Socialism</a>

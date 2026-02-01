@@ -1,8 +1,8 @@
 **Peasants**are an "<a   href="exploited_class.md" class="wikilink"
-title="exploited class">"exploited class</a> who work in
+title="exploited class">exploited class</a> who work in
 "<a   href="agriculture.md" class="wikilink"
-title="agriculture">"agriculture</a>, they do not control the
-"<a   href="land.md" class="wikilink" title="land">"land</a> they work on.
+title="agriculture">agriculture</a>, they do not control the
+"<a   href="land.md" class="wikilink" title="land">land</a> they work on.
 
 ## List of Peasant Rebellions
 
@@ -10,7 +10,7 @@ title="agriculture">"agriculture</a>, they do not control the
 
 - 209BCE: Anti-Qin revolts
 - 205BCE: "<a   href="Great_Revolt_of_the_Egyptians.md" class="wikilink"
-  title="Great Revolt of the Egyptians">"Great Revolt of the Egyptians</a>
+  title="Great Revolt of the Egyptians">Great Revolt of the Egyptians</a>
 - 17: Lülin
 - 17: Red Eyebrows
 - 172: Bucolic War
@@ -123,18 +123,18 @@ title="agriculture">"agriculture</a>, they do not control the
 - 1911: Henan Peasant Rebellion
 - 1913: Northern Shaanxi Peasant Revolt
 - 1913: "<a   href="Morelos_Commune.md" class="wikilink"
-  title="Morelos Revolution">"Morelos Revolution</a>
+  title="Morelos Revolution">Morelos Revolution</a>
 - 1916: Semirechye Revolt
 - 1917: "<a   href="Russian_Revolution.md" class="wikilink"
-  title="Russian Revolution">"Russian Revolution</a>
+  title="Russian Revolution">Russian Revolution</a>
 - 1918: Arsk Uprising
 - 1918: "<a   href="Ukrainian_Revolution.md" class="wikilink"
-  title="Ukrainian Revolution">"Ukrainian Revolution</a>
+  title="Ukrainian Revolution">Ukrainian Revolution</a>
 - 1920: Pitchfork Uprising
 - 1920: "<a   href="Tambov_Rebellion.md" class="wikilink"
-  title="Tambov Rebellion">"Tambov Rebellion</a>
+  title="Tambov Rebellion">Tambov Rebellion</a>
 - 1921: "<a   href="Sorokino_Peasants&#39;_Revolt.md" class="wikilink"
-  title="Sorokino Peasants&#39; Revolt">"Sorokino Peasants' Revolt</a>
+  title="Sorokino Peasants&#39; Revolt">Sorokino Peasants' Revolt</a>
 - 1921: Malabar Rebellion
 - 1924: Revolt of Mang-The-Sixth
 - 1925: Revolt of Chu Heng-teng
@@ -142,7 +142,7 @@ title="agriculture">"agriculture</a>, they do not control the
 - 1928: Red Spears Uprising
 - 1932: Salvadoran Peasant Uprising
 - 1932:
-  "<a   href="Lesko_Uprising.md" class="wikilink" title="Lesko Uprising">"Lesko
+  "<a   href="Lesko_Uprising.md" class="wikilink" title="Lesko Uprising">Lesko
   Uprising</a>
 - 1932: Anti-Poppy Tax Uprising
 - 1936: Miyun District Rebellion
@@ -152,22 +152,22 @@ title="agriculture">"agriculture</a>, they do not control the
 - 1947: Hukbalahap Rebellion
 - 1950: Cazin Rebellion
 - 1952:
-  "<a   href="Mau_Mau_Uprising.md" class="wikilink" title="Mau Mau Uprising">"Mau
+  "<a   href="Mau_Mau_Uprising.md" class="wikilink" title="Mau Mau Uprising">Mau
   Mau Uprising</a>
 - 1959: Escambray Rebellion
 - 1968: "<a   href="Agbekoya_Parapo_Uprising.md" class="wikilink"
-  title="Agbekoya Parapo Uprising">"Agbekoya Parapo Uprising</a>
+  title="Agbekoya Parapo Uprising">Agbekoya Parapo Uprising</a>
 - 1973: "<a   href="1970s_Thailand_Peasants&#39;_Uprising.md" class="wikilink"
-  title="Thailand Peasants&#39; Uprising">"Thailand Peasants' Uprising</a>
+  title="Thailand Peasants&#39; Uprising">Thailand Peasants' Uprising</a>
 - 1975: Tigray and Eritrea Uprisings
 - 1994: "<a   href="Zapatista_Revolution.md" class="wikilink"
-  title="Zapatista Revolution">"Zapatista Revolution</a>
+  title="Zapatista Revolution">Zapatista Revolution</a>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Economic_Classes.md" class="wikilink"
-title="Category:Economic Classes">"Category:Economic Classes</a>
+title="Category:Economic Classes">Category:Economic Classes</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Agriculture.md" class="wikilink"
-title="Category:Agriculture">"Category:Agriculture</a>
+title="Category:Agriculture">Category:Agriculture</a>

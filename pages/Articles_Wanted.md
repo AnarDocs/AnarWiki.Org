@@ -1,186 +1,186 @@
-- "<a   href="Alan_Moore.md" class="wikilink" title="Alan Moore">"Alan Moore</a> -
+- "<a   href="Alan_Moore.md" class="wikilink" title="Alan Moore">Alan Moore</a> -
   <https://en.wikipedia.org/wiki/Alan_Moore>
-- "<a   href="Authority.md" class="wikilink" title="Authority">"Authority</a> /
+- "<a   href="Authority.md" class="wikilink" title="Authority">Authority</a> /
   "<a   href="Authority_of_Cobbler.md" class="wikilink"
-  title="Authority of Cobbler">"Authority of Cobbler</a> /
-  "<a   href="Hierarchy.md" class="wikilink" title="Hierarchy">"Hierarchy</a>
+  title="Authority of Cobbler">Authority of Cobbler</a> /
+  "<a   href="Hierarchy.md" class="wikilink" title="Hierarchy">Hierarchy</a>
 - "<a   href="Bourgeoisie.md" class="wikilink"
-  title="Bourgeoisie">"Bourgeoisie</a>
+  title="Bourgeoisie">Bourgeoisie</a>
 - "<a   href="Anarchist_Calisthenics.md" class="wikilink"
-  title="Anarchist Calisthenics">"Anarchist Calisthenics</a>
+  title="Anarchist Calisthenics">Anarchist Calisthenics</a>
 - "<a   href="Commodification.md" class="wikilink"
-  title="Commodification">"Commodification</a> / decommodification /
+  title="Commodification">Commodification</a> / decommodification /
   demarketisation
-- "<a   href="Crime.md" class="wikilink" title="Crime">"Crime</a> -
+- "<a   href="Crime.md" class="wikilink" title="Crime">Crime</a> -
   "<a   href=":Category:Justice.md" class="wikilink"
-  title=":Category:Justice">":Category:Justice</a>
-- "<a   href="Dual_Power.md" class="wikilink" title="Dual Power">"Dual Power</a> -
+  title=":Category:Justice">:Category:Justice</a>
+- "<a   href="Dual_Power.md" class="wikilink" title="Dual Power">Dual Power</a> -
   <https://en.wikipedia.org/wiki/Dual_power>
 - "<a   href="Especifismo.md" class="wikilink"
-  title="Especifismo">"Especifismo</a> -
+  title="Especifismo">Especifismo</a> -
   <https://en.wikipedia.org/wiki/Platformism>
 - "<a   href="Externalities.md" class="wikilink"
-  title="Externalities">"Externalities</a>
-- "<a   href="Fascism.md" class="wikilink" title="Fascism">"Fascism</a>
-- "<a   href="Front.md" class="wikilink" title="Front">"Front</a>
-- "<a   href="Landlords.md" class="wikilink" title="Landlords">"Landlords</a>
-- "<a   href="Law.md" class="wikilink" title="Law">"Law</a>
+  title="Externalities">Externalities</a>
+- "<a   href="Fascism.md" class="wikilink" title="Fascism">Fascism</a>
+- "<a   href="Front.md" class="wikilink" title="Front">Front</a>
+- "<a   href="Landlords.md" class="wikilink" title="Landlords">Landlords</a>
+- "<a   href="Law.md" class="wikilink" title="Law">Law</a>
 - "<a   href="Library_Socialism.md" class="wikilink"
-  title="Library Socialism">"Library Socialism</a>
-- "<a   href="Mastodon.md" class="wikilink" title="Mastodon">"Mastodon</a>
-- "<a   href="Piracy.md" class="wikilink" title="Piracy">"Piracy</a>
-- "<a   href="Poverty.md" class="wikilink" title="Poverty">"Poverty</a>
-- "<a   href="Propaganda.md" class="wikilink" title="Propaganda">"Propaganda</a>
+  title="Library Socialism">Library Socialism</a>
+- "<a   href="Mastodon.md" class="wikilink" title="Mastodon">Mastodon</a>
+- "<a   href="Piracy.md" class="wikilink" title="Piracy">Piracy</a>
+- "<a   href="Poverty.md" class="wikilink" title="Poverty">Poverty</a>
+- "<a   href="Propaganda.md" class="wikilink" title="Propaganda">Propaganda</a>
   / "<a   href="Propaganda_Of_The_Deed.md" class="wikilink"
-  title="Propaganda Of The Deed">"Propaganda Of The Deed</a> -
+  title="Propaganda Of The Deed">Propaganda Of The Deed</a> -
   <https://en.wikipedia.org/wiki/Propaganda_of_the_deed>
-- "<a   href="Revolution.md" class="wikilink" title="Revolution">"Revolution</a>
+- "<a   href="Revolution.md" class="wikilink" title="Revolution">Revolution</a>
 - "<a   href="Shavian_alphabet.md" class="wikilink"
-  title="Shavian alphabet">"Shavian alphabet</a> -
+  title="Shavian alphabet">Shavian alphabet</a> -
   <https://en.wikipedia.org/wiki/Shavian_alphabet>
-- "<a   href="Socialism.md" class="wikilink" title="Socialism">"Socialism</a>
-- "<a   href="Solarpunk.md" class="wikilink" title="Solarpunk">"Solarpunk</a> -
+- "<a   href="Socialism.md" class="wikilink" title="Socialism">Socialism</a>
+- "<a   href="Solarpunk.md" class="wikilink" title="Solarpunk">Solarpunk</a> -
   <https://en.wikipedia.org/wiki/Solarpunk>
 - "<a   href="State_And_Revolution_(Lenin).md" class="wikilink"
-  title="State And Revolution (Lenin)">"State And Revolution (Lenin)</a> -
+  title="State And Revolution (Lenin)">State And Revolution (Lenin)</a> -
   responses to
-- "<a   href="Workerism.md" class="wikilink" title="Workerism">"Workerism</a>
+- "<a   href="Workerism.md" class="wikilink" title="Workerism">Workerism</a>
 
 Notable Anarchists -
 
 - "<a   href="Gerrard_Winstanley.md" class="wikilink"
-  title="Gerrard Winstanley">"Gerrard Winstanley</a> -
+  title="Gerrard Winstanley">Gerrard Winstanley</a> -
   <https://en.wikipedia.org/wiki/Gerrard_Winstanley>
-- "<a   href="Iain_M._Banks.md" class="wikilink" title="Iain M. Banks">"Iain M.
+- "<a   href="Iain_M._Banks.md" class="wikilink" title="Iain M. Banks">Iain M.
   Banks</a> - <https://en.wikipedia.org/wiki/Iain_Banks>
 - "<a   href="Margaret_Killjoy.md" class="wikilink"
-  title="Margaret Killjoy">"Margaret Killjoy</a> -
+  title="Margaret Killjoy">Margaret Killjoy</a> -
   <https://en.wikipedia.org/wiki/Margaret_Killjoy>
 - "<a   href="Ursula_K._Le_Guin.md" class="wikilink"
-  title="Ursula K. Le Guin">"Ursula K. Le Guin</a> -
+  title="Ursula K. Le Guin">Ursula K. Le Guin</a> -
   <https://en.wikipedia.org/wiki/Ursula_K._Le_Guin>
-- "<a   href="Zhang_Zhou.md" class="wikilink" title="Zhang Zhou">"Zhang Zhou</a>
-- "<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">"Noam
+- "<a   href="Zhang_Zhou.md" class="wikilink" title="Zhang Zhou">Zhang Zhou</a>
+- "<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
   Chomsky</a> - update
 - "<a   href="Sophie_Scott-Brown.md" class="wikilink"
-  title="Sophie Scott-Brown">"Sophie Scott-Brown</a>
+  title="Sophie Scott-Brown">Sophie Scott-Brown</a>
 - "<a   href="Benjamin_Zephaniah.md" class="wikilink"
-  title="Benjamin Zephaniah">"Benjamin Zephaniah</a>
+  title="Benjamin Zephaniah">Benjamin Zephaniah</a>
 - "<a   href="Ursula_K._Le_Guin.md" class="wikilink"
-  title="Ursula K. Le Guin">"Ursula K. Le Guin</a>
-- "<a   href="Kurt_Vonnegut.md" class="wikilink" title="Kurt Vonnegut">"Kurt
+  title="Ursula K. Le Guin">Ursula K. Le Guin</a>
+- "<a   href="Kurt_Vonnegut.md" class="wikilink" title="Kurt Vonnegut">Kurt
   Vonnegut</a>
 - "<a   href="Madeline_Maury_O’Hair.md" class="wikilink"
-  title="Madeline Maury O’Hair">"Madeline Maury O’Hair</a>
-- "<a   href="Alan_Moore.md" class="wikilink" title="Alan Moore">"Alan Moore</a>
-- "<a   href="Ruth_Kinna.md" class="wikilink" title="Ruth Kinna">"Ruth Kinna</a>
-- "<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
+  title="Madeline Maury O’Hair">Madeline Maury O’Hair</a>
+- "<a   href="Alan_Moore.md" class="wikilink" title="Alan Moore">Alan Moore</a>
+- "<a   href="Ruth_Kinna.md" class="wikilink" title="Ruth Kinna">Ruth Kinna</a>
+- "<a   href="David_Graeber.md" class="wikilink" title="David Graeber">David
   Graeber</a>
-- "<a   href="Ross_Carne.md" class="wikilink" title="Ross Carne">"Ross Carne</a>
-- "<a   href="Howard_Zinn.md" class="wikilink" title="Howard Zinn">"Howard
+- "<a   href="Ross_Carne.md" class="wikilink" title="Ross Carne">Ross Carne</a>
+- "<a   href="Howard_Zinn.md" class="wikilink" title="Howard Zinn">Howard
   Zinn</a>
 - "<a   href="Heathcoate_Williams.md" class="wikilink"
-  title="Heathcoate Williams">"Heathcoate Williams</a>
-- "<a   href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">"Lucy
+  title="Heathcoate Williams">Heathcoate Williams</a>
+- "<a   href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">Lucy
   Parsons</a>
-- "<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">"Leo
+- "<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">Leo
   Tolstoy</a>
 - "<a   href="Margaret_Sanger.md" class="wikilink"
-  title="Margaret Sanger">"Margaret Sanger</a>
-- "<a   href="Oscar_Wilde.md" class="wikilink" title="Oscar Wilde">"Oscar
+  title="Margaret Sanger">Margaret Sanger</a>
+- "<a   href="Oscar_Wilde.md" class="wikilink" title="Oscar Wilde">Oscar
   Wilde</a>
-- "<a   href="Dorothy_Day.md" class="wikilink" title="Dorothy Day">"Dorothy
+- "<a   href="Dorothy_Day.md" class="wikilink" title="Dorothy Day">Dorothy
   Day</a>
-- "<a   href="Aldous_Huxley.md" class="wikilink" title="Aldous Huxley">"Aldous
+- "<a   href="Aldous_Huxley.md" class="wikilink" title="Aldous Huxley">Aldous
   Huxley</a>
-- "<a   href="Albert_Camus.md" class="wikilink" title="Albert Camus">"Albert
+- "<a   href="Albert_Camus.md" class="wikilink" title="Albert Camus">Albert
   Camus</a>
 - "<a   href="Virgilia-Dandrea.md" class="wikilink"
-  title="Virgilia-Dandrea">"Virgilia-Dandrea</a>
+  title="Virgilia-Dandrea">Virgilia-Dandrea</a>
 - "<a   href="Charlie_Chaplin.md" class="wikilink"
-  title="Charlie Chaplin">"Charlie Chaplin</a>
-- "<a   href="Ethel_Mannin.md" class="wikilink" title="Ethel Mannin">"Ethel
+  title="Charlie Chaplin">Charlie Chaplin</a>
+- "<a   href="Ethel_Mannin.md" class="wikilink" title="Ethel Mannin">Ethel
   Mannin</a>
-- "<a   href="J.R.R._Tolkien.md" class="wikilink" title="J.R.R. Tolkien">"J.R.R.
+- "<a   href="J.R.R._Tolkien.md" class="wikilink" title="J.R.R. Tolkien">J.R.R.
   Tolkien</a>
-- "<a   href="Itō_Noe.md" class="wikilink" title="Itō Noe">"Itō Noe</a>
+- "<a   href="Itō_Noe.md" class="wikilink" title="Itō Noe">Itō Noe</a>
 - "<a   href="Berthold_Brecht.md" class="wikilink"
-  title="Berthold Brecht">"Berthold Brecht</a>
-- "<a   href="George_Orwell.md" class="wikilink" title="George Orwell">"George
+  title="Berthold Brecht">Berthold Brecht</a>
+- "<a   href="George_Orwell.md" class="wikilink" title="George Orwell">George
   Orwell</a>
 - "<a   href="Michael_Moorcock.md" class="wikilink"
-  title="Michael Moorcock">"Michael Moorcock</a>
+  title="Michael Moorcock">Michael Moorcock</a>
 
 Controversial -
 
 - "<a   href="Anarcho-Monarchism.md" class="wikilink"
-  title="Anarcho-Monarchism">"Anarcho-Monarchism</a>
-- "<a   href="Aynarchist.md" class="wikilink" title="Aynarchist">"Aynarchist</a>
+  title="Anarcho-Monarchism">Anarcho-Monarchism</a>
+- "<a   href="Aynarchist.md" class="wikilink" title="Aynarchist">Aynarchist</a>
 - "<a   href="Democratic_Confederalism.md" class="wikilink"
-  title="Democratic Confederalism">"Democratic Confederalism</a> -
+  title="Democratic Confederalism">Democratic Confederalism</a> -
   <https://en.wikipedia.org/wiki/Democratic_confederalism>
 - "<a   href="Labour_Theory_Of_Value.md" class="wikilink"
-  title="Labour Theory Of Value">"Labour Theory Of Value</a> -
-  "<a   href="Surplus_Value.md" class="wikilink" title="Surplus Value">"Surplus
+  title="Labour Theory Of Value">Labour Theory Of Value</a> -
+  "<a   href="Surplus_Value.md" class="wikilink" title="Surplus Value">Surplus
   Value</a>
 - "<a   href="Liquid_Democracy.md" class="wikilink"
-  title="Liquid Democracy">"Liquid Democracy</a> -
+  title="Liquid Democracy">Liquid Democracy</a> -
   <https://en.wikipedia.org/wiki/Liquid_democracy>
 - "<a   href="Post-Modernism.md" class="wikilink"
-  title="Post-Modernism">"Post-Modernism</a> & CIA connection
+  title="Post-Modernism">Post-Modernism</a> & CIA connection
 - "<a   href="Show,_Don&#39;t_Tell.md" class="wikilink"
-  title="Show, Don&#39;t Tell">"Show, Don't Tell</a> & CIA connection
+  title="Show, Don&#39;t Tell">Show, Don't Tell</a> & CIA connection
 - "<a   href="Stephen_Jay_Gould.md" class="wikilink"
-  title="Stephen Jay Gould">"Stephen Jay Gould</a> ?
-- "<a   href="Zeno.md" class="wikilink" title="Zeno">"Zeno</a>
+  title="Stephen Jay Gould">Stephen Jay Gould</a> ?
+- "<a   href="Zeno.md" class="wikilink" title="Zeno">Zeno</a>
 - "<a   href="The_Avengers_(Marvel).md" class="wikilink"
-  title="The Avengers (Marvel)">"The Avengers (Marvel)</a>
+  title="The Avengers (Marvel)">The Avengers (Marvel)</a>
 
 Fictional Characters -
 
 - "<a   href="V_(V_For_Vendetta).md" class="wikilink"
-  title="V (V For Vendetta)">"V (V For Vendetta)</a>
-- "<a   href="Tank_Girl.md" class="wikilink" title="Tank Girl">"Tank Girl</a>
+  title="V (V For Vendetta)">V (V For Vendetta)</a>
+- "<a   href="Tank_Girl.md" class="wikilink" title="Tank Girl">Tank Girl</a>
 - "<a   href="Hobie_Brown_Spider_Punk_(Into_The_Spider-Verse).md"
   class="wikilink"
-  title="Hobie Brown / Spider Punk (Into The Spider-Verse)">"Hobie Brown /
+  title="Hobie Brown / Spider Punk (Into The Spider-Verse)">Hobie Brown /
   Spider Punk (Into The Spider-Verse)</a>
 - "<a   href="Flag_Smasher_(Marvel).md" class="wikilink"
-  title="Flag Smasher (Marvel)">"Flag Smasher (Marvel)</a>
+  title="Flag Smasher (Marvel)">Flag Smasher (Marvel)</a>
 - "<a   href="Green_Arrow_(D.C.).md" class="wikilink"
-  title="Green Arrow (D.C.)">"Green Arrow (D.C.)</a>
+  title="Green Arrow (D.C.)">Green Arrow (D.C.)</a>
 - "<a   href="Britta_Perry_(Community).md" class="wikilink"
-  title="Britta Perry (Community)">"Britta Perry (Community)</a>
+  title="Britta Perry (Community)">Britta Perry (Community)</a>
 - "<a   href="Saw_Gerrera_(Andor).md" class="wikilink"
-  title="Saw Gerrera (Andor)">"Saw Gerrera (Andor)</a>
+  title="Saw Gerrera (Andor)">Saw Gerrera (Andor)</a>
 - "<a   href="Judith_Lorillard_(The_Anarchists).md" class="wikilink"
-  title="Judith Lorillard (The Anarchists)">"Judith Lorillard (The
+  title="Judith Lorillard (The Anarchists)">Judith Lorillard (The
   Anarchists)</a>
 - "<a   href="Anderson_Dawes_(The_Expanse).md" class="wikilink"
-  title="Anderson Dawes (The Expanse)">"Anderson Dawes (The Expanse)</a>
+  title="Anderson Dawes (The Expanse)">Anderson Dawes (The Expanse)</a>
 - "<a   href="Pa&#39;u_Zotoh_Zhaan_(Farscape).md" class="wikilink"
-  title="Pa&#39;u Zotoh Zhaan (Farscape)">"Pa'u Zotoh Zhaan (Farscape)</a>
+  title="Pa&#39;u Zotoh Zhaan (Farscape)">Pa'u Zotoh Zhaan (Farscape)</a>
 - "<a   href="Rick_Sanchez_(Rick_&amp;_Morty).md" class="wikilink"
-  title="Rick Sanchez (Rick &amp; Morty)">"Rick Sanchez (Rick &amp;
+  title="Rick Sanchez (Rick &amp; Morty)">Rick Sanchez (Rick &amp;
   Morty)</a>
 - "<a   href="Cassian_Andor_(Rogue_One).md" class="wikilink"
-  title="Cassian Andor (Rogue One)">"Cassian Andor (Rogue One)</a>
+  title="Cassian Andor (Rogue One)">Cassian Andor (Rogue One)</a>
 - "<a   href="Evey_Hammond_(V_For_Vendetta).md" class="wikilink"
-  title="Evey Hammond (V For Vendetta)">"Evey Hammond (V For Vendetta)</a>
+  title="Evey Hammond (V For Vendetta)">Evey Hammond (V For Vendetta)</a>
 - "<a   href="Elliot_Alderson_(Mr._Robot).md" class="wikilink"
-  title="Elliot Alderson (Mr. Robot)">"Elliot Alderson (Mr. Robot)</a>
+  title="Elliot Alderson (Mr. Robot)">Elliot Alderson (Mr. Robot)</a>
 - "<a   href="Takeshi_Kovacs_(Altered_Carbon).md" class="wikilink"
-  title="Takeshi Kovacs (Altered Carbon)">"Takeshi Kovacs (Altered
+  title="Takeshi Kovacs (Altered Carbon)">Takeshi Kovacs (Altered
   Carbon)</a>
 - "<a   href="Cosmo_(Sneakers).md" class="wikilink"
-  title="Cosmo (Sneakers)">"Cosmo (Sneakers)</a>
+  title="Cosmo (Sneakers)">Cosmo (Sneakers)</a>
 - "<a   href="Shevek_(The_Dispossessed).md" class="wikilink"
-  title="Shevek (The Dispossessed)">"Shevek (The Dispossessed)</a>
+  title="Shevek (The Dispossessed)">Shevek (The Dispossessed)</a>
 
 Books -
 
 - "<a   href="The_Dispossessed_(Ursula_K._Le_Guin).md" class="wikilink"
-  title="The Dispossessed by Ursula K. Le Guin">"The Dispossessed by Ursula
+  title="The Dispossessed by Ursula K. Le Guin">The Dispossessed by Ursula
   K. Le Guin</a>
 - Revelation Space by Alastair Reynolds
 - The Fourth World by Dennis Danvers
@@ -199,39 +199,39 @@ Books -
 - Infinite Detail by Tim Maughan
 
 Also see "<a   href="Special:WantedPages.md" class="wikilink"
-title="Special:WantedPages">"Special:WantedPages</a>
+title="Special:WantedPages">Special:WantedPages</a>
 
 Social Media
 
 - "<a   href="r_Anarchism.md" class="wikilink"
-  title="r/Anarchism">"r/Anarchism</a> -
+  title="r/Anarchism">r/Anarchism</a> -
   <https://www.reddit.com/r/Anarchism/>
 - "<a   href="r_Anarchy101.md" class="wikilink"
-  title="r/Anarchy101">"r/Anarchy101</a> -
+  title="r/Anarchy101">r/Anarchy101</a> -
   <https://www.reddit.com/r/Anarchy101/>
 - "<a   href="r_DebateAnarchism.md" class="wikilink"
-  title="r/DebateAnarchism">"r/DebateAnarchism</a> -
+  title="r/DebateAnarchism">r/DebateAnarchism</a> -
   <https://www.reddit.com/r/DebateAnarchism/>
 - "<a   href="r_AnarchaFeminism.md" class="wikilink"
-  title="r/AnarchaFeminism">"r/AnarchaFeminism</a> -
+  title="r/AnarchaFeminism">r/AnarchaFeminism</a> -
   <https://www.reddit.com/r/anarchafeminism/>
 - "<a   href="r_AnarchoCommunism.md" class="wikilink"
-  title="r/AnarchoCommunism">"r/AnarchoCommunism</a> -
+  title="r/AnarchoCommunism">r/AnarchoCommunism</a> -
   <https://www.reddit.com/r/anarchocommunism/>
 - "<a   href="Kolektiva.Social.md" class="wikilink"
-  title="Kolektiva.Social">"Kolektiva.Social</a>
+  title="Kolektiva.Social">Kolektiva.Social</a>
 
 Youtubers -
 
 - Academic Anarchist
 - Anarcha Semiyah
 - "<a   href="Anarchist_Agony_Aunts.md" class="wikilink"
-  title="Anarchist Agony Aunts">"Anarchist Agony Aunts</a>
+  title="Anarchist Agony Aunts">Anarchist Agony Aunts</a>
 - AnarchistCollective
-- "<a   href="Anark.md" class="wikilink" title="Anark">"Anark</a>
+- "<a   href="Anark.md" class="wikilink" title="Anark">Anark</a>
 - AnRel
 - "<a   href="AudibleAnarchist.md" class="wikilink"
-  title="AudibleAnarchist">"AudibleAnarchist</a>
+  title="AudibleAnarchist">AudibleAnarchist</a>
 - Autonomous Voice
 - Brenton Lengel
 - Cantus Firmus
@@ -239,22 +239,22 @@ Youtubers -
 - Danny Peters
 - Elijah Claude
 - Emerica ? Non-compete
-- "<a   href="Germinal.md" class="wikilink" title="Germinal">"Germinal</a>
+- "<a   href="Germinal.md" class="wikilink" title="Germinal">Germinal</a>
 - Hilary Agro ?
 - Matthew James Geiger
 - "<a   href="Re-Edukation.md" class="wikilink"
-  title="Re-Edukation">"Re-Edukation</a>
+  title="Re-Edukation">Re-Edukation</a>
 - Shanti Chu
 - SolarpunkAlana
 - "<a   href="Solidarity_Economy_Association.md" class="wikilink"
-  title="Solidarity Economy Association">"Solidarity Economy
+  title="Solidarity Economy Association">Solidarity Economy
   Association</a>
 - Sterlin Lujan ?
 - "<a   href="The_Anarchist_Audio_Library.md" class="wikilink"
-  title="The Anarchist Audio Library">"The Anarchist Audio Library</a>
+  title="The Anarchist Audio Library">The Anarchist Audio Library</a>
 - The Skeptical Leftist
 - "<a   href="ThoughtSlime.md" class="wikilink"
-  title="ThoughtSlime">"ThoughtSlime</a>
+  title="ThoughtSlime">ThoughtSlime</a>
 
 Here are 12 Wikipedia articles that could be adapted for inclusion -
 

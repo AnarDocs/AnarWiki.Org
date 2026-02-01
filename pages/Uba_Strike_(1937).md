@@ -1,19 +1,19 @@
 The **Uba Strike of 1937** was a
-"<a   href="List_of_Strikes.md" class="wikilink" title="strike">"strike</a> by
+"<a   href="List_of_Strikes.md" class="wikilink" title="strike">strike</a> by
 sugar workers in
-"<a   href="Mauritius.md" class="wikilink" title="Mauritius">"Mauritius</a> in
+"<a   href="Mauritius.md" class="wikilink" title="Mauritius">Mauritius</a> in
 "<a   href="Timeline_of_Anarchism_in_Southern_Africa.md" class="wikilink"
-title="1937">"1937</a>.
+title="1937">1937</a>.
 
 ## Background
 
 In the 1870s, large sugar estates sold off their less productive land to
 Indian Mauritians that formed a small class of landowners called
 Sirdars. The
-"<a   href="British_Empire.md" class="wikilink" title="British Empire">"British
+"<a   href="British_Empire.md" class="wikilink" title="British Empire">British
 Empire</a> feared angering the Franco-Mauritian elite for fears the
 island might join the
-"<a   href="French_Empire.md" class="wikilink" title="French Empire">"French
+"<a   href="French_Empire.md" class="wikilink" title="French Empire">French
 Empire</a> again, making it extremely difficult for pro-worker reforms
 to be passed. Many farmers planted the hardier but less productive Uba
 variety of sugarcane. Although Uba produced more cane by weight it also
@@ -33,7 +33,7 @@ cane price workers on the Rich Fund estate asked the Sirdars or managers
 to intervene to raise the price. After getting no satisfaction the
 workers went on strike and caused a number of minor disturbances. Due to
 "<a   href="British_Caribbean_Strike_Wave_(1930s).md" class="wikilink"
-title="similar strikes">"similar strikes</a> in the Caribbean at the time
+title="similar strikes">similar strikes</a> in the Caribbean at the time
 the British government in Mauritius initially sought a conciliatory
 approach whilst the Labour Party held rallies calling for political and
 economic reform. By mid-August the strikes had spread to other sugar
@@ -61,32 +61,32 @@ across the island.
 In 1938, the following reforms were passed in Mauritius:
 
 - Legalisation of
-  "<a   href="Trade_Union.md" class="wikilink" title="trade unions">"trade
+  "<a   href="Trade_Union.md" class="wikilink" title="trade unions">trade
   unions</a>
 - Legalisation of "<a   href="Collective_Bargaining.md" class="wikilink"
-  title="collective bargaining">"collective bargaining</a>
+  title="collective bargaining">collective bargaining</a>
 - Creation of institutions to mediate between workers and bosses
 
 ## References
 
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
 [Uba riots of 1937](https://en.wikipedia.org/wiki/Uba_riots_of_1937)
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Mauritius.md" class="wikilink"
-title="Category:Mauritius">"Category:Mauritius</a>
+title="Category:Mauritius">Category:Mauritius</a>
 "<a   href="Category:Africa.md" class="wikilink"
-title="Category:Africa">"Category:Africa</a>
+title="Category:Africa">Category:Africa</a>
 "<a   href="Category:Southern_Africa.md" class="wikilink"
-title="Category:Southern Africa">"Category:Southern Africa</a>
+title="Category:Southern Africa">Category:Southern Africa</a>
 "<a   href="Category:1937.md" class="wikilink"
-title="Category:1937">"Category:1937</a>
+title="Category:1937">Category:1937</a>
 "<a   href="Category:1930s.md" class="wikilink"
-title="Category:1930s">"Category:1930s</a>
+title="Category:1930s">Category:1930s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Strikes.md" class="wikilink"
-title="Category:Strikes">"Category:Strikes</a>
+title="Category:Strikes">Category:Strikes</a>
 "<a   href="Category:British_Empire.md" class="wikilink"
-title="Category:British Empire">"Category:British Empire</a>
+title="Category:British Empire">Category:British Empire</a>

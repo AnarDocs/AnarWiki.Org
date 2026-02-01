@@ -3,9 +3,9 @@
 ## Overview
 
 **Objectivism** is a "<a   href="philosophical_system.md" class="wikilink"
-title="philosophical system">"philosophical system</a> developed by
+title="philosophical system">philosophical system</a> developed by
 Russian-American writer
-"<a   href="Ayn_Rand.md" class="wikilink" title="Ayn Rand">"Ayn Rand</a> in the
+"<a   href="Ayn_Rand.md" class="wikilink" title="Ayn Rand">Ayn Rand</a> in the
 mid-20th century. Rand described it as "the concept of man as a heroic
 being, with his own happiness as the moral purpose of his life, with
 productive achievement as his noblest activity, and reason as his only
@@ -15,65 +15,65 @@ Despite Rand's claims to have created an entirely novel philosophical
 system grounded in pure reason and objective reality, Objectivism is
 largely a crude repackaging of existing
 "<a   href="right-libertarian.md" class="wikilink"
-title="right-libertarian">"right-libertarian</a> and
+title="right-libertarian">right-libertarian</a> and
 "<a   href="classical_liberal.md" class="wikilink"
-title="classical liberal">"classical liberal</a> thought, particularly
-"<a   href="John_Locke.md" class="wikilink" title="John Locke">"John Locke</a>'s
+title="classical liberal">classical liberal</a> thought, particularly
+"<a   href="John_Locke.md" class="wikilink" title="John Locke">John Locke</a>'s
 political philosophy and elements of
-"<a   href="Aristotle.md" class="wikilink" title="Aristotle">"Aristotle</a>'s
+"<a   href="Aristotle.md" class="wikilink" title="Aristotle">Aristotle</a>'s
 ethics, mixed with "<a   href="Friedrich_Nietzsche.md" class="wikilink"
-title="Nietzschean">"Nietzschean</a> rhetoric about supermen and the
+title="Nietzschean">Nietzschean</a> rhetoric about supermen and the
 masses.[^2] The philosophy serves primarily as an intellectual
 justification for "<a   href="laissez-faire_capitalism.md" class="wikilink"
-title="laissez-faire capitalism">"laissez-faire capitalism</a> and
-"<a   href="egoism.md" class="wikilink" title="egoism">"egoism</a>, rejecting
-"<a   href="altruism.md" class="wikilink" title="altruism">"altruism</a>,
+title="laissez-faire capitalism">laissez-faire capitalism</a> and
+"<a   href="egoism.md" class="wikilink" title="egoism">egoism</a>, rejecting
+"<a   href="altruism.md" class="wikilink" title="altruism">altruism</a>,
 "<a   href="collectivism.md" class="wikilink"
-title="collectivism">"collectivism</a>, and any form of
-"<a   href="social_welfare.md" class="wikilink" title="social welfare">"social
+title="collectivism">collectivism</a>, and any form of
+"<a   href="social_welfare.md" class="wikilink" title="social welfare">social
 welfare</a>.
 
 From an anarchist perspective, Objectivism represents a perversion of
 genuine "<a   href="libertarian.md" class="wikilink"
-title="libertarian">"libertarian</a> thought, appropriating the language
+title="libertarian">libertarian</a> thought, appropriating the language
 of individual freedom while advocating for
 "<a   href="hierarchical.md" class="wikilink"
-title="hierarchical">"hierarchical</a>
-"<a   href="capitalism.md" class="wikilink" title="capitalist">"capitalist</a>
+title="hierarchical">hierarchical</a>
+"<a   href="capitalism.md" class="wikilink" title="capitalist">capitalist</a>
 social relations and defending
-"<a   href="the_state.md" class="wikilink" title="the state">"the state</a> as
+"<a   href="the_state.md" class="wikilink" title="the state">the state</a> as
 a necessary protector of "<a   href="property_rights.md" class="wikilink"
-title="property rights">"property rights</a>.
+title="property rights">property rights</a>.
 
 ## Origins
 
 Ayn Rand was born to a wealthy St. Petersburg family in 1905 during
-"<a   href="Czarist_Russia.md" class="wikilink" title="Czarist Russia">"Czarist
+"<a   href="Czarist_Russia.md" class="wikilink" title="Czarist Russia">Czarist
 Russia</a>. Her privileged position in Czarist society—wealthy enough to
 afford a French governess and take regular vacations to the
 Crimea—profoundly shaped her worldview.[^3] It should be noted that
 wealth in Czarist society was almost wholly dependent on favor with the
 government, with few genuine examples of individuals lifting themselves
-from "<a   href="serfdom.md" class="wikilink" title="serfdom">"serfdom</a>
+from "<a   href="serfdom.md" class="wikilink" title="serfdom">serfdom</a>
 without the Czar's patronage.
 
 At age twelve, Rand experienced what she considered a great injustice
 when workers took over her father's business during the
 "<a   href="Russian_Revolution.md" class="wikilink"
-title="Russian Revolution">"Russian Revolution</a>. Her family fled to
+title="Russian Revolution">Russian Revolution</a>. Her family fled to
 the Crimea for the protection of the White Army. This experience
 rendered her forever incapable of seeing
-"<a   href="land_reform.md" class="wikilink" title="land reform">"land
+"<a   href="land_reform.md" class="wikilink" title="land reform">land
 reform</a> or any struggle of oppressed and exploited people as anything
 more than "hatred for the good and lust for the unearned."[^4]
 
 Rand first expressed her philosophy in fiction, most notably in
-*"<a   href="The_Fountainhead.md" class="wikilink" title="The Fountainhead">"The
+*"<a   href="The_Fountainhead.md" class="wikilink" title="The Fountainhead">The
 Fountainhead</a>* (1943) and
-*"<a   href="Atlas_Shrugged.md" class="wikilink" title="Atlas Shrugged">"Atlas
+*"<a   href="Atlas_Shrugged.md" class="wikilink" title="Atlas Shrugged">Atlas
 Shrugged</a>* (1957), before elaborating it in essays and books.
 "<a   href="Leonard_Peikoff.md" class="wikilink"
-title="Leonard Peikoff">"Leonard Peikoff</a>, designated as Rand's
+title="Leonard Peikoff">Leonard Peikoff</a>, designated as Rand's
 intellectual heir, later gave Objectivism a more systematic structure,
 characterizing it as a "closed system" whose "fundamental principles"
 were set by Rand and are not subject to change.[^5]
@@ -87,15 +87,15 @@ consciousness, and identity. Rand argued that reality exists
 independently of consciousness and that humans have direct contact with
 reality through sense perception. She claimed that objective knowledge
 can be attained through
-"<a   href="concept.md" class="wikilink" title="concept">"concept</a> formation
-and "<a   href="logic.md" class="wikilink" title="inductive logic">"inductive
+"<a   href="concept.md" class="wikilink" title="concept">concept</a> formation
+and "<a   href="logic.md" class="wikilink" title="inductive logic">inductive
 logic</a>.[^6]
 
 Rand defined reason as "the faculty that identifies and integrates the
 material provided by man's senses" and rejected all forms of
-"<a   href="faith.md" class="wikilink" title="faith">"faith</a>,
-"<a   href="mysticism.md" class="wikilink" title="mysticism">"mysticism</a>, or
-"<a   href="intuition.md" class="wikilink" title="intuition">"intuition</a> as
+"<a   href="faith.md" class="wikilink" title="faith">faith</a>,
+"<a   href="mysticism.md" class="wikilink" title="mysticism">mysticism</a>, or
+"<a   href="intuition.md" class="wikilink" title="intuition">intuition</a> as
 means of knowledge.[^7]
 
 ### Ethics
@@ -109,7 +109,7 @@ standard of value.
 From this foundation, Rand derived what she called "rational
 self-interest" or "rational egoism" as the proper moral code. She
 explicitly rejected altruism, defining it (following
-"<a   href="Auguste_Comte.md" class="wikilink" title="Auguste Comte">"Auguste
+"<a   href="Auguste_Comte.md" class="wikilink" title="Auguste Comte">Auguste
 Comte</a>) as a moral obligation to live for the sake of others. The
 three cardinal values of Objectivist ethics are Reason, Purpose, and
 Self-Esteem, with corresponding virtues of Rationality, Productiveness,
@@ -118,7 +118,7 @@ and Pride.
 ### Politics
 
 Objectivism's political philosophy advocates for laissez-faire
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
 as the only moral social system. Rand argued that individual
 rights—particularly property rights—are necessary for all other rights.
 The basic political principle of Objectivism is the "non-initiation
@@ -126,10 +126,10 @@ principle": "no man may initiate the use of physical force against
 others."[^9]
 
 Rand supported a
-"<a   href="minarchist.md" class="wikilink" title="minarchist">"minarchist</a>
+"<a   href="minarchist.md" class="wikilink" title="minarchist">minarchist</a>
 state limited to police, military, and courts to protect individual
 rights. She explicitly opposed
-"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a>,
+"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>,
 arguing that "putting police and courts on the market is an inherent
 miscarriage of justice."[^10]
 
@@ -149,8 +149,8 @@ importance of conscious choice, the Objectivist concept of "volitional
 consciousness" ignores material and social conditions that shape human
 thought and action. People's capacity to "choose to think" is profoundly
 affected by
-"<a   href="poverty.md" class="wikilink" title="poverty">"poverty</a>,
-"<a   href="education.md" class="wikilink" title="education">"education</a>,
+"<a   href="poverty.md" class="wikilink" title="poverty">poverty</a>,
+"<a   href="education.md" class="wikilink" title="education">education</a>,
 trauma, and social structures. The concept serves to morally condemn the
 poor and oppressed for their circumstances, suggesting they simply chose
 not to think properly. Anarchists recognize that genuine freedom of
@@ -192,16 +192,16 @@ rational nor genuinely self-interested. By defining "rational" values as
 those supporting capitalist productivity and property relations, she
 assumes the conclusion she wants to prove. Anarchists recognize that
 humans are social beings whose genuine self-interest includes
-"<a   href="solidarity.md" class="wikilink" title="solidarity">"solidarity</a>,
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
+"<a   href="solidarity.md" class="wikilink" title="solidarity">solidarity</a>,
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
 and community. As
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> demonstrated, cooperation is often more adaptive and
 beneficial than competition. Rand's philosophy mistakes the
 socially-constructed values of
-"<a   href="bourgeois.md" class="wikilink" title="bourgeois">"bourgeois</a>
+"<a   href="bourgeois.md" class="wikilink" title="bourgeois">bourgeois</a>
 society for objective rational requirements, ignoring how
-"<a   href="class_society.md" class="wikilink" title="class society">"class
+"<a   href="class_society.md" class="wikilink" title="class society">class
 society</a> creates artificial scarcity and conflict that make her
 dog-eat-dog worldview seem natural.
 
@@ -215,20 +215,20 @@ productive work for fair compensation.
 
 **Anarchist Response:** The trader principle ignores the reality of
 "<a   href="exploitation.md" class="wikilink"
-title="exploitation">"exploitation</a> under capitalism. Workers produce
+title="exploitation">exploitation</a> under capitalism. Workers produce
 far more value than they receive in wages, with the surplus appropriated
 by property owners. This is not a fair trade but
-"<a   href="theft.md" class="wikilink" title="theft">"theft</a>. The principle
+"<a   href="theft.md" class="wikilink" title="theft">theft</a>. The principle
 also makes invisible all forms of necessary labor that capitalism
 doesn't compensate—"<a   href="domestic_labor.md" class="wikilink"
-title="domestic labor">"domestic labor</a>,
-"<a   href="care_work.md" class="wikilink" title="care work">"care work</a>,
+title="domestic labor">domestic labor</a>,
+"<a   href="care_work.md" class="wikilink" title="care work">care work</a>,
 community building, and environmental maintenance. Anarchists recognize
 that not all valuable human activity can or should be commodified, and
 that a genuinely free society would be based on
 ""<a   href="from_each_according_to_ability,_to_each_according_to_need.md"
 class="wikilink"
-title="from each according to ability, to each according to need">"from
+title="from each according to ability, to each according to need">from
 each according to ability, to each according to need</a>," not
 transactional "trading." The trader principle essentially sanctifies
 capitalist exploitation as moral virtue.
@@ -245,17 +245,17 @@ parasites who violate the trader principle.
 **Anarchist Response:** Rand's categories reveal her class bias and
 historical ignorance. The actual "looters" in history have been
 capitalists who enclosed the
-"<a   href="commons.md" class="wikilink" title="commons">"commons</a>,
+"<a   href="commons.md" class="wikilink" title="commons">commons</a>,
 dispossessed indigenous peoples, enslaved millions, and accumulated
 wealth through violence and state power—the
 "<a   href="primitive_accumulation.md" class="wikilink"
-title="primitive accumulation">"primitive accumulation</a> that created
+title="primitive accumulation">primitive accumulation</a> that created
 capitalism. The "moochers" are often those who have been dispossessed by
 this process, denied access to land and resources, and forced into
-"<a   href="wage_slavery.md" class="wikilink" title="wage slavery">"wage
+"<a   href="wage_slavery.md" class="wikilink" title="wage slavery">wage
 slavery</a> or destitution. Anarchists recognize that the real parasites
 are the
-"<a   href="ruling_class.md" class="wikilink" title="ruling class">"ruling
+"<a   href="ruling_class.md" class="wikilink" title="ruling class">ruling
 class</a> who live off the labor of workers, not the poor who struggle
 to survive under exploitative conditions. Rand's contempt for the
 vulnerable exposes the cruelty at the heart of Objectivism.
@@ -274,15 +274,15 @@ the actual victims are. In her narrative, capitalists are the oppressed
 victims of worker demands and government regulation. In reality, workers
 are exploited by capitalists who control the means of production and use
 state violence to maintain their privilege. The anarchist concept of
-"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
+"<a   href="direct_action.md" class="wikilink" title="direct action">direct
 action</a> and
-"<a   href="general_strike.md" class="wikilink" title="general strike">"general
+"<a   href="general_strike.md" class="wikilink" title="general strike">general
 strike</a> genuinely represents victims withdrawing their sanction—but
 it means workers refusing to continue enriching capitalists, not
 capitalists refusing to continue employing workers. Rand's "strike of
 the mind" is fantasy; anarchist
 "<a   href="workers&#39;_self-management.md" class="wikilink"
-title="workers&#39; self-management">"workers' self-management</a> is
+title="workers&#39; self-management">workers' self-management</a> is
 reality achieved through actual class struggle.
 
 ### A is A (Law of Identity)
@@ -298,7 +298,7 @@ use of the law of identity serves to naturalize social relations and
 deny the possibility of change. When applied to humans and society, "A
 is A" becomes a justification for
 "<a   href="essentialism.md" class="wikilink"
-title="essentialism">"essentialism</a>—the idea that people, classes, and
+title="essentialism">essentialism</a>—the idea that people, classes, and
 social systems have fixed natures. This contradicts anarchist
 understanding that humans are shaped by social conditions and that
 revolutionary transformation is possible. Rand uses logical tautologies
@@ -306,8 +306,8 @@ to make capitalism seem like a natural law rather than a historically
 specific social arrangement. The law of identity tells us nothing about
 what social relations should exist; it's simply misused to forestall
 questioning of
-"<a   href="hierarchy.md" class="wikilink" title="hierarchy">"hierarchy</a> and
-"<a   href="domination.md" class="wikilink" title="domination">"domination</a>.
+"<a   href="hierarchy.md" class="wikilink" title="hierarchy">hierarchy</a> and
+"<a   href="domination.md" class="wikilink" title="domination">domination</a>.
 
 ### Productive Achievement
 
@@ -327,7 +327,7 @@ ignores how capitalism forces people to work under threat of starvation,
 making "productive work" coerced rather than freely chosen. In a genuine
 anarchist society based on
 "<a   href="voluntary_association.md" class="wikilink"
-title="voluntary association">"voluntary association</a>, people would
+title="voluntary association">voluntary association</a>, people would
 engage in creative and useful activity not because they must to survive,
 but because such activity is fulfilling when done freely and
 cooperatively.
@@ -342,22 +342,22 @@ prohibiting taxation, regulation, and social programs.
 
 **Anarchist Response:** The non-initiation principle is fatally flawed
 because it assumes "<a   href="property_rights.md" class="wikilink"
-title="property rights">"property rights</a> as pre-political natural
+title="property rights">property rights</a> as pre-political natural
 facts rather than social constructs enforced by violence. When a
 landowner uses force to evict someone from "their" property, or when
 police arrest workers for occupying "their" factory, Objectivists don't
 count this as initiation of force but as "defense of rights." But these
 "rights" were established through historical
-violence—"<a   href="enclosure.md" class="wikilink" title="enclosure">"enclosure</a>,
+violence—"<a   href="enclosure.md" class="wikilink" title="enclosure">enclosure</a>,
 "<a   href="colonialism.md" class="wikilink"
-title="colonialism">"colonialism</a>,
-"<a   href="slavery.md" class="wikilink" title="slavery">"slavery</a>—and are
+title="colonialism">colonialism</a>,
+"<a   href="slavery.md" class="wikilink" title="slavery">slavery</a>—and are
 maintained through ongoing state coercion. Anarchists recognize that
 capitalist property itself is initiated force against the dispossessed.
 A genuine non-initiation principle would reject not only the state but
 also private property in the means of production, supporting instead
 common ownership and
-"<a   href="usufruct.md" class="wikilink" title="usufruct">"usufruct</a> rights
+"<a   href="usufruct.md" class="wikilink" title="usufruct">usufruct</a> rights
 based on occupancy and use.
 
 ## Anarchist Critique
@@ -390,7 +390,7 @@ being."
 From an anarchist perspective, Rand's defense of the state fundamentally
 contradicts her claims about individual freedom. She justifies state
 power through a
-"<a   href="Thomas_Hobbes.md" class="wikilink" title="Hobbesian">"Hobbesian</a>
+"<a   href="Thomas_Hobbes.md" class="wikilink" title="Hobbesian">Hobbesian</a>
 state of nature theory, arguing that without organized government,
 society would descend into "chaos and gang warfare."[^18]
 
@@ -411,7 +411,7 @@ his or her own reason."[^20]
 
 Rand's insistence that government enforcement of
 "<a   href="private_property.md" class="wikilink"
-title="private contracts">"private contracts</a> is necessary
+title="private contracts">private contracts</a> is necessary
 fundamentally alters the nature of so-called "free agreements." As
 Klafeta explains:
 
@@ -425,15 +425,15 @@ Rand's philosophy completely ignores how wealth in hierarchical
 societies—including the Czarist Russia she grew up in—is primarily a
 measure of proximity to state power rather than productive achievement.
 Her idealized ""<a   href="captains_of_industry.md" class="wikilink"
-title="captains of industry">"captains of industry</a>" are more
+title="captains of industry">captains of industry</a>" are more
 accurately understood as beneficiaries of state-granted privileges and
-"<a   href="class.md" class="wikilink" title="class">"class</a> exploitation.
+"<a   href="class.md" class="wikilink" title="class">class</a> exploitation.
 
 ### The Perversion of Libertarianism
 
 Historically, "libertarian" meant socialist—specifically
 "<a   href="libertarian_socialist.md" class="wikilink"
-title="libertarian socialist">"libertarian socialist</a> or anarchist.
+title="libertarian socialist">libertarian socialist</a> or anarchist.
 The term was appropriated by right-wing capitalists in the mid-20th
 century, with Rand playing a significant role in this linguistic
 theft.[^22]
@@ -441,13 +441,13 @@ theft.[^22]
 True libertarianism—anarchism—means the self-emancipation of working
 people, the abolition of hierarchical class relations, and the creation
 of a society based on "<a   href="free_association.md" class="wikilink"
-title="free association">"free association</a>,
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
+title="free association">free association</a>,
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
 and "<a   href="workers&#39;_self-management.md" class="wikilink"
-title="workers&#39; self-management">"workers' self-management</a>.
+title="workers&#39; self-management">workers' self-management</a>.
 Rand's "libertarianism" means the freedom of
-"<a   href="capital.md" class="wikilink" title="capital">"capital</a> to
-exploit "<a   href="labor.md" class="wikilink" title="labor">"labor</a>,
+"<a   href="capital.md" class="wikilink" title="capital">capital</a> to
+exploit "<a   href="labor.md" class="wikilink" title="labor">labor</a>,
 defended by state violence.
 
 As Klafeta concludes: "Libertarianism is and always will mean
@@ -468,14 +468,14 @@ or Mozart—were expelled.
 This authoritarian tendency within a movement claiming to champion
 reason and individualism reveals the fundamentally hierarchical nature
 of Objectivism. Like "<a   href="Marxism-Leninism.md" class="wikilink"
-title="Marxism-Leninism">"Marxism-Leninism</a>, it professes liberation
+title="Marxism-Leninism">Marxism-Leninism</a>, it professes liberation
 while creating new forms of domination.
 
 ## The Capitalism That Never Was
 
 Objectivism's entire political project rests on advocacy for
 "<a   href="laissez-faire_capitalism.md" class="wikilink"
-title="laissez-faire capitalism">"laissez-faire capitalism</a>. Yet this
+title="laissez-faire capitalism">laissez-faire capitalism</a>. Yet this
 foundation crumbles under examination using Objectivism's own
 epistemological premises:
 
@@ -500,12 +500,12 @@ is advocating for an invalid concept with no basis in observed
 reality—precisely what Rand accused mystics and socialists of doing. The
 "capitalism" that has actually existed has always involved
 "<a   href="state_intervention.md" class="wikilink"
-title="state intervention">"state intervention</a>,
-"<a   href="monopoly.md" class="wikilink" title="monopoly">"monopoly</a>
+title="state intervention">state intervention</a>,
+"<a   href="monopoly.md" class="wikilink" title="monopoly">monopoly</a>
 privileges, "<a   href="imperialism.md" class="wikilink"
-title="imperialism">"imperialism</a>, and
+title="imperialism">imperialism</a>, and
 "<a   href="primitive_accumulation.md" class="wikilink"
-title="primitive accumulation">"primitive accumulation</a> through
+title="primitive accumulation">primitive accumulation</a> through
 violence.
 
 ## Anarchist Alternatives
@@ -514,32 +514,32 @@ In contrast to Objectivism's defense of capitalism and the state,
 anarchism offers genuine pathways to freedom:
 
 **"<a   href="Anarcho-communism.md" class="wikilink"
-title="Anarcho-communism">"Anarcho-communism</a>** emphasizes the
+title="Anarcho-communism">Anarcho-communism</a>** emphasizes the
 principle of
 ""<a   href="from_each_according_to_ability,_to_each_according_to_need.md"
 class="wikilink"
-title="from each according to ability, to each according to need">"from
+title="from each according to ability, to each according to need">from
 each according to ability, to each according to need</a>," recognizing
 that genuine freedom requires meeting everyone's material needs through
 voluntary cooperation.
 
-**"<a   href="Mutualism.md" class="wikilink" title="Mutualism">"Mutualism</a>**
+**"<a   href="Mutualism.md" class="wikilink" title="Mutualism">Mutualism</a>**
 advocates for a non-capitalist market economy based on labor exchange,
-"<a   href="credit_unions.md" class="wikilink" title="credit unions">"credit
+"<a   href="credit_unions.md" class="wikilink" title="credit unions">credit
 unions</a>, and worker ownership, rejecting both state socialism and
 capitalist property relations.
 
 **"<a   href="Anarcho-syndicalism.md" class="wikilink"
-title="Anarcho-syndicalism">"Anarcho-syndicalism</a>** focuses on
+title="Anarcho-syndicalism">Anarcho-syndicalism</a>** focuses on
 building
-"<a   href="dual_power.md" class="wikilink" title="dual power">"dual power</a>
+"<a   href="dual_power.md" class="wikilink" title="dual power">dual power</a>
 through revolutionary labor unions that can both contest capitalism now
 and form the basis of a free society.
 
 All anarchist tendencies share a recognition that genuine freedom
 requires abolishing both state and capitalist hierarchies, replacing
 them with horizontal, voluntary associations based on
-"<a   href="solidarity.md" class="wikilink" title="solidarity">"solidarity</a>
+"<a   href="solidarity.md" class="wikilink" title="solidarity">solidarity</a>
 rather than domination.
 
 ## Legacy and Influence
@@ -548,9 +548,9 @@ While Objectivism as a formal philosophy never achieved widespread
 acceptance, Rand's ideas have had significant influence on right-wing
 politics, particularly within American
 "<a   href="conservatism.md" class="wikilink"
-title="conservatism">"conservatism</a> and the
+title="conservatism">conservatism</a> and the
 "<a   href="propertarian.md" class="wikilink"
-title="propertarian">"propertarian</a> movement that misleadingly calls
+title="propertarian">propertarian</a> movement that misleadingly calls
 itself "libertarian."[^25]
 
 Academic philosophers have largely dismissed Objectivism, with many
@@ -561,14 +561,14 @@ understanding of ethics, economics, and social relations.[^27]
 
 From an anarchist perspective, Rand's most enduring and harmful legacy
 is providing intellectual cover for
-"<a   href="greed.md" class="wikilink" title="greed">"greed</a>,
+"<a   href="greed.md" class="wikilink" title="greed">greed</a>,
 "<a   href="selfishness.md" class="wikilink"
-title="selfishness">"selfishness</a>, and
+title="selfishness">selfishness</a>, and
 "<a   href="exploitation.md" class="wikilink"
-title="exploitation">"exploitation</a>, wrapped in the language of reason
+title="exploitation">exploitation</a>, wrapped in the language of reason
 and freedom. Her work represents not a triumph of rationality but a
 triumph of
-"<a   href="rhetoric.md" class="wikilink" title="rhetoric">"rhetoric</a>—telling
+"<a   href="rhetoric.md" class="wikilink" title="rhetoric">rhetoric</a>—telling
 the wealthy and powerful what they want to hear while dismissing the
 struggles of the oppressed as mere "hatred for the good."
 
@@ -577,17 +577,17 @@ struggles of the oppressed as mere "hatred for the good."
 <references/>
 
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Right-Libertarianism.md" class="wikilink"
-title="Category:Right-Libertarianism">"Category:Right-Libertarianism</a>
+title="Category:Right-Libertarianism">Category:Right-Libertarianism</a>
 "<a   href="Category:Capitalism.md" class="wikilink"
-title="Category:Capitalism">"Category:Capitalism</a>
+title="Category:Capitalism">Category:Capitalism</a>
 "<a   href="Category:Political_Philosophy.md" class="wikilink"
-title="Category:Political Philosophy">"Category:Political Philosophy</a>
+title="Category:Political Philosophy">Category:Political Philosophy</a>
 "<a   href="Category:Controversial_Concepts.md" class="wikilink"
-title="Category:Controversial Concepts">"Category:Controversial
+title="Category:Controversial Concepts">Category:Controversial
 Concepts</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Rand, Ayn. "About the Author" in Atlas Shrugged (1992),
     pp.1170-1171

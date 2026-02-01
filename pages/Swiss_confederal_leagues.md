@@ -52,12 +52,12 @@ Municipalism*:
 <references/>
 
 "<a   href="Category:Switzerland.md" class="wikilink"
-title="Category:Switzerland">"Category:Switzerland</a>
+title="Category:Switzerland">Category:Switzerland</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Confederation.md" class="wikilink"
-title="Category:Confederation">"Category:Confederation</a>
+title="Category:Confederation">Category:Confederation</a>
 "<a   href="Category:Communes.md" class="wikilink"
-title="Category:Communes">"Category:Communes</a>
+title="Category:Communes">Category:Communes</a>

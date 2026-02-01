@@ -5,7 +5,7 @@ title="Levellers_declaration_and_standard.gif" />
 </figure>
 
 The
-"<a   href="Wikipedia:Diggers.md" class="wikilink" title="Diggers">"Diggers</a>
+"<a   href="Wikipedia:Diggers.md" class="wikilink" title="Diggers">Diggers</a>
 were a millenarian Protestant group that, during the English Revolution,
 advocated communist land ownership and the abolition of masters. On 1
 April 1649, a group of about forty Diggers established a participatory
@@ -55,9 +55,9 @@ approached pantheism and Enlightenment-era anarcho-communism:
 <references/>
 
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Christian_Anarchists.md" class="wikilink"
-title="Category:Christian Anarchists">"Category:Christian Anarchists</a>
+title="Category:Christian Anarchists">Category:Christian Anarchists</a>
 
 [^1]: Peter Marshall, *Demanding the Impossible* (London:
     HarperPerennial, 2008), 96-97.

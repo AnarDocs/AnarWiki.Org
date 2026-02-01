@@ -6,11 +6,11 @@ title="Knossos_-_North_Portico_02.jpg" />
 
 The **Minoan Crete Civilization**
 ("<a   href="Timeline_of_Anarchism.md" class="wikilink"
-title="3000BCE - 1100BCE">"3000BCE - 1100BCE</a>) was a large, peaceful,
+title="3000BCE - 1100BCE">3000BCE - 1100BCE</a>) was a large, peaceful,
 and possibly matriarchal Bronze Age Mediterranean society that
 flourished from about 3000 BCE to 1100 BCE. It was an
 "<a   href="List_of_Anarchist_Societies.md" class="wikilink"
-title="egalitarian civilization">"egalitarian civilization</a> that
+title="egalitarian civilization">egalitarian civilization</a> that
 flourished on Crete and surrounding Aegean islands in the Mediterranean
 Sea. It had around 90 different cities and a population reaching into
 the millions until it was destroyed by a massive volcanic eruption.[^1]
@@ -103,13 +103,13 @@ trans priestesses."[^16]
 
 Deities depicted in Minoan art are almost exclusively female,
 "<a   href="Gender_Non-Conformity.md" class="wikilink"
-title="gender non-conforming">"gender non-conforming</a> or
+title="gender non-conforming">gender non-conforming</a> or
 "<a   href="transgender.md" class="wikilink"
-title="transgender">"transgender</a> figures. This suggests a society
+title="transgender">transgender</a> figures. This suggests a society
 that was aware of the existence of
-"<a   href="Queer_People.md" class="wikilink" title="queer people">"queer
+"<a   href="Queer_People.md" class="wikilink" title="queer people">queer
 people</a> and practiced "<a   href="Gender_Equality.md" class="wikilink"
-title="gender equality">"gender equality</a>.[^17]
+title="gender equality">gender equality</a>.[^17]
 
 ## Religion
 
@@ -198,7 +198,7 @@ contrast, the writings from Crete seem to focus mostly on trade and a
 little on religion.[^31] The abundance of communal buildings, similar
 sized houses and absence of evidence for centralized power suggest a
 possible use of "<a   href="Democratic_Assembly.md" class="wikilink"
-title="assemblies">"assemblies</a> for decision-making.
+title="assemblies">assemblies</a> for decision-making.
 
 # Economy
 
@@ -287,9 +287,9 @@ Gelderloos further speculates:
 
 The Minoan economy was grounded heavily in trade, although there may
 have been some degree of "<a   href="Commons.md" class="wikilink"
-title="common ownership and use">"common ownership and use</a>,
+title="common ownership and use">common ownership and use</a>,
 suggesting
-"<a   href="Mutualism.md" class="wikilink" title="mutualist">"mutualist</a>
+"<a   href="Mutualism.md" class="wikilink" title="mutualist">mutualist</a>
 practices.[^39]
 
 # Environment
@@ -314,35 +314,35 @@ citizens, but this was likely for sports and festivals.[^43]
 <references/>
 
 "<a   href="Category:Societies.md" class="wikilink"
-title="Category:Societies">"Category:Societies</a>
+title="Category:Societies">Category:Societies</a>
 "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Gender_Equality.md" class="wikilink"
-title="Category:Gender Equality">"Category:Gender Equality</a>
+title="Category:Gender Equality">Category:Gender Equality</a>
 "<a   href="Category:Feminism.md" class="wikilink"
-title="Category:Feminism">"Category:Feminism</a>
+title="Category:Feminism">Category:Feminism</a>
 "<a   href="Category:Queer_Issues.md" class="wikilink"
-title="Category:Queer Issues">"Category:Queer Issues</a>
+title="Category:Queer Issues">Category:Queer Issues</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Greece.md" class="wikilink"
-title="Category:Greece">"Category:Greece</a>
+title="Category:Greece">Category:Greece</a>
 "<a   href="Category:Southern_Europe.md" class="wikilink"
-title="Category:Southern Europe">"Category:Southern Europe</a>
+title="Category:Southern Europe">Category:Southern Europe</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:Before_Common_Era.md" class="wikilink"
-title="Category:Before Common Era">"Category:Before Common Era</a>
+title="Category:Before Common Era">Category:Before Common Era</a>
 "<a   href="Category:Matriarchy.md" class="wikilink"
-title="Category:Matriarchy">"Category:Matriarchy</a>
+title="Category:Matriarchy">Category:Matriarchy</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
-[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Minoan_civilization>
 
 [^2]: Cynthia Eller, Chapter One of *The Myth of Matriarchal Prehistory:
@@ -393,10 +393,10 @@ title="Category:Featured">"Category:Featured</a>
 [^16]: Gelderloos, *Worshiping Power*, 149.
 
 [^17]: "<a   href="Peter_Gelderloos.md" class="wikilink"
-    title="Peter Gelderloos">"Peter Gelderloos</a> (2017)
+    title="Peter Gelderloos">Peter Gelderloos</a> (2017)
     "<a   href="Worshiping_Power:_An_Anarchist_View_of_Early_State_Formation.md"
     class="wikilink"
-    title="Worshiping Power: An Anarchist View of Early State Formation">"Worshiping
+    title="Worshiping Power: An Anarchist View of Early State Formation">Worshiping
     Power: An Anarchist View of Early State Formation</a>, pages 149 -
     150
 
@@ -454,5 +454,5 @@ title="Category:Featured">"Category:Featured</a>
 
 [^42]: Gelderloos, *Worshiping Power*, 149.
 
-[^43]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^43]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Minoan_civilization#Warfare_and_the_%22Minoan_peace%22>

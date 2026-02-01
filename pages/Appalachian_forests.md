@@ -15,7 +15,7 @@ animals that consume them, to decomposers (microbes) that process animal
 carcasses, and back to the plants. As in any forest, the trees are
 connected underground through a vast
 "<a   href="mycorrhizal_network.md" class="wikilink"
-title="mycorrhizal network">"mycorrhizal network</a> in which trees and
+title="mycorrhizal network">mycorrhizal network</a> in which trees and
 fungi share resources and information with each other.
 
 In the Blue-Ridge mountains, plant species include magnolias, hickory,

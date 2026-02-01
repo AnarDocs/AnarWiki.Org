@@ -1,9 +1,9 @@
 # Individualist Anarchism
 
 **Individualist anarchism** or **anarcho-individualism** is a collection
-of "<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+of "<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 currents that emphasize the
-"<a   href="individual.md" class="wikilink" title="individual">"individual</a>
+"<a   href="individual.md" class="wikilink" title="individual">individual</a>
 and their will over external determinants such as groups, society,
 traditions, and ideological systems.
 
@@ -37,19 +37,19 @@ Europe.
 Although usually contrasted with social anarchism, both individualist
 and social anarchism have influenced each other. Among the early
 influences on American individualist anarchism were
-"<a   href="Josiah_Warren.md" class="wikilink" title="Josiah Warren">"Josiah
+"<a   href="Josiah_Warren.md" class="wikilink" title="Josiah Warren">Josiah
 Warren</a> (sovereignty of the individual),
-"<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner">"Max
+"<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner">Max
 Stirner</a> (egoism), "<a   href="Lysander_Spooner.md" class="wikilink"
-title="Lysander Spooner">"Lysander Spooner</a> (natural law),
+title="Lysander Spooner">Lysander Spooner</a> (natural law),
 "<a   href="Pierre-Joseph_Proudhon.md" class="wikilink"
-title="Pierre-Joseph Proudhon">"Pierre-Joseph Proudhon</a> (mutualism),
+title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> (mutualism),
 "<a   href="Henry_David_Thoreau.md" class="wikilink"
-title="Henry David Thoreau">"Henry David Thoreau</a> (transcendentalism),
+title="Henry David Thoreau">Henry David Thoreau</a> (transcendentalism),
 "<a   href="Herbert_Spencer.md" class="wikilink"
-title="Herbert Spencer">"Herbert Spencer</a> (law of equal liberty) and
+title="Herbert Spencer">Herbert Spencer</a> (law of equal liberty) and
 "<a   href="Anselme_Bellegarrigue.md" class="wikilink"
-title="Anselme Bellegarrigue">"Anselme Bellegarrigue</a> (civil
+title="Anselme Bellegarrigue">Anselme Bellegarrigue</a> (civil
 disobedience). For European individualist anarchism, key figures
 included Pierre Martinet, Vittorio Pini, Clément Duval, Errico
 Malatesta, Émile Henry, Zo d'Axa, and groups such as the Intransigeants
@@ -644,17 +644,17 @@ encompasses socialism.
 - Archives of individualist and egoist texts at the Anarchist Library
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Dana, Charles Anderson. Proudhon and his "Bank of the People". p.
     46

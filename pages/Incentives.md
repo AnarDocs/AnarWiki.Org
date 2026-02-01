@@ -314,28 +314,28 @@ of domination.
 ## See Also
 
 - "<a   href="Motivations.md" class="wikilink"
-  title="Motivations">"Motivations</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
-- "<a   href="Gift_Economy.md" class="wikilink" title="Gift Economy">"Gift
+  title="Motivations">Motivations</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- "<a   href="Gift_Economy.md" class="wikilink" title="Gift Economy">Gift
   Economy</a>
 - "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
 - "<a   href="Participatory_Economics.md" class="wikilink"
-  title="Participatory Economics">"Participatory Economics</a>
-- "<a   href="Social_Ecology.md" class="wikilink" title="Social Ecology">"Social
+  title="Participatory Economics">Participatory Economics</a>
+- "<a   href="Social_Ecology.md" class="wikilink" title="Social Ecology">Social
   Ecology</a>
-- "<a   href="Autonomy.md" class="wikilink" title="Autonomy">"Autonomy</a>
+- "<a   href="Autonomy.md" class="wikilink" title="Autonomy">Autonomy</a>
 
 ## References
 
 <references />
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Duska, Ronald F. (1997). "The Why's of Business Revisited" in
     *Contemporary Reflections on Business Ethics*. Springer Science &

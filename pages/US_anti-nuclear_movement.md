@@ -248,13 +248,13 @@ least."[^20]
 <references/>
 
 "<a   href="Category:USA.md" class="wikilink"
-title="Category:USA">"Category:USA</a>
+title="Category:USA">Category:USA</a>
 "<a   href="Category:North_America.md" class="wikilink"
-title="Category:North America">"Category:North America</a>
+title="Category:North America">Category:North America</a>
 "<a   href="Category:Direct_Action.md" class="wikilink"
-title="Category:Direct Action">"Category:Direct Action</a>
+title="Category:Direct Action">Category:Direct Action</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: David Graeber, “The Shock of Victory” in *Revolutions in Reverse:
     Essays on Politics, Violence, Art, and Imagination* (New York:

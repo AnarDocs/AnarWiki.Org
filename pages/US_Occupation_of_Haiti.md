@@ -3,11 +3,11 @@ subjects around murder and rape*
 
 The **US Occupation of Haiti** or the **Rape of Haiti**was an effort by
 the
-"<a   href="United_States_of_America.md" class="wikilink" title="USA">"USA</a>
+"<a   href="United_States_of_America.md" class="wikilink" title="USA">USA</a>
 to defend their "<a   href="Timeline_of_US_Imperialism.md" class="wikilink"
-title="colonial ambitions">"colonial ambitions</a> in Latin America from
+title="colonial ambitions">colonial ambitions</a> in Latin America from
 the expanding
-"<a   href="German_Empire.md" class="wikilink" title="German Empire">"German
+"<a   href="German_Empire.md" class="wikilink" title="German Empire">German
 Empire</a> from 1915 to 1934. Haiti became an occupied territory of an
 American Empire, and US soldiers killed, raped and tortured an unknown
 number of people.
@@ -39,7 +39,7 @@ Warren G. Harding criticized incumbent Woodrow Wilson, referring to the
 occupation as the "Rape of Haiti"; however after he won the election he
 continued the occupation in his own presidency (but remember you have to
 vote and cannot question our elected leaders!).[^1] America believes in
-the "<a   href="Rule_of_Law.md" class="wikilink" title="rule of law">"rule of
+the "<a   href="Rule_of_Law.md" class="wikilink" title="rule of law">rule of
 law</a> so strongly that they forgot to apply it here, and none of the
 soldiers, officers, commanders, politicians and businessmen who helped
 these digusting crimes against humanity were ever charged! Oopsies
@@ -48,25 +48,25 @@ daisy!
 ## References
 
 "<a   href="Category:US_Imperialism.md" class="wikilink"
-title="Category:US Imperialism">"Category:US Imperialism</a>
+title="Category:US Imperialism">Category:US Imperialism</a>
 "<a   href="Category:Haiti.md" class="wikilink"
-title="Category:Haiti">"Category:Haiti</a>
+title="Category:Haiti">Category:Haiti</a>
 "<a   href="Category:Caribbean.md" class="wikilink"
-title="Category:Caribbean">"Category:Caribbean</a>
+title="Category:Caribbean">Category:Caribbean</a>
 "<a   href="Category:1915.md" class="wikilink"
-title="Category:1915">"Category:1915</a>
+title="Category:1915">Category:1915</a>
 "<a   href="Category:1934.md" class="wikilink"
-title="Category:1934">"Category:1934</a>
+title="Category:1934">Category:1934</a>
 "<a   href="Category:1930s.md" class="wikilink"
-title="Category:1930s">"Category:1930s</a>
+title="Category:1930s">Category:1930s</a>
 "<a   href="Category:1910s.md" class="wikilink"
-title="Category:1910s">"Category:1910s</a>
+title="Category:1910s">Category:1910s</a>
 "<a   href="Category:1920s.md" class="wikilink"
-title="Category:1920s">"Category:1920s</a>
+title="Category:1920s">Category:1920s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
-[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Sexual_violence_in_Haiti#United_States_occupation_(1915%E2%80%931934)>

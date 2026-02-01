@@ -3,20 +3,20 @@
 ## Overview
 
 **Vanguardism** is a
-"<a   href="Leninism.md" class="wikilink" title="Leninist">"Leninist</a>
+"<a   href="Leninism.md" class="wikilink" title="Leninist">Leninist</a>
 political theory which argues that a revolutionary vanguard party,
 composed of professional revolutionaries, must lead the
 "<a   href="proletariat.md" class="wikilink"
-title="proletariat">"proletariat</a> in overthrowing
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>
+title="proletariat">proletariat</a> in overthrowing
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
 and establishing
-"<a   href="socialism.md" class="wikilink" title="socialism">"socialism</a>.
+"<a   href="socialism.md" class="wikilink" title="socialism">socialism</a>.
 The theory holds that the working class cannot develop revolutionary
 consciousness on its own and requires guidance from a disciplined,
 centralized party organization that represents their "true" historical
 interests.
 
-"<a   href="Anarchism.md" class="wikilink" title="Anarchists">"Anarchists</a>
+"<a   href="Anarchism.md" class="wikilink" title="Anarchists">Anarchists</a>
 reject vanguardism as fundamentally authoritarian, arguing that it
 replaces working class self-organization with party dictatorship,
 violates the principle that means must match ends, and has historically
@@ -26,13 +26,13 @@ ruling classes.
 ## Origins
 
 Vanguardism was developed by "<a   href="Vladimir_Lenin.md" class="wikilink"
-title="Vladimir Lenin">"Vladimir Lenin</a> in his 1902 work *What is to
+title="Vladimir Lenin">Vladimir Lenin</a> in his 1902 work *What is to
 be Done?*, building on ideas from
-"<a   href="Karl_Kautsky.md" class="wikilink" title="Karl Kautsky">"Karl
+"<a   href="Karl_Kautsky.md" class="wikilink" title="Karl Kautsky">Karl
 Kautsky</a>. Lenin argued that the complexity of
-"<a   href="Marxism.md" class="wikilink" title="Marxism">"Marxism</a> and the
+"<a   href="Marxism.md" class="wikilink" title="Marxism">Marxism</a> and the
 hostility of the
-"<a   href="Tsarist.md" class="wikilink" title="Tsarist">"Tsarist</a> regime
+"<a   href="Tsarist.md" class="wikilink" title="Tsarist">Tsarist</a> regime
 required a close-knit group of professional revolutionaries to safeguard
 revolutionary ideology and lead the working class.[^1]
 
@@ -61,11 +61,11 @@ proletarian class struggle from without."[^5]
 
 The theory was later systematized in the organizational principle of
 "<a   href="democratic_centralism.md" class="wikilink"
-title="democratic centralism">"democratic centralism</a>, where party
+title="democratic centralism">democratic centralism</a>, where party
 members elect leaders who then make binding decisions on all members.
 This became the organizational model for
 "<a   href="Communist_Party.md" class="wikilink"
-title="Communist parties">"Communist parties</a> worldwide and was often
+title="Communist parties">Communist parties</a> worldwide and was often
 enshrined in constitutions where such parties took state power.
 
 ## Anarchist Critique
@@ -76,13 +76,13 @@ Anarchists argue that vanguardism is fundamentally authoritarian in both
 theory and practice. Rather than empowering workers to self-organize and
 self-manage, it creates a new hierarchy with party leaders at the top
 making decisions for the working class below. As
-"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
+"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">David
 Graeber</a> notes, vanguardism maintains "the idea that the role of
 revolutionaries is to form an elite that can arrive at the correct
 strategic analyses and then lead the masses to follow."[^6]
 
 "<a   href="Alfredo_M._Bonanno.md" class="wikilink"
-title="Alfredo M. Bonanno">"Alfredo M. Bonanno</a> identifies the
+title="Alfredo M. Bonanno">Alfredo M. Bonanno</a> identifies the
 vanguard as "an organic whole composed of the individuals that make it
 up. This organisation tends to cut itself off from and impose itself
 upon the revolutionary movement that produced it."[^7] The vanguard
@@ -98,7 +98,7 @@ precedence over revolutionary goals.
 
 The elitist implications of vanguardism were recognized early.
 "<a   href="Mikhail_Bakunin.md" class="wikilink"
-title="Mikhail Bakunin">"Mikhail Bakunin</a> expressed the implications
+title="Mikhail Bakunin">Mikhail Bakunin</a> expressed the implications
 of the vanguardist perspective extremely well:
 
 "Idealists of all sorts, metaphysicians, positivists, those who uphold
@@ -193,8 +193,8 @@ participation.[^13]
 Anarchists point to the historical record of vanguard parties in power
 as proof of their authoritarian nature. In the
 "<a   href="Russian_Revolution.md" class="wikilink"
-title="Russian Revolution">"Russian Revolution</a>, the
-"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">"Bolsheviks</a>
+title="Russian Revolution">Russian Revolution</a>, the
+"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">Bolsheviks</a>
 systematically dismantled workers' democracy:
 
 - Factory committees that advocated workers' self-management were
@@ -207,7 +207,7 @@ systematically dismantled workers' democracy:
 - Opposition parties, including other socialist parties, were banned
 
 These measures began before the
-"<a   href="Russian_Civil_War.md" class="wikilink" title="Civil War">"Civil
+"<a   href="Russian_Civil_War.md" class="wikilink" title="Civil War">Civil
 War</a> intensified and continued after it ended, demonstrating they
 were rooted in Bolshevik ideology rather than temporary emergency
 measures. As The Anarchist FAQ documents, "the Bolsheviks were very
@@ -215,7 +215,7 @@ happy to let small groups ignore and revoke the democratic decisions of
 collective groups - as long as the small group in question was the
 leadership of the Bolshevik Party."[^15]
 
-"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">"Leon
+"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
 Trotsky</a> explicitly defended party dictatorship over working class
 democracy, arguing that "the Party is obliged to maintain its
 dictatorship ... regardless of temporary vacillations even in the
@@ -245,7 +245,7 @@ emphasis on ideological purity and correct theory over practical
 cooperation creates sectarian competition rather than revolutionary
 unity.
 
-"<a   href="Rudolf_Rocker.md" class="wikilink" title="Rudolf Rocker">"Rudolf
+"<a   href="Rudolf_Rocker.md" class="wikilink" title="Rudolf Rocker">Rudolf
 Rocker</a> argued that centralization inevitably undermines
 revolutionary effectiveness: "For a movement whose very existence
 depends on prompt action at any favourable moment and on the independent
@@ -290,7 +290,7 @@ actions cannot emancipate itself. It is, by necessity, dependent on
 others to shape and form its movements.
 
 Libertarian socialist "<a   href="Cornelius_Castoriadis.md" class="wikilink"
-title="Cornelius Castoriadis">"Cornelius Castoriadis</a> provides a good
+title="Cornelius Castoriadis">Cornelius Castoriadis</a> provides a good
 critique of the implications of the Leninist position: "No positive
 content, nothing new capable of providing the foundation for the
 reconstruction of society could arise out of a mere awareness of
@@ -321,7 +321,7 @@ as well as revolutionary theories derived from such experiences.
 The category of "economic struggle" corresponds to no known social
 reality. Every "economic" struggle is "political" in some sense and
 those involved can, and do, learn political lessons from them. As
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> noted in the 1880s, there "is almost no serious strike
 which occurs together with the appearance of troops, the exchange of
 blows and some acts of revolt. Here they fight with the troops; there
@@ -425,7 +425,7 @@ However, anarchists argue that organizational forms developed for
 conspiratorial resistance to absolutism are inappropriate for
 revolutionary transformation. The secretive, disciplined party structure
 necessary to evade the
-"<a   href="Okhrana.md" class="wikilink" title="Okhrana">"Okhrana</a> (Tsarist
+"<a   href="Okhrana.md" class="wikilink" title="Okhrana">Okhrana</a> (Tsarist
 secret police) became a model for post-revolutionary governance, with
 predictably authoritarian results.
 
@@ -454,7 +454,7 @@ Vanguardist parties continue to operate in contemporary social
 movements, often attempting to take leadership positions or coopt
 autonomous struggles. For example the
 "<a   href="Socialist_Workers_Party.md" class="wikilink"
-title="Socialist Workers Party">"Socialist Workers Party</a> views
+title="Socialist Workers Party">Socialist Workers Party</a> views
 movements "purely in instrumental terms, as means of increasing the size
 and influence of the party" rather than as sources of revolutionary
 consciousness in their own right.[^28]
@@ -463,7 +463,7 @@ Modern anarchists and libertarian socialists emphasize building
 horizontal, directly democratic movements that resist vanguardist
 takeover attempts. Groups like
 "<a   href="Reclaim_the_Streets.md" class="wikilink"
-title="Reclaim the Streets">"Reclaim the Streets</a> organize through
+title="Reclaim the Streets">Reclaim the Streets</a> organize through
 open assemblies and working groups rather than centralized leadership,
 embodying alternatives to both vanguardism and informal hierarchy.
 
@@ -488,7 +488,7 @@ and decide they require the party's leadership.
 Rather than being effective revolutionary instruments, vanguard parties
 in practice exhibit serious organisational problems.
 "<a   href="Murray_Bookchin.md" class="wikilink"
-title="Murray Bookchin">"Murray Bookchin</a> argued at length about the
+title="Murray Bookchin">Murray Bookchin</a> argued at length about the
 inherent problems with such parties:
 
 "The 'glorious party,' when there is one, almost invariably lags behind
@@ -567,7 +567,7 @@ structurelessness" concept was actually developed by anarcha-feminist Jo
 Freeman to argue for better structures, not for centralized leadership.
 
 Leninists also argue that the failures of Bolshevism resulted from the
-"<a   href="Russian_Civil_War.md" class="wikilink" title="Civil War">"Civil
+"<a   href="Russian_Civil_War.md" class="wikilink" title="Civil War">Civil
 War</a> rather than their ideology. Yet the suppression of democracy
 began before the war intensified and continued after it ended, with
 Lenin and Trotsky explicitly defending party dictatorship as a matter of
@@ -583,20 +583,20 @@ transformation requires revolutionary organization.
 
 ## See Also
 
-- "<a   href="Leninism.md" class="wikilink" title="Leninism">"Leninism</a>
+- "<a   href="Leninism.md" class="wikilink" title="Leninism">Leninism</a>
 - "<a   href="Democratic_Centralism.md" class="wikilink"
-  title="Democratic Centralism">"Democratic Centralism</a>
-- "<a   href="Bolshevism.md" class="wikilink" title="Bolshevism">"Bolshevism</a>
+  title="Democratic Centralism">Democratic Centralism</a>
+- "<a   href="Bolshevism.md" class="wikilink" title="Bolshevism">Bolshevism</a>
 - "<a   href="Anarchist_Organization.md" class="wikilink"
-  title="Anarchist Organization">"Anarchist Organization</a>
+  title="Anarchist Organization">Anarchist Organization</a>
 - "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
 - "<a   href="Direct_Democracy.md" class="wikilink"
-  title="Direct Democracy">"Direct Democracy</a>
+  title="Direct Democracy">Direct Democracy</a>
 - "<a   href="Russian_Revolution.md" class="wikilink"
-  title="Russian Revolution">"Russian Revolution</a>
+  title="Russian Revolution">Russian Revolution</a>
 - "<a   href="Substitutionism.md" class="wikilink"
-  title="Substitutionism">"Substitutionism</a>
+  title="Substitutionism">Substitutionism</a>
 
 ## References
 
@@ -612,27 +612,27 @@ transformation requires revolutionary organization.
   al.](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq)
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Anti-Authoritarian.md" class="wikilink"
-title="Category:Anti-Authoritarian">"Category:Anti-Authoritarian</a>
+title="Category:Anti-Authoritarian">Category:Anti-Authoritarian</a>
 "<a   href="Category:Authoritarian_Socialism.md" class="wikilink"
-title="Category:Authoritarian Socialism">"Category:Authoritarian
+title="Category:Authoritarian Socialism">Category:Authoritarian
 Socialism</a> "<a   href="Category:Marxist-Leninism.md" class="wikilink"
-title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 "<a   href="Category:Criticism.md" class="wikilink"
-title="Category:Criticism">"Category:Criticism</a>
+title="Category:Criticism">Category:Criticism</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Controversial_Concepts.md" class="wikilink"
-title="Category:Controversial Concepts">"Category:Controversial
+title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 
 [^1]: Vladimir Lenin, What is to be Done?, 1902

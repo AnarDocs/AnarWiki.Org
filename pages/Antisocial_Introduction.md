@@ -10,27 +10,27 @@ community accountability, restoration, and collective self-defense.
 Suffice it to say that it is worth keeping in mind that -
 
 - "<a   href="Historical_Harm_Reduction_Introduction.md" class="wikilink"
-  title="Past non-hierarchal societies have handled anti-social behaviour effectively">"Past
+  title="Past non-hierarchal societies have handled anti-social behaviour effectively">Past
   non-hierarchal societies have handled anti-social behaviour
   effectively</a>.
 - "<a   href="State_Violence_Introduction.md" class="wikilink"
-  title="The current system is a violent one already and requires a lot of violence to maintain">"The
+  title="The current system is a violent one already and requires a lot of violence to maintain">The
   current system is a violent one already and requires a lot of violence
   to maintain</a>.
 - "<a   href="Anarchist_Harm_Mitigation_Introduction.md" class="wikilink"
-  title="An Anarchist world wouldn&#39;t have many of the causes of anti-social behaviour">"An
+  title="An Anarchist world wouldn&#39;t have many of the causes of anti-social behaviour">An
   Anarchist world wouldn't have many of the causes of anti-social
   behaviour</a>.
 - "<a   href="Harm_Investigation_Introduction.md" class="wikilink"
-  title="There are ways to investigate and judge difficult matters without the police or adversarial court system">"There
+  title="There are ways to investigate and judge difficult matters without the police or adversarial court system">There
   are ways to investigate and judge difficult matters without the police
   or adversarial court system</a>
 - "<a   href="Community_Defense.md" class="wikilink"
-  title="Effective community defense is possible without resorting to policing or mob violence.">"Effective
+  title="Effective community defense is possible without resorting to policing or mob violence.">Effective
   community defense is possible without resorting to policing or mob
   violence.</a>
 - "<a   href="Conflict_Resolution.md" class="wikilink"
-  title="There are ways to resolve conflicts before they lead to more extreme outcomes.">"There
+  title="There are ways to resolve conflicts before they lead to more extreme outcomes.">There
   are ways to resolve conflicts before they lead to more extreme
   outcomes.</a>
 
@@ -208,17 +208,17 @@ self-determination, and opposition to authoritarian institutions.
 ## See Also
 
 - "<a   href="Transformative_Justice.md" class="wikilink"
-  title="Transformative Justice">"Transformative Justice</a>
+  title="Transformative Justice">Transformative Justice</a>
 - "<a   href="Community_Accountability.md" class="wikilink"
-  title="Community Accountability">"Community Accountability</a>
+  title="Community Accountability">Community Accountability</a>
 - "<a   href="Restorative_Justice.md" class="wikilink"
-  title="Restorative Justice">"Restorative Justice</a>
+  title="Restorative Justice">Restorative Justice</a>
 - "<a   href="Community_Defense.md" class="wikilink"
-  title="Community Defense">"Community Defense</a>
+  title="Community Defense">Community Defense</a>
 - "<a   href="Prison_Abolition.md" class="wikilink"
-  title="Prison Abolition">"Prison Abolition</a>
+  title="Prison Abolition">Prison Abolition</a>
 - "<a   href="Police_Abolition_And_Alternatives.md" class="wikilink"
-  title="Police Abolition And Alternatives">"Police Abolition And
+  title="Police Abolition And Alternatives">Police Abolition And
   Alternatives</a>
 
 ## References
@@ -226,12 +226,12 @@ self-determination, and opposition to authoritarian institutions.
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Prison_Abolition.md" class="wikilink"
-title="Category:Prison Abolition">"Category:Prison Abolition</a>
+title="Category:Prison Abolition">Category:Prison Abolition</a>
 "<a   href="Category:Community_Justice.md" class="wikilink"
-title="Category:Community Justice">"Category:Community Justice</a>
+title="Category:Community Justice">Category:Community Justice</a>
 "<a   href="Category:Justice.md" class="wikilink"
-title="Category:Justice">"Category:Justice</a>
+title="Category:Justice">Category:Justice</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>

@@ -15,9 +15,9 @@ Animals" by Lyta Gold and Nick Sirotich[^1]:
 <references/>
 
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Natural_World.md" class="wikilink"
-title="Category:Natural World">"Category:Natural World</a>
+title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Lyta Gold and Nick Sirotich "The *Current Affairs* Field Guide to
     Socialist Animals," *Current Affairs*, 5 November 2018.

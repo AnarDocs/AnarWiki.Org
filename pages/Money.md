@@ -509,20 +509,20 @@ Search theanarchistlibrary.org for:
 
 ### See Also
 
-- "<a   href="Mutual_banking.md" class="wikilink" title="Mutual banking">"Mutual
+- "<a   href="Mutual_banking.md" class="wikilink" title="Mutual banking">Mutual
   banking</a>
 - "<a   href="Labor_theory_of_value.md" class="wikilink"
-  title="Labor theory of value">"Labor theory of value</a>
+  title="Labor theory of value">Labor theory of value</a>
 - "<a   href="People&#39;s_Bank.md" class="wikilink"
-  title="People&#39;s Bank">"People's Bank</a>
-- "<a   href="Gift_Economy.md" class="wikilink" title="Gift Economy">"Gift
+  title="People&#39;s Bank">People's Bank</a>
+- "<a   href="Gift_Economy.md" class="wikilink" title="Gift Economy">Gift
   Economy</a>
 - "<a   href="Anti-capitalist_markets.md" class="wikilink"
-  title="Anti-capitalist markets">"Anti-capitalist markets</a>
+  title="Anti-capitalist markets">Anti-capitalist markets</a>
 - "<a   href="Anarchist_Economics.md" class="wikilink"
-  title="Anarchist Economics">"Anarchist Economics</a>
+  title="Anarchist Economics">Anarchist Economics</a>
 - "<a   href="Historical_Materialism.md" class="wikilink"
-  title="Historical Materialism">"Historical Materialism</a>
+  title="Historical Materialism">Historical Materialism</a>
 
 This represents the core body of anarchist thought on money, ranging
 from practical banking reforms to complete abolition of monetary
@@ -554,21 +554,21 @@ exchange.
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Economic_Systems.md" class="wikilink"
-title="Category:Economic Systems">"Category:Economic Systems</a>
+title="Category:Economic Systems">Category:Economic Systems</a>
 "<a   href="Category:Post-Capitalist_Economics.md" class="wikilink"
-title="Category:Post-Capitalist Economics">"Category:Post-Capitalist
+title="Category:Post-Capitalist Economics">Category:Post-Capitalist
 Economics</a> "<a   href="Category:Anarchist_Economics.md" class="wikilink"
-title="Category:Anarchist Economics">"Category:Anarchist Economics</a>
+title="Category:Anarchist Economics">Category:Anarchist Economics</a>
 "<a   href="Category:Economics.md" class="wikilink"
-title="Category:Economics">"Category:Economics</a>
+title="Category:Economics">Category:Economics</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Graeber, David. *Debt: The First 5000 Years*. Brooklyn: Melville
     House, 2011

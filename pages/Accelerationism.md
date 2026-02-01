@@ -7,19 +7,19 @@ that call for the intensification of capitalism and technological
 development as a means to create radical social transformations. While
 originating in post-Marxist philosophy, accelerationism has been subject
 to extensive critique and reappropriation by
-"<a   href="anarchism.md" class="wikilink" title="anarchists">"anarchists</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchists">anarchists</a>
 and "<a   href="libertarian_socialism.md" class="wikilink"
-title="left-libertarians">"left-libertarians</a>, who have both
+title="left-libertarians">left-libertarians</a>, who have both
 criticized its authoritarian tendencies and attempted to develop
 distinctly anti-authoritarian variants.
 
 The term was coined by Benjamin Noys in 2010 to describe trajectories in
 post-structuralist thought, particularly the work of
-"<a   href="Gilles_Deleuze.md" class="wikilink" title="Gilles Deleuze">"Gilles
+"<a   href="Gilles_Deleuze.md" class="wikilink" title="Gilles Deleuze">Gilles
 Deleuze</a> and
-"<a   href="Félix_Guattari.md" class="wikilink" title="Félix Guattari">"Félix
+"<a   href="Félix_Guattari.md" class="wikilink" title="Félix Guattari">Félix
 Guattari</a>, who in *"<a   href="Anti-Oedipus.md" class="wikilink"
-title="Anti-Oedipus">"Anti-Oedipus</a>* wrote: "perhaps the flows are not
+title="Anti-Oedipus">Anti-Oedipus</a>* wrote: "perhaps the flows are not
 yet deterritorialized enough, not decoded enough, from the viewpoint of
 a theory and a practice of a highly schizophrenic character. Not to
 withdraw from the process, but to go further, to 'accelerate the
@@ -27,11 +27,11 @@ process.'"[^1]
 
 Accelerationism divides into several variants: right-accelerationism
 associated with
-"<a   href="Nick_Land.md" class="wikilink" title="Nick Land">"Nick Land</a>
+"<a   href="Nick_Land.md" class="wikilink" title="Nick Land">Nick Land</a>
 that celebrates capitalist deterritorialization; left-accelerationism
 associated with Nick Srnicek and Alex Williams that seeks to repurpose
 capitalist infrastructure for
-"<a   href="socialism.md" class="wikilink" title="socialism">"socialism</a>;
+"<a   href="socialism.md" class="wikilink" title="socialism">socialism</a>;
 and unconditional accelerationism (u/acc) which attempts to move beyond
 left-right distinctions. Each has faced significant criticism from
 anarchist theorists.
@@ -51,12 +51,12 @@ can improve - that only after "hitting rock bottom" can society rise up.
 Culp dismisses this as the domain of "contrarian provocateurs" whose
 shock value wears off quickly. This strategy of pursuing
 "<a   href="immiseration.md" class="wikilink"
-title="immiseration">"immiseration</a> to raise consciousness is
+title="immiseration">immiseration</a> to raise consciousness is
 critiqued as historically bankrupt, having failed repeatedly when
 applied to actual oppression.[^3]
 
 The fascist worship of speed, exemplified by Italian Futurism and Nazi
-"<a   href="blitzkrieg.md" class="wikilink" title="blitzkrieg">"blitzkrieg</a>
+"<a   href="blitzkrieg.md" class="wikilink" title="blitzkrieg">blitzkrieg</a>
 tactics, represents another dangerous accelerationist tendency. Culp
 notes that when asked about his amphetamine-fueled writings, Nick Land
 attributed them to "the clawed embrace of the undead amphetamine god,"
@@ -85,14 +85,14 @@ action... We need to posit a collectively controlled legitimate vertical
 authority in addition to distributed horizontal forms of sociality."[^7]
 This represents a fundamental betrayal of anti-authoritarian principles,
 rejecting "<a   href="horizontalism.md" class="wikilink"
-title="horizontalism">"horizontalism</a> and
+title="horizontalism">horizontalism</a> and
 "<a   href="decentralization.md" class="wikilink"
-title="decentralization">"decentralization</a> in favor of vanguardist
+title="decentralization">decentralization</a> in favor of vanguardist
 technocracy.
 
 Gillis notes the absurdity of left-accelerationists positively citing
 Project Cybersyn - Salvador Allende's failed experiment in
-"<a   href="cybernetic.md" class="wikilink" title="cybernetic">"cybernetic</a>
+"<a   href="cybernetic.md" class="wikilink" title="cybernetic">cybernetic</a>
 central planning - as a model for future socialism. He characterizes
 this as "science denialism" that ignores the fundamental computational
 complexity problems that make centralized planning impossible: "You
@@ -103,15 +103,15 @@ The MAP's call for "government funded think tanks" and an "intellectual
 infrastructure" reveals its true character as an academic elite seeking
 to establish themselves as a technocratic vanguard. Gillis argues this
 represents not a break with "<a   href="primitivism.md" class="wikilink"
-title="primitivism">"primitivism</a> but rather "the same old antiquated
+title="primitivism">primitivism</a> but rather "the same old antiquated
 Marxist and Continental garbage. A mixture of insular elitism and the
 very anti-intellectual currents of localism and immediacy."[^9]
 
 ### The Market Question
 
 A central anarchist critique concerns accelerationism's conflation of
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>
-and "<a   href="free_market.md" class="wikilink" title="markets">"markets</a>.
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+and "<a   href="free_market.md" class="wikilink" title="markets">markets</a>.
 Gillis argues that "capitalism — in the sense of macroscopic tendencies
 of capital accumulation, normalized wage labor and attendant dynamics —
 is if anything radically opposed to innovation and meaningful growth.
@@ -120,7 +120,7 @@ as capitalism and the market being radically different creatures."[^10]
 
 This distinction, central to
 "<a   href="left-wing_market_anarchism.md" class="wikilink"
-title="left-wing market anarchism">"left-wing market anarchism</a>,
+title="left-wing market anarchism">left-wing market anarchism</a>,
 allows for a very different analysis than that offered by
 accelerationists. Markets represent deterritorializing forces that
 undermine hierarchies through distributed decision-making and
@@ -131,7 +131,7 @@ or in serious conflict."[^11]
 From this perspective, what should be accelerated is not capitalism but
 rather the market forces that work against it - the underground
 economies, the
-"<a   href="commons.md" class="wikilink" title="commons">"commons</a>, the
+"<a   href="commons.md" class="wikilink" title="commons">commons</a>, the
 decentralized technologies, and the alternative institutions that route
 around capitalist power structures.
 
@@ -143,7 +143,7 @@ In response to both left and right accelerationism, some anarchist
 theorists have attempted to formulate distinctly anti-authoritarian
 variants. Writer Black Cat has proposed "anarcho-accelerationism" (a/acc
 or an/acc) as a synthesis of
-"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a> and
+"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> and
 unconditional accelerationist concepts.[^12]
 
 Black Cat argues that "anarchism is really the maximization of Exit" -
@@ -160,7 +160,7 @@ emphasizes:
 - Recognizing individual insignificance while seeking personal freedom
   rather than attempting to change the entire world[^15]
 - Questioning "<a   href="universalism.md" class="wikilink"
-  title="universalism">"universalism</a> as a form of totalitarianism
+  title="universalism">universalism</a> as a form of totalitarianism
 - Celebrating diverse "safe spaces" and alternative societies rather
   than imposing uniform systems[^16]
 
@@ -180,7 +180,7 @@ offer exit to different norms and social relations without requiring
 territorial control.
 
 Black Cat connects this to
-"<a   href="agorism.md" class="wikilink" title="agorism">"agorism</a>: "Whether
+"<a   href="agorism.md" class="wikilink" title="agorism">agorism</a>: "Whether
 you create a non-state Patch, or do a market insurrection, you are doing
 the same thing: creating an alternate institution, to route around the
 undesirable institutions and norms of the status quo."[^19]
@@ -195,7 +195,7 @@ world."[^20]
 
 This connects to the accelerationist concept of
 "<a   href="hyperstition.md" class="wikilink"
-title="hyperstition">"hyperstition</a> - ideas that make themselves real
+title="hyperstition">hyperstition</a> - ideas that make themselves real
 through being believed. Using the example of "gri-gri" (magical
 bullet-proofing) in Sub-Saharan African resistance movements, Black Cat
 argues that beliefs spread not primarily on their provability but on
@@ -213,7 +213,7 @@ enable a world of much more varied institutions."[^22]
 
 Several anarchist theorists have connected accelerationist concepts to
 "<a   href="insurrectionary_anarchism.md" class="wikilink"
-title="insurrectionary anarchism">"insurrectionary anarchism</a>. Culp
+title="insurrectionary anarchism">insurrectionary anarchism</a>. Culp
 distinguishes revolutionary from insurrectionary anarchism:
 revolutionary anarchism sees transition away from statism as "a clearly
 defined event" of formal battle, while insurrectionary anarchism sees it
@@ -238,9 +238,9 @@ technological supports for these."[^25]
 ### Agorism and Actually Existing Acceleration
 
 Black Cat connects accelerationism to
-"<a   href="agorism.md" class="wikilink" title="agorism">"agorism</a> - the
+"<a   href="agorism.md" class="wikilink" title="agorism">agorism</a> - the
 strategy of building "<a   href="counter-economics.md" class="wikilink"
-title="counter-economic">"counter-economic</a> institutions in the black
+title="counter-economic">counter-economic</a> institutions in the black
 and grey markets to deprive the state of revenue and build alternative
 social relations. Significantly, Black Cat notes that "a lot of people
 really do this in real life — for non-ideological reasons. The poorest
@@ -286,7 +286,7 @@ systems is actually the growing complexity that makes authoritarian
 control increasingly impossible. The proper anarchist response is to
 intensify this complexity rather than retreat to artificially simple
 solutions like "<a   href="universal_basic_income.md" class="wikilink"
-title="universal basic income">"universal basic income</a> or centralized
+title="universal basic income">universal basic income</a> or centralized
 planning.
 
 ### Information Theory and Liberation
@@ -333,7 +333,7 @@ The partisan perspective refuses universalism and the "world picture" of
 accelerationist politics. Instead it promises "a future so different
 that it no longer resembles the present."[^37] This connects to
 "<a   href="insurrectionary_anarchism.md" class="wikilink"
-title="insurrectionary anarchism">"insurrectionary anarchism</a>'s
+title="insurrectionary anarchism">insurrectionary anarchism</a>'s
 slogan: "don't smash the state, erode it."[^38]
 
 ### The Problem of Prometheanism
@@ -471,40 +471,40 @@ metrics of progress.
 
 ## See Also
 
-- "<a   href="Agorism.md" class="wikilink" title="Agorism">"Agorism</a>
+- "<a   href="Agorism.md" class="wikilink" title="Agorism">Agorism</a>
 - "<a   href="Insurrectionary_Anarchism.md" class="wikilink"
-  title="Insurrectionary Anarchism">"Insurrectionary Anarchism</a>
+  title="Insurrectionary Anarchism">Insurrectionary Anarchism</a>
 - "<a   href="Left-Wing_Market_Anarchism.md" class="wikilink"
-  title="Left-Wing Market Anarchism">"Left-Wing Market Anarchism</a>
+  title="Left-Wing Market Anarchism">Left-Wing Market Anarchism</a>
 - "<a   href="Post-Leftism.md" class="wikilink"
-  title="Post-Leftism">"Post-Leftism</a>
+  title="Post-Leftism">Post-Leftism</a>
 - "<a   href="Cybernetics.md" class="wikilink"
-  title="Cybernetics">"Cybernetics</a>
+  title="Cybernetics">Cybernetics</a>
 - "<a   href="Transhumanism.md" class="wikilink"
-  title="Transhumanism">"Transhumanism</a>
+  title="Transhumanism">Transhumanism</a>
 
 ## References
 
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Controversial_Concepts.md" class="wikilink"
-title="Category:Controversial Concepts">"Category:Controversial
+title="Category:Controversial Concepts">Category:Controversial
 Concepts</a> "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Technology.md" class="wikilink"
-title="Category:Technology">"Category:Technology</a>
+title="Category:Technology">Category:Technology</a>
 "<a   href="Category:Political_Philosophy.md" class="wikilink"
-title="Category:Political Philosophy">"Category:Political Philosophy</a>
+title="Category:Political Philosophy">Category:Political Philosophy</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Gilles Deleuze and Félix Guattari, *Anti-Oedipus* (London:
     Continuum, 2004), 260.

@@ -15,17 +15,17 @@ From Peter Gelderloos, Anarchy Works[^1]:
 ## References
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:England.md" class="wikilink"
-title="Category:England">"Category:England</a>
+title="Category:England">Category:England</a>
 "<a   href="Category:United_Kingdom.md" class="wikilink"
-title="Category:United Kingdom">"Category:United Kingdom</a>
+title="Category:United Kingdom">Category:United Kingdom</a>
 "<a   href="Category:1981.md" class="wikilink"
-title="Category:1981">"Category:1981</a>
+title="Category:1981">Category:1981</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
-[^1]: "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+[^1]: "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>

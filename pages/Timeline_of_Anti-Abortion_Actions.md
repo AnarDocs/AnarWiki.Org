@@ -1,5 +1,5 @@
 A timeline of actions taken to stop
-"<a   href="abortion.md" class="wikilink" title="abortion">"abortion</a>.
+"<a   href="abortion.md" class="wikilink" title="abortion">abortion</a>.
 Usually listed as a form of far-right terrorism.
 
 ## 1900s
@@ -15,7 +15,7 @@ Usually listed as a form of far-right terrorism.
 ## 2000s
 
 - 2001: Peter James Knight, an
-  "<a   href="Australia.md" class="wikilink" title="Australian">"Australian</a>
+  "<a   href="Australia.md" class="wikilink" title="Australian">Australian</a>
   anti-abortion activist, walks into an abortion clinic in East
   Melbourne with a rifle, gags, handcuffs and petrol. He shoots and
   kills the security guard and plans to trap everyone in the clinic and
@@ -32,11 +32,11 @@ Usually listed as a form of far-right terrorism.
 <references/>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Healthcare.md" class="wikilink"
-title="Category:Healthcare">"Category:Healthcare</a>
+title="Category:Healthcare">Category:Healthcare</a>
 
-[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     [Peter Knight (anti-abortion
     activist)](https://en.wikipedia.org/wiki/Peter_Knight_(anti-abortion_activist))
 

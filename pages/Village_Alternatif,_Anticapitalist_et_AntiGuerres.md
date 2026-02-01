@@ -1,5 +1,5 @@
 From Peter Gelderloos,
-"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > In May 2003, as envoys of the eight leading world governments prepared
@@ -20,14 +20,14 @@ Works</a>:
 ## References
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:France.md" class="wikilink"
-title="Category:France">"Category:France</a>
+title="Category:France">Category:France</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:2003.md" class="wikilink"
-title="Category:2003">"Category:2003</a>
+title="Category:2003">Category:2003</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>

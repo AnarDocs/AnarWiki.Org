@@ -52,29 +52,29 @@ of oppression.<ref>Baker, Zoe. "Means and Ends: The Anarchist Critique
 - <https://www.instagram.com/anarchozoe/>
 
 "<a   href="Category:British_anarchists.md" class="wikilink"
-title="Category:British anarchists">"Category:British anarchists</a>
+title="Category:British anarchists">Category:British anarchists</a>
 "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>
 "<a   href="Category:Anarcha-Feminists.md" class="wikilink"
-title="Category:Anarcha-Feminists">"Category:Anarcha-Feminists</a>
+title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
 "<a   href="Category:Living_People.md" class="wikilink"
-title="Category:Living People">"Category:Living People</a>
+title="Category:Living People">Category:Living People</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Anarchist_Authors.md" class="wikilink"
-title="Category:Anarchist Authors">"Category:Anarchist Authors</a>
+title="Category:Anarchist Authors">Category:Anarchist Authors</a>
 "<a   href="Category:Historians.md" class="wikilink"
-title="Category:Historians">"Category:Historians</a>
+title="Category:Historians">Category:Historians</a>
 "<a   href="Category:Libertarian_Socialists.md" class="wikilink"
-title="Category:Libertarian Socialists">"Category:Libertarian
+title="Category:Libertarian Socialists">Category:Libertarian
 Socialists</a> "<a   href="Category:Trans_People.md" class="wikilink"
-title="Category:Trans People">"Category:Trans People</a>
+title="Category:Trans People">Category:Trans People</a>
 "<a   href="Category:Disabled_People.md" class="wikilink"
-title="Category:Disabled People">"Category:Disabled People</a>
+title="Category:Disabled People">Category:Disabled People</a>
 "<a   href="Category:British_People.md" class="wikilink"
-title="Category:British People">"Category:British People</a>
+title="Category:British People">Category:British People</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: University of York faculty information
 

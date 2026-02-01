@@ -1,29 +1,29 @@
 The **Tunisian Revolution** or the **Dignity Revolution** (called the
 **Jasmine Revolution** outside Tunisia)was a revolution in
-"<a   href="Tunisia.md" class="wikilink" title="Tunisia">"Tunisia</a> in
+"<a   href="Tunisia.md" class="wikilink" title="Tunisia">Tunisia</a> in
 "<a   href="Timeline_of_Anarchism_in_Northern_Africa.md" class="wikilink"
-title="2010 and 2011">"2010 and 2011</a> which led to the fall of the
-"<a   href="Ali_Dictatorship.md" class="wikilink" title="Ali Dictatorship">"Ali
+title="2010 and 2011">2010 and 2011</a> which led to the fall of the
+"<a   href="Ali_Dictatorship.md" class="wikilink" title="Ali Dictatorship">Ali
 Dictatorship</a> and the creation of a
-"<a   href="Liberalism.md" class="wikilink" title="liberal">"liberal</a>
+"<a   href="Liberalism.md" class="wikilink" title="liberal">liberal</a>
 "<a   href="Representative_Democracy.md" class="wikilink"
-title="representative democracy">"representative democracy</a>.
+title="representative democracy">representative democracy</a>.
 
 ## Background
 
 *Main Article:
-"<a   href="Ali_Dictatorship.md" class="wikilink" title="Ali Dictatorship">"Ali
+"<a   href="Ali_Dictatorship.md" class="wikilink" title="Ali Dictatorship">Ali
 Dictatorship</a>*
 
 For 23 years, Tunisia had been under the dictatorship of Ben Ali, a
 one-party state that not only restricted the media but also repressed
 political opposition (notably backed by the
-"<a   href="Timeline_of_US_Imperialism.md" class="wikilink" title="US">"US</a>
-and "<a   href="Francafrique.md" class="wikilink" title="France">"France</a>).
+"<a   href="Timeline_of_US_Imperialism.md" class="wikilink" title="US">US</a>
+and "<a   href="Francafrique.md" class="wikilink" title="France">France</a>).
 Compounded with high unemployment, inflation, corruption and poor living
 conditions it was a breeding ground for revolt. On the 17 of the
 December, "<a   href="Mohamed_Bouazizi.md" class="wikilink"
-title="Mohamed Bouazizi">"Mohamed Bouazizi</a>, a street vendor who sold
+title="Mohamed Bouazizi">Mohamed Bouazizi</a>, a street vendor who sold
 fruit and vegetables who has been harassed repeatedly by city officials
 ended up burning himself in public in front of the city headquarters
 after his requests to take back his produce was denied, sparking the
@@ -49,12 +49,12 @@ extremists, gang members and foreign mercenaries. Political prisoners
 were released and all schools and universities were closed. On the 14th
 of January the government was dissolved, the airport was closed, a state
 of emergency declared and elections were called. Ben Ali later fled that
-day to "<a   href="Malta.md" class="wikilink" title="Malta">"Malta</a> under
-"<a   href="Socialist_Libya.md" class="wikilink" title="Libyan">"Libyan</a>
+day to "<a   href="Malta.md" class="wikilink" title="Malta">Malta</a> under
+"<a   href="Socialist_Libya.md" class="wikilink" title="Libyan">Libyan</a>
 protection before fleeing to
-"<a   href="Saudi_Arabia.md" class="wikilink" title="Saudi Arabia">"Saudi
+"<a   href="Saudi_Arabia.md" class="wikilink" title="Saudi Arabia">Saudi
 Arabia</a> after being denied entry to
-"<a   href="France.md" class="wikilink" title="France">"France</a>.
+"<a   href="France.md" class="wikilink" title="France">France</a>.
 
 A temporary government was set up to organise elections and maintain law
 and order. Looting continued and the main train station of Tunis (the
@@ -81,27 +81,27 @@ October, 2011.
 The revolution resulted in several things, notably:
 
 - The revolution triggered the wider (and much less successful)
-  "<a   href="Arab_Spring.md" class="wikilink" title="Arab Spring">"Arab
+  "<a   href="Arab_Spring.md" class="wikilink" title="Arab Spring">Arab
   Spring</a> and a "<a   href="Revolutions_of_2010_-_2015.md" class="wikilink"
-  title="wave of protests, revolts and strikes across the world in 2011">"wave
+  title="wave of protests, revolts and strikes across the world in 2011">wave
   of protests, revolts and strikes across the world in 2011</a>.
 - Creation of a liberal representative democracy in Tunisia.
 - Massive expansion of
-  "<a   href="Feminism.md" class="wikilink" title="women&#39;s rights">"women's
+  "<a   href="Feminism.md" class="wikilink" title="women&#39;s rights">women's
   rights</a>.
 - Greater internet freedom, access to Tor and
-  "<a   href="YouTube.md" class="wikilink" title="YouTube">"YouTube</a>.
+  "<a   href="YouTube.md" class="wikilink" title="YouTube">YouTube</a>.
 - 4,000 refugees fleeing to
-  "<a   href="Italy.md" class="wikilink" title="Italy">"Italy</a>.
+  "<a   href="Italy.md" class="wikilink" title="Italy">Italy</a>.
 
 ## Analysis
 
 The Tunisian Revolution has been heavily analysed for it being the only
 successful revolution of the Arab Spring (arguably alongside
-"<a   href="Rojava_Revolution.md" class="wikilink" title="Rojava">"Rojava</a>),
+"<a   href="Rojava_Revolution.md" class="wikilink" title="Rojava">Rojava</a>),
 several factors for this success have been proposed, especially in
 comparison to the "<a   href="Egyptian_Revolution_(2011).md" class="wikilink"
-title="failed revolution in Egypt">"failed revolution in Egypt</a>.
+title="failed revolution in Egypt">failed revolution in Egypt</a>.
 
 - The military stayed out of politics.
 - Tunisia lacked severe religious and ethnic tensions, with the
@@ -109,32 +109,32 @@ title="failed revolution in Egypt">"failed revolution in Egypt</a>.
   rights amendment for women. Secularists did not attempt to restrict
   religious organisations.
 - Tunisia had large and independent
-  "<a   href="Trade_Union.md" class="wikilink" title="trade unions">"trade
+  "<a   href="Trade_Union.md" class="wikilink" title="trade unions">trade
   unions</a>.
 
 ## References
 
 [Tunisian Revolution](https://en.wikipedia.org/wiki/Tunisian_Revolution)
-at "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a>
+at "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>
 
 [Why Tunisia’s Transition to Democracy is Succeeding while Egypt
 Falters](https://www.juancole.com/2014/01/transition-democracy-succeeding.html)
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Tunisia.md" class="wikilink"
-title="Category:Tunisia">"Category:Tunisia</a>
+title="Category:Tunisia">Category:Tunisia</a>
 "<a   href="Category:Northern_Africa.md" class="wikilink"
-title="Category:Northern Africa">"Category:Northern Africa</a>
+title="Category:Northern Africa">Category:Northern Africa</a>
 "<a   href="Category:Africa.md" class="wikilink"
-title="Category:Africa">"Category:Africa</a>
+title="Category:Africa">Category:Africa</a>
 "<a   href="Category:2011.md" class="wikilink"
-title="Category:2011">"Category:2011</a>
+title="Category:2011">Category:2011</a>
 "<a   href="Category:2010s.md" class="wikilink"
-title="Category:2010s">"Category:2010s</a>
+title="Category:2010s">Category:2010s</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Revolutions.md" class="wikilink"
-title="Category:Revolutions">"Category:Revolutions</a>
+title="Category:Revolutions">Category:Revolutions</a>
 "<a   href="Category:General_Strikes.md" class="wikilink"
-title="Category:General Strikes">"Category:General Strikes</a>
+title="Category:General Strikes">Category:General Strikes</a>

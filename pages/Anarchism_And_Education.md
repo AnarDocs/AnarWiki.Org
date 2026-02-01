@@ -4,7 +4,7 @@
 
 Anarchism has maintained a special interest in education since the
 earliest anarchist theorists. From
-"<a   href="William_Godwin.md" class="wikilink" title="William Godwin">"William
+"<a   href="William_Godwin.md" class="wikilink" title="William Godwin">William
 Godwin</a>'s critiques of state education in the 1790s to contemporary
 experiments in democratic schooling, anarchists have consistently
 challenged authoritarian models of learning and proposed radical
@@ -22,7 +22,7 @@ consciousness.[^1]
 Various alternatives to contemporary mainstream educational systems have
 been proposed by anarchists, ranging from
 "<a   href="alternative_education.md" class="wikilink"
-title="alternative education">"alternative education</a> systems and
+title="alternative education">alternative education</a> systems and
 environments, self-education, advocacy of youth and children's rights,
 and freethought activism.
 
@@ -44,7 +44,7 @@ while simultaneously preaching equality of opportunity.[^3]
 
 ### The Banking System of Education
 
-"<a   href="Paulo_Freire.md" class="wikilink" title="Paulo Freire">"Paulo
+"<a   href="Paulo_Freire.md" class="wikilink" title="Paulo Freire">Paulo
 Freire</a>, though not strictly an anarchist, articulated a critique
 widely adopted by anarchist pedagogues in his concept of the "banking
 system" of education. In this model, students are viewed as empty
@@ -76,7 +76,7 @@ education reduced to a commodity.[^6]
 
 ### William Godwin
 
-"<a   href="William_Godwin.md" class="wikilink" title="William Godwin">"William
+"<a   href="William_Godwin.md" class="wikilink" title="William Godwin">William
 Godwin</a>, one of the first modern anarchist philosophers, critiqued
 state-controlled education in his 1793 work "Enquiry Concerning
 Political Justice". Godwin argued that state education inevitably
@@ -86,7 +86,7 @@ develop individual rationality and moral autonomy.
 
 ### Max Stirner
 
-"<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner">"Max
+"<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner">Max
 Stirner</a>, the German individualist anarchist who worked as a
 schoolteacher, examined education directly in his essay "The False
 Principle of Our Education" (1842). Stirner criticized both realist and
@@ -98,7 +98,7 @@ external standards.[^7]
 
 ### Josiah Warren
 
-"<a   href="Josiah_Warren.md" class="wikilink" title="Josiah Warren">"Josiah
+"<a   href="Josiah_Warren.md" class="wikilink" title="Josiah Warren">Josiah
 Warren</a>, widely regarded as the first American anarchist, emphasized
 in his educational experiments the nurturing of independence and
 conscience in individual children rather than the inculcation of
@@ -108,7 +108,7 @@ identities in favor of individual self-sovereignty.[^8]
 
 ### Leo Tolstoy
 
-"<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">"Leo
+"<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">Leo
 Tolstoy</a> established an experimental school for peasant children on
 his estate in Russia, where he implemented educational practices based
 on freedom and respect for children's natural curiosity. Tolstoy
@@ -122,7 +122,7 @@ that followed children's interests and respected their autonomy.[^9]
 
 In 1901, Catalan anarchist and free-thinker
 "<a   href="Francisco_Ferrer.md" class="wikilink"
-title="Francisco Ferrer">"Francisco Ferrer</a> established the Escuela
+title="Francisco Ferrer">Francisco Ferrer</a> established the Escuela
 Moderna (Modern School) in Barcelona in defiance of an educational
 system controlled by the Catholic Church. The school's stated goal was
 to "educate the working class in a rational, secular and non-coercive
@@ -157,15 +157,15 @@ The first Modern School in the United States was founded in New York
 City in 1911, two years after Ferrer's execution. Commonly called the
 Ferrer Center, it was founded by notable anarchists including Leonard
 Abbott, "<a   href="Alexander_Berkman.md" class="wikilink"
-title="Alexander Berkman">"Alexander Berkman</a>,
+title="Alexander Berkman">Alexander Berkman</a>,
 "<a   href="Voltairine_de_Cleyre.md" class="wikilink"
-title="Voltairine de Cleyre">"Voltairine de Cleyre</a>, and
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">"Emma
+title="Voltairine de Cleyre">Voltairine de Cleyre</a>, and
+"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>.[^12]
 
 The Ferrer Center opened with only nine students, one being the son of
 "<a   href="Margaret_Sanger.md" class="wikilink"
-title="Margaret Sanger">"Margaret Sanger</a>, the contraceptives-rights
+title="Margaret Sanger">Margaret Sanger</a>, the contraceptives-rights
 activist. Starting in 1912, the school's principal was philosopher Will
 Durant, who also taught there. The faculty included Ashcan School
 painters Robert Henri and George Bellows, and guest lecturers included
@@ -186,7 +186,7 @@ School endured as a community for approximately forty years.
 ### Summerhill School
 
 Experiments in libertarian education led
-"<a   href="A._S._Neill.md" class="wikilink" title="A. S. Neill">"A. S.
+"<a   href="A._S._Neill.md" class="wikilink" title="A. S. Neill">A. S.
 Neill</a> to found what became Summerhill School in 1921. Summerhill is
 often cited as an example of anarchism in practice, though Neill himself
 denied being an anarchist despite British anarchists Stuart Christie and
@@ -206,7 +206,7 @@ advocating an overtly political class struggle approach.[^15]
 ### Criticisms of Neill's Approach
 
 While acknowledging Neill's contributions, some anarchist educators like
-"<a   href="Judith_Suissa.md" class="wikilink" title="Judith Suissa">"Judith
+"<a   href="Judith_Suissa.md" class="wikilink" title="Judith Suissa">Judith
 Suissa</a> have been somewhat dismissive of Summerhill's approach.
 Suissa argues that Neill's focus on psychoanalytic theory and freeing
 students from their own psychological limitations differs from the
@@ -268,7 +268,7 @@ community.[^22]
 
 ### Ivan Illich and Deschooling Society
 
-"<a   href="Ivan_Illich.md" class="wikilink" title="Ivan Illich">"Ivan
+"<a   href="Ivan_Illich.md" class="wikilink" title="Ivan Illich">Ivan
 Illich</a>, in his influential 1971 work "Deschooling Society", argued
 for the abolition of compulsory schooling and its replacement with
 voluntary learning networks. Illich contended that institutional
@@ -326,7 +326,7 @@ relationships anarchists envision for a free society.[^24]
 ### Popular Education
 
 Drawing on
-"<a   href="Paulo_Freire.md" class="wikilink" title="Paulo Freire">"Paulo
+"<a   href="Paulo_Freire.md" class="wikilink" title="Paulo Freire">Paulo
 Freire</a>'s popular education model, anarchist educators engage in
 community-based education projects that emphasize dialogue, collective
 problem-solving, and action for social change. These initiatives operate
@@ -454,23 +454,23 @@ maintaining existing hierarchies and inequalities.[^25]
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Education.md" class="wikilink"
-title="Category:Education">"Category:Education</a>
+title="Category:Education">Category:Education</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Alternative_Education.md" class="wikilink"
-title="Category:Alternative Education">"Category:Alternative
+title="Category:Alternative Education">Category:Alternative
 Education</a> "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Suissa, Judith. "Anarchism, Utopias and Philosophy of Education".
     Journal of Philosophy of Education, 2001

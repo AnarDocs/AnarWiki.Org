@@ -1,21 +1,21 @@
 The **Uruguayan General Strike of 1984** was a
 "<a   href="List_of_General_Strikes.md" class="wikilink"
-title="general strike">"general strike</a> in
-"<a   href="Uruguay.md" class="wikilink" title="Uruguay">"Uruguay</a> in
+title="general strike">general strike</a> in
+"<a   href="Uruguay.md" class="wikilink" title="Uruguay">Uruguay</a> in
 "<a   href="Timeline_of_Anarchism_in_South_America.md" class="wikilink"
-title="1984">"1984</a> which brought an end to the
+title="1984">1984</a> which brought an end to the
 "<a   href="Uruguayan_Dictatorship.md" class="wikilink"
-title="dictatorship in the country">"dictatorship in the country</a> and
+title="dictatorship in the country">dictatorship in the country</a> and
 creation of a "<a   href="Representative_Democracy.md" class="wikilink"
-title="liberal democracy">"liberal democracy</a>.
+title="liberal democracy">liberal democracy</a>.
 
 ## Background
 
 Before 1973, Uruguay had been one of few countries in Latin America with
 a near perfect record of political stability and a strong democracy
 (others included
-"<a   href="Chile.md" class="wikilink" title="Chile">"Chile</a> and
-"<a   href="Costa_Rica.md" class="wikilink" title="Costa Rica">"Costa Rica</a>).
+"<a   href="Chile.md" class="wikilink" title="Chile">Chile</a> and
+"<a   href="Costa_Rica.md" class="wikilink" title="Costa Rica">Costa Rica</a>).
 The military coup in 1973 came as a profound shock to Uruguay. To make
 matters worse, this once peaceful nation was now living under a regime
 that used fear, threat, and intimidation to keep control of its
@@ -27,14 +27,14 @@ working class), and the media censored.
 
 In 1980, the government tried and failed to have a referendum to
 legitimise their regime. Then the government allowed several
-"<a   href="May_Day.md" class="wikilink" title="May Day">"May Day</a> rallies
+"<a   href="May_Day.md" class="wikilink" title="May Day">May Day</a> rallies
 to be held (although some believed it was a ploy to strike fear around
 the left) which backfired. Soon, a general strike began to be organised
 over anger of the severe "<a   href="stagflation.md" class="wikilink"
-title="stagflation">"stagflation</a> in the country (51%
-"<a   href="inflation.md" class="wikilink" title="inflation">"inflation</a> and
+title="stagflation">stagflation</a> in the country (51%
+"<a   href="inflation.md" class="wikilink" title="inflation">inflation</a> and
 15% "<a   href="unemployment.md" class="wikilink"
-title="unemployment">"unemployment</a>) and a demand for wage increases,
+title="unemployment">unemployment</a>) and a demand for wage increases,
 greater union rights, freedom of political prisoners and democracy.
 
 ## Events
@@ -71,16 +71,16 @@ creation of one of the most progressive countries in the world.
 <http://libcom.org/history/1984-uruguay-general-strike>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Uruguay.md" class="wikilink"
-title="Category:Uruguay">"Category:Uruguay</a>
+title="Category:Uruguay">Category:Uruguay</a>
 "<a   href="Category:South_America.md" class="wikilink"
-title="Category:South America">"Category:South America</a>
+title="Category:South America">Category:South America</a>
 "<a   href="Category:1984.md" class="wikilink"
-title="Category:1984">"Category:1984</a>
+title="Category:1984">Category:1984</a>
 "<a   href="Category:1980s.md" class="wikilink"
-title="Category:1980s">"Category:1980s</a>
+title="Category:1980s">Category:1980s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:General_Strikes.md" class="wikilink"
-title="Category:General Strikes">"Category:General Strikes</a>
+title="Category:General Strikes">Category:General Strikes</a>

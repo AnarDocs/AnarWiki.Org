@@ -136,6 +136,6 @@ Some of these suggestions come from -
   Crime”](https://theanarchistlibrary.org/library/bob-black-an-anarchist-response-to-an-anarchist-response-to-crime)
 
 "<a   href="Category:Community_Justice.md" class="wikilink"
-title="Category:Community Justice">"Category:Community Justice</a>
+title="Category:Community Justice">Category:Community Justice</a>
 "<a   href="Category:Justice.md" class="wikilink"
-title="Category:Justice">"Category:Justice</a>
+title="Category:Justice">Category:Justice</a>

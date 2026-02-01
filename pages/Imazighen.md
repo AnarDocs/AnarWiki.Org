@@ -161,4 +161,4 @@ Harold Barclay, People Without Government[^1]:
 
 [^1]: "<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
     class="wikilink"
-    title="People_Without_Government:_An_Anthropology_of_Anarchy">"People_Without_Government:_An_Anthropology_of_Anarchy</a>
+    title="People_Without_Government:_An_Anthropology_of_Anarchy">People_Without_Government:_An_Anthropology_of_Anarchy</a>

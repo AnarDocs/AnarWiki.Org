@@ -8,18 +8,18 @@ the printing of posters."[^1]
 <references/>
 
 "<a   href="Anarchist_Organizations.md" class="wikilink"
-title="Anarchist Organizations">"Anarchist Organizations</a>
+title="Anarchist Organizations">Anarchist Organizations</a>
 
 "<a   href="Category:Egypt.md" class="wikilink"
-title="Category:Egypt">"Category:Egypt</a>
+title="Category:Egypt">Category:Egypt</a>
 "<a   href="Category:Africa.md" class="wikilink"
-title="Category:Africa">"Category:Africa</a>
+title="Category:Africa">Category:Africa</a>
 "<a   href="Category:Northern_Africa.md" class="wikilink"
-title="Category:Northern Africa">"Category:Northern Africa</a>
+title="Category:Northern Africa">Category:Northern Africa</a>
 "<a   href="Category:Organizations.md" class="wikilink"
-title="Category:Organizations">"Category:Organizations</a>
+title="Category:Organizations">Category:Organizations</a>
 "<a   href="Category:19th_Century.md" class="wikilink"
-title="Category:19th Century">"Category:19th Century</a>
+title="Category:19th Century">Category:19th Century</a>
 
 [^1]: Anthony Gorman, "'Diverse in Race, Religion and Nationality...But
     United in Aspirations of Civil Progress': The Anarchist Movement in

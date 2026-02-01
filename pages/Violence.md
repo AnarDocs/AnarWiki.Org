@@ -8,7 +8,7 @@ a main goal of many political systems.
 
 ## Forms of Violence
 
-- "<a   href="Ecocide.md" class="wikilink" title="Ecocide">"Ecocide</a>
+- "<a   href="Ecocide.md" class="wikilink" title="Ecocide">Ecocide</a>
 
 ## Causes of Violence
 
@@ -22,10 +22,10 @@ a main goal of many political systems.
 ## See Also
 
 - "<a   href="Encyclopedia_of_Peaceful_Societies.md" class="wikilink"
-  title="Encyclopedia of Peaceful Societies">"Encyclopedia of Peaceful
+  title="Encyclopedia of Peaceful Societies">Encyclopedia of Peaceful
   Societies</a>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>

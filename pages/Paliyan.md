@@ -22,9 +22,9 @@ The website *Peaceful Societies* summarizes:
 <references/>
 
 "<a   href="Category:India.md" class="wikilink"
-title="Category:India">"Category:India</a>
+title="Category:India">Category:India</a>
 "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 
 [^1]: James Woodburn, "Egalitarian Societies," *Man 17*, no. 3 (1982):
     433.

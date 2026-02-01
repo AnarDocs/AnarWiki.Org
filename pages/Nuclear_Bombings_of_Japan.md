@@ -3,12 +3,12 @@ nuclear bombs in the Japanese cities of Hiroshima and Nagasaki on the
 6th and 9th of August, 1945. The intital explosion, fires and long-term
 medical effects killed between 129,000 and 226,000 people. Seen as the
 final act of
-"<a   href="World_War_II.md" class="wikilink" title="World War II">"World War
+"<a   href="World_War_II.md" class="wikilink" title="World War II">World War
 II</a> and the beginning of a
-"<a   href="Cold_War.md" class="wikilink" title="new nuclear age">"new nuclear
+"<a   href="Cold_War.md" class="wikilink" title="new nuclear age">new nuclear
 age</a>, they remain an extremely controversial issue and remains the
 only known deployment of "<a   href="Nuclear_Weapons.md" class="wikilink"
-title="nuclear weapons">"nuclear weapons</a> in a war.
+title="nuclear weapons">nuclear weapons</a> in a war.
 
 ## Debate
 
@@ -72,32 +72,32 @@ President Truman's Chief of Staff
 ### List of Critics
 
 - "<a   href="Albert_Einstein.md" class="wikilink"
-  title="Albert Einstein">"Albert Einstein</a> - Theoritical Physicist
-- "<a   href="Gar_Alperovitz.md" class="wikilink" title="Gar Alperovitz">"Gar
+  title="Albert Einstein">Albert Einstein</a> - Theoritical Physicist
+- "<a   href="Gar_Alperovitz.md" class="wikilink" title="Gar Alperovitz">Gar
   Alperovitz</a> - Historian
-- "<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">"Noam
+- "<a   href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
   Chomsky</a> - Historian, Linguist and Cognitive Scientist
 
 "<a   href="Category:World_War_II.md" class="wikilink"
-title="Category:World War II">"Category:World War II</a>
+title="Category:World War II">Category:World War II</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Japan.md" class="wikilink"
-title="Category:Japan">"Category:Japan</a>
+title="Category:Japan">Category:Japan</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Eastern_Asia.md" class="wikilink"
-title="Category:Eastern Asia">"Category:Eastern Asia</a>
+title="Category:Eastern Asia">Category:Eastern Asia</a>
 "<a   href="Category:1945.md" class="wikilink"
-title="Category:1945">"Category:1945</a>
+title="Category:1945">Category:1945</a>
 "<a   href="Category:1940s.md" class="wikilink"
-title="Category:1940s">"Category:1940s</a>
+title="Category:1940s">Category:1940s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Mass_Killings.md" class="wikilink"
-title="Category:Mass Killings">"Category:Mass Killings</a>
+title="Category:Mass Killings">Category:Mass Killings</a>
 "<a   href="Category:Nuclear_Weapons.md" class="wikilink"
-title="Category:Nuclear Weapons">"Category:Nuclear Weapons</a>
+title="Category:Nuclear Weapons">Category:Nuclear Weapons</a>
 
 [^1]: hansard.millbanksystems.com/commons/1945/aug/16/debate-on-the-address#S5CV0413P0_19450816_HOC_43
 

@@ -27,9 +27,9 @@ David Graeber and David Wengrow summarize:
 <references/>
 
 "<a   href="Category:Mesopotamia.md" class="wikilink"
-title="Category:Mesopotamia">"Category:Mesopotamia</a>
+title="Category:Mesopotamia">Category:Mesopotamia</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 
 [^1]: Elizabeth Stone and Paul Zimansky, "The Tapestry of Power in a

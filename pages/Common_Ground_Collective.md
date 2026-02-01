@@ -5,7 +5,7 @@ title="Up9thCommonGround7Feb06ClothesTent.jpg" />
 </figure>
 
 **"<a   href="Wikipedia:Common_Ground_Collective.md" class="wikilink"
-title="Common Ground Collective">"Common Ground Collective</a>**
+title="Common Ground Collective">Common Ground Collective</a>**
 
 After Hurricane Katrina hit New Orleans in 2005, the government lost
 control of the city and left thousands of residents to fend for
@@ -94,7 +94,7 @@ on.[^8]
     Common Ground Collective* (Oakland: PM Press, 2011), 12-13.
 
 [^2]: Peter
-    Gelderloos,"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+    Gelderloos,"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^3]: crow, 4 62, 90, 159.

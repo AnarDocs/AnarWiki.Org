@@ -44,7 +44,7 @@ Russian- and American-backed North and South, each run by
 dictators."[^9]
 
 From Peter Gelderloos,
-"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > Korean anarchists won an opportunity to demonstrate people’s ability
@@ -68,7 +68,7 @@ Works</a>:
 
 From Michael Schmidt,
 "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-title="Cartography of Revolutionary Anarchism">"Cartography of
+title="Cartography of Revolutionary Anarchism">Cartography of
 Revolutionary Anarchism</a>:
 
 > The Manchurian Revolution was unusual in that it was initially
@@ -131,16 +131,16 @@ Revolutionary Anarchism</a>:
 <references/>
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
 [^1]: Alan MacSimoin, “The Korean Anarchist Movement: a talk in Dublin,
     September 1991", *Anarchy Archives*
     <http://dwardmac.pitzer.edu/ANARCHIST_ARCHIVES/worldwidemovements/koreahis.html>.
     Michael Schmidt,
     "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-    title="Cartography of Revolutionary Anarchism">"Cartography of
+    title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
 [^2]: MacSimoin, "The Korean Anarchist Movement."
@@ -154,19 +154,19 @@ title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
 
 [^5]: Schmidt,
     "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-    title="Cartography of Revolutionary Anarchism">"Cartography of
+    title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
 [^6]: Schmidt,
     "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-    title="Cartography of Revolutionary Anarchism">"Cartography of
+    title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
 [^7]: MacSimoin, "The Korean Anarchist Movement."
 
 [^8]: Schmidt,
     "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-    title="Cartography of Revolutionary Anarchism">"Cartography of
+    title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
 [^9]: Tokologo African Anarchist Collective, "CONCLUSION: What Can We

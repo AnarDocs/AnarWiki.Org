@@ -54,8 +54,8 @@ conditions is sure to be skewed.[^2]
 
 Anarchist societies would not be without their own
 "<a   href="Motivations.md" class="wikilink"
-title="Motivations">"Motivations</a> &
-"<a   href="Incentives.md" class="wikilink" title="Incentives">"Incentives</a>.
+title="Motivations">Motivations</a> &
+"<a   href="Incentives.md" class="wikilink" title="Incentives">Incentives</a>.
 
 ## Video Overview
 
@@ -76,4 +76,4 @@ title="Motivations">"Motivations</a> &
 [^2]: Taken from:
     "<a   href="CrimeThinc&#39;s_Frequently_Asked_Questions_About_Anarchism.md"
     class="wikilink"
-    title="https://theanarchistlibrary.org/library/crimethinc-frequently-asked-questions-about-anarchism">"<span>https://theanarchistlibrary.org/library/crimethinc-frequently-asked-questions-about-anarchism</span></a>
+    title="https://theanarchistlibrary.org/library/crimethinc-frequently-asked-questions-about-anarchism"><span>https://theanarchistlibrary.org/library/crimethinc-frequently-asked-questions-about-anarchism</span></a>

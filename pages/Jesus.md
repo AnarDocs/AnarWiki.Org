@@ -2,12 +2,12 @@
 
 The concept of **Jesus As Anarchist** is a theological and political
 interpretation that views Jesus Christ as advocating for
-"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 principles, including the rejection of
 "<a   href="hierarchy.md" class="wikilink"
-title="hierarchical authority">"hierarchical authority</a>, opposition to
+title="hierarchical authority">hierarchical authority</a>, opposition to
 state power, and the promotion of voluntary cooperation and
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>.
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>.
 This perspective has been argued by various thinkers, theologians, and
 political philosophers from the 19th century to the present day.
 
@@ -80,14 +80,14 @@ advocating for economic justice and redistribution of wealth.
 Several prominent figures have explicitly identified Jesus as an
 anarchist:
 
-- "<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">"Leo
+- "<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">Leo
   Tolstoy</a> argued that Christianity fundamentally opposes state
   authority, writing that "Christianity in its true sense puts an end to
   the State."[^2]
 
 <!-- -->
 
-- "<a   href="Elbert_Hubbard.md" class="wikilink" title="Elbert Hubbard">"Elbert
+- "<a   href="Elbert_Hubbard.md" class="wikilink" title="Elbert Hubbard">Elbert
   Hubbard</a> declared: "I AM an Anarchist. All good men are Anarchists.
   All cultured, kindly men; all gentlemen; all just men are Anarchists.
   Jesus was an anarchist."[^3]
@@ -100,13 +100,13 @@ anarchist:
 
 ### Modern Interpretations
 
-- "<a   href="Ivan_Illich.md" class="wikilink" title="Ivan Illich">"Ivan
+- "<a   href="Ivan_Illich.md" class="wikilink" title="Ivan Illich">Ivan
   Illich</a> stated that "Jesus was an anarchist savior. That's what the
   Gospels tell us."[^5]
 
 <!-- -->
 
-- "<a   href="Dave_Andrews.md" class="wikilink" title="Dave Andrews">"Dave
+- "<a   href="Dave_Andrews.md" class="wikilink" title="Dave Andrews">Dave
   Andrews</a> characterized Jesus as "the supreme example of authentic
   anarchy — the creative non-violent anarchist par excellence."[^6]
 
@@ -139,7 +139,7 @@ original anarchist message.
 
 The interpretation of Jesus as anarchist has influenced various
 movements, including "<a   href="Christian_anarchism.md" class="wikilink"
-title="Christian anarchism">"Christian anarchism</a>, liberation
+title="Christian anarchism">Christian anarchism</a>, liberation
 theology, and certain strands of the Social Gospel movement. It
 continues to be discussed in contemporary theological and political
 discourse, particularly among those seeking to reconcile religious faith
@@ -152,22 +152,22 @@ with anti-authoritarian political positions.
 ## See Also
 
 - "<a   href="Christian_anarchism.md" class="wikilink"
-  title="Christian anarchism">"Christian anarchism</a>
+  title="Christian anarchism">Christian anarchism</a>
 - "<a   href="Liberation_theology.md" class="wikilink"
-  title="Liberation theology">"Liberation theology</a>
-- "<a   href="Social_Gospel.md" class="wikilink" title="Social Gospel">"Social
+  title="Liberation theology">Liberation theology</a>
+- "<a   href="Social_Gospel.md" class="wikilink" title="Social Gospel">Social
   Gospel</a>
 - "<a   href="Tolstoyan_movement.md" class="wikilink"
-  title="Tolstoyan movement">"Tolstoyan movement</a>
+  title="Tolstoyan movement">Tolstoyan movement</a>
 
 "<a   href="Category:Christian_anarchism.md" class="wikilink"
-title="Category:Christian anarchism">"Category:Christian anarchism</a>
+title="Category:Christian anarchism">Category:Christian anarchism</a>
 "<a   href="Category:Anarchist_theory.md" class="wikilink"
-title="Category:Anarchist theory">"Category:Anarchist theory</a>
+title="Category:Anarchist theory">Category:Anarchist theory</a>
 "<a   href="Category:Ideology.md" class="wikilink"
-title="Category:Ideology">"Category:Ideology</a>
+title="Category:Ideology">Category:Ideology</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Tolstoy, Leo. *The Kingdom of God is Within You* (1894).
 

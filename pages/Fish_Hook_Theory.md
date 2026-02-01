@@ -5,14 +5,14 @@
 **Fish hook theory** is a political concept that challenges the
 conventional linear understanding of the
 "<a   href="Political_Spectrum.md" class="wikilink"
-title="political spectrum">"political spectrum</a> and the related
+title="political spectrum">political spectrum</a> and the related
 "<a   href="Horseshoe_Theory.md" class="wikilink"
-title="horseshoe theory">"horseshoe theory</a>. The theory proposes that
-"<a   href="Centrism.md" class="wikilink" title="centrist">"centrist</a> and
+title="horseshoe theory">horseshoe theory</a>. The theory proposes that
+"<a   href="Centrism.md" class="wikilink" title="centrist">centrist</a> and
 "<a   href="Far-Right_Politics.md" class="wikilink"
-title="far-right">"far-right</a> ideologies are closer to each other than
+title="far-right">far-right</a> ideologies are closer to each other than
 either is to the "<a   href="Far-Left_Politics.md" class="wikilink"
-title="far-left">"far-left</a>, visualized through the curved shape of a
+title="far-left">far-left</a>, visualized through the curved shape of a
 fish hook where the barbed end points toward the center.
 
 From an anarchist perspective, fish hook theory resonates strongly with
@@ -73,23 +73,23 @@ excluding the left, normalizing far-right participation in governance.
 ### Historical Examples
 
 The "<a   href="Weimar_Republic.md" class="wikilink"
-title="Weimar Republic">"Weimar Republic</a> serves as a prominent
+title="Weimar Republic">Weimar Republic</a> serves as a prominent
 historical example of fish hook theory in practice. Centrist parties
 repeatedly accommodated and collaborated with far-right forces while
 violently suppressing left-wing movements. The
 "<a   href="Social_Democratic_Party_of_Germany_(SPD).md" class="wikilink"
-title="Social Democratic Party">"Social Democratic Party</a> utilized the
+title="Social Democratic Party">Social Democratic Party</a> utilized the
 proto-fascist
-"<a   href="Freikorps.md" class="wikilink" title="Freikorps">"Freikorps</a> to
+"<a   href="Freikorps.md" class="wikilink" title="Freikorps">Freikorps</a> to
 crush the "<a   href="Spartacist_Uprising.md" class="wikilink"
-title="Spartacist uprising">"Spartacist uprising</a> and murdered
+title="Spartacist uprising">Spartacist uprising</a> and murdered
 revolutionary leaders like
-"<a   href="Rosa_Luxemburg.md" class="wikilink" title="Rosa Luxemburg">"Rosa
+"<a   href="Rosa_Luxemburg.md" class="wikilink" title="Rosa Luxemburg">Rosa
 Luxemburg</a> and
-"<a   href="Karl_Liebknecht.md" class="wikilink" title="Karl Liebknecht">"Karl
+"<a   href="Karl_Liebknecht.md" class="wikilink" title="Karl Liebknecht">Karl
 Liebknecht</a>. This pattern of centrists allying with the far-right
 against the revolutionary left paved the way for
-"<a   href="Nazi_Germany.md" class="wikilink" title="Nazi">"Nazi</a> seizure of
+"<a   href="Nazi_Germany.md" class="wikilink" title="Nazi">Nazi</a> seizure of
 power.
 
 More recent examples include centrist parties in Europe normalizing
@@ -106,10 +106,10 @@ alternative to the status quo.
 
 Anarchists find fish hook theory compelling because it reflects
 fundamental structural realities about
-"<a   href="Capitalism.md" class="wikilink" title="capitalist">"capitalist</a>
+"<a   href="Capitalism.md" class="wikilink" title="capitalist">capitalist</a>
 states and liberal democracy. Both centrism and far-right politics
 ultimately serve to maintain "<a   href="Hierarchy.md" class="wikilink"
-title="hierarchical">"hierarchical</a> power structures and property
+title="hierarchical">hierarchical</a> power structures and property
 relations, differing primarily in rhetoric and methods rather than
 fundamental goals. When revolutionary movements threaten these
 structures, centrists historically side with the far-right over the
@@ -118,7 +118,7 @@ emancipatory left.
 The theory aligns with anarchist analysis of the state itself as
 inherently authoritarian. Centrist liberalism and far-right fascism both
 rely on
-"<a   href="The_State.md" class="wikilink" title="state power">"state power</a>
+"<a   href="The_State.md" class="wikilink" title="state power">state power</a>
 to enforce their visions of social order, while anarchism fundamentally
 opposes state authority. From this perspective, the apparent proximity
 between centrism and the far-right reflects their shared commitment to
@@ -128,7 +128,7 @@ overt violence required to maintain it.
 ### The Ratchet Effect
 
 Fish hook theory connects closely with the
-"<a   href="Ratchet_Effect.md" class="wikilink" title="ratchet effect">"ratchet
+"<a   href="Ratchet_Effect.md" class="wikilink" title="ratchet effect">ratchet
 effect</a> in political economy. The ratchet effect describes how
 policies and institutions tend to move in one direction while resisting
 reversal, like a mechanical ratchet that allows movement forward but
@@ -147,13 +147,13 @@ property relations and state power.
 
 Anarchists observe this ratchet effect operating across multiple
 domains. "<a   href="Surveillance.md" class="wikilink"
-title="Surveillance">"Surveillance</a> powers granted during emergencies
+title="Surveillance">Surveillance</a> powers granted during emergencies
 become permanent.
-"<a   href="Borders.md" class="wikilink" title="Border">"Border</a> controls
+"<a   href="Borders.md" class="wikilink" title="Border">Border</a> controls
 intensify but never liberalize. Police forces expand but rarely
 contract. "<a   href="Neoliberalism.md" class="wikilink"
-title="Neoliberal">"Neoliberal</a> privatization proceeds relentlessly
-while "<a   href="Commons.md" class="wikilink" title="commons">"commons</a> are
+title="Neoliberal">Neoliberal</a> privatization proceeds relentlessly
+while "<a   href="Commons.md" class="wikilink" title="commons">commons</a> are
 never restored. Each rightward shift becomes locked in, resistant to
 reversal even when centrists claim to oppose the consequences.
 
@@ -161,7 +161,7 @@ reversal even when centrists claim to oppose the consequences.
 
 The phrase "scratch a liberal and a fascist bleeds," attributed to the
 "<a   href="Black_Panther_Party.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a>, captures the
+title="Black Panther Party">Black Panther Party</a>, captures the
 anarchist understanding of fish hook theory.[^4] This proverb reflects
 the observation that liberal commitments to freedom and democracy remain
 conditional, quickly abandoned when property relations or state
@@ -170,7 +170,7 @@ authority face revolutionary challenge.
 When confronted with movements for genuine liberation—whether anarchist,
 communist, or anti-colonial—liberal states historically embrace fascist
 methods. The
-"<a   href="United_States.md" class="wikilink" title="United States">"United
+"<a   href="United_States.md" class="wikilink" title="United States">United
 States</a> supported fascist dictatorships throughout Latin America
 while claiming to defend democracy. European colonial powers used
 genocidal violence to maintain their empires while celebrating
@@ -203,7 +203,7 @@ While many anarchists find fish hook theory useful for describing
 centrist collaboration with the far-right, some anarchist theorists
 caution against over-reliance on any single-axis model of politics.
 "<a   href="Three-Way_Fight.md" class="wikilink"
-title="Three-way fight theory">"Three-way fight theory</a>, developed
+title="Three-way fight theory">Three-way fight theory</a>, developed
 within anti-fascist organizing, proposes that contemporary politics
 involves three distinct forces: the establishment (including both
 centrist and traditional conservative elements), revolutionary left
@@ -242,34 +242,34 @@ optional.
 ## See Also
 
 - "<a   href="Horseshoe_Theory.md" class="wikilink"
-  title="Horseshoe Theory">"Horseshoe Theory</a>
-- "<a   href="Ratchet_Effect.md" class="wikilink" title="Ratchet Effect">"Ratchet
+  title="Horseshoe Theory">Horseshoe Theory</a>
+- "<a   href="Ratchet_Effect.md" class="wikilink" title="Ratchet Effect">Ratchet
   Effect</a>
-- "<a   href="Centrism.md" class="wikilink" title="Centrism">"Centrism</a>
-- "<a   href="Fascism.md" class="wikilink" title="Fascism">"Fascism</a>
-- "<a   href="Liberalism.md" class="wikilink" title="Liberalism">"Liberalism</a>
+- "<a   href="Centrism.md" class="wikilink" title="Centrism">Centrism</a>
+- "<a   href="Fascism.md" class="wikilink" title="Fascism">Fascism</a>
+- "<a   href="Liberalism.md" class="wikilink" title="Liberalism">Liberalism</a>
 - "<a   href="Three-Way_Fight.md" class="wikilink"
-  title="Three-Way Fight">"Three-Way Fight</a>
+  title="Three-Way Fight">Three-Way Fight</a>
 - "<a   href="Anti-Fascism.md" class="wikilink"
-  title="Anti-Fascism">"Anti-Fascism</a>
-- "<a   href="The_State.md" class="wikilink" title="The State">"The State</a>
+  title="Anti-Fascism">Anti-Fascism</a>
+- "<a   href="The_State.md" class="wikilink" title="The State">The State</a>
 
 ## References
 
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Political_Theory.md" class="wikilink"
-title="Category:Political Theory">"Category:Political Theory</a>
+title="Category:Political Theory">Category:Political Theory</a>
 "<a   href="Category:Anti-Fascism.md" class="wikilink"
-title="Category:Anti-Fascism">"Category:Anti-Fascism</a>
+title="Category:Anti-Fascism">Category:Anti-Fascism</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Ince, Anthony (2023). "'Fishhook populism'? From the liberal
     centre to the far right and back again". Space and Polity. 27(3):

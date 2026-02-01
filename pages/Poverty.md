@@ -170,19 +170,19 @@ transformation of the systems themselves.
 <references/>
 
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Economics.md" class="wikilink"
-title="Category:Economics">"Category:Economics</a>
+title="Category:Economics">Category:Economics</a>
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Capitalism.md" class="wikilink"
-title="Category:Capitalism">"Category:Capitalism</a>
+title="Category:Capitalism">Category:Capitalism</a>
 "<a   href="Category:Class_Struggle.md" class="wikilink"
-title="Category:Class Struggle">"Category:Class Struggle</a>
+title="Category:Class Struggle">Category:Class Struggle</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: <https://en.wikipedia.org/wiki/Effects_of_economic_inequality>
 

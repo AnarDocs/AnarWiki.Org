@@ -1,5 +1,5 @@
 From Peter Gelderloos,
-"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > A particularly remarkable network of autonomous villages can be found
@@ -103,6 +103,6 @@ Works</a>:
 <references/>
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>

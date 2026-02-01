@@ -23,7 +23,7 @@ spectrum of grassroots organizations."[^1]
 The BDS movement is inspired by South Africa's anti-apartheid movement
 and decades of Palestinian resistance[^2] such as the largely
 anti-authoritarian
-"<a   href="First_Intifada.md" class="wikilink" title="First Intifada">"First
+"<a   href="First_Intifada.md" class="wikilink" title="First Intifada">First
 Intifada</a>.
 
 # Demands and Ideology
@@ -110,10 +110,10 @@ website: <https://visualizingpalestine.org/collective-action-timeline>
 Anarchist and anti-authoritarian supporters of BDS include the Black
 Rose / Rosa Negra Anarchist Federation[^11],
 "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
-title="Industrial Workers of the World">"Industrial Workers of the
+title="Industrial Workers of the World">Industrial Workers of the
 World</a>[^12], and Anarchists Against the Wall.[^13]
 "<a   href="Black_Lives_Matter.md" class="wikilink"
-title="Black Lives Matter">"Black Lives Matter</a>, a U.S. movement
+title="Black Lives Matter">Black Lives Matter</a>, a U.S. movement
 organized along highly decentralized and anarchistic lines, supports
 BDS.[^14] Although the Anarchist intellectual Noam Chomsky has famously
 criticized BDS, alleging that its demands are impractical in the
@@ -126,7 +126,7 @@ more generally, appear to support BDS.[^16]
 <references/>
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Omar Barghouti, *Boycott Divestment Sanctions: The Global Struggle
     for Palestinian Rights* (Chicago: Haymarket Books, 2011), 5.

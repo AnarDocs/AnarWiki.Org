@@ -21,7 +21,7 @@ individual autonomy is highly valued.[^1]
 The village's circular setup, with huts and fireplaces surrounding a
 central plaza,[^2] is reminiscent of other egalitarian cultures
 including the "<a   href="Cucuteni–Trypillia_civilization.md" class="wikilink"
-title="Cucuteni–Trypillia civilization">"Cucuteni–Trypillia
+title="Cucuteni–Trypillia civilization">Cucuteni–Trypillia
 civilization</a> and Canela peoples.
 
 ## Gender and Sexuality
@@ -124,9 +124,9 @@ these activities.[^16]
 ## Afterlife
 
 Unlike other African foragers (such as the
-"<a   href="Mbuti.md" class="wikilink" title="Mbuti">"Mbuti</a>,
-"<a   href="Hadza.md" class="wikilink" title="Hadza">"Hadza</a>, and
-"<a   href="Bayaka.md" class="wikilink" title="Bayaka">"Bayaka</a>), the !Kung
+"<a   href="Mbuti.md" class="wikilink" title="Mbuti">Mbuti</a>,
+"<a   href="Hadza.md" class="wikilink" title="Hadza">Hadza</a>, and
+"<a   href="Bayaka.md" class="wikilink" title="Bayaka">Bayaka</a>), the !Kung
 believe in an afterlife.[^17]
 
 ## Science
@@ -234,13 +234,13 @@ from bush.[^35]
 From Harold Barclay,
 "<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
 class="wikilink"
-title="People_Without_Government:_An_Anthropology_of_Anarchy">"People_Without_Government:_An_Anthropology_of_Anarchy</a>:
+title="People_Without_Government:_An_Anthropology_of_Anarchy">People_Without_Government:_An_Anthropology_of_Anarchy</a>:
 
 > ## San
 >
 > In the arid zones of southern Africa there are peoples collectively
 > referred to as Bushmen or by their close relatives, the Hottentots, as
-> "<a   href="San_people.md" class="wikilink" title="San">"San</a>. Most of
+> "<a   href="San_people.md" class="wikilink" title="San">San</a>. Most of
 > them have long since abandoned a hunting-gathering way of life to
 > become employed as servants by neighboring Negroid groups or European
 > farmers. A small handful, numbering in the hundreds, have at least up
@@ -359,11 +359,11 @@ title="People_Without_Government:_An_Anthropology_of_Anarchy">"People_Without_Go
 <references/>
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Mathias Guenther, *Tricksters & Trancers: Bushman Religion and
     Society* (Bloomington: Indiana University Press, 1999),41, 51.
@@ -390,7 +390,7 @@ title="Category:Featured">"Category:Featured</a>
 [^10]: Harold Barclay,
     "<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
     class="wikilink"
-    title="People_Without_Government:_An_Anthropology_of_Anarchy">"People_Without_Government:_An_Anthropology_of_Anarchy</a>
+    title="People_Without_Government:_An_Anthropology_of_Anarchy">People_Without_Government:_An_Anthropology_of_Anarchy</a>
 
 [^11]: Draper, "!Kung Women," 89.
 

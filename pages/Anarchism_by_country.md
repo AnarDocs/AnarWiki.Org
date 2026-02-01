@@ -1,5 +1,5 @@
 An overview of
-"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a> and
+"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> and
 anarchist groups in various countries.
 
 ## Afghanistan

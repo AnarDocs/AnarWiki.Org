@@ -2,9 +2,9 @@
 
 **Black Rose Anarchist Federation / Federación Anarquista Rosa Negra**
 (**BRRN**) is a "<a   href="libertarian_socialist.md" class="wikilink"
-title="libertarian socialist">"libertarian socialist</a> political
+title="libertarian socialist">libertarian socialist</a> political
 organization in the
-"<a   href="United_States.md" class="wikilink" title="United States">"United
+"<a   href="United_States.md" class="wikilink" title="United States">United
 States</a> founded in 2013. The organization emerged from a multi-year
 unification process of local and regional anarchist groups with a
 strategic focus on building popular power through mass movements.[^1]
@@ -20,35 +20,35 @@ Anarchist Communist Federation of North America. Key work was also done
 to rebuild anarchist influence within the labor movement by groups such
 as the anarcho-syndicalist
 "<a   href="Workers_Solidarity_Alliance.md" class="wikilink"
-title="Workers Solidarity Alliance">"Workers Solidarity Alliance</a> and
+title="Workers Solidarity Alliance">Workers Solidarity Alliance</a> and
 anarchist members within the re-invigorated IWW. During this period, a
 number of figures from the
 "<a   href="Black_Power_movement.md" class="wikilink"
-title="Black Power movement">"Black Power movement</a>, mainly
+title="Black Power movement">Black Power movement</a>, mainly
 incarcerated former members of the
 "<a   href="Black_Panther_Party.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a> and
+title="Black Panther Party">Black Panther Party</a> and
 "<a   href="Black_Liberation_Army.md" class="wikilink"
-title="Black Liberation Army">"Black Liberation Army</a>, came to
+title="Black Liberation Army">Black Liberation Army</a>, came to
 anarchism through criticisms of the top-down reformism of the
 "<a   href="Civil_Rights_movement.md" class="wikilink"
-title="Civil Rights movement">"Civil Rights movement</a> and the Leninist
+title="Civil Rights movement">Civil Rights movement</a> and the Leninist
 vanguardism of the Black Panthers.[^2]
 
 US anarchism in the 1990s was largely marked by the
 "<a   href="Love_and_Rage_Revolutionary_Anarchist_Federation.md"
 class="wikilink"
-title="Love and Rage Revolutionary Anarchist Federation">"Love and Rage
+title="Love and Rage Revolutionary Anarchist Federation">Love and Rage
 Revolutionary Anarchist Federation</a>, founded in 1991 in Minneapolis.
 The group had an activist and street-protest-oriented politics with
 strong participation in
-"<a   href="anti-war.md" class="wikilink" title="anti-war">"anti-war</a>,
+"<a   href="anti-war.md" class="wikilink" title="anti-war">anti-war</a>,
 abortion rights, and "<a   href="anti-fascist.md" class="wikilink"
-title="anti-fascist">"anti-fascist</a> movements. Love and Rage was an
+title="anti-fascist">anti-fascist</a> movements. Love and Rage was an
 international organization, maintaining a strong local presence in
 Mexico City which called itself Amor y Rabia. The group was highly
 influenced by the 1994
-"<a   href="Zapatista.md" class="wikilink" title="Zapatista">"Zapatista</a>
+"<a   href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
 rebellion. As Love and Rage grew, it struggled to move beyond its
 network mode of organization, with two factions emerging around
 questions of structure and strategy. This impasse led Love and Rage to
@@ -58,13 +58,13 @@ The disbanding of Love and Rage left a legacy that influenced subsequent
 groups including Bring the Ruckus, the
 "<a   href="Northeastern_Federation_of_Anarchist-Communists.md"
 class="wikilink"
-title="Northeastern Federation of Anarchist-Communists">"Northeastern
+title="Northeastern Federation of Anarchist-Communists">Northeastern
 Federation of Anarchist-Communists</a> (NEFAC), as well as BRRN. Its
 contributions towards anarchist political organization included a
 culture of lively internal debate, discussions around the structure of
 national organization, expectations and commitment of members, the
 nature of US
-"<a   href="white_supremacy.md" class="wikilink" title="white supremacy">"white
+"<a   href="white_supremacy.md" class="wikilink" title="white supremacy">white
 supremacy</a> and need for multi-racial organization, as well as
 questions of contemporary revolutionary strategy.[^4]
 
@@ -73,7 +73,7 @@ anti-globalization protest, NEFAC was founded in 2000, incorporating
 local groups across the northeastern US as well as French speaking
 groups in Quebéc and Toronto, Canada. Drawing on the global anarchist
 tradition of "<a   href="platformism.md" class="wikilink"
-title="platformism">"platformism</a>, the group channeled the energies of
+title="platformism">platformism</a>, the group channeled the energies of
 anarchists coming out of the "summit hopping" protests of the
 anti-globalization era to reorient radicals towards rooted labor and
 working-class community organizing. NEFAC was a force for developing
@@ -83,7 +83,7 @@ anarchism.[^5]
 Another point of influence on the formation of BRRN was the 2007-2008
 North American tour by Andrew Flood, a member of the Irish
 "<a   href="Workers_Solidarity_Movement.md" class="wikilink"
-title="Workers Solidarity Movement">"Workers Solidarity Movement</a>.
+title="Workers Solidarity Movement">Workers Solidarity Movement</a>.
 Founded by former Irish anti-colonial movement activists, WSM was
 exceptionally prolific in its campaign activity, publications, and in
 promoting platformism internationally as a tendency. The tour
@@ -130,13 +130,13 @@ collective Desde Abajo began the process of integration.[^9]
 
 A key influence on the politics of BRRN at its founding was the politics
 of "<a   href="especifismo.md" class="wikilink"
-title="especifismo">"especifismo</a>, the Latin American current of
+title="especifismo">especifismo</a>, the Latin American current of
 anarchism that first took shape in 1950s Uruguay and which inspired
 anarchists in Brazil, Chile and Argentina. Core concepts drawn from
 especifismo included the need to organize on the political,
 intermediate, and social levels; the importance of conjunctural analysis
 of the contemporary political moment; and the role of
-"<a   href="popular_power.md" class="wikilink" title="popular power">"popular
+"<a   href="popular_power.md" class="wikilink" title="popular power">popular
 power</a> as the lever for revolutionary rupture and
 transformation.[^10]
 
@@ -159,10 +159,10 @@ anarchism. This has included strong social media presence, the creation
 of the From Below Podcast, and in 2016 the publication of the online
 booklet *Black Anarchism: A Reader*. The organization has published a
 series of articles on
-"<a   href="Black_Anarchism.md" class="wikilink" title="Black Anarchism">"Black
+"<a   href="Black_Anarchism.md" class="wikilink" title="Black Anarchism">Black
 Anarchism</a>, debates on electoralism, anarchism in Latin America, and
 "<a   href="feminist_theory.md" class="wikilink"
-title="feminist theory">"feminist theory</a>.[^12]
+title="feminist theory">feminist theory</a>.[^12]
 
 ### The Trump Era and Restructuring
 
@@ -174,7 +174,7 @@ Reaction" and the statement "Kavanaugh and a Feminist Movement Fighting
 to End Capitalism". The pieces discussed the growing political crisis of
 the US ruling class and subsequent social and political polarization,
 the rise of the
-"<a   href="far-right.md" class="wikilink" title="far-right">"far-right</a> and
+"<a   href="far-right.md" class="wikilink" title="far-right">far-right</a> and
 growth of left and socialist politics, and the need to rebuild offensive
 movements from below guided by a clear libertarian socialist
 program.[^13]
@@ -182,7 +182,7 @@ program.[^13]
 In May 2017, a member published an op-ed in *The Oregonian* responding
 to police repression of the Portland International Workers Day march and
 was featured in a Vice News segment on left-wing
-"<a   href="antifa.md" class="wikilink" title="antifa">"antifa</a> protests in
+"<a   href="antifa.md" class="wikilink" title="antifa">antifa</a> protests in
 Portland.[^14][^15]
 
 In the wake of the pandemic and George Floyd Rebellion in 2020, BRRN
@@ -206,7 +206,7 @@ through structured discussion and debate among member groups.[^17]
 ## Strategy and Activities
 
 BRRN's strategic orientation centers on building
-"<a   href="popular_power.md" class="wikilink" title="popular power">"popular
+"<a   href="popular_power.md" class="wikilink" title="popular power">popular
 power</a> through mass movements. The organization defines popular power
 as the long-term process of building independent, durable, and combative
 social movements that can not only wrest reforms from the dominant
@@ -259,28 +259,28 @@ the Charlottesville events in 2017, and the George Floyd Rebellion of
 <references/>
 
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a> "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
-title="Category:Workers&#39; Self-Management">"Category:Workers'
+title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:USA.md" class="wikilink"
-title="Category:USA">"Category:USA</a>
+title="Category:USA">Category:USA</a>
 "<a   href="Category:North_America.md" class="wikilink"
-title="Category:North America">"Category:North America</a>
+title="Category:North America">Category:North America</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Organizations.md" class="wikilink"
-title="Category:Organizations">"Category:Organizations</a>
+title="Category:Organizations">Category:Organizations</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: <https://www.blackrosefed.org/about/history/>
 

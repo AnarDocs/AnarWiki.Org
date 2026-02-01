@@ -24,7 +24,7 @@ and to 'always preserve the natural right in its entirety.'"[^1]
 
 As Russell Maroon Shoatz, a former
 "<a   href="Black_Panther_Party_and_Anarchy.md" class="wikilink"
-title="Black Panther">"Black Panther</a>, summarizes, the Haitian
+title="Black Panther">Black Panther</a>, summarizes, the Haitian
 Revolution saw two competing tendencies: a centralized “dragon” and a
 decentralized “hydra”:
 
@@ -256,7 +256,7 @@ of the decentralized “hydra" forces:
 <references/>
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Nick Nesbitt, *Universal Emancipation: The Haitian Revolution and
     the radical Enlightenment* (Charlottesville: University of Virginia

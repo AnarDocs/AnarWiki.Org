@@ -6,10 +6,10 @@
 In 1967, a group of New Yorkers including Abbie Hoffman, Jerry Rubin,
 and Paul Krassner formed the New York Diggers, named after the anarchist
 "<a   href="San_Francisco_Diggers.md" class="wikilink"
-title="San Francisco Diggers">"San Francisco Diggers</a>. A few months
+title="San Francisco Diggers">San Francisco Diggers</a>. A few months
 later, they renamed themselves the Youth International Party, or
 ""<a   href="Wikipedia:Youth_International_Party.md" class="wikilink"
-title="Yippies">"Yippies</a>" for short.[^1]
+title="Yippies">Yippies</a>" for short.[^1]
 
 A pseudonymous Yippie, going by "Jung," explained their flag in 1970 to
 the *New York Times*: “The black is for anarchy, the red star is for our
@@ -30,7 +30,7 @@ Chicago's 1968 Democratic Party National Convention.[^5] In trial for
 allegedly instigating a riot, Hoffman and Rubin gave a surreal and
 humorous performance. When asked where he resided, Hoffman said "I live
 in "<a   href="Woodstock_Festival.md" class="wikilink"
-title="Woodstock">"Woodstock</a> Nation." When asked what state that was
+title="Woodstock">Woodstock</a> Nation." When asked what state that was
 in, Hoffman explained, "It is in the state of mind."[^6]
 
 By 1972, Hoffman disavowed the Yippies, dismissing it as a joke and

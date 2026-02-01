@@ -37,9 +37,9 @@ forest fragmentation, and hunting.[^6]
 <references/>
 
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Natural_World.md" class="wikilink"
-title="Category:Natural World">"Category:Natural World</a>
+title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Kristina Cawthon Lang, "Primate Factsheets: Squirrel monkey," 2006
     March 16,

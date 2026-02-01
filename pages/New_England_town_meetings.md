@@ -95,7 +95,7 @@ put out fires.[^13]
 
 # From Janet Biehl, "<a   href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
 class="wikilink"
-title="The Politics of Social Ecology: Libertarian Municipalism">"The
+title="The Politics of Social Ecology: Libertarian Municipalism">The
 Politics of Social Ecology: Libertarian Municipalism</a>
 
 > The Puritans who settled colonial New England were neither willing nor
@@ -288,11 +288,11 @@ Politics of Social Ecology: Libertarian Municipalism</a>
 <references/>
 
 "<a   href="Category:USA.md" class="wikilink"
-title="Category:USA">"Category:USA</a>
+title="Category:USA">Category:USA</a>
 "<a   href="Category:North_America.md" class="wikilink"
-title="Category:North America">"Category:North America</a>
+title="Category:North America">Category:North America</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Janet Biehl, ‘’The Politics of Social Ecology: Libertarian
     Municipalism’’ (Montreal: Black Rose Books, 1998), 31.

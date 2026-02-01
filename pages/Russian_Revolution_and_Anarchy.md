@@ -187,7 +187,7 @@ guerrilla movement."[^24]
 
 *Note: This section is copied from
 "<a   href="Kronstadt_rebellion.md" class="wikilink"
-title="Kronstadt rebellion">"Kronstadt rebellion</a>*
+title="Kronstadt rebellion">Kronstadt rebellion</a>*
 
 In 1921, the sailors, soldiers and workers of Russia's Kronstadt naval
 fortress proclaimed a libertarian-leaning "third revolution", (following

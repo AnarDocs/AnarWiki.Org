@@ -1,13 +1,13 @@
 The **Xapuri Forest Campaign** was an 11-year long
 ("<a   href="Timeline_of_Anarchism_in_South_America.md" class="wikilink"
-title="1977 - 1988">"1977 - 1988</a>) effort to organize
+title="1977 - 1988">1977 - 1988</a>) effort to organize
 "<a   href="Environmentalism.md" class="wikilink"
-title="environmentalists">"environmentalists</a>,
-"<a   href="Trade_Union.md" class="wikilink" title="trade unionists">"trade
+title="environmentalists">environmentalists</a>,
+"<a   href="Trade_Union.md" class="wikilink" title="trade unionists">trade
 unionists</a> and "<a   href="Indigenous_People.md" class="wikilink"
-title="indigenous people">"indigenous people</a> together to defend the
+title="indigenous people">indigenous people</a> together to defend the
 Amazon rainforest around the town of Xapuri,
-"<a   href="Brazil.md" class="wikilink" title="Brazil">"Brazil</a> from
+"<a   href="Brazil.md" class="wikilink" title="Brazil">Brazil</a> from
 destruction by wealthy ranchers.
 
 ## Background
@@ -15,7 +15,7 @@ destruction by wealthy ranchers.
 Much of the Amazon Rainforest had been controlled by powerful rubber
 barrons for centuries, who had treated much of the population terribly,
 working in
-"<a   href="Slavery.md" class="wikilink" title="slave-like">"slave-like</a>
+"<a   href="Slavery.md" class="wikilink" title="slave-like">slave-like</a>
 conditions. Attempts were made in the 1960s to unionize these workers,
 called “rubber tappers;” however, these attempts failed. But in the
 1970s, ranchers from Southern Brazil began to buy most of the land in
@@ -23,14 +23,14 @@ order to clear them for land to graze cattle on. This forcibly evicted
 the rubber tappers and cut them off from their main source of income.
 This led to a successful establishing of a rubber tappers union in 1975,
 the president of which was Wilson Pinheiro and the secretary was
-"<a   href="Chico_Mendes.md" class="wikilink" title="Chico Mendes">"Chico
+"<a   href="Chico_Mendes.md" class="wikilink" title="Chico Mendes">Chico
 Mendes</a>, who went to Xapuri to establish a new branch of the
 union.[^1]
 
 ## Events
 
 Chico helped organize the Xapuri Rural Workers' Union with
-"<a   href="Marina_Silva.md" class="wikilink" title="Marina Silva">"Marina
+"<a   href="Marina_Silva.md" class="wikilink" title="Marina Silva">Marina
 Silva</a> in 1977, drawing a link between the survivial of the forest
 and the survival of the workers. The goal of the
 
@@ -115,41 +115,41 @@ next 13 years, twenty-one additional reserves have been established,
 protecting 1.5% of the Amazon's total area. However, the campaign
 triggered a wave of assassinations of
 "<a   href="Environmentalism.md" class="wikilink"
-title="environmentalists">"environmentalists</a>,
-"<a   href="Trade_Union.md" class="wikilink" title="trade unionists">"trade
+title="environmentalists">environmentalists</a>,
+"<a   href="Trade_Union.md" class="wikilink" title="trade unionists">trade
 unionists</a> and "<a   href="Indigenism.md" class="wikilink"
-title="indigenists">"indigenists</a>.[^2]
+title="indigenists">indigenists</a>.[^2]
 
 ## References
 
 "<a   href="Category:Events.md" class="wikilink"
-title="Category:Events">"Category:Events</a>
+title="Category:Events">Category:Events</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Environmentalism.md" class="wikilink"
-title="Category:Environmentalism">"Category:Environmentalism</a>
+title="Category:Environmentalism">Category:Environmentalism</a>
 "<a   href="Category:Brazil.md" class="wikilink"
-title="Category:Brazil">"Category:Brazil</a>
+title="Category:Brazil">Category:Brazil</a>
 "<a   href="Category:South_America.md" class="wikilink"
-title="Category:South America">"Category:South America</a>
+title="Category:South America">Category:South America</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:1970s.md" class="wikilink"
-title="Category:1970s">"Category:1970s</a>
+title="Category:1970s">Category:1970s</a>
 "<a   href="Category:1988.md" class="wikilink"
-title="Category:1988">"Category:1988</a>
+title="Category:1988">Category:1988</a>
 "<a   href="Category:1977.md" class="wikilink"
-title="Category:1977">"Category:1977</a>
+title="Category:1977">Category:1977</a>
 "<a   href="Category:1980s.md" class="wikilink"
-title="Category:1980s">"Category:1980s</a>
+title="Category:1980s">Category:1980s</a>
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Trade_Unionism.md" class="wikilink"
-title="Category:Trade Unionism">"Category:Trade Unionism</a>
+title="Category:Trade Unionism">Category:Trade Unionism</a>
 "<a   href="Category:Cooperatives.md" class="wikilink"
-title="Category:Cooperatives">"Category:Cooperatives</a>
+title="Category:Cooperatives">Category:Cooperatives</a>
 "<a   href="Category:Indigenism.md" class="wikilink"
-title="Category:Indigenism">"Category:Indigenism</a>
+title="Category:Indigenism">Category:Indigenism</a>
 
 [^1]: <https://nvdatabase.swarthmore.edu/content/brazilian-rubber-tappers-campaign-protest-deforestation-brazilian-rainforest-region-1977-198>
 

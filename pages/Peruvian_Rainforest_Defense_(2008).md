@@ -1,7 +1,7 @@
 The **Peruvian Rainforest Defense** was an effort by indigenous people,
 trade unions and environmentalists in Peru to stop the deforestation of
 rainforest and enclosure of
-"<a   href="Commons.md" class="wikilink" title="common land">"common land</a>.
+"<a   href="Commons.md" class="wikilink" title="common land">common land</a>.
 
 In April 2006, the United States and Peru signed a Free Trade Agreement
 (FTA), which they planned to implement on 1 February 2009. The United
@@ -147,22 +147,22 @@ still in effect along with many of the legislative decrees required for
 its implementation as of March 2013.
 
 "<a   href="Category:Events.md" class="wikilink"
-title="Category:Events">"Category:Events</a>
+title="Category:Events">Category:Events</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Indigenism.md" class="wikilink"
-title="Category:Indigenism">"Category:Indigenism</a>
+title="Category:Indigenism">Category:Indigenism</a>
 "<a   href="Category:Environmentalism.md" class="wikilink"
-title="Category:Environmentalism">"Category:Environmentalism</a>
+title="Category:Environmentalism">Category:Environmentalism</a>
 "<a   href="Category:South_America.md" class="wikilink"
-title="Category:South America">"Category:South America</a>
+title="Category:South America">Category:South America</a>
 "<a   href="Category:2008.md" class="wikilink"
-title="Category:2008">"Category:2008</a>
+title="Category:2008">Category:2008</a>
 "<a   href="Category:2009.md" class="wikilink"
-title="Category:2009">"Category:2009</a>
+title="Category:2009">Category:2009</a>
 "<a   href="Category:2000s.md" class="wikilink"
-title="Category:2000s">"Category:2000s</a>
+title="Category:2000s">Category:2000s</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Peru.md" class="wikilink"
-title="Category:Peru">"Category:Peru</a>
+title="Category:Peru">Category:Peru</a>

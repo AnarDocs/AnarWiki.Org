@@ -28,9 +28,9 @@ sterlization as an alternative:
 <references/>
 
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Natural_World.md" class="wikilink"
-title="Category:Natural World">"Category:Natural World</a>
+title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Jeffrey Gettleman, "Stray Dogs Started Turning Blue. Then the
     Street Mobilized," 27 September 2017,

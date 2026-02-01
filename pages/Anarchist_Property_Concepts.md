@@ -1,9 +1,9 @@
 # Anarchist Property Concepts
 
 In contrast to right-wing "<a   href="Propertarianism.md" class="wikilink"
-title="Propertarians">"Propertarians</a>, anarchists reject commercial
+title="Propertarians">Propertarians</a>, anarchists reject commercial
 profit-making "<a   href="Private_Property.md" class="wikilink"
-title="Private Property Ownership">"Private Property Ownership</a>.
+title="Private Property Ownership">Private Property Ownership</a>.
 Anarchist analysis identifies multiple interconnected harms stemming
 from private property:
 
@@ -114,7 +114,7 @@ ecological balance without resorting to deprivation and violence
 associated with exclusive private property.
 
 See "<a   href="Private_Property.md" class="wikilink"
-title="Private Property">"Private Property</a> for more in depth
+title="Private Property">Private Property</a> for more in depth
 information.
 
 <figure>

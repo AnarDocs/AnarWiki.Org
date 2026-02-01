@@ -73,13 +73,13 @@ central to the anarchist movement:
 **Italian Federation:**
 
 - "<a   href="Mikhail_Bakunin.md" class="wikilink"
-  title="Mikhail Bakunin">"Mikhail Bakunin</a> (attending as Italian
+  title="Mikhail Bakunin">Mikhail Bakunin</a> (attending as Italian
   delegate)
 - Andrea Costa
-- "<a   href="Carlo_Cafiero.md" class="wikilink" title="Carlo Cafiero">"Carlo
+- "<a   href="Carlo_Cafiero.md" class="wikilink" title="Carlo Cafiero">Carlo
   Cafiero</a>
 - "<a   href="Errico_Malatesta.md" class="wikilink"
-  title="Errico Malatesta">"Errico Malatesta</a>
+  title="Errico Malatesta">Errico Malatesta</a>
 - Lodovico Nabruzzi
 - Giuseppe Fanelli
 
@@ -388,13 +388,13 @@ for human liberation.[^6]
 
 - "<a   href="International_Working_People&#39;s_Association.md"
   class="wikilink"
-  title="International Working People&#39;s Association">"International
+  title="International Working People&#39;s Association">International
   Working People's Association</a> (1881–1887)
 - "<a   href="IWA–AIT.md" class="wikilink"
-  title="International Workers&#39; Association">"International Workers'
+  title="International Workers&#39; Association">International Workers'
   Association</a> (1922–)
 - "<a   href="International_of_Anarchist_Federations.md" class="wikilink"
-  title="International of Anarchist Federations">"International of
+  title="International of Anarchist Federations">International of
   Anarchist Federations</a> (1968–)
 - International Libertarian Solidarity (2001–2005)
 - Anarkismo.net (2005–)

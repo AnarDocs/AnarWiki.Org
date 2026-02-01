@@ -3,13 +3,13 @@ Russian revolutionary, politician and political theorist. He was the
 first head of government of Soviet Russia from 1917 until his death in
 1924, and of the Soviet Union from 1922 until his death. As the founder
 of the
-"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">"Bolsheviks</a>,
+"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">Bolsheviks</a>,
 Lenin led the "<a   href="October_Revolution.md" class="wikilink"
-title="October Revolution">"October Revolution</a>, which established the
+title="October Revolution">October Revolution</a>, which established the
 world's first communist state. His government won the Russian Civil War
 and created a one-party state under the Communist Party. Ideologically a
 Marxist, his developments to the ideology are called
-"<a   href="Leninism.md" class="wikilink" title="Leninism">"Leninism</a>.
+"<a   href="Leninism.md" class="wikilink" title="Leninism">Leninism</a>.
 
 ## Family
 
@@ -22,11 +22,11 @@ who had converted to Christianity.
 
 Lenin was the third of eight children. His older brother
 "<a   href="Aleksandr_Ulyanov.md" class="wikilink"
-title="Alexander">"Alexander</a> was executed in May 1887 for plotting to
+title="Alexander">Alexander</a> was executed in May 1887 for plotting to
 assassinate Tsar Alexander III, an event which profoundly influenced
 Lenin's revolutionary path. He married
 "<a   href="Nadezhda_Krupskaya.md" class="wikilink"
-title="Nadezhda Krupskaya">"Nadezhda Krupskaya</a>, a fellow Marxist, in
+title="Nadezhda Krupskaya">Nadezhda Krupskaya</a>, a fellow Marxist, in
 1898 while both were in exile in Siberia.
 
 ## Early Life
@@ -65,9 +65,9 @@ After his exile, Lenin lived in various European cities including
 Munich, London, and Geneva, where he became a leading figure in the
 Russian Social Democratic Labour Party. In 1903, the party split between
 Lenin's
-"<a   href="Bolshevik.md" class="wikilink" title="Bolshevik">"Bolshevik</a>
+"<a   href="Bolshevik.md" class="wikilink" title="Bolshevik">Bolshevik</a>
 faction and the
-"<a   href="Mensheviks.md" class="wikilink" title="Mensheviks">"Mensheviks</a>.
+"<a   href="Mensheviks.md" class="wikilink" title="Mensheviks">Mensheviks</a>.
 
 ## The October Revolution
 
@@ -143,7 +143,7 @@ interned were used as slave labour.
 ### Suppression of the Kronstadt Rebellion
 
 In March 1921, sailors at
-"<a   href="Kronstadt.md" class="wikilink" title="Kronstadt">"Kronstadt</a> -
+"<a   href="Kronstadt.md" class="wikilink" title="Kronstadt">Kronstadt</a> -
 the same sailors who had been celebrated as the "flower of the October
 Revolution" - revolted against the Bolshevik government. They demanded
 that all socialists be allowed to publish freely, that independent trade
@@ -157,7 +157,7 @@ internment of survivors in labour camps.
 
 ### Peter Kropotkin
 
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>, the renowned anarchist theorist, initially supported the
 February Revolution but opposed the Bolshevik seizure of power from the
 start. When Kropotkin heard the first cannon volleys of the Bolshevik
@@ -201,7 +201,7 @@ intrudes with his advice, most of which is very stupid."
 
 Forty-five years before the Russian Revolution, the anarchist
 "<a   href="Mikhail_Bakunin.md" class="wikilink"
-title="Mikhail Bakunin">"Mikhail Bakunin</a> had warned that
+title="Mikhail Bakunin">Mikhail Bakunin</a> had warned that
 authoritarian socialists would interpret the 'dictatorship of the
 proletariat' to mean their own dictatorship, which "would be the rule of
 scientific intellect, the most autocratic, the most despotic, the most
@@ -278,21 +278,21 @@ justified the means.[^15]
 <references/>
 
 "<a   href="Category:Characters.md" class="wikilink"
-title="Category:Characters">"Category:Characters</a>
+title="Category:Characters">Category:Characters</a>
 "<a   href="Category:Leninists.md" class="wikilink"
-title="Category:Leninists">"Category:Leninists</a>
+title="Category:Leninists">Category:Leninists</a>
 "<a   href="Category:Communists.md" class="wikilink"
-title="Category:Communists">"Category:Communists</a>
+title="Category:Communists">Category:Communists</a>
 "<a   href="Category:Marxists.md" class="wikilink"
-title="Category:Marxists">"Category:Marxists</a>
+title="Category:Marxists">Category:Marxists</a>
 "<a   href="Category:Russia.md" class="wikilink"
-title="Category:Russia">"Category:Russia</a>
+title="Category:Russia">Category:Russia</a>
 "<a   href="Category:USSR.md" class="wikilink"
-title="Category:USSR">"Category:USSR</a>
+title="Category:USSR">Category:USSR</a>
 "<a   href="Category:Marxist-Leninism.md" class="wikilink"
-title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Tom Brown, "Lenin and Workers' Control"
 

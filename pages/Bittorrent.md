@@ -87,7 +87,7 @@ on your machine. Go through each and try to copy the settings.
     installed and are using a current blocklist, but there are also
     programs specifically designed to
     "<a   href="Bittorrent#Bad_Peers.md" class="wikilink"
-    title="block bad peers">"block bad peers</a>.
+    title="block bad peers">block bad peers</a>.
 
 # Getting Files
 
@@ -153,11 +153,11 @@ you can guess what will happen.
 - To open other compressed files, you'll want to install
   [PeaZIP](http://peazip.sourceforge.net/) or see
   "<a   href="Libre_Recommendations#Utilities.md" class="wikilink"
-  title="our list of alternatives">"our list of alternatives</a>.
+  title="our list of alternatives">our list of alternatives</a>.
 - To view pretty much any multimedia file, you'll want to install [VLC
   Media Player](http://www.videolan.org/vlc/) or see
   "<a   href="Libre_Recommendations#Media_Players.md" class="wikilink"
-  title="our list of alternatives">"our list of alternatives</a>.
+  title="our list of alternatives">our list of alternatives</a>.
 - Clear as mud? It seems complicated, but sometimes it's better to
   overexplain than underexplain and you end up banging your head against
   a wall. After the first file you grab, you'll see it's not difficult.
@@ -175,7 +175,7 @@ you can guess what will happen.
 - You probably won't need these if you have Deluge's blocklist plugin
   installed and are
   "<a   href="Bittorrent#Notes_About_Blocklists.md" class="wikilink"
-  title="using a current blocklist">"using a current blocklist</a>. But,
+  title="using a current blocklist">using a current blocklist</a>. But,
   these programs will act as a firewall for any network connection, not
   just bittorrent.
 
@@ -183,7 +183,7 @@ you can guess what will happen.
 
 - [OneSwarm](http://www.oneswarm.org/) is a file sharing program that
   utilizes
-  "<a   href="Bittorrent.md" class="wikilink" title="Bittorrent">"Bittorrent</a>
+  "<a   href="Bittorrent.md" class="wikilink" title="Bittorrent">Bittorrent</a>
   for strong anonymity. It a "[friend of a
   friend](http://en.wikipedia.org/wiki/FOAF_%28software%29)" model.
   - Check out this great paper by the devs, [Why My Printer Received a

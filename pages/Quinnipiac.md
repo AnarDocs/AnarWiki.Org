@@ -149,11 +149,11 @@ dispossessing and converting Indians as a “Trail of Heartaches.”[^28]
 <references/>
 
 "<a   href="Category:USA.md" class="wikilink"
-title="Category:USA">"Category:USA</a>
+title="Category:USA">Category:USA</a>
 "<a   href="Category:North_America.md" class="wikilink"
-title="Category:North America">"Category:North America</a>
+title="Category:North America">Category:North America</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Iron Thunderhorse, “Setting the Record Straight,” 2007,
     <https://web-beta.archive.org/web/20160205190427/http://acqtc.org/Articles/SettingTheRecordStraight>.

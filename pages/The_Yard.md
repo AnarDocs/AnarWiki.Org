@@ -16,7 +16,7 @@ described the concept:
 > into anything they like.[^1]
 
 From Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
-title="Anarchy in Action">"Anarchy in Action</a>:
+title="Anarchy in Action">Anarchy in Action</a>:
 
 > When The Yard was opened in Minneapolis with the aim of giving the
 > children 'their own spot of earth and plenty of tools and materials

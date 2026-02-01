@@ -97,7 +97,7 @@ After Britain revoked the courts' independence from the king, Sam Adams
 re-established in 1772 the Boston Committee of Correspondence, a
 rebellious shadow government accountable to Boston's
 "<a   href="New_England_town_meetings.md" class="wikilink"
-title="town meetings">"town meetings</a>. The Committee helped other
+title="town meetings">town meetings</a>. The Committee helped other
 towns organize their own Committees, and within two months, eighty
 Massachussetts towns formed Committees of Correspondence. Committees
 emerged throughout the thirteen American colonies, and Bookchin writes
@@ -257,7 +257,7 @@ Members of the Western Abenakis fought for both the British and the
 Americans, depending on who would pay more. They tended to stay out of
 the firing line, refusing to sacrifice their lives for either side.[^28]
 Most of the "<a   href="Haudennosaunne.md" class="wikilink"
-title="Haudennosaunne">"Haudennosaunne</a> fought with the British,
+title="Haudennosaunne">Haudennosaunne</a> fought with the British,
 especially after they noticed the anti-Indian rhetoric of the Americans'
 Declaration of Independence.[^29] The Deleware signed the 1778 Treaty
 with the Americans that promised an all-Indian state would be added to

@@ -2,9 +2,9 @@ In 1680, the Pueblo peoples of what is now the southwestern "United
 States" succeeded in kicking Spanish colonizers out of their "New
 Mexico" territories for some twelve years. The uprising included an
 alliance of Pueblo peoples--including the
-"<a   href="Hopi.md" class="wikilink" title="Hopi">"Hopi</a> and
-"<a   href="Zuni.md" class="wikilink" title="Zuni">"Zuni</a>--assisted by
-"<a   href="Diné.md" class="wikilink" title="Diné">"Diné</a>, Apache, Ute, and
+"<a   href="Hopi.md" class="wikilink" title="Hopi">Hopi</a> and
+"<a   href="Zuni.md" class="wikilink" title="Zuni">Zuni</a>--assisted by
+"<a   href="Diné.md" class="wikilink" title="Diné">Diné</a>, Apache, Ute, and
 African rebels. The historian Colin Calloway calls it "one of the most
 effective Indian resistance movements in American history."[^1]
 

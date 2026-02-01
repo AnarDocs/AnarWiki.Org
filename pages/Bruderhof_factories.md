@@ -4,7 +4,7 @@
 </figure>
 
 The "<a   href="Wikipedia:Bruderhof_Communities.md" class="wikilink"
-title="Bruderhof">"Bruderhof</a> (meaning “community of brethren”) are a
+title="Bruderhof">Bruderhof</a> (meaning “community of brethren”) are a
 network of Christian communist communities that split from the Hutterite
 movement. Their website says they have 2,700 members living in
 twenty-three communities on four continents.[^1] They live without
@@ -68,17 +68,17 @@ Problems have persisted, as a queer radio station reported in 2019:
 <references/>
 
 "<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
-title="Category:Workers&#39; Self-Management">"Category:Workers'
+title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Christian_Anarchists.md" class="wikilink"
-title="Category:Christian Anarchists">"Category:Christian Anarchists</a>
+title="Category:Christian Anarchists">Category:Christian Anarchists</a>
 
 [^1]: bruderhof.com
 

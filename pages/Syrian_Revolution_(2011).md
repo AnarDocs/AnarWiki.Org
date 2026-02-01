@@ -1,24 +1,24 @@
 The **Syrian Revolution** was a
 "<a   href="List_of_Libertarian_Socialist_Revolutions.md" class="wikilink"
-title="revolution">"revolution</a> in
-"<a   href="Syria.md" class="wikilink" title="Syria">"Syria</a> in
+title="revolution">revolution</a> in
+"<a   href="Syria.md" class="wikilink" title="Syria">Syria</a> in
 "<a   href="Timeline_of_Anarchism_in_Western_Asia.md" class="wikilink"
-title="2011">"2011</a>. Although initially optimistic about the potential
+title="2011">2011</a>. Although initially optimistic about the potential
 for social change, it catalysed into the most tragic conflict of the
 21st century - the "<a   href="Syrian_Civil_War.md" class="wikilink"
-title="Syrian Civil War">"Syrian Civil War</a>.
+title="Syrian Civil War">Syrian Civil War</a>.
 
 ## Background
 
 Following Syria's "<a   href="decolonisation.md" class="wikilink"
-title="decolonisation">"decolonisation</a> by the
-"<a   href="French_Empire.md" class="wikilink" title="French Empire">"French
+title="decolonisation">decolonisation</a> by the
+"<a   href="French_Empire.md" class="wikilink" title="French Empire">French
 Empire</a> in 1946, it enjoyed a brief period of
 "<a   href="Representative_Democracy.md" class="wikilink"
-title="representative democracy">"representative democracy</a> before the
+title="representative democracy">representative democracy</a> before the
 military took over in a controversial coup in 1949 (with
 "<a   href="Timeline_of_US_Imperialism.md" class="wikilink"
-title="alleged CIA help">"alleged CIA help</a>). Frequent coups, military
+title="alleged CIA help">alleged CIA help</a>). Frequent coups, military
 revolts, civil disorders and bloody riots dominated the country until
 the Ba'ath party took power in a military coup in 1963 and ruled as a
 secular one-party state until the revolution. This led to a rise in
@@ -32,9 +32,9 @@ These factors combined with the government's restriction of civil
 liberties and lack of political democracy led to the perfect ingredients
 for a revolution. Once the Arab Spring was triggered by revolutions in
 "<a   href="Tunisian_Revolution.md" class="wikilink"
-title="Tunisia">"Tunisia</a> and
+title="Tunisia">Tunisia</a> and
 "<a   href="Egyptian_Revolution_(2011).md" class="wikilink"
-title="Egypt">"Egypt</a>, it soon followed in Syria.
+title="Egypt">Egypt</a>, it soon followed in Syria.
 
 ## Events
 
@@ -90,7 +90,7 @@ experienced ill-treatment. Many detainees were cramped in tight rooms
 and were given limited resources, and some were beaten, electrically
 jolted, or debilitated. Checkpoints were installed and large amounts of
 police were deployed to destroy
-"<a   href="Protest_Camp.md" class="wikilink" title="protest camps">"protest
+"<a   href="Protest_Camp.md" class="wikilink" title="protest camps">protest
 camps</a> while at the same time offering political reforms such as
 shorter conscription time, firing corrupt officials, releasing political
 prisoners, cutting taxes, creating jobs, lifting restrictions on the
@@ -120,7 +120,7 @@ protesters and the army continued in the following days. Soldiers began
 defecting after the secret police executed soldiers who refused to kill
 civilians. 10,000 people soon fled into Turkey, an
 "<a   href="Syrian_Refugee_Crisis.md" class="wikilink"
-title="eery foreshadowing of what was to come">"eery foreshadowing of
+title="eery foreshadowing of what was to come">eery foreshadowing of
 what was to come</a>.
 
 On 9 June 2011, the Syrian military's Lieutenant Colonel Hussein
@@ -128,11 +128,11 @@ Harmoush publicly defected and called for the Free Syrian Army (FSA), a
 network of militias. On the 29th of July, a group of defected officers
 officially announced the formation of the
 "<a   href="Free_Syrian_Army.md" class="wikilink"
-title="Free Syrian Army">"Free Syrian Army</a>. Composed of defected
+title="Free Syrian Army">Free Syrian Army</a>. Composed of defected
 Syrian Armed Forces personnel, the rebel army sought to remove dictator
 Bashar al-Assad and his government from power. With such a significant
 defection from the state, a
-"<a   href="Civil_War.md" class="wikilink" title="civil war">"civil war</a> had
+"<a   href="Civil_War.md" class="wikilink" title="civil war">civil war</a> had
 begun.
 
 With the militarization of the movement in the summer and fall of 2011
@@ -225,15 +225,15 @@ the local councils:
 
 ### 15th Garden
 
-"<a   href="15th_Garden.md" class="wikilink" title="15th Garden">"15th
+"<a   href="15th_Garden.md" class="wikilink" title="15th Garden">15th
 Garden</a> is or was a bottom-up urban agriculture network across 17
 cities in Syria. It campaigned for food sovereignty and belonged to the
 "<a   href="Syrian_Revolution.md" class="wikilink"
-title="Syrian Revolution">"Syrian Revolution</a>. The name came from the
+title="Syrian Revolution">Syrian Revolution</a>. The name came from the
 revolution's birthday of March 15th, 2011.
 
 In 2016,
-"<a   href="La_Via_Campesina.md" class="wikilink" title="La Via Campesina">"La
+"<a   href="La_Via_Campesina.md" class="wikilink" title="La Via Campesina">La
 Via Campesina</a> shared a report by 15th Garden describing some of the
 Syrian movement's activities:
 
@@ -337,27 +337,27 @@ SDF."
 ## Results
 
 The revolution saw a
-"<a   href="List_of_Mutinies.md" class="wikilink" title="mutiny">"mutiny</a> by
+"<a   href="List_of_Mutinies.md" class="wikilink" title="mutiny">mutiny</a> by
 much of the army into a democratic opposition (although this soon became
 a mix of all anti-government sentiments including
-"<a   href="Leftism.md" class="wikilink" title="leftists">"leftists</a>,
-"<a   href="Islamism.md" class="wikilink" title="Islamists">"Islamists</a>,
+"<a   href="Leftism.md" class="wikilink" title="leftists">leftists</a>,
+"<a   href="Islamism.md" class="wikilink" title="Islamists">Islamists</a>,
 "<a   href="Capitalism.md" class="wikilink"
-title="capitalists">"capitalists</a>,
-"<a   href="Liberalism.md" class="wikilink" title="liberals">"liberals</a> and
-"<a   href="Fascism.md" class="wikilink" title="fascists">"fascists</a>) that
+title="capitalists">capitalists</a>,
+"<a   href="Liberalism.md" class="wikilink" title="liberals">liberals</a> and
+"<a   href="Fascism.md" class="wikilink" title="fascists">fascists</a>) that
 led to the conflict becoming the
 "<a   href="Syrian_Civil_War.md" class="wikilink"
-title="Syrian Civil War">"Syrian Civil War</a>, of which the main
+title="Syrian Civil War">Syrian Civil War</a>, of which the main
 positive developments are the
 "<a   href="Rojava_Revolution.md" class="wikilink"
-title="Rojava Revolution">"Rojava Revolution</a> and the negative
+title="Rojava Revolution">Rojava Revolution</a> and the negative
 developments are half a million dead, 12 million refugees and a complex
 proxy war between
 "<a   href="Timeline_of_Russian_Imperialism.md" class="wikilink"
-title="Russia">"Russia</a> and the
+title="Russia">Russia</a> and the
 "<a   href="Timeline_of_US_Imperialism.md" class="wikilink"
-title="USA">"USA</a>.
+title="USA">USA</a>.
 
 Syrian journalists Robin Yassin-Kassab and Leila al-Shami, in their
 authoritative English-language *Burning Country*, summarize the
@@ -416,27 +416,27 @@ anti-authoritarian ethos of the revolution:
 - Javier Sethness and Dan Fischer, "Revolution in Permanence in Syria,
   After the Uprisings," *News & Letters*, 22 March 2020,
   <https://newsandletters.org/revolution-in-permanence-in-syria-after-the-uprisings/>.
-- "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+- "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
   [Civil uprising phase of the Syrian Civil
   War](https://en.wikipedia.org/wiki/Civil_uprising_phase_of_the_Syrian_Civil_War)
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:2011.md" class="wikilink"
-title="Category:2011">"Category:2011</a>
+title="Category:2011">Category:2011</a>
 "<a   href="Category:2010s.md" class="wikilink"
-title="Category:2010s">"Category:2010s</a>
+title="Category:2010s">Category:2010s</a>
 "<a   href="Category:Arab_Spring.md" class="wikilink"
-title="Category:Arab Spring">"Category:Arab Spring</a>
+title="Category:Arab Spring">Category:Arab Spring</a>
 "<a   href="Category:Revolutions_of_2010_-_2014.md" class="wikilink"
-title="Category:Revolutions of 2010 - 2014">"Category:Revolutions of 2010
+title="Category:Revolutions of 2010 - 2014">Category:Revolutions of 2010
 - 2014</a> "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Revolutions.md" class="wikilink"
-title="Category:Revolutions">"Category:Revolutions</a>
+title="Category:Revolutions">Category:Revolutions</a>
 "<a   href="Category:Syria.md" class="wikilink"
-title="Category:Syria">"Category:Syria</a>
+title="Category:Syria">Category:Syria</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Western_Asia.md" class="wikilink"
-title="Category:Western Asia">"Category:Western Asia</a>
+title="Category:Western Asia">Category:Western Asia</a>

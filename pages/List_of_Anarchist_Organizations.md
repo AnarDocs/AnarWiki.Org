@@ -1,6 +1,6 @@
 A list of organizations and social movements which aim to agitate,
 educate and organize the general public around the principles of
-"<a   href="Anarchism.md" class="wikilink" title="anarchism">"anarchism</a>.
+"<a   href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
 
 ## Active Organizations
 
@@ -8,14 +8,14 @@ educate and organize the general public around the principles of
 - Absolutely anti-Le Pen group (France)
 - Anarchist-Communist Federation of Argentina
 - "<a   href="Anarcho-Syndicalist_Federation_(Australia).md" class="wikilink"
-  title="Anarcho-Syndicalist Federation">"Anarcho-Syndicalist
+  title="Anarcho-Syndicalist Federation">Anarcho-Syndicalist
   Federation</a> (Australia)
 - Anarchists Against the Wall (Israel)
 - Anarchist Federation (Britain and Ireland)
 - Anarchist Federation (France)
 - Anarchist Pogo Party of Germany
 - "<a   href="Animal_Liberation_Front.md" class="wikilink"
-  title="Animal Liberation Front">"Animal Liberation Front</a>
+  title="Animal Liberation Front">Animal Liberation Front</a>
 - Anti-authoritarian Current (Greece)
 - Argentine Libertarian Federation
 - Autonomedia (USA)
@@ -23,20 +23,20 @@ educate and organize the general public around the principles of
 - Beehive Design Collective (USA)
 - Black Laundry (Israel)
 - "<a   href="Central_Organisation_of_the_Workers_of_Sweden.md" class="wikilink"
-  title="Central Organisation of the Workers of Sweden">"Central
+  title="Central Organisation of the Workers of Sweden">Central
   Organisation of the Workers of Sweden</a>
 - "<a   href="Commission_of_Anarchist_Relations.md" class="wikilink"
-  title="Commission of Anarchist Relations">"Commission of Anarchist
+  title="Commission of Anarchist Relations">Commission of Anarchist
   Relations</a> (Venezuela)
 - Confederation of Revolutionary Anarcho-Syndicalists (Russia)
 - Conspiracy of Fire Nuclei (Greece)
 - Cream City Collective (USA)
-- "<a   href="CrimethInc.md" class="wikilink" title="CrimethInc">"CrimethInc</a>
+- "<a   href="CrimethInc.md" class="wikilink" title="CrimethInc">CrimethInc</a>
   (USA)
-- "<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
+- "<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
   First!</a>
 - "<a   href="Earth_Liberation_Front.md" class="wikilink"
-  title="Earth Liberation Front">"Earth Liberation Front</a>
+  title="Earth Liberation Front">Earth Liberation Front</a>
 - Federation of Anarchist Communists (Italy)
 - Freedom Shop (New Zealand)
 - Free Workers' Union (Germany)
@@ -45,7 +45,7 @@ educate and organize the general public around the principles of
 - Iberian Anarchist Federation (Spain)
 - Iberian Federation of Libertarian Youth (Spain)
 - "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
-  title="Industrial Workers of the World">"Industrial Workers of the
+  title="Industrial Workers of the World">Industrial Workers of the
   World</a>
 - Informal Anarchist Federation (Italy)
 - Institute for Anarchist Studies (USA)
@@ -57,17 +57,17 @@ educate and organize the general public around the principles of
 - Joaquin Penina Libertarian Column (Argentina)
 - Jura Books (Australia)
 - Libertarian Alternative (France)
-- "<a   href="LibSoc.net.md" class="wikilink" title="LibSoc.net">"LibSoc.net</a>
+- "<a   href="LibSoc.net.md" class="wikilink" title="LibSoc.net">LibSoc.net</a>
   (UK)
 - Melbourne Anarchist Club (Australia)
 - Mujeres Creando (Bolivia)
 - Mutiny Collective (Australia)
 - National Confederation of Labour (France)
 - "<a   href="National_Confederation_of_Labour_(Spain).md" class="wikilink"
-  title="National Confederation of Labour">"National Confederation of
+  title="National Confederation of Labour">National Confederation of
   Labour</a> (Spain)
 - "<a   href="CIPO-RFM.md" class="wikilink"
-  title="Popular Indigenous Council of Oaxaca &quot;Ricardo Flores Magón&quot;">"Popular
+  title="Popular Indigenous Council of Oaxaca &quot;Ricardo Flores Magón&quot;">Popular
   Indigenous Council of Oaxaca "Ricardo Flores Magón"</a> (Mexico)
 - Portland Anarchist Road Care (USA)
 - Redneck Revolt (USA)
@@ -94,11 +94,11 @@ educate and organize the general public around the principles of
 ## Defunct
 
 - "<a   href="Arditi_Del_Popolo.md" class="wikilink"
-  title="Arditi Del Popolo">"Arditi Del Popolo</a> (Italy)
+  title="Arditi Del Popolo">Arditi Del Popolo</a> (Italy)
 
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Lists.md" class="wikilink"
-title="Category:Lists">"Category:Lists</a>
+title="Category:Lists">Category:Lists</a>
 "<a   href="Category:Organizations.md" class="wikilink"
-title="Category:Organizations">"Category:Organizations</a>
+title="Category:Organizations">Category:Organizations</a>

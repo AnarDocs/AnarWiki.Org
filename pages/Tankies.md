@@ -1,1 +1,1 @@
-1.  REDIRECT "<a   href="Tankie.md" class="wikilink" title="Tankie">"Tankie</a>
+1.  REDIRECT "<a   href="Tankie.md" class="wikilink" title="Tankie">Tankie</a>

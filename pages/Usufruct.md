@@ -83,9 +83,9 @@ fields, and reserved the gleanings for the poor.[^5]
 ## In social ecology
 
 Usufruct is a central concept in
-"<a   href="social_ecology.md" class="wikilink" title="social ecology">"social
+"<a   href="social_ecology.md" class="wikilink" title="social ecology">social
 ecology</a>. "<a   href="Murray_Bookchin.md" class="wikilink"
-title="Murray Bookchin">"Murray Bookchin</a> defines usufruct informally
+title="Murray Bookchin">Murray Bookchin</a> defines usufruct informally
 as "The freedom of individuals in a community to appropriate resources
 merely by virtue of the fact that they are using them".[^6]
 
@@ -104,29 +104,29 @@ minimum must be extended from the kin group to humanity as a whole."[^8]
 ## See also
 
 - "<a   href="Common_ownership.md" class="wikilink"
-  title="Common ownership">"Common ownership</a>
+  title="Common ownership">Common ownership</a>
 - "<a   href="Mutualism_(economic_theory).md" class="wikilink"
-  title="Mutualism (economic theory)">"Mutualism (economic theory)</a>
-- "<a   href="Squatting.md" class="wikilink" title="Squatting">"Squatting</a>
+  title="Mutualism (economic theory)">Mutualism (economic theory)</a>
+- "<a   href="Squatting.md" class="wikilink" title="Squatting">Squatting</a>
 - "<a   href="Private_Property.md" class="wikilink"
-  title="Private Property">"Private Property</a>
+  title="Private Property">Private Property</a>
 
 ## References
 
 <references/>
 
 "<a   href="Category:Property_law.md" class="wikilink"
-title="Category:Property law">"Category:Property law</a>
+title="Category:Property law">Category:Property law</a>
 "<a   href="Category:Civil_law_(legal_system).md" class="wikilink"
-title="Category:Civil law (legal system)">"Category:Civil law (legal
+title="Category:Civil law (legal system)">Category:Civil law (legal
 system)</a> "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Wikipedia.md" class="wikilink"
-title="Category:Wikipedia">"Category:Wikipedia</a>
+title="Category:Wikipedia">Category:Wikipedia</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Investopedia Staff (2003-11-24). "Usufruct". *Investopedia*.
 

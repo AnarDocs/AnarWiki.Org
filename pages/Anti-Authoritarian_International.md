@@ -1,5 +1,5 @@
 From "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-title="Cartography of Revolutionary Anarchism">"Cartography of
+title="Cartography of Revolutionary Anarchism">Cartography of
 Revolutionary Anarchism</a>:
 
 > The final collapse of the anarchist wing of the IWMA in 1877 ended the

@@ -35,11 +35,11 @@ Today, there are an estimated 50,000 Karaite Jews.[^5]
 <references/>
 
 "<a   href="Category:Religion.md" class="wikilink"
-title="Category:Religion">"Category:Religion</a>
+title="Category:Religion">Category:Religion</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Judaism.md" class="wikilink"
-title="Category:Judaism">"Category:Judaism</a>
+title="Category:Judaism">Category:Judaism</a>
 
 [^1]: Robert Brody, *The Geonim of Babylonia and the Shaping of Medieval
     Jewish Culture* (New Haven: Yale University Press, 1998), 88.

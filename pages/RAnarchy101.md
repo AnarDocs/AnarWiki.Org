@@ -1,14 +1,14 @@
 # r/Anarchy101
 
 **r/Anarchy101** is an educational
-"<a   href="subreddit.md" class="wikilink" title="subreddit">"subreddit</a> on
-"<a   href="Reddit.md" class="wikilink" title="Reddit">"Reddit</a> dedicated to
+"<a   href="subreddit.md" class="wikilink" title="subreddit">subreddit</a> on
+"<a   href="Reddit.md" class="wikilink" title="Reddit">Reddit</a> dedicated to
 answering questions about
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 theory, practice, and history. Created on January 3, 2011, the forum
 serves as an accessible entry point for individuals seeking to learn
 about
-"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a>,
+"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>,
 regardless of their current level of knowledge.
 
 ## Overview
@@ -42,8 +42,8 @@ gatekeeping.
 
 A core premise of the subreddit is that all anarchists are
 "<a   href="anti-capitalist.md" class="wikilink"
-title="anti-capitalist">"anti-capitalist</a> and
-"<a   href="anti-state.md" class="wikilink" title="anti-state">"anti-state</a>.
+title="anti-capitalist">anti-capitalist</a> and
+"<a   href="anti-state.md" class="wikilink" title="anti-state">anti-state</a>.
 This foundational assumption is not subject to debate within the forum
 and serves as the baseline for all discussions.[^3]
 
@@ -63,7 +63,7 @@ supplementary educational materials. The wiki includes:
 - A suggested reading list featuring foundational anarchist texts
 - Information about actions and projects for individuals interested in
   engaging with "<a   href="anarchist_praxis.md" class="wikilink"
-  title="anarchist praxis">"anarchist praxis</a>
+  title="anarchist praxis">anarchist praxis</a>
 - Additional resources for deepening understanding of anarchist theory
   and practice
 
@@ -84,15 +84,15 @@ project, though both shared similar educational goals.
 <references/>
 
 "<a   href="Category:Anarchist_Organizations.md" class="wikilink"
-title="Category:Anarchist Organizations">"Category:Anarchist
+title="Category:Anarchist Organizations">Category:Anarchist
 Organizations</a> "<a   href="Category:Online_Communities.md" class="wikilink"
-title="Category:Online Communities">"Category:Online Communities</a>
+title="Category:Online Communities">Category:Online Communities</a>
 "<a   href="Category:Educational_Resources.md" class="wikilink"
-title="Category:Educational Resources">"Category:Educational
+title="Category:Educational Resources">Category:Educational
 Resources</a> "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Reddit analytics, October 2025
 

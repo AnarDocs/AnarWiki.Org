@@ -28,7 +28,7 @@ argument: Engels did not understand what anarchists actually meant by
 authority.
 
 Anarchists like "<a   href="Mikhail_Bakunin.md" class="wikilink"
-title="Mikhail Bakunin">"Mikhail Bakunin</a> were explicit in
+title="Mikhail Bakunin">Mikhail Bakunin</a> were explicit in
 distinguishing different types of authority. Bakunin differentiated
 between:
 
@@ -171,7 +171,7 @@ another, ignoring:
   different from imposing domination
 
 As "<a   href="Errico_Malatesta.md" class="wikilink"
-title="Errico Malatesta">"Errico Malatesta</a> explained: "We recognise
+title="Errico Malatesta">Errico Malatesta</a> explained: "We recognise
 violence only as a means of legitimate self-defence; and if today they
 are in favour of violence it is because they maintain that slaves are
 always in a state of legitimate defence."[^15]
@@ -191,9 +191,9 @@ or violence. The question is: what kind of organization?
   voluntary federation, with instantly recallable delegates who execute
   collective decisions rather than making them
 
-The "<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
+The "<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
 Commune</a>, "<a   href="Spanish_Revolution.md" class="wikilink"
-title="Spanish Revolution">"Spanish Revolution</a>, and other anarchist
+title="Spanish Revolution">Spanish Revolution</a>, and other anarchist
 experiments demonstrated that revolutionary violence and defense can be
 organized through libertarian rather than authoritarian structures.[^17]
 
@@ -214,7 +214,7 @@ authority.[^18]
 **Revolutionary Catalonia (1936-1937)**
 
 During the "<a   href="Spanish_Revolution.md" class="wikilink"
-title="Spanish Revolution">"Spanish Revolution</a>, anarcho-syndicalist
+title="Spanish Revolution">Spanish Revolution</a>, anarcho-syndicalist
 unions organized production across vast sectors of the economy without
 bosses or state control. As historian Burnett Bolloten documented,
 industries including railways, shipping, manufacturing, utilities, and
@@ -224,7 +224,7 @@ operating on libertarian principles.[^19]
 **The Free Territory (1919-1921)**
 
 The "<a   href="Makhnovshchina.md" class="wikilink"
-title="Free Territory in Ukraine">"Free Territory in Ukraine</a>
+title="Free Territory in Ukraine">Free Territory in Ukraine</a>
 organized both military defense and economic production on anarchist
 principles, with "free working councils" replacing state authority.[^20]
 
@@ -349,7 +349,7 @@ Lenin explicitly used Engels' logic to justify:
 
 The result was not socialism but
 "<a   href="state_capitalism.md" class="wikilink"
-title="state capitalism">"state capitalism</a>, with workers remaining
+title="state capitalism">state capitalism</a>, with workers remaining
 subordinated to a new ruling class of state bureaucrats.[^27]
 
 ## Conclusion
@@ -382,15 +382,15 @@ compelled to submit to it."[^29]
 ## See Also
 
 - "<a   href="Text:Anarchism_Or_Socialism.md" class="wikilink"
-  title="Anarchism Or Socialism, Joseph Stalin">"Anarchism Or Socialism,
+  title="Anarchism Or Socialism, Joseph Stalin">Anarchism Or Socialism,
   Joseph Stalin</a>
 - "<a   href="Marxist_Misrepresentations.md" class="wikilink"
-  title="Marxist Misrepresentations Of Anarchism">"Marxist
+  title="Marxist Misrepresentations Of Anarchism">Marxist
   Misrepresentations Of Anarchism</a>
 - "<a   href="Anarchist_Views_on_Marxism.md" class="wikilink"
-  title="Anarchist Views On Marxism">"Anarchist Views On Marxism</a>
+  title="Anarchist Views On Marxism">Anarchist Views On Marxism</a>
 - "<a   href="Marxist-Leninist_Persecution_Of_Anarchists.md" class="wikilink"
-  title="Marxist-Leninist Persecution Of Anarchists">"Marxist-Leninist
+  title="Marxist-Leninist Persecution Of Anarchists">Marxist-Leninist
   Persecution Of Anarchists</a>
 
 ## External Links
@@ -412,17 +412,17 @@ compelled to submit to it."[^29]
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Marxism.md" class="wikilink"
-title="Category:Marxism">"Category:Marxism</a>
+title="Category:Marxism">Category:Marxism</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Friedrich Engels, "On Authority" (1872),
     <https://www.marxists.org/archive/marx/works/1872/10/authority.htm>

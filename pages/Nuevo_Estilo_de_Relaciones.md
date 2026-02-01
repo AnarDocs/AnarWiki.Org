@@ -4,10 +4,10 @@
 is an organizational philosophy and methodology developed by Spanish
 businessman Koldo Saratxaga that emphasizes radical
 "<a   href="self-management.md" class="wikilink"
-title="self-management">"self-management</a>, transparency, and worker
+title="self-management">self-management</a>, transparency, and worker
 empowerment. The NER approach represents a practical implementation of
 many
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 principles within business organizations, including the elimination of
 hierarchical control, collective decision-making, and the equitable
 distribution of economic benefits.
@@ -15,7 +15,7 @@ distribution of economic benefits.
 ## Origins
 
 NER emerged from the successful transformation of Spanish manufacturing
-company "<a   href="Irizar.md" class="wikilink" title="Irizar">"Irizar</a>
+company "<a   href="Irizar.md" class="wikilink" title="Irizar">Irizar</a>
 under the leadership of Koldo Saratxaga. After witnessing thousands of
 visitors to Irizar who made excuses about why such radical
 organizational changes would not work in their own contexts, Saratxaga
@@ -41,11 +41,11 @@ adaptability.
 ### Self-Management
 
 Structures based on "<a   href="self-management.md" class="wikilink"
-title="self-management">"self-management</a> that share voice and vote
+title="self-management">self-management</a> that share voice and vote
 among all team members, with interrelated teams acting collectively.
 This principle directly reflects anarchist concepts of
 "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> and worker control.
+title="direct democracy">direct democracy</a> and worker control.
 
 ### Responsibility
 
@@ -75,9 +75,9 @@ human, just and sustainable society. Specifically, NER organizations:
 
 The NER transformation follows a radical eight-step process that
 prioritizes worker
-"<a   href="consent.md" class="wikilink" title="consent">"consent</a> and
+"<a   href="consent.md" class="wikilink" title="consent">consent</a> and
 "<a   href="collective_decision-making.md" class="wikilink"
-title="collective decision-making">"collective decision-making</a>:
+title="collective decision-making">collective decision-making</a>:
 
 ### Ownership Commitment
 
@@ -127,27 +127,27 @@ accountability.
 NER represents a practical application of key anarchist organizational
 concepts within capitalist economic structures:
 
-**"<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>**:
+**"<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>**:
 The 2% allocation of work time to social projects and profit-sharing
 demonstrate solidarity beyond individual organizations.
 
 **"<a   href="Direct_Democracy.md" class="wikilink"
-title="Direct Democracy">"Direct Democracy</a>**: Worker voting on
+title="Direct Democracy">Direct Democracy</a>**: Worker voting on
 transformation, team selection of coordinators, and collective
 target-setting eliminate representative hierarchies.
 
 **"<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-title="Workers&#39; Self-Management">"Workers' Self-Management</a>**:
+title="Workers&#39; Self-Management">Workers' Self-Management</a>**:
 Complete elimination of traditional management structures in favor of
 autonomous, self-coordinating teams.
 
 **"<a   href="Horizontal_Organization.md" class="wikilink"
-title="Horizontal Organization">"Horizontal Organization</a>**: Flat
+title="Horizontal Organization">Horizontal Organization</a>**: Flat
 salary ratios and transparent decision-making processes minimize power
 differentials.
 
 **"<a   href="Collective_Ownership.md" class="wikilink"
-title="Collective Ownership">"Collective Ownership</a>**: While not
+title="Collective Ownership">Collective Ownership</a>**: While not
 eliminating private property entirely, profit-sharing and collective
 decision-making create forms of economic democracy.
 
@@ -197,22 +197,22 @@ enterprises operating according to libertarian socialist values.
 - <https://www.corporate-rebels.com/blog/ner-group>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
-title="Category:Workers&#39; Self-Management">"Category:Workers'
+title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a>
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Ner Group official website
 

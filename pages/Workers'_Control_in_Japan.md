@@ -1,21 +1,21 @@
 **Workers' Control in Japan** is unfortunately largely unknown among the
 Anglophone left, however, we do have access to some information on it.
 Unlike "<a   href="Workers&#39;_Control_by_Country.md" class="wikilink"
-title="workers&#39; control in most other countries">"workers' control in
+title="workers&#39; control in most other countries">workers' control in
 most other countries</a>, Japan's peaked following the end of World War
 II, a trend only
 "<a   href="Workers&#39;_Control_in_Indonesia.md" class="wikilink"
-title="matched in Indonesia">"matched in Indonesia</a>.
+title="matched in Indonesia">matched in Indonesia</a>.
 
 ## During the Allied Occupation of Japan
 
 *Main Article: "<a   href="Allied_Occupation_of_Japan.md" class="wikilink"
-title="Allied Occupation of Japan">"Allied Occupation of Japan</a>*
+title="Allied Occupation of Japan">Allied Occupation of Japan</a>*
 
 Beginning in 1945 under
-"<a   href="US_Hegemony.md" class="wikilink" title="US occupation">"US
+"<a   href="US_Hegemony.md" class="wikilink" title="US occupation">US
 occupation</a>, a mass strike wave hit Japan after
-"<a   href="Trade_Union.md" class="wikilink" title="trade unions">"trade
+"<a   href="Trade_Union.md" class="wikilink" title="trade unions">trade
 unions</a> were legalised. Around 10% of these involved (or 133 strikes,
 involving over 100,000 workers) led to work-ins. Many workers were
 angered at the war profiteering by Japanese capitalists and argued that
@@ -49,21 +49,21 @@ initially accepted as profit-sharing and wage increases were given to
 the working class, the police began to repress episodes of workers'
 control, thus being a perfect example of
 "<a   href="co-optation.md" class="wikilink"
-title="co-optation">"co-optation</a>.
+title="co-optation">co-optation</a>.
 
 ## References
 
 [Production control in
 Japan](https://libcom.org/history/production-control-japan) at
-"<a   href="libcom.org.md" class="wikilink" title="libcom.org">"libcom.org</a>
+"<a   href="libcom.org.md" class="wikilink" title="libcom.org">libcom.org</a>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
-title="Category:Workers&#39; Self-Management">"Category:Workers'
+title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a> "<a   href="Category:Japan.md" class="wikilink"
-title="Category:Japan">"Category:Japan</a>
+title="Category:Japan">Category:Japan</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Eastern_Asia.md" class="wikilink"
-title="Category:Eastern Asia">"Category:Eastern Asia</a>
+title="Category:Eastern Asia">Category:Eastern Asia</a>

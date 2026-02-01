@@ -25,7 +25,7 @@ monarchists and Prussian troops repressing workers and peasants. In
 April 1849, Marx resigned from the Democratic Association, and in his
 1850 Address to the Commmunist League he advocated that workers organize
 independently toward a ""<a   href="Permanent_revolution.md" class="wikilink"
-title="revolution in permanence">"revolution in permanence</a>" that
+title="revolution in permanence">revolution in permanence</a>" that
 seeks full social liberation.[^6]
 
 # Paris
@@ -106,7 +106,7 @@ beginning June 1849.[^16]
 <references/>
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Immanuel Wallerstein, *World-Systems Analysis: An Introduction*
     (Durham and London: Duke University Press, 2004), 63-64. David

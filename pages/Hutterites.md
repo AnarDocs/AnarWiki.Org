@@ -2,18 +2,18 @@
 
 The **Hutterites** and **Bruderhof** represent two of the most
 significant examples of successful
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 organization in the modern world, demonstrating that large-scale
 "<a   href="communalism.md" class="wikilink"
-title="communalism">"communalism</a>,
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
+title="communalism">communalism</a>,
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
 and "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> can function effectively
+title="direct democracy">direct democracy</a> can function effectively
 across centuries. Though both communities identify as
-"<a   href="Anabaptist.md" class="wikilink" title="Anabaptist">"Anabaptist</a>
+"<a   href="Anabaptist.md" class="wikilink" title="Anabaptist">Anabaptist</a>
 Christians rather than explicitly anarchist, their practices of
 "<a   href="common_ownership.md" class="wikilink"
-title="common ownership">"common ownership</a>, rejection of private
+title="common ownership">common ownership</a>, rejection of private
 property, consensus decision-making, and resistance to state authority
 embody core anarchist principles in ways that secular anarchist
 movements often struggle to achieve.
@@ -21,21 +21,21 @@ movements often struggle to achieve.
 ## Overview
 
 The Hutterites, founded by
-"<a   href="Jakob_Hutter.md" class="wikilink" title="Jakob Hutter">"Jakob
+"<a   href="Jakob_Hutter.md" class="wikilink" title="Jakob Hutter">Jakob
 Hutter</a> in 1528, represent one of the oldest continuous experiments
 in "<a   href="communal_living.md" class="wikilink"
-title="communal living">"communal living</a> and
+title="communal living">communal living</a> and
 "<a   href="stateless_society.md" class="wikilink"
-title="stateless society">"stateless society</a>.[^1] For nearly 500
+title="stateless society">stateless society</a>.[^1] For nearly 500
 years, Hutterite communities have maintained
 "<a   href="common_ownership.md" class="wikilink"
-title="common ownership">"common ownership</a> of all property, rejected
+title="common ownership">common ownership</a> of all property, rejected
 individual accumulation, and organized themselves through collective
 decision-making processes that prioritize community consensus over
 hierarchical authority.
 
 The Bruderhof, founded by "<a   href="Eberhard_Arnold.md" class="wikilink"
-title="Eberhard Arnold">"Eberhard Arnold</a> in Germany in 1920, draws
+title="Eberhard Arnold">Eberhard Arnold</a> in Germany in 1920, draws
 inspiration from both early Christianity and the historical Hutterite
 model while adapting anarchist principles to modern conditions.[^2] Both
 movements demonstrate that anarchist organization - the absence of
@@ -43,7 +43,7 @@ rulers rather than the absence of order - can provide stable, prosperous
 societies over extended periods.
 
 As "<a   href="Catholic_Worker_Movement.md" class="wikilink"
-title="Catholic Worker Movement">"Catholic Worker Movement</a> founder
+title="Catholic Worker Movement">Catholic Worker Movement</a> founder
 Dorothy Day observed: "The Hutterite communities and the kibbutzim of
 Israel are two examples of successful farming communities in the world
 today. The Hutterite colonies are nonviolent and truly self-sustaining,
@@ -55,9 +55,9 @@ built on poverty and hard labor and dedication."[^3]
 
 The Hutterites emerged from the
 "<a   href="Radical_Reformation.md" class="wikilink"
-title="Radical Reformation">"Radical Reformation</a> of the 16th century,
+title="Radical Reformation">Radical Reformation</a> of the 16th century,
 specifically from the
-"<a   href="Anabaptist.md" class="wikilink" title="Anabaptist">"Anabaptist</a>
+"<a   href="Anabaptist.md" class="wikilink" title="Anabaptist">Anabaptist</a>
 movement that rejected both state authority and established church
 hierarchy. Unlike mainstream Protestant reformers who sought to work
 within existing power structures, the Anabaptists advocated for complete
@@ -66,13 +66,13 @@ societies based on voluntary association.[^4]
 
 Jakob Hutter's innovation was establishing communities based on the
 "<a   href="Schleitheim_Confession.md" class="wikilink"
-title="Schleitheim Confession">"Schleitheim Confession</a> of 1527, which
+title="Schleitheim Confession">Schleitheim Confession</a> of 1527, which
 declared complete separation from state authority, rejection of oaths of
 allegiance, and commitment to
-"<a   href="pacifism.md" class="wikilink" title="pacifism">"pacifism</a>.[^5]
+"<a   href="pacifism.md" class="wikilink" title="pacifism">pacifism</a>.[^5]
 Most significantly, Hutter implemented complete
 "<a   href="community_of_goods.md" class="wikilink"
-title="community of goods">"community of goods</a> - the abolition of
+title="community of goods">community of goods</a> - the abolition of
 private property and the establishment of collective ownership of all
 resources.
 
@@ -90,7 +90,7 @@ country: from Moravia to Hungary, Transylvania, Wallachia, Ukraine, and
 eventually North America.
 
 During the "<a   href="Thirty_Years&#39;_War.md" class="wikilink"
-title="Thirty Years&#39; War">"Thirty Years' War</a>, Habsburg forces
+title="Thirty Years&#39; War">Thirty Years' War</a>, Habsburg forces
 specifically targeted Hutterite communities, "annihilated and plundered
 several Hutterite settlements" in attempts to destroy their example of
 successful stateless organization.[^6] The bubonic plague that followed
@@ -110,7 +110,7 @@ The Bruderhof represents a 20th-century renewal of anarchist communalism
 inspired by the Hutterite example. Founded by Eberhard Arnold in
 post-World War I Germany, the Bruderhof emerged from the
 "<a   href="German_Youth_Movement.md" class="wikilink"
-title="German Youth Movement">"German Youth Movement</a> and the social
+title="German Youth Movement">German Youth Movement</a> and the social
 crisis following the war.[^8]
 
 Arnold's vision combined traditional Anabaptist principles with modern
@@ -130,7 +130,7 @@ continued throughout the 20th century.
 
 Both Hutterites and Bruderhof practice forms of
 "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> that prioritize consensus
+title="direct democracy">direct democracy</a> that prioritize consensus
 and collective wisdom over hierarchical authority. Hutterite governance
 operates through a "two-tiered structure including a council—usually
 seven senior males—and the voting membership, which includes all the
@@ -152,7 +152,7 @@ deliberation rather than hierarchical command.
 
 The most radical aspect of both movements is their complete rejection of
 private property in favor of "<a   href="common_ownership.md" class="wikilink"
-title="common ownership">"common ownership</a>. As the Hutterite practice
+title="common ownership">common ownership</a>. As the Hutterite practice
 is described: "all property is owned by the colony, and provisions for
 individual members and their families come from the common
 resources."[^11]
@@ -182,7 +182,7 @@ sustainable size, they split to create new autonomous communities rather
 than building hierarchical super-structures.
 
 This
-"<a   href="federalism.md" class="wikilink" title="federalist">"federalist</a>
+"<a   href="federalism.md" class="wikilink" title="federalist">federalist</a>
 approach allows for local self-governance while maintaining solidarity
 and mutual aid between communities. It demonstrates how anarchist
 organization can scale beyond individual communities without requiring
@@ -213,7 +213,7 @@ for various communal outreach efforts."[^18]
 ### Mutual Aid and Social Security
 
 Both movements demonstrate how
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 can replace state welfare systems. Communities provide housing,
 healthcare, education, childcare, and support for elderly and disabled
 members through collective effort rather than market mechanisms or state
@@ -228,7 +228,7 @@ systems based on cooperation rather than competition.
 
 While both movements engage with capitalist markets externally, they
 operate internal
-"<a   href="gift_economies.md" class="wikilink" title="gift economies">"gift
+"<a   href="gift_economies.md" class="wikilink" title="gift economies">gift
 economies</a> where goods and services flow according to need rather
 than ability to pay. Members contribute according to ability and receive
 according to need, demonstrating the practical viability of communist
@@ -239,7 +239,7 @@ economic principles.
 ### Anti-Materialism
 
 Both movements practice "<a   href="voluntary_simplicity.md" class="wikilink"
-title="voluntary simplicity">"voluntary simplicity</a> and reject the
+title="voluntary simplicity">voluntary simplicity</a> and reject the
 consumerism central to capitalist culture. Hutterite communities
 maintain that material possessions beyond basic necessities create
 inequality and spiritual corruption. The Bruderhof similarly emphasizes
@@ -256,7 +256,7 @@ development beyond material acquisition
 ### Pacifism and Non-Violence
 
 Both movements practice absolute
-"<a   href="pacifism.md" class="wikilink" title="pacifism">"pacifism</a>,
+"<a   href="pacifism.md" class="wikilink" title="pacifism">pacifism</a>,
 refusing military service and rejecting violence as a means of resolving
 conflicts. This pacifism extends beyond simple anti-war sentiment to a
 comprehensive rejection of coercive authority.
@@ -355,7 +355,7 @@ of stable, prosperous, voluntary communities demonstrate that:
 Economic productivity and innovation don't require private property or
 capitalist competition - Social order can be maintained through
 cooperation rather than coercion -
-"<a   href="Mutual_aid.md" class="wikilink" title="Mutual aid">"Mutual aid</a>
+"<a   href="Mutual_aid.md" class="wikilink" title="Mutual aid">Mutual aid</a>
 can provide comprehensive social security more effectively than state
 welfare - Democratic participation increases rather than decreases
 community stability
@@ -402,7 +402,7 @@ in common.'"[^28]
 For contemporary anarchists, these movements provide both inspiration
 and practical models for building alternatives to capitalist and state
 authority. They prove that
-"<a   href="anarchy.md" class="wikilink" title="anarchy">"anarchy</a> - society
+"<a   href="anarchy.md" class="wikilink" title="anarchy">anarchy</a> - society
 without rulers - can provide prosperity, security, and human fulfillment
 more effectively than systems based on domination and exploitation.
 
@@ -431,29 +431,29 @@ more effectively than systems based on domination and exploitation.
   the Bruderhof*. New York: Oxford University Press, 2000.
 
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a>
 "<a   href="Category:Historical_Anarchist_Societies.md" class="wikilink"
-title="Category:Historical Anarchist Societies">"Category:Historical
+title="Category:Historical Anarchist Societies">Category:Historical
 Anarchist Societies</a>
 "<a   href="Category:Anabaptist_Communities.md" class="wikilink"
-title="Category:Anabaptist Communities">"Category:Anabaptist
+title="Category:Anabaptist Communities">Category:Anabaptist
 Communities</a>
 "<a   href="Category:Intentional_Communities.md" class="wikilink"
-title="Category:Intentional Communities">"Category:Intentional
+title="Category:Intentional Communities">Category:Intentional
 Communities</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Communalism.md" class="wikilink"
-title="Category:Communalism">"Category:Communalism</a>
+title="Category:Communalism">Category:Communalism</a>
 "<a   href="Category:Mutual_Aid.md" class="wikilink"
-title="Category:Mutual Aid">"Category:Mutual Aid</a>
+title="Category:Mutual Aid">Category:Mutual Aid</a>
 "<a   href="Category:Direct_Democracy.md" class="wikilink"
-title="Category:Direct Democracy">"Category:Direct Democracy</a>
+title="Category:Direct Democracy">Category:Direct Democracy</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Wikipedia. "Hutterites." 2025.
 

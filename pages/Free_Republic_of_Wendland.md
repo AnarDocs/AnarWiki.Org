@@ -1,6 +1,6 @@
 The Free Republic of Wendland was a
 "<a   href="German_anti-nuclear_movement.md" class="wikilink"
-title="German anti-nuclear movement">"German anti-nuclear movement</a>
+title="German anti-nuclear movement">German anti-nuclear movement</a>
 blockade in Gorleben in 1980.
 
 In 1977, local farmers began protesting in Gorleben at a site where the
@@ -37,17 +37,17 @@ protests occurred in over 25 cities.[^2]
 ## References
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Germany.md" class="wikilink"
-title="Category:Germany">"Category:Germany</a>
+title="Category:Germany">Category:Germany</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:1977.md" class="wikilink"
-title="Category:1977">"Category:1977</a>
+title="Category:1977">Category:1977</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
 [^1]: Georgy Katsiaficas, *The Subversion of Politics: European
     Autonomous Movements and the Decolonization of Everyday Life*

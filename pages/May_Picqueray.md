@@ -3,17 +3,17 @@
 ## Overview
 
 **Marie Jeanne "May" Picqueray** (8 July 1898,
-"<a   href="Savenay.md" class="wikilink" title="Savenay">"Savenay</a> – 3
+"<a   href="Savenay.md" class="wikilink" title="Savenay">Savenay</a> – 3
 November 1983, "<a   href="14th_arrondissement_of_Paris.md" class="wikilink"
-title="14th arrondissement of Paris">"14th arrondissement of Paris</a>)
+title="14th arrondissement of Paris">14th arrondissement of Paris</a>)
 was a French
-"<a   href="Anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 activist,
-"<a   href="trade_union.md" class="wikilink" title="trade union">"trade
+"<a   href="trade_union.md" class="wikilink" title="trade union">trade
 unionist</a>, and notable anti-militarist. She published the
-"<a   href="pacifist.md" class="wikilink" title="pacifist">"pacifist</a> and
+"<a   href="pacifist.md" class="wikilink" title="pacifist">pacifist</a> and
 "<a   href="anti-militarist.md" class="wikilink"
-title="anti-militarist">"anti-militarist</a> periodical *Le Réfractaire*
+title="anti-militarist">anti-militarist</a> periodical *Le Réfractaire*
 from 1974 to 1983.
 
 ## Family
@@ -22,7 +22,7 @@ A feminist before her time, May Picqueray lived as an independent woman
 without depriving herself of having a family. She therefore raised her
 three children, born of three different fathers, alone. Married in
 "<a   href="Saint-Nazaire.md" class="wikilink"
-title="Saint-Nazaire">"Saint-Nazaire</a> on 22 July 1916, to Fred
+title="Saint-Nazaire">Saint-Nazaire</a> on 22 July 1916, to Fred
 Schneyder, of Dutch nationality, she separated three weeks later. In
 1923, she gave birth to a daughter, Sonia, conceived during her trip to
 the Soviet Union with Lucien Chevalier, federal secretary of the Metal
@@ -34,42 +34,42 @@ Biel-Russian Jew who had taken refuge in Toulouse.
 ## Early Life
 
 Attracted in her youth to revolutionary circles, May Picqueray left
-France for "<a   href="Moscow.md" class="wikilink" title="Moscow">"Moscow</a>,
-"<a   href="Russia.md" class="wikilink" title="Russia">"Russia</a>, in 1922, as
+France for "<a   href="Moscow.md" class="wikilink" title="Moscow">Moscow</a>,
+"<a   href="Russia.md" class="wikilink" title="Russia">Russia</a>, in 1922, as
 a delegate of the Metalworkers union, which was at the time part of the
 "<a   href="Profintern.md" class="wikilink"
-title="Red Trade Union International">"Red Trade Union International</a>.
+title="Red Trade Union International">Red Trade Union International</a>.
 While she was in Moscow, she notably climbed on the table to denounce
 union congregants eating while the common people starved.[^1] She also
 visited "<a   href="Vladimir_Lenin.md" class="wikilink"
-title="Vladimir Lenin">"Vladimir Lenin</a>, who was already weakened by
+title="Vladimir Lenin">Vladimir Lenin</a>, who was already weakened by
 the disease that eventually killed him. Because of
-"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">"Leon
+"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
 Trotsky</a>'s responsibility in the crushing of the
 "<a   href="Kronstadt_rebellion.md" class="wikilink"
-title="Kronstadt rebellion">"Kronstadt rebellion</a>, and his perceived
+title="Kronstadt rebellion">Kronstadt rebellion</a>, and his perceived
 betrayal of
-"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">"Nestor
+"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
 Makhno</a>, she refused to shake his hand when she met him, even as she
 asked him to release the anarchists locked in prison by the
-"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">"Bolsheviks</a>.[^2]
+"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">Bolsheviks</a>.[^2]
 
 In 1924, she made the punch at the meeting of the Grange-aux-Belles
 during which the communists killed two anarchist workers with revolvers.
 Her friendship with
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">"Emma
+"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a> and "<a   href="Alexander_Berkman.md" class="wikilink"
-title="Alexander Berkman">"Alexander Berkman</a> as well as her trip to
+title="Alexander Berkman">Alexander Berkman</a> as well as her trip to
 the USSR confirmed the dictatorial character of the communist regime,
 even though
-"<a   href="Joseph_Stalin.md" class="wikilink" title="Stalin">"Stalin</a> was
+"<a   href="Joseph_Stalin.md" class="wikilink" title="Stalin">Stalin</a> was
 not yet at the head of the country.
 
 ## Adulthood
 
 In 1921, two anarchists of Italian origin,
 "<a   href="Sacco_and_Vanzetti.md" class="wikilink"
-title="Nicola Sacco and Bartolomeo Vanzetti">"Nicola Sacco and Bartolomeo
+title="Nicola Sacco and Bartolomeo Vanzetti">Nicola Sacco and Bartolomeo
 Vanzetti</a>, were condemned to death by the American justice system,
 while shouting their innocence. Despite the mobilization of the
 left-wing circles, the French press remained silent. To trigger the
@@ -83,30 +83,30 @@ demonstrations in their favor, Sacco and Vanzetti were executed in
 Picqueray joined the "Spanish Children's Aid Committee" where her
 activity consisted of transporting Spanish orphans and reuniting the
 scattered family members separated by the
-"<a   href="Spanish_Civil_War.md" class="wikilink" title="Spanish war">"Spanish
+"<a   href="Spanish_Civil_War.md" class="wikilink" title="Spanish war">Spanish
 war</a>. She was in
-"<a   href="Toulouse.md" class="wikilink" title="Toulouse">"Toulouse</a> at the
+"<a   href="Toulouse.md" class="wikilink" title="Toulouse">Toulouse</a> at the
 time of the Debacle where she was in charge of welcoming refugees. Then
 she was in charge of supplying the French concentration camps of
-"<a   href="Camp_de_Noé.md" class="wikilink" title="Noé">"Noé</a> and
-"<a   href="Camp_Vernet.md" class="wikilink" title="Vernet">"Vernet</a>, from
+"<a   href="Camp_de_Noé.md" class="wikilink" title="Noé">Noé</a> and
+"<a   href="Camp_Vernet.md" class="wikilink" title="Vernet">Vernet</a>, from
 where she managed to escape nine internees. Her resistance activity
 consisted mainly in making false papers, in association with
-"<a   href="Renée_Lamberet.md" class="wikilink" title="Renée Lamberet">"Renée
+"<a   href="Renée_Lamberet.md" class="wikilink" title="Renée Lamberet">Renée
 Lamberet</a> and "<a   href="Madeleine_Lamberet.md" class="wikilink"
-title="Madeleine Lamberet">"Madeleine Lamberet</a>, for all those who
+title="Madeleine Lamberet">Madeleine Lamberet</a>, for all those who
 needed them.
 
 A friend of
-"<a   href="Louis_Lecoin.md" class="wikilink" title="Louis Lecoin">"Louis
+"<a   href="Louis_Lecoin.md" class="wikilink" title="Louis Lecoin">Louis
 Lecoin</a>, she was associated with all his struggles and continued her
 life as an activist after his death.
 
 An enthusiastic participant in the
-"<a   href="May_68.md" class="wikilink" title="uprising of May 1968">"uprising
+"<a   href="May_68.md" class="wikilink" title="uprising of May 1968">uprising
 of May 1968</a>, she participated in
 "<a   href="Anti-nuclear_movement.md" class="wikilink"
-title="anti-nuclear">"anti-nuclear</a> campaigns and supported
+title="anti-nuclear">anti-nuclear</a> campaigns and supported
 conscientious objectors and those who were resistant to military
 service.[^3]
 
@@ -114,9 +114,9 @@ service.[^3]
 
 May Picqueray was one of the figures of the proofreaders' union. She was
 a proofreader at Ce Soir,
-"<a   href="Libération.md" class="wikilink" title="Libération">"Libération</a>
+"<a   href="Libération.md" class="wikilink" title="Libération">Libération</a>
 and for twenty years at "<a   href="Le_Canard_enchaîné.md" class="wikilink"
-title="Le Canard enchaîné">"Le Canard enchaîné</a>.
+title="Le Canard enchaîné">Le Canard enchaîné</a>.
 
 An important figure in the French anarchist milieu, May Picqueray was
 the founder of the newspaper *Le Réfractaire* ("Libertarian organ for
@@ -136,25 +136,25 @@ garden in the 11th arrondissement of Paris.
 <references/>
 
 "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>
 "<a   href="Category:French_Anarchists.md" class="wikilink"
-title="Category:French Anarchists">"Category:French Anarchists</a>
+title="Category:French Anarchists">Category:French Anarchists</a>
 "<a   href="Category:Anti-Militarists.md" class="wikilink"
-title="Category:Anti-Militarists">"Category:Anti-Militarists</a>
+title="Category:Anti-Militarists">Category:Anti-Militarists</a>
 "<a   href="Category:Trade_Unionists.md" class="wikilink"
-title="Category:Trade Unionists">"Category:Trade Unionists</a>
+title="Category:Trade Unionists">Category:Trade Unionists</a>
 "<a   href="Category:Journalists.md" class="wikilink"
-title="Category:Journalists">"Category:Journalists</a>
+title="Category:Journalists">Category:Journalists</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Wikipedia.md" class="wikilink"
-title="Category:Wikipedia">"Category:Wikipedia</a>
+title="Category:Wikipedia">Category:Wikipedia</a>
 "<a   href="Category:Anarcha-Feminists.md" class="wikilink"
-title="Category:Anarcha-Feminists">"Category:Anarcha-Feminists</a>
+title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
 "<a   href="Category:Anarchist_Women.md" class="wikilink"
-title="Category:Anarchist Women">"Category:Anarchist Women</a>
+title="Category:Anarchist Women">Category:Anarchist Women</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Picqueray, May. *My Eighty-One Years of Anarchy : a Memoir.* AK
     Press, 2019.

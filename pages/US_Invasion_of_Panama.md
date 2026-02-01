@@ -1,11 +1,11 @@
 The **United States Invasion of Panama**, codenamed **Operation Just
 Cause**, lasted over a month between
 "<a   href="Timeline_of_US_Hegemony.md" class="wikilink"
-title="mid-December 1989 and late January 1990">"mid-December 1989 and
+title="mid-December 1989 and late January 1990">mid-December 1989 and
 late January 1990</a>. It was done to depose
-"<a   href="Panama.md" class="wikilink" title="Panamanian">"Panamanian</a>
+"<a   href="Panama.md" class="wikilink" title="Panamanian">Panamanian</a>
 dictator Manuel Noriega, a former
-"<a   href="CIA.md" class="wikilink" title="CIA">"CIA</a> associated drug
+"<a   href="CIA.md" class="wikilink" title="CIA">CIA</a> associated drug
 trafficker who had recently turned against the US.
 
 ## Background
@@ -13,18 +13,18 @@ trafficker who had recently turned against the US.
 The US had incorporated Panama into its hegemony in 1903, when it backed
 a lot of rebels (some even argued it engineered an entire rebellion)
 against
-"<a   href="Colombia.md" class="wikilink" title="Colombia">"Colombia</a> in
+"<a   href="Colombia.md" class="wikilink" title="Colombia">Colombia</a> in
 order to create the Panama Canal. The US began to maintain numerous
 military bases and stationed soldiers in the country. The US assisted
 then-General Noriega in his drug trafficking in exchange for his
 assistance to the "<a   href="Contra_War_(Nicaragua).md" class="wikilink"
-title="Contras in Nicaragua">"Contras in Nicaragua</a>. Since 1986, the
+title="Contras in Nicaragua">Contras in Nicaragua</a>. Since 1986, the
 US began to pressure Panama's government into arresting then-president
 Noriega, and he cut off relations to the USA and began to receive
-military aid from "<a   href="Cuba.md" class="wikilink" title="Cuba">"Cuba</a>,
+military aid from "<a   href="Cuba.md" class="wikilink" title="Cuba">Cuba</a>,
 "<a   href="Socialist_Nicaragua.md" class="wikilink"
-title="Nicaragua">"Nicaragua</a> and
-"<a   href="Socialist_Libya.md" class="wikilink" title="Libya">"Libya</a>. The
+title="Nicaragua">Nicaragua</a> and
+"<a   href="Socialist_Libya.md" class="wikilink" title="Libya">Libya</a>. The
 US attempted a coup in 1988, and when that failed, the US began to
 prepare to invade. After Noriega ignored an election that would have
 made him los power, the US attempted another coup. US presidents denied

@@ -6,41 +6,41 @@ title="Piazza_del_mercato_(Spezzano_Albanese).jpg" />
 
 **Spezzano Albanese** (*Spixana* in
 "<a   href="Arbëreshë_language.md" class="wikilink"
-title="Arbëreshë">"Arbëreshë</a>[^1]) is a
+title="Arbëreshë">Arbëreshë</a>[^1]) is a
 "<a   href="List_of_Anarchist_Societies.md" class="wikilink"
-title="small town">"small town</a> in the
+title="small town">small town</a> in the
 "<a   href="province_of_Cosenza.md" class="wikilink"
-title="province of Cosenza">"province of Cosenza</a> in
-"<a   href="Calabria.md" class="wikilink" title="Calabria">"Calabria</a>,
-southern "<a   href="Italy.md" class="wikilink" title="Italy">"Italy</a>, which
+title="province of Cosenza">province of Cosenza</a> in
+"<a   href="Calabria.md" class="wikilink" title="Calabria">Calabria</a>,
+southern "<a   href="Italy.md" class="wikilink" title="Italy">Italy</a>, which
 has practiced
-"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
 since
-"<a   href="Timeline_of_Anarchism.md" class="wikilink" title="1992">"1992</a>.
+"<a   href="Timeline_of_Anarchism.md" class="wikilink" title="1992">1992</a>.
 With a population of approximately 7,000 inhabitants, it is one of the
 largest
-"<a   href="Arbëreshë.md" class="wikilink" title="Arbëreshë">"Arbëreshë</a>
+"<a   href="Arbëreshë.md" class="wikilink" title="Arbëreshë">Arbëreshë</a>
 (Italo-Albanian) communities in Italy, maintaining its distinctive
 Albanian language, culture, and traditions since the 15th century.
 
 The town is situated on a hill at approximately 320 meters above sea
 level, overlooking the
-"<a   href="Sibari.md" class="wikilink" title="Sibari">"Sibari</a> plain and
-the "<a   href="Esaro.md" class="wikilink" title="Esaro">"Esaro</a> valley,
+"<a   href="Sibari.md" class="wikilink" title="Sibari">Sibari</a> plain and
+the "<a   href="Esaro.md" class="wikilink" title="Esaro">Esaro</a> valley,
 with views of the
-"<a   href="Pollino.md" class="wikilink" title="Pollino">"Pollino</a> massif.
+"<a   href="Pollino.md" class="wikilink" title="Pollino">Pollino</a> massif.
 It borders the municipalities of
 "<a   href="Terranova_da_Sibari.md" class="wikilink"
-title="Terranova da Sibari">"Terranova da Sibari</a>,
+title="Terranova da Sibari">Terranova da Sibari</a>,
 "<a   href="San_Lorenzo_del_Vallo.md" class="wikilink"
-title="San Lorenzo del Vallo">"San Lorenzo del Vallo</a>,
-"<a   href="Tarsia.md" class="wikilink" title="Tarsia">"Tarsia</a>,
+title="San Lorenzo del Vallo">San Lorenzo del Vallo</a>,
+"<a   href="Tarsia.md" class="wikilink" title="Tarsia">Tarsia</a>,
 "<a   href="Cassano_all&#39;Ionio.md" class="wikilink"
-title="Cassano all&#39;Ionio">"Cassano all'Ionio</a>,
+title="Cassano all&#39;Ionio">Cassano all'Ionio</a>,
 "<a   href="Castrovillari.md" class="wikilink"
-title="Castrovillari">"Castrovillari</a>, and
+title="Castrovillari">Castrovillari</a>, and
 "<a   href="Corigliano-Rossano.md" class="wikilink"
-title="Corigliano-Rossano">"Corigliano-Rossano</a>.
+title="Corigliano-Rossano">Corigliano-Rossano</a>.
 
 ## History
 
@@ -48,13 +48,13 @@ title="Corigliano-Rossano">"Corigliano-Rossano</a>.
 
 After the death of
 "<a   href="Giorgio_Castriota_Scanderbeg.md" class="wikilink"
-title="Giorgio Castriota Scanderbeg">"Giorgio Castriota Scanderbeg</a>
+title="Giorgio Castriota Scanderbeg">Giorgio Castriota Scanderbeg</a>
 (1468), increasingly more Albanian cities and fortresses fell under
-"<a   href="Ottoman_Empire.md" class="wikilink" title="Ottoman">"Ottoman</a>
+"<a   href="Ottoman_Empire.md" class="wikilink" title="Ottoman">Ottoman</a>
 rule. Many Albanians, certain of the hospitality they would receive from
-the "<a   href="Aragonese.md" class="wikilink" title="Aragonese">"Aragonese</a>
+the "<a   href="Aragonese.md" class="wikilink" title="Aragonese">Aragonese</a>
 in the "<a   href="Kingdom_of_Naples.md" class="wikilink"
-title="Kingdom of Naples">"Kingdom of Naples</a>, followed the example of
+title="Kingdom of Naples">Kingdom of Naples</a>, followed the example of
 those who had previously settled in southern Italy and decided to
 abandon their homeland.
 
@@ -85,14 +85,14 @@ Peter and Paul, was consecrated.[^4]
 
 Spezzano Albanese's adventures with anarchism began with community
 organizing efforts in the 1970s, spurred on by the death of Franco in
-"<a   href="Spain.md" class="wikilink" title="Spain">"Spain</a> and
+"<a   href="Spain.md" class="wikilink" title="Spain">Spain</a> and
 reconstruction of the
 "<a   href="National_Confederation_of_Labour_(Spain).md" class="wikilink"
-title="Spanish CNT">"Spanish CNT</a>. The Autonomous Movement and the
+title="Spanish CNT">Spanish CNT</a>. The Autonomous Movement and the
 "<a   href="Piazza_Fontana_Massacre.md" class="wikilink"
-title="Piazza Fontana Massacre">"Piazza Fontana Massacre</a> marked the
+title="Piazza Fontana Massacre">Piazza Fontana Massacre</a> marked the
 beginning of the
-"<a   href="Years_of_Lead.md" class="wikilink" title="Years of Lead">"Years of
+"<a   href="Years_of_Lead.md" class="wikilink" title="Years of Lead">Years of
 Lead</a>.
 
 Two textile factories in the town were threatened with closure, leading
@@ -116,7 +116,7 @@ At the national level, discussions began about reconstructing the USI
 one in Rome and another in Genoa, from which emerged two tendencies. The
 Spezzano anarchists fought strongly for
 "<a   href="anarcho-syndicalism.md" class="wikilink"
-title="anarcho-syndicalism">"anarcho-syndicalism</a> because their
+title="anarcho-syndicalism">anarcho-syndicalism</a> because their
 intervention had brought about their feeling the need for a union
 structure.
 
@@ -144,9 +144,9 @@ With the USZ, work was done for more than 5 years on problems of the
 world of work and unemployment, and they became interested in
 territorial opposition to the town hall. From this
 "<a   href="communalism.md" class="wikilink"
-title="communalist">"communalist</a> and
+title="communalist">communalist</a> and
 "<a   href="municipalism.md" class="wikilink"
-title="municipalist">"municipalist</a> current came, in 1992, the FMB
+title="municipalist">municipalist</a> current came, in 1992, the FMB
 (Federation Municipal of Base).
 
 The diversified mass structures found unity with the USZ, which
@@ -196,7 +196,7 @@ In 1985, during the electoral period, they realized the opportunity to
 create an alternative to this situation. There were strong pressures to
 present a list of candidates; however, over the years they had developed
 an "<a   href="abstentionism.md" class="wikilink"
-title="abstentionist">"abstentionist</a> practice. While a civic list was
+title="abstentionist">abstentionist</a> practice. While a civic list was
 presented in which they refused to participate, they recognized the need
 for a libertarian response to explain again the reasons for their
 abstentionism at national and local level.
@@ -206,8 +206,8 @@ the power of the town hall. While others made their electoral campaign,
 they set up a Committee for the FMB in an attempt to gather together
 everyone who saw themselves in the discourse of
 "<a   href="self-organization.md" class="wikilink"
-title="self-organization">"self-organization</a> and
-"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
+title="self-organization">self-organization</a> and
+"<a   href="direct_action.md" class="wikilink" title="direct action">direct
 action</a> in opposition to the choice of abdication of power in favor
 of the municipal council.
 
@@ -249,7 +249,7 @@ intervention over the years.
 
 Their conception of municipalism differs from that of
 "<a   href="Murray_Bookchin.md" class="wikilink"
-title="Murray Bookchin">"Murray Bookchin</a>. While Bookchin proposes
+title="Murray Bookchin">Murray Bookchin</a>. While Bookchin proposes
 that anarchists should become like other parties, present themselves for
 election, and manage power in town halls, the Spezzano anarchists
 believe that entering into the electoral game causes anarchism to lose
@@ -322,7 +322,7 @@ title="Arbëreshë_costume_(Spezzano_Albanese)01.jpg" />
 Spezzano Albanese maintains its distinctive Albanian cultural identity
 alongside its anarchist practices. The
 "<a   href="Arbëreshë_language.md" class="wikilink"
-title="Arbëreshë language">"Arbëreshë language</a> is protected by
+title="Arbëreshë language">Arbëreshë language</a> is protected by
 Italian legislation for the protection of linguistic minorities (Law No.
 482 of 1999). The municipal administration uses Albanian in official
 documents.
@@ -338,7 +338,7 @@ spear rings hanging from balconies.
 
 Originally, like other Arbëreshë communities, Spezzano Albanese
 maintained the "<a   href="Byzantine_Rite.md" class="wikilink"
-title="Greek-Byzantine rite">"Greek-Byzantine rite</a>. However, due to
+title="Greek-Byzantine rite">Greek-Byzantine rite</a>. However, due to
 pressure from local feudal lords, the community was forced to abandon
 this distinctive religious practice. In 1668, following the imprisonment
 and death of the Greek rite priest Nicola Basta, who opposed
@@ -346,7 +346,7 @@ latinization, the community definitively lost the Greek-Byzantine
 rite.[^5]
 
 When the "<a   href="Eparchy_of_Lungro.md" class="wikilink"
-title="Eparchy of Lungro">"Eparchy of Lungro</a> was established in 1919,
+title="Eparchy of Lungro">Eparchy of Lungro</a> was established in 1919,
 residents were asked if they wanted to return to their original
 Greek-Byzantine rite, but the local archpriest ensured the community
 continued with the Latin rite.
@@ -355,16 +355,16 @@ continued with the Latin rite.
 
 The municipality borders
 "<a   href="Cassano_all&#39;Ionio.md" class="wikilink"
-title="Cassano all&#39;Ionio">"Cassano all'Ionio</a>,
+title="Cassano all&#39;Ionio">Cassano all'Ionio</a>,
 "<a   href="Castrovillari.md" class="wikilink"
-title="Castrovillari">"Castrovillari</a>,
+title="Castrovillari">Castrovillari</a>,
 "<a   href="Corigliano-Rossano.md" class="wikilink"
-title="Corigliano-Rossano">"Corigliano-Rossano</a>,
+title="Corigliano-Rossano">Corigliano-Rossano</a>,
 "<a   href="San_Lorenzo_del_Vallo.md" class="wikilink"
-title="San Lorenzo del Vallo">"San Lorenzo del Vallo</a>,
-"<a   href="Tarsia.md" class="wikilink" title="Tarsia">"Tarsia</a>, and
+title="San Lorenzo del Vallo">San Lorenzo del Vallo</a>,
+"<a   href="Tarsia.md" class="wikilink" title="Tarsia">Tarsia</a>, and
 "<a   href="Terranova_da_Sibari.md" class="wikilink"
-title="Terranova da Sibari">"Terranova da Sibari</a>. The territory
+title="Terranova da Sibari">Terranova da Sibari</a>. The territory
 includes the fractions of Spezzano Albanese Scalo and Spezzano Albanese
 Terme.
 
@@ -381,11 +381,11 @@ title="Torre_Mordillo_pianoro.jpg" />
 </figure>
 
 The territory contains several archaeological sites, including
-"<a   href="Torre_Mordillo.md" class="wikilink" title="Torre Mordillo">"Torre
+"<a   href="Torre_Mordillo.md" class="wikilink" title="Torre Mordillo">Torre
 Mordillo</a>, which features remains of an Iron Age settlement with a
 necropolis. The only visible artifact is the circular tower that gives
 the place its name. The "<a   href="Castle_of_Scribla.md" class="wikilink"
-title="Castle of Scribla">"Castle of Scribla</a> shows remains of a
+title="Castle of Scribla">Castle of Scribla</a> shows remains of a
 Norman military settlement.
 
 ## Current Status
@@ -410,14 +410,14 @@ alternatives remains a defining characteristic of this unique community.
 
 Spezzano Albanese' adventures with anarchism began with community
 organizing efforts in the 1970s spurred on by the death of Franco in
-"<a   href="Spain.md" class="wikilink" title="Spain">"Spain</a> and
+"<a   href="Spain.md" class="wikilink" title="Spain">Spain</a> and
 reconstruction of the
 "<a   href="National_Confederation_of_Labour_(Spain).md" class="wikilink"
-title="Spanish CNT">"Spanish CNT</a>. The Autonomous Movement and the
+title="Spanish CNT">Spanish CNT</a>. The Autonomous Movement and the
 "<a   href="Piazza_Fontana_Massacre.md" class="wikilink"
-title="Piazza Fontana Massacre">"Piazza Fontana Massacre</a>, the
+title="Piazza Fontana Massacre">Piazza Fontana Massacre</a>, the
 beginning of the
-"<a   href="Years_of_Lead.md" class="wikilink" title="Years of Lead">"Years of
+"<a   href="Years_of_Lead.md" class="wikilink" title="Years of Lead">Years of
 Lead</a>.
 
 Two textile factories in the town were threatened with closure, and so
@@ -824,31 +824,31 @@ not exist. And without it we can't see what will come out of it.
 <references/>
 
 "<a   href="Category:Societies.md" class="wikilink"
-title="Category:Societies">"Category:Societies</a>
+title="Category:Societies">Category:Societies</a>
 "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Community_Organizing.md" class="wikilink"
-title="Category:Community Organizing">"Category:Community Organizing</a>
+title="Category:Community Organizing">Category:Community Organizing</a>
 "<a   href="Category:Southern_Europe.md" class="wikilink"
-title="Category:Southern Europe">"Category:Southern Europe</a>
+title="Category:Southern Europe">Category:Southern Europe</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:Italy.md" class="wikilink"
-title="Category:Italy">"Category:Italy</a>
+title="Category:Italy">Category:Italy</a>
 "<a   href="Category:1992.md" class="wikilink"
-title="Category:1992">"Category:1992</a>
+title="Category:1992">Category:1992</a>
 "<a   href="Category:1990s.md" class="wikilink"
-title="Category:1990s">"Category:1990s</a>
+title="Category:1990s">Category:1990s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: AA. VV. *Dizionario di toponomastica. Storia e significato dei
     nomi geografici italiani*. Turin: UTET, 1990. p. 635

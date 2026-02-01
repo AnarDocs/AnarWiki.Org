@@ -1,14 +1,14 @@
 **The Red Guard Party** was a
-"<a   href="Maoism.md" class="wikilink" title="Maoist">"Maoist</a> and
+"<a   href="Maoism.md" class="wikilink" title="Maoist">Maoist</a> and
 "<a   href="Anti-Racism.md" class="wikilink"
-title="anti-racist">"anti-racist</a> group consisting of Chinese
+title="anti-racist">anti-racist</a> group consisting of Chinese
 Americans formed in San Francisco,
-"<a   href="United_States_of_America.md" class="wikilink" title="USA">"USA</a>
+"<a   href="United_States_of_America.md" class="wikilink" title="USA">USA</a>
 in February "<a   href="Revolutions_of_1967_-_1975.md" class="wikilink"
-title="1969">"1969</a>, naming the group after the
-"<a   href="Red_Guards_(China).md" class="wikilink" title="Red Guards">"Red
+title="1969">1969</a>, naming the group after the
+"<a   href="Red_Guards_(China).md" class="wikilink" title="Red Guards">Red
 Guards</a> of "<a   href="Cultural_Revolution_(China).md" class="wikilink"
-title="Chinese Cultural Revolution">"Chinese Cultural Revolution</a>.
+title="Chinese Cultural Revolution">Chinese Cultural Revolution</a>.
 
 ## Background
 
@@ -20,7 +20,7 @@ Chinese people - throughout its history.
 The Red Guard formation resulted from several societal and economic
 pressures combined in the late 1960s. During that time, the
 "<a   href="Black_Panther_Party.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a> had already gained
+title="Black Panther Party">Black Panther Party</a> had already gained
 significant media and community attention for their militaristic actions
 and struggles for self-determination and third world solidarity, and for
 the opposing governmental oppression. San Francisco's Chinatown was
@@ -38,7 +38,7 @@ to discuss openly revolutionary ideas and their disdain for the
 government that had contributed to their social injustice. Alex Hing,
 though not a founding member, provided leadership to the Red Guards.
 Under the "<a   href="Students_for_a_Democratic_Society.md" class="wikilink"
-title="Students for a Democratic Society">"Students for a Democratic
+title="Students for a Democratic Society">Students for a Democratic
 Society</a>, Hing learned many leadership skills which he utilized in
 helping form the Red Guard. While advocating for Ethnic Studies at local
 community college, he read works promoted by the Black Panther Party
@@ -218,6 +218,6 @@ with such a controversial name symbolized the Red Guard's abrasive
 nature that may have helped lead to their dissolution.
 
 "<a   href="Category:USA.md" class="wikilink"
-title="Category:USA">"Category:USA</a>
+title="Category:USA">Category:USA</a>
 "<a   href="Category:North_America.md" class="wikilink"
-title="Category:North America">"Category:North America</a>
+title="Category:North America">Category:North America</a>

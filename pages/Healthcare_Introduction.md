@@ -149,12 +149,12 @@ naturally as communities provide clean water or food assistance.
 ## See Also
 
 See the
-"<a   href="Healthcare.md" class="wikilink" title="Healthcare">"Healthcare</a>
+"<a   href="Healthcare.md" class="wikilink" title="Healthcare">Healthcare</a>
 article for a more detailed overview of this topic with historical and
 contemporary references.
 
 Return To "<a   href="Introduction_to_Anarchism.md" class="wikilink"
-title="Introduction to Anarchism">"Introduction to Anarchism</a>
+title="Introduction to Anarchism">Introduction to Anarchism</a>
 
 "<a   href="Category:Healthcare.md" class="wikilink"
-title="Category:Healthcare">"Category:Healthcare</a>
+title="Category:Healthcare">Category:Healthcare</a>

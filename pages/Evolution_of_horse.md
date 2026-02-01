@@ -15,7 +15,7 @@ evolutionary process. Bookchin writes:
 
 Peter Kropotkin, in
 "<a   href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
-title="Mutual Aid: A Factor of Evolution">"Mutual Aid: A Factor of
+title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
 Evolution</a>, describes how horses live in societies and practice
 mutual aid:
 

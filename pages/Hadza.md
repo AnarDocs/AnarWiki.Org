@@ -293,13 +293,13 @@ unnecessarily."[^44]
 <references/>
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Matriarchy.md" class="wikilink"
-title="Category:Matriarchy">"Category:Matriarchy</a>
+title="Category:Matriarchy">Category:Matriarchy</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: “Africa’s ancient hunter gatherers struggle for survival,” *BBC*
     video, 18 April 2014,

@@ -52,24 +52,24 @@ Supracracy?](https://rosesandresistance.substack.com/p/what-is-a-supracracy)
   blog
 
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Ideology.md" class="wikilink"
-title="Category:Ideology">"Category:Ideology</a>
+title="Category:Ideology">Category:Ideology</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Anarchisms.md" class="wikilink"
-title="Category:Anarchisms">"Category:Anarchisms</a>
+title="Category:Anarchisms">Category:Anarchisms</a>
 "<a   href="Category:Strategies.md" class="wikilink"
-title="Category:Strategies">"Category:Strategies</a>
+title="Category:Strategies">Category:Strategies</a>
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>

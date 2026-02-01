@@ -2,14 +2,14 @@
 
 **CrimethInc.**, also known as the **CrimethInc Ex-Workers Collective**
 or **CWC**, is a "<a   href="Decentralization.md" class="wikilink"
-title="decentralized">"decentralized</a>
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
-"<a   href="collective.md" class="wikilink" title="collective">"collective</a>
+title="decentralized">decentralized</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
+"<a   href="collective.md" class="wikilink" title="collective">collective</a>
 of autonomous cells operating globally.[^1] They represent a big tent of
 anarchist ideologies, allowing groups within CrimethInc. to operate with
 relative autonomy while maintaining shared principles of
 anti-authoritarianism and direct action. The collective has produced
-numerous books, "<a   href="zine.md" class="wikilink" title="zine">"zines</a>,
+numerous books, "<a   href="zine.md" class="wikilink" title="zine">zines</a>,
 and other pieces of anarchist media since its formation, becoming one of
 the most recognizable names in contemporary North American anarchist
 publishing.
@@ -19,7 +19,7 @@ publishing.
 ### Origins
 
 CrimethInc. emerged from the mid-1990s
-"<a   href="hardcore_punk.md" class="wikilink" title="hardcore punk">"hardcore
+"<a   href="hardcore_punk.md" class="wikilink" title="hardcore punk">hardcore
 punk</a> scene, initially manifesting as the zine *Inside Front* before
 evolving into a collective structure in 1996.[^2] The project grew out
 of a desire to bridge the gap between punk culture and anarchist
@@ -27,11 +27,11 @@ politics, creating a platform for radical ideas that could reach beyond
 traditional activist circles.
 
 The name "CrimethInc." serves as both a reference to
-"<a   href="George_Orwell.md" class="wikilink" title="George Orwell">"George
+"<a   href="George_Orwell.md" class="wikilink" title="George Orwell">George
 Orwell</a>'s concept of ""<a   href="thoughtcrime.md" class="wikilink"
-title="thoughtcrime">"thoughtcrime</a>" from
+title="thoughtcrime">thoughtcrime</a>" from
 *"<a   href="Nineteen_Eighty-Four.md" class="wikilink"
-title="Nineteen Eighty-Four">"Nineteen Eighty-Four</a>* and a satirical
+title="Nineteen Eighty-Four">Nineteen Eighty-Four</a>* and a satirical
 commentary on the hypocrisy often found in revolutionary movements.[^3]
 This self-reflexive critique has remained central to the collective's
 approach, acknowledging the contradictions inherent in operating within
@@ -49,8 +49,8 @@ single anarchist doctrine.[^4]
 
 CrimethInc. operates on principles of
 "<a   href="decentralization.md" class="wikilink"
-title="decentralization">"decentralization</a> and
-"<a   href="autonomy.md" class="wikilink" title="autonomy">"autonomy</a>, with
+title="decentralization">decentralization</a> and
+"<a   href="autonomy.md" class="wikilink" title="autonomy">autonomy</a>, with
 individual cells and contributors maintaining independence while sharing
 resources and ideas. The collective explicitly rejects hierarchical
 organization, instead functioning as a loose network of affinity groups
@@ -59,10 +59,10 @@ united by shared anarchist principles.
 Anyone can publish under the CrimethInc. name or utilize their visual
 materials, as the collective operates under an anti-copyright philosophy
 embodied in their N©!
-"<a   href="free_license.md" class="wikilink" title="free license">"free
+"<a   href="free_license.md" class="wikilink" title="free license">free
 license</a>.[^5] This approach extends their critique of
 "<a   href="intellectual_property.md" class="wikilink"
-title="intellectual property">"intellectual property</a> into practice,
+title="intellectual property">intellectual property</a> into practice,
 treating ideas as common resources rather than private property.
 
 The collective maintains several websites operated by different cells,
@@ -91,21 +91,21 @@ influential publications include:
 
 The collective also produces and distributes documentaries such as
 *Breaking the Spell*, which documented protests against
-"<a   href="neoliberal.md" class="wikilink" title="neoliberal">"neoliberal</a>
+"<a   href="neoliberal.md" class="wikilink" title="neoliberal">neoliberal</a>
 trade policies, and *PickAxe*, focusing on
 "<a   href="environmental_activism.md" class="wikilink"
-title="environmental activism">"environmental activism</a> against
+title="environmental activism">environmental activism</a> against
 logging operations.[^8]
 
 ### Direct Action and Campaigns
 
 Various CrimethInc. cells have supported large-scale
-"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
+"<a   href="direct_action.md" class="wikilink" title="direct action">direct
 action</a> campaigns including protests against the
 "<a   href="Free_Trade_Area_of_the_Americas.md" class="wikilink"
-title="Free Trade Area of the Americas">"Free Trade Area of the
+title="Free Trade Area of the Americas">Free Trade Area of the
 Americas</a> in Miami (2003) and counter-recruitment activities during
-the "<a   href="Iraq_War.md" class="wikilink" title="Iraq War">"Iraq War</a>.
+the "<a   href="Iraq_War.md" class="wikilink" title="Iraq War">Iraq War</a>.
 The collective has promoted campaigns such as "Steal Something From Work
 Day" every April 15th, coinciding with Tax Day, as a form of workplace
 resistance.[^9]
@@ -113,8 +113,8 @@ resistance.[^9]
 Some individuals operating under the CrimethInc. banner have engaged in
 more militant activities, including
 "<a   href="Earth_Liberation_Front.md" class="wikilink"
-title="Earth Liberation Front">"Earth Liberation Front</a> actions and
-"<a   href="hacktivism.md" class="wikilink" title="hacktivism">"hacktivism</a>
+title="Earth Liberation Front">Earth Liberation Front</a> actions and
+"<a   href="hacktivism.md" class="wikilink" title="hacktivism">hacktivism</a>
 targeting government and corporate websites.[^10]
 
 ### Convergences
@@ -127,13 +127,13 @@ generated significant media attention.[^11]
 
 The convergences embodied the collective's philosophy of
 "<a   href="prefigurative_politics.md" class="wikilink"
-title="prefigurative politics">"prefigurative politics</a>, creating
+title="prefigurative politics">prefigurative politics</a>, creating
 temporary autonomous zones where participants could experiment with
 non-hierarchical organization and
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>.
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>.
 Activities ranged from practical skills workshops on topics like
 lock-picking and "<a   href="permaculture.md" class="wikilink"
-title="permaculture">"permaculture</a> to theoretical discussions of
+title="permaculture">permaculture</a> to theoretical discussions of
 anarchist philosophy and strategy.
 
 Following 2009, the collective shifted toward touring formats like "We
@@ -145,11 +145,11 @@ requiring people to travel to centralized gatherings.
 
 CrimethInc. maintains strong connections to the
 "<a   href="anarcho-punk.md" class="wikilink"
-title="anarcho-punk">"anarcho-punk</a> scene, having emerged from that
+title="anarcho-punk">anarcho-punk</a> scene, having emerged from that
 milieu and continuing to support bands through their record label. They
 have released music from groups including
 "<a   href="Catharsis_(American_band).md" class="wikilink"
-title="Catharsis">"Catharsis</a>, Zegota, and From the Depths, alongside
+title="Catharsis">Catharsis</a>, Zegota, and From the Depths, alongside
 maintaining *Inside Front* as a journal bridging hardcore punk and
 anarchist politics.
 
@@ -161,11 +161,11 @@ commodification while maintaining accessibility.[^12]
 
 CrimethInc.'s political philosophy draws primarily from
 "<a   href="post-left_anarchism.md" class="wikilink"
-title="post-left anarchism">"post-left anarchism</a>,
+title="post-left anarchism">post-left anarchism</a>,
 "<a   href="situationism.md" class="wikilink"
-title="situationism">"situationism</a>, and
+title="situationism">situationism</a>, and
 "<a   href="insurrectionary_anarchism.md" class="wikilink"
-title="insurrectionary anarchism">"insurrectionary anarchism</a>. Rather
+title="insurrectionary anarchism">insurrectionary anarchism</a>. Rather
 than promoting a single ideological line, the collective encourages
 critical engagement with all belief systems, including anarchism itself.
 
@@ -180,7 +180,7 @@ revolutionary organizing within oppressive systems.
 Key themes in CrimethInc. materials include:
 
 - **Refusal of Work** - critiquing wage labor as a form of
-  "<a   href="alienation.md" class="wikilink" title="alienation">"alienation</a>
+  "<a   href="alienation.md" class="wikilink" title="alienation">alienation</a>
   and exploring alternatives to traditional employment[^13]
 - **Anti-Civilization** - questioning technological society and
   exploring more sustainable ways of living
@@ -193,31 +193,31 @@ Key themes in CrimethInc. materials include:
 
 The collective draws heavily from the
 "<a   href="Situationist_International.md" class="wikilink"
-title="Situationist International">"Situationist International</a>,
+title="Situationist International">Situationist International</a>,
 particularly their critiques of
 "<a   href="spectacular_society.md" class="wikilink"
-title="spectacular society">"spectacular society</a> and emphasis on
+title="spectacular society">spectacular society</a> and emphasis on
 creating situations that disrupt everyday life.[^14] Scholar Martin
 Puchner has described them as "inheritors of the political
 "<a   href="avant-garde.md" class="wikilink"
-title="avant-garde">"avant-garde</a>," connecting their work to
+title="avant-garde">avant-garde</a>," connecting their work to
 historical traditions of revolutionary cultural practice.[^15]
 
 CrimethInc. materials frequently reference classical anarchist thinkers
 while updating their ideas for contemporary contexts. They particularly
 draw from "<a   href="individualist_anarchism.md" class="wikilink"
-title="individualist anarchism">"individualist anarchism</a> and
+title="individualist anarchism">individualist anarchism</a> and
 "<a   href="egoist_anarchism.md" class="wikilink"
-title="egoist anarchism">"egoist anarchism</a>, though they reject
+title="egoist anarchism">egoist anarchism</a>, though they reject
 "<a   href="anarcho-capitalism.md" class="wikilink"
-title="anarcho-capitalism">"anarcho-capitalism</a> and maintain
+title="anarcho-capitalism">anarcho-capitalism</a> and maintain
 commitment to anti-oppression politics.
 
 ### Critiques of Democracy
 
 Unlike many anarchists who view
 "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> as compatible with
+title="direct democracy">direct democracy</a> as compatible with
 anarchist principles, CrimethInc. maintains a more critical stance
 toward democratic processes. They argue that democracy, even in
 participatory forms, can suppress individual autonomy in favor of
@@ -237,7 +237,7 @@ anarchist movements:
 
 Some academic critics have accused the collective of promoting
 "<a   href="lifestyle_anarchism.md" class="wikilink"
-title="lifestyle anarchism">"lifestyle anarchism</a> at the expense of
+title="lifestyle anarchism">lifestyle anarchism</a> at the expense of
 serious political organizing. George MacDonald Ross has criticized their
 anti-copyright stance as essentially endorsing plagiarism, though
 supporters argue this misunderstands their critique of intellectual
@@ -264,7 +264,7 @@ risks faced by those associated with militant anarchist organizing.[^18]
 
 In 2021, their downtown Olympia publishing location was destroyed in a
 fire, and in 2022,
-"<a   href="Elon_Musk.md" class="wikilink" title="Elon Musk">"Elon Musk</a>
+"<a   href="Elon_Musk.md" class="wikilink" title="Elon Musk">Elon Musk</a>
 banned their Twitter account following complaints from right-wing
 influencers, which CrimethInc. characterized as politically motivated
 censorship.[^19]
@@ -279,9 +279,9 @@ censorship.[^19]
 <references/>
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 "<a   href="Category:Organizations.md" class="wikilink"
-title="Category:Organizations">"Category:Organizations</a>
+title="Category:Organizations">Category:Organizations</a>
 
 [^1]: Thompson, Stacy (2004). Punk Productions: Unfinished Business.
     SUNY Press. p. 109

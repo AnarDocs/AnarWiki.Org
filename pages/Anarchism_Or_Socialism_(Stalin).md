@@ -501,13 +501,13 @@ anarchism and socialism that Stalin tried so desperately to tear apart.
 ## See Also
 
 - "<a   href="Marxist_Misrepresentations.md" class="wikilink"
-  title="Marxist Misrepresentations Of Anarchism">"Marxist
+  title="Marxist Misrepresentations Of Anarchism">Marxist
   Misrepresentations Of Anarchism</a>
 - "<a   href="Anarchist_Views_on_Marxism.md" class="wikilink"
-  title="Anarchist Views On Marxism">"Anarchist Views On Marxism</a>
+  title="Anarchist Views On Marxism">Anarchist Views On Marxism</a>
 - "<a   href="Marxist-Leninist_Persecution_Of_Anarchists.md" class="wikilink"
-  title="Marxist-Leninist Persecution Of Anarchists">"Marxist-Leninist
+  title="Marxist-Leninist Persecution Of Anarchists">Marxist-Leninist
   Persecution Of Anarchists</a>
 
 "<a   href="Category:Marxism.md" class="wikilink"
-title="Category:Marxism">"Category:Marxism</a>
+title="Category:Marxism">Category:Marxism</a>

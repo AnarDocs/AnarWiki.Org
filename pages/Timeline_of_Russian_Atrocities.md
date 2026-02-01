@@ -1,7 +1,7 @@
 A timeline of atrocities committed by
-"<a   href="Russia.md" class="wikilink" title="Russia">"Russia</a> since 1991,
+"<a   href="Russia.md" class="wikilink" title="Russia">Russia</a> since 1991,
 for a list of those committed by the
-"<a   href="USSR.md" class="wikilink" title="USSR">"USSR</a>, see here.
+"<a   href="USSR.md" class="wikilink" title="USSR">USSR</a>, see here.
 
 ## 1999
 
@@ -25,28 +25,28 @@ for a list of those committed by the
 ## See Also
 
 - "<a   href="Timeline_of_US_Imperialism.md" class="wikilink"
-  title="Timeline of US Imperialism">"Timeline of US Imperialism</a>
+  title="Timeline of US Imperialism">Timeline of US Imperialism</a>
 
 ## References
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Timelines.md" class="wikilink"
-title="Category:Timelines">"Category:Timelines</a>
+title="Category:Timelines">Category:Timelines</a>
 "<a   href="Category:Russia.md" class="wikilink"
-title="Category:Russia">"Category:Russia</a>
+title="Category:Russia">Category:Russia</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:Eastern_Europe.md" class="wikilink"
-title="Category:Eastern Europe">"Category:Eastern Europe</a>
+title="Category:Eastern Europe">Category:Eastern Europe</a>
 "<a   href="Category:Northern_Asia.md" class="wikilink"
-title="Category:Northern Asia">"Category:Northern Asia</a>
+title="Category:Northern Asia">Category:Northern Asia</a>
 
-[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^1]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Russian_apartment_bombings#Theory_of_Russian_government_involvement>
 
-[^2]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^2]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Armenian_parliament_shooting>
 
-[^3]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^3]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Alexander_Litvinenko#Allegations>

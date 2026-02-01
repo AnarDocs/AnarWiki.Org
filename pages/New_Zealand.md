@@ -1,10 +1,10 @@
 **New Zealand** or **Aotearoa**is a
-"<a   href="Liberalism.md" class="wikilink" title="liberal">"liberal</a>
-"<a   href="Colonialism.md" class="wikilink" title="colonial">"colonial</a>
-"<a   href="Capitalism.md" class="wikilink" title="capitalist">"capitalist</a>
-"<a   href="List_of_States.md" class="wikilink" title="state">"state</a>
+"<a   href="Liberalism.md" class="wikilink" title="liberal">liberal</a>
+"<a   href="Colonialism.md" class="wikilink" title="colonial">colonial</a>
+"<a   href="Capitalism.md" class="wikilink" title="capitalist">capitalist</a>
+"<a   href="List_of_States.md" class="wikilink" title="state">state</a>
 located in Oceania near
-"<a   href="Australia.md" class="wikilink" title="Australia">"Australia</a>.
+"<a   href="Australia.md" class="wikilink" title="Australia">Australia</a>.
 
 ## Positives
 
@@ -34,7 +34,7 @@ located in Oceania near
 - 1995: Pakaitore Occupation
 - 2005 - 2011:
   "<a   href="New_Zealand_Strike_Wave_(2005_-_2011).md" class="wikilink"
-  title="New Zealand Strike Wave">"New Zealand Strike Wave</a>
+  title="New Zealand Strike Wave">New Zealand Strike Wave</a>
 - 2005: Super Size My Pay
 - 2005: Starbucks Strike
 - 2006: Student Protests
@@ -66,14 +66,14 @@ located in Oceania near
 - Tom Barker
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:New_Zealand.md" class="wikilink"
-title="Category:New Zealand">"Category:New Zealand</a>
+title="Category:New Zealand">Category:New Zealand</a>
 "<a   href="Category:Oceania.md" class="wikilink"
-title="Category:Oceania">"Category:Oceania</a>
+title="Category:Oceania">Category:Oceania</a>
 "<a   href="Category:States.md" class="wikilink"
-title="Category:States">"Category:States</a>
+title="Category:States">Category:States</a>
 "<a   href="Category:Liberal_States.md" class="wikilink"
-title="Category:Liberal States">"Category:Liberal States</a>
+title="Category:Liberal States">Category:Liberal States</a>
 "<a   href="Category:Colonial_States.md" class="wikilink"
-title="Category:Colonial States">"Category:Colonial States</a>
+title="Category:Colonial States">Category:Colonial States</a>

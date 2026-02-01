@@ -15,11 +15,11 @@ criticized Yugoslavian state-capitalism:
 <references/>
 
 "<a   href="Category:Serbia.md" class="wikilink"
-title="Category:Serbia">"Category:Serbia</a>
+title="Category:Serbia">Category:Serbia</a>
 "<a   href="Category:Anarchist_Organizations.md" class="wikilink"
-title="Category:Anarchist Organizations">"Category:Anarchist
+title="Category:Anarchist Organizations">Category:Anarchist
 Organizations</a> "<a   href="Category:Organizations.md" class="wikilink"
-title="Category:Organizations">"Category:Organizations</a>
+title="Category:Organizations">Category:Organizations</a>
 
 [^1]: Andrej Grubacic, Don't Mourn, Balkanize!: Essays After Yugoslavia
     (Oakland: PM Press, 2010) 189-200.

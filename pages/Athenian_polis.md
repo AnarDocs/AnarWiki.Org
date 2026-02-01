@@ -286,7 +286,7 @@ democracy and imposed oligarchical government on the city.[^22]
     Biehl,
     "<a   href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
     class="wikilink"
-    title="The Politics of Social Ecology: Libertarian Municipalism">"The
+    title="The Politics of Social Ecology: Libertarian Municipalism">The
     Politics of Social Ecology: Libertarian Municipalism</a>. John A.
     Rothchild, "Introduction to Athenian Democracy of the Fifth and
     Fourth Centuries BCE,"

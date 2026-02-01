@@ -1,12 +1,12 @@
 Post-Left Anarchism refers to a broad tendency which critiques
 traditional
-"<a   href="Leftism.md" class="wikilink" title="Leftism">"Leftism</a> in its
+"<a   href="Leftism.md" class="wikilink" title="Leftism">Leftism</a> in its
 relation to
-"<a   href="Anarchism.md" class="wikilink" title="Anarchism">"Anarchism</a> and
+"<a   href="Anarchism.md" class="wikilink" title="Anarchism">Anarchism</a> and
 "<a   href="Hierarchy_Introduction.md" class="wikilink"
-title="Hierarchy">"Hierarchy</a> in particular. Post-Left Anarchists tend
+title="Hierarchy">Hierarchy</a> in particular. Post-Left Anarchists tend
 to critique the Left from an "<a   href="Anti-Politics.md" class="wikilink"
-title="Anti-Political">"Anti-Political</a> perspective, not to be
+title="Anti-Political">Anti-Political</a> perspective, not to be
 confused for an embrace of the political Right or Centre. The term
 "Post-Left Anarchism" was coined, or at least popularized, by Bob Black
 in his 1997 book *Anarchy After Leftism,* which critiqued Bookchin,
@@ -21,18 +21,18 @@ attachment to concepts regarding, but not limited to:
 
 - Organization
 - "<a   href="Revolution.md" class="wikilink"
-  title="Revolutionary">"Revolutionary</a> Idealism
+  title="Revolutionary">Revolutionary</a> Idealism
 - Collective Ideology
 - Morality
-- "<a   href="Workerism.md" class="wikilink" title="Workerism">"Workerism</a>
+- "<a   href="Workerism.md" class="wikilink" title="Workerism">Workerism</a>
 - and Rigid Ideological Conformity.[^2]
 
 They often cite the arisal of soft-hierarchies within Leftist
 organizations and social circles, criticizing the notion that
 "<a   href="Direct_Democracy.md" class="wikilink"
-title="directly democratic">"directly democratic</a> and
+title="directly democratic">directly democratic</a> and
 "<a   href="Consensus_Democracy.md" class="wikilink"
-title="consensus-based">"consensus-based</a> organizations are
+title="consensus-based">consensus-based</a> organizations are
 Anarchistic in their structure. Post-Left Anarchism tends to reject the
 ideas that "Anarchism means no rulers, not no rules" and that "Anarchism
 is not against all hierarchies, it's against unjust hierarchies." The
@@ -47,9 +47,9 @@ criticizes revolutionary idealism, rejecting that one should wait for
 revolutionary conditions to be met to achieve their autonomy. Instead
 they embrace momentary acts of
 "<a   href="Insurrectionary_Anarchism.md" class="wikilink"
-title="Insurrection">"Insurrection</a> in which individuals and their
+title="Insurrection">Insurrection</a> in which individuals and their
 "<a   href="Affinity_Group.md" class="wikilink"
-title="affinity groups">"affinity groups</a> reclaim their autonomy in
+title="affinity groups">affinity groups</a> reclaim their autonomy in
 the present.
 
 ## Influences on Post-Left Anarchist Thought
@@ -60,19 +60,19 @@ coinage of the term, as well as more contemporary sources. The tendency
 often references influences from, but not limited to:
 
 - "<a   href="Individualist_Anarchism.md" class="wikilink"
-  title="Individualist Anarchism">"Individualist Anarchism</a>
-- "<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner&#39;s">"Max
+  title="Individualist Anarchism">Individualist Anarchism</a>
+- "<a   href="Max_Stirner.md" class="wikilink" title="Max Stirner&#39;s">Max
   Stirner's</a>
-  "<a   href="Egoism.md" class="wikilink" title="Egoism">"Egoism</a>[^4]
-- "<a   href="Renzo_Novatore.md" class="wikilink" title="Renzo Novatore">"Renzo
+  "<a   href="Egoism.md" class="wikilink" title="Egoism">Egoism</a>[^4]
+- "<a   href="Renzo_Novatore.md" class="wikilink" title="Renzo Novatore">Renzo
   Novatore</a>[^5]
 - "<a   href="Anarchist_Nihilism.md" class="wikilink"
-  title="Nihilism">"Nihilism</a>
-- "<a   href="Illegalism.md" class="wikilink" title="Illegalism">"Illegalism</a>
+  title="Nihilism">Nihilism</a>
+- "<a   href="Illegalism.md" class="wikilink" title="Illegalism">Illegalism</a>
 - Insurrectionary Anarchist currents
 - "<a   href="Alfredo_M._Bonano.md" class="wikilink"
-  title="Alfredo M. Bonano">"Alfredo M. Bonano</a>[^6]
-- "<a   href="Anti-Work.md" class="wikilink" title="Anti-Work">"Anti-Work</a>
+  title="Alfredo M. Bonano">Alfredo M. Bonano</a>[^6]
+- "<a   href="Anti-Work.md" class="wikilink" title="Anti-Work">Anti-Work</a>
   thought[^7]
 - as well as countless Zines, Poems, Songs, and other artforms by
   Anarchists who break from the traditional forms of theory writing.

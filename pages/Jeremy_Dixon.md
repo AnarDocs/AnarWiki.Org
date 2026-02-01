@@ -1,5 +1,5 @@
 **Jeremy Dixon** is an
-"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a> and
+"<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a> and
 lawyer from Naarm/Melbourne, Australia.
 
 In 1991, he was arrested by police in Melbourne during protests against
@@ -10,6 +10,6 @@ Anarcho-Syndicalism?* which can be read here:
 <http://www.spunk.org/texts/intro/sp001530.html>
 
 "<a   href="Category:Australian_anarchists.md" class="wikilink"
-title="Category:Australian anarchists">"Category:Australian
+title="Category:Australian anarchists">Category:Australian
 anarchists</a> "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>

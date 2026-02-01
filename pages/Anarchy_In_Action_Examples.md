@@ -173,7 +173,7 @@ change both themselves and the world.
 
 # A.5.1 The Paris Commune
 
-The "<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
+The "<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
 Commune</a> of 1871 played an important role in the development of both
 anarchist ideas and the movement. As Bakunin commented at the time,
 
@@ -1309,7 +1309,7 @@ socialism. As Voline puts it:
 > \[Voline, **Op. Cit.**, pp. 537-8\]
 
 In the "<a   href="Revolutionary_Ukraine.md" class="wikilink"
-title="Ukraine">"Ukraine</a>, anarchist ideas were most successfully
+title="Ukraine">Ukraine</a>, anarchist ideas were most successfully
 applied. In areas under the protection of the Makhnovist movement,
 working class people organised their own lives directly, based on their
 own ideas and needs -- true social self-determination. Under the

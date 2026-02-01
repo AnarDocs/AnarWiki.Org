@@ -1,11 +1,11 @@
 A timeline of the creation and maintenance of the
 "<a   href="Portuguese_Empire.md" class="wikilink"
-title="Portuguese Empire">"Portuguese Empire</a>.
+title="Portuguese Empire">Portuguese Empire</a>.
 
 ## 1400s
 
 - 1415: Portugal colonises Ceuta in
-  "<a   href="Morocco.md" class="wikilink" title="Morocco">"Morocco</a>, but it
+  "<a   href="Morocco.md" class="wikilink" title="Morocco">Morocco</a>, but it
   was quickly recaptured.
 - 1415:Henry the Navigator, a Portuguese Prince, explores coastal
   Africa. The Battle of Ceuta is fought, during which the Portuguese
@@ -141,8 +141,8 @@ title="Portuguese Empire">"Portuguese Empire</a>.
   effectively ending the Portuguese overseas empire.
 
 "<a   href="Category:Timelines.md" class="wikilink"
-title="Category:Timelines">"Category:Timelines</a>
+title="Category:Timelines">Category:Timelines</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>

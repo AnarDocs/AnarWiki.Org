@@ -3,9 +3,9 @@ assimilation process during which non-Russian communities (whether
 involuntarily or voluntarily) give up their culture and language in
 favor of Russian culture. The term also refers to both official and
 unofficial policies of the
-"<a   href="Russian_Empire.md" class="wikilink" title="Russian Empire">"Russian
-Empire</a>, the "<a   href="USSR.md" class="wikilink" title="USSR">"USSR</a>
-and modern "<a   href="Russia.md" class="wikilink" title="Russia">"Russia</a>
+"<a   href="Russian_Empire.md" class="wikilink" title="Russian Empire">Russian
+Empire</a>, the "<a   href="USSR.md" class="wikilink" title="USSR">USSR</a>
+and modern "<a   href="Russia.md" class="wikilink" title="Russia">Russia</a>
 that placed Russians ahead of ethnic minorities throughout the country.
 
 ## History

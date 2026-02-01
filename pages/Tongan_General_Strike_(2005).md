@@ -1,9 +1,9 @@
 The **Tongan General Strike of 2005** was a general
 "<a   href="List_of_General_Strikes.md" class="wikilink"
-title="strike">"strike</a> by public service workers in
-"<a   href="Tonga.md" class="wikilink" title="Tonga">"Tonga</a> in
+title="strike">strike</a> by public service workers in
+"<a   href="Tonga.md" class="wikilink" title="Tonga">Tonga</a> in
 "<a   href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
-title="2005">"2005</a>.
+title="2005">2005</a>.
 
 ## Background
 
@@ -68,7 +68,7 @@ college principal and other senior staff who had been dismissed for
 supporting the strike. Although the vandalism was not sanctioned by the
 PSA, the media jumped on this as an outbreak of violence in the
 campaign. The
-"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">"New
+"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">New
 Zealand</a> government offered to help Tonga resolve the strike in
 response to the violence, but the PSA refused.
 
@@ -78,16 +78,16 @@ The strike saw a 70% wage increase, no disciplinary actions against
 strikers and increased democratisation in Tonga.
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Tonga.md" class="wikilink"
-title="Category:Tonga">"Category:Tonga</a>
+title="Category:Tonga">Category:Tonga</a>
 "<a   href="Category:Oceania.md" class="wikilink"
-title="Category:Oceania">"Category:Oceania</a>
+title="Category:Oceania">Category:Oceania</a>
 "<a   href="Category:2000s.md" class="wikilink"
-title="Category:2000s">"Category:2000s</a>
+title="Category:2000s">Category:2000s</a>
 "<a   href="Category:2005.md" class="wikilink"
-title="Category:2005">"Category:2005</a>
+title="Category:2005">Category:2005</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:General_Strikes.md" class="wikilink"
-title="Category:General Strikes">"Category:General Strikes</a>
+title="Category:General Strikes">Category:General Strikes</a>

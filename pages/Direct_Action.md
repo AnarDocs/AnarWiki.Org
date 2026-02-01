@@ -201,17 +201,17 @@ Direct action embodies several key anarchist principles:
 ## See Also
 
 - "<a   href="Propaganda_of_the_deed.md" class="wikilink"
-  title="Propaganda of the deed">"Propaganda of the deed</a>
+  title="Propaganda of the deed">Propaganda of the deed</a>
 - "<a   href="Insurrectionary_anarchism.md" class="wikilink"
-  title="Insurrectionary anarchism">"Insurrectionary anarchism</a>
+  title="Insurrectionary anarchism">Insurrectionary anarchism</a>
 - "<a   href="Anarcho-syndicalism.md" class="wikilink"
-  title="Anarcho-syndicalism">"Anarcho-syndicalism</a>
+  title="Anarcho-syndicalism">Anarcho-syndicalism</a>
 - "<a   href="Counter-economics.md" class="wikilink"
-  title="Counter-economics">"Counter-economics</a>
+  title="Counter-economics">Counter-economics</a>
 - "<a   href="Prefigurative_politics.md" class="wikilink"
-  title="Prefigurative politics">"Prefigurative politics</a>
+  title="Prefigurative politics">Prefigurative politics</a>
 - "<a   href="Security_culture.md" class="wikilink"
-  title="Security culture">"Security culture</a>
+  title="Security culture">Security culture</a>
 
 ## References
 
@@ -227,15 +227,15 @@ Direct action embodies several key anarchist principles:
 - Carter, April (2005). *Direct Action and Democracy Today*. Polity.
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Tactics.md" class="wikilink"
-title="Category:Tactics">"Category:Tactics</a>
+title="Category:Tactics">Category:Tactics</a>
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 
 [^1]: Sharp, Gene (2019-04-10). "198 Methods of Nonviolent Action by
     Gene Sharp". The Commons Social Change Library.

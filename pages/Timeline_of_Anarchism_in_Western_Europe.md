@@ -5,139 +5,139 @@ the Andorra, Austria, Belgium, Denmark, Finland, France, Germany,
 Greece, Iceland, Ireland, Italy, Luxembourg, Malta, Monaco, Netherlands,
 Norway, Portugal, San Marino, Spain, Sweden and the UK) that are
 relevant to
-"<a   href="Anarchism.md" class="wikilink" title="anarchism">"anarchism</a>.
+"<a   href="Anarchism.md" class="wikilink" title="anarchism">anarchism</a>.
 
 - 3000BCE: "<a   href="Minoan_Crete_Civilization.md" class="wikilink"
-  title="Minoan Crete Civilization">"Minoan Crete Civilization</a> forms
+  title="Minoan Crete Civilization">Minoan Crete Civilization</a> forms
   (now Greece)
 - 594BCE: The "<a   href="Athenian_Polis.md" class="wikilink"
-  title="Athenian Polis">"Athenian Polis</a> forms (now Greece)
-- 993: "<a   href="Free_Frisia.md" class="wikilink" title="Free Frisia">"Free
+  title="Athenian Polis">Athenian Polis</a> forms (now Greece)
+- 993: "<a   href="Free_Frisia.md" class="wikilink" title="Free Frisia">Free
   Frisia</a> formed (now Netherlands)
 - 1871:
-  "<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
+  "<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
   Commune</a> (France)
 - 1893: "<a   href="Belgian_General_Strike_(1893).md" class="wikilink"
-  title="Belgian General Strike">"Belgian General Strike</a>
+  title="Belgian General Strike">Belgian General Strike</a>
 - 1910:
   "<a   href="Central_Organisation_of_the_Workers_of_Sweden.md" class="wikilink"
-  title="Central Organisation of the Workers of Sweden">"Central
+  title="Central Organisation of the Workers of Sweden">Central
   Organisation of the Workers of Sweden</a> founded.
 - 1918: "<a   href="German_Revolution_(1918).md" class="wikilink"
-  title="German Revolution">"German Revolution</a>
+  title="German Revolution">German Revolution</a>
 - 1918:
-  "<a   href="Red_Week_(Netherlands).md" class="wikilink" title="Red Week">"Red
+  "<a   href="Red_Week_(Netherlands).md" class="wikilink" title="Red Week">Red
   Week</a> (Netherlands)
 - 1919:
-  "<a   href="Biennio_Rosso.md" class="wikilink" title="Biennio Rosso">"Biennio
+  "<a   href="Biennio_Rosso.md" class="wikilink" title="Biennio Rosso">Biennio
   Rosso</a> (Italy)
 - 1921: "<a   href="Arditi_Del_Popolo.md" class="wikilink"
-  title="Arditi Del Popolo">"Arditi Del Popolo</a> founded (Italy)
+  title="Arditi Del Popolo">Arditi Del Popolo</a> founded (Italy)
 - 1934: "<a   href="February_Uprising_(Austria).md" class="wikilink"
-  title="February Uprising">"February Uprising</a> (Austria)
+  title="February Uprising">February Uprising</a> (Austria)
 - 1936: "<a   href="Spanish_Civil_War.md" class="wikilink"
-  title="Spanish Civil War">"Spanish Civil War</a>
+  title="Spanish Civil War">Spanish Civil War</a>
 - 1953: "<a   href="East_German_Uprising.md" class="wikilink"
-  title="East German Uprising">"East German Uprising</a>
+  title="East German Uprising">East German Uprising</a>
 - 1968: "<a   href="May_1968_Events_in_France.md" class="wikilink"
-  title="May Events">"May Events</a> (France)
+  title="May Events">May Events</a> (France)
 - 1968: "<a   href="Dutch_University_Occupations_(1960s).md" class="wikilink"
-  title="Dutch University Occupations">"Dutch University Occupations</a>
+  title="Dutch University Occupations">Dutch University Occupations</a>
 - 1968:
-  "<a   href="Kraakers.md" class="wikilink" title="Kraakers">"Kraakers</a>
+  "<a   href="Kraakers.md" class="wikilink" title="Kraakers">Kraakers</a>
   (Netherlands)
 - 1971: "<a   href="Freetown_Christiania.md" class="wikilink"
-  title="Freetown Christiania">"Freetown Christiania</a> founded
+  title="Freetown Christiania">Freetown Christiania</a> founded
   (Denmark)
 - 1973: "<a   href="Athens_Polytechnic_Uprising.md" class="wikilink"
-  title="Athens Polytechnic Uprising">"Athens Polytechnic Uprising</a>
+  title="Athens Polytechnic Uprising">Athens Polytechnic Uprising</a>
   (Greece)
 - 1974: "<a   href="Carnation_Revolution.md" class="wikilink"
-  title="Carnation Revolution">"Carnation Revolution</a> (Portugal)
+  title="Carnation Revolution">Carnation Revolution</a> (Portugal)
 - 1979: "<a   href="Dublin_McDonald&#39;s_Strike_(1979).md" class="wikilink"
-  title="Dublin McDonald&#39;s Strike">"Dublin McDonald's Strike</a>
+  title="Dublin McDonald&#39;s Strike">Dublin McDonald's Strike</a>
   (Ireland)
 - 1980: "<a   href="Battle_of_the_Lucky_Luiyk.md" class="wikilink"
-  title="Battle of the Lucky Luiyk">"Battle of the Lucky Luiyk</a>
+  title="Battle of the Lucky Luiyk">Battle of the Lucky Luiyk</a>
   (Netherlands)
 - 1986: "<a   href="Battle_of_Ryesgade.md" class="wikilink"
-  title="Battle of Ryesgade">"Battle of Ryesgade</a> (Denmark)
+  title="Battle of Ryesgade">Battle of Ryesgade</a> (Denmark)
 - 1990: "<a   href="Ernst-Kirchweger-Haus.md" class="wikilink"
-  title="Ernst-Kirchweger-Haus">"Ernst-Kirchweger-Haus</a> created
+  title="Ernst-Kirchweger-Haus">Ernst-Kirchweger-Haus</a> created
   (Austria)
 - 2002: "<a   href="Can_Masdeu_Uprising.md" class="wikilink"
-  title="Battle for Can Masdeu">"Battle for Can Masdeu</a> (Spain)
+  title="Battle for Can Masdeu">Battle for Can Masdeu</a> (Spain)
 - 2008: "<a   href="Swiss_Railway_Strike_(2008).md" class="wikilink"
-  title="Swiss Railway Strike">"Swiss Railway Strike</a>
+  title="Swiss Railway Strike">Swiss Railway Strike</a>
 - 2012: "<a   href="European_General_Strike_(2012).md" class="wikilink"
-  title="European General Strike">"European General Strike</a>
+  title="European General Strike">European General Strike</a>
 - 2014: "<a   href="Gamonal_Uprising.md" class="wikilink"
-  title="Gamonal Uprising">"Gamonal Uprising</a> (Spain)
+  title="Gamonal Uprising">Gamonal Uprising</a> (Spain)
 - 2014: "<a   href="Battle_for_Can_Vies.md" class="wikilink"
-  title="Battle for Can Vies">"Battle for Can Vies</a> (Spain)
+  title="Battle for Can Vies">Battle for Can Vies</a> (Spain)
 - 2018: "<a   href="Yellow_Vests_Movement_(France).md" class="wikilink"
-  title="Yellow Vests">"Yellow Vests</a> (France)
+  title="Yellow Vests">Yellow Vests</a> (France)
 
 ## See Also
 
 - "<a   href="Timeline_of_Anarchism.md" class="wikilink"
-  title="Timeline of Anarchism">"Timeline of Anarchism</a>
+  title="Timeline of Anarchism">Timeline of Anarchism</a>
 - "<a   href="Timeline_of_Anarchism_in_North_America.md" class="wikilink"
-  title="Timeline of Anarchism in North America">"Timeline of Anarchism in
+  title="Timeline of Anarchism in North America">Timeline of Anarchism in
   North America</a>
 - "<a   href="Timeline_of_Anarchism_in_Central_America.md" class="wikilink"
-  title="Timeline of Anarchism in Central America">"Timeline of Anarchism
+  title="Timeline of Anarchism in Central America">Timeline of Anarchism
   in Central America</a>
 - "<a   href="Timeline_of_Anarchism_in_the_Caribbean.md" class="wikilink"
-  title="Timeline of Anarchism in the Caribbean">"Timeline of Anarchism in
+  title="Timeline of Anarchism in the Caribbean">Timeline of Anarchism in
   the Caribbean</a>
 - "<a   href="Timeline_of_Anarchism_in_South_America.md" class="wikilink"
-  title="Timeline of Anarchism in South America">"Timeline of Anarchism in
+  title="Timeline of Anarchism in South America">Timeline of Anarchism in
   South America</a>
 - "<a   href="Timeline_of_Anarchism_in_Eastern_Europe.md" class="wikilink"
-  title="Timeline of Anarchism in Eastern Europe">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Eastern Europe">Timeline of Anarchism in
   Eastern Europe</a>
 - "<a   href="Timeline_of_Anarchism_in_Northern_Africa.md" class="wikilink"
-  title="Timeline of Anarchism in Northern Africa">"Timeline of Anarchism
+  title="Timeline of Anarchism in Northern Africa">Timeline of Anarchism
   in Northern Africa</a>
 - "<a   href="Timeline_of_Anarchism_in_Western_Africa.md" class="wikilink"
-  title="Timeline of Anarchism in Western Africa">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Western Africa">Timeline of Anarchism in
   Western Africa</a>
 - "<a   href="Timeline_of_Anarchism_in_Middle_Africa.md" class="wikilink"
-  title="Timeline of Anarchism in Middle Africa">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Middle Africa">Timeline of Anarchism in
   Middle Africa</a>
 - "<a   href="Timeline_of_Anarchism_in_Eastern_Africa.md" class="wikilink"
-  title="Timeline of Anarchism in Eastern Africa">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Eastern Africa">Timeline of Anarchism in
   Eastern Africa</a>
 - "<a   href="Timeline_of_Anarchism_in_Southern_Africa.md" class="wikilink"
-  title="Timeline of Anarchism in Southern Africa">"Timeline of Anarchism
+  title="Timeline of Anarchism in Southern Africa">Timeline of Anarchism
   in Southern Africa</a>
 - "<a   href="Timeline_of_Anarchism_in_Western_Asia.md" class="wikilink"
-  title="Timeline of Anarchism in Western Asia">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Western Asia">Timeline of Anarchism in
   Western Asia</a>
 - "<a   href="Timeline_of_Anarchism_in_Northern_Asia.md" class="wikilink"
-  title="Timeline of Anarchism in Northern Asia">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Northern Asia">Timeline of Anarchism in
   Northern Asia</a>
 - "<a   href="Timeline_of_Anarchism_in_Southern_Asia.md" class="wikilink"
-  title="Timeline of Anarchism in Southern Asia">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Southern Asia">Timeline of Anarchism in
   Southern Asia</a>
 - "<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
-  title="Timeline of Anarchism in Eastern Asia">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Eastern Asia">Timeline of Anarchism in
   Eastern Asia</a>
 - "<a   href="Timeline_of_Anarchism_in_Southeast_Asia.md" class="wikilink"
-  title="Timeline of Anarchism in Southeast Asia">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Southeast Asia">Timeline of Anarchism in
   Southeast Asia</a>
 - "<a   href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
-  title="Timeline of Anarchism in Oceania">"Timeline of Anarchism in
+  title="Timeline of Anarchism in Oceania">Timeline of Anarchism in
   Oceania</a>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Timelines.md" class="wikilink"
-title="Category:Timelines">"Category:Timelines</a>
+title="Category:Timelines">Category:Timelines</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:Western_Europe.md" class="wikilink"
-title="Category:Western Europe">"Category:Western Europe</a>
+title="Category:Western Europe">Category:Western Europe</a>

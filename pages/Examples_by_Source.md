@@ -1,22 +1,22 @@
-# Examples from "<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">"An
+# Examples from "<a   href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
 Anarchist FAQ</a>
 
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
+"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
 Commune</a>
 
 "<a   href="The_Haymarket_Martyrs.md" class="wikilink"
-title="The Haymarket Martyrs">"The Haymarket Martyrs</a>
+title="The Haymarket Martyrs">The Haymarket Martyrs</a>
 
 Building the Syndicalist Unions
 
 "<a   href="Anarchists_in_the_Russian_Revolution.md" class="wikilink"
-title="Anarchists in the Russian Revolution">"Anarchists in the Russian
+title="Anarchists in the Russian Revolution">Anarchists in the Russian
 Revolution</a>
 
 Anarchists in the Italian Factory Occupations
 
 "<a   href="Revolutionary_Spain.md" class="wikilink"
-title="Anarchism and the Spanish Revolution">"Anarchism and the Spanish
+title="Anarchism and the Spanish Revolution">Anarchism and the Spanish
 Revolution</a>
 
 The May-June Revolt in France, 1968
@@ -28,19 +28,19 @@ The May-June Revolt in France, 1968
 Egyptian sections of IWMA
 
 "<a   href="European_Social_Studies_Circle_(Egypt).md" class="wikilink"
-title="European Social Studies Circle (Egypt)">"European Social Studies
+title="European Social Studies Circle (Egypt)">European Social Studies
 Circle (Egypt)</a>, 1881
 
 "<a   href="Free_Popular_University_(Egypt).md" class="wikilink"
-title="Free Popular University (Egypt)">"Free Popular University
+title="Free Popular University (Egypt)">Free Popular University
 (Egypt)</a>, 1901
 
 "<a   href="Social_Studies_Club_(Egypt).md" class="wikilink"
-title="Social Studies Club (Egypt)">"Social Studies Club (Egypt)</a>,
+title="Social Studies Club (Egypt)">Social Studies Club (Egypt)</a>,
 1903
 
 "<a   href="Libertarian_Studies_Room_(Egypt).md" class="wikilink"
-title="Libertarian Studies Room (Egypt)">"Libertarian Studies Room
+title="Libertarian Studies Room (Egypt)">Libertarian Studies Room
 (Egypt)</a>, 1904
 
 ## Peru
@@ -50,7 +50,7 @@ Centre of Socialist Studies First of May
 Love of Light
 
 "<a   href="1911_Lima-Callao_general_strike.md" class="wikilink"
-title="1911 Lima-Callao general strike">"1911 Lima-Callao general
+title="1911 Lima-Callao general strike">1911 Lima-Callao general
 strike</a>
 
 1919 Peruvian general strike
@@ -66,78 +66,78 @@ Arequipa Worker Federation
 Local Worker Federation of Arequipa
 
 # Examples from "<a   href="Anarchy_in_Action.md" class="wikilink"
-title="Anarchy in Action">"Anarchy in Action</a>
+title="Anarchy in Action">Anarchy in Action</a>
 
 "<a   href="Squatters&#39;_Protection_Society.md" class="wikilink"
-title="Squatters&#39; Protection Society">"Squatters' Protection
+title="Squatters&#39; Protection Society">Squatters' Protection
 Society</a>
 
 "<a   href="Woodstock_Festival.md" class="wikilink"
-title="Woodstock Festival">"Woodstock Festival</a>
+title="Woodstock Festival">Woodstock Festival</a>
 
 "<a   href="Pioneer_Health_Centre.md" class="wikilink"
-title="Pioneer Health Centre">"Pioneer Health Centre</a>
+title="Pioneer Health Centre">Pioneer Health Centre</a>
 
 "<a   href="Little_Commonwealth.md" class="wikilink"
-title="Little Commonwealth">"Little Commonwealth</a>
+title="Little Commonwealth">Little Commonwealth</a>
 
 "<a   href="Vienna_Psychoanalytic_Society&#39;s_child_guidance_service.md"
 class="wikilink"
-title="Vienna Psychoanalytic Society&#39;s child guidance service">"Vienna
+title="Vienna Psychoanalytic Society&#39;s child guidance service">Vienna
 Psychoanalytic Society's child guidance service</a>
 
-"<a   href="Prague_Spring.md" class="wikilink" title="Prague Spring">"Prague
+"<a   href="Prague_Spring.md" class="wikilink" title="Prague Spring">Prague
 Spring</a>
 
 "<a   href="Hungarian_Revolution_of_1956.md" class="wikilink"
-title="Hungarian Revolution of 1956">"Hungarian Revolution of 1956</a>
+title="Hungarian Revolution of 1956">Hungarian Revolution of 1956</a>
 
 "<a   href="Anarchism_in_the_Cuban_Revolution.md" class="wikilink"
-title="Anarchism in the Cuban Revolution">"Anarchism in the Cuban
+title="Anarchism in the Cuban Revolution">Anarchism in the Cuban
 Revolution</a>
 
 "<a   href="Spanish_Revolution.md" class="wikilink"
-title="Spanish Revolution">"Spanish Revolution</a>
+title="Spanish Revolution">Spanish Revolution</a>
 
 "<a   href="Horizontal_organization_in_British_architecture.md"
 class="wikilink"
-title="Horizontal organization in British architecture">"Horizontal
+title="Horizontal organization in British architecture">Horizontal
 organization in British architecture</a>
 
 Work democracy
 
-"<a   href="Tiv_people.md" class="wikilink" title="Tiv people">"Tiv people</a>
+"<a   href="Tiv_people.md" class="wikilink" title="Tiv people">Tiv people</a>
 
-"<a   href="Dinka_people.md" class="wikilink" title="Dinka people">"Dinka
+"<a   href="Dinka_people.md" class="wikilink" title="Dinka people">Dinka
 people</a>
 
-"<a   href="Human_brain.md" class="wikilink" title="Human brain">"Human
+"<a   href="Human_brain.md" class="wikilink" title="Human brain">Human
 brain</a>
 
 "<a   href="Global_postal_service.md" class="wikilink"
-title="Global postal service">"Global postal service</a>
+title="Global postal service">Global postal service</a>
 
 "<a   href="International_railways.md" class="wikilink"
-title="International railways">"International railways</a>
+title="International railways">International railways</a>
 
 "<a   href="Swiss_confederal_leagues.md" class="wikilink"
-title="Swiss confederal leagues">"Swiss confederal leagues</a>
+title="Swiss confederal leagues">Swiss confederal leagues</a>
 
-"<a   href="Spies_for_Peace.md" class="wikilink" title="Spies for Peace">"Spies
+"<a   href="Spies_for_Peace.md" class="wikilink" title="Spies for Peace">Spies
 for Peace</a>
 
 "<a   href="Swiss_city_planning.md" class="wikilink"
-title="Swiss city planning">"Swiss city planning</a>
+title="Swiss city planning">Swiss city planning</a>
 
 "<a   href="Medieval_commune.md" class="wikilink"
-title="Medieval commune">"Medieval commune</a>
+title="Medieval commune">Medieval commune</a>
 
 "<a   href="Anarchy_in_the_American_Revolution.md" class="wikilink"
-title="Anarchy in the American Revolution">"Anarchy in the American
+title="Anarchy in the American Revolution">Anarchy in the American
 Revolution</a>
 
 "<a   href="New_England_town_meetings.md" class="wikilink"
-title="New England town meetings">"New England town meetings</a>
+title="New England town meetings">New England town meetings</a>
 
 Mexican *colonial proletarias*
 
@@ -152,10 +152,10 @@ Turkish *gecekondu*
 Venezuelan *ranchos*
 
 "<a   href="King_Hill_hostel_squat.md" class="wikilink"
-title="King Hill hostel squat">"King Hill hostel squat</a>
+title="King Hill hostel squat">King Hill hostel squat</a>
 
 "<a   href="Sexual_revolution.md" class="wikilink"
-title="Sexual revolution">"Sexual revolution</a>
+title="Sexual revolution">Sexual revolution</a>
 
 Prestolee School
 
@@ -166,11 +166,11 @@ Residential College for Students
 1960 student revolts
 
 "<a   href="Emdrup_playground.md" class="wikilink"
-title="Emdrup playground">"Emdrup playground</a>
+title="Emdrup playground">Emdrup playground</a>
 
 Freetown playground
 
-"<a   href="The_Yard.md" class="wikilink" title="The Yard">"The Yard</a>
+"<a   href="The_Yard.md" class="wikilink" title="The Yard">The Yard</a>
 
 Skrammellegeplad playgrounds
 
@@ -192,92 +192,92 @@ Claimant's Union
 
 Eyes on the street
 
-# Examples from "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+# Examples from "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>
 
 "<a   href="Really_Really_Free_Market.md" class="wikilink"
-title="Really Really Free Market">"Really Really Free Market</a>
+title="Really Really Free Market">Really Really Free Market</a>
 
-"<a   href="Semai_people.md" class="wikilink" title="Semai people">"Semai
+"<a   href="Semai_people.md" class="wikilink" title="Semai people">Semai
 people</a>
 
-"<a   href="Mbuti_people.md" class="wikilink" title="Mbuti people">"Mbuti
+"<a   href="Mbuti_people.md" class="wikilink" title="Mbuti people">Mbuti
 people</a>
 
 "<a   href="Grassroots_Hurricane_Katrina_relief.md" class="wikilink"
-title="Grassroots Hurricane Katrina relief">"Grassroots Hurricane Katrina
+title="Grassroots Hurricane Katrina relief">Grassroots Hurricane Katrina
 relief</a>
 
-"<a   href="FIERCE!.md" class="wikilink" title="FIERCE!">"FIERCE!</a>
+"<a   href="FIERCE!.md" class="wikilink" title="FIERCE!">FIERCE!</a>
 
 Providence Plantations
 
-"<a   href="Pocasset.md" class="wikilink" title="Pocasset">"Pocasset</a>
+"<a   href="Pocasset.md" class="wikilink" title="Pocasset">Pocasset</a>
 
 Igbo
 
 "<a   href="Haudennosaunne.md" class="wikilink"
-title="Haudennosaunne">"Haudennosaunne</a>
+title="Haudennosaunne">Haudennosaunne</a>
 
 "<a   href="Faslane_Peace_Camp.md" class="wikilink"
-title="Faslane Peace Camp">"Faslane Peace Camp</a>
+title="Faslane Peace Camp">Faslane Peace Camp</a>
 
 "<a   href="Greenham_Common_Women&#39;s_Peace_Camp.md" class="wikilink"
-title="Greenham Common Women&#39;s Peace Camp">"Greenham Common Women's
+title="Greenham Common Women&#39;s Peace Camp">Greenham Common Women's
 Peace Camp</a>
 
 "<a   href="Life_and_Labor_Commune.md" class="wikilink"
-title="Life and Labor Commune">"Life and Labor Commune</a>
+title="Life and Labor Commune">Life and Labor Commune</a>
 
 "<a   href="Catholic_Worker_movement.md" class="wikilink"
-title="Catholic Worker movement">"Catholic Worker movement</a>
+title="Catholic Worker movement">Catholic Worker movement</a>
 
-"<a   href="Imazighen.md" class="wikilink" title="Imazighen">"Imazighen</a>
+"<a   href="Imazighen.md" class="wikilink" title="Imazighen">Imazighen</a>
 
 "<a   href="Anabaptists.md" class="wikilink"
-title="Anabaptists">"Anabaptists</a>
+title="Anabaptists">Anabaptists</a>
 
 "<a   href="German_Peasants&#39;_War.md" class="wikilink"
-title="German Peasants&#39; War">"German Peasants' War</a>
+title="German Peasants&#39; War">German Peasants' War</a>
 
 "<a   href="Alter-globalization_movement.md" class="wikilink"
-title="Alter-globalization movement">"Alter-globalization movement</a>
+title="Alter-globalization movement">Alter-globalization movement</a>
 
 "<a   href="Dissent!_Network.md" class="wikilink"
-title="Dissent! Network">"Dissent! Network</a>
+title="Dissent! Network">Dissent! Network</a>
 
 "<a   href="Hill_People_of_Southeast_Asia.md" class="wikilink"
-title="Hill People of Southeast Asia">"Hill People of Southeast Asia</a>
+title="Hill People of Southeast Asia">Hill People of Southeast Asia</a>
 
 "<a   href="Shinmin_Prefecture.md" class="wikilink"
-title="Shinmin Prefecture">"Shinmin Prefecture</a>
+title="Shinmin Prefecture">Shinmin Prefecture</a>
 
 "<a   href="Spanish_Revolution.md" class="wikilink"
-title="Spanish Revolution">"Spanish Revolution</a>
+title="Spanish Revolution">Spanish Revolution</a>
 
 "<a   href="Landless_Workers&#39;_Movement.md" class="wikilink"
-title="Landless Workers&#39; Movement">"Landless Workers' Movement</a>
+title="Landless Workers&#39; Movement">Landless Workers' Movement</a>
 
 "<a   href="Oaxaca_rebellion.md" class="wikilink"
-title="Oaxaca rebellion">"Oaxaca rebellion</a>
+title="Oaxaca rebellion">Oaxaca rebellion</a>
 
-"<a   href="Kibbutzim.md" class="wikilink" title="Kibbutzim">"Kibbutzim</a>
+"<a   href="Kibbutzim.md" class="wikilink" title="Kibbutzim">Kibbutzim</a>
 
-"<a   href="Nubian_people.md" class="wikilink" title="Nubian people">"Nubian
+"<a   href="Nubian_people.md" class="wikilink" title="Nubian people">Nubian
 people</a>
 
-"<a   href="Hopi_people.md" class="wikilink" title="Hopi people">"Hopi
+"<a   href="Hopi_people.md" class="wikilink" title="Hopi people">Hopi
 people</a>
 
 Italian factory occupations
 
 "<a   href="Argentinian_horizontalidad.md" class="wikilink"
-title="Argentinian horizontalidad">"Argentinian horizontalidad</a>
+title="Argentinian horizontalidad">Argentinian horizontalidad</a>
 
-"<a   href="Mondragon.md" class="wikilink" title="Mondragon">"Mondragon</a>
+"<a   href="Mondragon.md" class="wikilink" title="Mondragon">Mondragon</a>
 
 "<a   href="Christiania.md" class="wikilink"
-title="Christiania">"Christiania</a>
+title="Christiania">Christiania</a>
 
 Boston Area Liberation Medic Squad
 
@@ -297,10 +297,10 @@ Bonnot
 
 New Guinea highlands
 
-"<a   href="Open_source.md" class="wikilink" title="Open source">"Open
+"<a   href="Open_source.md" class="wikilink" title="Open source">Open
 source</a>
 
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a>
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>
 
 Free Stores
 
@@ -310,18 +310,18 @@ Taita Hills
 
 "<a   href="Village_Alternatif,_Anticapitalist_et_AntiGuerres.md"
 class="wikilink"
-title="Village Alternatif, Anticapitalist et AntiGuerres">"Village
+title="Village Alternatif, Anticapitalist et AntiGuerres">Village
 Alternatif, Anticapitalist et AntiGuerres</a>
 
 "<a   href="Free_Republic_of_Wendland.md" class="wikilink"
-title="Free Republic of Wendland">"Free Republic of Wendland</a>
+title="Free Republic of Wendland">Free Republic of Wendland</a>
 
 "<a   href="Stonehenge_Free_Festival.md" class="wikilink"
-title="Stonehenge Free Festival">"Stonehenge Free Festival</a>
+title="Stonehenge Free Festival">Stonehenge Free Festival</a>
 
 Ghana shantytown
 
-"<a   href="El_Alto.md" class="wikilink" title="El Alto">"El Alto</a>
+"<a   href="El_Alto.md" class="wikilink" title="El Alto">El Alto</a>
 
 Mjondolo
 
@@ -332,7 +332,7 @@ Parisian urban gardeners
 Maori
 
 "<a   href="Global_Ecovillage_Network.md" class="wikilink"
-title="Global Ecovillage Network">"Global Ecovillage Network</a>
+title="Global Ecovillage Network">Global Ecovillage Network</a>
 
 Tehuantepec
 
@@ -341,7 +341,7 @@ Minnehaha Free State
 Bilston Glen
 
 "<a   href="Anti-Shell_actions.md" class="wikilink"
-title="Anti-Shell actions">"Anti-Shell actions</a>
+title="Anti-Shell actions">Anti-Shell actions</a>
 
 Tonga
 
@@ -355,10 +355,10 @@ Wapole inmates
 
 Mothers of the Plaza de Mayo
 
-"<a   href="La_Paz_Zapotec.md" class="wikilink" title="La Paz Zapotec">"La Paz
+"<a   href="La_Paz_Zapotec.md" class="wikilink" title="La Paz Zapotec">La Paz
 Zapotec</a>
 
-"<a   href="Inuit.md" class="wikilink" title="Inuit">"Inuit</a>
+"<a   href="Inuit.md" class="wikilink" title="Inuit">Inuit</a>
 
 Navajo
 
@@ -371,10 +371,10 @@ Philly's Pissed
 Philly Stands Up
 
 "<a   href="Revolutionary_Ukraine.md" class="wikilink"
-title="Revolutionary Ukraine">"Revolutionary Ukraine</a>
+title="Revolutionary Ukraine">Revolutionary Ukraine</a>
 
 "<a   href="Red_Cloud&#39;s_War.md" class="wikilink"
-title="Red Cloud&#39;s War">"Red Cloud's War</a>
+title="Red Cloud&#39;s War">Red Cloud's War</a>
 
 2007 Lakota declaration of independence
 
@@ -395,7 +395,7 @@ Gwangiu
 Hungarian Revolution
 
 "<a   href="Zapatista-run_Chiapas.md" class="wikilink"
-title="Zapatista-run Chiapas">"Zapatista-run Chiapas</a>
+title="Zapatista-run Chiapas">Zapatista-run Chiapas</a>
 
 Tsimihety
 
@@ -420,7 +420,7 @@ No Border Network
 Whiteway Colony
 
 # Examples from "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-title="Cartography of Revolutionary Anarchism">"Cartography of
+title="Cartography of Revolutionary Anarchism">Cartography of
 Revolutionary Anarchism</a>
 
 ## First Wave, 1868-1894
@@ -553,7 +553,7 @@ Industrial Workers of the World-US (IWW-US)
 Teahouse Labour Union, 11,000 members in 1918
 
 "<a   href="Guangzhou_commune.md" class="wikilink"
-title="Guangzhou commune">"Guangzhou commune</a>, 1921-1923
+title="Guangzhou commune">Guangzhou commune</a>, 1921-1923
 
 Confederation of Labour Associations (GLH)
 
@@ -694,7 +694,7 @@ Anarcho-Syndicalist National Confederation of Labour (ASNKR)
 ### Ukraine
 
 "<a   href="Revolutionary_Ukraine.md" class="wikilink"
-title="Ukranian Revolution">"Ukranian Revolution</a>
+title="Ukranian Revolution">Ukranian Revolution</a>
 
 Revolutionary Insurgent Army of the Ukraine (RPAU), 110,000 members
 
@@ -775,7 +775,7 @@ Korean Revolutionary Federation (KRF)
 ### Spain
 
 "<a   href="Revolutionary_Spain.md" class="wikilink"
-title="Spanish Revolution">"Spanish Revolution</a>
+title="Spanish Revolution">Spanish Revolution</a>
 
 Iberian Anarchist Federation (FAI)
 
@@ -1112,7 +1112,7 @@ Aid Group for the Libertarians and Independent Syndicalists in Cuba
 ### Mexico
 
 "<a   href="Zapatista-run_Chiapas.md" class="wikilink"
-title="Zapatista revolt">"Zapatista revolt</a>
+title="Zapatista revolt">Zapatista revolt</a>
 
 Indigenous Popular Council of Oaxaca--Ricardo Flores Magnón (CIPO-RFM)
 
@@ -1177,21 +1177,21 @@ Workers' Solidarity Movement (WSM)
 Libertarian Socialist Movement (LSM)
 
 # Examples from "<a   href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
-title="Mutual Aid: A Factor of Evolution">"Mutual Aid: A Factor of
+title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
 Evolution</a>
 
-"<a   href="Gray_wolf.md" class="wikilink" title="Gray wolf">"Gray wolf</a>
+"<a   href="Gray_wolf.md" class="wikilink" title="Gray wolf">Gray wolf</a>
 
-"<a   href="San_people.md" class="wikilink" title="San people">"San people</a>
+"<a   href="San_people.md" class="wikilink" title="San people">San people</a>
 
 Khoikhoi people
 
 "<a   href="Aboriginal_Australians.md" class="wikilink"
-title="Aboriginal Australians">"Aboriginal Australians</a>
+title="Aboriginal Australians">Aboriginal Australians</a>
 
 Paupan people
 
-"<a   href="Inuit.md" class="wikilink" title="Inuit">"Inuit</a>
+"<a   href="Inuit.md" class="wikilink" title="Inuit">Inuit</a>
 
 Aleut people
 
@@ -1206,7 +1206,7 @@ Kabyle people
 Peoples of the Caucasus
 
 "<a   href="Medieval_commune.md" class="wikilink"
-title="Medieval commune">"Medieval commune</a>
+title="Medieval commune">Medieval commune</a>
 
 Medieval guild
 
@@ -1236,27 +1236,27 @@ Mutual-Aid in slum-life
 
 # Examples from "<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
 class="wikilink"
-title="People Without Government: An Anthropology of Anarchy">"People
+title="People Without Government: An Anthropology of Anarchy">People
 Without Government: An Anthropology of Anarchy</a>
 
-"<a   href="San.md" class="wikilink" title="San">"San</a>
+"<a   href="San.md" class="wikilink" title="San">San</a>
 
-"<a   href="Inuit.md" class="wikilink" title="Inuit">"Inuit</a>
+"<a   href="Inuit.md" class="wikilink" title="Inuit">Inuit</a>
 
-"<a   href="Mbuti.md" class="wikilink" title="Mbuti">"Mbuti</a>
+"<a   href="Mbuti.md" class="wikilink" title="Mbuti">Mbuti</a>
 
 "<a   href="Aboriginal_Australians.md" class="wikilink"
-title="Aboriginal Australians">"Aboriginal Australians</a>
+title="Aboriginal Australians">Aboriginal Australians</a>
 
 "<a   href="Northwest_coast_indigenous_peoples.md" class="wikilink"
-title="Northwest coast indigenous peoples">"Northwest coast indigenous
+title="Northwest coast indigenous peoples">Northwest coast indigenous
 peoples</a>
 
-"<a   href="Lugbara.md" class="wikilink" title="Lugbara">"Lugbara</a>
+"<a   href="Lugbara.md" class="wikilink" title="Lugbara">Lugbara</a>
 
-"<a   href="Konkomba.md" class="wikilink" title="Konkomba">"Konkomba</a>
+"<a   href="Konkomba.md" class="wikilink" title="Konkomba">Konkomba</a>
 
-"<a   href="Tiv.md" class="wikilink" title="Tiv">"Tiv</a>
+"<a   href="Tiv.md" class="wikilink" title="Tiv">Tiv</a>
 
 Plateau Tonga
 
@@ -1274,79 +1274,79 @@ South American Indians
 
 Nuer
 
-"<a   href="Sami.md" class="wikilink" title="Sami">"Sami</a>
+"<a   href="Sami.md" class="wikilink" title="Sami">Sami</a>
 
 Imazighen
 
 Santals
 
 "<a   href="Medieval_commune.md" class="wikilink"
-title="Medieval commune">"Medieval commune</a>
+title="Medieval commune">Medieval commune</a>
 
 "<a   href="Anabaptists.md" class="wikilink"
-title="Anabaptists">"Anabaptists</a>
+title="Anabaptists">Anabaptists</a>
 
 "<a   href="Revolutionary_Spain.md" class="wikilink"
-title="Revolutionary Spain">"Revolutionary Spain</a>
+title="Revolutionary Spain">Revolutionary Spain</a>
 
 # Examples from "<a   href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
 class="wikilink"
-title="The Politics of Social Ecology: Libertarian Municipalism">"The
+title="The Politics of Social Ecology: Libertarian Municipalism">The
 Politics of Social Ecology: Libertarian Municipalism</a>
 
 "<a   href="Athenian_polis.md" class="wikilink"
-title="Athenian polis">"Athenian polis</a>
+title="Athenian polis">Athenian polis</a>
 
 "<a   href="Medieval_commune.md" class="wikilink"
-title="Medieval commune">"Medieval commune</a>
+title="Medieval commune">Medieval commune</a>
 
 "<a   href="New_England_town_meetings.md" class="wikilink"
-title="New England town meetings">"New England town meetings</a>
+title="New England town meetings">New England town meetings</a>
 
 "<a   href="Parisian_sections.md" class="wikilink"
-title="Parisian sections">"Parisian sections</a>
+title="Parisian sections">Parisian sections</a>
 
 "<a   href="Swiss_confederal_leagues.md" class="wikilink"
-title="Swiss confederal leagues">"Swiss confederal leagues</a>
+title="Swiss confederal leagues">Swiss confederal leagues</a>
 
 "<a   href="Castile_confederation.md" class="wikilink"
-title="Castile confederation">"Castile confederation</a>
+title="Castile confederation">Castile confederation</a>
 
 # Other Examples
 
 "<a   href="Student_Nonviolent_Coordinating_Committee.md" class="wikilink"
-title="Student Nonviolent Coordinating Committee">"Student Nonviolent
+title="Student Nonviolent Coordinating Committee">Student Nonviolent
 Coordinating Committee</a>
 
 "<a   href="Kurdish_democratic_confederalists.md" class="wikilink"
-title="Kurdish democratic confederalists">"Kurdish democratic
+title="Kurdish democratic confederalists">Kurdish democratic
 confederalists</a>
 
 "<a   href="Anusilan_Samiti.md" class="wikilink"
-title="Anusilan Samiti">"Anusilan Samiti</a>
+title="Anusilan Samiti">Anusilan Samiti</a>
 
 "<a   href="Fraternity_of_the_Red_Flag.md" class="wikilink"
-title="Fraternity of the Red Flag">"Fraternity of the Red Flag</a>
+title="Fraternity of the Red Flag">Fraternity of the Red Flag</a>
 
 "<a   href="Shamrik_Mukti_Dal.md" class="wikilink"
-title="Shamrik Mukti Dal">"Shamrik Mukti Dal</a>
+title="Shamrik Mukti Dal">Shamrik Mukti Dal</a>
 
 "<a   href="Libertarian_Socialist_Institute.md" class="wikilink"
-title="Libertarian Socialist Institute">"Libertarian Socialist
+title="Libertarian Socialist Institute">Libertarian Socialist
 Institute</a>
 
 "<a   href="Jugoremedija.md" class="wikilink"
-title="Jugoremedija">"Jugoremedija</a>
+title="Jugoremedija">Jugoremedija</a>
 
-"<a   href="Freedom_Fight.md" class="wikilink" title="Freedom Fight">"Freedom
+"<a   href="Freedom_Fight.md" class="wikilink" title="Freedom Fight">Freedom
 Fight</a>
 
-"<a   href="First_Intifada.md" class="wikilink" title="First Intifada">"First
+"<a   href="First_Intifada.md" class="wikilink" title="First Intifada">First
 Intifada</a>
 
 Situationist International
 
-"<a   href="Anarres.md" class="wikilink" title="Anarres">"Anarres</a> (*The
+"<a   href="Anarres.md" class="wikilink" title="Anarres">Anarres</a> (*The
 Dispossessed*)
 
 San Fransisco (*The Fifth Sacred Thing*)
@@ -1354,15 +1354,15 @@ San Fransisco (*The Fifth Sacred Thing*)
 Umuofia (*Things Fall Apart*)
 
 "<a   href="Highland_Madagascar.md" class="wikilink"
-title="Highland Madagascar">"Highland Madagascar</a>
+title="Highland Madagascar">Highland Madagascar</a>
 
-"<a   href="Piaroa.md" class="wikilink" title="Piaroa">"Piaroa</a>
+"<a   href="Piaroa.md" class="wikilink" title="Piaroa">Piaroa</a>
 
 "<a   href="Groove-billed_ani.md" class="wikilink"
-title="Groove-billed ani">"Groove-billed ani</a>
+title="Groove-billed ani">Groove-billed ani</a>
 
 "<a   href="Zone_to_Defend_(ZAD).md" class="wikilink"
-title="Zone to Defend (ZAD)">"Zone to Defend (ZAD)</a>
+title="Zone to Defend (ZAD)">Zone to Defend (ZAD)</a>
 
-"<a   href="Pirate_anarchy.md" class="wikilink" title="Pirate anarchy">"Pirate
+"<a   href="Pirate_anarchy.md" class="wikilink" title="Pirate anarchy">Pirate
 anarchy</a>

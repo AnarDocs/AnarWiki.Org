@@ -173,19 +173,19 @@ Emma Goldman reflected on Landauer’s death:
 <references/>
 
 "<a   href="Category:Revolution.md" class="wikilink"
-title="Category:Revolution">"Category:Revolution</a>
+title="Category:Revolution">Category:Revolution</a>
 "<a   href="Category:Protest_Waves.md" class="wikilink"
-title="Category:Protest Waves">"Category:Protest Waves</a>
+title="Category:Protest Waves">Category:Protest Waves</a>
 "<a   href="Category:Direct_Action.md" class="wikilink"
-title="Category:Direct Action">"Category:Direct Action</a>
+title="Category:Direct Action">Category:Direct Action</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Kuhn, ‘’All Power’’, xii.
 

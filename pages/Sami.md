@@ -7,7 +7,7 @@ area between south and middle Sweden and Norway."[^1]
 From Harold Barclay,
 "<a   href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
 class="wikilink"
-title="People Without Government: An Anthropology of Anarchy">"People
+title="People Without Government: An Anthropology of Anarchy">People
 Without Government: An Anthropology of Anarchy</a>:
 
 > Reindeer herding in the European sub-Arctic is in sharp contrast to

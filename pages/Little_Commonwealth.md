@@ -19,4 +19,4 @@ From Colin Ward, Anarchy in Action [^2]:
 [^1]: <http://www.infed.org/archives/e-texts/homerlane.htm>
 
 [^2]: "<a   href="Anarchy_in_Action.md" class="wikilink"
-    title="Anarchy in Action">"Anarchy in Action</a>
+    title="Anarchy in Action">Anarchy in Action</a>

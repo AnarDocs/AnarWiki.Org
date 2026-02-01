@@ -16,7 +16,7 @@ manifesting through grassroots efforts and direct challenges to
 oppressive structures:
 
 **Early Activism and Midwifery:**
-"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">"Emma
+"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>, a prominent anarchist, worked as a nurse and midwife in the
 late 19th and early 20th centuries, advocating for women's reproductive
 freedom and birth control amidst high maternal mortality rates among the
@@ -75,7 +75,7 @@ institutions.
 ### Theoretical Development
 
 The theoretical foundations of anarchist healthcare draw from
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>'s concept of **mutual aid**, which challenged social
 Darwinism's emphasis on competition. Kropotkin observed that cooperation
 and mutual support were more important factors for survival and
@@ -101,7 +101,7 @@ pandemic, have highlighted failures of centralised authorities and led
 to surges in community-led mutual aid efforts globally, from
 distributing food and masks in Brazil to forming community networks in
 South Africa. See "<a   href="Vaccination.md" class="wikilink"
-title="Vaccination">"Vaccination</a> for further information.
+title="Vaccination">Vaccination</a> for further information.
 
 **Free Clinics and Direct Action:** Examples include free clinics in
 Greece due to austerity, the development of DIY pharmaceuticals,
@@ -596,25 +596,25 @@ current healthcare systems.
 <references/>
 
 "<a   href="Category:Anarchist_Transition.md" class="wikilink"
-title="Category:Anarchist Transition">"Category:Anarchist Transition</a>
+title="Category:Anarchist Transition">Category:Anarchist Transition</a>
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Healthcare.md" class="wikilink"
-title="Category:Healthcare">"Category:Healthcare</a>
+title="Category:Healthcare">Category:Healthcare</a>
 "<a   href="Category:Mutual_Aid.md" class="wikilink"
-title="Category:Mutual Aid">"Category:Mutual Aid</a>
+title="Category:Mutual Aid">Category:Mutual Aid</a>
 "<a   href="Category:Direct_Action.md" class="wikilink"
-title="Category:Direct Action">"Category:Direct Action</a>
+title="Category:Direct Action">Category:Direct Action</a>
 "<a   href="Category:Community_Organising.md" class="wikilink"
-title="Category:Community Organising">"Category:Community Organising</a>
+title="Category:Community Organising">Category:Community Organising</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Goldman's experiences in prison, where she observed patients as
     "victims, links in an endless chain of injustice and inequality,"

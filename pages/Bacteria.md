@@ -52,9 +52,9 @@ years, into the genomes of all animal cells including human cells."[^6]
 <references/>
 
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Natural_World.md" class="wikilink"
-title="Category:Natural World">"Category:Natural World</a>
+title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Lynn Margulis and Mark Chapman, *Kingdoms & Domains: An
     Illustrated Guide to the Phyla of Life on Earth* (Academic Press,

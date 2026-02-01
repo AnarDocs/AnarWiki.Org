@@ -1,5 +1,5 @@
 The "<a   href="Wikipedia:Situationist_International.md" class="wikilink"
-title="Situationist International">"Situationist International</a> was a
+title="Situationist International">Situationist International</a> was a
 libertarian Marxist group, based primarily in France from 1957 to 1972,
 that criticized the consumerist “society of the spectacle” and played a
 guiding role in the May 1968 French revolt. They urged the creation of
@@ -134,11 +134,11 @@ functioned as strikebreakers."[^14]
 <references/>
 
 "<a   href="Category:Libertarian_Marxism.md" class="wikilink"
-title="Category:Libertarian Marxism">"Category:Libertarian Marxism</a>
+title="Category:Libertarian Marxism">Category:Libertarian Marxism</a>
 "<a   href="Category:France.md" class="wikilink"
-title="Category:France">"Category:France</a>
+title="Category:France">Category:France</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Situationist International, "The Beginning of An Era", originally
     published in French in 1969, translated by Ken Knabb,

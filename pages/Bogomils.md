@@ -10,7 +10,7 @@ anarchism, veganism, and sometimes free love. They allied with the
 largely pagan Bulgarian peasantry against the king's attempt to impose
 Christianity. As the Bogomils' ideas later spread to Western Europe,
 they influenced the
-"<a   href="Cathars.md" class="wikilink" title="Cathars">"Cathars</a>.[^1]
+"<a   href="Cathars.md" class="wikilink" title="Cathars">Cathars</a>.[^1]
 
 Silvia Federici writes: "The Byzantine authorities were most alarmed by
 the Bogomils' 'radical anarchism,' civil disobedience, and class hatred.
@@ -22,7 +22,7 @@ the lord.'"[^2]
 
 Women played a large role in the movement.[^3] Thanks to the influence
 of the
-"<a   href="Massalians.md" class="wikilink" title="Massalians">"Massalians</a>,
+"<a   href="Massalians.md" class="wikilink" title="Massalians">Massalians</a>,
 the Bogomils discarded their earlier sexual puritanism. Arthur Evans
 explains:
 

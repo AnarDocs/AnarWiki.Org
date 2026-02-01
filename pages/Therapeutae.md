@@ -1,7 +1,7 @@
 The Therapeutae were an ancient Jewish group in Alexandria, Greece, that
 "rejected all forms of property."[^1] They resembled and may have
 influenced the
-"<a   href="Essenes.md" class="wikilink" title="Essenes">"Essenes</a>.
+"<a   href="Essenes.md" class="wikilink" title="Essenes">Essenes</a>.
 
 Philo writes that the Therapeutae especially considered but looked on
 slavery “to be a thing absolutely and wholly contrary to nature, for

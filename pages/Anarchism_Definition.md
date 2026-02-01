@@ -61,13 +61,13 @@ and desirable.[^10]
 
 For misconceptions about the way the word Anarchy is used see
 "<a   href="Definition_Misconceptions.md" class="wikilink"
-title="Definition Misconceptions">"Definition Misconceptions</a>
+title="Definition Misconceptions">Definition Misconceptions</a>
 
 ## Quotes About Anarchism
 
 ### Short Quotes
 
-**"<a   href="Edward_Abbey.md" class="wikilink" title="Edward Abbey">"Edward
+**"<a   href="Edward_Abbey.md" class="wikilink" title="Edward Abbey">Edward
 Abbey</a>** - 'Anarchism is founded on the observation that since few
 men are wise enough to rule themselves, even fewer are wise enough to
 rule others.'[^11]
@@ -78,7 +78,7 @@ entrust the management of our lives to kings, priests, politicians,
 generals, and county commissioners.'[^12]
 
 **"<a   href="Anselme_Bellegarrigue.md" class="wikilink"
-title="Anselme Bellegarrigue">"Anselme Bellegarrigue</a>** - 'Indeed: Who
+title="Anselme Bellegarrigue">Anselme Bellegarrigue</a>** - 'Indeed: Who
 says anarchy, says negation of government; who says negation of
 government says affirmation of the people; who says affirmation of the
 people, says individual liberty; who says individual liberty, says
@@ -88,7 +88,7 @@ social order. … Yes, anarchy is order, whereas government is civil
 war.'[^13]
 
 **"<a   href="Murray_Bookchin.md" class="wikilink"
-title="Murray Bookchin">"Murray Bookchin</a>** - 'Almost anyone, I
+title="Murray Bookchin">Murray Bookchin</a>** - 'Almost anyone, I
 suppose, can call himself or herself an anarchist, if he or she believed
 that the society could be managed without the state. And by the state—I
 don't mean the absence of any institutions, the absence of any form of
@@ -101,13 +101,13 @@ society. So anarchists generally believe that, whether as groups or
 individuals, people should directly run society.'[^14]
 
 **"<a   href="Voltairine_de_Cleyre.md" class="wikilink"
-title="Voltairine de Cleyre">"Voltairine de Cleyre</a>** - 'Anarchism, to
+title="Voltairine de Cleyre">Voltairine de Cleyre</a>** - 'Anarchism, to
 me, means not only the denial of authority, not only a new economy, but
 a revision of the principles of morality. It means the development of
 the individual as well as the assertion of the individual. It means
 self-responsibility, and not leader worship.'[^15]
 
-**"<a   href="Alex_Comfort.md" class="wikilink" title="Alex Comfort">"Alex
+**"<a   href="Alex_Comfort.md" class="wikilink" title="Alex Comfort">Alex
 Comfort</a>** - 'Anarchism is that political philosophy which advocates
 the maximization of individual responsibility and the reduction of
 concentrated power — regal, dictatorial, parliamentary: the institutions
@@ -115,18 +115,18 @@ which go loosely by the name of "government" — to a vanishing
 minimum.'[^16]
 
 **"<a   href="Mohandas_Gandhi.md" class="wikilink"
-title="Mohandas Gandhi">"Mohandas Gandhi</a>** - 'The ideally non-violent
+title="Mohandas Gandhi">Mohandas Gandhi</a>** - 'The ideally non-violent
 state will be an ordered anarchy. That State is the best governed which
 is governed the least.'[^17]
 
 **"<a   href="Peter_Gelderloos.md" class="wikilink"
-title="Peter Gelderloos">"Peter Gelderloos</a>** - 'An anarchist is not
+title="Peter Gelderloos">Peter Gelderloos</a>** - 'An anarchist is not
 someone who favors chaos but someone who favors the total liberation of
 the world through the abolition of capitalism, government, and all other
 forms of oppressive authority, to be replaced by any number of other
 social arrangements, proven or utopian.'[^18]
 
-**"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">"Emma
+**"<a   href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>** - 'Anarchy stands for the liberation of the human mind
 from the dominion of religion; the liberation of the human body from the
 dominion of property; liberation from the shackles and restraints of
@@ -146,7 +146,7 @@ sovereignty of the individual. It is the theory of social harmony. It is
 the great, surging, living truth that is reconstructing the world, and
 that will usher in the Dawn.'[^21]
 
-**"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
+**"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">David
 Graeber</a>** - 'Most of all, anarchism is just a matter of having the
 courage to take the simple principles of common decency that we all live
 by, and to follow them through to their logical conclusions.'[^22]
@@ -167,7 +167,7 @@ that can be done about it, or anyway — and this is what the faithful
 servants of the powerful are always most likely to insist — anything
 that won't end up making things even worse.'[^24]
 
-**"<a   href="Ammon_Hennacy.md" class="wikilink" title="Ammon Hennacy">"Ammon
+**"<a   href="Ammon_Hennacy.md" class="wikilink" title="Ammon Hennacy">Ammon
 Hennacy</a>** - 'An anarchist is someone who doesn't need a cop to make
 him behave. Anarchism is voluntary cooperation with the right of
 secession. The individual or the family or the small group as a unit
@@ -187,7 +187,7 @@ basis of Anarchism is liberty with individual responsibility; its
 methods are decentralization of activity and federation of local
 communes for national and international functions.'[^26]
 
-**"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+**"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>** - 'ANARCHISM (from the Gr. , and , contrary to
 authority), the name given to a principle or theory of life and conduct
 under which society is conceived without government — harmony in such a
@@ -197,7 +197,7 @@ territorial and professional, freely constituted for the sake of
 production and consumption, as also for the satisfaction of the infinite
 variety of needs and aspirations of a civilized being.'[^27]
 
-**"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">"Nestor
+**"<a   href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
 Makhno</a>** - 'Anarchism's outward form is a free, non-governed
 society, which offers freedom, equality and solidarity for its members.
 Its foundations are to be found in man's sense of mutual responsibility,
@@ -207,7 +207,7 @@ men by its own unaided efforts. It is also the foundation of true
 communism.'[^28]
 
 **"<a   href="Errico_Malatesta.md" class="wikilink"
-title="Errico Malatesta">"Errico Malatesta</a>** - 'By definition an
+title="Errico Malatesta">Errico Malatesta</a>** - 'By definition an
 anarchist is he who does not wish to be oppressed nor wishes to be him
 self an oppressor; who wants the greatest well-being, freedom and
 development for all human beings. His ideas, his wishes have their
@@ -217,7 +217,7 @@ well-being of others as much as his own, and to renounce those personal
 advantages, the achievement of which, would involve the sacrifice of
 others.'[^29]
 
-**"<a   href="Johann_Most.md" class="wikilink" title="Johann Most">"Johann
+**"<a   href="Johann_Most.md" class="wikilink" title="Johann Most">Johann
 Most</a>** - 'Anarchism means itself a new social order, and anyone who
 knows human life from its depths to its heights, and has the courage to
 fling aside all patching up and smoothing down, all bargaining and
@@ -228,7 +228,7 @@ to, make state, government, laws, or whatsoever form of compulsion
 existing, a thing of the past, to establish full freedom for all.
 Anarchism means first and foremost freedom from all government.'[^30]
 
-**"<a   href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">"Lucy
+**"<a   href="Lucy_Parsons.md" class="wikilink" title="Lucy Parsons">Lucy
 Parsons</a>** - 'The philosophy of anarchism is included in the word
 "Liberty," yet it is comprehensive enough to include all things else
 that are conducive to progress. No barriers whatever to human
@@ -238,7 +238,7 @@ not prove it false; therefore, it has but one infallible, unchangeable
 motto, "Freedom": Freedom to discover any truth, freedom to develop, to
 live naturally and fully.'[^31]
 
-**"<a   href="Donald_Rooum.md" class="wikilink" title="Donald Rooum">"Donald
+**"<a   href="Donald_Rooum.md" class="wikilink" title="Donald Rooum">Donald
 Rooum</a>** - 'Anarchism is opposed to states, armies, slavery, the
 wages system, the landlord system, prisons, monopoly capitalism,
 oligopoly capitalism, state capitalism, bureaucracy, meritocracy,
@@ -248,7 +248,7 @@ other kind of coercive institution. In other words, anarchism opposes
 government in all its forms.'[^32]
 
 **"<a   href="Henry_David_Thoreau.md" class="wikilink"
-title="Henry David Thoreau">"Henry David Thoreau</a>** - 'I heartily
+title="Henry David Thoreau">Henry David Thoreau</a>** - 'I heartily
 accept the motto,—"That government is best which governs least"; and I
 should like to see it acted up to more rapidly and systematically.
 Carried out, it finally amounts to this, which also I believe,—"That
@@ -256,14 +256,14 @@ government is best which governs not at all"; and when men and women are
 prepared for it, that will be the kind of government which they will
 have.'[^33]
 
-**"<a   href="J.R.R._Tolkien.md" class="wikilink" title="J.R.R. Tolkien">"J.R.R.
+**"<a   href="J.R.R._Tolkien.md" class="wikilink" title="J.R.R. Tolkien">J.R.R.
 Tolkien</a>** - 'My political opinions lean more and more to Anarchy
 (philosophically understood, meaning abolition of control not whiskered
 men with bombs) … The most improper job of any man … is bossing other
 men. Not one in a million is fit for it, and least of all those who seek
 the opportunity.'[^34]
 
-**"<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">"Leo
+**"<a   href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">Leo
 Tolstoy</a>** - 'The Anarchists are right in everything; in the negation
 of the existing order, and in the assertion that, without authority,
 there could not be worse violence than that of authority under existing
@@ -275,7 +275,7 @@ there being more and more people who will be ashamed of applying this
 power.'[^35]
 
 **"<a   href="Benjamin_Tucker.md" class="wikilink"
-title="Benjamin Tucker">"Benjamin Tucker</a>** - 'Anarchism is for
+title="Benjamin Tucker">Benjamin Tucker</a>** - 'Anarchism is for
 liberty, and neither for nor against anything else. Anarchy is the
 mother of co-operation, — yes, just as liberty is the mother of order;
 but, as a matter of definition, liberty is not order nor is Anarchism
@@ -284,7 +284,7 @@ liberty compatible with equality of liberty; or, in other words, as the
 belief in every liberty except the liberty to invade.'[^36]
 
 **"<a   href="Charlotte_Wilson.md" class="wikilink"
-title="Charlotte Wilson">"Charlotte Wilson</a>** - 'The genuine Anarchist
+title="Charlotte Wilson">Charlotte Wilson</a>** - 'The genuine Anarchist
 looks with sheer horror upon every destruction, every mutilation of a
 human being, physical or moral. He loathes wars, executions and
 imprisonments, the grinding down of the worker's whole nature in a
@@ -296,7 +296,7 @@ form.'[^37]
 ### Poetry
 
 **"<a   href="John_Henry_Mackay.md" class="wikilink"
-title="John Henry Mackay">"John Henry Mackay</a>** - Anarchy
+title="John Henry Mackay">John Henry Mackay</a>** - Anarchy
 
     Ever reviled, accursed, ne'er understood,
     Thou art the grisly terror of our age.
@@ -323,13 +323,13 @@ title="John Henry Mackay">"John Henry Mackay</a>** - Anarchy
 <references/>
 
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: <https://www.collinsdictionary.com/dictionary/english/anarchy>
 

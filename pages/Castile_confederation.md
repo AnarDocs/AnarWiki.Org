@@ -8,7 +8,7 @@ The **Castile Confederation** emerged in 1520 as a revolutionary
 movement against the Spanish Crown's unfavorable tax policies. The
 uprising began when Toledo's city council called upon all the cities
 represented in the
-"<a   href="Cortes.md" class="wikilink" title="Cortes">"Cortes</a> to establish
+"<a   href="Cortes.md" class="wikilink" title="Cortes">Cortes</a> to establish
 a common front against the royal government.[^1]
 
 City after city in Castile went into full-scale revolt, organizing civic
@@ -30,15 +30,15 @@ defeated the popular *comuneros* after a demanding conflict that
 included a siege of Toledo. The State ultimately prevailed over the
 confederation, ending this experiment in
 "<a   href="confederal_democracy.md" class="wikilink"
-title="confederal democracy">"confederal democracy</a>.
+title="confederal democracy">confederal democracy</a>.
 
 ## Organisation
 
 The confederation operated through a remarkably decentralized structure
 that embodied principles of "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> and
+title="direct democracy">direct democracy</a> and
 "<a   href="municipal_autonomy.md" class="wikilink"
-title="municipal autonomy">"municipal autonomy</a>. Political power
+title="municipal autonomy">municipal autonomy</a>. Political power
 rested with the communes, which held assemblies much like "town
 meetings" and would give their assent or opposition to proposed courses
 of action by referendum.
@@ -54,7 +54,7 @@ and were obligated to take their instructions from their home cities.
 The Cortes was expected to meet regularly and address all grievances
 before closing, establishing a system of
 "<a   href="delegate_democracy.md" class="wikilink"
-title="delegate democracy">"delegate democracy</a> rather than
+title="delegate democracy">delegate democracy</a> rather than
 representative government.
 
 The communes themselves decided upon matters of war and peace, as well
@@ -69,15 +69,15 @@ assembly—retained great authority.
 The confederation functioned along surprisingly **communistic lines**,
 using local resources in ways that approximated
 "<a   href="collective_ownership.md" class="wikilink"
-title="collective ownership">"collective ownership</a>. For example, they
+title="collective ownership">collective ownership</a>. For example, they
 privileged the right to graze cattle communally. In a pastoral economy,
 common grazing such as they practiced amounted to overriding
 "<a   href="private_property.md" class="wikilink"
-title="private property">"private property</a> and negating private land
+title="private property">private property</a> and negating private land
 ownership.
 
 This represented a practical implementation of
-"<a   href="commons.md" class="wikilink" title="commons">"commons</a>-based
+"<a   href="commons.md" class="wikilink" title="commons">commons</a>-based
 resource management that challenged the prevailing feudal property
 relations of the time.
 
@@ -85,7 +85,7 @@ relations of the time.
 
 The Castile Confederation faced opposition from the
 "<a   href="Council_of_Castile.md" class="wikilink"
-title="Council of Castile">"Council of Castile</a>, which had been
+title="Council of Castile">Council of Castile</a>, which had been
 established in 1480 as the chief administrative body of the realm.
 Representatives of Valladolid's radical parishes blamed the Council's
 "bad government" for the kingdom's troubles, highlighting the conflict
@@ -178,19 +178,19 @@ Municipalism*:
 <references/>
 
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
-title="Category:Past Anarchist Societies">"Category:Past Anarchist
+title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a> "<a   href="Category:16th_Century.md" class="wikilink"
-title="Category:16th Century">"Category:16th Century</a>
+title="Category:16th Century">Category:16th Century</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Janet Biehl, *The Politics of Social Ecology: Libertarian
     Municipalism*

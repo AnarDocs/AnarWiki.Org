@@ -4,18 +4,18 @@
 political practices and philosophies that aim to focus on the structures
 and underlying conditions that perpetuate harm and injustice.[^1] Unlike
 "<a   href="restorative_justice.md" class="wikilink"
-title="restorative justice">"restorative justice</a>, which seeks to
+title="restorative justice">restorative justice</a>, which seeks to
 repair harm within existing systems, transformative justice imagines and
 puts into practice alternatives to the formal, state-based
 "<a   href="criminal_justice.md" class="wikilink"
-title="criminal justice">"criminal justice</a> system while
+title="criminal justice">criminal justice</a> system while
 simultaneously working to dismantle the structural hierarchies that
 create conditions for harm.
 
 ## Overview
 
 As defined by American activist
-"<a   href="Mariame_Kaba.md" class="wikilink" title="Mariame Kaba">"Mariame
+"<a   href="Mariame_Kaba.md" class="wikilink" title="Mariame Kaba">Mariame
 Kaba</a>, transformative justice is a framework that focuses on
 community-building and collective solidarity against the repressive
 mechanisms of the carceral state.[^2] First popularized by Queer, Black,
@@ -40,27 +40,27 @@ oppression. Sexual assault, for instance, mirrors patriarchal
 conceptions of women as devoid of personal agency. Therefore, addressing
 individual interpersonal harm must simultaneously aim to dismantle
 systemic structures of power such as
-"<a   href="patriarchy.md" class="wikilink" title="patriarchy">"patriarchy</a>,
+"<a   href="patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>,
 cisheteronormativity,
-"<a   href="racism.md" class="wikilink" title="racism">"racism</a>, ableism,
+"<a   href="racism.md" class="wikilink" title="racism">racism</a>, ableism,
 and "<a   href="colonialism.md" class="wikilink"
-title="colonialism">"colonialism</a>.
+title="colonialism">colonialism</a>.
 
 ## Anarchist Perspective
 
 "<a   href="Anarchist_criminology.md" class="wikilink"
-title="Anarchist criminology">"Anarchist criminology</a> tends to favour
+title="Anarchist criminology">Anarchist criminology</a> tends to favour
 holistic transformative justice approaches over restorative justice,
 arguing that the latter remains too beholden to existing criminal
 justice systems.[^4] From an anarchist viewpoint, transformative justice
 represents a fundamental challenge to
-"<a   href="state.md" class="wikilink" title="state">"state</a> authority and
+"<a   href="state.md" class="wikilink" title="state">state</a> authority and
 hierarchical power structures that perpetuate violence and oppression.
 
 Anarchists recognize that institutions like police and prisons are not
 "broken" systems in need of reform, but rather structures designed to
 reinforce social inequities and protect existing power hierarchies. The
-"<a   href="state.md" class="wikilink" title="state">"state</a> uses these
+"<a   href="state.md" class="wikilink" title="state">state</a> uses these
 institutions to criminalize dissent, arrest and harass human rights
 activists, and maintain control over marginalized populations. The
 violence unleashed by the state and dominant groups is rarely considered
@@ -72,7 +72,7 @@ justice cannot be achieved through state mechanisms but must emerge from
 autonomous community responses that address root causes of harm. This
 involves dismantling not only the carceral system but also the broader
 structures of
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>,
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
 patriarchy, and other hierarchical systems that create conditions for
 violence and exploitation.
 
@@ -86,10 +86,10 @@ parties - those who experienced harm, those who caused harm, and the
 broader community.
 
 Writer and practitioner "<a   href="adrienne_maree_brown.md" class="wikilink"
-title="adrienne maree brown">"adrienne maree brown</a> emphasizes that
+title="adrienne maree brown">adrienne maree brown</a> emphasizes that
 transformative justice cannot occur if responses to transgression
 involve public takedowns reminiscent of
-"<a   href="cancel_culture.md" class="wikilink" title="cancel culture">"cancel
+"<a   href="cancel_culture.md" class="wikilink" title="cancel culture">cancel
 culture</a>. Instead, she advocates for:
 
 - Deliberate listening with the goal of understanding contexts that
@@ -108,7 +108,7 @@ to harm caused and focused on transformation rather than retribution.
 
 While transformative justice and
 "<a   href="restorative_justice.md" class="wikilink"
-title="restorative justice">"restorative justice</a> share some
+title="restorative justice">restorative justice</a> share some
 ideological underpinnings, they differ fundamentally in their
 relationship to existing systems and their scope of intervention.
 Restorative justice typically operates within or alongside existing
@@ -128,7 +128,7 @@ harm.
 
 The key distinction lies in transformative justice's commitment to
 systemic change. As "<a   href="adrienne_maree_brown.md" class="wikilink"
-title="adrienne maree brown">"adrienne maree brown</a> illustrates, if
+title="adrienne maree brown">adrienne maree brown</a> illustrates, if
 someone steals money to buy food due to systemic inequality, returning
 the money with an apology does nothing to address the hunger or economic
 system that created the desperation. Transformative justice requires
@@ -142,7 +142,7 @@ another."[^6]
 
 Transformative justice aims to recognize and respond to the needs of
 survivors of "<a   href="sexual_violence.md" class="wikilink"
-title="sexual violence">"sexual violence</a> while acknowledging the
+title="sexual violence">sexual violence</a> while acknowledging the
 interconnectedness of individual and social justice. It holds that
 experiences of intimate partner violence and sexual violence are linked
 to broader hierarchies of power based on race, class, gender, sexuality,
@@ -161,10 +161,10 @@ responses to sexual violence:
 
 Transformative justice connects closely with
 "<a   href="prison_abolition.md" class="wikilink"
-title="prison abolition">"prison abolition</a> movements, recognizing
+title="prison abolition">prison abolition</a> movements, recognizing
 that true safety cannot be achieved through systems designed to cause
 harm. "<a   href="Prison_abolition.md" class="wikilink"
-title="Prison abolition">"Prison abolition</a> is not simply about
+title="Prison abolition">Prison abolition</a> is not simply about
 closing jails but represents a framework for eliminating all forms of
 coercion including capitalism, patriarchy, and other hierarchical
 systems.
@@ -193,15 +193,15 @@ effective and humane responses that address root causes.
 ## See Also
 
 - "<a   href="Prison_abolition_movement.md" class="wikilink"
-  title="Prison abolition movement">"Prison abolition movement</a>
+  title="Prison abolition movement">Prison abolition movement</a>
 - "<a   href="Anarchist_criminology.md" class="wikilink"
-  title="Anarchist criminology">"Anarchist criminology</a>
+  title="Anarchist criminology">Anarchist criminology</a>
 - "<a   href="Restorative_justice.md" class="wikilink"
-  title="Restorative justice">"Restorative justice</a>
+  title="Restorative justice">Restorative justice</a>
 - "<a   href="Community_accountability.md" class="wikilink"
-  title="Community accountability">"Community accountability</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
-- "<a   href="Direct_action.md" class="wikilink" title="Direct action">"Direct
+  title="Community accountability">Community accountability</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- "<a   href="Direct_action.md" class="wikilink" title="Direct action">Direct
   action</a>
 
 ## References
@@ -218,21 +218,21 @@ effective and humane responses that address root causes.
   violence)](https://www.creative-interventions.org/toolkit/)
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Justice.md" class="wikilink"
-title="Category:Justice">"Category:Justice</a>
+title="Category:Justice">Category:Justice</a>
 "<a   href="Category:Prison_Abolition.md" class="wikilink"
-title="Category:Prison Abolition">"Category:Prison Abolition</a>
+title="Category:Prison Abolition">Category:Prison Abolition</a>
 "<a   href="Category:Anti-Authoritarianism.md" class="wikilink"
-title="Category:Anti-Authoritarianism">"Category:Anti-Authoritarianism</a>
+title="Category:Anti-Authoritarianism">Category:Anti-Authoritarianism</a>
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Cossman, Brenda. "Regulating Reparatively". In *The New Sex Wars*,
     163-196. New York: New York University Press, 2021.

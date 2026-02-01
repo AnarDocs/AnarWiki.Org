@@ -55,7 +55,7 @@ From "The Squatting Campaign: homes for families" by Jim Radford[^2]:
 
 [^1]: Colin Ward, "We House, You are Housed, They are Homeless" in
     "<a   href="Anarchy_in_Action.md" class="wikilink"
-    title="Anarchy in Action">"Anarchy in Action</a>
+    title="Anarchy in Action">Anarchy in Action</a>
 
 [^2]: Jim Radford. "The Squatting Campaign: homes for families." *The
     Guardian*. 10 February 2014.

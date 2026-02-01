@@ -22,17 +22,17 @@ BPP co-founder Huey Newton explained that in his pre-Panther days, he
 "fell in love with Bakunin and Nechayev's Catechism of the
 Revolutionist," and his autobiography praised Bakunin as speaking for
 the "<a   href="International_Workers&#39;_Association.md" class="wikilink"
-title="First International">"First International</a>'s most militant
+title="First International">First International</a>'s most militant
 wing.[^5]
 
 The anarchist "<a   href="San_Francisco_Diggers.md" class="wikilink"
-title="San Francisco Diggers">"San Francisco Diggers</a> printed the
+title="San Francisco Diggers">San Francisco Diggers</a> printed the
 first issues of the BPP's newspaper, and BPP member David Hillard says
 these anarchists' free grocery service inspired the Panthers' famous
 Free Breakfast Program.[^6] In 1968, when the BPP's Eldridge cleaver ran
 for president under the Peace and Freedom Party, he selected Jerry
 Rubin, a member of the anarchistic
-"<a   href="Yippies.md" class="wikilink" title="Yippies">"Yippies</a>, as his
+"<a   href="Yippies.md" class="wikilink" title="Yippies">Yippies</a>, as his
 running mate.[^7]
 
 Several former Black Panthers - including Lorenzo Kom'boa Ervin, Ashanti
@@ -91,7 +91,7 @@ programs pending revolution.”[^17] These programs constituted direct
 action, offering services to communities that capitalists and the State
 were not offering. Panther David Hillard credited the anarchist
 "<a   href="San_Francisco_Diggers.md" class="wikilink"
-title="San Francisco Diggers">"San Francisco Diggers</a>' free grocery
+title="San Francisco Diggers">San Francisco Diggers</a>' free grocery
 service with inspiring the BPP's Free Breakfast program,[^18] which in
 turn would help propel the Child Nutrition Act of 1966.[^19]
 
@@ -131,7 +131,7 @@ frighten authorities. That December, the police murdered Hampton, as
 discussed later in this article.[^25] Other Rainbow Coalition members
 included the
 "<a   href="American_Indian_Movement_and_Anarchy.md" class="wikilink"
-title="American Indian Movement">"American Indian Movement</a>, and
+title="American Indian Movement">American Indian Movement</a>, and
 Chicano Crusade for Justice.[^26]
 
 # Women in the Party
@@ -698,7 +698,7 @@ to create peace between rival gangs.”
 <references/>
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: scott crow, *Black Flags and Windmills: Hope, Anarchy, and the
     Common Ground Collective* (Oakland: PM Press, 2011), 77.
@@ -772,7 +772,7 @@ title="Category:Featured">"Category:Featured</a>
 [^22]: Clark, “Power to the Community.”
 
 [^23]: See "<a   href="Common_Ground_Collective.md" class="wikilink"
-    title="Common Ground Collective">"Common Ground Collective</a>.
+    title="Common Ground Collective">Common Ground Collective</a>.
 
 [^24]: crow, *Black Flags and Windmills*, 77.
 
@@ -833,7 +833,7 @@ title="Category:Featured">"Category:Featured</a>
 [^43]: Abu-Jamal, *We Want Freedom*, 224.
 
 [^44]: "<a   href="Maroon&#39;s_Collected_Writings#The_First_Wave:_circa_1955.md"
-    class="wikilink" title="Liberation or Gangersterism">"<em>Liberation or
+    class="wikilink" title="Liberation or Gangersterism"><em>Liberation or
     Gangersterism</em></a>
 
 [^45]: Ervin, *Anarchism and the Black Revolution*.

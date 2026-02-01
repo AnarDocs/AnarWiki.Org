@@ -14,7 +14,7 @@ Global Responsibility, and Future Focus. The group defined the new
 organization as a federation of local alliances, rather than a national
 political party. They called themselves the Committees of Correspondence
 after the "<a   href="Anarchy_in_the_American_Revolution.md" class="wikilink"
-title="committees in the American Revolution">"committees in the American
+title="committees in the American Revolution">committees in the American
 Revolution</a>. Members left the St. Paul convention and and spread the
 word across the country.[^1]
 
@@ -57,7 +57,7 @@ identities.
 > blocking entrances and causing mayhem. Over 200 were arrested.[^4]
 
 From 1986 to 1990, the "<a   href="Burlington_Greens.md" class="wikilink"
-title="Burlington Greens">"Burlington Greens</a> in Vermont combined
+title="Burlington Greens">Burlington Greens</a> in Vermont combined
 Anarchism with an involvement in local electoral politics. They followed
 a strategy that Bookchin, a member, called libertarian municipalism or
 Communalism. Their intent was to take local power and rewrite the city
@@ -105,7 +105,7 @@ away to other projects.[^6]
 [^5]: Janet Biehl, *Ecology or Catastrophe: The Life of Murray Bookchin*
     (Oxford: Oxford University Press, 2015), ch. 12. Also see
     "<a   href="Burlington_Greens.md" class="wikilink"
-    title="Burlington Greens">"Burlington Greens</a>.
+    title="Burlington Greens">Burlington Greens</a>.
 
 [^6]: Tokar, *The Green Alternative*, 53-54. Tokar, "The Greens as a
     Social Movement." The Greens/Green Party USA, "Why are there two

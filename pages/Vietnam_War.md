@@ -1,8 +1,8 @@
 The **Vietnam War** also known as the **Resistance Wars** or **Indochina
 Wars** refers to a conflict between
-"<a   href="Vietnam.md" class="wikilink" title="Vietnam">"Vietnam</a>,
-"<a   href="France.md" class="wikilink" title="France">"France</a> and the
-"<a   href="United_States_of_America.md" class="wikilink" title="USA">"USA</a>
+"<a   href="Vietnam.md" class="wikilink" title="Vietnam">Vietnam</a>,
+"<a   href="France.md" class="wikilink" title="France">France</a> and the
+"<a   href="United_States_of_America.md" class="wikilink" title="USA">USA</a>
 in their efforts to recolonise Vietnam and turn it into an area for
 extracting raw resources. The Vietnamese were successful thanks to
 fierce anti-colonial resistance by the Vietnamese and mutinous US
@@ -77,30 +77,30 @@ university campus protests.
 ## References
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Vietnam.md" class="wikilink"
-title="Category:Vietnam">"Category:Vietnam</a>
+title="Category:Vietnam">Category:Vietnam</a>
 "<a   href="Category:Southeast_Asia.md" class="wikilink"
-title="Category:Southeast Asia">"Category:Southeast Asia</a>
+title="Category:Southeast Asia">Category:Southeast Asia</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Wars.md" class="wikilink"
-title="Category:Wars">"Category:Wars</a>
+title="Category:Wars">Category:Wars</a>
 "<a   href="Category:1945.md" class="wikilink"
-title="Category:1945">"Category:1945</a>
+title="Category:1945">Category:1945</a>
 "<a   href="Category:1975.md" class="wikilink"
-title="Category:1975">"Category:1975</a>
+title="Category:1975">Category:1975</a>
 "<a   href="Category:1940s.md" class="wikilink"
-title="Category:1940s">"Category:1940s</a>
+title="Category:1940s">Category:1940s</a>
 "<a   href="Category:1950s.md" class="wikilink"
-title="Category:1950s">"Category:1950s</a>
+title="Category:1950s">Category:1950s</a>
 "<a   href="Category:1960s.md" class="wikilink"
-title="Category:1960s">"Category:1960s</a>
+title="Category:1960s">Category:1960s</a>
 "<a   href="Category:1970s.md" class="wikilink"
-title="Category:1970s">"Category:1970s</a>
+title="Category:1970s">Category:1970s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Vietnam_War.md" class="wikilink"
-title="Category:Vietnam War">"Category:Vietnam War</a>
+title="Category:Vietnam War">Category:Vietnam War</a>
 
 [^1]: <https://en.wikipedia.org/wiki/Vietnam_War_Crimes_Working_Group>

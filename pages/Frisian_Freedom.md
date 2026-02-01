@@ -3,9 +3,9 @@
 The **Frisian Freedom** (West Frisian: *Fryske frijheid*, Dutch: *Friese
 vrijheid*, German: *Friesische Freiheit*) represents one of the most
 remarkable examples of a "<a   href="stateless_society.md" class="wikilink"
-title="stateless society">"stateless society</a> in medieval Europe. From
+title="stateless society">stateless society</a> in medieval Europe. From
 approximately 1100 to 1523 CE, the
-"<a   href="Frisian.md" class="wikilink" title="Frisian">"Frisian</a> people of
+"<a   href="Frisian.md" class="wikilink" title="Frisian">Frisian</a> people of
 what is now the northern Netherlands and northwestern Germany maintained
 a decentralized, anti-feudal social organization that embodied many
 principles later advocated by anarchist thinkers.
@@ -13,13 +13,13 @@ principles later advocated by anarchist thinkers.
 ## Overview
 
 The Frisian Freedom was characterized by the complete absence of
-"<a   href="feudalism.md" class="wikilink" title="feudalism">"feudalism</a>,
-"<a   href="serfdom.md" class="wikilink" title="serfdom">"serfdom</a>, and
+"<a   href="feudalism.md" class="wikilink" title="feudalism">feudalism</a>,
+"<a   href="serfdom.md" class="wikilink" title="serfdom">serfdom</a>, and
 centralized state authority.[^1] Instead of hierarchical rule by nobles
 or monarchs, Frisian society organized itself through voluntary
 associations, "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a>, and
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>.
+title="direct democracy">direct democracy</a>, and
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>.
 This system persisted for over four centuries, making it one of the
 longest-lasting examples of large-scale anarchistic organization in
 European history.
@@ -58,7 +58,7 @@ joint call-up and by force of arms, we shall protect our liberty."[^7]
 
 Rather than submitting to feudal lords or establishing a centralized
 state, the Frisians organized themselves through a network of
-"<a   href="rural_communes.md" class="wikilink" title="rural communes">"rural
+"<a   href="rural_communes.md" class="wikilink" title="rural communes">rural
 communes</a> (*communitates terrae*).[^8] These communes were linked
 together in self-governing districts, creating what amounted to a
 confederation of autonomous communities.
@@ -67,9 +67,9 @@ Decision-making occurred through community assemblies known as
 **things** - direct democratic gatherings where all free inhabitants
 could participate.[^9] This system bears striking resemblance to later
 anarchist proposals for "<a   href="workers&#39;_councils.md" class="wikilink"
-title="workers&#39; councils">"workers' councils</a> and
+title="workers&#39; councils">workers' councils</a> and
 "<a   href="popular_assemblies.md" class="wikilink"
-title="popular assemblies">"popular assemblies</a>.
+title="popular assemblies">popular assemblies</a>.
 
 ### Rotating Justice System
 
@@ -86,7 +86,7 @@ on principles of restorative rather than punitive justice. Compensation
 tariffs were used to resolve disputes and prevent feuds, creating what
 historian Han Nijdam compares to the
 "<a   href="Icelandic_Commonwealth.md" class="wikilink"
-title="Icelandic Commonwealth">"Icelandic Commonwealth</a> - another
+title="Icelandic Commonwealth">Icelandic Commonwealth</a> - another
 example of stateless legal organization.[^12]
 
 ### Confederated Defense
@@ -94,16 +94,16 @@ example of stateless legal organization.[^12]
 For mutual protection against external threats, Frisian communities
 formed defensive leagues and alliances. The
 "<a   href="Upstalsboom_League.md" class="wikilink"
-title="Upstalsboom League">"Upstalsboom League</a> served as a
+title="Upstalsboom League">Upstalsboom League</a> served as a
 confederation for coordinating resistance to feudal expansion,
 particularly against the aggressive County of Holland during the
 "<a   href="Friso-Hollandic_Wars.md" class="wikilink"
-title="Friso-Hollandic Wars">"Friso-Hollandic Wars</a>.
+title="Friso-Hollandic Wars">Friso-Hollandic Wars</a>.
 
 These defensive arrangements were voluntary and maintained the autonomy
 of individual communities while providing collective security - a
 principle that would later influence anarchist thinking about
-"<a   href="federalism.md" class="wikilink" title="federalism">"federalism</a>
+"<a   href="federalism.md" class="wikilink" title="federalism">federalism</a>
 and mutual defense.
 
 ## Economy
@@ -141,7 +141,7 @@ as internal class stratification increased. Wealthy *haedlingen*
 (village heads) accumulated power and began forming alliances with
 external feudal powers. By 1464, eastern Frisia had been reorganized
 into the "<a   href="County_of_East_Frisia.md" class="wikilink"
-title="County of East Frisia">"County of East Frisia</a>, while western
+title="County of East Frisia">County of East Frisia</a>, while western
 regions were brought under Saxon rule by 1504.
 
 The final end came through civil war between competing Frisian factions,
@@ -155,14 +155,14 @@ The Frisian Freedom has been reinterpreted multiple times throughout
 history. During the Dutch Revolt, it was invoked to argue for the
 restoration of lost rights.
 "<a   href="American_Revolution.md" class="wikilink"
-title="American Revolution">"American Revolutionary</a> John Adams
+title="American Revolution">American Revolutionary</a> John Adams
 praised Frisians as "famous for the spirit of liberty," while French
 revolutionary Honoré Gabriel Riqueti compared Frisian culture to "a
 robust oak, with the sap of liberty preserving its strength."
 
 In the 19th and 20th centuries,
 "<a   href="Frisian_nationalism.md" class="wikilink"
-title="Frisian nationalism">"Frisian nationalism</a> appropriated the
+title="Frisian nationalism">Frisian nationalism</a> appropriated the
 concept as a cultural trait, though this romanticized version obscured
 the radical political content of the original system.
 
@@ -187,7 +187,7 @@ elements that prefigure later anarchist thought include:
   rather than state imposition
 
 The system demonstrates that what anarchists call
-""<a   href="anarchy.md" class="wikilink" title="anarchy">"anarchy</a>" - the
+""<a   href="anarchy.md" class="wikilink" title="anarchy">anarchy</a>" - the
 absence of rulers rather than the absence of order - can provide the
 foundation for stable, prosperous societies.
 
@@ -233,19 +233,19 @@ foundation for stable, prosperous societies.
   229–248.
 
 "<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
-title="Category:Past Anarchist Societies">"Category:Past Anarchist
+title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a> "<a   href="Category:Medieval_Period.md" class="wikilink"
-title="Category:Medieval Period">"Category:Medieval Period</a>
+title="Category:Medieval Period">Category:Medieval Period</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Stateless_Societies.md" class="wikilink"
-title="Category:Stateless Societies">"Category:Stateless Societies</a>
+title="Category:Stateless Societies">Category:Stateless Societies</a>
 "<a   href="Category:Direct_Democracy.md" class="wikilink"
-title="Category:Direct Democracy">"Category:Direct Democracy</a>
+title="Category:Direct Democracy">Category:Direct Democracy</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Vries, Oebele. "Frisonica libertas: Frisian freedom as an instance
     of medieval liberty." *Journal of Medieval History* 41, no. 2

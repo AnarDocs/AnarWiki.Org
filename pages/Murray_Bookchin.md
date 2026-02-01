@@ -1,21 +1,21 @@
 **Murray Bookchin** (January 14, 1921 – July 30, 2006) was an
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>,
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>,
 historian, philosopher and factory worker. His philosophy has been
 extremely influential in modern
 "<a   href="Democratic_Assembly.md" class="wikilink"
-title="democratic">"democratic</a> and
+title="democratic">democratic</a> and
 "<a   href="Environmentalism.md" class="wikilink"
-title="environmental movements">"environmental movements</a>. Although he
+title="environmental movements">environmental movements</a>. Although he
 spent most of his life as an anarcho-communist, he developed the
 philosophies of
-"<a   href="Social_Ecology.md" class="wikilink" title="social ecology">"social
+"<a   href="Social_Ecology.md" class="wikilink" title="social ecology">social
 ecology</a>, "<a   href="Dialectical_Naturalism.md" class="wikilink"
-title="dialectal naturalism">"dialectal naturalism</a> and
+title="dialectal naturalism">dialectal naturalism</a> and
 "<a   href="Libertarian_Municipalism.md" class="wikilink"
-title="libertarian municipalism">"libertarian municipalism</a>, and
+title="libertarian municipalism">libertarian municipalism</a>, and
 finally abandoned the anarchist label to develop
 "<a   href="communalism.md" class="wikilink"
-title="communalism">"communalism</a> as a distinct philosophy.
+title="communalism">communalism</a> as a distinct philosophy.
 
 <figure>
 <img src="Murray_Bookchin,_Burlington_Vermont,_1990.jpg"
@@ -364,27 +364,27 @@ inequalities.
 [^25]
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:American_anarchists.md" class="wikilink"
-title="Category:American anarchists">"Category:American anarchists</a>
+title="Category:American anarchists">Category:American anarchists</a>
 "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>
 "<a   href="Category:Communalism.md" class="wikilink"
-title="Category:Communalism">"Category:Communalism</a>
+title="Category:Communalism">Category:Communalism</a>
 "<a   href="Category:USA.md" class="wikilink"
-title="Category:USA">"Category:USA</a>
+title="Category:USA">Category:USA</a>
 "<a   href="Category:North_America.md" class="wikilink"
-title="Category:North America">"Category:North America</a>
+title="Category:North America">Category:North America</a>
 "<a   href="Category:Environmentalism.md" class="wikilink"
-title="Category:Environmentalism">"Category:Environmentalism</a>
+title="Category:Environmentalism">Category:Environmentalism</a>
 "<a   href="Category:Social_Ecology.md" class="wikilink"
-title="Category:Social Ecology">"Category:Social Ecology</a>
+title="Category:Social Ecology">Category:Social Ecology</a>
 "<a   href="Category:Wikipedia.md" class="wikilink"
-title="Category:Wikipedia">"Category:Wikipedia</a>
+title="Category:Wikipedia">Category:Wikipedia</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]:
 

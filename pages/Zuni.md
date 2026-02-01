@@ -8,7 +8,7 @@ title="Image_taken_from_page_14_of_&#39;Report_of_an_expedition_down_the_Zuni_an
 # Overview
 
 The **Zuni** (A:shiwi) are a
-"<a   href="Pueblo.md" class="wikilink" title="Pueblo">"Pueblo</a> people
+"<a   href="Pueblo.md" class="wikilink" title="Pueblo">Pueblo</a> people
 indigenous to what is now the southwestern "United States." For
 thousands of years, the Zuni maintained traditions of egalitarian
 society governed communally with the facilitation of non-coercive
@@ -20,7 +20,7 @@ as a paradigmatic life-affirming (*biophilic*) society.[^1]
 Archaeological evidence suggests that the Zuni have been farmers in
 their homeland for 3,000 to 4,000 years. The Ancestral Zuni people
 inhabited the
-"<a   href="Zuni_River.md" class="wikilink" title="Zuni River">"Zuni River</a>
+"<a   href="Zuni_River.md" class="wikilink" title="Zuni River">Zuni River</a>
 valley from the last millennium BCE, when they began using irrigation to
 farm maize on at least household-sized plots.[^2]
 
@@ -61,7 +61,7 @@ remained for the next three years.[^5]
 ## The Pueblo Revolt
 
 Before the
-"<a   href="Pueblo_Revolt.md" class="wikilink" title="Pueblo Revolt">"Pueblo
+"<a   href="Pueblo_Revolt.md" class="wikilink" title="Pueblo Revolt">Pueblo
 Revolt</a> of 1680, the Zuni lived in six villages. The revolt
 represented a coordinated uprising against Spanish colonial oppression
 across the Pueblo peoples. After the revolt, until 1692, the Zuni took
@@ -121,7 +121,7 @@ The Pueblo of Zuni website summarizes the horizontal society:
 ## Gender Relations
 
 Similarly to other Pueblo societies such as the
-"<a   href="Hopi.md" class="wikilink" title="Hopi">"Hopi</a>, the Zuni treat
+"<a   href="Hopi.md" class="wikilink" title="Hopi">Hopi</a>, the Zuni treat
 men and women equally. The Zuni have been matrilineal[^10] and
 matrilocal:
 
@@ -135,7 +135,7 @@ matrilocal:
 
 The Zuni have recognized a
 "<a   href="Third_gender_and_Transgender.md" class="wikilink"
-title="third gender">"third gender</a> known as the *lhamana* who was
+title="third gender">third gender</a> known as the *lhamana* who was
 assigned male at birth and adopted feminine characteristics. The
 *lhamana* "dressed as women and performed women's crafts such as weaving
 and potting, but also had the physical strength to fulfill certain
@@ -199,7 +199,7 @@ the picture of an unaggressive, life-loving, cooperative system."[^19]
 # In Literature
 
 In Aldous Huxley's novel
-*"<a   href="Brave_New_World.md" class="wikilink" title="Brave New World">"Brave
+*"<a   href="Brave_New_World.md" class="wikilink" title="Brave New World">Brave
 New World</a>* (1932), one of the main characters is John, a man of
 British descent who grew up among a community of Zuni people in New
 Mexico. The character serves as a contrast to the dystopian
@@ -207,7 +207,7 @@ technological society of the novel, representing connection to
 traditional ways of living. Huxley, who later embraced anarchist ideas,
 would explore similar themes of decentralized, communal societies in his
 utopian novel
-*"<a   href="Island.md" class="wikilink" title="Island">"Island</a>* (1962),
+*"<a   href="Island.md" class="wikilink" title="Island">Island</a>* (1962),
 which depicts a culture sharing some characteristics with Pueblo
 societies - including democratic decision-making, gender equality, and
 integration of spiritual practices with daily life.
@@ -217,25 +217,25 @@ integration of spiritual practices with daily life.
 <references/>
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Matriarchy.md" class="wikilink"
-title="Category:Matriarchy">"Category:Matriarchy</a>
+title="Category:Matriarchy">Category:Matriarchy</a>
 "<a   href="Category:Before_Common_Era.md" class="wikilink"
-title="Category:Before Common Era">"Category:Before Common Era</a>
+title="Category:Before Common Era">Category:Before Common Era</a>
 "<a   href="Category:North_America.md" class="wikilink"
-title="Category:North America">"Category:North America</a>
+title="Category:North America">Category:North America</a>
 "<a   href="Category:USA.md" class="wikilink"
-title="Category:USA">"Category:USA</a>
+title="Category:USA">Category:USA</a>
 "<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
-title="Category:Past Anarchist Societies">"Category:Past Anarchist
+title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a> "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Erich Fromm, *The Anatomy of Human Destructiveness* (New York:
     Henry Holt and Company, 1973), 196-199.

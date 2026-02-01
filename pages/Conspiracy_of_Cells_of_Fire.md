@@ -8,14 +8,14 @@ Conspiracy of Cells of Fire (CCF) emerged with simultaneous arsons in
 Greece on 21 January 2008 targeting cars, banks, and a power
 company.[^1] The CCF's emergence can be understood as a militant subset
 of the "<a   href="2008_Greek_insurrection.md" class="wikilink"
-title="2008 Greek insurrection">"2008 Greek insurrection</a>. They have
+title="2008 Greek insurrection">2008 Greek insurrection</a>. They have
 expressed support for the
 "<a   href="Informal_Anarchist_Federation.md" class="wikilink"
-title="Informal Anarchist Federation">"Informal Anarchist Federation</a>,
+title="Informal Anarchist Federation">Informal Anarchist Federation</a>,
 "<a   href="Animal_Liberation_Front.md" class="wikilink"
-title="Animal Liberation Front">"Animal Liberation Front</a>, and
+title="Animal Liberation Front">Animal Liberation Front</a>, and
 "<a   href="Earth_Liberation_Front.md" class="wikilink"
-title="Earth Liberation Front">"Earth Liberation Front</a>.
+title="Earth Liberation Front">Earth Liberation Front</a>.
 
 Rejecting Marxism and class-struggle Anarchism, the CCF has described
 its philosophy as anarcho-nihilist:

@@ -12,7 +12,7 @@ included Indigenous, Jewish and Muslim people. As a "quasi-state,"
 instances, African political systems."[^1]
 
 In "<a   href="Anarchism_in_Latin_America.md" class="wikilink"
-title="Anarchism in Latin America">"Anarchism in Latin America</a>,
+title="Anarchism in Latin America">Anarchism in Latin America</a>,
 Cappelletti calls Palmares "a community that in some sense was socialist
 and self-managed."
 
@@ -25,9 +25,9 @@ the Portuguese.
 <references/>
 
 "<a   href="Category:Brazil.md" class="wikilink"
-title="Category:Brazil">"Category:Brazil</a>
+title="Category:Brazil">Category:Brazil</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 
 [^1]: Ana Martins, "Palmares," *Black Past*,
@@ -35,4 +35,4 @@ Communities</a>
 
 [^2]: Ángel Cappelletti,
     "<a   href="Anarchism_in_Latin_America.md" class="wikilink"
-    title="Anarchism in Latin America">"Anarchism in Latin America</a>.
+    title="Anarchism in Latin America">Anarchism in Latin America</a>.

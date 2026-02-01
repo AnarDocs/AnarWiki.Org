@@ -1,7 +1,7 @@
 This article outlines the **contradictions of capitalism**, or the ways
 in which authoritarian capitalists contradict their own values. As such,
 this article takes "<a   href="Private_Property.md" class="wikilink"
-title="private property">"private property</a> rights, markets and
+title="private property">private property</a> rights, markets and
 corporations for granted. Even if we as anarchists have our own
 critiques of these ideas.
 
@@ -14,17 +14,17 @@ critiques of these ideas.
   coerce them into things. Despite this, history is filled with examples
   of capitalists contradicting their own principles.
   - Capitalist countries like
-    "<a   href="Australia.md" class="wikilink" title="Australia">"Australia</a>,
-    "<a   href="Brazil.md" class="wikilink" title="Brazil">"Brazil</a>,
-    "<a   href="Canada.md" class="wikilink" title="Canada">"Canada</a>,
-    "<a   href="Finland.md" class="wikilink" title="Finland">"Finland</a>,
-    "<a   href="Mexico.md" class="wikilink" title="Mexico">"Mexico</a>,
-    "<a   href="New_Zealand.md" class="wikilink" title="New Zealand">"New
+    "<a   href="Australia.md" class="wikilink" title="Australia">Australia</a>,
+    "<a   href="Brazil.md" class="wikilink" title="Brazil">Brazil</a>,
+    "<a   href="Canada.md" class="wikilink" title="Canada">Canada</a>,
+    "<a   href="Finland.md" class="wikilink" title="Finland">Finland</a>,
+    "<a   href="Mexico.md" class="wikilink" title="Mexico">Mexico</a>,
+    "<a   href="New_Zealand.md" class="wikilink" title="New Zealand">New
     Zealand</a>,
-    "<a   href="Norway.md" class="wikilink" title="Norway">"Norway</a>,
-    "<a   href="Sweden.md" class="wikilink" title="Sweden">"Sweden</a> and the
+    "<a   href="Norway.md" class="wikilink" title="Norway">Norway</a>,
+    "<a   href="Sweden.md" class="wikilink" title="Sweden">Sweden</a> and the
     "<a   href="United_States_of_America.md" class="wikilink"
-    title="United States">"United States</a> regularly see corporations
+    title="United States">United States</a> regularly see corporations
     and the state working to violate the property rights of indigenous
     communities to make way for development and natural resource
     extraction. (Specific details are available on each countries page)
@@ -140,7 +140,7 @@ critiques of these ideas.
 #### New Zealand
 
 From 1984 to 1993,
-"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">"New
+"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">New
 Zealand</a> underwent radical free-market reforms, moving from a
 regulated social democracy to an extreme free-market system. The reforms
 included floating the currency, removing agricultural subsidies,
@@ -165,15 +165,15 @@ New Zealand:
 
 See -
 "<a   href="Contradictions_of_Authoritarian_Socialism.md" class="wikilink"
-title="Contradictions of Authoritarian Socialism">"Contradictions of
+title="Contradictions of Authoritarian Socialism">Contradictions of
 Authoritarian Socialism</a> for contrast
 
 "<a   href="Category:Capitalism.md" class="wikilink"
-title="Category:Capitalism">"Category:Capitalism</a>
+title="Category:Capitalism">Category:Capitalism</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 
 [^1]: <https://www.trustforlondon.org.uk/publications/unpaid-britain-wage-default-british-labour-market/>
 

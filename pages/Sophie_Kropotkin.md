@@ -3,8 +3,8 @@ commonly known as **Sophie Kropotkin**, was a Ukrainian teacher, writer,
 and anarchist activist. Born into a Ukrainian Jewish family, she became
 the wife and devoted companion of prominent
 "<a   href="anarchist_communist.md" class="wikilink"
-title="anarchist communist">"anarchist communist</a> theorist
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+title="anarchist communist">anarchist communist</a> theorist
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>. She played a crucial role in campaigning for her
 husband's release from French prison, became a respected educator and
 lecturer in Britain, and later directed a museum dedicated to
@@ -51,7 +51,7 @@ was forced to release Peter in January 1886.
 Moving to Britain in 1886, Sophie established herself as a teacher and
 public speaker with help from
 "<a   href="Charlotte_Wilson.md" class="wikilink"
-title="Charlotte Wilson">"Charlotte Wilson</a>. She became a popular
+title="Charlotte Wilson">Charlotte Wilson</a>. She became a popular
 lecturer throughout Surrey and London, discussing chemistry, botany, and
 the political situation in the Russian Empire. Unlike her husband, she
 was never depicted as a terrorist by the British press, instead being
@@ -59,7 +59,7 @@ respectfully referred to by her title of "Princess."[^6]
 
 Sophie gave birth to daughter
 "<a   href="Alexandra_Kropotkin.md" class="wikilink"
-title="Alexandra Kropotkin">"Alexandra Kropotkin</a> in April 1887. She
+title="Alexandra Kropotkin">Alexandra Kropotkin</a> in April 1887. She
 carefully protected Peter from surveillance by Russian spies and managed
 their household, often doubling food preparations as unexpected visitors
 frequently joined their Sunday afternoon teas in Bromley.[^7]
@@ -120,19 +120,19 @@ anarchist ideas beyond her husband's lifetime.
 <references/>
 
 "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>
 "<a   href="Category:Ukrainian_Anarchists.md" class="wikilink"
-title="Category:Ukrainian Anarchists">"Category:Ukrainian Anarchists</a>
+title="Category:Ukrainian Anarchists">Category:Ukrainian Anarchists</a>
 "<a   href="Category:Anarchist_Women.md" class="wikilink"
-title="Category:Anarchist Women">"Category:Anarchist Women</a>
+title="Category:Anarchist Women">Category:Anarchist Women</a>
 "<a   href="Category:Museum_Directors.md" class="wikilink"
-title="Category:Museum Directors">"Category:Museum Directors</a>
+title="Category:Museum Directors">Category:Museum Directors</a>
 "<a   href="Category:Educators.md" class="wikilink"
-title="Category:Educators">"Category:Educators</a>
+title="Category:Educators">Category:Educators</a>
 "<a   href="Category:Anti-Authoritarian_Activists.md" class="wikilink"
-title="Category:Anti-Authoritarian Activists">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Activists">Category:Anti-Authoritarian
 Activists</a> "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Woodcock & Avakumović, 1990, p. 171
 

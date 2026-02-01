@@ -16,7 +16,7 @@ Bringing critiques of neoliberal “free trade” and corporate power to the
 forefront of people’s attention worldwide, the demonstrations played an
 enormous role in attracting new participants and supporters to the
 "<a   href="alter-globalization_movement.md" class="wikilink"
-title="alter-globalization movement">"alter-globalization movement</a>.
+title="alter-globalization movement">alter-globalization movement</a>.
 
 The demonstrations involved a diverse range of tactics including the
 delegates’ walkout and activists’ permitted marches, nonviolent civil
@@ -107,9 +107,9 @@ Last.”[^16]
 
 Members of the
 "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
-title="Industrial Workers of the World">"Industrial Workers of the
+title="Industrial Workers of the World">Industrial Workers of the
 World</a> (IWW) and
-"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
+"<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
 First!</a> organized rank-and-file members of the longshore workers and
 steelworkers to join the direct actions:
 
@@ -160,7 +160,7 @@ The ACME Collective explained that the bloc attacked:
 
 Authors of the statement included future
 "<a   href="Earth_Liberation_Front.md" class="wikilink"
-title="Earth Liberation Front">"Earth Liberation Front</a> members Daniel
+title="Earth Liberation Front">Earth Liberation Front</a> members Daniel
 McGowan and Suzanne Savoie (the latter of whom informed on ELF
 co-defendants during Operation Backfire) [^22]
 
@@ -316,7 +316,7 @@ Pakistan with a “Shut down the WTO” banner.[^31]
 
 [^18]: Crimethinc, *N30*, 21.
 
-[^19]: "<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
+[^19]: "<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
     First!</a>
 
 [^20]: Kevin Michael DeLuca and Jennifer Peeples, “From public sphere to

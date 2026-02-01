@@ -42,7 +42,7 @@ Colin Ward, Anarchy in Action[^4]:
     <https://horizontalpowerhour.wordpress.com/2012/04/17/episode-39-ben-morea-and-black-mask/>.
 
 [^4]: "<a   href="Anarchy_in_Action.md" class="wikilink"
-    title="Anarchy_in_Action">"Anarchy_in_Action</a>
+    title="Anarchy_in_Action">Anarchy_in_Action</a>
 
 [^5]: Fifty Million Volunteers, Report on the Role of Voluntary
     Organisations and Youth in the Environment (London, 1972).

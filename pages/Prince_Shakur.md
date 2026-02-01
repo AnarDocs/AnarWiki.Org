@@ -89,10 +89,10 @@ of the Black anarchist podcast, The Dugout.
   Shakur)
 
 "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>
 "<a   href="Category:American_Anarchists.md" class="wikilink"
-title="Category:American Anarchists">"Category:American Anarchists</a>
+title="Category:American Anarchists">Category:American Anarchists</a>
 "<a   href="Category:Jamaican_Anarchists.md" class="wikilink"
-title="Category:Jamaican Anarchists">"Category:Jamaican Anarchists</a>
+title="Category:Jamaican Anarchists">Category:Jamaican Anarchists</a>
 "<a   href="Category:Queer_Anarchism.md" class="wikilink"
-title="Category:Queer Anarchism">"Category:Queer Anarchism</a>
+title="Category:Queer Anarchism">Category:Queer Anarchism</a>

@@ -25,15 +25,15 @@ rights can just as easily dismantle them.[^2]
 
 The question of left unity has produced particularly sharp debate
 regarding "<a   href="Marxism-Leninism.md" class="wikilink"
-title="Leninists">"Leninists</a> and
-"<a   href="Maoism.md" class="wikilink" title="Maoists">"Maoists</a>, who
+title="Leninists">Leninists</a> and
+"<a   href="Maoism.md" class="wikilink" title="Maoists">Maoists</a>, who
 believe authoritarian governments and party dictatorships can lead to
 socialism or communism. History has repeatedly shown this leads to a
-form of "<a   href="fascism.md" class="wikilink" title="fascism">"fascism</a>,
+form of "<a   href="fascism.md" class="wikilink" title="fascism">fascism</a>,
 replacing private
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
 with "<a   href="state_capitalism.md" class="wikilink"
-title="state capitalism">"state capitalism</a>, enslaving workers under
+title="state capitalism">state capitalism</a>, enslaving workers under
 new masters, and substituting one empire for another equally or more
 restrictive and violent.[^3]
 
@@ -46,20 +46,20 @@ emerged prominently in the late 19th century. In 1890, two anarchist
 writers published contrasting views in *Twentieth Century* magazine that
 exemplified the debate's enduring tensions.
 
-"<a   href="William_Holmes.md" class="wikilink" title="William Holmes">"William
+"<a   href="William_Holmes.md" class="wikilink" title="William Holmes">William
 Holmes</a> argued that anarchists should assist in creating and
 nourishing "a spirit of discontent" regardless of specific remedies
 proposed, believing that "there is good in all things, that there are
 truths in every doctrine."[^4] He advocated distributing literature from
 "<a   href="State_Socialism.md" class="wikilink"
-title="State Socialists">"State Socialists</a>,
+title="State Socialists">State Socialists</a>,
 "<a   href="Nationalism.md" class="wikilink"
-title="Nationalists">"Nationalists</a>, and
-"<a   href="Single_Tax.md" class="wikilink" title="Single Tax">"Single Tax</a>
+title="Nationalists">Nationalists</a>, and
+"<a   href="Single_Tax.md" class="wikilink" title="Single Tax">Single Tax</a>
 advocates, arguing these works could awaken people to social injustices
 even if their proposed solutions were flawed.
 
-"<a   href="Victor_Yarros.md" class="wikilink" title="Victor Yarros">"Victor
+"<a   href="Victor_Yarros.md" class="wikilink" title="Victor Yarros">Victor
 Yarros</a> countered that cooperation was impossible due to fundamental
 theoretical differences: "My ideal is a totally different one from that
 of the Nationalists, alias Socialists; my methods are also different.
@@ -67,35 +67,35 @@ Hence I cannot work with them."[^5] He emphasized that practice without
 theory is impossible in social affairs, and that differing theories
 necessitate different practices.
 
-"<a   href="Ross_Winn.md" class="wikilink" title="Ross Winn">"Ross Winn</a>
+"<a   href="Ross_Winn.md" class="wikilink" title="Ross Winn">Ross Winn</a>
 offered a middle position in 1894, arguing that while reformers differed
 on methods, they shared the goal of a
 "<a   href="cooperative_commonwealth.md" class="wikilink"
-title="cooperative commonwealth">"cooperative commonwealth</a>. He
+title="cooperative commonwealth">cooperative commonwealth</a>. He
 proposed that unity could be achieved on the basis of
 "<a   href="voluntary_association.md" class="wikilink"
-title="voluntary association">"voluntary association</a>: "Let us have
+title="voluntary association">voluntary association</a>: "Let us have
 the co-operative commonwealth. It is sure to come, but let its
 foundation be individual freedom."[^6]
 
 ### 20th Century Revolutionary Movements
 
 The early 20th century saw anarchists and
-"<a   href="Marxism.md" class="wikilink" title="Marxists">"Marxists</a> unite
+"<a   href="Marxism.md" class="wikilink" title="Marxists">Marxists</a> unite
 during several revolutionary moments.
 "<a   href="The_First_International.md" class="wikilink"
-title="The First International">"The First International</a> initially
+title="The First International">The First International</a> initially
 brought anarchists and Marxists together until
-"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">"Karl Marx</a>
+"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>
 organized the expulsion of "<a   href="Michael_Bakunin.md" class="wikilink"
-title="Michael Bakunin">"Michael Bakunin</a> and forced a split with the
+title="Michael Bakunin">Michael Bakunin</a> and forced a split with the
 anarchists.[^7]
 
 The "<a   href="Haymarket_Affair.md" class="wikilink"
-title="Haymarket Martyrs">"Haymarket Martyrs</a> of 1886 were anarchists
+title="Haymarket Martyrs">Haymarket Martyrs</a> of 1886 were anarchists
 who came from Marxist backgrounds and continued using Marxist analysis
 of capitalism.[^8] "<a   href="Anarcho-syndicalism.md" class="wikilink"
-title="Anarcho-syndicalism">"Anarcho-syndicalism</a> shared a
+title="Anarcho-syndicalism">Anarcho-syndicalism</a> shared a
 revolutionary working class orientation with Marxism, creating
 opportunities for cooperation in labor struggles.
 
@@ -104,22 +104,22 @@ opportunities for cooperation in labor struggles.
 ### The United Front
 
 The
-**"<a   href="United_Front.md" class="wikilink" title="United Front">"United
+**"<a   href="United_Front.md" class="wikilink" title="United Front">United
 Front</a>** was theorized in the early 1920s by the
-"<a   href="Comintern.md" class="wikilink" title="Comintern">"Comintern</a> and
+"<a   href="Comintern.md" class="wikilink" title="Comintern">Comintern</a> and
 developed by
-"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">"Leon
+"<a   href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
 Trotsky</a>. Almost simultaneously, a similar model was articulated by
 Italian anarchists
-"<a   href="Armando_Borghi.md" class="wikilink" title="Armando Borghi">"Armando
+"<a   href="Armando_Borghi.md" class="wikilink" title="Armando Borghi">Armando
 Borghi</a> and "<a   href="Errico_Malatesta.md" class="wikilink"
-title="Errico Malatesta">"Errico Malatesta</a>.[^9]
+title="Errico Malatesta">Errico Malatesta</a>.[^9]
 
 In basic terms, the United Front suggests revolutionary proletarian
 organizations should form tactical and strategic alliances with
 reformist proletarian organizations, such as
 "<a   href="social_democracy.md" class="wikilink"
-title="social democrats">"social democrats</a>. In its defensive form, it
+title="social democrats">social democrats</a>. In its defensive form, it
 is a strategy for when radical forces are in a minority.[^10]
 Revolutionary organizations maintain independence while working with
 reformists on concrete shared goals. When reformists falter or betray
@@ -129,7 +129,7 @@ potentially win over rank-and-file members.
 #### Italy and Anti-Fascism
 
 In 1921, as Italian
-"<a   href="fascism.md" class="wikilink" title="fascism">"fascism</a> emerged,
+"<a   href="fascism.md" class="wikilink" title="fascism">fascism</a> emerged,
 Malatesta proposed the *Fronte Unico Rivoluzionario* (Revolutionary
 United Front) as a defensive anti-fascist alliance.[^11] Italian workers
 initially formed Workers Defence Committees, uniting proletarians at the
@@ -138,11 +138,11 @@ with left-wing ex-servicemen to establish the anti-fascist militia, the
 Arditi del Popolo.[^12]
 
 Tragically, both the "<a   href="Socialist_Party.md" class="wikilink"
-title="Socialist Party">"Socialist Party</a> and
+title="Socialist Party">Socialist Party</a> and
 "<a   href="Communist_Party.md" class="wikilink"
-title="Communist Party">"Communist Party</a> withdrew from the Arditi,
+title="Communist Party">Communist Party</a> withdrew from the Arditi,
 leaving anarchists, "<a   href="syndicalism.md" class="wikilink"
-title="syndicalists">"syndicalists</a>, and republicans to fight fascism
+title="syndicalists">syndicalists</a>, and republicans to fight fascism
 alone. Trotsky later articulated the anti-fascist United Front in the
 1930s, arguing that German workers' organizations must unite for mass
 action against fascism.[^13]
@@ -150,16 +150,16 @@ action against fascism.[^13]
 ### The Workers Alliance
 
 In 1934, the mining region of
-"<a   href="Asturias.md" class="wikilink" title="Asturias">"Asturias</a> in
-"<a   href="Spain.md" class="wikilink" title="Spain">"Spain</a> erupted in
+"<a   href="Asturias.md" class="wikilink" title="Asturias">Asturias</a> in
+"<a   href="Spain.md" class="wikilink" title="Spain">Spain</a> erupted in
 revolt following a fascist organization joining the government. This was
 precipitated by the **Alianza Obrera** (Workers Alliance), a
 revolutionary coalition initially formed by the anarcho-syndicalist
-union "<a   href="CNT.md" class="wikilink" title="CNT">"CNT</a>, the
-socialist-dominated "<a   href="UGT.md" class="wikilink" title="UGT">"UGT</a>,
+union "<a   href="CNT.md" class="wikilink" title="CNT">CNT</a>, the
+socialist-dominated "<a   href="UGT.md" class="wikilink" title="UGT">UGT</a>,
 later joined by the
-"<a   href="PSOE.md" class="wikilink" title="PSOE">"PSOE</a>,
-"<a   href="BOC.md" class="wikilink" title="BOC">"BOC</a>, Communist Left, and
+"<a   href="PSOE.md" class="wikilink" title="PSOE">PSOE</a>,
+"<a   href="BOC.md" class="wikilink" title="BOC">BOC</a>, Communist Left, and
 Communist Party.[^14]
 
 In Asturias, the rank-and-file of the socialist movement was more
@@ -171,7 +171,7 @@ the anarcho-syndicalist anti-political attitude.[^15]
 
 However, national tensions between political forces undermined a
 country-wide Workers Alliance. The
-"<a   href="FAI.md" class="wikilink" title="FAI">"FAI</a> was particularly
+"<a   href="FAI.md" class="wikilink" title="FAI">FAI</a> was particularly
 hostile to the alliance. When the revolt erupted, the alliance failed in
 every region except Asturias. Though most of the country went on general
 strike, Asturias fought alone for a fortnight, establishing proletarian
@@ -187,18 +187,18 @@ revolutionary perspectives.[^17]
 ### Uruguay and the Combative Tendency
 
 The **"<a   href="Federación_Anarquista_Uruguaya.md" class="wikilink"
-title="Federación Anarquista Uruguaya">"Federación Anarquista
+title="Federación Anarquista Uruguaya">Federación Anarquista
 Uruguaya</a>** (FAU) developed unique approaches to coalition-building
 during the 1960s and 70s. They helped form a new national union body
 comprising over 90% of unionized workers. Within this
-"<a   href="CNT_(Uruguay).md" class="wikilink" title="CNT">"CNT</a>, the FAU
+"<a   href="CNT_(Uruguay).md" class="wikilink" title="CNT">CNT</a>, the FAU
 organized with militant Marxist groups like the
 "<a   href="MLN-Tupamaros.md" class="wikilink"
-title="MLN-Tupamaros">"MLN-Tupamaros</a> to create the **Combativa
+title="MLN-Tupamaros">MLN-Tupamaros</a> to create the **Combativa
 Tendencia** (Combative Tendency) voting block.[^18]
 
 While the "<a   href="Communist_Party.md" class="wikilink"
-title="Communist Party">"Communist Party</a> attempted to push movements
+title="Communist Party">Communist Party</a> attempted to push movements
 toward their electoral project, the Frente Amplio, the FAU and Tendencia
 grew in the vacuum left by CP leadership in the labor movement. As an
 internal FAU document noted: "in the end.. what matters… is who
@@ -215,7 +215,7 @@ to "strike together."[^20]
 ### The Grouping of Tendency
 
 Some
-"<a   href="especifismo.md" class="wikilink" title="especifist">"especifist</a>
+"<a   href="especifismo.md" class="wikilink" title="especifist">especifist</a>
 anarchists developed the **Grouping of Tendency** model to frame
 intervention into movements and struggles. This operates at both social
 movement and political struggle levels, with clear distinction between
@@ -236,8 +236,8 @@ strategic choice.[^22]
 Proponents of left unity argue that different leftist tendencies share
 significant common ground that justifies cooperation. State Socialists,
 Nationalists, and Anarchists all desire the abolition of
-"<a   href="interest.md" class="wikilink" title="interest">"interest</a> and
-"<a   href="profit.md" class="wikilink" title="profit">"profit</a>, though
+"<a   href="interest.md" class="wikilink" title="interest">interest</a> and
+"<a   href="profit.md" class="wikilink" title="profit">profit</a>, though
 through different means.[^23] Nationalists, Single-tax advocates, and
 State Socialists unite in declaring that government should be less
 cumbersome and costly, and all advocate for more individual
@@ -294,7 +294,7 @@ definite views respecting the mode of its gradual realization; and I
 follow my own lights."[^31]
 
 Anarchism's analysis of the
-"<a   href="state.md" class="wikilink" title="state">"state</a> as a
+"<a   href="state.md" class="wikilink" title="state">state</a> as a
 fundamental site of minority class rule creates irreconcilable
 differences with Marxists and social democrats who seek to capture state
 power.[^32] Anarchism's insistence on democratic collective
@@ -306,26 +306,26 @@ Marxism.[^33]
 
 Anarchists point to repeated historical betrayals by supposed allies.
 The "<a   href="Russian_Revolution.md" class="wikilink"
-title="Russian Revolution">"Russian Revolution</a> initially saw
+title="Russian Revolution">Russian Revolution</a> initially saw
 convergence between anarchists and Marxist revolutionaries, but by 1920,
-the "<a   href="Leninism.md" class="wikilink" title="Leninists">"Leninists</a>
+the "<a   href="Leninism.md" class="wikilink" title="Leninists">Leninists</a>
 had banned all alternate parties, including those that fought on their
 side. Anarchists were arrested, jailed, and shot.[^34]
 
 The "<a   href="Kronstadt_rebellion.md" class="wikilink"
-title="Kronstadt rebellion">"Kronstadt rebellion</a> of 1921 exemplified
+title="Kronstadt rebellion">Kronstadt rebellion</a> of 1921 exemplified
 this pattern. Sailors influenced by anarchists demanded an end to the
 Communist political monopoly and free elections to
-"<a   href="soviets.md" class="wikilink" title="soviets">"soviets</a>. The
+"<a   href="soviets.md" class="wikilink" title="soviets">soviets</a>. The
 Communists crushed them militarily and shot captured sailors in
 batches.[^35]
 
 During the "<a   href="Spanish_Revolution.md" class="wikilink"
-title="Spanish Revolution">"Spanish Revolution</a>, the
-"<a   href="Popular_Front.md" class="wikilink" title="Popular Front">"Popular
+title="Spanish Revolution">Spanish Revolution</a>, the
+"<a   href="Popular_Front.md" class="wikilink" title="Popular Front">Popular
 Front</a> strategy proved disastrous. The rolling back of
 "<a   href="collectivization.md" class="wikilink"
-title="collectivization">"collectivization</a> crippled both morale and
+title="collectivization">collectivization</a> crippled both morale and
 the economy, and bourgeois forces took advantage of the alliance to
 smash working class forces.[^36] As the journal *Bilan* noted, the
 Spanish Revolution was ultimately defeated under the slogan of
@@ -334,7 +334,7 @@ Anti-Fascism.[^37]
 ### Entryism and Manipulation
 
 Contemporary critics describe
-**"<a   href="entryism.md" class="wikilink" title="entryism">"entryism</a>**
+**"<a   href="entryism.md" class="wikilink" title="entryism">entryism</a>**
 whereby members of authoritarian groups join anarchist spaces with the
 intention of changing principles and plans. This provides "a means for a
 small but determined group to leverage their influence onto a larger
@@ -370,9 +370,9 @@ transparent, caring relationships, "unity" is merely an illusion.[^42]
 
 Anti-authoritarians cannot be expected to uncritically build with groups
 fundamentally defined by
-"<a   href="hierarchy.md" class="wikilink" title="hierarchy">"hierarchy</a> or
+"<a   href="hierarchy.md" class="wikilink" title="hierarchy">hierarchy</a> or
 willing to collude with and become the state apparatus. Practicing
-"<a   href="autonomy.md" class="wikilink" title="autonomy">"autonomy</a> means
+"<a   href="autonomy.md" class="wikilink" title="autonomy">autonomy</a> means
 actively contesting milieus that refuse criticism of harm caused by
 their structure, practices, and leaders.[^43]
 
@@ -386,7 +386,7 @@ everyone abide by their party line.[^44]
 ### The Popular Front
 
 The
-**"<a   href="Popular_Front.md" class="wikilink" title="Popular Front">"Popular
+**"<a   href="Popular_Front.md" class="wikilink" title="Popular Front">Popular
 Front</a>** strategy, whereby revolutionary organizations subordinate
 themselves to coalitions with progressive bourgeois forces, has been
 particularly criticized. The Comintern's turn to Popular Front in the
@@ -408,7 +408,7 @@ Allende's government in 1973 Chile.[^47]
 
 Critics identify concerning overlaps between contemporary forms of
 Marxism-Leninism and **"<a   href="third_position.md" class="wikilink"
-title="third positionism">"third positionism</a>** - the fascist ideology
+title="third positionism">third positionism</a>** - the fascist ideology
 blending right-wing cultural views with left-wing economic
 rhetoric.[^48]
 
@@ -418,7 +418,7 @@ ethno-nationalism, cultural genocide, and mass incarceration with
 socialist rhetoric, are accused of essentially supporting a variant of
 fascism.[^49] The similarities between
 "<a   href="Marxism-Leninism.md" class="wikilink"
-title="Marxism-Leninism">"Marxism-Leninism</a> and fascism - both
+title="Marxism-Leninism">Marxism-Leninism</a> and fascism - both
 characterized by "radical authoritarian ultranationalism, dictatorial
 power, forcible suppression of opposition and control of industry" - are
 striking.[^50]
@@ -471,7 +471,7 @@ class to exploit.[^56]
 
 Some anarchists propose
 **"<a   href="anarchism_without_adjectives.md" class="wikilink"
-title="anarchism without adjectives">"anarchism without adjectives</a>**
+title="anarchism without adjectives">anarchism without adjectives</a>**
 as a solution, suggesting anarchists should tolerate diversity of
 economic and social arrangements within anarchism itself. However, this
 is distinct from left unity with non-anarchist socialists, as it
@@ -484,7 +484,7 @@ multiple anarchist visions of post-revolutionary society.
 
 Some critics of left unity also critique the **community ideal** itself
 as authority-forming, pointing to groups like the
-"<a   href="Hadza.md" class="wikilink" title="Hadza">"Hadza</a> people of east
+"<a   href="Hadza.md" class="wikilink" title="Hadza">Hadza</a> people of east
 Africa who live in small, autonomous bands rather than organized
 communities.[^57]
 
@@ -510,7 +510,7 @@ waged as a battle of ideas, but never imposed onto mass movements.[^60]
 ### Autonomous Organization
 
 Emphasis on maintaining
-**"<a   href="autonomy.md" class="wikilink" title="autonomy">"autonomy</a>** -
+**"<a   href="autonomy.md" class="wikilink" title="autonomy">autonomy</a>** -
 continuing to organize independently while engaging in specific
 collaborations - offers a middle path. Autonomy means not acting like
 fascists to gain power over each other, actively contesting
@@ -556,20 +556,20 @@ contribute to development of working class power.[^65]
 
 ## See Also
 
-- "<a   href="Popular_Front.md" class="wikilink" title="Popular Front">"Popular
+- "<a   href="Popular_Front.md" class="wikilink" title="Popular Front">Popular
   Front</a>
-- "<a   href="United_Front.md" class="wikilink" title="United Front">"United
+- "<a   href="United_Front.md" class="wikilink" title="United Front">United
   Front</a>
 - "<a   href="Especifismo.md" class="wikilink"
-  title="Especifismo">"Especifismo</a>
+  title="Especifismo">Especifismo</a>
 - "<a   href="Anarcho-syndicalism.md" class="wikilink"
-  title="Anarcho-syndicalism">"Anarcho-syndicalism</a>
+  title="Anarcho-syndicalism">Anarcho-syndicalism</a>
 - "<a   href="Platformism.md" class="wikilink"
-  title="Platformism">"Platformism</a>
+  title="Platformism">Platformism</a>
 - "<a   href="Synthesis_Anarchism.md" class="wikilink"
-  title="Synthesis Anarchism">"Synthesis Anarchism</a>
+  title="Synthesis Anarchism">Synthesis Anarchism</a>
 - "<a   href="Anarchism_Without_Adjectives.md" class="wikilink"
-  title="Anarchism Without Adjectives">"Anarchism Without Adjectives</a>
+  title="Anarchism Without Adjectives">Anarchism Without Adjectives</a>
 
 ## External Links
 
@@ -583,17 +583,17 @@ contribute to development of working class power.[^65]
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Socialist_Movement.md" class="wikilink"
-title="Category:Socialist Movement">"Category:Socialist Movement</a>
+title="Category:Socialist Movement">Category:Socialist Movement</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: User-provided introduction
 

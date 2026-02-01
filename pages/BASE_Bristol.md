@@ -1,18 +1,18 @@
 # BASE (Bristol)
 
 **Base for Anarchy & Solidarity in Easton** (**BASE**) is an
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 "<a   href="self-managed_social_centre.md" class="wikilink"
-title="self-managed social centre">"self-managed social centre</a> and
+title="self-managed social centre">self-managed social centre</a> and
 community co-operative located in
-"<a   href="Easton.md" class="wikilink" title="Easton">"Easton</a>,
-"<a   href="Bristol.md" class="wikilink" title="Bristol">"Bristol</a>,
-"<a   href="England.md" class="wikilink" title="England">"England</a>.
+"<a   href="Easton.md" class="wikilink" title="Easton">Easton</a>,
+"<a   href="Bristol.md" class="wikilink" title="Bristol">Bristol</a>,
+"<a   href="England.md" class="wikilink" title="England">England</a>.
 Originally established as a
-"<a   href="squat.md" class="wikilink" title="squat">"squat</a> in 1995 and
+"<a   href="squat.md" class="wikilink" title="squat">squat</a> in 1995 and
 formerly known as **Kebele**, BASE has operated continuously for three
 decades as a volunteer-run space dedicated to anarchist organizing,
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
 and community solidarity.[^1]
 
 ## History
@@ -31,11 +31,11 @@ organizing activities on anarchist principles of opposing all forms of
 authority and organizing collectively without leaders.[^3]
 
 The original name "Kebele" derives from an
-"<a   href="Amharic.md" class="wikilink" title="Amharic">"Amharic</a> word
+"<a   href="Amharic.md" class="wikilink" title="Amharic">Amharic</a> word
 meaning "community place" or "neighbourhood," referring to localized
 community institutions that dealt with their own needs and concerns.
 During the "<a   href="Grenada_Revolution.md" class="wikilink"
-title="Grenada Revolution">"Grenada Revolution</a> of 1979, Rastafarians
+title="Grenada Revolution">Grenada Revolution</a> of 1979, Rastafarians
 involved in the struggle used the term to refer to community centres
 from which the revolution was based.[^4]
 
@@ -43,7 +43,7 @@ From the beginning, the squatters ran a Sunday Squat Cafe offering
 affordable food, activities for children, and information nights. The
 space became a base for local campaigns including
 "<a   href="Bristol_Housing_Action_Movement.md" class="wikilink"
-title="Bristol Housing Action Movement">"Bristol Housing Action
+title="Bristol Housing Action Movement">Bristol Housing Action
 Movement</a> and provided crucial support for eco-defence camps
 resisting road-building projects such as the Batheaston bypass and
 Syston Ring Road.[^5]
@@ -93,9 +93,9 @@ projects within Kebele—including the library, cafe, infoshop, bike
 project, and soundsystem collectives—would meet together to collectively
 run the space through
 "<a   href="consensus_decision-making.md" class="wikilink"
-title="consensus decision-making">"consensus decision-making</a> and
+title="consensus decision-making">consensus decision-making</a> and
 principles of "<a   href="non-hierarchy.md" class="wikilink"
-title="non-hierarchy">"non-hierarchy</a>.[^12]
+title="non-hierarchy">non-hierarchy</a>.[^12]
 
 From 2005 onwards, Kebele experienced renewed energy. New collectives
 formed, more campaign and action groups used the building, and there was
@@ -120,9 +120,9 @@ centre.[^15]
 ### COVID-19 Mutual Aid Response (2020-2022)
 
 When the "<a   href="COVID-19_pandemic.md" class="wikilink"
-title="COVID-19 pandemic">"COVID-19 pandemic</a> began in 2020, BASE
+title="COVID-19 pandemic">COVID-19 pandemic</a> began in 2020, BASE
 volunteers initiated a
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 vegan food project called **BASE & Roses** (B&R). The project delivered
 food boxes and cooked meals throughout Bristol using food donated by
 local shops and tens of thousands of pounds raised through fundraising.
@@ -150,10 +150,10 @@ space is organized according to anarchist principles including:[^18]
 
 - **Collective decision-making and organization**: Decisions are reached
   by
-  "<a   href="consensus.md" class="wikilink" title="consensus">"consensus</a>,
+  "<a   href="consensus.md" class="wikilink" title="consensus">consensus</a>,
   where everyone agrees, embodying
   "<a   href="direct_democracy.md" class="wikilink"
-  title="direct democracy">"direct democracy</a>
+  title="direct democracy">direct democracy</a>
 - **Co-operation and mutual aid**: Working together, sharing knowledge
   and resources, and helping each other builds strong communities and
   networks
@@ -212,7 +212,7 @@ BASE hosts several longstanding volunteer-run collectives and projects:
 BASE has been used as a base for numerous campaigns and direct actions,
 including organizing for international solidarity (such as supporting
 the "<a   href="Zapatista_movement.md" class="wikilink"
-title="Zapatista movement">"Zapatista movement</a> in Chiapas, Mexico),
+title="Zapatista movement">Zapatista movement</a> in Chiapas, Mexico),
 environmental campaigns, animal rights organizing, and anti-capitalist
 mobilizations.[^22][^23]
 
@@ -220,15 +220,15 @@ mobilizations.[^22][^23]
 
 BASE is part of a network of
 "<a   href="self-managed_social_centres.md" class="wikilink"
-title="self-managed social centres">"self-managed social centres</a> in
+title="self-managed social centres">self-managed social centres</a> in
 the
-"<a   href="United_Kingdom.md" class="wikilink" title="United Kingdom">"United
+"<a   href="United_Kingdom.md" class="wikilink" title="United Kingdom">United
 Kingdom</a>, which includes
-"<a   href="The_1_in_12_Club.md" class="wikilink" title="The 1 in 12 Club">"The
+"<a   href="The_1_in_12_Club.md" class="wikilink" title="The 1 in 12 Club">The
 1 in 12 Club</a> in Bradford, the
-"<a   href="Cowley_Club.md" class="wikilink" title="Cowley Club">"Cowley
+"<a   href="Cowley_Club.md" class="wikilink" title="Cowley Club">Cowley
 Club</a> in Brighton, and the
-"<a   href="Sumac_Centre.md" class="wikilink" title="Sumac Centre">"Sumac
+"<a   href="Sumac_Centre.md" class="wikilink" title="Sumac Centre">Sumac
 Centre</a> in Nottingham.[^24] The growth of radical social centres
 across the UK over the past two decades has created spaces where people
 can explore and practice their beliefs free from state and capitalist
@@ -262,26 +262,26 @@ support, and a gathered crowd forced the police to retreat.[^27]
 <references/>
 
 "<a   href="Category:UK.md" class="wikilink"
-title="Category:UK">"Category:UK</a>
+title="Category:UK">Category:UK</a>
 "<a   href="Category:Western_Europe.md" class="wikilink"
-title="Category:Western Europe">"Category:Western Europe</a>
+title="Category:Western Europe">Category:Western Europe</a>
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: <https://basebristol.org/ourstory/>
 

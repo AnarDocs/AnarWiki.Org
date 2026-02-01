@@ -1,16 +1,16 @@
 The **Sakhalin Anti-Oil Movement** was an
-"<a   href="Indigenism.md" class="wikilink" title="indigenous">"indigenous</a>
+"<a   href="Indigenism.md" class="wikilink" title="indigenous">indigenous</a>
 and "<a   href="Environmentalism.md" class="wikilink"
-title="environmentalists">"environmentalists</a> against the extraction
-of "<a   href="Fossil_Fuels.md" class="wikilink" title="oil">"oil</a> in
-Sakhalin, "<a   href="Russia.md" class="wikilink" title="Russia">"Russia</a>
+title="environmentalists">environmentalists</a> against the extraction
+of "<a   href="Fossil_Fuels.md" class="wikilink" title="oil">oil</a> in
+Sakhalin, "<a   href="Russia.md" class="wikilink" title="Russia">Russia</a>
 from "<a   href="Timeline_of_Anarchism_in_Northern_Asia.md" class="wikilink"
-title="2005 to 2007">"2005 to 2007</a>.
+title="2005 to 2007">2005 to 2007</a>.
 
 ## Background
 
 Sakhalin is an island of the coast of eastern Russia and northern
-"<a   href="Japan.md" class="wikilink" title="Japan">"Japan</a>. It is home to
+"<a   href="Japan.md" class="wikilink" title="Japan">Japan</a>. It is home to
 many indigenous people, and contains large oil and gas reserves,
 extracting fossil fuels from the island since 1997, and work on Sakhalin
 II (the largest oil and gas project in the world) in 1999.
@@ -144,28 +144,28 @@ withdrawn from the amount of delays, making it ambiguous if the campaign
 was effective.
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Events.md" class="wikilink"
-title="Category:Events">"Category:Events</a>
+title="Category:Events">Category:Events</a>
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Indigenism.md" class="wikilink"
-title="Category:Indigenism">"Category:Indigenism</a>
+title="Category:Indigenism">Category:Indigenism</a>
 "<a   href="Category:Environmentalism.md" class="wikilink"
-title="Category:Environmentalism">"Category:Environmentalism</a>
+title="Category:Environmentalism">Category:Environmentalism</a>
 "<a   href="Category:Russia.md" class="wikilink"
-title="Category:Russia">"Category:Russia</a>
+title="Category:Russia">Category:Russia</a>
 "<a   href="Category:Northern_Asia.md" class="wikilink"
-title="Category:Northern Asia">"Category:Northern Asia</a>
+title="Category:Northern Asia">Category:Northern Asia</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:2005.md" class="wikilink"
-title="Category:2005">"Category:2005</a>
+title="Category:2005">Category:2005</a>
 "<a   href="Category:2006.md" class="wikilink"
-title="Category:2006">"Category:2006</a>
+title="Category:2006">Category:2006</a>
 "<a   href="Category:2007.md" class="wikilink"
-title="Category:2007">"Category:2007</a>
+title="Category:2007">Category:2007</a>
 "<a   href="Category:2000s.md" class="wikilink"
-title="Category:2000s">"Category:2000s</a>
+title="Category:2000s">Category:2000s</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>

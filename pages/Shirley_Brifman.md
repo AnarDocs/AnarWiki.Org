@@ -1,19 +1,19 @@
 **Shirley Margaret Brifman** was a sex worker and brothel madam nased in
 Brisbane, Queensland,
-"<a   href="Australia.md" class="wikilink" title="Australia">"Australia</a> who
+"<a   href="Australia.md" class="wikilink" title="Australia">Australia</a> who
 was known as a whistleblower on
 "<a   href="Police_Corruption.md" class="wikilink"
-title="police corruption">"police corruption</a>. She died at the age of
+title="police corruption">police corruption</a>. She died at the age of
 36 in suspicious circumstances, in what was ruled a suicide, although
 some have suspected a "<a   href="Conspiracy_Theory.md" class="wikilink"
-title="conspiracy">"conspiracy</a>.
+title="conspiracy">conspiracy</a>.
 
 ## Life
 
 She was born in Atherton, Queensland, the daughter of Beatrice (née
 Currey) and James Emerson. She began working as a barmaid after leaving
 school, and in 1957, she married Szama "Sonny" Brifman, a
-"<a   href="Poland.md" class="wikilink" title="Polish">"Polish</a>-born hotel
+"<a   href="Poland.md" class="wikilink" title="Polish">Polish</a>-born hotel
 owner; they would have four children together. Her career in
 prostitution had begun by at least the following year, when she was
 known to be working in a Brisbane brothel, under the alias "Marge
@@ -21,7 +21,7 @@ Chapple".
 
 She moved to Sydney in 1963. She worked out of a hotel in the Kings
 Cross (famous for "<a   href="Kings_Cross_Green_Ban.md" class="wikilink"
-title="something else">"something else</a>) red-light district until
+title="something else">something else</a>) red-light district until
 1968, when she began opening her own brothels. She ran establishments
 in Potts Point and Elizabeth Bay, and claimed to be making up to \$5,000
 per week. Brifman operated under police protection, but in 1971 she and
@@ -54,27 +54,27 @@ death and "determine whether an inquest should be held".
 
 ## See Also
 
-- "<a   href="Shirley_Finn.md" class="wikilink" title="Shirley Finn">"Shirley
+- "<a   href="Shirley_Finn.md" class="wikilink" title="Shirley Finn">Shirley
   Finn</a>
 - "<a   href="Juanita_Nielsen.md" class="wikilink"
-  title="Juanita Nielsen">"Juanita Nielsen</a>
+  title="Juanita Nielsen">Juanita Nielsen</a>
 
 ## References
 
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
 <https://en.wikipedia.org/wiki/Shirley_Brifman>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Australia.md" class="wikilink"
-title="Category:Australia">"Category:Australia</a>
+title="Category:Australia">Category:Australia</a>
 "<a   href="Category:Oceania.md" class="wikilink"
-title="Category:Oceania">"Category:Oceania</a>
+title="Category:Oceania">Category:Oceania</a>
 "<a   href="Category:1972.md" class="wikilink"
-title="Category:1972">"Category:1972</a>
+title="Category:1972">Category:1972</a>
 "<a   href="Category:1970s.md" class="wikilink"
-title="Category:1970s">"Category:1970s</a>
+title="Category:1970s">Category:1970s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Conspiracy_Theories.md" class="wikilink"
-title="Category:Conspiracy Theories">"Category:Conspiracy Theories</a>
+title="Category:Conspiracy Theories">Category:Conspiracy Theories</a>

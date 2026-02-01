@@ -1,7 +1,7 @@
 ## Philly's Pissed
 
 From
-"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+"<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > In order to combat this, feminists and anarchists in Philadelphia
@@ -69,7 +69,7 @@ accountable."[^5]
 [^2]: <https://phillystandsup.wordpress.com/about/>.
 
 [^3]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^4]: <https://phillystandsup.wordpress.com/about/>.

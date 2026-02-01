@@ -8,7 +8,7 @@ create a society based around democratic confederalism.
 
 Decisions are made by community assemblies and a unique four-level model
 of a "<a   href="Confederations.md" class="wikilink"
-title="confederation">"confederation</a>. These are divided into four
+title="confederation">confederation</a>. These are divided into four
 main levels of decision-making.
 
 - **Commune:** Between 30 and 400 households gather in local assemblies
@@ -45,10 +45,10 @@ However, the report also noted some deficiencies in due process.
 ## Economy
 
 As of 2015, around 75% of land within the NES is owned in
-"<a   href="Commons.md" class="wikilink" title="common">"common</a> and 33% of
+"<a   href="Commons.md" class="wikilink" title="common">common</a> and 33% of
 industry is run according to the principles of
 "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-title="workers&#39; self-management">"workers' self-management</a>.[^2]
+title="workers&#39; self-management">workers' self-management</a>.[^2]
 The economy is divided into three major sectors:
 
 1.  The Social Economy, composed of worker cooperatives.
@@ -67,19 +67,19 @@ park has been opened which is home to at least 800 workplaces.[^4]
 ## Public Services
 
 Following the "<a   href="Rojava_Revolution.md" class="wikilink"
-title="Rojava Revolution">"Rojava Revolution</a>, hundreds of schools for
+title="Rojava Revolution">Rojava Revolution</a>, hundreds of schools for
 people of all ages have been established. Many such schools focus on
 teaching the languages spoken by ethnic minorities (previously
 punishable by torture) and uncovering much of the wisdom hidden within
 the history of Western Asia. The schools borrow elements from
 "<a   href="Democratic_Education.md" class="wikilink"
-title="democratic schooling">"democratic schooling</a>, being compared to
-"<a   href="John_Dewey.md" class="wikilink" title="John Dewey&#39;s">"John
+title="democratic schooling">democratic schooling</a>, being compared to
+"<a   href="John_Dewey.md" class="wikilink" title="John Dewey&#39;s">John
 Dewey's</a> vision of an ideal education.[^5] In 2014, the first
-"<a   href="university.md" class="wikilink" title="university">"university</a>
+"<a   href="university.md" class="wikilink" title="university">university</a>
 (Mesopotamian Social Sciences Academy) was opened in Qamişlo in the
 Cizîrê Canton. It offered students classes, a library,
-"<a   href="internet.md" class="wikilink" title="internet">"internet</a>
+"<a   href="internet.md" class="wikilink" title="internet">internet</a>
 access, sports facilities and a dormitory.[^6]
 
 Councils and communes have also pooled together to provide citizens with
@@ -91,11 +91,11 @@ internet access[^8] and cultural festivals.[^9]
 ![](RojavaEcology.JPG "RojavaEcology.JPG") In 2018, many local
 communities agreed to the campaign titled
 '"<a   href="Make_Rojava_Green_Again.md" class="wikilink"
-title="Make Rojava Green Again">"Make Rojava Green Again</a>' which aims
+title="Make Rojava Green Again">Make Rojava Green Again</a>' which aims
 to restore the region to its natural ecological health. Measures taken
 include the construction of areas for solar and wind
 "<a   href="electricity.md" class="wikilink"
-title="electricity">"electricity</a> generation. The construction of
+title="electricity">electricity</a> generation. The construction of
 urban and rooftop agriculture within cities. The creation of large
 wildlife reserves and reforestation campaigns. Water and material
 recycling, compost in agriculture as well as safe and clean waste
@@ -200,39 +200,39 @@ The Rojava Revolution is an ongoing "revolution" in Syria that began in
 ## See Also
 
 - "<a   href="Criticism_of_Rojava.md" class="wikilink"
-  title="Criticism of Rojava">"Criticism of Rojava</a>
+  title="Criticism of Rojava">Criticism of Rojava</a>
 
 ## References
 
 "<a   href="Category:Societies.md" class="wikilink"
-title="Category:Societies">"Category:Societies</a>
+title="Category:Societies">Category:Societies</a>
 "<a   href="Category:Syria.md" class="wikilink"
-title="Category:Syria">"Category:Syria</a>
+title="Category:Syria">Category:Syria</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Communalism.md" class="wikilink"
-title="Category:Communalism">"Category:Communalism</a>
+title="Category:Communalism">Category:Communalism</a>
 "<a   href="Category:Democratic_Confederalism.md" class="wikilink"
-title="Category:Democratic Confederalism">"Category:Democratic
+title="Category:Democratic Confederalism">Category:Democratic
 Confederalism</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Western_Asia.md" class="wikilink"
-title="Category:Western Asia">"Category:Western Asia</a>
+title="Category:Western Asia">Category:Western Asia</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a> "<a   href="Category:2012.md" class="wikilink"
-title="Category:2012">"Category:2012</a>
+title="Category:2012">Category:2012</a>
 "<a   href="Category:2010s.md" class="wikilink"
-title="Category:2010s">"Category:2010s</a>
+title="Category:2010s">Category:2010s</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Ercan Ayboga (2013) Revolution in Rojava
 
@@ -243,7 +243,7 @@ title="Category:Featured">"Category:Featured</a>
 
 [^4]: <https://mesopotamia.coop/the-economy-of-rojava/>
 
-[^5]: "<a   href="Janet_Biehl.md" class="wikilink" title="Janet Biehl">"Janet
+[^5]: "<a   href="Janet_Biehl.md" class="wikilink" title="Janet Biehl">Janet
     Biehl</a> (2015) Revolutionary Education in Rojava -
     <http://new-compass.net/articles/revolutionary-education-rojava>
 

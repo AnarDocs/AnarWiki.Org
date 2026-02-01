@@ -20,9 +20,9 @@ From David Graeber, *The Democracy Project*:
 <references/>
 
 "<a   href="Category:China.md" class="wikilink"
-title="Category:China">"Category:China</a>
+title="Category:China">Category:China</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 
 [^1]: David Graeber, *The Democracy Project: A History, A Crisis, A

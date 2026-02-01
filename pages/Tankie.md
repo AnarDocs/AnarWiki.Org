@@ -17,13 +17,13 @@
 ## Overview
 
 **Tankie** is a pejorative term used primarily by
-"<a   href="anarchism.md" class="wikilink" title="anarchists">"anarchists</a>,
+"<a   href="anarchism.md" class="wikilink" title="anarchists">anarchists</a>,
 "<a   href="democratic_socialism.md" class="wikilink"
-title="democratic socialists">"democratic socialists</a>, and other
+title="democratic socialists">democratic socialists</a>, and other
 "<a   href="anti-authoritarianism.md" class="wikilink"
-title="anti-authoritarian">"anti-authoritarian</a> leftists to describe
+title="anti-authoritarian">anti-authoritarian</a> leftists to describe
 "<a   href="Marxism-Leninism.md" class="wikilink"
-title="Marxist-Leninists">"Marxist-Leninists</a> and others who offer
+title="Marxist-Leninists">Marxist-Leninists</a> and others who offer
 uncritical support for authoritarian regimes claiming socialist
 credentials. The term has expanded from its original Cold War context to
 encompass those who defend any state aligned against Western powers,
@@ -36,7 +36,7 @@ past and current socialist systems as legitimate attempts at creating
 communism, and thus have not distanced themselves from Stalin, China,
 etc."[^2] This position places tankies in direct opposition to the
 anarchist understanding that
-"<a   href="the_state.md" class="wikilink" title="the state">"the state</a> is
+"<a   href="the_state.md" class="wikilink" title="the state">the state</a> is
 inherently oppressive and cannot serve as a vehicle for human
 liberation.
 
@@ -51,13 +51,13 @@ the United States holds.[^3]
 
 The term "tankie" originated within the
 "<a   href="Communist_Party_of_Great_Britain.md" class="wikilink"
-title="Communist Party of Great Britain">"Communist Party of Great
+title="Communist Party of Great Britain">Communist Party of Great
 Britain</a> (CPGB) following the Soviet invasion of Hungary in 1956. On
 27 October 1956, Peter Fryer, a CPGB member and correspondent for the
 *Daily Worker*, arrived in Hungary four days into an uprising of workers
 calling for worker-controlled socialism. Factories had been taken over
 nationally by "<a   href="workers&#39;_councils.md" class="wikilink"
-title="workers&#39; councils">"workers' councils</a>, representing an
+title="workers&#39; councils">workers' councils</a>, representing an
 unprecedented demonstration of workers' self-organisation in an Eastern
 Bloc country.[^4]
 
@@ -427,19 +427,19 @@ undermines socialist and communist movements today."[^44]
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Marxist-Leninism.md" class="wikilink"
-title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 "<a   href="Category:Authoritarian_Socialism.md" class="wikilink"
-title="Category:Authoritarian Socialism">"Category:Authoritarian
+title="Category:Authoritarian Socialism">Category:Authoritarian
 Socialism</a> "<a   href="Category:Anti-Authoritarianism.md" class="wikilink"
-title="Category:Anti-Authoritarianism">"Category:Anti-Authoritarianism</a>
+title="Category:Anti-Authoritarianism">Category:Anti-Authoritarianism</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Mike Harman, "Everything you ever wanted to know about tankies,
     but were afraid to ask", libcom.org, 8 March 2018

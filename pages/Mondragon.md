@@ -1,13 +1,13 @@
 The **Mondragon Corporation** is a
 "<a   href="Confederation.md" class="wikilink"
-title="federation">"federation</a> of
+title="federation">federation</a> of
 "<a   href="Worker_Cooperative.md" class="wikilink"
-title="worker cooperatives">"worker cooperatives</a> based in the
-"<a   href="Basque_Country.md" class="wikilink" title="Basque">"Basque</a>
+title="worker cooperatives">worker cooperatives</a> based in the
+"<a   href="Basque_Country.md" class="wikilink" title="Basque">Basque</a>
 region claimed by the
-"<a   href="State_(Polity).md" class="wikilink" title="states">"states</a> of
-"<a   href="Spain.md" class="wikilink" title="Spain">"Spain</a> and
-"<a   href="France.md" class="wikilink" title="France">"France</a>. Founded in
+"<a   href="State_(Polity).md" class="wikilink" title="states">states</a> of
+"<a   href="Spain.md" class="wikilink" title="Spain">Spain</a> and
+"<a   href="France.md" class="wikilink" title="France">France</a>. Founded in
 1956 to produce heaters, it became the tenth largest business in Spain
 and largest in the Basque region. As of 2015, it has 74,000 workers.
 
@@ -15,7 +15,7 @@ and largest in the Basque region. As of 2015, it has 74,000 workers.
 
 In 1941, a young Catholic priest,
 "<a   href="Jose_Maria_Arizmendiarrieta.md" class="wikilink"
-title="José María Arizmendiarrieta">"José María Arizmendiarrieta</a>
+title="José María Arizmendiarrieta">José María Arizmendiarrieta</a>
 settled in Mondragón, a town with a population of 7,000 that had not yet
 recovered from the poverty, hunger, exile, and tension of the Spanish
 Civil War.<sup>\[4\]</sup> In 1943, Arizmendiarrieta established a
@@ -295,18 +295,18 @@ participating in more than 30 R&D cooperation projects at the European
 level.<sup>\[33\]</sup>
 
 "<a   href="Category:Worker_Cooperatives.md" class="wikilink"
-title="Category:Worker Cooperatives">"Category:Worker Cooperatives</a>
+title="Category:Worker Cooperatives">Category:Worker Cooperatives</a>
 "<a   href="Category:Spain.md" class="wikilink"
-title="Category:Spain">"Category:Spain</a>
+title="Category:Spain">Category:Spain</a>
 "<a   href="Category:France.md" class="wikilink"
-title="Category:France">"Category:France</a>
+title="Category:France">Category:France</a>
 "<a   href="Category:Basque_Country.md" class="wikilink"
-title="Category:Basque Country">"Category:Basque Country</a>
+title="Category:Basque Country">Category:Basque Country</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:1956.md" class="wikilink"
-title="Category:1956">"Category:1956</a>
+title="Category:1956">Category:1956</a>
 "<a   href="Category:1950s.md" class="wikilink"
-title="Category:1950s">"Category:1950s</a>
+title="Category:1950s">Category:1950s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>

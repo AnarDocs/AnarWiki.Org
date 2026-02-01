@@ -1,20 +1,20 @@
 **Socialist Burkina Faso** refers to
-"<a   href="Burkina_Faso.md" class="wikilink" title="Burkina Faso">"Burkina
+"<a   href="Burkina_Faso.md" class="wikilink" title="Burkina Faso">Burkina
 Faso</a> from 1983 to 1987, which had a government led by
-"<a   href="Thomas_Sankara.md" class="wikilink" title="Thomas Sankara">"Thomas
+"<a   href="Thomas_Sankara.md" class="wikilink" title="Thomas Sankara">Thomas
 Sankara</a>. Ideologically a "<a   href="Marxist-Leninism.md" class="wikilink"
-title="Marxist-Leninist">"Marxist-Leninist</a> society, there were fairly
+title="Marxist-Leninist">Marxist-Leninist</a> society, there were fairly
 large programmes for social, ecological, and economic change were
 launched before it met a quick doom at the hands of
 "<a   href="Neo-Colonalism.md" class="wikilink"
-title="neo-colonialism">"neo-colonialism</a> and
+title="neo-colonialism">neo-colonialism</a> and
 "<a   href="francafrique.md" class="wikilink"
-title="francafrique">"francafrique</a>.
+title="francafrique">francafrique</a>.
 
 ## Positives
 
 - The country was renamed from Upper Volta (a name given by the
-  "<a   href="French_Empire.md" class="wikilink" title="French Empire">"French
+  "<a   href="French_Empire.md" class="wikilink" title="French Empire">French
   Empire</a>) to Burkina Faso, meaning 'land of incorruptible people'. A
   new national flag and anthem were also given, written personally by
   Thomas Sankara.
@@ -62,7 +62,7 @@ title="francafrique">"francafrique</a>.
   so bad even Sankara acknowledged it.
 - Given Sankara's taking of power through a coup and failure to properly
   decentralise power, he was "<a   href="Hydra_Hypothesis.md" class="wikilink"
-  title="easily vulnerable">"easily vulnerable</a> to being deposed in
+  title="easily vulnerable">easily vulnerable</a> to being deposed in
   another coup.
 - Unlike other Marxist-Leninist governments, the government failed to
   reduce the country's large illiteracy problem, having fired thousands
@@ -73,19 +73,19 @@ title="francafrique">"francafrique</a>.
 ## Sources
 
 [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) at
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a>
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>
 
 "<a   href="Category:Socialist_States.md" class="wikilink"
-title="Category:Socialist States">"Category:Socialist States</a>
+title="Category:Socialist States">Category:Socialist States</a>
 "<a   href="Category:Former_States.md" class="wikilink"
-title="Category:Former States">"Category:Former States</a>
+title="Category:Former States">Category:Former States</a>
 "<a   href="Category:Burkina_Faso.md" class="wikilink"
-title="Category:Burkina Faso">"Category:Burkina Faso</a>
+title="Category:Burkina Faso">Category:Burkina Faso</a>
 "<a   href="Category:Marxist-Leninism.md" class="wikilink"
-title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Western_Africa.md" class="wikilink"
-title="Category:Western Africa">"Category:Western Africa</a>
+title="Category:Western Africa">Category:Western Africa</a>
 "<a   href="Category:Africa.md" class="wikilink"
-title="Category:Africa">"Category:Africa</a>
+title="Category:Africa">Category:Africa</a>

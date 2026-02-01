@@ -1,10 +1,10 @@
 # Patriarchy
 
 **Patriarchy** is a
-"<a   href="social_system.md" class="wikilink" title="social system">"social
+"<a   href="social_system.md" class="wikilink" title="social system">social
 system</a> in which positions of
-"<a   href="authority.md" class="wikilink" title="authority">"authority</a> and
-"<a   href="power.md" class="wikilink" title="power">"power</a> are primarily
+"<a   href="authority.md" class="wikilink" title="authority">authority</a> and
+"<a   href="power.md" class="wikilink" title="power">power</a> are primarily
 held by men, and in which men as a group dominate women and other
 genders both structurally and ideologically.[^1] The term describes both
 family structures controlled by male authority figures and broader
@@ -14,14 +14,14 @@ and cultural institutions.
 Patriarchy functions as a highly totalitarian system which regulates
 lives in profoundly personal and invasive ways, exerting control at both
 informal interpersonal levels and through formal political structures
-including the "<a   href="state.md" class="wikilink" title="state">"state</a>,
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>,
+including the "<a   href="state.md" class="wikilink" title="state">state</a>,
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
 and religious institutions.[^2]
 
 ## Overview
 
 At its core, patriarchy operates through the assignment of
-"<a   href="gender.md" class="wikilink" title="gender">"gender</a> categories
+"<a   href="gender.md" class="wikilink" title="gender">gender</a> categories
 at birth without consent, typically based on visible genitalia. This
 assignment then determines social roles, expectations, behaviors, and
 access to power throughout an individual's life.[^3]
@@ -33,10 +33,10 @@ dominate and rule over the weak and to maintain that dominance through
 various forms of psychological terrorism and violence."[^4]
 
 Patriarchy encompasses multiple interconnected oppressions including
-"<a   href="sexism.md" class="wikilink" title="sexism">"sexism</a>,
+"<a   href="sexism.md" class="wikilink" title="sexism">sexism</a>,
 "<a   href="transphobia.md" class="wikilink"
-title="transphobia">"transphobia</a>,
-"<a   href="homophobia.md" class="wikilink" title="homophobia">"homophobia</a>,
+title="transphobia">transphobia</a>,
+"<a   href="homophobia.md" class="wikilink" title="homophobia">homophobia</a>,
 biphobia, and intersexism, which together form a single oppressive
 gender system.
 
@@ -49,11 +49,11 @@ Anarchist geographer **Élisée Reclus** argued that patriarchy originated
 not through gradual evolution but through violent causes and sudden
 events, fundamentally distinct from earlier
 "<a   href="matriarchy.md" class="wikilink"
-title="matriarchal">"matriarchal</a> or egalitarian social forms.[^5]
+title="matriarchal">matriarchal</a> or egalitarian social forms.[^5]
 
 According to Reclus, the first patriarchal family in the historical
 sense had the same origin as the
-"<a   href="State.md" class="wikilink" title="State">"State</a> itself. The
+"<a   href="State.md" class="wikilink" title="State">State</a> itself. The
 victorious leader seizes territory and all inhabitants within it, with
 each warrior in the conquering group receiving a share of plunder
 including land, objects, and people. The *pater familias* or family
@@ -67,8 +67,8 @@ For much of human history, the difficulty in controlling fertility and
 the strong relationship between physical labor and bodily strength made
 gender categorization fundamental to social organization. Following the
 "<a   href="agricultural_revolution.md" class="wikilink"
-title="agricultural revolution">"agricultural revolution</a>,
-"<a   href="class.md" class="wikilink" title="class">"class</a> systems
+title="agricultural revolution">agricultural revolution</a>,
+"<a   href="class.md" class="wikilink" title="class">class</a> systems
 developed where legal aspects from inheritance to personal independence
 were strongly tied to assigned gender. Women were often literally made
 the property of men.[^7]
@@ -145,8 +145,8 @@ white-supremacist capitalist patriarchy" to describe these interlocking
 political systems that form the foundation of contemporary society.[^16]
 
 Patriarchy is supported and spread by
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>
-and the "<a   href="State.md" class="wikilink" title="State">"State</a>.
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+and the "<a   href="State.md" class="wikilink" title="State">State</a>.
 Therefore the struggle against patriarchy must be tied to struggles
 against capital and state.[^17]
 
@@ -161,7 +161,7 @@ variations are not.[^18]
 
 Traditional institutions, particularly the
 "<a   href="Catholic_Church.md" class="wikilink"
-title="Catholic Church">"Catholic Church</a>, have responded by doubling
+title="Catholic Church">Catholic Church</a>, have responded by doubling
 down on attempts to impose rigid gender divisions. Simultaneously, a
 broad revolt against rigid binary gender segregation has emerged, with
 increasing numbers openly rejecting assigned gender categories and
@@ -171,7 +171,7 @@ roles.[^19]
 
 ### Feminism as Revolutionary Struggle
 
-"<a   href="Feminism.md" class="wikilink" title="Feminism">"Feminism</a> is the
+"<a   href="Feminism.md" class="wikilink" title="Feminism">Feminism</a> is the
 movement and ideology seeking to replace patriarchy with an equal and
 free society. Anarchist organizations committed to liberation understand
 feminism as fundamental to revolutionary politics.[^20]
@@ -189,29 +189,29 @@ freely expressed without carrying privileges or penalties. At that
 point, gender would likely fade in social significance.[^22]
 
 Unity within the
-"<a   href="working_class.md" class="wikilink" title="working class">"working
+"<a   href="working_class.md" class="wikilink" title="working class">working
 class</a> across divides of gender and sexuality is essential, as all
 working people ultimately have more in common than not. However, this
 unity cannot assume automatic equality but must actively address
 differences in experience and power.[^23]
 
 Because women's liberation and
-"<a   href="LGBTQIA.md" class="wikilink" title="LGBTQIA">"LGBTQIA</a>
+"<a   href="LGBTQIA.md" class="wikilink" title="LGBTQIA">LGBTQIA</a>
 liberation are products of the same oppressive gender system, effective
 movements build solidarity among all people oppressed by patriarchy in a
 common struggle for freedom.[^24]
 
 ## See Also
 
-- "<a   href="Feminism.md" class="wikilink" title="Feminism">"Feminism</a>
-- "<a   href="Matriarchy.md" class="wikilink" title="Matriarchy">"Matriarchy</a>
-- "<a   href="Gender.md" class="wikilink" title="Gender">"Gender</a>
-- "<a   href="Capitalism.md" class="wikilink" title="Capitalism">"Capitalism</a>
-- "<a   href="Class_Struggle.md" class="wikilink" title="Class Struggle">"Class
+- "<a   href="Feminism.md" class="wikilink" title="Feminism">Feminism</a>
+- "<a   href="Matriarchy.md" class="wikilink" title="Matriarchy">Matriarchy</a>
+- "<a   href="Gender.md" class="wikilink" title="Gender">Gender</a>
+- "<a   href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>
+- "<a   href="Class_Struggle.md" class="wikilink" title="Class Struggle">Class
   Struggle</a>
 - "<a   href="Anarcha-Feminism.md" class="wikilink"
-  title="Anarcha-Feminism">"Anarcha-Feminism</a>
-- "<a   href="Queer_Anarchism.md" class="wikilink" title="Queer Anarchism">"Queer
+  title="Anarcha-Feminism">Anarcha-Feminism</a>
+- "<a   href="Queer_Anarchism.md" class="wikilink" title="Queer Anarchism">Queer
   Anarchism</a>
 
 ## References
@@ -219,23 +219,23 @@ common struggle for freedom.[^24]
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Feminism.md" class="wikilink"
-title="Category:Feminism">"Category:Feminism</a>
+title="Category:Feminism">Category:Feminism</a>
 "<a   href="Category:Gender.md" class="wikilink"
-title="Category:Gender">"Category:Gender</a>
+title="Category:Gender">Category:Gender</a>
 "<a   href="Category:Relationships.md" class="wikilink"
-title="Category:Relationships">"Category:Relationships</a>
+title="Category:Relationships">Category:Relationships</a>
 "<a   href="Category:Social_Systems.md" class="wikilink"
-title="Category:Social Systems">"Category:Social Systems</a>
+title="Category:Social Systems">Category:Social Systems</a>
 "<a   href="Category:Oppression.md" class="wikilink"
-title="Category:Oppression">"Category:Oppression</a>
+title="Category:Oppression">Category:Oppression</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 "<a   href="Category:Controversial_Concepts.md" class="wikilink"
-title="Category:Controversial Concepts">"Category:Controversial
+title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 
 [^1]: <https://en.wikipedia.org/wiki/Patriarchy>

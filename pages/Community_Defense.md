@@ -31,7 +31,7 @@ remains accountable and integrated with mutual aid.
 ## Origins
 
 The practice of community self-defense predates the
-"<a   href="State.md" class="wikilink" title="state">"state</a> itself, as
+"<a   href="State.md" class="wikilink" title="state">state</a> itself, as
 human communities have always organized collectively for protection.
 However, the modern anarchist theorization of community self-defense
 emerged from several historical developments and movements.
@@ -39,7 +39,7 @@ emerged from several historical developments and movements.
 ### Early Anarchist Practice
 
 The "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
-title="Industrial Workers of the World">"Industrial Workers of the
+title="Industrial Workers of the World">Industrial Workers of the
 World</a> developed "flying squads" in the early 20th century - rapid
 response teams that could be mobilized through phone lists to support
 strikes, defend picket lines, and protect workers from employer violence
@@ -49,7 +49,7 @@ defense without permanent hierarchical command structures.
 
 Anarchist communities in the
 "<a   href="Spanish_Revolution_(1936-1939).md" class="wikilink"
-title="Spanish Revolution">"Spanish Revolution</a> organized neighborhood
+title="Spanish Revolution">Spanish Revolution</a> organized neighborhood
 defense committees alongside other revolutionary institutions,
 integrating defense functions with other aspects of communal
 self-management.
@@ -57,7 +57,7 @@ self-management.
 ### Civil Rights and Black Liberation
 
 The "<a   href="Black_Panther_Party.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a>, while not
+title="Black Panther Party">Black Panther Party</a>, while not
 explicitly anarchist, developed community self-defense models that
 heavily influenced anarchist thinking. Their armed patrols monitoring
 police, combined with survival programs like free breakfast programs and
@@ -66,11 +66,11 @@ immediate physical protection and building alternative institutions that
 address root causes of violence and vulnerability.[^3][^4]
 
 The "<a   href="Deacons_for_Defense_and_Justice.md" class="wikilink"
-title="Deacons for Defense and Justice">"Deacons for Defense and
+title="Deacons for Defense and Justice">Deacons for Defense and
 Justice</a> and other Black self-defense organizations in the US South
 during the 1960s showed how oppressed communities could organize
 protection against white supremacist violence, challenging both the
-"<a   href="Racism.md" class="wikilink" title="racist">"racist</a> state and
+"<a   href="Racism.md" class="wikilink" title="racist">racist</a> state and
 terrorist groups.[^5][^6]
 
 ### Anti-Fascist Movements
@@ -82,7 +82,7 @@ create anonymity and collective identity while providing defense against
 right-wing violence.
 
 "<a   href="Anti-Racist_Action.md" class="wikilink"
-title="Anti-Racist Action">"Anti-Racist Action</a> (ARA) emerged in
+title="Anti-Racist Action">Anti-Racist Action</a> (ARA) emerged in
 Minneapolis and spread across North America, organizing militant
 opposition to fascist and white supremacist organizing.[^9][^10] Though
 often reactive and spontaneous rather than formally trained, ARA
@@ -94,7 +94,7 @@ space through direct confrontation.
 The Kurdish liberation movement in Rojava has developed perhaps the most
 comprehensive contemporary model of community self-defense within a
 broader framework of "<a   href="Democratic_Confederalism.md" class="wikilink"
-title="Democratic Confederalism">"Democratic Confederalism</a>. Their
+title="Democratic Confederalism">Democratic Confederalism</a>. Their
 system integrates self-defense forces with communes, councils,
 cooperatives, and academies, while explicitly rotating armed tasks and
 maintaining civilian control.
@@ -112,7 +112,7 @@ fundamentally distinguish it from police and military institutions:
 ### Mutual Aid and Solidarity
 
 Self-defense is understood as an expression of
-"<a   href="Mutual_Aid.md" class="wikilink" title="mutual aid">"mutual aid</a> -
+"<a   href="Mutual_Aid.md" class="wikilink" title="mutual aid">mutual aid</a> -
 the basic anarchist organizing principle of voluntary cooperation for
 common benefit. Communities defend each other because attacks on any
 community member are understood as attacks on the collective. This
@@ -121,7 +121,7 @@ self-defense as protecting personal property, instead rooting defense in
 social relationships and shared liberation.
 
 The principle of
-"<a   href="Solidarity.md" class="wikilink" title="solidarity">"solidarity</a>
+"<a   href="Solidarity.md" class="wikilink" title="solidarity">solidarity</a>
 extends this to recognize that oppressions are interconnected. White
 workers defending Black community members from racist violence, men
 organizing against patriarchal violence, or temporarily-abled people
@@ -170,7 +170,7 @@ garbage, not as superior or more valuable.
 ### Dual Power and Prefiguration
 
 Community self-defense is most effective when part of a broader
-"<a   href="Dual_Power.md" class="wikilink" title="dual power">"dual power</a>
+"<a   href="Dual_Power.md" class="wikilink" title="dual power">dual power</a>
 framework - simultaneously resisting exploitation and oppression while
 building alternative institutions. Simply defending against immediate
 threats without creating new forms of community autonomy risks becoming
@@ -179,11 +179,11 @@ permanent military structures.
 Defense practices should prefigure the society being built,
 incorporating liberatory ethics including challenges to
 "<a   href="Patriarchy.md" class="wikilink"
-title="patriarchal">"patriarchal</a> gun culture,
-"<a   href="Racism.md" class="wikilink" title="racial">"racial</a> hierarchies,
-"<a   href="Ableism.md" class="wikilink" title="ableist">"ableist</a>
+title="patriarchal">patriarchal</a> gun culture,
+"<a   href="Racism.md" class="wikilink" title="racial">racial</a> hierarchies,
+"<a   href="Ableism.md" class="wikilink" title="ableist">ableist</a>
 assumptions, and
-"<a   href="Capitalism.md" class="wikilink" title="capitalist">"capitalist</a>
+"<a   href="Capitalism.md" class="wikilink" title="capitalist">capitalist</a>
 values.
 
 ### Consciousness and Education
@@ -294,7 +294,7 @@ Community self-defense takes many forms beyond armed confrontation:
 ### Building Alternative Institutions
 
 Creating "<a   href="Cooperative.md" class="wikilink"
-title="cooperatives">"cooperatives</a>, free schools, health clinics,
+title="cooperatives">cooperatives</a>, free schools, health clinics,
 community kitchens, and other institutions that meet needs outside state
 and capitalist systems reduces community vulnerability and builds the
 foundation for comprehensive autonomy that enables effective defense.
@@ -307,7 +307,7 @@ The Kurdish autonomous region in northern Syria has developed perhaps
 the most comprehensive contemporary implementation of anarchist
 community self-defense principles, though within the framework of
 "<a   href="Democratic_Confederalism.md" class="wikilink"
-title="Democratic Confederalism">"Democratic Confederalism</a> rather
+title="Democratic Confederalism">Democratic Confederalism</a> rather
 than explicit anarchism. Their system includes:
 
 - People's Protection Units (YPG/YPJ) organized with gender parity and
@@ -333,7 +333,7 @@ directly intervened to prevent police violence.
 ### Anti-Fascist Networks
 
 Contemporary "<a   href="Anti-Fascism.md" class="wikilink"
-title="antifascist">"antifascist</a> organizing continues traditions of
+title="antifascist">antifascist</a> organizing continues traditions of
 physical confrontation with fascist organizing, but increasingly
 combines this with community education, doxxing fascist organizers,
 pressuring venues to cancel fascist events, and building networks for
@@ -355,7 +355,7 @@ including:
 ### Labor Defense
 
 Some "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
-title="IWW">"IWW</a> branches and other radical unions maintain flying
+title="IWW">IWW</a> branches and other radical unions maintain flying
 squad models for rapid response to support strikes and defend picket
 lines. Picket line defense training has been revived in some places to
 prepare workers for confrontations with police and strikebreakers.
@@ -369,7 +369,7 @@ integrated into broader structures of communal self-management:
 
 Defense functions would be coordinated through the same
 "<a   href="Workers&#39;_Council.md" class="wikilink"
-title="councils">"councils</a>, assemblies, and federations that handle
+title="councils">councils</a>, assemblies, and federations that handle
 other aspects of social life. Local neighborhood or workplace assemblies
 would make decisions about security needs and responses, with
 coordination happening through regional councils and voluntary
@@ -405,7 +405,7 @@ capacities:
   training in de-escalation, emergency medical response, and if
   necessary armed defense
 - **Border defense** against external threats from
-  "<a   href="State.md" class="wikilink" title="states">"states</a> or other
+  "<a   href="State.md" class="wikilink" title="states">states</a> or other
   hierarchical forces would be organized through voluntary militias with
   rotation of duty and democratic control
 - **Anti-fascist vigilance** to prevent reorganization of authoritarian
@@ -517,8 +517,8 @@ community decision. There is no separate legal status granting immunity.
 
 Police exist fundamentally to protect
 "<a   href="Private_Property.md" class="wikilink"
-title="property relations">"property relations</a> and maintain the
-"<a   href="State.md" class="wikilink" title="state&#39;s">"state's</a>
+title="property relations">property relations</a> and maintain the
+"<a   href="State.md" class="wikilink" title="state&#39;s">state's</a>
 monopoly on violence. Their role is enforcing laws created by ruling
 classes, not protecting community safety. Studies consistently show
 police do not prevent violence but respond after the fact, often
@@ -612,10 +612,10 @@ violence and conflict.
 
 Mobs often enforce reactionary social norms, targeting marginalized
 people, enforcing "<a   href="Patriarchy.md" class="wikilink"
-title="patriarchal">"patriarchal</a> or
-"<a   href="Racism.md" class="wikilink" title="racial">"racial</a> hierarchies,
+title="patriarchal">patriarchal</a> or
+"<a   href="Racism.md" class="wikilink" title="racial">racial</a> hierarchies,
 or protecting "<a   href="Private_Property.md" class="wikilink"
-title="property">"property</a> interests. Community self-defense is
+title="property">property</a> interests. Community self-defense is
 grounded in explicit liberatory ethics - challenging all forms of
 domination, protecting the most vulnerable, and refusing to replicate
 oppressive power dynamics.
@@ -625,7 +625,7 @@ oppressive power dynamics.
 Mob violence is a temporary eruption that does not build ongoing
 community capacity. Community self-defense is sustained practice
 integrated with other forms of
-"<a   href="Mutual_Aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+"<a   href="Mutual_Aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 and community building. It develops skills, relationships, and capacity
 that strengthen communities beyond immediate defensive actions.
 
@@ -662,21 +662,21 @@ relationship between defense, community, and autonomy.
 ## See Also
 
 - "<a   href="Anarchist_Defense.md" class="wikilink"
-  title="Anarchist Defense">"Anarchist Defense</a> for large-scale
+  title="Anarchist Defense">Anarchist Defense</a> for large-scale
   military actions
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
-- "<a   href="Dual_Power.md" class="wikilink" title="Dual Power">"Dual Power</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- "<a   href="Dual_Power.md" class="wikilink" title="Dual Power">Dual Power</a>
 - "<a   href="Anti-Fascism.md" class="wikilink"
-  title="Anti-Fascism">"Anti-Fascism</a>
+  title="Anti-Fascism">Anti-Fascism</a>
 - "<a   href="Black_Panther_Party.md" class="wikilink"
-  title="Black Panther Party">"Black Panther Party</a>
-- "<a   href="Anarchism.md" class="wikilink" title="Anarchism">"Anarchism</a>
+  title="Black Panther Party">Black Panther Party</a>
+- "<a   href="Anarchism.md" class="wikilink" title="Anarchism">Anarchism</a>
 - "<a   href="Democratic_Confederalism.md" class="wikilink"
-  title="Democratic Confederalism">"Democratic Confederalism</a>
+  title="Democratic Confederalism">Democratic Confederalism</a>
 - "<a   href="Restorative_Justice.md" class="wikilink"
-  title="Restorative Justice">"Restorative Justice</a>
+  title="Restorative Justice">Restorative Justice</a>
 - "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
 
 ## External Links
 
@@ -691,23 +691,23 @@ relationship between defense, community, and autonomy.
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Anti-Fascism.md" class="wikilink"
-title="Category:Anti-Fascism">"Category:Anti-Fascism</a>
+title="Category:Anti-Fascism">Category:Anti-Fascism</a>
 "<a   href="Category:Mutual_Aid.md" class="wikilink"
-title="Category:Mutual Aid">"Category:Mutual Aid</a>
+title="Category:Mutual Aid">Category:Mutual Aid</a>
 "<a   href="Category:Direct_Action.md" class="wikilink"
-title="Category:Direct Action">"Category:Direct Action</a>
+title="Category:Direct Action">Category:Direct Action</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Justice.md" class="wikilink"
-title="Category:Justice">"Category:Justice</a>
+title="Category:Justice">Category:Justice</a>
 
 [^1]: Jeff Shantz, "Flying Squads & Self Defense Now,"
     Anarcho-Syndicalist Review (2018)

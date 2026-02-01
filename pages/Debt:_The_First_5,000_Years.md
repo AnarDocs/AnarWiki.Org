@@ -1,20 +1,20 @@
 # Debt: The First 5,000 Years
 
 ***Debt: The First 5,000 Years*** is a book by
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 "<a   href="anthropologist.md" class="wikilink"
-title="anthropologist">"anthropologist</a>
-"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">"David
+title="anthropologist">anthropologist</a>
+"<a   href="David_Graeber.md" class="wikilink" title="David Graeber">David
 Graeber</a> published in 2011. The book explores the historical
-relationship of "<a   href="debt.md" class="wikilink" title="debt">"debt</a>
+relationship of "<a   href="debt.md" class="wikilink" title="debt">debt</a>
 with social institutions such as
-"<a   href="barter.md" class="wikilink" title="barter">"barter</a>,
-"<a   href="marriage.md" class="wikilink" title="marriage">"marriage</a>,
-"<a   href="slavery.md" class="wikilink" title="slavery">"slavery</a>,
-"<a   href="law.md" class="wikilink" title="law">"law</a>,
-"<a   href="religion.md" class="wikilink" title="religion">"religion</a>,
-"<a   href="war.md" class="wikilink" title="war">"war</a> and
-"<a   href="government.md" class="wikilink" title="government">"government</a>,
+"<a   href="barter.md" class="wikilink" title="barter">barter</a>,
+"<a   href="marriage.md" class="wikilink" title="marriage">marriage</a>,
+"<a   href="slavery.md" class="wikilink" title="slavery">slavery</a>,
+"<a   href="law.md" class="wikilink" title="law">law</a>,
+"<a   href="religion.md" class="wikilink" title="religion">religion</a>,
+"<a   href="war.md" class="wikilink" title="war">war</a> and
+"<a   href="government.md" class="wikilink" title="government">government</a>,
 drawing on the history and anthropology of civilizations from the first
 known records of debt from Sumer in 3500 BCE until the present.
 
@@ -31,7 +31,7 @@ extensive anthropological and historical evidence that this narrative is
 a myth with no basis in the historical record.[^1]
 
 Instead, Graeber argues that
-"<a   href="credit.md" class="wikilink" title="credit">"credit</a> and debt
+"<a   href="credit.md" class="wikilink" title="credit">credit</a> and debt
 systems preceded both money and barter historically. In early societies,
 people used informal systems of mutual credit and obligation, keeping
 track of debts through social memory and custom rather than physical
@@ -44,7 +44,7 @@ strangers or enemies who had no basis for trust.[^2]
 A central thesis of the book is that the transformation of informal,
 community-building indebtedness into mathematically precise, legally
 enforced debts occurs through the introduction of violence, usually
-"<a   href="state.md" class="wikilink" title="state">"state</a>-sponsored
+"<a   href="state.md" class="wikilink" title="state">state</a>-sponsored
 violence in the form of military or police power. Graeber writes that
 "markets are founded and usually maintained by systematic state
 violence," though he notes that "in the absence of such violence,
@@ -105,7 +105,7 @@ how debt functions as a mechanism of social control and domination.
 Graeber demonstrates that throughout history, debt has been used to
 justify and maintain hierarchical power relations, from ancient debt
 slavery to modern
-"<a   href="wage_labor.md" class="wikilink" title="wage labor">"wage labor</a>.
+"<a   href="wage_labor.md" class="wikilink" title="wage labor">wage labor</a>.
 
 The book shows how the morality of debt - the notion that debts must
 always be repaid - has been weaponized against the oppressed while the
@@ -126,8 +126,8 @@ history have been about debt. The establishment of Athenian democracy
 and the Roman Republic, for example, largely emerged as ways of settling
 debt crises. This historical pattern suggests that contemporary
 movements against "<a   href="neoliberalism.md" class="wikilink"
-title="neoliberalism">"neoliberalism</a> and
-"<a   href="austerity.md" class="wikilink" title="austerity">"austerity</a>
+title="neoliberalism">neoliberalism</a> and
+"<a   href="austerity.md" class="wikilink" title="austerity">austerity</a>
 stand in a long revolutionary tradition.[^9]
 
 ### Money as Social Creation
@@ -147,8 +147,8 @@ promises can be scotched or renegotiated…but everyone."[^10]
 
 While the book has been influential across anarchist tendencies,
 "<a   href="market_anarchist.md" class="wikilink"
-title="market anarchist">"market anarchists</a> and
-"<a   href="mutualist.md" class="wikilink" title="mutualist">"mutualists</a>
+title="market anarchist">market anarchists</a> and
+"<a   href="mutualist.md" class="wikilink" title="mutualist">mutualists</a>
 have raised several significant critiques of Graeber's arguments and
 conclusions.
 
@@ -189,7 +189,7 @@ coercive context in which they operate under capitalism and statism.
 
 Market anarchists emphasize
 "<a   href="economic_calculation.md" class="wikilink"
-title="economic calculation">"economic calculation</a> problems that
+title="economic calculation">economic calculation</a> problems that
 Graeber largely ignores. As Gillis notes: "So long as human beings have
 dreams and desires in a finite environment there will be coordination
 and calculation problems to be solved...Markets provide an array of
@@ -198,8 +198,8 @@ indeed they denote the only phase space where solutions can be found for
 problems past a certain complexity."[^14]
 
 This critique draws on "<a   href="Ludwig_von_Mises.md" class="wikilink"
-title="Ludwig von Mises">"Ludwig von Mises</a>' and
-"<a   href="F.A._Hayek.md" class="wikilink" title="F.A. Hayek">"F.A. Hayek</a>'s
+title="Ludwig von Mises">Ludwig von Mises</a>' and
+"<a   href="F.A._Hayek.md" class="wikilink" title="F.A. Hayek">F.A. Hayek</a>'s
 work on the knowledge problem - the impossibility of centralized
 entities possessing the dispersed, subjective knowledge necessary for
 efficient economic coordination. Market anarchists argue that
@@ -210,7 +210,7 @@ information even in a freed society.
 
 Market anarchists have also noted that Graeber wrote before the
 explosion of "<a   href="cryptocurrency.md" class="wikilink"
-title="cryptocurrency">"cryptocurrency</a> and decentralized currency
+title="cryptocurrency">cryptocurrency</a> and decentralized currency
 systems. His analysis focuses on historical forms of money while largely
 ignoring potential future developments. Thinkers like Nick Szabo had
 already explored how cryptographic currencies could enable more
@@ -228,7 +228,7 @@ that markets are more inherently statist than the evidence supports.
 ## Anarcho-Communist Responses
 
 "<a   href="Anarcho-communist.md" class="wikilink"
-title="Anarcho-communist">"Anarcho-communists</a> have generally embraced
+title="Anarcho-communist">Anarcho-communists</a> have generally embraced
 Graeber's work while offering their own critiques and extensions of his
 arguments.
 
@@ -274,7 +274,7 @@ re-embedding markets into webs of mutual aid."[^19]
 
 Anarcho-communists have enthusiastically embraced Graeber's concept of
 "everyday communism," seeing it as validation of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 and communist organizing principles. However, they note this concept's
 limitations. As Price argues, Graeber "denies that 'communism' has
 'anything to do with ownership of the means of production,'" which
@@ -291,7 +291,7 @@ Price criticizes Graeber for saying "virtually nothing about
 commodities, what they are and how they evolved" and for complete
 silence on economic value. Without addressing the
 "<a   href="labor_theory_of_value.md" class="wikilink"
-title="labor theory of value">"labor theory of value</a> or any
+title="labor theory of value">labor theory of value</a> or any
 alternative theory of value, Graeber cannot fully explain how capitalist
 exploitation operates or how a post-capitalist economy might
 function.[^21]
@@ -312,11 +312,11 @@ of "from each according to ability, to each according to need."
 
 However, Kay suggests this criticism may be too harsh, noting that
 Graeber's work on "<a   href="prefigurative_politics.md" class="wikilink"
-title="prefigurative politics">"prefigurative politics</a> and
+title="prefigurative politics">prefigurative politics</a> and
 "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> in movements like
+title="direct democracy">direct democracy</a> in movements like
 "<a   href="Occupy_Wall_Street.md" class="wikilink"
-title="Occupy Wall Street">"Occupy Wall Street</a> demonstrates more
+title="Occupy Wall Street">Occupy Wall Street</a> demonstrates more
 radical commitments than the book alone might suggest. The book's
 limited prescriptions may reflect tactical choices in addressing a
 mainstream audience rather than Graeber's full political vision.[^23]
@@ -345,15 +345,15 @@ American Society for Cultural Anthropology.[^24]
 
 The book's release coincided with the
 "<a   href="Occupy_Wall_Street.md" class="wikilink"
-title="Occupy Wall Street">"Occupy Wall Street</a> movement, in which
+title="Occupy Wall Street">Occupy Wall Street</a> movement, in which
 Graeber played a significant role, and helped shape public discourse
 around debt, inequality, and economic justice. Its influence extends
 beyond anarchist circles to broader movements for
-"<a   href="debt_resistance.md" class="wikilink" title="debt resistance">"debt
+"<a   href="debt_resistance.md" class="wikilink" title="debt resistance">debt
 resistance</a>,
-"<a   href="debt_strike.md" class="wikilink" title="debt strike">"debt
+"<a   href="debt_strike.md" class="wikilink" title="debt strike">debt
 strikes</a>, and challenges to
-"<a   href="austerity.md" class="wikilink" title="austerity">"austerity</a>
+"<a   href="austerity.md" class="wikilink" title="austerity">austerity</a>
 policies.
 
 The book has been translated into numerous languages and continues to be
@@ -365,19 +365,19 @@ social democrats to various anarchist and socialist tendencies.
 <references/>
 
 "<a   href="Category:Anarchist_Non-Fiction.md" class="wikilink"
-title="Category:Anarchist Non-Fiction">"Category:Anarchist
+title="Category:Anarchist Non-Fiction">Category:Anarchist
 Non-Fiction</a> "<a   href="Category:Anarchist_books.md" class="wikilink"
-title="Category:Anarchist books">"Category:Anarchist books</a>
+title="Category:Anarchist books">Category:Anarchist books</a>
 "<a   href="Category:Books.md" class="wikilink"
-title="Category:Books">"Category:Books</a>
+title="Category:Books">Category:Books</a>
 "<a   href="Category:Economic_Anthropology.md" class="wikilink"
-title="Category:Economic Anthropology">"Category:Economic
+title="Category:Economic Anthropology">Category:Economic
 Anthropology</a> "<a   href="Category:David_Graeber.md" class="wikilink"
-title="Category:David Graeber">"Category:David Graeber</a>
+title="Category:David Graeber">Category:David Graeber</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Graeber, David (2011). *Debt: The First 5,000 Years*. Brooklyn,
     NY: Melville House. p. 21-41

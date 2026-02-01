@@ -263,11 +263,11 @@ COM, and the Anarchist movement deteriorated after 1920.
 <references/>
 
 "<a   href="Category:Anarchist_Organizations.md" class="wikilink"
-title="Category:Anarchist Organizations">"Category:Anarchist
+title="Category:Anarchist Organizations">Category:Anarchist
 Organizations</a> "<a   href="Category:Mexico.md" class="wikilink"
-title="Category:Mexico">"Category:Mexico</a>
+title="Category:Mexico">Category:Mexico</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: “Program of the Liberal Party (PLM), 1906” in James D. Cockcroft,
     *Intellectual Precursors of the Mexican Revolution, 1900-1913*

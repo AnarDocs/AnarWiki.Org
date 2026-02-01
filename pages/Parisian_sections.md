@@ -1,7 +1,7 @@
 From Janet Biehl,
 "<a   href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
 class="wikilink"
-title="The Politics of Social Ecology: Libertarian Municipalism">"The
+title="The Politics of Social Ecology: Libertarian Municipalism">The
 Politics of Social Ecology: Libertarian Municipalism</a>:
 
 > In France, the Parisian sectional assemblies of 1793 were the most

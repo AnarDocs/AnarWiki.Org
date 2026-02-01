@@ -1,8 +1,8 @@
 "The great Native American civilizations of the Southeast of the
 present-day United States—importantly including the
-"<a   href="Cherokee.md" class="wikilink" title="Cherokee">"Cherokee</a>,
+"<a   href="Cherokee.md" class="wikilink" title="Cherokee">Cherokee</a>,
 Choctaw, Chickasaw, Muscogee, and
-"<a   href="Seminole_people.md" class="wikilink" title="Seminole">"Seminole</a>—were
+"<a   href="Seminole_people.md" class="wikilink" title="Seminole">Seminole</a>—were
 matriarchal societies. In them, women, as equals of the men, had power
 and influence. All of this changed with the coming of the Europeans, who
 assumed that Native people lived as Europeans did, in patriarchal
@@ -30,13 +30,13 @@ councils over "lower" ones.[^2]
 <references/>
 
 "<a   href="Category:Matriarchy.md" class="wikilink"
-title="Category:Matriarchy">"Category:Matriarchy</a>
+title="Category:Matriarchy">Category:Matriarchy</a>
 "<a   href="Category:Societies.md" class="wikilink"
-title="Category:Societies">"Category:Societies</a>
+title="Category:Societies">Category:Societies</a>
 "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Anarcha-Feminism.md" class="wikilink"
-title="Category:Anarcha-Feminism">"Category:Anarcha-Feminism</a>
+title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
 
 [^1]: Kay Givens McGowan, "Weeping for the Lost Matriarchy" in
     *Daughters of Mother Earth: the wisdom of Native American women*

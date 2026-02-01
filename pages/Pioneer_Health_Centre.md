@@ -65,14 +65,14 @@ Colin Ward, Anarchy in Action[^3]:
 <references/>
 
 "<a   href="Category:Healthcare.md" class="wikilink"
-title="Category:Healthcare">"Category:Healthcare</a>
+title="Category:Healthcare">Category:Healthcare</a>
 
 [^1]: <http://thephf.org/index.php/>
 
 [^2]: <http://thephf.org/index.php/history/timeline-he-centre-closes>
 
 [^3]: "<a   href="Anarchy_in_Action.md" class="wikilink"
-    title="Anarchy_in_Action">"Anarchy_in_Action</a>
+    title="Anarchy_in_Action">Anarchy_in_Action</a>
 
 [^4]: John Comerford, Health the Unknown: The Story of the Peckham
     Experiment (London, 1947). See also Innes Pearse and Lucy Crocker,

@@ -144,9 +144,9 @@ languages, usually English and Spanish.[^20]
 <references/>
 
 "<a   href="Category:Utopian_Fiction.md" class="wikilink"
-title="Category:Utopian Fiction">"Category:Utopian Fiction</a>
+title="Category:Utopian Fiction">Category:Utopian Fiction</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Octavia Butler, *Parable of the Sower* (London: Headline
     Publishing Group 2019), 184.

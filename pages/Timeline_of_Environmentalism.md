@@ -1,86 +1,86 @@
 A timeline of major actions in the
 "<a   href="Environmentalism.md" class="wikilink"
-title="environmental movement">"environmental movement</a>.
+title="environmental movement">environmental movement</a>.
 
 ## Pre-1900s
 
 - 30th Century BCE: The
   "<a   href="Indus_River_Valley_Civilization.md" class="wikilink"
-  title="Indus River Valley Civilization">"Indus River Valley
+  title="Indus River Valley Civilization">Indus River Valley
   Civilization</a> begins recognising the effects of pollution on human
   health and practiced waste management and sanitation.[^1]
 - 6th Century BCE: The "<a   href="Athenian_Polis.md" class="wikilink"
-  title="Athenian Polis">"Athenian Polis</a> votes to protect nearby
+  title="Athenian Polis">Athenian Polis</a> votes to protect nearby
   hills and mountains around Athens from deforestation and overgrazing
   as possibly the first acts of environmental protection in history.
 - 1306: Coal burning is banned in England to prevent air pollution.[^2]
 - 1730: "<a   href="Bishnoi_Forest_Campaign.md" class="wikilink"
-  title="Bishnoi Forest Campaign">"Bishnoi Forest Campaign</a> (India)
+  title="Bishnoi Forest Campaign">Bishnoi Forest Campaign</a> (India)
 
 ## 1900s
 
 - 1936: The
   "<a   href="National_Confederation_of_Labour_(Spain).md" class="wikilink"
-  title="CNT">"CNT</a> oversees green projects in
+  title="CNT">CNT</a> oversees green projects in
   "<a   href="Revolutionary_Spain.md" class="wikilink"
-  title="Revolutionary Spain">"Revolutionary Spain</a>, including the
+  title="Revolutionary Spain">Revolutionary Spain</a>, including the
   construction of greenhouses, reforestation,
   "<a   href="permaculture.md" class="wikilink"
-  title="permaculture">"permaculture</a> and the shutting down of
+  title="permaculture">permaculture</a> and the shutting down of
   polluting metal factories.
 - 1957: Canadian women "<a   href="Wolseley_Elm_Campaign.md" class="wikilink"
-  title="save the Wolseley Elm">"save the Wolseley Elm</a> in
+  title="save the Wolseley Elm">save the Wolseley Elm</a> in
   Winnipeg.[^3]
 
 ### 1970s
 
 - 1970:
-  "<a   href="Green_Bans.md" class="wikilink" title="Green Bans">"Green Bans</a>
+  "<a   href="Green_Bans.md" class="wikilink" title="Green Bans">Green Bans</a>
   (Australia)
 - 1975: Greenpeace forces all countries except
-  "<a   href="Iceland.md" class="wikilink" title="Iceland">"Iceland</a>,
-  "<a   href="Norway.md" class="wikilink" title="Norway">"Norway</a> and
-  "<a   href="Japan.md" class="wikilink" title="Japan">"Japan</a> to stop
+  "<a   href="Iceland.md" class="wikilink" title="Iceland">Iceland</a>,
+  "<a   href="Norway.md" class="wikilink" title="Norway">Norway</a> and
+  "<a   href="Japan.md" class="wikilink" title="Japan">Japan</a> to stop
   whaling.[^4]
 - 1976: "<a   href="Franklin_River_Campaign.md" class="wikilink"
-  title="Franklin River Campaign">"Franklin River Campaign</a>
+  title="Franklin River Campaign">Franklin River Campaign</a>
   (Australia)
 - 1977: "<a   href="Xapuri_Forest_Campaign.md" class="wikilink"
-  title="Xapuri Forest Campaign">"Xapuri Forest Campaign</a> (Brazil)
+  title="Xapuri Forest Campaign">Xapuri Forest Campaign</a> (Brazil)
 - 1978: Residents of Emelle, Alabama, USA attempt to
   "<a   href="Emelle_Anti-Landfill_Campaign.md" class="wikilink"
-  title="stop the construction">"stop the construction</a> of a hazardous
+  title="stop the construction">stop the construction</a> of a hazardous
   waste landfill.[^5]
 - 1979: "<a   href="Alta_River_Campaign.md" class="wikilink"
-  title="Alta River Campaign">"Alta River Campaign</a> (Norway)
+  title="Alta River Campaign">Alta River Campaign</a> (Norway)
 
 ### 1980s
 
 - 1980:
-  "<a   href="Earth_First!.md" class="wikilink" title="Earth First!">"Earth
+  "<a   href="Earth_First!.md" class="wikilink" title="Earth First!">Earth
   First!</a> is founded to stop environmental destruction across the
   world via direct action.
 - 1982: The "<a   href="Itoiz_Ecovillages.md" class="wikilink"
-  title="Itoiz Ecovillages">"Itoiz Ecovillages</a> are founded in rural
+  title="Itoiz Ecovillages">Itoiz Ecovillages</a> are founded in rural
   Spain, to show the world what a sustainable society might look like.
 - 1983: The "<a   href="Appiko_Forest_Campaign.md" class="wikilink"
-  title="Appiko Forest Campaign">"Appiko Forest Campaign</a> begins in
+  title="Appiko Forest Campaign">Appiko Forest Campaign</a> begins in
   India, as people try to nonviolently stop deforestation.[^6]
 - 1983: "<a   href="Daintree_Rainforest_Campaign.md" class="wikilink"
-  title="Daintree Rainforest Campaign">"Daintree Rainforest Campaign</a>
+  title="Daintree Rainforest Campaign">Daintree Rainforest Campaign</a>
   (Australia)
 - 1984: The "<a   href="Danube_River_Campaign.md" class="wikilink"
-  title="Danube River Campaign">"Danube River Campaign</a> blocks the
+  title="Danube River Campaign">Danube River Campaign</a> blocks the
   construction of the Danube Dam in Hungary.[^7]
 - 1985: The "<a   href="Narmada_River_Campaign.md" class="wikilink"
-  title="Narmada River Campaign">"Narmada River Campaign</a> attempts to
+  title="Narmada River Campaign">Narmada River Campaign</a> attempts to
   block the construction of the Sardar Sarovar dam in India.[^8]
 - 1986: Greenpeace "<a   href="Anti-CFC_Campaign.md" class="wikilink"
-  title="begins a campaign">"begins a campaign</a> for a global ban of
+  title="begins a campaign">begins a campaign</a> for a global ban of
   CFCs.[^9]
 - 1987: Environmentalists
   "<a   href="Bukidnon_Forest_Campaign.md" class="wikilink"
-  title="successfully block the destruction of the forests">"successfully
+  title="successfully block the destruction of the forests">successfully
   block the destruction of the forests</a> in the Bukidnon region in the
   Philippines.[^10]
 - 1987: The Phosphorite War begins in Estonia, leading to a complete ban
@@ -88,324 +88,324 @@ title="environmental movement">"environmental movement</a>.
   government.[^11]
 - 1988: Rainforest Action Groups
   "<a   href="Rainforest_Action_Boycott_(Australia).md" class="wikilink"
-  title="boycott">"boycott</a> Malaysian rainforest timber across
+  title="boycott">boycott</a> Malaysian rainforest timber across
   Australia.[^12]
 - 1988: "<a   href="Federation_of_Community_Forest_Users.md" class="wikilink"
-  title="Federation of Community Forest Users">"Federation of Community
+  title="Federation of Community Forest Users">Federation of Community
   Forest Users</a> founded (Nepal)
 - 1989: Indigenous people in Ecuador
   "<a   href="Block_10_Campaign.md" class="wikilink"
-  title="protect land from oil drilling">"protect land from oil
+  title="protect land from oil drilling">protect land from oil
   drilling</a>.[^13]
 - 1989: Residents of Diamond, California, USA
   "<a   href="Diamond_Anti-Shell_Campaign.md" class="wikilink"
-  title="force Shell">"force Shell</a> to close their refinery.[^14]
+  title="force Shell">force Shell</a> to close their refinery.[^14]
 
 ### 1990s
 
 - 1990: Ogoni people
   "<a   href="Ogoni-Shell_Struggle_(1990s).md" class="wikilink"
-  title="struggle">"struggle</a> against Shell Oil in Nigeria.[^15]
+  title="struggle">struggle</a> against Shell Oil in Nigeria.[^15]
 - 1991: The ten-year long "<a   href="Mun_River_Campaign.md" class="wikilink"
-  title="Mun River Campaign">"Mun River Campaign</a> in Thailand begins
+  title="Mun River Campaign">Mun River Campaign</a> in Thailand begins
   as environmentalists protest the construction of destructive
   dams.[^16]
 - 1991: Indigenous Cree in Canada
   "<a   href="Lubicon_Forest_Campaign.md" class="wikilink"
-  title="protect Lubicon land from deforestation">"protect Lubicon land
+  title="protect Lubicon land from deforestation">protect Lubicon land
   from deforestation</a>.[^17]
 - 1992: The "<a   href="Earth_Liberation_Front.md" class="wikilink"
-  title="Earth Liberation Front">"Earth Liberation Front</a> is founded
+  title="Earth Liberation Front">Earth Liberation Front</a> is founded
   in Brighton, England to use direct action and guerilla warfare to
   defend natural ecosystems.
 - 1993: Canadian environmentalists
   "<a   href="Clayoquot_Sound_Forest_Campaign.md" class="wikilink"
-  title="protect the Clayoquot Sound Forest">"protect the Clayoquot Sound
+  title="protect the Clayoquot Sound Forest">protect the Clayoquot Sound
   Forest</a> from deforestation.[^18][^19]
 - 1994: "<a   href="Zapatista_Revolution.md" class="wikilink"
-  title="Zapatista Revolution">"Zapatista Revolution</a> (Mexico)
+  title="Zapatista Revolution">Zapatista Revolution</a> (Mexico)
 - 1994: Greenpeace leads the
   "<a   href="Great_Bear_Rainforest_Campaign.md" class="wikilink"
-  title="Great Bear Rainforest Campaign">"Great Bear Rainforest
+  title="Great Bear Rainforest Campaign">Great Bear Rainforest
   Campaign</a> in Canada.[^20]
 - 1995: The "<a   href="Battle_of_Brightlingsea.md" class="wikilink"
-  title="Battle of Brightlingsea">"Battle of Brightlingsea</a> ends
+  title="Battle of Brightlingsea">Battle of Brightlingsea</a> ends
   live-animal exports from the towns port in the UK.[^21]
 - 1995: The "<a   href="Junin_Anti-Mine_Movement.md" class="wikilink"
-  title="Junin Anti-Mine Movement">"Junin Anti-Mine Movement</a> begins,
+  title="Junin Anti-Mine Movement">Junin Anti-Mine Movement</a> begins,
   a 12-year long campaign to protect a community in Ecuador from mining.
 - 1995: The "<a   href="Cascadia_Free_State.md" class="wikilink"
-  title="Cascadia Free State">"Cascadia Free State</a> is built to
+  title="Cascadia Free State">Cascadia Free State</a> is built to
   protect forests in Washington, USA
 - 1995: Indigenous Nuxalk in Canada protect the
-  "<a   href="Itsa_Forest_Campaign.md" class="wikilink" title="Itsa Forest">"Itsa
+  "<a   href="Itsa_Forest_Campaign.md" class="wikilink" title="Itsa Forest">Itsa
   Forest</a> from deforestation.[^22]
 - 1995: Indigenous U'was in Colombia
   "<a   href="U&#39;wa_Anti-Oil_Campaign.md" class="wikilink"
-  title="protect traditional lands">"protect traditional lands</a> from
+  title="protect traditional lands">protect traditional lands</a> from
   oil drilling.[^23]
 - 1995: The "<a   href="Global_Ecovillage_Network.md" class="wikilink"
-  title="Global Ecovillage Network">"Global Ecovillage Network</a> is
+  title="Global Ecovillage Network">Global Ecovillage Network</a> is
   founded following a conference in Scotland.
 - 1996: Indigenous Sarayaku in Ecuador
   "<a   href="Block_23_Campaign.md" class="wikilink"
-  title="protect 200,000 hectares of land">"protect 200,000 hectares of
+  title="protect 200,000 hectares of land">protect 200,000 hectares of
   land</a> from oil drilling.[^24]
 - 1997: The
-  "<a   href="CIPO-RFM.md" class="wikilink" title="CIPO-RFM">"CIPO-RFM</a> is
+  "<a   href="CIPO-RFM.md" class="wikilink" title="CIPO-RFM">CIPO-RFM</a> is
   founded to protect indigenous Mexican community's, including the
   destruction of environmentally destructive projects.
 - 1998: The "<a   href="Green_Belt_Movement.md" class="wikilink"
-  title="Green Belt Movement">"Green Belt Movement</a> protects the
+  title="Green Belt Movement">Green Belt Movement</a> protects the
   Karura Forest in Nairobi, Kenya.[^25]
 - 1998: The "<a   href="Minnehaha_Free_State.md" class="wikilink"
-  title="Minnehaha Free State">"Minnehaha Free State</a> is built to
+  title="Minnehaha Free State">Minnehaha Free State</a> is built to
   protect forests and indigenous land from highway construction.
 - 1998: "<a   href="Rainforest_Action_Network.md" class="wikilink"
-  title="Rainforest Action Network">"Rainforest Action Network</a> gets
+  title="Rainforest Action Network">Rainforest Action Network</a> gets
   Home Depot to reduce its use old-growth lumber in its products.[^26]
 - 1999: "<a   href="Talamanca_Anti-Oil_Movement.md" class="wikilink"
-  title="Talamanca Anti-Oil Movement">"Talamanca Anti-Oil Movement</a>
+  title="Talamanca Anti-Oil Movement">Talamanca Anti-Oil Movement</a>
   (Costa Rica)
 
 ## 2000s
 
 - 2000: The "<a   href="Jökla_River_Campaign.md" class="wikilink"
-  title="Jökla River Campaign">"Jökla River Campaign</a> begins in
+  title="Jökla River Campaign">Jökla River Campaign</a> begins in
   Iceland as environmentalists resist the construction of a dam and
   aluminum smelting plant.[^27]
 - 2000: Greenpeace
   "<a   href="Anti-HFC_Campaign_(Australia).md" class="wikilink"
-  title="pressures">"pressures</a> Coca-Cola to phase out HFC
+  title="pressures">pressures</a> Coca-Cola to phase out HFC
   refrigeration for Olympic Games in Australia.[^28]
 - 2001:
-  "<a   href="Can_Masdeu.md" class="wikilink" title="Can Masdeu">"Can Masdeu</a>
+  "<a   href="Can_Masdeu.md" class="wikilink" title="Can Masdeu">Can Masdeu</a>
   founded (Spain)
 - 2001: The "<a   href="Plachimada_Campaign.md" class="wikilink"
-  title="Plachimada Campaign">"Plachimada Campaign</a> begins as citizens
+  title="Plachimada Campaign">Plachimada Campaign</a> begins as citizens
   close a coca-cola factory.[^29]
 - 2002: "<a   href="Esquel_Anti-Mine_Movement.md" class="wikilink"
-  title="Esquel Anti-Mine Movement">"Esquel Anti-Mine Movement</a>
+  title="Esquel Anti-Mine Movement">Esquel Anti-Mine Movement</a>
   (Argentina)
 - 2002: The "<a   href="Rosia_Montana_Anti-Mine_Movement.md" class="wikilink"
-  title="Rosia Montana Anti-Mine Movement">"Rosia Montana Anti-Mine
+  title="Rosia Montana Anti-Mine Movement">Rosia Montana Anti-Mine
   Movement</a> begins as citizens in Romania attempt to stop the
   construction of a new cyanide mine over 11 years.[^30]
 - 2002: Indigenous Asubpeeschoseewagon in Canada
   "<a   href="Grassy_Narrows_Campaign.md" class="wikilink"
-  title="blockade the Grassy Narrows">"blockade the Grassy Narrows</a>
+  title="blockade the Grassy Narrows">blockade the Grassy Narrows</a>
   territory to stop it from logging.[^31]
 - 2002: English residents and environmentalists
   "<a   href="Heathrow_Airport_Campaign_(2000s).md" class="wikilink"
-  title="prevent">"prevent</a> Heathrow Airport expansion.[^32]
+  title="prevent">prevent</a> Heathrow Airport expansion.[^32]
 - 2004: Canadian environmentalists
   "<a   href="Cathedral_Grove_Campaign.md" class="wikilink"
-  title="protect the Cathedral Grove forest remnants">"protect the
+  title="protect the Cathedral Grove forest remnants">protect the
   Cathedral Grove forest remnants</a> in British Columbia.[^33]
 - 2005: Environmentalists in Sofia, Bulgaria
   "<a   href="Suhodol_Campaign.md" class="wikilink"
-  title="close a polluting">"close a polluting</a> landfill.[^34]
+  title="close a polluting">close a polluting</a> landfill.[^34]
 - 2005: Argentinians "<a   href="Uruguay_River_Campaign.md" class="wikilink"
-  title="block the construction of environmentally destructive paper mills">"block
+  title="block the construction of environmentally destructive paper mills">block
   the construction of environmentally destructive paper mills</a> along
   the Uruguay River.[^35]
 - 2005: Indigenous Sakhalin's in Russia
   "<a   href="Sakhalin_Anti-Oil_Movemenet.md" class="wikilink"
-  title="stop the construction">"stop the construction</a> of new oil
+  title="stop the construction">stop the construction</a> of new oil
   drilling sites.[^36]
 - 2005: Greenpeace and Sea Shepards
   "<a   href="Nissui_Anti-Whalehunting_Campaign.md" class="wikilink"
-  title="force Japanese seafood">"force Japanese seafood</a> company
+  title="force Japanese seafood">force Japanese seafood</a> company
   Nissui to sell stakes in Whale hunting ships.[^37]
 - 2006: Cayman Islanders
   "<a   href="Cayman_Islands_Dolphin_Campaign.md" class="wikilink"
-  title="attempt to close dolphin parks">"attempt to close dolphin
+  title="attempt to close dolphin parks">attempt to close dolphin
   parks</a> and stop the import of dolphins to the country.[^38]
 - 2006: The
-  "<a   href="Oaxaca_Revolution.md" class="wikilink" title="Oaxaca">"Oaxaca</a>
+  "<a   href="Oaxaca_Revolution.md" class="wikilink" title="Oaxaca">Oaxaca</a>
   and "<a   href="Zaachila.md" class="wikilink"
-  title="Zaachila Revolutions">"Zaachila Revolutions</a> in Mexico are
+  title="Zaachila Revolutions">Zaachila Revolutions</a> in Mexico are
   informed strongly by environmentalism.
 - 2006: "<a   href="Phulbari_Anti-Mine_Movement.md" class="wikilink"
-  title="Phulbari Anti-Mine Movement">"Phulbari Anti-Mine Movement</a>
+  title="Phulbari Anti-Mine Movement">Phulbari Anti-Mine Movement</a>
   (Bangladesh)
 - 2006: "<a   href="Gyeyang_Mountain_Campaign.md" class="wikilink"
-  title="Gyeyang Mountain Campaign">"Gyeyang Mountain Campaign</a> (South
+  title="Gyeyang Mountain Campaign">Gyeyang Mountain Campaign</a> (South
   Korea)
 - 2007: Indigenous Algonquins try to
   "<a   href="Ontario_Anti-Mine_Movement_(2007).md" class="wikilink"
-  title="block uranium mining">"block uranium mining</a> in Ontario,
+  title="block uranium mining">block uranium mining</a> in Ontario,
   Canada.[^39]
 - 2007: "<a   href="Xiamen_Anti-Factory_Campaign_(2007).md" class="wikilink"
-  title="Xiamen Anti-Factory Campaign">"Xiamen Anti-Factory Campaign</a>
+  title="Xiamen Anti-Factory Campaign">Xiamen Anti-Factory Campaign</a>
   (China)
 - 2007: The "<a   href="Mabira_Forest_Campaign.md" class="wikilink"
-  title="Mabira Forest Campaign">"Mabira Forest Campaign</a> saves the
+  title="Mabira Forest Campaign">Mabira Forest Campaign</a> saves the
   Mabira Forest in Uganda.[^40]
 - 2007: Environmentalists
   "<a   href="Kingsnorth_Anti-Coal_Movement.md" class="wikilink"
-  title="prevent construction">"prevent construction</a> of coal-fired
+  title="prevent construction">prevent construction</a> of coal-fired
   power plant in Kingsnorth, UK.[^41]
 - 2008: Protests across Greece
   "<a   href="Greek_Anti-Coal_Campaign.md" class="wikilink"
-  title="stop the construction">"stop the construction</a> of five new
+  title="stop the construction">stop the construction</a> of five new
   coal-fired plants across the country.[^42]
 - 2008: "<a   href="Peruvian_Rainforest_Defense_(2008).md" class="wikilink"
-  title="Peruvian Rainforest Defense">"Peruvian Rainforest Defense</a>
+  title="Peruvian Rainforest Defense">Peruvian Rainforest Defense</a>
 - 2008: Greenpeace forces Unilever to stop buying palm oil products from
   Indonesia.[^43]
 - 2008: Professor G.D. Agarwal holds several hunger strikes to stop the
   construction of dams along the Ganges River in India.[^44]
 - 2008: Students in Chengdu, China begin a campaign to
   "<a   href="Chengdu_Stroll.md" class="wikilink"
-  title="stop the construction">"stop the construction</a> of a
+  title="stop the construction">stop the construction</a> of a
   petrochemical plant.[^45]
 - 2008: The "<a   href="Xingu_River_Campaign.md" class="wikilink"
-  title="Xingu River Campaign">"Xingu River Campaign</a> begins as
+  title="Xingu River Campaign">Xingu River Campaign</a> begins as
   indigenous Brazilians attempt to protect the Xingu River from
   damming.[^46]
 - 2009: "<a   href="Unist&#39;ot&#39;en.md" class="wikilink"
-  title="Unist&#39;ot&#39;en">"Unist'ot'en</a> is founded by indigenous
+  title="Unist&#39;ot&#39;en">Unist'ot'en</a> is founded by indigenous
   Americans in so called 'British Columbia, Canada' to protect forests
   from oil development.
 - 2009: Canadian environmentalists
   "<a   href="Seal_Protection_Campaign_(2009).md" class="wikilink"
-  title="campaign against seal hunting">"campaign against seal hunting</a>
+  title="campaign against seal hunting">campaign against seal hunting</a>
   and manage to block it in several countries.[^47]
 - 2009: Anishinaabe Kweag in Canada
   "<a   href="Alliston_Aquifer_Campaign.md" class="wikilink"
-  title="protect the Alliston Aquifer">"protect the Alliston Aquifer</a>
+  title="protect the Alliston Aquifer">protect the Alliston Aquifer</a>
   from a waste dump.
 - 2009: Environmentalists in Guangzhou, China
   "<a   href="Guangzhou_Incinerator_Campaign_(2009).md" class="wikilink"
-  title="stop the construction">"stop the construction</a> of a polluting
+  title="stop the construction">stop the construction</a> of a polluting
   rubbish incinerator.[^48]
 - 2009: Greenpeace
   "<a   href="Indoesian_Forest_Campaign_(Greenpeace).md" class="wikilink"
-  title="protects Indonesian forests">"protects Indonesian forests</a>
+  title="protects Indonesian forests">protects Indonesian forests</a>
   against Asia Pulp and Paper.[^49]
 
 ### 2010s
 
 - 2010:
-  "<a   href="Ruin_Academy.md" class="wikilink" title="Ruin Academy">"Ruin
+  "<a   href="Ruin_Academy.md" class="wikilink" title="Ruin Academy">Ruin
   Academy</a> founded (Taiwan)
 - 2010: National Parks in New Zealand are
   "<a   href="New_Zealand_National_Parks_Campaign_(2010).md" class="wikilink"
-  title="protected from mining">"protected from mining</a>.[^50]
+  title="protected from mining">protected from mining</a>.[^50]
 - 2010: The "<a   href="Las_Crucitas_Anti-Mine_Movement.md" class="wikilink"
-  title="Las Crucitas Anti-Mine Movement">"Las Crucitas Anti-Mine
+  title="Las Crucitas Anti-Mine Movement">Las Crucitas Anti-Mine
   Movement</a> begins as citizens in Costa Rica work to stop the
   construction of a new a gold mine.[^51]
 - 2010: The
   "<a   href="Florida_Keys_Environmental_Coalition.md" class="wikilink"
-  title="Florida Keys Environmental Coalition">"Florida Keys Environmental
+  title="Florida Keys Environmental Coalition">Florida Keys Environmental
   Coalition</a> in the USA acts to clean up and protect against oil
   spills.[^52]
 - 2010: The "<a   href="Casco_Viejo_Campaign.md" class="wikilink"
-  title="Casco Viejo Campaign">"Casco Viejo Campaign</a> in
-  "<a   href="Panama.md" class="wikilink" title="Panama">"Panama</a> sees
+  title="Casco Viejo Campaign">Casco Viejo Campaign</a> in
+  "<a   href="Panama.md" class="wikilink" title="Panama">Panama</a> sees
   citizens try to stop environmentally destructive developments.[^53]
 - 2010: Indian farmers and fishermen stop the construction of the
   "<a   href="Nagarjuna_Anti-Coal_Campaign.md" class="wikilink"
-  title="Nagarjuna">"Nagarjuna</a> coal plant in Sompeta, Andhra
+  title="Nagarjuna">Nagarjuna</a> coal plant in Sompeta, Andhra
   Pradesh.[^54]
 - 2010: Sri Lankan fishermen stop building of seaplane platform in
   "<a   href="Negombo_Lagoon_Campaign.md" class="wikilink"
-  title="Negombo Lagoon">"Negombo Lagoon</a>.[^55]
+  title="Negombo Lagoon">Negombo Lagoon</a>.[^55]
 - 2010: Veterinarians in Sri Lanka
   "<a   href="Sri_Lankan_Veterinarian_Strike_(2010).md" class="wikilink"
-  title="strike">"strike</a> for better treatment of elephants.[^56]
+  title="strike">strike</a> for better treatment of elephants.[^56]
 - 2010: "<a   href="Khimki_Forest_Campaign.md" class="wikilink"
-  title="Khimki Forest Campaign">"Khimki Forest Campaign</a> (Russia)
+  title="Khimki Forest Campaign">Khimki Forest Campaign</a> (Russia)
 - 2010: The "<a   href="Enbridge_Anti-Oil_Campaign.md" class="wikilink"
-  title="Enbridge Anti-Oil Campaign">"Enbridge Anti-Oil Campaign</a>
+  title="Enbridge Anti-Oil Campaign">Enbridge Anti-Oil Campaign</a>
   begins in Canada.[^57]
 - 2011: African fishermen and Greenpeace
   "<a   href="African_Fishing_Campaign.md" class="wikilink"
-  title="win better international fishing practices">"win better
+  title="win better international fishing practices">win better
   international fishing practices</a>.[^58]
 - 2011: The "<a   href="Cherán_Revolution.md" class="wikilink"
-  title="Cherán Revolution">"Cherán Revolution</a> is partially inspired
+  title="Cherán Revolution">Cherán Revolution</a> is partially inspired
   by efforts to protect local forests from deforestation.
 - 2011: The "<a   href="Puna_Anti-Mine_Movement_(2011).md" class="wikilink"
-  title="Puna Anti-Mine Movement">"Puna Anti-Mine Movement</a> begins as
+  title="Puna Anti-Mine Movement">Puna Anti-Mine Movement</a> begins as
   citizens in Peru stop the construction of a new silver mine.[^59]
 - 2011: "<a   href="Cajamarca_Anti-Mine_Movement.md" class="wikilink"
-  title="Cajamarca Anti-Mine Movement">"Cajamarca Anti-Mine Movement</a>
+  title="Cajamarca Anti-Mine Movement">Cajamarca Anti-Mine Movement</a>
   (Peru)
 - 2011: "<a   href="Dalian_Anti-Factory_Campaign_(2011).md" class="wikilink"
-  title="Dalian Anti-Factory Campaign">"Dalian Anti-Factory Campaign</a>
+  title="Dalian Anti-Factory Campaign">Dalian Anti-Factory Campaign</a>
   (China)
 - 2011:
   "<a   href="Haining_Anti-Pollution_Campaign_(2011).md" class="wikilink"
-  title="Haining Anti-Pollution Campaign">"Haining Anti-Pollution
+  title="Haining Anti-Pollution Campaign">Haining Anti-Pollution
   Campaign</a> (China)
 - 2011: "<a   href="Battle_for_Isiboro_Park.md" class="wikilink"
-  title="Battle for Isiboro Park">"Battle for Isiboro Park</a> (Bolivia)
+  title="Battle for Isiboro Park">Battle for Isiboro Park</a> (Bolivia)
 - 2012: University students and staff get Vanderbilt University
   "<a   href="Vanderbilt_Disinvestment_Campaign.md" class="wikilink"
-  title="to stop investing">"to stop investing</a> in third world
+  title="to stop investing">to stop investing</a> in third world
   land-grabbing.[^60]
 - 2012: Greenpeace stops
-  "<a   href="Shell_Oil.md" class="wikilink" title="Shell Oil">"Shell Oil</a>
+  "<a   href="Shell_Oil.md" class="wikilink" title="Shell Oil">Shell Oil</a>
   drilling in the Arctic Ocean around Russia.[^61]
 - 2012: Polish beekeepers
   "<a   href="Polish_Anti-GMO_Campaign.md" class="wikilink"
-  title="get the government">"get the government</a> to ban genetically
+  title="get the government">get the government</a> to ban genetically
   modified corn, leading to bans in other EU countries.[^62]
 - 2012: "<a   href="Shifang_Anti-Factory_Campaign_(2012).md" class="wikilink"
-  title="Shifang Anti-Factory Campaign">"Shifang Anti-Factory Campaign</a>
+  title="Shifang Anti-Factory Campaign">Shifang Anti-Factory Campaign</a>
   (China)
 - 2012: "<a   href="Rojava_Revolution.md" class="wikilink"
-  title="Rojava Revolution">"Rojava Revolution</a> (Rojava)
+  title="Rojava Revolution">Rojava Revolution</a> (Rojava)
 - 2012: "<a   href="Prirazlomnaya_Oil_Rig_Occupation.md" class="wikilink"
-  title="Prirazlomnaya Oil Rig Occupation">"Prirazlomnaya Oil Rig
+  title="Prirazlomnaya Oil Rig Occupation">Prirazlomnaya Oil Rig
   Occupation</a> (Russia)
 - 2012: Sea Shepards protect Antarctic whales from Japanese
   whalers.[^63]
 - 2012: "<a   href="Ningbo_Anti-Refinery_Campaign_(2012).md" class="wikilink"
-  title="Ningbo Anti-Refinery Campaign">"Ningbo Anti-Refinery Campaign</a>
+  title="Ningbo Anti-Refinery Campaign">Ningbo Anti-Refinery Campaign</a>
 - 2013: University students and staff get the University of Hawaii
   "<a   href="Fossil_Fuel_Disinvestment_Movement.md" class="wikilink"
-  title="to stop investing">"to stop investing</a> in fossil fuels.[^64]
+  title="to stop investing">to stop investing</a> in fossil fuels.[^64]
 - 2013: "<a   href="Gezi_Park_Uprising.md" class="wikilink"
-  title="Gezi Park Uprising">"Gezi Park Uprising</a> (Turkey)
+  title="Gezi Park Uprising">Gezi Park Uprising</a> (Turkey)
 - 2013: The "<a   href="Sarasota_Bay_Campaign.md" class="wikilink"
-  title="Sarasota Bay Campaign">"Sarasota Bay Campaign</a> protects
+  title="Sarasota Bay Campaign">Sarasota Bay Campaign</a> protects
   Sarasota Bay from destruction by a hotel company in Manatee County,
   Florida, USA.[^65]
 - 2013: The "<a   href="Mi&#39;kmaq_Uprising_(2013).md" class="wikilink"
-  title="Mi&#39;kmaq Uprising">"Mi'kmaq Uprising</a> protects traditional
+  title="Mi&#39;kmaq Uprising">Mi'kmaq Uprising</a> protects traditional
   land from oil drilling.[^66]
 - 2013: University students and staff get the University of Glasgow
   "<a   href="Fossil_Fuel_Disinvestment_Movement.md" class="wikilink"
-  title="to stop investing">"to stop investing</a> in fossil fuels.[^67]
+  title="to stop investing">to stop investing</a> in fossil fuels.[^67]
 - 2013: The
   "<a   href="Barton_Moss_Community_Protection_Camp.md" class="wikilink"
-  title="Barton Moss Community Protection Camp">"Barton Moss Community
+  title="Barton Moss Community Protection Camp">Barton Moss Community
   Protection Camp</a> is built to stop fracking in the UK.[^68]
 - 2014: Environmentalists in Pungesti, Romania
   "<a   href="Pungesti_Anti-Fracking_Campaign.md" class="wikilink"
-  title="block the construction">"block the construction</a> of fracking
+  title="block the construction">block the construction</a> of fracking
   sites near the town.[^69]
 - 2015: University students and staff get the University of London
   "<a   href="Fossil_Fuel_Disinvestment_Movement.md" class="wikilink"
-  title="to stop investing">"to stop investing</a> in fossil fuels.[^70]
+  title="to stop investing">to stop investing</a> in fossil fuels.[^70]
 - 2015: University students and staff get the Trinity College
   "<a   href="Fossil_Fuel_Disinvestment_Movement.md" class="wikilink"
-  title="to stop investing">"to stop investing</a> in fossil fuels.[^71]
+  title="to stop investing">to stop investing</a> in fossil fuels.[^71]
 - 2016: The '"<a   href="Autonomous_Administration_of_North_and_East_Syria#Environmentalism.md"
-  class="wikilink" title="Make Rojava Green Again">"Make Rojava Green
+  class="wikilink" title="Make Rojava Green Again">Make Rojava Green
   Again</a>' campaign begins to protect and restore the environment in
-  "<a   href="Rojava.md" class="wikilink" title="Rojava">"Rojava</a>.
+  "<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a>.
 
 ## References
 
 "<a   href="Category:Timelines.md" class="wikilink"
-title="Category:Timelines">"Category:Timelines</a>
+title="Category:Timelines">Category:Timelines</a>
 "<a   href="Category:Environmentalism.md" class="wikilink"
-title="Category:Environmentalism">"Category:Environmentalism</a>
+title="Category:Environmentalism">Category:Environmentalism</a>
 
 [^1]: <https://www.greenpeace.org/international/story/11658/a-brief-history-of-environmentalism/>
 

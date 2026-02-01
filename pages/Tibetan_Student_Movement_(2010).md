@@ -1,11 +1,11 @@
 The **Tibetan Student Movement of 2010** was a
-"<a   href="Indigenism.md" class="wikilink" title="indigenist">"indigenist</a>
+"<a   href="Indigenism.md" class="wikilink" title="indigenist">indigenist</a>
 "<a   href="Student_Uprisings.md" class="wikilink"
-title="student movement">"student movement</a> in
-"<a   href="Tibet.md" class="wikilink" title="Tibet">"Tibet</a> (occupied by
-"<a   href="China.md" class="wikilink" title="China">"China</a>) in
+title="student movement">student movement</a> in
+"<a   href="Tibet.md" class="wikilink" title="Tibet">Tibet</a> (occupied by
+"<a   href="China.md" class="wikilink" title="China">China</a>) in
 "<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
-title="2010">"2010</a>.
+title="2010">2010</a>.
 
 ## Background
 

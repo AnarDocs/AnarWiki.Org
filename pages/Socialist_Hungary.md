@@ -1,8 +1,8 @@
 **Socialist Hungary**, officially the **Hungarian People's Republic**,
 refers to the "<a   href="Authoritarian_Socialism.md" class="wikilink"
-title="authoritarian socialist">"authoritarian socialist</a>/"<a   href="Marxism-Leninism_in_Practice.md" class="wikilink"
-title="marxist-leninist">"marxist-leninist</a> era of
-"<a   href="Hungary.md" class="wikilink" title="Hungary&#39;s">"Hungary's</a>
+title="authoritarian socialist">authoritarian socialist</a>/"<a   href="Marxism-Leninism_in_Practice.md" class="wikilink"
+title="marxist-leninist">marxist-leninist</a> era of
+"<a   href="Hungary.md" class="wikilink" title="Hungary&#39;s">Hungary's</a>
 history.
 
 ## Analysis
@@ -63,25 +63,25 @@ history.
 ## Major Social Struggles
 
 - 1956: "<a   href="Hungarian_Revolution_(1956).md" class="wikilink"
-  title="Hungarian Revolution">"Hungarian Revolution</a>
+  title="Hungarian Revolution">Hungarian Revolution</a>
 - 1989: Hungarian Revolution
 
 ## References
 
 "<a   href="Category:Former_States.md" class="wikilink"
-title="Category:Former States">"Category:Former States</a>
+title="Category:Former States">Category:Former States</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Hungary.md" class="wikilink"
-title="Category:Hungary">"Category:Hungary</a>
+title="Category:Hungary">Category:Hungary</a>
 "<a   href="Category:Eastern_Europe.md" class="wikilink"
-title="Category:Eastern Europe">"Category:Eastern Europe</a>
+title="Category:Eastern Europe">Category:Eastern Europe</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:Authoritarian_Socialism.md" class="wikilink"
-title="Category:Authoritarian Socialism">"Category:Authoritarian
+title="Category:Authoritarian Socialism">Category:Authoritarian
 Socialism</a> "<a   href="Category:Marxist-Leninism.md" class="wikilink"
-title="Category:Marxist-Leninism">"Category:Marxist-Leninism</a>
+title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 
 [^1]: [US Federal Research Division \| Hungary: A Country Study (1990)
     (PDF), pages 99 -

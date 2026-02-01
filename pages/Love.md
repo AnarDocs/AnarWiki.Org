@@ -3,7 +3,7 @@
 ## Overview
 
 Love and
-"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
 share a profound and necessary relationship that extends beyond simple
 political philosophy into the realm of human emotion, ethics, and
 revolutionary practice. Anarchism is fundamentally motivated by
@@ -54,7 +54,7 @@ constructive struggle and change."[^5]
 
 ## Love Under Capitalism
 
-"<a   href="Capitalism.md" class="wikilink" title="Capitalism">"Capitalism</a>
+"<a   href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>
 fundamentally distorts and constrains love in multiple ways. Under
 capitalist social relations, love becomes commodified—transformed from a
 natural human emotion into something that can be bought, sold, and
@@ -179,7 +179,7 @@ encounter one another with love."[^18]
 
 The relationship between love and anarchism crystallizes around the
 principle of
-"<a   href="consent.md" class="wikilink" title="consent">"consent</a>. Consent
+"<a   href="consent.md" class="wikilink" title="consent">consent</a>. Consent
 is a free choice to allow something to happen—but if freedom is too
 constrained, the choice no longer feels like a choice. Authentic consent
 requires equitable power, which is why power matters so crucially to
@@ -223,7 +223,7 @@ calculation.
 
 ## Free Love
 
-The "<a   href="Free_Love.md" class="wikilink" title="Free Love">"Free Love</a>
+The "<a   href="Free_Love.md" class="wikilink" title="Free Love">Free Love</a>
 movement has historically been intertwined with anarchist politics,
 representing an application of anarchist principles to intimate and
 sexual relationships. Free love advocates for the freedom to enter into
@@ -349,19 +349,19 @@ struggle for a world where love can flourish freely.
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Free_Love.md" class="wikilink"
-title="Category:Free Love">"Category:Free Love</a>
+title="Category:Free Love">Category:Free Love</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Carne Ross, "Anarchy is Love" (Summer 2024)
 

@@ -12,7 +12,7 @@ of their communities, but mutual aid groups are also found throughout
 relief efforts, such as in natural disasters or pandemics.
 
 Resources are shared unconditionally, contrasting this model from
-"<a   href="charity.md" class="wikilink" title="charity">"charity</a> where
+"<a   href="charity.md" class="wikilink" title="charity">charity</a> where
 conditions for gaining access to help are often set, such as means
 testing or grant stipulations. These groups often go beyond material or
 service exchange and are set up as a form of political participation in
@@ -28,10 +28,10 @@ to enact change and take responsibility for the group.
 ## Origins
 
 The term "mutual aid" was popularized by the anarchist philosopher
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> in his essay collection
 *"<a   href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
-title="Mutual Aid: A Factor of Evolution">"Mutual Aid: A Factor of
+title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
 Evolution</a>* (1902), which argued that cooperation, not competition,
 was the driving mechanism behind evolution, through biological
 mutualism.[^1][^2]
@@ -70,7 +70,7 @@ consensus-based decision-making.[^5]
 
 In the 1800s and early 1900s, mutual aid organizations included unions,
 the "<a   href="friendly_societies.md" class="wikilink"
-title="friendly societies">"friendly societies</a> that were common
+title="friendly societies">friendly societies</a> that were common
 throughout Europe in the eighteenth and nineteenth centuries,[^6]
 medieval craft guilds,[^7] the American fraternity societies that
 existed during the Great Depression providing their members with health
@@ -85,7 +85,7 @@ neighborhoods, migrant groups, LGBT communities, and
 others.[^10][^11][^12][^13]
 
 The "<a   href="Black_Panther_Party.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a>'s urban food
+title="Black Panther Party">Black Panther Party</a>'s urban food
 programs in the 1960s were a prominent example of mutual aid in action.
 During the AIDS crisis in the United States, many LGBT+ groups started
 mutual aid networks to provide medical care, support groups, and
@@ -95,7 +95,7 @@ community.[^14]
 ### Contemporary Practice
 
 "<a   href="Common_Ground_Relief.md" class="wikilink"
-title="Common Ground Relief">"Common Ground Relief</a> organized mutual
+title="Common Ground Relief">Common Ground Relief</a> organized mutual
 aid for disaster relief during the 2005 Hurricane Katrina, demonstrating
 the power of decentralized organizing in crisis response.
 
@@ -108,7 +108,7 @@ level, organized to help shop, deliver medicine, create games for kids,
 offering civic connection during a time of isolation.[^16]
 
 Around the same time, the "<a   href="Black_Lives_Matter.md" class="wikilink"
-title="Black Lives Matter">"Black Lives Matter</a> movement resulted in
+title="Black Lives Matter">Black Lives Matter</a> movement resulted in
 multiple protestors detained and arrested by police.[^17] Bail funds,
 which are community organizations that pay cash bail for people in need
 for free, are another example of mutual aid organizations.[^18]
@@ -138,17 +138,17 @@ than simply filling gaps left by the state.
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Peter Kropotkin, Victor Robinson (2020). Mutual Aid – A Factor of
     Evolution: With an Excerpt from Comrade Kropotkin by Victor

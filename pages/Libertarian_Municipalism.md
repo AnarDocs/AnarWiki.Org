@@ -1,18 +1,18 @@
 # Libertarian Municipalism
 
 **Libertarian Municipalism** is a
-"<a   href="Anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 strategy and philosophy which argues for the immediate creation of
 "<a   href="Democratic_Assembly.md" class="wikilink"
-title="neighbourhood assemblies">"neighbourhood assemblies</a> that
+title="neighbourhood assemblies">neighbourhood assemblies</a> that
 slowly grow until they are strong enough to dismantle the
-"<a   href="State_(Polity).md" class="wikilink" title="state">"state</a>. This
+"<a   href="State_(Polity).md" class="wikilink" title="state">state</a>. This
 "<a   href="political_theory.md" class="wikilink"
-title="political theory">"political theory</a> developed out of the
+title="political theory">political theory</a> developed out of the
 writings of American "<a   href="social_theorist.md" class="wikilink"
-title="social theorist">"social theorist</a> and philosopher
+title="social theorist">social theorist</a> and philosopher
 "<a   href="Murray_Bookchin.md" class="wikilink"
-title="Murray Bookchin">"Murray Bookchin</a>, advocating for establishing
+title="Murray Bookchin">Murray Bookchin</a>, advocating for establishing
 direct democratic systems within municipalities, such as towns and
 cities. It envisions these local communities as the foundation for an
 ecological society, where citizens actively manage social and economic
@@ -23,47 +23,47 @@ affairs directly rather than relying on representatives.[^1]
 ### Origins
 
 During the "<a   href="French_Revolution.md" class="wikilink"
-title="French Revolution">"French Revolution</a>, sociétés
+title="French Revolution">French Revolution</a>, sociétés
 révolutionnaire controlled municipal governments and established
 alliances between neighboring cities, forming a federation of hundreds
 of "municipalist republics" in south France known as
 **communalism**.[^2]
 
-In "<a   href="Europe.md" class="wikilink" title="Europe">"Europe</a>, the
+In "<a   href="Europe.md" class="wikilink" title="Europe">Europe</a>, the
 "<a   href="Municipal_socialism.md" class="wikilink"
-title="earliest forms of municipalism">"earliest forms of
+title="earliest forms of municipalism">earliest forms of
 municipalism</a> developed in the socialist parties.[^3] In 1881 the
 "<a   href="Federation_of_the_Socialist_Workers_of_France.md" class="wikilink"
-title="Federation of the Socialist Workers of France">"Federation of the
+title="Federation of the Socialist Workers of France">Federation of the
 Socialist Workers of France</a> (a predecessor of the modern
 "<a   href="French_Socialist_Party.md" class="wikilink"
-title="French Socialist Party">"French Socialist Party</a>) won control
+title="French Socialist Party">French Socialist Party</a>) won control
 of the municipality of
-"<a   href="Commentry.md" class="wikilink" title="Commentry">"Commentry</a>.[^4]
+"<a   href="Commentry.md" class="wikilink" title="Commentry">Commentry</a>.[^4]
 In subsequent municipal elections, socialist candidates and parties
 increased the number of municipalities they controlled to 70 in 1892,
 and then over 100 in 1896. Meanwhile, in
-"<a   href="Italy.md" class="wikilink" title="Italy">"Italy</a>, changes in
+"<a   href="Italy.md" class="wikilink" title="Italy">Italy</a>, changes in
 electoral laws enabled the
 "<a   href="Italian_Socialist_Party.md" class="wikilink"
-title="Italian Socialist Party">"Italian Socialist Party</a> to gain its
+title="Italian Socialist Party">Italian Socialist Party</a> to gain its
 first municipality,
-"<a   href="Imola.md" class="wikilink" title="Imola">"Imola</a>, under the
+"<a   href="Imola.md" class="wikilink" title="Imola">Imola</a>, under the
 leadership of
-"<a   href="Andrea_Costa.md" class="wikilink" title="Andrea Costa">"Andrea
+"<a   href="Andrea_Costa.md" class="wikilink" title="Andrea Costa">Andrea
 Costa</a>.[^5]
 
 "<a   href="Libertarian_socialist.md" class="wikilink"
-title="Libertarian socialist">"Libertarian socialist</a> and
+title="Libertarian socialist">Libertarian socialist</a> and
 "<a   href="Social_ecology_(Bookchin).md" class="wikilink"
-title="social ecologist">"social ecologist</a> thinker
+title="social ecologist">social ecologist</a> thinker
 "<a   href="Murray_Bookchin.md" class="wikilink"
-title="Murray Bookchin">"Murray Bookchin</a> promoted what he called
+title="Murray Bookchin">Murray Bookchin</a> promoted what he called
 "<a   href="Murray_Bookchin#Municipalism_and_communalism.md" class="wikilink"
-title="libertarian municipalism">"libertarian municipalism</a> as the
+title="libertarian municipalism">libertarian municipalism</a> as the
 political branch of social ecology, focusing on the development of
 "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> within existing local
+title="direct democracy">direct democracy</a> within existing local
 governance structures.[^6][^7]
 
 ### Current Status
@@ -71,7 +71,7 @@ governance structures.[^6][^7]
 Bookchin has been one of the influences on a movement known as "new
 municipalism" in the twenty-first century, exemplified by
 "<a   href="Barcelona_en_Comú.md" class="wikilink"
-title="Barcelona en Comú">"Barcelona en Comú</a>.[^8][^9][^10][^11]
+title="Barcelona en Comú">Barcelona en Comú</a>.[^8][^9][^10][^11]
 
 ## Organisation
 
@@ -80,7 +80,7 @@ collectively address larger regional issues, creating a network of
 interconnected communities focused on cooperation and mutual aid. Rooted
 in principles of direct democracy, decentralization, and
 "<a   href="libertarian_communalism.md" class="wikilink"
-title="libertarian communalism">"libertarian communalism</a>, this system
+title="libertarian communalism">libertarian communalism</a>, this system
 is intended to serve as an alternative to centralized nation-states and
 corporate capitalism.
 
@@ -136,11 +136,11 @@ ecological exploitation persists.[^14]
 
 Libertarian municipalism has significantly influenced the development of
 "<a   href="Democratic_Confederalism.md" class="wikilink"
-title="Democratic Confederalism">"Democratic Confederalism</a>,
+title="Democratic Confederalism">Democratic Confederalism</a>,
 particularly through the work of
 "<a   href="Abdullah_Öcalan.md" class="wikilink"
-title="Abdullah Öcalan">"Abdullah Öcalan</a> and its implementation in
-"<a   href="Rojava.md" class="wikilink" title="Rojava">"Rojava</a> (Syrian
+title="Abdullah Öcalan">Abdullah Öcalan</a> and its implementation in
+"<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> (Syrian
 Kurdistan). Öcalan, while imprisoned, studied Bookchin's writings
 extensively and adapted libertarian municipalist principles to create a
 political framework that emphasizes local democratic assemblies, gender
@@ -154,12 +154,12 @@ decentralized governance.
 ## Libertarian Municipalist Organisations
 
 - "<a   href="Barcelona_en_Comú.md" class="wikilink"
-  title="Barcelona en Comú">"Barcelona en Comú</a> (Barcelona, Catalonia,
+  title="Barcelona en Comú">Barcelona en Comú</a> (Barcelona, Catalonia,
   Spain)
 - "<a   href="Cooperation_Jackson.md" class="wikilink"
-  title="Cooperation Jackson">"Cooperation Jackson</a> (Jackson,
+  title="Cooperation Jackson">Cooperation Jackson</a> (Jackson,
   Mississippi, USA)
-- "<a   href="Ciudad_Futura.md" class="wikilink" title="Ciudad Futura">"Ciudad
+- "<a   href="Ciudad_Futura.md" class="wikilink" title="Ciudad Futura">Ciudad
   Futura</a> (Rosario, Argentina)
 
 ## Criticism
@@ -177,36 +177,36 @@ coordinated action beyond local boundaries.
 <references/>
 
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
-title="Category:Workers&#39; Self-Management">"Category:Workers'
+title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Libertarian_Municipalism.md" class="wikilink"
-title="Category:Libertarian Municipalism">"Category:Libertarian
+title="Category:Libertarian Municipalism">Category:Libertarian
 Municipalism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Murray_Bookchin.md" class="wikilink"
-title="Category:Murray Bookchin">"Category:Murray Bookchin</a>
+title="Category:Murray Bookchin">Category:Murray Bookchin</a>
 "<a   href="Category:Dual_Power.md" class="wikilink"
-title="Category:Dual Power">"Category:Dual Power</a>
+title="Category:Dual Power">Category:Dual Power</a>
 "<a   href="Category:Strategies.md" class="wikilink"
-title="Category:Strategies">"Category:Strategies</a>
+title="Category:Strategies">Category:Strategies</a>
 "<a   href="Category:Anarchist_Economics.md" class="wikilink"
-title="Category:Anarchist Economics">"Category:Anarchist Economics</a>
+title="Category:Anarchist Economics">Category:Anarchist Economics</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Carter, Mason. "Libertarian Municipalism: Theory to Build
     Socialism from Below." *Class with Mason*, 2024.

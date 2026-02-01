@@ -6,7 +6,7 @@
 </figure>
 
 The "<a   href="Arditi_del_Popolo.md" class="wikilink"
-title="Arditi del Popolo">"Arditi del Popolo</a> (The People's Daring
+title="Arditi del Popolo">Arditi del Popolo</a> (The People's Daring
 Ones) were co-founded in Rome in June 1921 by Argo Secondari, an
 Anarchist. A decentralized anti-fascist militia, they included
 Anarchists, Communists, Socialists, and republicans. Within months of

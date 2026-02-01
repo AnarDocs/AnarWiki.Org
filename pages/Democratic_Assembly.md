@@ -3,12 +3,12 @@
 Assemblies**, **Citizens Assemblies**, **Village Assemblies**,
 **Municipal Assemblies** and **Civic Assemblies**) are the organs of
 local, grassroots, democratic decision-making within a
-"<a   href="Anarchism.md" class="wikilink" title="anarchists">"anarchists</a>
+"<a   href="Anarchism.md" class="wikilink" title="anarchists">anarchists</a>
 society. They also function as
-"<a   href="Dual_Power.md" class="wikilink" title="dual power">"dual power</a>,
+"<a   href="Dual_Power.md" class="wikilink" title="dual power">dual power</a>,
 providing an alternative way of making community-wide decisions outside
 of the
-"<a   href="State_(Polity).md" class="wikilink" title="state">"state</a>.
+"<a   href="State_(Polity).md" class="wikilink" title="state">state</a>.
 
 ## Function
 
@@ -50,22 +50,22 @@ assembly.
 ## See Also
 
 - "<a   href="Affinity_Group.md" class="wikilink"
-  title="Affinity Group">"Affinity Group</a>
-- "<a   href="Collective.md" class="wikilink" title="Collective">"Collective</a>
+  title="Affinity Group">Affinity Group</a>
+- "<a   href="Collective.md" class="wikilink" title="Collective">Collective</a>
 - "<a   href="Confederation.md" class="wikilink"
-  title="Confederation">"Confederation</a>
+  title="Confederation">Confederation</a>
 - "<a   href="Democratic_Education.md" class="wikilink"
-  title="Democratic Education">"Democratic Education</a>
+  title="Democratic Education">Democratic Education</a>
 - "<a   href="Democratic_Militia.md" class="wikilink"
-  title="Democratic Militia">"Democratic Militia</a>
+  title="Democratic Militia">Democratic Militia</a>
 
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Autonomism.md" class="wikilink"
-title="Category:Autonomism">"Category:Autonomism</a>
+title="Category:Autonomism">Category:Autonomism</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Democracy.md" class="wikilink"
-title="Category:Democracy">"Category:Democracy</a>
+title="Category:Democracy">Category:Democracy</a>

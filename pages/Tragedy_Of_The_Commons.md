@@ -8,18 +8,18 @@ that individuals with unfettered access to a shared resource will
 inevitably overexploit and destroy it through rational self-interest.
 The concept has been widely criticized as historically inaccurate, used
 as propaganda to justify "<a   href="privatization.md" class="wikilink"
-title="privatization">"privatization</a> and the
-"<a   href="enclosure.md" class="wikilink" title="enclosure">"enclosure</a> of
+title="privatization">privatization</a> and the
+"<a   href="enclosure.md" class="wikilink" title="enclosure">enclosure</a> of
 common resources, and rooted in racist and
-"<a   href="eugenics.md" class="wikilink" title="eugenicist">"eugenicist</a>
+"<a   href="eugenics.md" class="wikilink" title="eugenicist">eugenicist</a>
 ideology.
 
 Despite its widespread citation, the theory fundamentally misunderstands
-how "<a   href="Commons.md" class="wikilink" title="commons">"commons</a>
+how "<a   href="Commons.md" class="wikilink" title="commons">commons</a>
 actually functioned historically and ignores centuries of successful
 collective management of shared resources. The work of Nobel Prize
 winner
-"<a   href="Elinor_Ostrom.md" class="wikilink" title="Elinor Ostrom">"Elinor
+"<a   href="Elinor_Ostrom.md" class="wikilink" title="Elinor Ostrom">Elinor
 Ostrom</a> and numerous other scholars has thoroughly refuted Hardin's
 central claims, demonstrating that communities have consistently
 developed sophisticated systems for sustainably managing common
@@ -30,7 +30,7 @@ resources without private ownership or state control.
 ### Classical Precursors
 
 The concept of resource depletion in shared spaces was discussed by
-"<a   href="Aristotle.md" class="wikilink" title="Aristotle">"Aristotle</a>,
+"<a   href="Aristotle.md" class="wikilink" title="Aristotle">Aristotle</a>,
 who observed that "that which is common to the greatest number has the
 least care bestowed upon it."[^1] However, this observation did not
 account for the complex social systems that governed commons usage in
@@ -41,7 +41,7 @@ practice.
 English economist William Forster Lloyd published a pamphlet containing
 a hypothetical example of overgrazing on common land.[^2] Critically,
 Lloyd's pamphlet was written **after** the
-"<a   href="enclosure.md" class="wikilink" title="enclosure">"enclosure</a>
+"<a   href="enclosure.md" class="wikilink" title="enclosure">enclosure</a>
 movement had already eliminated most common property in England, and his
 description has been shown to be historically inaccurate. The system he
 described never actually existed in the way he portrayed it.
@@ -101,12 +101,12 @@ The "tragedy of the commons" has been wielded as **propaganda for
 private ownership** and used to justify the dispossession of indigenous
 peoples and the enclosure of common resources worldwide. As radical
 environmentalist
-"<a   href="Derrick_Jensen.md" class="wikilink" title="Derrick Jensen">"Derrick
+"<a   href="Derrick_Jensen.md" class="wikilink" title="Derrick Jensen">Derrick
 Jensen</a> argues, it has been used by the political right wing to
 hasten the final enclosure of common resources of third world and
 indigenous peoples as part of the
 "<a   href="Washington_Consensus.md" class="wikilink"
-title="Washington Consensus">"Washington Consensus</a>.[^10]
+title="Washington Consensus">Washington Consensus</a>.[^10]
 
 Jensen contends it should be called "the Tragedy of the **Failure** of
 the Commons" - emphasizing that in true commons situations, those who
@@ -115,7 +115,7 @@ abuse resources face social sanctions and community enforcement.
 ### Marxist Critique
 
 Geographer
-"<a   href="David_Harvey.md" class="wikilink" title="David Harvey">"David
+"<a   href="David_Harvey.md" class="wikilink" title="David Harvey">David
 Harvey</a> asks: "Why do we not focus in Hardin's metaphor on the
 individual ownership of the cattle rather than on the pasture as a
 common?"[^11] Harvey notes that the dispossession of indigenous
@@ -124,10 +124,10 @@ to capitalist metrics, revealing the ideological nature of commons
 critiques.
 
 According to
-"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">"Karl Marx</a>,
+"<a   href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>,
 privatization merely displaces problems while putting increasing numbers
 in precarious situations. The "<a   href="enclosure_acts.md" class="wikilink"
-title="enclosure acts">"enclosure acts</a> in England pushed people into
+title="enclosure acts">enclosure acts</a> in England pushed people into
 smaller pockets of remaining common land, exacerbating rather than
 solving resource issues.[^12]
 
@@ -149,7 +149,7 @@ ideology viewing nomads as backward in countries like Syria.[^14]
 Hardin's arguments were explicitly directed toward forcible population
 control, particularly of people of color. The
 "<a   href="Southern_Poverty_Law_Center.md" class="wikilink"
-title="Southern Poverty Law Center">"Southern Poverty Law Center</a> has
+title="Southern Poverty Law Center">Southern Poverty Law Center</a> has
 documented Hardin's racist and eugenicist views.[^15]
 
 In 1991, Hardin wrote disparagingly of "popular anthropology" with its
@@ -163,7 +163,7 @@ as simplistic and racist.[^17]
 ### Nobel Prize-Winning Research
 
 Political scientist
-"<a   href="Elinor_Ostrom.md" class="wikilink" title="Elinor Ostrom">"Elinor
+"<a   href="Elinor_Ostrom.md" class="wikilink" title="Elinor Ostrom">Elinor
 Ostrom</a> received the 2009 Nobel Prize in Economics for her work
 demonstrating that **the tragedy of the commons is not as prevalent or
 difficult to solve as Hardin maintained**. Ostrom and colleagues found
@@ -200,9 +200,9 @@ solutions often fail.
 
 Many of the structures Ostrom identified for successful commons
 management align with
-"<a   href="anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 organizational principles, particularly those of
-"<a   href="green_anarchism.md" class="wikilink" title="green anarchism">"green
+"<a   href="green_anarchism.md" class="wikilink" title="green anarchism">green
 anarchism</a>.[^21] Key principles include:
 
 - **Decentralized decision-making** by those directly affected
@@ -218,36 +218,36 @@ organizational strategies include:
 
 - The
   "<a   href="Rebel_Zapatista_Autonomous_Municipalities.md" class="wikilink"
-  title="Rebel Zapatista Autonomous Municipalities">"Rebel Zapatista
+  title="Rebel Zapatista Autonomous Municipalities">Rebel Zapatista
   Autonomous Municipalities</a> in Mexico
 - The "<a   href="Autonomous_Administration_of_North_and_East_Syria.md"
   class="wikilink"
-  title="Autonomous Administration of North and East Syria">"Autonomous
+  title="Autonomous Administration of North and East Syria">Autonomous
   Administration of North and East Syria</a> (Rojava)
 
 Both have been heavily influenced by anarchism and
 "<a   href="libertarian_socialism.md" class="wikilink"
-title="libertarian socialism">"libertarian socialism</a>, demonstrating
+title="libertarian socialism">libertarian socialism</a>, demonstrating
 that large-scale commons management remains viable.
 
 ### Digital Commons
 
 Modern examples of
 "<a   href="commons-based_peer_production.md" class="wikilink"
-title="commons-based peer production">"commons-based peer production</a>
+title="commons-based peer production">commons-based peer production</a>
 demonstrate the continued relevance of commons organizing:
 
-- **"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a>** -
+- **"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>** -
   collaboratively maintained knowledge commons
 - **"<a   href="Free_and_open_source_software.md" class="wikilink"
-  title="Free and open source software">"Free and open source software</a>** -
+  title="Free and open source software">Free and open source software</a>** -
   collectively developed code
 - **"<a   href="Open-source_hardware.md" class="wikilink"
-  title="Open-source hardware">"Open-source hardware</a>** - shared
+  title="Open-source hardware">Open-source hardware</a>** - shared
   technical designs
 
 Scholar
-"<a   href="Yochai_Benkler.md" class="wikilink" title="Yochai Benkler">"Yochai
+"<a   href="Yochai_Benkler.md" class="wikilink" title="Yochai Benkler">Yochai
 Benkler</a> coined the term "commons-based peer production" and argued
 that cheap computing plus networks enable "a system of production,
 distribution, and consumption of information goods characterized by
@@ -279,7 +279,7 @@ privatization" and state mismanagement.
 Powerful companies and governments corrupt institutions to exploit
 resources, concentrating wealth and power - the
 **"<a   href="resource_curse.md" class="wikilink"
-title="resource curse">"resource curse</a>**.[^23] This demonstrates how
+title="resource curse">resource curse</a>**.[^23] This demonstrates how
 privatization and state control, not commons arrangements, enable
 resource destruction.
 
@@ -351,23 +351,23 @@ state mismanagement, not traditional commons[^30]
   by Kevin Carson
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Discredited_Theories.md" class="wikilink"
-title="Category:Discredited Theories">"Category:Discredited Theories</a>
+title="Category:Discredited Theories">Category:Discredited Theories</a>
 "<a   href="Category:Environmentalism.md" class="wikilink"
-title="Category:Environmentalism">"Category:Environmentalism</a>
+title="Category:Environmentalism">Category:Environmentalism</a>
 "<a   href="Category:Commons.md" class="wikilink"
-title="Category:Commons">"Category:Commons</a>
+title="Category:Commons">Category:Commons</a>
 "<a   href="Category:Property.md" class="wikilink"
-title="Category:Property">"Category:Property</a>
+title="Category:Property">Category:Property</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Controversial_Concepts.md" class="wikilink"
-title="Category:Controversial Concepts">"Category:Controversial
+title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 
 [^1]: Aristotle, *Politics*, Book 2 Chapter 3

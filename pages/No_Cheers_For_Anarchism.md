@@ -1,11 +1,11 @@
 # No Cheers For Anarchism
 
 **No Cheers For Anarchism** is a critical article written by
-"<a   href="Sheri_Berman.md" class="wikilink" title="Sheri Berman">"Sheri
+"<a   href="Sheri_Berman.md" class="wikilink" title="Sheri Berman">Sheri
 Berman</a> and published in *Dissent* magazine's Fall 2015 issue as part
 of their "Arguments on the Left" special edition.[^1] The article
 presents a comprehensive critique of
-"<a   href="anarchism.md" class="wikilink" title="anarchism">"anarchism</a> as
+"<a   href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> as
 an ineffective political strategy, arguing that anarchists are "better
 dreamers than doers" and that successful political movements require
 "compromise, organization, and yes, even leadership, to actually get
@@ -19,7 +19,7 @@ activists.
 
 Berman, a professor of political science at
 "<a   href="Barnard_College.md" class="wikilink"
-title="Barnard College">"Barnard College</a>, argues that while
+title="Barnard College">Barnard College</a>, argues that while
 anarchists may be motivated by worthy aspirations, anarchism represents
 an ineffective approach to political change. She characterizes all
 variants of anarchism as sharing "a rejection of authority and
@@ -29,9 +29,9 @@ freedom."[^2]
 
 The article draws parallels between anarchists and
 "<a   href="libertarianism.md" class="wikilink"
-title="libertarians">"libertarians</a>, distinguishing them primarily on
+title="libertarians">libertarians</a>, distinguishing them primarily on
 their attitudes toward
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a> -
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a> -
 with anarchists viewing it as inherently coercive while libertarians
 venerate it as protecting individual rights.
 
@@ -40,12 +40,12 @@ venerate it as protecting individual rights.
 ### Paris Commune and Early Anarchism
 
 Berman cites the
-"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">"Paris
+"<a   href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
 Commune</a> as evidence of anarchism's failure, arguing that its "lack
 of internal organization, leadership, or agreed-upon goals left it prone
 to infighting and vulnerable to counter-attack."[^3] She also points to
 the period of "<a   href="propaganda_of_the_deed.md" class="wikilink"
-title="propaganda of the deed">"propaganda of the deed</a>, noting that
+title="propaganda of the deed">propaganda of the deed</a>, noting that
 anarchist assassinations and bombings were "almost uniformly
 unsuccessful" and provided conservatives with rationale for repressive
 measures against the entire left.
@@ -54,10 +54,10 @@ measures against the entire left.
 
 The article argues that during the interwar period,
 "<a   href="social_democracy.md" class="wikilink"
-title="social democratic">"social democratic</a> parties became "bulwarks
+title="social democratic">social democratic</a> parties became "bulwarks
 of democracy," while anarchists returned to attacking the democratic
 order. Berman specifically criticizes anarchist activity in
-"<a   href="Spanish_Civil_War.md" class="wikilink" title="Spain">"Spain</a>,
+"<a   href="Spanish_Civil_War.md" class="wikilink" title="Spain">Spain</a>,
 claiming it "damaged and divided the left, provided fodder to the
 anti-democratic right, and helped pave the way for the civil war."[^4]
 
@@ -65,7 +65,7 @@ anti-democratic right, and helped pave the way for the civil war."[^4]
 
 Berman dismisses recent anarchist-influenced movements, particularly
 "<a   href="Occupy_Wall_Street.md" class="wikilink"
-title="Occupy Wall Street">"Occupy Wall Street</a>, as having only
+title="Occupy Wall Street">Occupy Wall Street</a>, as having only
 "theatrics and ephemeral impact." She contrasts this with organizations
 like the National Rifle Association's "persistent grassroots
 organizing," arguing that effective political action requires sustained
@@ -82,12 +82,12 @@ effectiveness.
 ### Responses to the Paris Commune Critique
 
 **Graham's Historical Correction:**
-"<a   href="Robert_Graham.md" class="wikilink" title="Robert Graham">"Robert
+"<a   href="Robert_Graham.md" class="wikilink" title="Robert Graham">Robert
 Graham</a> directly challenged Berman's characterization of the Paris
 Commune as an anarchist failure, noting the irony of blaming anarchists
 when "considering how few actual anarchists were there."[^6] Graham
 cited
-"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">"Peter
+"<a   href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>'s analysis that the Commune failed precisely because of
 its "centralized and bureaucratic nature," arguing that anarchist
 critiques focused on how the Commune "submitted to governmental
@@ -96,8 +96,8 @@ initiative by forcing revolutionaries into bureaucratic roles.[^7]
 
 **Alternative Analysis:** Anarchist responses emphasized that the Paris
 Commune was dominated by
-"<a   href="Marxism.md" class="wikilink" title="Marxists">"Marxists</a> and
-"<a   href="Blanquism.md" class="wikilink" title="Blanquists">"Blanquists</a>,
+"<a   href="Marxism.md" class="wikilink" title="Marxists">Marxists</a> and
+"<a   href="Blanquism.md" class="wikilink" title="Blanquists">Blanquists</a>,
 not anarchists. The failure stemmed from hierarchical thinking that
 concentrated power in the Hôtel de Ville rather than maintaining direct
 democratic control. This represented exactly the kind of statist
@@ -109,12 +109,12 @@ inaccurate.
 **Graham's Defense of Spanish Anarchism:** Graham directly contradicted
 Berman's claim that anarchist activity caused the
 "<a   href="Spanish_Civil_War.md" class="wikilink"
-title="Spanish Civil War">"Spanish Civil War</a>, arguing that "it was
+title="Spanish Civil War">Spanish Civil War</a>, arguing that "it was
 the election of a social democrat-led coalition, not anarchist agitation
 (as Berman alleges), that spurred Franco's coup." He emphasized that
 without immediate action by the
-"<a   href="CNT.md" class="wikilink" title="CNT">"CNT</a> and
-"<a   href="UGT.md" class="wikilink" title="UGT">"UGT</a> trade unions to arm
+"<a   href="CNT.md" class="wikilink" title="CNT">CNT</a> and
+"<a   href="UGT.md" class="wikilink" title="UGT">UGT</a> trade unions to arm
 and mobilize the population, "against a backdrop of paralysis on the
 part of the government, Franco's victory likely would have been nearly
 instantaneous."[^8]
@@ -129,33 +129,33 @@ to face repression.
 
 **Revolutionary Catalonia Example:** Anarchist responses pointed to
 "<a   href="Revolutionary_Catalonia.md" class="wikilink"
-title="Revolutionary Catalonia">"Revolutionary Catalonia</a> (1936-1939)
+title="Revolutionary Catalonia">Revolutionary Catalonia</a> (1936-1939)
 as a counter-example to Berman's claims, where
 "<a   href="anarcho-syndicalism.md" class="wikilink"
-title="anarcho-syndicalists">"anarcho-syndicalists</a> successfully
+title="anarcho-syndicalists">anarcho-syndicalists</a> successfully
 collectivized industry and agriculture, demonstrating effective
 anarchist organization during the very period Berman criticized.
 
 ### Responses to Contemporary Movement Dismissal
 
 **Sitrin's Global Perspective:**
-"<a   href="Marina_Sitrin.md" class="wikilink" title="Marina Sitrin">"Marina
+"<a   href="Marina_Sitrin.md" class="wikilink" title="Marina Sitrin">Marina
 Sitrin</a> directly countered Berman's dismissal of contemporary
 movements by documenting successful anarchist-influenced organizing
 worldwide. She highlighted how movements like
-"<a   href="PAH.md" class="wikilink" title="PAH">"PAH</a> (housing defense in
+"<a   href="PAH.md" class="wikilink" title="PAH">PAH</a> (housing defense in
 Spain), Social Solidarity Clinics in Greece, and land defense movements
 in Argentina emerged from communities using
 "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a> and
-"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
+title="direct democracy">direct democracy</a> and
+"<a   href="direct_action.md" class="wikilink" title="direct action">direct
 action</a>.[^10] Sitrin emphasized that these movements create power
 "horizontally and through self-organization" rather than petitioning
 existing institutions.[^11]
 
 **Hultner's Occupy Defense:** Hultner challenged Berman's
 characterization of "<a   href="Occupy_Wall_Street.md" class="wikilink"
-title="Occupy Wall Street">"Occupy Wall Street</a> as mere "theatrics,"
+title="Occupy Wall Street">Occupy Wall Street</a> as mere "theatrics,"
 arguing that "anarchist praxis formed the backbone of Occupy Wall
 Street, turning it from yet another march against corporate greed into
 lasting occupations and movement incubators." He noted that OWS
@@ -167,18 +167,18 @@ Sanders.[^12]
 successful contemporary applications of anarchist principles:
 
 - The
-  "<a   href="Zapatistas.md" class="wikilink" title="Zapatistas">"Zapatistas</a>
+  "<a   href="Zapatistas.md" class="wikilink" title="Zapatistas">Zapatistas</a>
   in Chiapas maintaining autonomous communities for decades
-- "<a   href="Rojava.md" class="wikilink" title="Rojava">"Rojava</a>'s
+- "<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a>'s
   "<a   href="democratic_confederalism.md" class="wikilink"
-  title="democratic confederalism">"democratic confederalism</a>
+  title="democratic confederalism">democratic confederalism</a>
 - Mutual aid networks during COVID-19
 - Argentina's "<a   href="recovered_factories.md" class="wikilink"
-  title="recovered factories">"recovered factories</a> sustaining
+  title="recovered factories">recovered factories</a> sustaining
   themselves longer than traditional leftist parties have held power
 - The influence of anarchist organizing methods on movements like
   "<a   href="Black_Lives_Matter.md" class="wikilink"
-  title="Black Lives Matter">"Black Lives Matter</a>
+  title="Black Lives Matter">Black Lives Matter</a>
 
 ### Systematic Critiques of Berman's Framework
 
@@ -186,13 +186,13 @@ successful contemporary applications of anarchist principles:
 conflation of organization with hierarchy. Graham noted that anarchists
 had moved into the labor movement by the fin-de-siècle, with
 "<a   href="anarcho-syndicalism.md" class="wikilink"
-title="anarcho-syndicalism">"anarcho-syndicalism</a> placing "labor
+title="anarcho-syndicalism">anarcho-syndicalism</a> placing "labor
 struggles at the heart of revolutionary strategy" across Europe and
 Latin America.[^13] Critics pointed to successful examples of
 non-hierarchical coordination including
 "<a   href="worker_cooperatives.md" class="wikilink"
-title="worker cooperatives">"worker cooperatives</a>,
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+title="worker cooperatives">worker cooperatives</a>,
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 networks, and indigenous social arrangements.
 
 **On Democratic Legitimacy:** Sitrin's work emphasized that contemporary
@@ -217,14 +217,14 @@ political change and organizational effectiveness. While Berman argued
 for working within existing democratic institutions through compromise
 and traditional organizing methods, anarchist responses emphasized the
 importance of "<a   href="prefigurative_politics.md" class="wikilink"
-title="prefigurative politics">"prefigurative politics</a> - embodying
+title="prefigurative politics">prefigurative politics</a> - embodying
 desired social relations in current organizing practices.
 
 The exchange also revealed different conceptions of democracy itself,
 with Berman defending representative democracy while anarchist
 respondents advocated for more direct forms of democratic participation
 and "<a   href="consensus_decision-making.md" class="wikilink"
-title="consensus decision-making">"consensus decision-making</a>.
+title="consensus decision-making">consensus decision-making</a>.
 
 ## Legacy
 
@@ -232,7 +232,7 @@ The "No Cheers For Anarchism" debate became a significant touchstone in
 contemporary discussions about anarchist theory and practice. It
 crystallized ongoing tensions between
 "<a   href="social_democracy.md" class="wikilink"
-title="social democratic">"social democratic</a> approaches to political
+title="social democratic">social democratic</a> approaches to political
 change and anarchist alternatives, while highlighting the continued
 relevance of anarchist organizing methods in contemporary social
 movements.
@@ -240,7 +240,7 @@ movements.
 The debate continues to influence discussions about the effectiveness of
 different political strategies, particularly in the context of movements
 that employ "<a   href="horizontalism.md" class="wikilink"
-title="horizontalism">"horizontalism</a> and reject traditional
+title="horizontalism">horizontalism</a> and reject traditional
 hierarchical organizing models.
 
 ## References
@@ -261,11 +261,11 @@ hierarchical organizing models.
 \[\[Category:Controversial Publications\]
 
 "<a   href="Category:Political_Theory.md" class="wikilink"
-title="Category:Political Theory">"Category:Political Theory</a>
+title="Category:Political Theory">Category:Political Theory</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Controversial_Concepts.md" class="wikilink"
-title="Category:Controversial Concepts">"Category:Controversial
+title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 
 [^1]: Berman, Sheri. "No Cheers For Anarchism." Dissent, Fall 2015.

@@ -35,7 +35,7 @@ was "an anarchist commune for a year."[^6]
     Los Angeles: Regents of the University of California, 1991), ch. 4.
     Michael Schmidt,
     "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-    title="Cartography of Revolutionary Anarchism">"Cartography of
+    title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
 [^3]: Dongyoun Hwang, "Korean Anarchism Before 1945: A Regional and
@@ -46,7 +46,7 @@ was "an anarchist commune for a year."[^6]
 
 [^5]: Schmidt,
     "<a   href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
-    title="Cartography of Revolutionary Anarchism">"Cartography of
+    title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
 [^6]: Aragorn Eloff, "Anarchism – a scattered history," *the

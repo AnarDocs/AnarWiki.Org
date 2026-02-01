@@ -1,9 +1,9 @@
 Anarcho-Punk is a subgenre of
-"<a   href="Punk_Rock.md" class="wikilink" title="Punk Rock Music">"Punk Rock
+"<a   href="Punk_Rock.md" class="wikilink" title="Punk Rock Music">Punk Rock
 Music</a> which originated in the 1970s that takes heavy influence from
-"<a   href="Anarchism.md" class="wikilink" title="Anarchist">"Anarchist</a> and
+"<a   href="Anarchism.md" class="wikilink" title="Anarchist">Anarchist</a> and
 "<a   href="Anti-War_Movements.md" class="wikilink"
-title="Anti-War">"Anti-War</a> currents both historical and modern. The
+title="Anti-War">Anti-War</a> currents both historical and modern. The
 subgenre is less defined by its sound and more heavily defined by its
 Anarchist Lyrical content. Earlier Anarcho-Punk tended to take much
 inspiration from avant-garde musicians, while modern artists whom some
@@ -18,7 +18,7 @@ of domination.[^1]
 ## Influential Anarcho-Punk Bands/Artists
 
 <small>This list is incomplete, you can help by
-"<a   href="Contributing.md" class="wikilink" title="expanding it.">"expanding
+"<a   href="Contributing.md" class="wikilink" title="expanding it.">expanding
 it.</a></small>
 
 - Crass

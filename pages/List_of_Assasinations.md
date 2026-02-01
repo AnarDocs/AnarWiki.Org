@@ -3,19 +3,19 @@
 - 1950: Julien Lahaut, a communist politician in Belgium was assasinated
   by an unknown group, although far-right terrorists are suspected.
 - 1963: President of the USA
-  "<a   href="John_F._Kennedy.md" class="wikilink" title="John F. Kennedy">"John
+  "<a   href="John_F._Kennedy.md" class="wikilink" title="John F. Kennedy">John
   F. Kennedy</a> assassinated by Lee Harvey Oswald, although a
   conspiracy is strongly suspected, with evidence linking the CIA, Mafia
   and USSR in his assassination.
 - 1965:
-  "<a   href="Malcolm_X.md" class="wikilink" title="Malcolm X">"Malcolm X</a>,
+  "<a   href="Malcolm_X.md" class="wikilink" title="Malcolm X">Malcolm X</a>,
   a black civil rights leader is officially assassinate by the Nation of
   Islam, although it is suspected that the FBI had some involvement in
   order to weaken the black power movement in the US.
 - 1966: Samuel Younge Jr. a civil rights activist murdered for their
   support
 - 1968: "<a   href="Martin_Luther_King_Jr..md" class="wikilink"
-  title="Martin Luther King Jr.">"Martin Luther King Jr.</a> a black
+  title="Martin Luther King Jr.">Martin Luther King Jr.</a> a black
   civil rights leader is officially assassinated by a white supremacist,
   although it is suspected that the FBI was involved in organising his
   assassination.
@@ -23,35 +23,35 @@
 - 1972: Shirley Margaret Brifman, a sex worker who attempted to expose
   police corruption in Australia died in suspicious circumstances.
 - 1975: "<a   href="Juanita_Nielsen.md" class="wikilink"
-  title="Juanita Nielsen">"Juanita Nielsen</a>, a journalist and activist
+  title="Juanita Nielsen">Juanita Nielsen</a>, a journalist and activist
   based in Australia was killed by an unknown person after attempting to
   expose police corruption and for her public support of the
-  "<a   href="Green_Bans.md" class="wikilink" title="Green Bans">"Green Bans</a>.
+  "<a   href="Green_Bans.md" class="wikilink" title="Green Bans">Green Bans</a>.
 - 1981: Pierre Declereq, a New Caledonian politician and advocate for
   independence from France, was assassinated by an unknown group,
   although evidence points to a conspiracy.
 - 1984: Hilda Murrell, an anti-nuclear activist based in the UK was
   abducted and murdered by unknown individuals.
 - 1986:
-  "<a   href="Olof_Palme.md" class="wikilink" title="Olof Palme">"Olof Palme</a>,
+  "<a   href="Olof_Palme.md" class="wikilink" title="Olof Palme">Olof Palme</a>,
   the prime minister of
-  "<a   href="Sweden.md" class="wikilink" title="Sweden">"Sweden</a> and a
+  "<a   href="Sweden.md" class="wikilink" title="Sweden">Sweden</a> and a
   social democrat, was assassinated by an unknown gunman while walking
   home from a cinema late at night. The CIA, far-right terrorists, PKK,
   drug dealers, and the South African government have all been
   suspected.
 - 1987:
-  "<a   href="Thomas_Sankara.md" class="wikilink" title="Thomas Sankara">"Thomas
+  "<a   href="Thomas_Sankara.md" class="wikilink" title="Thomas Sankara">Thomas
   Sankara</a>, the socialist president of
-  "<a   href="Burkina_Faso.md" class="wikilink" title="Burkina Faso">"Burkina
+  "<a   href="Burkina_Faso.md" class="wikilink" title="Burkina Faso">Burkina
   Faso</a>, was assasinated by army officers in a coup backed by France,
   the USA, Israel ,and Libya.
 - 1988:
-  "<a   href="Chico_Mendes.md" class="wikilink" title="Chico Mendes">"Chico
+  "<a   href="Chico_Mendes.md" class="wikilink" title="Chico Mendes">Chico
   Mendes</a>, a trade unionist, socialist and environmentalist based in
   Brazil, was murdered by logging companies.
 - 1990:
-  "<a   href="Judi_Bari.md" class="wikilink" title="Judi Bari">"Judi Bari</a>
+  "<a   href="Judi_Bari.md" class="wikilink" title="Judi Bari">Judi Bari</a>
   was nearly killed in a car bombing as she attempted to organise IWW
   members and environmentalists in Northern California, far-right
   anti-feminists and the FBI are suspected.

@@ -1,7 +1,7 @@
 ## Revolutions
 
 - 1905: "<a   href="Russian_Revolution_(1905).md" class="wikilink"
-  title="The failed revolution against Tsar Nicholas II in Russia">"The
+  title="The failed revolution against Tsar Nicholas II in Russia">The
   failed revolution against Tsar Nicholas II in Russia</a>.
 - 1905: The revolution of Therisso.
 - 1905: Argentine Revolution of 1905.
@@ -28,14 +28,14 @@
 - 1911–1912: The East Timorese rebellion
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Revolutionary_Waves.md" class="wikilink"
-title="Category:Revolutionary Waves">"Category:Revolutionary Waves</a>
+title="Category:Revolutionary Waves">Category:Revolutionary Waves</a>
 "<a   href="Category:Timelines.md" class="wikilink"
-title="Category:Timelines">"Category:Timelines</a>
+title="Category:Timelines">Category:Timelines</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:1900s.md" class="wikilink"
-title="Category:1900s">"Category:1900s</a>
+title="Category:1900s">Category:1900s</a>
 "<a   href="Category:1910s.md" class="wikilink"
-title="Category:1910s">"Category:1910s</a>
+title="Category:1910s">Category:1910s</a>

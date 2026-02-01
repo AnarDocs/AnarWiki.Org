@@ -4,23 +4,23 @@
 
 **Hacktivism** (a portmanteau of "hacking" and "activism") is the use of
 computer-based techniques and digital tools as a form of
-"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
+"<a   href="direct_action.md" class="wikilink" title="direct action">direct
 action</a> to promote political goals and
-"<a   href="social_change.md" class="wikilink" title="social change">"social
+"<a   href="social_change.md" class="wikilink" title="social change">social
 change</a>.[^1] From an anarchist perspective, hacktivism represents a
 contemporary evolution of traditional forms of resistance, applying
 principles of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>,
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
 "<a   href="decentralization.md" class="wikilink"
-title="decentralization">"decentralization</a>, and
-"<a   href="direct_action.md" class="wikilink" title="direct action">"direct
+title="decentralization">decentralization</a>, and
+"<a   href="direct_action.md" class="wikilink" title="direct action">direct
 action</a> to the digital realm.
 
 Hacktivism encompasses a range of activities including website
 defacement, "<a   href="denial-of-service_attack.md" class="wikilink"
-title="denial-of-service attack">"denial-of-service attacks</a> (DDoS),
+title="denial-of-service attack">denial-of-service attacks</a> (DDoS),
 information liberation,
-"<a   href="doxing.md" class="wikilink" title="doxing">"doxing</a> of
+"<a   href="doxing.md" class="wikilink" title="doxing">doxing</a> of
 oppressive institutions, and the creation of alternative digital
 infrastructures. Rather than seeking reform through established
 political channels, hacktivism embodies the anarchist principle of
@@ -73,10 +73,10 @@ anarchist social relations in the present.
 
 Jeff Shantz has argued for understanding hacktivism through the lens of
 "<a   href="anarcho-syndicalism.md" class="wikilink"
-title="anarcho-syndicalism">"anarcho-syndicalism</a>, pointing to the
+title="anarcho-syndicalism">anarcho-syndicalism</a>, pointing to the
 example of TAO Communications, a group of tech workers who organized as
 part of the "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
-title="Industrial Workers of the World">"Industrial Workers of the
+title="Industrial Workers of the World">Industrial Workers of the
 World</a> (IWW) in 1999.[^7]
 
 TAO members "saw themselves first and foremost as tech workers involved
@@ -85,7 +85,7 @@ of production, and connected through particular relations of
 production."[^8] They maintained autonomous servers, provided secure
 communications for social movements, and built digital infrastructure
 based on
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 rather than profit.
 
 Shantz emphasizes that "hacktivists must come to see themselves as tech
@@ -99,7 +99,7 @@ enabling the intensification of resistance.
 
 Hacktivism exemplifies the anarchist principle of
 "<a   href="prefigurative_politics.md" class="wikilink"
-title="prefigurative politics">"prefigurative politics</a>—creating the
+title="prefigurative politics">prefigurative politics</a>—creating the
 new world in the shell of the old. Through practices like establishing
 independent media platforms, encrypted communications networks, and
 collaborative knowledge commons, hacktivists directly construct
@@ -117,9 +117,9 @@ Hacktivist repertoires include both constructive and disruptive tactics:
 **Constructive Tactics:**
 
 - Creating
-  "<a   href="free_software.md" class="wikilink" title="free software">"free
+  "<a   href="free_software.md" class="wikilink" title="free software">free
   software</a> and
-  "<a   href="open_source.md" class="wikilink" title="open source">"open
+  "<a   href="open_source.md" class="wikilink" title="open source">open
   source</a> alternatives to proprietary systems
 - Establishing independent, collectively-run communications
   infrastructure
@@ -189,16 +189,16 @@ Anonymous has engaged in numerous campaigns reflecting anarchist values:
 
 - **Project Chanology** (2008): Mass protests and digital attacks
   against the "<a   href="Church_of_Scientology.md" class="wikilink"
-  title="Church of Scientology">"Church of Scientology</a>, opposing
+  title="Church of Scientology">Church of Scientology</a>, opposing
   institutional control of information and abuse of members.
 
 <!-- -->
 
 - **Operation Payback** (2010): DDoS attacks against organizations
   attacking
-  "<a   href="file_sharing.md" class="wikilink" title="file sharing">"file
+  "<a   href="file_sharing.md" class="wikilink" title="file sharing">file
   sharing</a> and
-  "<a   href="WikiLeaks.md" class="wikilink" title="WikiLeaks">"WikiLeaks</a>,
+  "<a   href="WikiLeaks.md" class="wikilink" title="WikiLeaks">WikiLeaks</a>,
   defending the free flow of information.
 
 <!-- -->
@@ -216,7 +216,7 @@ Anonymous has engaged in numerous campaigns reflecting anarchist values:
 <!-- -->
 
 - **Anti-fascist operations** (ongoing): Doxing members of the
-  "<a   href="Ku_Klux_Klan.md" class="wikilink" title="Ku Klux Klan">"Ku Klux
+  "<a   href="Ku_Klux_Klan.md" class="wikilink" title="Ku Klux Klan">Ku Klux
   Klan</a>, neo-Nazi organizations, and far-right groups.
 
 ### Anarchist Analysis of Anonymous
@@ -241,7 +241,7 @@ Some anarchist engagements with hacktivism have fallen into
 technological determinism—the mistaken belief that technology itself can
 bring about social transformation. Early anarchist discussions of
 "<a   href="cybernetics.md" class="wikilink"
-title="cybernetics">"cybernetics</a> sometimes suggested that
+title="cybernetics">cybernetics</a> sometimes suggested that
 decentralized communications technology would automatically lead to
 anarchist social organization.
 
@@ -256,7 +256,7 @@ context and class struggle.
 The "vectoralist class" (those who control information distribution)
 constantly seeks to appropriate hacktivist practices and technologies
 for profit.
-"<a   href="Web_2.0.md" class="wikilink" title="Web 2.0">"Web 2.0</a> platforms
+"<a   href="Web_2.0.md" class="wikilink" title="Web 2.0">Web 2.0</a> platforms
 initially appeared to embody horizontal, collaborative principles but
 were quickly enclosed by corporations extracting value from
 user-generated content.
@@ -288,8 +288,8 @@ State surveillance and infiltration pose constant threats to hacktivist
 organizing. Law enforcement agencies have successfully identified and
 prosecuted numerous hacktivists, often by exploiting their limited
 understanding of digital security. The
-"<a   href="FBI.md" class="wikilink" title="FBI">"FBI</a> infiltration of
-"<a   href="LulzSec.md" class="wikilink" title="LulzSec">"LulzSec</a> through
+"<a   href="FBI.md" class="wikilink" title="FBI">FBI</a> infiltration of
+"<a   href="LulzSec.md" class="wikilink" title="LulzSec">LulzSec</a> through
 informant "Sabu" demonstrated how vulnerable even sophisticated groups
 can be.
 
@@ -306,10 +306,10 @@ that sustain movements during periods of both mobilization and
 repression.[^18] These include:
 
 - Secure communications platforms like
-  "<a   href="Signal.md" class="wikilink" title="Signal">"Signal</a> and
-  "<a   href="Tor.md" class="wikilink" title="Tor">"Tor</a>
+  "<a   href="Signal.md" class="wikilink" title="Signal">Signal</a> and
+  "<a   href="Tor.md" class="wikilink" title="Tor">Tor</a>
 - Independent media networks such as
-  "<a   href="Indymedia.md" class="wikilink" title="Indymedia">"Indymedia</a>
+  "<a   href="Indymedia.md" class="wikilink" title="Indymedia">Indymedia</a>
   and alternative streaming platforms
 - Collaborative documentation and coordination tools
 - Platforms for mutual aid and resource distribution
@@ -319,7 +319,7 @@ repression.[^18] These include:
 
 The most radical potential of hacktivism lies in tech workers asserting
 "<a   href="workers&#39;_control.md" class="wikilink"
-title="workers&#39; control">"workers' control</a> over digital
+title="workers&#39; control">workers' control</a> over digital
 infrastructure. As Shantz argues, "any collective action by tech workers
 can have a dramatic impact, threatening the basis of command and profit
 and starkly posing questions of ownership and control."[^19]
@@ -339,14 +339,14 @@ not land, not capital, but information."[^21] Unlike physical property,
 information can be shared infinitely without diminishing its
 availability. The struggle to establish an
 "<a   href="information_commons.md" class="wikilink"
-title="information commons">"information commons</a>—freely available
+title="information commons">information commons</a>—freely available
 knowledge and culture outside capitalist enclosure—represents a
 fundamental challenge to ruling class power.
 
 Hacktivism contributes to this commons through liberating academic
 research, creating free software, establishing knowledge repositories,
 and attacking systems of "<a   href="artificial_scarcity.md" class="wikilink"
-title="artificial scarcity">"artificial scarcity</a>. As Wark states: "It
+title="artificial scarcity">artificial scarcity</a>. As Wark states: "It
 is not just information that must be free, but the knowledge of how to
 use it."[^22]
 
@@ -379,21 +379,21 @@ control, and exploitation."[^24]
 
 ## See Also
 
-- "<a   href="Anonymous.md" class="wikilink" title="Anonymous">"Anonymous</a>
-- "<a   href="Cypherpunk.md" class="wikilink" title="Cypherpunk">"Cypherpunk</a>
+- "<a   href="Anonymous.md" class="wikilink" title="Anonymous">Anonymous</a>
+- "<a   href="Cypherpunk.md" class="wikilink" title="Cypherpunk">Cypherpunk</a>
 - "<a   href="Crypto-anarchism.md" class="wikilink"
-  title="Crypto-anarchism">"Crypto-anarchism</a>
+  title="Crypto-anarchism">Crypto-anarchism</a>
 - "<a   href="Free_software_movement.md" class="wikilink"
-  title="Free software movement">"Free software movement</a>
+  title="Free software movement">Free software movement</a>
 - "<a   href="Information_wants_to_be_free.md" class="wikilink"
-  title="Information wants to be free">"Information wants to be free</a>
+  title="Information wants to be free">Information wants to be free</a>
 - "<a   href="Anarcho-syndicalism.md" class="wikilink"
-  title="Anarcho-syndicalism">"Anarcho-syndicalism</a>
+  title="Anarcho-syndicalism">Anarcho-syndicalism</a>
 - "<a   href="Workers&#39;_control.md" class="wikilink"
-  title="Workers&#39; control">"Workers' control</a>
+  title="Workers&#39; control">Workers' control</a>
 - "<a   href="Prefigurative_politics.md" class="wikilink"
-  title="Prefigurative politics">"Prefigurative politics</a>
-- "<a   href="Direct_action.md" class="wikilink" title="Direct action">"Direct
+  title="Prefigurative politics">Prefigurative politics</a>
+- "<a   href="Direct_action.md" class="wikilink" title="Direct action">Direct
   action</a>
 
 ## References
@@ -401,21 +401,21 @@ control, and exploitation."[^24]
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Hacking.md" class="wikilink"
-title="Category:Hacking">"Category:Hacking</a>
+title="Category:Hacking">Category:Hacking</a>
 "<a   href="Category:Direct_Action.md" class="wikilink"
-title="Category:Direct Action">"Category:Direct Action</a>
+title="Category:Direct Action">Category:Direct Action</a>
 "<a   href="Category:Internet_Culture.md" class="wikilink"
-title="Category:Internet Culture">"Category:Internet Culture</a>
+title="Category:Internet Culture">Category:Internet Culture</a>
 "<a   href="Category:Technology.md" class="wikilink"
-title="Category:Technology">"Category:Technology</a>
+title="Category:Technology">Category:Technology</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Gawel, Hanna (2024). "Hacktivism". Internet Policy Review, 13(2).
 

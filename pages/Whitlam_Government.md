@@ -2,33 +2,33 @@
 
 The **Whitlam Government** was an elected
 "<a   href="Social_Democracy.md" class="wikilink"
-title="socially democratic">"socially democratic</a> government that
+title="socially democratic">socially democratic</a> government that
 governed
-"<a   href="Australia.md" class="wikilink" title="Australia">"Australia</a>
+"<a   href="Australia.md" class="wikilink" title="Australia">Australia</a>
 from 1972 to 1975. Led by Prime Minister
-"<a   href="Gough_Whitlam.md" class="wikilink" title="Gough Whitlam">"Gough
+"<a   href="Gough_Whitlam.md" class="wikilink" title="Gough Whitlam">Gough
 Whitlam</a> of the "<a   href="Australian_Labor_Party.md" class="wikilink"
-title="Australian Labor Party">"Australian Labor Party</a>, it ended a
+title="Australian Labor Party">Australian Labor Party</a>, it ended a
 record 23 years of conservative
 "<a   href="Coalition_(Australia).md" class="wikilink"
-title="Coalition">"Coalition</a> government. The government is considered
+title="Coalition">Coalition</a> government. The government is considered
 the most controversial in Australian history due to being the most
 left-wing and its
 "<a   href="1975_Australian_constitutional_crisis.md" class="wikilink"
-title="controversial ending">"controversial ending</a>, with allegations
-of "<a   href="CIA.md" class="wikilink" title="CIA">"CIA</a> involvement in its
+title="controversial ending">controversial ending</a>, with allegations
+of "<a   href="CIA.md" class="wikilink" title="CIA">CIA</a> involvement in its
 removal.
 
 The government commenced when Labor defeated the
 "<a   href="McMahon_government.md" class="wikilink"
-title="McMahon government">"McMahon government</a> at the
+title="McMahon government">McMahon government</a> at the
 "<a   href="1972_Australian_federal_election.md" class="wikilink"
-title="1972 Australian federal election">"1972 Australian federal
+title="1972 Australian federal election">1972 Australian federal
 election</a>, and was terminated by Governor-General Sir
-"<a   href="John_Kerr.md" class="wikilink" title="John Kerr">"John Kerr</a>
+"<a   href="John_Kerr.md" class="wikilink" title="John Kerr">John Kerr</a>
 following the
 "<a   href="1975_Australian_constitutional_crisis.md" class="wikilink"
-title="1975 Australian constitutional crisis">"1975 Australian
+title="1975 Australian constitutional crisis">1975 Australian
 constitutional crisis</a>. It remains the sole occasion in Australian
 history when an elected federal government was dismissed by the
 governor-general.
@@ -54,9 +54,9 @@ that reached 17.6% by mid-1975 and wage rises of 32.9%.[^2]
 
 The Whitlam government introduced
 "<a   href="universal_healthcare.md" class="wikilink"
-title="universal healthcare">"universal healthcare</a> through Medibank
+title="universal healthcare">universal healthcare</a> through Medibank
 (later renamed "<a   href="Medicare_(Australia).md" class="wikilink"
-title="Medicare">"Medicare</a>), providing free medical care for all
+title="Medicare">Medicare</a>), providing free medical care for all
 Australians. This represented a fundamental shift toward social
 democratic principles in Australian healthcare policy.
 
@@ -111,7 +111,7 @@ million in 1975-76, representing a real increase of 105.8%.
 
 In August 1975, Whitlam gave the
 "<a   href="Gurindji_people.md" class="wikilink"
-title="Gurindji people">"Gurindji people</a> title deeds to part of their
+title="Gurindji people">Gurindji people</a> title deeds to part of their
 traditional lands, beginning the process of Aboriginal land reform. The
 Aboriginal Land Fund was created to help Indigenous groups buy back
 privately owned lands, while the Aboriginal Loans Commission assisted
@@ -125,28 +125,28 @@ offices providing free legal aid to Indigenous Australians.
 ### Anti-Imperial Foreign Policy
 
 The government withdrew all remaining Australian forces from
-"<a   href="Vietnam_War.md" class="wikilink" title="Vietnam">"Vietnam</a>,
+"<a   href="Vietnam_War.md" class="wikilink" title="Vietnam">Vietnam</a>,
 ending Australia's involvement in the conflict. Military
 "<a   href="conscription.md" class="wikilink"
-title="conscription">"conscription</a> was abolished, and seven men
+title="conscription">conscription</a> was abolished, and seven men
 imprisoned for refusing conscription were freed.
 
 **Formal diplomatic relations with
-"<a   href="China.md" class="wikilink" title="China">"China</a>** were
+"<a   href="China.md" class="wikilink" title="China">China</a>** were
 established, breaking ties with Taiwan. This occurred before the United
 States normalized relations with China, demonstrating an independent
 foreign policy approach.
 
 The government granted **independence to
 "<a   href="Papua_New_Guinea.md" class="wikilink"
-title="Papua New Guinea">"Papua New Guinea</a>** in September 1975,
+title="Papua New Guinea">Papua New Guinea</a>** in September 1975,
 ending Australia's role as a colonial power. Papua New Guinea had been
 granted self-governance in 1973, with full independence following in
 1975.
 
 The government took a strong stance against
-"<a   href="Apartheid.md" class="wikilink" title="apartheid">"apartheid</a> in
-"<a   href="South_Africa.md" class="wikilink" title="South Africa">"South
+"<a   href="Apartheid.md" class="wikilink" title="apartheid">apartheid</a> in
+"<a   href="South_Africa.md" class="wikilink" title="South Africa">South
 Africa</a>, banning racially discriminatory sports teams and instructing
 Australian UN delegates to vote for sanctions against South Africa and
 Rhodesia.
@@ -186,7 +186,7 @@ increasing public spending on social programs and infrastructure. The
 development, and doubled spending on education.
 
 However, these policies coincided with global economic turbulence. The
-"<a   href="1973_oil_crisis.md" class="wikilink" title="1973 oil crisis">"1973
+"<a   href="1973_oil_crisis.md" class="wikilink" title="1973 oil crisis">1973
 oil crisis</a> contributed to rising inflation, while the government's
 tariff cuts of 25% in 1973 led to a 30% increase in imports and a \$1.5
 billion increase in the trade deficit. Unemployment rose to 5%,
@@ -194,7 +194,7 @@ considered high at the time.
 
 By mid-1975, inflation had reached 17.6% and wage rises hit 32.9%. The
 economy had entered the "<a   href="1973-75_recession.md" class="wikilink"
-title="1973-75 recession">"1973-75 recession</a>, creating political
+title="1973-75 recession">1973-75 recession</a>, creating political
 vulnerabilities that the opposition exploited.
 
 ## Problematic Policies and Authoritarian Actions
@@ -204,14 +204,14 @@ vulnerabilities that the opposition exploited.
 The government's most controversial foreign policy decision involved
 **support for Indonesian annexation of East Timor**. In September 1974,
 Whitlam met with Indonesian President
-"<a   href="Suharto.md" class="wikilink" title="Suharto">"Suharto</a> and
+"<a   href="Suharto.md" class="wikilink" title="Suharto">Suharto</a> and
 indicated Australia would support Indonesian annexation of the
 Portuguese colony.
 
 This position contradicted the government's anti-imperial rhetoric
 elsewhere. When
 "<a   href="Indonesian_invasion_of_East_Timor.md" class="wikilink"
-title="Indonesia invaded East Timor">"Indonesia invaded East Timor</a> in
+title="Indonesia invaded East Timor">Indonesia invaded East Timor</a> in
 December 1975, the Whitlam government provided diplomatic cover despite
 the deaths of Australian journalists. The government refused to
 investigate these deaths and violated international law principles
@@ -227,14 +227,14 @@ Australia in the final eight months of the Whitlam government.
 ### Recognition of Soviet Territorial Claims
 
 The government recognized the
-"<a   href="USSR.md" class="wikilink" title="USSR">"USSR</a>'s annexation of
+"<a   href="USSR.md" class="wikilink" title="USSR">USSR</a>'s annexation of
 the Baltic states (Estonia, Latvia, and Lithuania), legitimizing Soviet
 territorial gains that originated from the 1939 Nazi-Soviet Pact. This
 represented an abandonment of principles of national self-determination.
 
 ### Financial Irregularities
 
-The "<a   href="Loans_Affair.md" class="wikilink" title="Loans Affair">"Loans
+The "<a   href="Loans_Affair.md" class="wikilink" title="Loans Affair">Loans
 Affair</a> involved attempts to secure \$4 billion in loans outside
 constitutional processes. Ministers Connor and Cairns misled Parliament
 about secret loan negotiations, damaging the government's credibility
@@ -248,9 +248,9 @@ US military bases if they violated their agreements, particularly
 regarding intelligence sharing arrangements.
 
 The "<a   href="1973_Murphy_raids.md" class="wikilink"
-title="1973 Murphy raids">"1973 Murphy raids</a> saw Attorney-General
+title="1973 Murphy raids">1973 Murphy raids</a> saw Attorney-General
 Lionel Murphy lead police raids on
-"<a   href="ASIO.md" class="wikilink" title="ASIO">"ASIO</a> offices,
+"<a   href="ASIO.md" class="wikilink" title="ASIO">ASIO</a> offices,
 reflecting distrust between the government and security agencies. This
 action was criticized as undermining institutional norms and created
 ongoing political controversy.
@@ -264,7 +264,7 @@ stance and threats to American military installations.
 
 The government's end came through the
 "<a   href="1975_Australian_constitutional_crisis.md" class="wikilink"
-title="1975 Australian constitutional crisis">"1975 Australian
+title="1975 Australian constitutional crisis">1975 Australian
 constitutional crisis</a>, when opposition parties used their Senate
 majority to block budget supply bills. Governor-General Sir John Kerr
 dismissed Whitlam on November 11, 1975, and appointed Malcolm Fraser as
@@ -277,7 +277,7 @@ technicalities, with the unelected Governor-General overruling the
 elected government.
 
 The role of the
-"<a   href="British_Crown.md" class="wikilink" title="British Crown">"British
+"<a   href="British_Crown.md" class="wikilink" title="British Crown">British
 Crown</a> in this crisis highlights the continued colonial structures
 within Australian governance, where an unelected representative of a
 foreign monarch could dismiss a democratically elected government.
@@ -312,23 +312,23 @@ governments have eroded some achievements.
 <references/>
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Social_Democracy.md" class="wikilink"
-title="Category:Social Democracy">"Category:Social Democracy</a>
+title="Category:Social Democracy">Category:Social Democracy</a>
 "<a   href="Category:Australia.md" class="wikilink"
-title="Category:Australia">"Category:Australia</a>
+title="Category:Australia">Category:Australia</a>
 "<a   href="Category:Oceania.md" class="wikilink"
-title="Category:Oceania">"Category:Oceania</a>
+title="Category:Oceania">Category:Oceania</a>
 "<a   href="Category:1970s.md" class="wikilink"
-title="Category:1970s">"Category:1970s</a>
+title="Category:1970s">Category:1970s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:1972.md" class="wikilink"
-title="Category:1972">"Category:1972</a>
+title="Category:1972">Category:1972</a>
 "<a   href="Category:1975.md" class="wikilink"
-title="Category:1975">"Category:1975</a>
+title="Category:1975">Category:1975</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Bramble, Thomas & Kuhn, Rick. Labor's conflict: big business,
     workers and the politics of class. Cambridge University Press, 2011

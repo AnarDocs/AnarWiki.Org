@@ -198,7 +198,7 @@ to 'sabotage' his liberation work."[^26]
 
 In 2018, Cuban authorities detained
 "<a   href="Earth_Liberation_Front.md" class="wikilink"
-title="Earth Liberation Front">"Earth Liberation Front</a> militant
+title="Earth Liberation Front">Earth Liberation Front</a> militant
 Joseph Dibee and sent him to the United States to be jailed and
 prosecuted for alleged acts of ecologically-motivated sabotage including
 the permanent destruction of a horse slaughtering facility.[^27] Dibee
@@ -293,7 +293,7 @@ initiatives.[^35]
 <references/>
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Sam Dolgoff, *The Cuban Revolution: a critical perspective*
     (Montreal: Black Rose Books, 1976), 37.
@@ -317,7 +317,7 @@ title="Category:Featured">"Category:Featured</a>
 [^8]: Dolgoff, *The Cuban Revolution*, 55-56.
 
 [^9]: Colin Ward, "<a   href="Anarchy_in_Action.md" class="wikilink"
-    title="Anarchy in Action">"Anarchy in Action</a>
+    title="Anarchy in Action">Anarchy in Action</a>
 
 [^10]: Robert Lyon in Peace News, 20 February 1959
 
@@ -393,7 +393,7 @@ title="Category:Featured">"Category:Featured</a>
     <https://chomsky.info/hegemony02/>.
 
 [^34]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^35]: Bill Weinberg, "Cuba Verde Revisited," *Countervortex*, 2017,

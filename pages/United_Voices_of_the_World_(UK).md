@@ -1,11 +1,11 @@
 The **United Voices of the World**(**UVW**) is a
-"<a   href="Trade_Union.md" class="wikilink" title="trade union">"trade
+"<a   href="Trade_Union.md" class="wikilink" title="trade union">trade
 union</a> based in the
-"<a   href="United_Kingdom.md" class="wikilink" title="UK">"UK</a> that mainly
+"<a   href="United_Kingdom.md" class="wikilink" title="UK">UK</a> that mainly
 organises among immigrant workers, particularly from Latin America. It
 is notable for being highly successful despite only being around since
 "<a   href="Timeline_of_Anarchism_in_Northern_Europe.md" class="wikilink"
-title="2014">"2014</a>.
+title="2014">2014</a>.
 
 ## Timeline
 
@@ -25,7 +25,7 @@ title="2014">"2014</a>.
   strike and blockade of the hotel by workers (which led to two being
   arrested) resulted in 100% of service charges going to workers.[^4]
 - 2017:
-  "<a   href="University.md" class="wikilink" title="University">"University</a>
+  "<a   href="University.md" class="wikilink" title="University">University</a>
   cleaners who joined the UVW began weekly strikes with supports from
   students, resulting in the workers getting paid annual leave, sick
   pay, parental leave pay and greater pensions after 10 months of the
@@ -37,7 +37,7 @@ title="2014">"2014</a>.
   and hard hats. There was also a wage increase.[^6]
 - 2018: The UVW joins the
   "<a   href="International_Confederation_of_Labor.md" class="wikilink"
-  title="International Confederation of Labor">"International Confederation
+  title="International Confederation of Labor">International Confederation
   of Labor</a> as an observer
 - 2018: Conservative newspaper office cleaners in the UVW were being
   illegally underpaid and threatened with unemployment if they striked.
@@ -54,34 +54,34 @@ You can contact the UVW [here](https://www.uvwunion.org.uk/contact)
 ## References
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:International_Confederation_of_Labor.md" class="wikilink"
-title="Category:International Confederation of Labor">"Category:International
+title="Category:International Confederation of Labor">Category:International
 Confederation of Labor</a>
 "<a   href="Category:Anarcho-Syndicalism.md" class="wikilink"
-title="Category:Anarcho-Syndicalism">"Category:Anarcho-Syndicalism</a>
+title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
 "<a   href="Category:Trade_Unions.md" class="wikilink"
-title="Category:Trade Unions">"Category:Trade Unions</a>
+title="Category:Trade Unions">Category:Trade Unions</a>
 "<a   href="Category:Anarcho-Syndicalist_Groups.md" class="wikilink"
-title="Category:Anarcho-Syndicalist Groups">"Category:Anarcho-Syndicalist
+title="Category:Anarcho-Syndicalist Groups">Category:Anarcho-Syndicalist
 Groups</a> "<a   href="Category:2014.md" class="wikilink"
-title="Category:2014">"Category:2014</a>
+title="Category:2014">Category:2014</a>
 "<a   href="Category:2015.md" class="wikilink"
-title="Category:2015">"Category:2015</a>
+title="Category:2015">Category:2015</a>
 "<a   href="Category:2016.md" class="wikilink"
-title="Category:2016">"Category:2016</a>
+title="Category:2016">Category:2016</a>
 "<a   href="Category:2017.md" class="wikilink"
-title="Category:2017">"Category:2017</a>
+title="Category:2017">Category:2017</a>
 "<a   href="Category:2018.md" class="wikilink"
-title="Category:2018">"Category:2018</a>
+title="Category:2018">Category:2018</a>
 "<a   href="Category:2019.md" class="wikilink"
-title="Category:2019">"Category:2019</a>
+title="Category:2019">Category:2019</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:2010s.md" class="wikilink"
-title="Category:2010s">"Category:2010s</a>
+title="Category:2010s">Category:2010s</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a>
 
 [^1]: <https://www.nytimes.com/2015/09/14/arts/international/luxury-automobiles-on-the-firing-line.html>

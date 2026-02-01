@@ -42,9 +42,9 @@ lifespan of the tree.
 <references/>
 
 "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Natural_World.md" class="wikilink"
-title="Category:Natural World">"Category:Natural World</a>
+title="Category:Natural World">Category:Natural World</a>
 
 [^1]: Lewis Thomas, "Seven Wonders,"
     <http://hermiene.net/essays-trans/seven_wonders.html>.

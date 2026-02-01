@@ -22,9 +22,9 @@ communities making informed decisions about protective measures.
 
 Under capitalism, pharmaceutical companies prioritize profit over global
 health. When the "<a   href="University_of_Oxford.md" class="wikilink"
-title="University of Oxford">"University of Oxford</a> developed a
+title="University of Oxford">University of Oxford</a> developed a
 DNA-based
-"<a   href="COVID-19.md" class="wikilink" title="COVID-19">"COVID-19</a>
+"<a   href="COVID-19.md" class="wikilink" title="COVID-19">COVID-19</a>
 vaccine, researchers initially wanted to release it under
 "non-exclusive, royalty-free licences" for at-cost distribution.
 However, the Gates Foundation pressured Oxford to grant exclusive rights
@@ -43,16 +43,16 @@ State responses to pandemics combine ineffectiveness with authoritarian
 overreach. Governments have failed to provide adequate healthcare
 infrastructure while simultaneously imposing coercive measures that
 undermine voluntary cooperation. In
-"<a   href="Greece.md" class="wikilink" title="Greece">"Greece</a> and
-"<a   href="Italy.md" class="wikilink" title="Italy">"Italy</a>, state-enforced
+"<a   href="Greece.md" class="wikilink" title="Greece">Greece</a> and
+"<a   href="Italy.md" class="wikilink" title="Italy">Italy</a>, state-enforced
 vaccination created significant issues, while in the
-"<a   href="United_States.md" class="wikilink" title="United States">"United
+"<a   href="United_States.md" class="wikilink" title="United States">United
 States</a>, uninsured people feared "potentially ruinous debt" that kept
 them from vaccination clinics.[^4]
 
-The "<a   href="racist.md" class="wikilink" title="racist">"racist</a>
+The "<a   href="racist.md" class="wikilink" title="racist">racist</a>
 "<a   href="prison_industrial_complex.md" class="wikilink"
-title="prison industrial complex">"prison industrial complex</a> makes
+title="prison industrial complex">prison industrial complex</a> makes
 mandatory vaccination particularly dangerous, as "adding to the legal
 remit of the racist prison industrial complex only reentrenches its
 power to suppress poor and working people."[^5] In Panola, Alabama, a
@@ -80,10 +80,10 @@ contradicts genuine public health goals.
 ### Equal Freedom and Mutual Responsibility
 
 The anarchist concept of
-"<a   href="equal_freedom.md" class="wikilink" title="equal freedom">"equal
+"<a   href="equal_freedom.md" class="wikilink" title="equal freedom">equal
 freedom</a> provides the ethical foundation for pandemic response. As
 "<a   href="Voltairine_de_Cleyre.md" class="wikilink"
-title="Voltairine de Cleyre">"Voltairine de Cleyre</a> argued, equal
+title="Voltairine de Cleyre">Voltairine de Cleyre</a> argued, equal
 liberty means "set\[ting\] the limits of the common concern at the line
 of where one man's liberty would encroach upon another's."[^7]
 
@@ -95,7 +95,7 @@ protective measures during a pandemic constitutes "its own form of
 coercion" by putting vulnerable community members at risk.[^8]
 
 "<a   href="Errico_Malatesta.md" class="wikilink"
-title="Errico Malatesta">"Errico Malatesta</a> emphasized that
+title="Errico Malatesta">Errico Malatesta</a> emphasized that
 consideration for equal freedom is "a matter of course for all humans:
 'The concept of freedom for all, which inevitably involves the precept
 that one's freedom is limited by the equal freedom of others, is a human
@@ -129,7 +129,7 @@ community.
 
 This is not state coercion but rather communities exercising their right
 to "<a   href="freedom_of_association.md" class="wikilink"
-title="freedom of association">"freedom of association</a> and
+title="freedom of association">freedom of association</a> and
 disassociation. Why shouldn't communities make their decisions? (ideally
 based on being well informed), but also be able to protect themselves if
 they feel endangered?
@@ -140,7 +140,7 @@ they feel endangered?
 
 An anarchist society would eliminate the intellectual property regime
 that restricts vaccine access. The example of
-"<a   href="Jonas_Salk.md" class="wikilink" title="Jonas Salk">"Jonas Salk</a>,
+"<a   href="Jonas_Salk.md" class="wikilink" title="Jonas Salk">Jonas Salk</a>,
 who refused to patent his polio vaccine, asking "Could you patent the
 sun?", represents the anarchist approach to medical knowledge.[^13]
 
@@ -165,17 +165,17 @@ cooperation.
 
 Local communities "used to dealing with one another and coming to
 agreements of compromise, respect, and
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>"
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>"
 would naturally establish pandemic response pacts.[^16] The success of
-regions like "<a   href="Rojava.md" class="wikilink" title="Rojava">"Rojava</a>
-and "<a   href="Zapatista.md" class="wikilink" title="Zapatista">"Zapatista</a>
+regions like "<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a>
+and "<a   href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
 communities in managing COVID-19 demonstrates this principle in
 practice.
 
 ### Trust Through Transparency
 
 "<a   href="Mikhail_Bakunin.md" class="wikilink"
-title="Mikhail Bakunin">"Mikhail Bakunin</a> worried that scientists
+title="Mikhail Bakunin">Mikhail Bakunin</a> worried that scientists
 "emboldened by their importance in society, will arrogantly claim the
 right to govern life."[^17] His solution was not rejecting science but
 making individuals "responsible for learning and acting on whatever
@@ -194,14 +194,14 @@ vaccine efficacy, limitations, and uncertainties.
 ### The "My Village, Corona Free" Strategy
 
 Successful pandemic responses in
-"<a   href="China.md" class="wikilink" title="China">"China</a>,
-"<a   href="Singapore.md" class="wikilink" title="Singapore">"Singapore</a>,
-"<a   href="Taiwan.md" class="wikilink" title="Taiwan">"Taiwan</a>,
-"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">"New
+"<a   href="China.md" class="wikilink" title="China">China</a>,
+"<a   href="Singapore.md" class="wikilink" title="Singapore">Singapore</a>,
+"<a   href="Taiwan.md" class="wikilink" title="Taiwan">Taiwan</a>,
+"<a   href="New_Zealand.md" class="wikilink" title="New Zealand">New
 Zealand</a>,
-"<a   href="Australia.md" class="wikilink" title="Australia">"Australia</a>,
-Atlantic "<a   href="Canada.md" class="wikilink" title="Canada">"Canada</a>,
-and "<a   href="India.md" class="wikilink" title="India">"India</a> shared a
+"<a   href="Australia.md" class="wikilink" title="Australia">Australia</a>,
+Atlantic "<a   href="Canada.md" class="wikilink" title="Canada">Canada</a>,
+and "<a   href="India.md" class="wikilink" title="India">India</a> shared a
 common feature: local action to eliminate community transmission.[^20]
 
 This strategy involves:
@@ -214,7 +214,7 @@ This strategy involves:
 
 Crucially, this can function through voluntary community agreement
 rather than state enforcement. The
-"<a   href="India.md" class="wikilink" title="India">"Indian</a> slogan "My
+"<a   href="India.md" class="wikilink" title="India">Indian</a> slogan "My
 Village, Corona Free" represents "at its core an idea, a call to action,
 for local communities" requiring "neither central control nor strict
 enforcement."[^21]
@@ -360,10 +360,10 @@ non-profit, and non-hierarchical alternatives to the current health care
 system."[^33] Examples include:
 
 - "<a   href="Common_Ground_Collective.md" class="wikilink"
-  title="Common Ground Collective">"Common Ground Collective</a>'s mutual
+  title="Common Ground Collective">Common Ground Collective</a>'s mutual
   aid free clinics in
-  post-"<a   href="Hurricane_Katrina.md" class="wikilink" title="Katrina">"Katrina</a>
-  "<a   href="New_Orleans.md" class="wikilink" title="New Orleans">"New
+  post-"<a   href="Hurricane_Katrina.md" class="wikilink" title="Katrina">Katrina</a>
+  "<a   href="New_Orleans.md" class="wikilink" title="New Orleans">New
   Orleans</a>
 - Community-controlled health research initiatives
 - Free vaccine distribution programs
@@ -388,9 +388,9 @@ Students can organize to:
 - Pressure administrations while building independent capacity
 
 Similar approaches work in workplaces, particularly those with existing
-"<a   href="union.md" class="wikilink" title="union">"union</a> structures or
+"<a   href="union.md" class="wikilink" title="union">union</a> structures or
 "<a   href="workers&#39;_self-management.md" class="wikilink"
-title="workers&#39; self-management">"workers' self-management</a>.
+title="workers&#39; self-management">workers' self-management</a>.
 
 ### Direct Action Tactics
 
@@ -451,23 +451,23 @@ requires:
 
 ## See Also
 
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 - "<a   href="Freedom_of_Association.md" class="wikilink"
-  title="Freedom of Association">"Freedom of Association</a>
-- "<a   href="Equal_Freedom.md" class="wikilink" title="Equal Freedom">"Equal
+  title="Freedom of Association">Freedom of Association</a>
+- "<a   href="Equal_Freedom.md" class="wikilink" title="Equal Freedom">Equal
   Freedom</a>
 - "<a   href="Community_Health.md" class="wikilink"
-  title="Community Health">"Community Health</a>
+  title="Community Health">Community Health</a>
 - "<a   href="Intellectual_Property.md" class="wikilink"
-  title="Intellectual Property">"Intellectual Property</a>
+  title="Intellectual Property">Intellectual Property</a>
 - "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
-- "<a   href="Rojava.md" class="wikilink" title="Rojava">"Rojava</a>
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
+- "<a   href="Rojava.md" class="wikilink" title="Rojava">Rojava</a>
 - "<a   href="Zapatista_Army_of_National_Liberation.md" class="wikilink"
-  title="Zapatista Army of National Liberation">"Zapatista Army of National
+  title="Zapatista Army of National Liberation">Zapatista Army of National
   Liberation</a>
 - "<a   href="Common_Ground_Collective.md" class="wikilink"
-  title="Common Ground Collective">"Common Ground Collective</a>
+  title="Common Ground Collective">Common Ground Collective</a>
 
 ## Sources
 
@@ -493,19 +493,19 @@ requires:
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Community_Defense.md" class="wikilink"
-title="Category:Community Defense">"Category:Community Defense</a>
+title="Category:Community Defense">Category:Community Defense</a>
 "<a   href="Category:Mutual_Aid.md" class="wikilink"
-title="Category:Mutual Aid">"Category:Mutual Aid</a>
+title="Category:Mutual Aid">Category:Mutual Aid</a>
 "<a   href="Category:Pandemic_Response.md" class="wikilink"
-title="Category:Pandemic Response">"Category:Pandemic Response</a>
+title="Category:Pandemic Response">Category:Pandemic Response</a>
 "<a   href="Category:Equal_Freedom.md" class="wikilink"
-title="Category:Equal Freedom">"Category:Equal Freedom</a>
+title="Category:Equal Freedom">Category:Equal Freedom</a>
 "<a   href="Category:Healthcare.md" class="wikilink"
-title="Category:Healthcare">"Category:Healthcare</a>
+title="Category:Healthcare">Category:Healthcare</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Kaiser Health News reporting on Gates Foundation and Oxford
     vaccine, 2020

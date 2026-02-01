@@ -321,44 +321,44 @@ revolution, present and future, means and ends.
 
 ## See Also
 
-- "<a   href="Direct_Action.md" class="wikilink" title="Direct Action">"Direct
+- "<a   href="Direct_Action.md" class="wikilink" title="Direct Action">Direct
   Action</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 - "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
 - "<a   href="Anarcho-Syndicalism.md" class="wikilink"
-  title="Anarcho-Syndicalism">"Anarcho-Syndicalism</a>
+  title="Anarcho-Syndicalism">Anarcho-Syndicalism</a>
 - "<a   href="Horizontal_Organization.md" class="wikilink"
-  title="Horizontal Organization">"Horizontal Organization</a>
+  title="Horizontal Organization">Horizontal Organization</a>
 - "<a   href="Decision_Making.md" class="wikilink"
-  title="Decision-Making">"Decision-Making</a>
+  title="Decision-Making">Decision-Making</a>
 - "<a   href="Occupy_Movement.md" class="wikilink"
-  title="Occupy Movement">"Occupy Movement</a>
+  title="Occupy Movement">Occupy Movement</a>
 - "<a   href="Spanish_Revolution.md" class="wikilink"
-  title="Spanish Revolution">"Spanish Revolution</a>
+  title="Spanish Revolution">Spanish Revolution</a>
 - "<a   href="Anarchist_Revolutionary_Methods.md" class="wikilink"
-  title="Revolutionary Praxis">"Revolutionary Praxis</a>
+  title="Revolutionary Praxis">Revolutionary Praxis</a>
 
 ## References
 
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Revolutionary_Strategy.md" class="wikilink"
-title="Category:Revolutionary Strategy">"Category:Revolutionary
+title="Category:Revolutionary Strategy">Category:Revolutionary
 Strategy</a> "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Direct_Action.md" class="wikilink"
-title="Category:Direct Action">"Category:Direct Action</a>
+title="Category:Direct Action">Category:Direct Action</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Anarchist_Transition.md" class="wikilink"
-title="Category:Anarchist Transition">"Category:Anarchist Transition</a>
+title="Category:Anarchist Transition">Category:Anarchist Transition</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Paul Raekstad and Eivind Dahl, "What is Prefigurative Politics?"
     The Anarchist Library, February 15, 2020

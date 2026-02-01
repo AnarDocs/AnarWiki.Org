@@ -300,9 +300,9 @@ question is whether we have the courage to use them.
   Price](https://theanarchistlibrary.org/library/joe-macare-maya-schenwar-and-alana-yu-lan-price-who-do-you-serve-who-do-you-protect)
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 "<a   href="Category:Justice.md" class="wikilink"
-title="Category:Justice">"Category:Justice</a>
+title="Category:Justice">Category:Justice</a>
 
 [^1]: CrimethInc., "Seven Myths about the Police"
 

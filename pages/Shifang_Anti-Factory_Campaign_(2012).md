@@ -1,11 +1,11 @@
 The **Shifang Anti-Factory Campaign of 2012** was a grassroots
 "<a   href="Timeline_of_Environmentalism.md" class="wikilink"
-title="environmentalist movement">"environmentalist movement</a> led by
+title="environmentalist movement">environmentalist movement</a> led by
 high school
-"<a   href="Student.md" class="wikilink" title="students">"students</a> in
+"<a   href="Student.md" class="wikilink" title="students">students</a> in
 "<a   href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
-title="2012">"2012</a> in the city of Shifang, Sichuan,
-"<a   href="China.md" class="wikilink" title="China">"China</a>.
+title="2012">2012</a> in the city of Shifang, Sichuan,
+"<a   href="China.md" class="wikilink" title="China">China</a>.
 
 ## Background
 
@@ -47,7 +47,7 @@ charges.
 ## References
 
 "<a   href="Global_Nonviolent_Action_Database.md" class="wikilink"
-title="Global Nonviolent Action Database">"Global Nonviolent Action
+title="Global Nonviolent Action Database">Global Nonviolent Action
 Database</a> - [Shifang students prevent copper plant construction,
 China,
 2012](https://nvdatabase.swarthmore.edu/content/shifang-students-prevent-copper-plant-construction-china-2012)

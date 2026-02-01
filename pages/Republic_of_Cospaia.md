@@ -2,7 +2,7 @@
 
 The **Republic of Cospaia** (Italian: *Repubblica di Cospaia*) was a
 remarkable example of a functioning
-"<a   href="anarchist.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
 society that existed for 385 years in what is now northern Italy. From
 1440 to 1826, this small territory of approximately 330 hectares (1.3
 square miles) operated without a formal government, police, military, or
@@ -13,15 +13,15 @@ hierarchical state control.
 
 Created by accident when a surveying error left a strip of land
 unclaimed between the
-"<a   href="Papal_States.md" class="wikilink" title="Papal States">"Papal
+"<a   href="Papal_States.md" class="wikilink" title="Papal States">Papal
 States</a> and the "<a   href="Republic_of_Florence.md" class="wikilink"
-title="Republic of Florence">"Republic of Florence</a>, Cospaia became a
-*"<a   href="terra_nullius.md" class="wikilink" title="terra nullius">"terra
+title="Republic of Florence">Republic of Florence</a>, Cospaia became a
+*"<a   href="terra_nullius.md" class="wikilink" title="terra nullius">terra
 nullius</a>* that its inhabitants declared independent.[^1] Rather than
 establishing a traditional state structure, the Cospaiesi founded their
 society on the principle of **Perpetua et Firma Libertas** (Eternal and
 Firm Liberty) - a motto that embodied their commitment to
-"<a   href="stateless.md" class="wikilink" title="stateless">"stateless</a>
+"<a   href="stateless.md" class="wikilink" title="stateless">stateless</a>
 organization.
 
 The republic's success challenges conventional assumptions about the
@@ -30,15 +30,15 @@ order, prosperity, and freedom without the coercive apparatus of the
 state. Its eventual dissolution came not from internal failure but from
 external force when neighboring powers could no longer tolerate its
 example of successful
-"<a   href="anarchy.md" class="wikilink" title="anarchy">"anarchy</a>.
+"<a   href="anarchy.md" class="wikilink" title="anarchy">anarchy</a>.
 
 ## Culture
 
 Cospaiesi culture was fundamentally anti-authoritarian and egalitarian.
 The society operated on principles of
-"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">"mutual aid</a>
+"<a   href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
 and "<a   href="communitarianism.md" class="wikilink"
-title="communitarianism">"communitarianism</a>, with wealth never
+title="communitarianism">communitarianism</a>, with wealth never
 concentrated in the hands of one or two families despite centuries of
 profitable trade.[^2] Unlike the surrounding feudal territories, there
 were no class divisions based on hereditary nobility or centralized
@@ -54,7 +54,7 @@ forms of systematic oppression.
 
 The Cospaiesi developed a culture of
 "<a   href="voluntary_association.md" class="wikilink"
-title="voluntary association">"voluntary association</a> and collective
+title="voluntary association">voluntary association</a> and collective
 decision-making that sustained their community across generations.
 Unlike neighboring territories where authority was imposed from above,
 social order in Cospaia emerged organically from the community itself.
@@ -71,7 +71,7 @@ that social order does not require state violence.
 Instead of relying on punishment and coercion, the community developed
 mechanisms for conflict resolution based on
 "<a   href="restorative_justice.md" class="wikilink"
-title="restorative justice">"restorative justice</a> and community
+title="restorative justice">restorative justice</a> and community
 mediation. Disputes were settled by family heads or local priests chosen
 for their integrity rather than political connections.[^5]
 
@@ -108,7 +108,7 @@ cooperation can emerge spontaneously without imposed authority.
 
 While Cospaia is sometimes mischaracterized as an early example of
 "<a   href="anarcho-capitalism.md" class="wikilink"
-title="anarcho-capitalism">"anarcho-capitalism</a>, its internal economic
+title="anarcho-capitalism">anarcho-capitalism</a>, its internal economic
 structure was actually communitarian rather than capitalist.[^8] The
 community operated without traditional currency for internal
 transactions, relying instead on barter and mutual aid networks that
@@ -219,26 +219,26 @@ The Republic of Cospaia provides powerful historical evidence for core
 anarchist principles:
 
 - **"<a   href="Anti-statism.md" class="wikilink"
-  title="Anti-statism">"Anti-statism</a>**: 385 years without government
+  title="Anti-statism">Anti-statism</a>**: 385 years without government
   apparatus proves states are unnecessary for social organization
-- **"<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>**:
+- **"<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>**:
   Community cooperation without coercion sustained prosperity and
   equality
 - **"<a   href="Direct_Democracy.md" class="wikilink"
-  title="Direct Democracy">"Direct Democracy</a>**: Family councils and
+  title="Direct Democracy">Direct Democracy</a>**: Family councils and
   community assemblies enabled collective decision-making
-- **"<a   href="Federalism.md" class="wikilink" title="Federalism">"Federalism</a>**:
+- **"<a   href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>**:
   Voluntary associations coordinated action while preserving autonomy
 - **"<a   href="Anti-capitalism.md" class="wikilink"
-  title="Anti-capitalism">"Anti-capitalism</a>**: Internal
+  title="Anti-capitalism">Anti-capitalism</a>**: Internal
   communitarianism prevented wealth concentration despite external
   market success
 - **"<a   href="Voluntary_Association.md" class="wikilink"
-  title="Voluntary Association">"Voluntary Association</a>**: All
+  title="Voluntary Association">Voluntary Association</a>**: All
   relationships based on free agreement rather than imposed authority
 
 Cospaia demonstrates that
-"<a   href="anarchy.md" class="wikilink" title="anarchy">"anarchy</a> - the
+"<a   href="anarchy.md" class="wikilink" title="anarchy">anarchy</a> - the
 absence of rulers rather than the absence of order - can provide the
 foundation for human flourishing on a scale larger than intentional
 communities or communes.
@@ -270,27 +270,27 @@ communities or communes.
   Associazione genitori oggi, 1996.
 
 "<a   href="Category:Past_Anarchist_Societies.md" class="wikilink"
-title="Category:Past Anarchist Societies">"Category:Past Anarchist
+title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a> "<a   href="Category:15th_Century.md" class="wikilink"
-title="Category:15th Century">"Category:15th Century</a>
+title="Category:15th Century">Category:15th Century</a>
 "<a   href="Category:16th_Century.md" class="wikilink"
-title="Category:16th Century">"Category:16th Century</a>
+title="Category:16th Century">Category:16th Century</a>
 "<a   href="Category:17th_Century.md" class="wikilink"
-title="Category:17th Century">"Category:17th Century</a>
+title="Category:17th Century">Category:17th Century</a>
 "<a   href="Category:18th_Century.md" class="wikilink"
-title="Category:18th Century">"Category:18th Century</a>
+title="Category:18th Century">Category:18th Century</a>
 "<a   href="Category:19th_Century.md" class="wikilink"
-title="Category:19th Century">"Category:19th Century</a>
+title="Category:19th Century">Category:19th Century</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Stateless_Societies.md" class="wikilink"
-title="Category:Stateless Societies">"Category:Stateless Societies</a>
+title="Category:Stateless Societies">Category:Stateless Societies</a>
 "<a   href="Category:Direct_Democracy.md" class="wikilink"
-title="Category:Direct Democracy">"Category:Direct Democracy</a>
+title="Category:Direct Democracy">Category:Direct Democracy</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Ascani, Angelo. *Cospaia: storia inedita della singolare
     Repubblica*. Città di Castello, Tuscany, 1963: 15.

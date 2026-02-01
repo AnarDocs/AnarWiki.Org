@@ -30,7 +30,7 @@ kinds of interference."[^1]
 The human brain is remarkably decentralized, involving horizontal
 coordination between different parts. Colin Ward writes in
 "<a   href="Anarchy_in_Action.md" class="wikilink"
-title="Anarchy in Action">"Anarchy in Action</a>:
+title="Anarchy in Action">Anarchy in Action</a>:
 
 > If we must identify biological and political systems, wrote the
 > neurologist Grey Walter, our own brains would seem to illustrate the

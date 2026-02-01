@@ -1,20 +1,20 @@
 The **Yakka Munga Blockade** was a
-"<a   href="Picketing.md" class="wikilink" title="picket">"picket</a> by
+"<a   href="Picketing.md" class="wikilink" title="picket">picket</a> by
 "<a   href="Aboriginal_Australians.md" class="wikilink"
-title="Aboriginal Australians">"Aboriginal Australians</a> in
+title="Aboriginal Australians">Aboriginal Australians</a> in
 "<a   href="Timeline_of_Anarchism_in_Oceania.md" class="wikilink"
-title="2019">"2019</a> to stop the destruction of cultural sites from
+title="2019">2019</a> to stop the destruction of cultural sites from
 land-clearing on a
-"<a   href="China.md" class="wikilink" title="Chinese-owned">"Chinese-owned</a>
+"<a   href="China.md" class="wikilink" title="Chinese-owned">Chinese-owned</a>
 cattle station in the Kimberley,
-"<a   href="Australia.md" class="wikilink" title="Western Australia">"Western
+"<a   href="Australia.md" class="wikilink" title="Western Australia">Western
 Australia</a>.
 
 ## Background
 
 Aboriginal Australians had been pretty brutally treated by the colonial
 government of the
-"<a   href="British_Empire.md" class="wikilink" title="British Empire">"British
+"<a   href="British_Empire.md" class="wikilink" title="British Empire">British
 Empire</a>, stealing and enclosing aboriginal land and wiping out 98% of
 the population. After Australia's independence in 1901, there were
 apartheid-esque conditions for aboriginals (many also being pushed into
@@ -43,23 +43,23 @@ successful.[^3]
 ## References
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Indigenism.md" class="wikilink"
-title="Category:Indigenism">"Category:Indigenism</a>
+title="Category:Indigenism">Category:Indigenism</a>
 "<a   href="Category:Blockades.md" class="wikilink"
-title="Category:Blockades">"Category:Blockades</a>
+title="Category:Blockades">Category:Blockades</a>
 "<a   href="Category:Australia.md" class="wikilink"
-title="Category:Australia">"Category:Australia</a>
+title="Category:Australia">Category:Australia</a>
 "<a   href="Category:Oceania.md" class="wikilink"
-title="Category:Oceania">"Category:Oceania</a>
+title="Category:Oceania">Category:Oceania</a>
 "<a   href="Category:2019.md" class="wikilink"
-title="Category:2019">"Category:2019</a>
+title="Category:2019">Category:2019</a>
 "<a   href="Category:2010s.md" class="wikilink"
-title="Category:2010s">"Category:2010s</a>
+title="Category:2010s">Category:2010s</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:Aboriginal_Australia.md" class="wikilink"
-title="Category:Aboriginal Australia">"Category:Aboriginal Australia</a>
+title="Category:Aboriginal Australia">Category:Aboriginal Australia</a>
 
 [^1]: [Yakka Munga station blockaded by protesters in fight to protect
     Kimberley

@@ -543,7 +543,7 @@ assembly, blocking traffic and disrupting public order.<sup>\[63\]</sup>
 ## See Also
 
 - "<a   href="Cherán_Revolution.md" class="wikilink"
-  title="Cherán Revolution">"Cherán Revolution</a> - a similar event in
+  title="Cherán Revolution">Cherán Revolution</a> - a similar event in
   Mexico that happened 5 months earlier.
 - "<a   href="Resistance_in_China.md" class="wikilink"
-  title="Resistance in China">"Resistance in China</a>
+  title="Resistance in China">Resistance in China</a>

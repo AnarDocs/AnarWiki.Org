@@ -14,7 +14,7 @@ genuine consent can only exist in the absence of hierarchical power
 relations that create unequal conditions for decision-making.
 
 As "<a   href="Gustav_Landauer.md" class="wikilink"
-title="Gustav Landauer">"Gustav Landauer</a> articulated, "The State is a
+title="Gustav Landauer">Gustav Landauer</a> articulated, "The State is a
 condition, a certain relationship between human beings, a mode of human
 behavior; we destroy it by contracting other relationships, by behaving
 differently."[^2] This emphasizes that anarchism is fundamentally about
@@ -27,7 +27,7 @@ spoken in the absence of coercion, intimidation, or intoxication.[^3]
 This understanding recognizes that true freedom necessitates the ability
 to refuse without penalty or consequence.
 
-"<a   href="Anarchism.md" class="wikilink" title="Anarchism">"Anarchism</a>
+"<a   href="Anarchism.md" class="wikilink" title="Anarchism">Anarchism</a>
 holds that "people can voluntarily cooperate to meet everyone's needs,
 without bosses or rulers, and without sacrificing individual
 liberties."[^4] This cooperation must be based on genuine consent rather
@@ -63,7 +63,7 @@ to depart."[^8]
 
 ### The Levellers and Consent
 
-The "<a   href="Levellers.md" class="wikilink" title="Levellers">"Levellers</a>
+The "<a   href="Levellers.md" class="wikilink" title="Levellers">Levellers</a>
 of 17th century England took consent theory further, arguing that
 political authority must rest on the voluntary agreement of individuals.
 Richard Overton wrote in *An Arrow Against All Tyrants* (1646):
@@ -111,7 +111,7 @@ abide by majority rule."[^13]
 
 ### Locke's Evasion
 
-"<a   href="John_Locke.md" class="wikilink" title="John Locke">"John Locke</a>,
+"<a   href="John_Locke.md" class="wikilink" title="John Locke">John Locke</a>,
 recognizing the radical implications of consent theory, developed the
 doctrine of "tacit consent" to salvage government legitimacy. He argued
 that merely residing in a territory or using roads constituted implied
@@ -129,7 +129,7 @@ leaves her."[^15]
 ### Spooner's Demolition
 
 "<a   href="Lysander_Spooner.md" class="wikilink"
-title="Lysander Spooner">"Lysander Spooner</a> delivered the most
+title="Lysander Spooner">Lysander Spooner</a> delivered the most
 thorough critique of tacit consent in his *No Treason* essays
 (1867-1870). He argued that voting, residing in a territory, or using
 government services do not constitute genuine consent to government
@@ -149,7 +149,7 @@ binding upon nobody."[^16] He pointed out that:
 
 Spooner explicitly connected consent to
 "<a   href="property_rights.md" class="wikilink"
-title="property rights">"property rights</a>: "To take a man's property
+title="property rights">property rights</a>: "To take a man's property
 without his consent is robbery; and to assume his consent where no
 actual consent is given, makes the taking none the less robbery."[^18]
 
@@ -198,8 +198,8 @@ gift to be honored.[^21]
 
 Hierarchical systems fundamentally compromise the possibility of genuine
 consent. Under
-"<a   href="patriarchy.md" class="wikilink" title="patriarchy">"patriarchy</a>,
-"<a   href="capitalism.md" class="wikilink" title="capitalism">"capitalism</a>,
+"<a   href="patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>,
+"<a   href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
 and state power, apparent "choices" are made under conditions of
 coercion, economic necessity, or threat of violence.
 
@@ -222,7 +222,7 @@ elite."[^23]
 
 ### The Illusion of Consent Under Capitalism
 
-"<a   href="Capitalism.md" class="wikilink" title="Capitalism">"Capitalism</a>
+"<a   href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>
 creates conditions where economic coercion replaces physical force.
 Employees must "consent" to exploitation because the alternative is
 poverty and starvation. This is not genuine consent but submission to
@@ -258,7 +258,7 @@ while patriarchal power relations persist in society.
 ### The Fundamental Contradiction
 
 There exists a fundamental contradiction between government and consent.
-As "<a   href="Josiah_Tucker.md" class="wikilink" title="Josiah Tucker">"Josiah
+As "<a   href="Josiah_Tucker.md" class="wikilink" title="Josiah Tucker">Josiah
 Tucker</a> identified in the 18th century, consent theory pushed to its
 logical conclusion destroys the moral authority of all government: "The
 sole question between Tucker and his Lockean opponents was 'Whether That
@@ -341,7 +341,7 @@ state, white supremacy
 asking, listening, honoring boundaries, and respecting autonomy in
 everyday interactions
 
-As "<a   href="Elisee_Reclus.md" class="wikilink" title="Elisee Reclus">"Elisee
+As "<a   href="Elisee_Reclus.md" class="wikilink" title="Elisee Reclus">Elisee
 Reclus</a> wrote: "When the miserable and disinherited of the earth
 shall unite in their own interest, trade with trade, nation with nation,
 race with race; when they shall fully awake to their sufferings and
@@ -371,38 +371,38 @@ where those choices are honored completely.
 ## See Also
 
 - "<a   href="Voluntary_Association.md" class="wikilink"
-  title="Voluntary Association">"Voluntary Association</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+  title="Voluntary Association">Voluntary Association</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 - "<a   href="Anti-authoritarianism.md" class="wikilink"
-  title="Anti-authoritarianism">"Anti-authoritarianism</a>
-- "<a   href="Autonomy.md" class="wikilink" title="Autonomy">"Autonomy</a>
-- "<a   href="Freedom.md" class="wikilink" title="Freedom">"Freedom</a>
-- "<a   href="Coercion.md" class="wikilink" title="Coercion">"Coercion</a>
+  title="Anti-authoritarianism">Anti-authoritarianism</a>
+- "<a   href="Autonomy.md" class="wikilink" title="Autonomy">Autonomy</a>
+- "<a   href="Freedom.md" class="wikilink" title="Freedom">Freedom</a>
+- "<a   href="Coercion.md" class="wikilink" title="Coercion">Coercion</a>
 - "<a   href="Social_Contract.md" class="wikilink"
-  title="Social Contract">"Social Contract</a>
+  title="Social Contract">Social Contract</a>
 - "<a   href="Self-ownership.md" class="wikilink"
-  title="Self-ownership">"Self-ownership</a>
+  title="Self-ownership">Self-ownership</a>
 
 ## References
 
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Political_Philosophy.md" class="wikilink"
-title="Category:Political Philosophy">"Category:Political Philosophy</a>
+title="Category:Political Philosophy">Category:Political Philosophy</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Ethics.md" class="wikilink"
-title="Category:Ethics">"Category:Ethics</a>
+title="Category:Ethics">Category:Ethics</a>
 "<a   href="Category:Relationships.md" class="wikilink"
-title="Category:Relationships">"Category:Relationships</a>
+title="Category:Relationships">Category:Relationships</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: French, Carey. "Reimagining Connection through using CONSENT: A
     short guide to the revolution of consent culture"

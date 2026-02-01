@@ -6,7 +6,7 @@ title="&quot;Happi&quot;_American_Horse_direct_action_against_DAPL,_August_2016_
 </figure>
 
 Led by the Indigenous Standing Rock Sioux nation of the
-"<a   href="Oceti_Sakowin.md" class="wikilink" title="Oceti Sakowin">"Oceti
+"<a   href="Oceti_Sakowin.md" class="wikilink" title="Oceti Sakowin">Oceti
 Sakowin</a> confederation, the Standing Rock Uprising, from April 2016
 to February 2017, involved blockades, lockdowns, and even arsons against
 construction of the Dakota Access Pipeline. Resisters secured a
@@ -70,7 +70,7 @@ to scholar Kim TallBear.[^7]
 Anarchists were very involved in the uprising, and especially in the
 militant Red Warrior Camp. They sometimes clashed with liberal and
 pacifist elements. The "<a   href="Catholic_Worker.md" class="wikilink"
-title="Catholic Worker">"Catholic Worker</a> activists Ruby Montoya and
+title="Catholic Worker">Catholic Worker</a> activists Ruby Montoya and
 Jessica Reznicek engaged in arson against the pipeline's construction.
 The Sierra Club gave a characteristic response of the Standing Rock
 Uprising's mainstream supporters: "Certainly, we had absolutely no

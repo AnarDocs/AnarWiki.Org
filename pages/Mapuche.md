@@ -87,13 +87,13 @@ Mapuche villages have achieved food sovereignty.[^9]
 <references/>
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Chile.md" class="wikilink"
-title="Category:Chile">"Category:Chile</a>
+title="Category:Chile">Category:Chile</a>
 "<a   href="Category:Argentina.md" class="wikilink"
-title="Category:Argentina">"Category:Argentina</a>
+title="Category:Argentina">Category:Argentina</a>
 
 [^1]: Gord Hill, *The 500 Years of Indigenous Resistance Comic Book*
     (Vancouver: Arsenal Pulp Press, 2023), 64.

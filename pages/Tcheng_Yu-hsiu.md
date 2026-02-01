@@ -2,13 +2,13 @@ Certainly! Here's the article with a BioBox added at the top:
 
 **Tcheng Yu-hsiu** (also known as **Zheng Yuxiu** or **Soumay Tcheng**,
 1891-1959) was a
-"<a   href="Feminism.md" class="wikilink" title="feminist">"feminist</a>, the
+"<a   href="Feminism.md" class="wikilink" title="feminist">feminist</a>, the
 first female
-"<a   href="Law.md" class="wikilink" title="lawyer and judge">"lawyer and
+"<a   href="Law.md" class="wikilink" title="lawyer and judge">lawyer and
 judge</a> in Chinese history and
-"<a   href="Anarchism.md" class="wikilink" title="anarchist">"anarchist</a>
+"<a   href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>
 "<a   href="List_of_Libertarian_Socialists.md" class="wikilink"
-title="revolutionary">"revolutionary</a>.
+title="revolutionary">revolutionary</a>.
 
 ## Life
 
@@ -18,7 +18,7 @@ Tcheng was born on March 20, 1891, in Xin'an County, Guangdong,
 China.[^1] She was raised in the paternal family home in Guangdong and
 was at first home-schooled before her mother enrolled her at a formal
 school in
-"<a   href="Beijing.md" class="wikilink" title="Beijing">"Beijing</a>.
+"<a   href="Beijing.md" class="wikilink" title="Beijing">Beijing</a>.
 
 Her revolutionary activities began at a young age. She refused to have
 her feet bound as she saw how the traditional practice had affected her
@@ -33,20 +33,20 @@ English but chose not to follow the religious instruction.
 ### Political Radicalisation
 
 In 1912, she met the anarchist and revolutionary organizer
-"<a   href="Li_Shizeng.md" class="wikilink" title="Li Shizeng">"Li Shizeng</a>
+"<a   href="Li_Shizeng.md" class="wikilink" title="Li Shizeng">Li Shizeng</a>
 and enrolled in his preparatory school for Chinese students hoping to go
 to France on the Diligent Work Frugal Study program. The school was the
 first in China to be co-educational. She was one of the handful of women
 to go to
-"<a   href="French_Republic.md" class="wikilink" title="France">"France</a> on
+"<a   href="French_Republic.md" class="wikilink" title="France">France</a> on
 the program.[^4]
 
 #### The Revolution of 1911
 
 Tcheng was a member of the
-"<a   href="Kuomintang.md" class="wikilink" title="Kuomintang">"Kuomintang</a>,
+"<a   href="Kuomintang.md" class="wikilink" title="Kuomintang">Kuomintang</a>,
 the Nationalist Party of China. After meeting the party's leader
-"<a   href="Sun_Yat-sen.md" class="wikilink" title="Sun Yat-sen">"Sun
+"<a   href="Sun_Yat-sen.md" class="wikilink" title="Sun Yat-sen">Sun
 Yat-sen</a>, she dedicated herself to the revolutionary cause.[^5] As a
 member of a revolutionary cell, Tcheng hid bombs in her suitcases to
 transport them to Beijing with the intention of using them against
@@ -89,7 +89,7 @@ was starkly different to the Western perception of Chinese women, which
 in turn helped to change Westerners' view of China as well.[^14]
 
 She traveled to the "<a   href="United_States_of_America.md" class="wikilink"
-title="United States">"United States</a> after the war in hopes of
+title="United States">United States</a> after the war in hopes of
 gaining allies in China's quest for sovereignty. President Woodrow
 Wilson's Fourteen Points speech gave China reason to believe that the
 United States would be supportive of their goals.[^15] However, at the
@@ -135,7 +135,7 @@ established a law practice in Shanghai. In the late 1920s, Tcheng and
 Wei married. In the late 1920s, she briefly became a judge in a French
 concession court, becoming the first female judge in
 "<a   href="People&#39;s_Republic_of_China.md" class="wikilink"
-title="China">"China</a>.[^21]
+title="China">China</a>.[^21]
 
 Tcheng advocated for women to have a choice in their marriages and to
 have the right to divorce. She wrote these rights into the Republic of
@@ -160,29 +160,29 @@ development of women's rights in Vietnam.[^25]
 <references/>
 
 "<a   href="Category:Anarchists.md" class="wikilink"
-title="Category:Anarchists">"Category:Anarchists</a>
+title="Category:Anarchists">Category:Anarchists</a>
 "<a   href="Category:China.md" class="wikilink"
-title="Category:China">"Category:China</a>
+title="Category:China">Category:China</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Eastern_Asia.md" class="wikilink"
-title="Category:Eastern Asia">"Category:Eastern Asia</a>
+title="Category:Eastern Asia">Category:Eastern Asia</a>
 "<a   href="Category:Anarcha-Feminists.md" class="wikilink"
-title="Category:Anarcha-Feminists">"Category:Anarcha-Feminists</a>
+title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
 "<a   href="Category:Anarchist_Women.md" class="wikilink"
-title="Category:Anarchist Women">"Category:Anarchist Women</a>
+title="Category:Anarchist Women">Category:Anarchist Women</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 "<a   href="Category:1891_births.md" class="wikilink"
-title="Category:1891 births">"Category:1891 births</a>
+title="Category:1891 births">Category:1891 births</a>
 "<a   href="Category:1959_deaths.md" class="wikilink"
-title="Category:1959 deaths">"Category:1959 deaths</a>
+title="Category:1959 deaths">Category:1959 deaths</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Boorman, Howard L. & Howard, Richard C. (1967). *Biographical
     Dictionary of Republican China*, Volume 1. Columbia University

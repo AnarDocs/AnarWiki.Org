@@ -4,14 +4,14 @@ A **gift economy** or **gift culture** is a system of exchange where
 valuables are not sold, but rather given without an explicit agreement
 for immediate or future rewards.[^1] It is the principal economic theory
 of "<a   href="Anarcho-Communism.md" class="wikilink"
-title="anarcho-communism">"anarcho-communism</a>. Social norms and
+title="anarcho-communism">anarcho-communism</a>. Social norms and
 customs govern giving a gift in a gift culture; although there is some
 expectation of reciprocity, gifts are not given in an explicit exchange
 of goods or services for money, or some other good or service.[^2] This
 contrasts with a
-"<a   href="market_economy.md" class="wikilink" title="market economy">"market
+"<a   href="market_economy.md" class="wikilink" title="market economy">market
 economy</a> or
-"<a   href="bartering.md" class="wikilink" title="bartering">"bartering</a>,
+"<a   href="bartering.md" class="wikilink" title="bartering">bartering</a>,
 where goods and services are primarily explicitly exchanged for value
 received.
 
@@ -41,16 +41,16 @@ social relationship that the gift exchange establishes.
 
 Similar but not identical to a
 "<a   href="Horizontal_Economic_Planning.md" class="wikilink"
-title="horizontally planned economy">"horizontally planned economy</a>,
+title="horizontally planned economy">horizontally planned economy</a>,
 it involves the production of goods by
 "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-title="self-managed workplaces">"self-managed workplaces</a> in a
-"<a   href="free_federation.md" class="wikilink" title="free federation">"free
+title="self-managed workplaces">self-managed workplaces</a> in a
+"<a   href="free_federation.md" class="wikilink" title="free federation">free
 federation</a>. In one possible implementation of the gift economy,
 workplaces may hold councils or
 "<a   href="Democratic_Assembly.md" class="wikilink"
-title="assemblies">"assemblies</a> with local communities and/or
-"<a   href="Delegate.md" class="wikilink" title="delegates">"delegates</a> to
+title="assemblies">assemblies</a> with local communities and/or
+"<a   href="Delegate.md" class="wikilink" title="delegates">delegates</a> to
 determine how much of a demand there is for certain products. Typically
 in a gift economy, goods would not be distributed to individuals, but
 available for any individual in need to take for themselves.
@@ -157,37 +157,37 @@ micro-credit institutions.[^23]
 ## See also
 
 - "<a   href="Anarcho-Communism.md" class="wikilink"
-  title="Anarcho-Communism">"Anarcho-Communism</a>
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+  title="Anarcho-Communism">Anarcho-Communism</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 - "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-  title="Workers&#39; Self-Management">"Workers' Self-Management</a>
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
 - "<a   href="Horizontal_Economic_Planning.md" class="wikilink"
-  title="Horizontal Economic Planning">"Horizontal Economic Planning</a>
+  title="Horizontal Economic Planning">Horizontal Economic Planning</a>
 - "<a   href="Free_Association.md" class="wikilink"
-  title="Free Association">"Free Association</a>
+  title="Free Association">Free Association</a>
 
 ## References
 
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Anarchist_Economics.md" class="wikilink"
-title="Category:Anarchist Economics">"Category:Anarchist Economics</a>
+title="Category:Anarchist Economics">Category:Anarchist Economics</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Economics.md" class="wikilink"
-title="Category:Economics">"Category:Economics</a>
+title="Category:Economics">Category:Economics</a>
 "<a   href="Category:Alternative_Economics.md" class="wikilink"
-title="Category:Alternative Economics">"Category:Alternative
+title="Category:Alternative Economics">Category:Alternative
 Economics</a> "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Cheal, David J (1988). "1". The Gift Economy. New York: Routledge.
     pp. 1–19. ISBN 0415006414.

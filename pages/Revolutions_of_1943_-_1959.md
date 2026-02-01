@@ -1,6 +1,6 @@
 The **Revolutions of 1943 - 1959** were a
 "<a   href="Revolutionary_Wave.md" class="wikilink"
-title="revolutionary wave">"revolutionary wave</a> consisting off mass
+title="revolutionary wave">revolutionary wave</a> consisting off mass
 political unrest and revolts around the world in the mid-20th century.
 The uprisings were mainly socialist or anti-colonial in nature and were
 mostly short-lived, failing to have a long-term impact.
@@ -29,14 +29,14 @@ mostly short-lived, failing to have a long-term impact.
 - 1959: Cuban Revolution
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Revolutionary_Waves.md" class="wikilink"
-title="Category:Revolutionary Waves">"Category:Revolutionary Waves</a>
+title="Category:Revolutionary Waves">Category:Revolutionary Waves</a>
 "<a   href="Category:Timelines.md" class="wikilink"
-title="Category:Timelines">"Category:Timelines</a>
+title="Category:Timelines">Category:Timelines</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:1940s.md" class="wikilink"
-title="Category:1940s">"Category:1940s</a>
+title="Category:1940s">Category:1940s</a>
 "<a   href="Category:1950s.md" class="wikilink"
-title="Category:1950s">"Category:1950s</a>
+title="Category:1950s">Category:1950s</a>

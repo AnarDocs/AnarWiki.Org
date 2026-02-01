@@ -1,9 +1,9 @@
 The **Zambian Copperbelt Strike of
 "<a   href="Timeline_of_Anarchism_in_Southern_Africa.md" class="wikilink"
-title="1935">"1935</a>**was a
-"<a   href="List_of_Strikes.md" class="wikilink" title="strike">"strike</a> by
+title="1935">1935</a>**was a
+"<a   href="List_of_Strikes.md" class="wikilink" title="strike">strike</a> by
 copperminers over high
-"<a   href="Taxation.md" class="wikilink" title="taxes">"taxes</a> and safety
+"<a   href="Taxation.md" class="wikilink" title="taxes">taxes</a> and safety
 concerns in copper miners.
 
 ## Background
@@ -125,20 +125,20 @@ the coming decades, including later significant success by the African
 Mineworkers’ Union.
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Strikes.md" class="wikilink"
-title="Category:Strikes">"Category:Strikes</a>
+title="Category:Strikes">Category:Strikes</a>
 "<a   href="Category:1935.md" class="wikilink"
-title="Category:1935">"Category:1935</a>
+title="Category:1935">Category:1935</a>
 "<a   href="Category:1930s.md" class="wikilink"
-title="Category:1930s">"Category:1930s</a>
+title="Category:1930s">Category:1930s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Africa.md" class="wikilink"
-title="Category:Africa">"Category:Africa</a>
+title="Category:Africa">Category:Africa</a>
 "<a   href="Category:Southern_Africa.md" class="wikilink"
-title="Category:Southern Africa">"Category:Southern Africa</a>
+title="Category:Southern Africa">Category:Southern Africa</a>
 "<a   href="Category:Zambia.md" class="wikilink"
-title="Category:Zambia">"Category:Zambia</a>
+title="Category:Zambia">Category:Zambia</a>
 "<a   href="Category:Mining.md" class="wikilink"
-title="Category:Mining">"Category:Mining</a>
+title="Category:Mining">Category:Mining</a>

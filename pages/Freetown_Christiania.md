@@ -2,19 +2,19 @@
 
 **Freetown Christiania** (Danish: *Fristaden Christiania*) or the **Free
 Republic of Christiania** is a
-"<a   href="List_of_Squats.md" class="wikilink" title="former squat">"former
+"<a   href="List_of_Squats.md" class="wikilink" title="former squat">former
 squat</a> turned "<a   href="Intentional_Community.md" class="wikilink"
-title="intentional community">"intentional community</a> and
+title="intentional community">intentional community</a> and
 "<a   href="List_of_Anarchist_Societies.md" class="wikilink"
-title="anarchist commune">"anarchist commune</a> in the Christianshavn
+title="anarchist commune">anarchist commune</a> in the Christianshavn
 neighbourhood of Copenhagen,
-"<a   href="Denmark.md" class="wikilink" title="Denmark">"Denmark</a> that
+"<a   href="Denmark.md" class="wikilink" title="Denmark">Denmark</a> that
 began in
 "<a   href="Timeline_of_Anarchism_in_Northern_Europe.md" class="wikilink"
-title="1971">"1971</a>. It has a population of around 850 to 1,000
+title="1971">1971</a>. It has a population of around 850 to 1,000
 residents covering approximately 85 acres (7.7 hectares). It is possibly
 the largest and most famous
-"<a   href="Squatting.md" class="wikilink" title="squat">"squat</a> in the
+"<a   href="Squatting.md" class="wikilink" title="squat">squat</a> in the
 world and is considered the fourth largest tourist attraction in
 Copenhagen, with over one million visitors annually.[^1][^2]
 
@@ -128,12 +128,12 @@ for older people, disabled people, to keep a home here."[^14]
 Christiania operates as an intentional community under a consensus
 democracy, where the Ting serves as the central decision-making body.
 Residents make decisions by
-"<a   href="consensus.md" class="wikilink" title="consensus">"consensus</a> at
+"<a   href="consensus.md" class="wikilink" title="consensus">consensus</a> at
 community meetings held in a central building called the Ting
 House.[^15]
 
 As "<a   href="Georgy_Katsiaficas.md" class="wikilink"
-title="Georgy Katsiaficas">"Georgy Katsiaficas</a> explains:
+title="Georgy Katsiaficas">Georgy Katsiaficas</a> explains:
 
 > In the Free Republic of Christiania, hundreds of people illegally live
 > in an alternative community where no authority counts except that of
@@ -180,7 +180,7 @@ Industries and work performed in Christiania include:
 
 - Blacksmiths
 - Metalworkers (who specialize in making eco-friendly ovens and
-  "<a   href="Bicycle.md" class="wikilink" title="bikes">"bikes</a>)
+  "<a   href="Bicycle.md" class="wikilink" title="bikes">bikes</a>)
 - Jewelers
 - Potters
 - Candle makers
@@ -198,10 +198,10 @@ Industries and work performed in Christiania include:
 
 Most businesses are
 "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-title="worker-owned cooperatives">"worker-owned cooperatives</a>. All of
+title="worker-owned cooperatives">worker-owned cooperatives</a>. All of
 these industries are
 "<a   href="Workers&#39;_Self-Management.md" class="wikilink"
-title="self-managed">"self-managed</a>, and pay a tax/rent to the
+title="self-managed">self-managed</a>, and pay a tax/rent to the
 community which is then used for community projects and to pay for
 utilities.[^19][^20]
 
@@ -316,51 +316,51 @@ Street entirely with government assistance.
 <references/>
 
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Squatting.md" class="wikilink"
-title="Category:Squatting">"Category:Squatting</a>
+title="Category:Squatting">Category:Squatting</a>
 "<a   href="Category:Denmark.md" class="wikilink"
-title="Category:Denmark">"Category:Denmark</a>
+title="Category:Denmark">Category:Denmark</a>
 "<a   href="Category:Northern_Europe.md" class="wikilink"
-title="Category:Northern Europe">"Category:Northern Europe</a>
+title="Category:Northern Europe">Category:Northern Europe</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:Scandanavia.md" class="wikilink"
-title="Category:Scandanavia">"Category:Scandanavia</a>
+title="Category:Scandanavia">Category:Scandanavia</a>
 "<a   href="Category:Anarchist_Societies.md" class="wikilink"
-title="Category:Anarchist Societies">"Category:Anarchist Societies</a>
+title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>
 "<a   href="Category:Intentional_Communities.md" class="wikilink"
-title="Category:Intentional Communities">"Category:Intentional
+title="Category:Intentional Communities">Category:Intentional
 Communities</a>
 "<a   href="Category:Workers&#39;_Self-Management.md" class="wikilink"
-title="Category:Workers&#39; Self-Management">"Category:Workers'
+title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a> "<a   href="Category:1971.md" class="wikilink"
-title="Category:1971">"Category:1971</a>
+title="Category:1971">Category:1971</a>
 "<a   href="Category:1970s.md" class="wikilink"
-title="Category:1970s">"Category:1970s</a>
+title="Category:1970s">Category:1970s</a>
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:21st_Century.md" class="wikilink"
-title="Category:21st Century">"Category:21st Century</a>
+title="Category:21st Century">Category:21st Century</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Tine Faltin, "En rusten plattform og et kuleformet hus mener de er
     egne stater - Disse ni europeiske landene eksisterer egentlig ikke",
     *Dagbladet*, December 25, 2013
 
 [^2]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>
 
 [^3]: Jacob Ludvigsen's website, "Christiania",
@@ -406,9 +406,9 @@ title="Category:Featured">"Category:Featured</a>
     <https://www.christiania.org/info/christianias-selvforvaltning/>
 
 [^16]: "<a   href="Georgy_Katsiaficas.md" class="wikilink"
-    title="Georgy Katsiaficas">"Georgy Katsiaficas</a> (2006) -
+    title="Georgy Katsiaficas">Georgy Katsiaficas</a> (2006) -
     "<a   href="The_Subversion_of_Politics.md" class="wikilink"
-    title="The Subversion of Politics">"The Subversion of Politics</a>,
+    title="The Subversion of Politics">The Subversion of Politics</a>,
     page 117-118
 
 [^17]: Georgy Katsiaficas, *The Subversion of Politics: European
@@ -420,18 +420,18 @@ title="Category:Featured">"Category:Featured</a>
     <http://techzwn.com/2012/02/christiania-pioneers-alternative-economy-interview/>
 
 [^19]: "<a   href="Georgy_Katsiaficas.md" class="wikilink"
-    title="Georgy Katsiaficas">"Georgy Katsiaficas</a> (2006) -
+    title="Georgy Katsiaficas">Georgy Katsiaficas</a> (2006) -
     "<a   href="The_Subversion_of_Politics.md" class="wikilink"
-    title="The Subversion of Politics">"The Subversion of Politics</a>,
+    title="The Subversion of Politics">The Subversion of Politics</a>,
     page 118-119
 
 [^20]: Peter Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>
 
 [^21]: "<a   href="Peter_Gelderloos.md" class="wikilink"
-    title="Peter Gelderloos">"Peter Gelderloos</a> (2010) -
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+    title="Peter Gelderloos">Peter Gelderloos</a> (2010) -
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>, page 92
 
 [^22]: Cahal Milmo, "On the Barricades: Trouble in a Hippie Paradise,"
@@ -444,5 +444,5 @@ title="Category:Featured">"Category:Featured</a>
 [^25]: "Pris til Christiania", *Information.dk*, 25 July 2007
 
 [^26]: Gelderloos,
-    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">"Anarchy
+    "<a   href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>

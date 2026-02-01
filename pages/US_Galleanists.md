@@ -20,7 +20,7 @@ presence, that *Cronaca Sovversiva* readers were frequently called
 leaders."[^4]
 
 Unlike the "<a   href="Industrial_Workers_of_the_World.md" class="wikilink"
-title="Industrial Workers of the World">"Industrial Workers of the
+title="Industrial Workers of the World">Industrial Workers of the
 World</a>, which declined to explicitly advocate draft resistance during
 World War I, followers of *Cronaca Sovversiva* organized uncompromising
 and even armed opposition to the war. In September 1917, a group of

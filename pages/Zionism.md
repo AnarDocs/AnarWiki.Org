@@ -1,13 +1,13 @@
 # Zionism
 
 **Zionism** or **Jewish Nationalism** is a political ideology which says
-that "<a   href="Judaism.md" class="wikilink" title="Jewish people">"Jewish
+that "<a   href="Judaism.md" class="wikilink" title="Jewish people">Jewish
 people</a> have a right to a nation in part of or all of the holy land
-of "<a   href="Israel.md" class="wikilink" title="Israel">"Israel</a>, which
+of "<a   href="Israel.md" class="wikilink" title="Israel">Israel</a>, which
 Jews are indigenous to. Supporters argue that this is a necessity to
 provide a safe areas for Jewish people to live and practice their
 religion in peace and safety (note that Zionism became popular after the
-"<a   href="Holocaust.md" class="wikilink" title="Holocaust">"Holocaust</a>),
+"<a   href="Holocaust.md" class="wikilink" title="Holocaust">Holocaust</a>),
 critics argue that it's a violent ideology used to justify a system of
 apartheid and Palestinian oppression.
 
@@ -30,7 +30,7 @@ Hashemite Kingdom of Jordan.
 
 **Christian Zionism** is a belief among some Christians that the return
 of Jews to the
-"<a   href="Holy_Land.md" class="wikilink" title="Holy Land">"Holy Land</a> and
+"<a   href="Holy_Land.md" class="wikilink" title="Holy Land">Holy Land</a> and
 the establishment of Israel fulfills biblical prophecy. Christian
 Zionists often support Israel based on theological interpretations of
 scripture, particularly regarding the End Times. This movement has been
@@ -44,7 +44,7 @@ instrumentalizing Jewish people for Christian eschatological purposes.
 **Cultural Zionism** or **Spiritual Zionism** emphasized the revival of
 Jewish culture and Hebrew language rather than political statehood.
 Pioneered by thinkers like
-"<a   href="Ahad_Ha&#39;am.md" class="wikilink" title="Ahad Ha&#39;am">"Ahad
+"<a   href="Ahad_Ha&#39;am.md" class="wikilink" title="Ahad Ha&#39;am">Ahad
 Ha'am</a>, this movement argued that Palestine should become a spiritual
 and cultural center for world Jewry, focusing on Jewish cultural
 renaissance and the development of Hebrew literature and education.
@@ -56,10 +56,10 @@ important than political sovereignty.
 
 **Green Zionism** is a synthesis of
 "<a   href="Environmentalism.md" class="wikilink"
-title="environmentalist">"environmentalist</a> and Zionist politics,
+title="environmentalist">environmentalist</a> and Zionist politics,
 arguing that Israel must be a clean and sustainable civilization. It has
 been influential in several
-"<a   href="Kibbutzim.md" class="wikilink" title="Kibbutzim">"Kibbutzim</a>,
+"<a   href="Kibbutzim.md" class="wikilink" title="Kibbutzim">Kibbutzim</a>,
 which have made efforts to reduce their impact on the environment.
 
 ### Kahanism
@@ -68,7 +68,7 @@ which have made efforts to reduce their impact on the environment.
 founded by Rabbi Meir Kahane. Kahanism advocates for the expulsion of
 all non-Jews from Israel and the occupied territories, the establishment
 of a theocratic Jewish state based on
-"<a   href="Halakha.md" class="wikilink" title="Halakha">"Halakha</a> (Jewish
+"<a   href="Halakha.md" class="wikilink" title="Halakha">Halakha</a> (Jewish
 religious law), and the rejection of democracy in favor of Torah-based
 governance. This ideology has been widely condemned as racist and
 fascistic, and Kahane's political party was banned from the Israeli
@@ -87,8 +87,8 @@ argued, would not be healthy until the inverted pyramid was righted, and
 a substantial number of Jews became workers and peasants again. This,
 they held, could only be accomplished by Jews in their own country.
 Labor Zionism has been hugely influential in the creation of the
-"<a   href="Kibbutzim.md" class="wikilink" title="Kibbutzim">"Kibbutzim</a> and
-"<a   href="Moshav.md" class="wikilink" title="Moshavim">"Moshavim</a>.
+"<a   href="Kibbutzim.md" class="wikilink" title="Kibbutzim">Kibbutzim</a> and
+"<a   href="Moshav.md" class="wikilink" title="Moshavim">Moshavim</a>.
 
 ### Anarcho-Zionism
 
@@ -134,11 +134,11 @@ inequality.
 ### Reform Zionism
 
 **Reform Zionism** emerged from the
-"<a   href="Reform_Judaism.md" class="wikilink" title="Reform Judaism">"Reform
+"<a   href="Reform_Judaism.md" class="wikilink" title="Reform Judaism">Reform
 Judaism</a> movement and initially opposed traditional Zionism, arguing
 that Judaism was a religion rather than a nationality and that Jews
 should integrate into their host societies. However, following the
-"<a   href="Holocaust.md" class="wikilink" title="Holocaust">"Holocaust</a>,
+"<a   href="Holocaust.md" class="wikilink" title="Holocaust">Holocaust</a>,
 most Reform Jews embraced a form of Zionism that supported Israel while
 maintaining that Jews could have dual loyalties to both Israel and their
 countries of residence. Reform Zionism typically emphasizes Israel's
@@ -153,7 +153,7 @@ religious observance with Zionist nationalism, viewing the establishment
 of Israel as the beginning of divine redemption. Religious Zionists see
 the return to the Land of Israel as a religious commandment and often
 support settlement expansion in the
-"<a   href="West_Bank.md" class="wikilink" title="West Bank">"West Bank</a> as
+"<a   href="West_Bank.md" class="wikilink" title="West Bank">West Bank</a> as
 fulfilling biblical promises. This movement has been influential in
 Israeli politics through parties like the National Religious Party and
 has produced many of the settlers in the occupied territories. Religious
@@ -192,10 +192,10 @@ rather than attacking Jewish identity or denying historical Jewish
 connection to the land. Such criticism might include opposition to
 ethno-states, theocratic states and the existence of states at all. It
 may include the conditions of
-"<a   href="apartheid.md" class="wikilink" title="apartheid">"apartheid</a>,
+"<a   href="apartheid.md" class="wikilink" title="apartheid">apartheid</a>,
 the treatment of Palestinians, and the genocidal actions of
 \[\[Israel\]_upon_the_people_of_\[\[Gaza\|Israel\] upon the people of
-"<a   href="Gaza.md" class="wikilink" title="Gaza">"Gaza</a>. However, it
+"<a   href="Gaza.md" class="wikilink" title="Gaza">Gaza</a>. However, it
 distinguishes between criticism of Israeli actions and antisemitism,
 recognises the historical persecution of Jews (without this being a
 justification for Israel's actions), but avoids conspiracy theories or
@@ -215,7 +215,7 @@ the actions of the Israeli state and such views.
 ## Zionism As A Form Of Racism
 
 In 1975, the
-"<a   href="United_Nations.md" class="wikilink" title="United Nations">"United
+"<a   href="United_Nations.md" class="wikilink" title="United Nations">United
 Nations</a> General Assembly passed Resolution 3379, which declared
 Zionism "a form of racism and racial discrimination." This resolution
 was heavily promoted by the Soviet Union and Arab states during the Cold
@@ -231,10 +231,10 @@ Jewish settlers and Palestinian residents. They argue that ethnic
 nationalism inherently creates hierarchies based on ethnicity.
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Ideologies.md" class="wikilink"
-title="Category:Ideologies">"Category:Ideologies</a>
+title="Category:Ideologies">Category:Ideologies</a>
 "<a   href="Category:Zionism.md" class="wikilink"
-title="Category:Zionism">"Category:Zionism</a>
+title="Category:Zionism">Category:Zionism</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>

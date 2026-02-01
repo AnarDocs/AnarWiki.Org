@@ -5,7 +5,7 @@
 
 Formed in 1974, the
 "<a   href="Wikipedia:Combahee_River_Collective.md" class="wikilink"
-title="Combahee River Collective">"Combahee River Collective</a> (CRC)
+title="Combahee River Collective">Combahee River Collective</a> (CRC)
 was comprised of black women who advanced a feminist, socialist,
 anti-racist, anti-authoritarian analysis. They employed the terms
 "interlocking oppression" and "identity politics" which have become
@@ -38,18 +38,18 @@ guarantee our liberation."[^5]
 
 <references/>
 
-"<a   href="Black_Anarchism.md" class="wikilink" title="Black Anarchism">"Black
+"<a   href="Black_Anarchism.md" class="wikilink" title="Black Anarchism">Black
 Anarchism</a> "<a   href="Black_Anarchists.md" class="wikilink"
-title="Black Anarchists">"Black Anarchists</a>
+title="Black Anarchists">Black Anarchists</a>
 
 "<a   href="Category:20th_Century.md" class="wikilink"
-title="Category:20th Century">"Category:20th Century</a>
+title="Category:20th Century">Category:20th Century</a>
 "<a   href="Category:Social_Movements.md" class="wikilink"
-title="Category:Social Movements">"Category:Social Movements</a>
+title="Category:Social Movements">Category:Social Movements</a>
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
 [^1]: *How We Get Free: Black Feminism and the Combahee River
     Collective* ed. Keeanga-Yamahtta Taylor (Chicago: Haymarket Books,

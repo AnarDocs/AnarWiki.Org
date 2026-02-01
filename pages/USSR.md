@@ -1,20 +1,20 @@
 The **Union of Soviet Socialist Republics** (**USSR**), commonly known
 as the **Soviet Union,** was an
 "<a   href="[Authoritarian_Socialism.md" class="wikilink"
-title="authoritarian socialist">"authoritarian socialist</a> that
+title="authoritarian socialist">authoritarian socialist</a> that
 practised "<a   href="Marxism-Leninism_in_Practice.md" class="wikilink"
-title="Marxist-Leninist">"Marxist-Leninist</a>
-"<a   href="List_of_States.md" class="wikilink" title="state">"state</a> that
+title="Marxist-Leninist">Marxist-Leninist</a>
+"<a   href="List_of_States.md" class="wikilink" title="state">state</a> that
 was created by the
-"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">"Bolsheviks</a>
+"<a   href="Bolsheviks.md" class="wikilink" title="Bolsheviks">Bolsheviks</a>
 in 1922 as the "<a   href="Russian_Civil_War.md" class="wikilink"
-title="Russian Civil War">"Russian Civil War</a> came to an end. It had a
+title="Russian Civil War">Russian Civil War</a> came to an end. It had a
 long history, which included fighting
-"<a   href="Nazi_Germany.md" class="wikilink" title="Nazi Germany">"Nazi
+"<a   href="Nazi_Germany.md" class="wikilink" title="Nazi Germany">Nazi
 Germany</a> and becoming one of the lead players in the
-"<a   href="Cold_War.md" class="wikilink" title="Cold War">"Cold War</a>,
+"<a   href="Cold_War.md" class="wikilink" title="Cold War">Cold War</a>,
 before the "<a   href="Collapse_of_the_USSR.md" class="wikilink"
-title="collapse">"collapse</a> in 1991.
+title="collapse">collapse</a> in 1991.
 
 ## Positives and Negatives
 
@@ -32,22 +32,22 @@ acknowledge the many good and bad things done by the USSR.
 - The USSR massively expanded women's rights.
 - Industrialise faster than any other society in history in the midst of
   the "<a   href="Great_Depression.md" class="wikilink"
-  title="Great Depression">"Great Depression</a> without trading with
+  title="Great Depression">Great Depression</a> without trading with
   other countries.
 - The USSR made several massive advances in science, notably putting the
   first object, animal and
-  person"<a   href="Space_Exploration.md" class="wikilink" title="into space">"into
+  person"<a   href="Space_Exploration.md" class="wikilink" title="into space">into
   space</a>. Some notable achievements include:
   - AK-47
   - Blood Bank
   - Jet Packs
   - Modern Helicopters
   - "<a   href="Nuclear_Energy.md" class="wikilink"
-    title="Nuclear Power Plant">"Nuclear Power Plant</a>
+    title="Nuclear Power Plant">Nuclear Power Plant</a>
   - Postal Codes
   - RPG-7
   - "<a   href="Space_Exploration.md" class="wikilink"
-    title="Space Exploration">"Space Exploration</a>
+    title="Space Exploration">Space Exploration</a>
   - Space Rover
   - Space Stations
   - Space Suit
@@ -59,11 +59,11 @@ acknowledge the many good and bad things done by the USSR.
   - Montage in Movies
   - Tetris
 - Almost eliminating "<a   href="unemployment.md" class="wikilink"
-  title="unemployment">"unemployment</a>.
+  title="unemployment">unemployment</a>.
 - During
-  "<a   href="World_War_II.md" class="wikilink" title="World War II">"World War
+  "<a   href="World_War_II.md" class="wikilink" title="World War II">World War
   II</a>, the USSR managed to inflict the most damage on
-  "<a   href="Nazi_Germany.md" class="wikilink" title="Nazi Germany">"Nazi
+  "<a   href="Nazi_Germany.md" class="wikilink" title="Nazi Germany">Nazi
   Germany</a>, it's been estimated that 8/10 German deaths in the war
   were against the USSR.
 - From 1927 to 1941, the USSR expanded their freight rail network to be
@@ -78,11 +78,11 @@ thus do not represent the socialist USSR under Stalin and the
 Bolsheviks.
 
 - 1962: "<a   href="Novocherkassk_Massacre_(1962).md" class="wikilink"
-  title="Novocherkassk Strike">"Novocherkassk Strike</a>
+  title="Novocherkassk Strike">Novocherkassk Strike</a>
 - 1963: Moscow Protests by African Students
 - 1964: Moroccan Embassy in Moscow Sit-In
 - 1968: "<a   href="Red_Square_Protests_(1968).md" class="wikilink"
-  title="Red Square Anti-War Protests">"Red Square Anti-War Protests</a>
+  title="Red Square Anti-War Protests">Red Square Anti-War Protests</a>
 - 1972: Kaunas' Spring
 - 1987: Phosphorite War
 
@@ -92,9 +92,9 @@ Bolsheviks.
 - Repression of various democratic movements:
   - During the Russian Civil War, the Bolsheviks crushed the
     "<a   href="Free_Territory_of_Ukraine.md" class="wikilink"
-    title="Free Territory of Ukraine">"Free Territory of Ukraine</a> and
+    title="Free Territory of Ukraine">Free Territory of Ukraine</a> and
     "<a   href="Kronstadt_Rebellion.md" class="wikilink"
-    title="Kronstadt Rebellion">"Kronstadt Rebellion</a>, as well as
+    title="Kronstadt Rebellion">Kronstadt Rebellion</a>, as well as
     numerous other peasant movements and Russia's urban anarchist
     movement. Although the USSR isn't technically responsible, it was
     built on the graves of the libertarian left and shared the same
@@ -105,22 +105,22 @@ Bolsheviks.
 - Generating 1.5x as much air pollution and carbon emissions as the USA
   in 1988 per unit of GNP.[^1]
 - Creating some of the largest "<a   href="Ecocide.md" class="wikilink"
-  title="ecological disasters">"ecological disasters</a> in history:
+  title="ecological disasters">ecological disasters</a> in history:
   - Most famously, the
     "<a   href="Chernobyl_Nuclear_Disaster.md" class="wikilink"
-    title="Chernobyl Nuclear Disaster">"Chernobyl Nuclear Disaster</a>,
+    title="Chernobyl Nuclear Disaster">Chernobyl Nuclear Disaster</a>,
     considered the worst "<a   href="Nuclear_Energy.md" class="wikilink"
-    title="nuclear accident">"nuclear accident</a> in history. Having
+    title="nuclear accident">nuclear accident</a> in history. Having
     killed 42 people and led to the government creating a 2,600km
     exclusion zone that has been closed for 33 years. Despite this,
     scientific teams, tourists and smugglers still enter the area
     frequently.[^2]
   - The
-    "<a   href="Aral_Sea.md" class="wikilink" title="Aral Sea">"Aral Sea</a>
+    "<a   href="Aral_Sea.md" class="wikilink" title="Aral Sea">Aral Sea</a>
     between what is now
-    "<a   href="Kazakhstan.md" class="wikilink" title="Kazakhstan">"Kazakhstan</a>
+    "<a   href="Kazakhstan.md" class="wikilink" title="Kazakhstan">Kazakhstan</a>
     and
-    "<a   href="Uzbekistan.md" class="wikilink" title="Uzbekistan">"Uzbekistan</a>,
+    "<a   href="Uzbekistan.md" class="wikilink" title="Uzbekistan">Uzbekistan</a>,
     once the fourth largest lake in the world, had dried up thanks to
     the USSR using it for drainage. But it's also now covered in toxic
     salt flats as a result of weapons testing, industrial projects, and
@@ -128,12 +128,12 @@ Bolsheviks.
     and a lack of fresh water for the local population leading to
     massive health problems and high rates of cancer. Additionally, the
     loss of the Aral Sea has generated local
-    "<a   href="Climate_Change.md" class="wikilink" title="climate change">"climate
+    "<a   href="Climate_Change.md" class="wikilink" title="climate change">climate
     change</a> in the form of cooler winters and hotter summers. Former
     fishing towns have declined, surrounded by abandoned ship
     graveyards.[^3]
   - The Techa River in the Ural Mountains
-    ("<a   href="Russia.md" class="wikilink" title="Russia">"Russia</a>) saw
+    ("<a   href="Russia.md" class="wikilink" title="Russia">Russia</a>) saw
     76 million cubic metres (roughly over 30,000 olympic sized swimming
     pools) of radioactive waste water dumped into by the Mayak complex
     despite 28,000 people living along the villages. An estimated half a
@@ -143,12 +143,12 @@ Bolsheviks.
     oceans were potentially contaminated with nuclear waste.[^4]
     - The Mayak complex also triggered the
       "<a   href="Kyshtym_Disaster.md" class="wikilink"
-      title="Kyshtym Disaster">"Kyshtym Disaster</a> (radioactive clouds
+      title="Kyshtym Disaster">Kyshtym Disaster</a> (radioactive clouds
       spread over 52,000 square km where at least 270,000 people lived
       across Russia, considered the third worst nuclear accident in
       history after
       "<a   href="Fukishima_Nuclear_Disaster.md" class="wikilink"
-      title="Fukishima">"Fukishima</a> and Chernobyl)[^5] and the
+      title="Fukishima">Fukishima</a> and Chernobyl)[^5] and the
       Pollution of Lake Karachay, having so much radioactive waste
       dumped into it is considered the most polluted place on Earth (and
       lacks warning signs on the surrounding roads, meaning anyone could
@@ -167,37 +167,37 @@ Bolsheviks.
 ## References
 
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:USSR.md" class="wikilink"
-title="Category:USSR">"Category:USSR</a>
+title="Category:USSR">Category:USSR</a>
 "<a   href="Category:Eastern_Europe.md" class="wikilink"
-title="Category:Eastern Europe">"Category:Eastern Europe</a>
+title="Category:Eastern Europe">Category:Eastern Europe</a>
 "<a   href="Category:Europe.md" class="wikilink"
-title="Category:Europe">"Category:Europe</a>
+title="Category:Europe">Category:Europe</a>
 "<a   href="Category:Asia.md" class="wikilink"
-title="Category:Asia">"Category:Asia</a>
+title="Category:Asia">Category:Asia</a>
 "<a   href="Category:Northern_Asia.md" class="wikilink"
-title="Category:Northern Asia">"Category:Northern Asia</a>
+title="Category:Northern Asia">Category:Northern Asia</a>
 
 [^1]: ~ Maria Shahgedanova (1994) - *[New data on air pollution in the
     former Soviet
     Union](https://www.sciencedirect.com/science/article/abs/pii/0959378094900035)*,
     Global Environmental Change
 
-[^2]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^2]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Chernobyl_disaster>
 
-[^3]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^3]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Aral_Sea>
 
-[^4]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^4]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Techa_River>
 
-[^5]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^5]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Kyshtym_disaster>
 
-[^6]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^6]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Pollution_of_Lake_Karachay>
 
-[^7]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a> -
+[^7]: "<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/1958_Mailuu-Suu_tailings_dam_failure>

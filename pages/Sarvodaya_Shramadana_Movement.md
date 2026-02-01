@@ -2,16 +2,16 @@
 
 The **Sarvodaya Shramadana Movement** is a
 "<a   href="self-governance.md" class="wikilink"
-title="self-governance">"self-governance</a> movement in
-"<a   href="Sri_Lanka.md" class="wikilink" title="Sri Lanka">"Sri Lanka</a>
+title="self-governance">self-governance</a> movement in
+"<a   href="Sri_Lanka.md" class="wikilink" title="Sri Lanka">Sri Lanka</a>
 that provides comprehensive development and
 "<a   href="conflict_resolution.md" class="wikilink"
-title="conflict resolution">"conflict resolution</a> programs to
+title="conflict resolution">conflict resolution</a> programs to
 villages. Founded in 1958 by
-"<a   href="A._T._Ariyaratne.md" class="wikilink" title="A. T. Ariyaratne">"A.
+"<a   href="A._T._Ariyaratne.md" class="wikilink" title="A. T. Ariyaratne">A.
 T. Ariyaratne</a>, the movement is inspired by
-"<a   href="Gandhism.md" class="wikilink" title="Gandhian">"Gandhian</a> and
-"<a   href="Buddhism.md" class="wikilink" title="Buddhist">"Buddhist</a> ideas
+"<a   href="Gandhism.md" class="wikilink" title="Gandhian">Gandhian</a> and
+"<a   href="Buddhism.md" class="wikilink" title="Buddhist">Buddhist</a> ideas
 of *swaraj* (self-governance), *sarvodaya* (common good), and
 *shramadana* (shared labor).
 
@@ -23,19 +23,19 @@ estimated that the movement provides services to 11 million people.[^2]
 
 The movement is also the largest indigenous organization working on
 reconstruction from the
-"<a   href="tsunami.md" class="wikilink" title="tsunami">"tsunami</a> caused by
+"<a   href="tsunami.md" class="wikilink" title="tsunami">tsunami</a> caused by
 the "<a   href="2004_Indian_Ocean_earthquake.md" class="wikilink"
-title="2004 Indian Ocean earthquake">"2004 Indian Ocean earthquake</a>
+title="2004 Indian Ocean earthquake">2004 Indian Ocean earthquake</a>
 and belongs to the "<a   href="Global_Ecovillage_Network.md" class="wikilink"
-title="Global Ecovillage Network">"Global Ecovillage Network</a>.
+title="Global Ecovillage Network">Global Ecovillage Network</a>.
 
 ## Etymology
 
 The movement is based on
-"<a   href="Buddhism.md" class="wikilink" title="Buddhist">"Buddhist</a> and
-"<a   href="Gandhism.md" class="wikilink" title="Gandhian">"Gandhian</a>
+"<a   href="Buddhism.md" class="wikilink" title="Buddhist">Buddhist</a> and
+"<a   href="Gandhism.md" class="wikilink" title="Gandhian">Gandhian</a>
 principles. Coined by
-"<a   href="Mahatma_Gandhi.md" class="wikilink" title="Mahatma Gandhi">"Mahatma
+"<a   href="Mahatma_Gandhi.md" class="wikilink" title="Mahatma Gandhi">Mahatma
 Gandhi</a>, the term *sarvodaya* means 'welfare for all'. The word
 *shramadana* means 'gift of labour'. Collectively, the name 'Sarvodaya
 Shramadana' means 'welfare for all through our shared labour'.
@@ -43,24 +43,24 @@ Shramadana' means 'welfare for all through our shared labour'.
 ## History
 
 The movement began in 1958 when
-"<a   href="A._T._Ariyaratne.md" class="wikilink" title="A. T. Ariyaratne">"A.
+"<a   href="A._T._Ariyaratne.md" class="wikilink" title="A. T. Ariyaratne">A.
 T. Ariyaratne</a>, then a young teacher at
 "<a   href="Nalanda_College_Colombo.md" class="wikilink"
-title="Nalanda College Colombo">"Nalanda College Colombo</a>, led forty
+title="Nalanda College Colombo">Nalanda College Colombo</a>, led forty
 high school students and twelve teachers on what he called an
 "educational experiment" to an
-"<a   href="Untouchability.md" class="wikilink" title="outcaste">"outcaste</a>
+"<a   href="Untouchability.md" class="wikilink" title="outcaste">outcaste</a>
 village, Kathaluwa, and helped the villagers fix it up. The success of
 this experiment, repeated in other villages, led to the creation of the
 largest development-promoting organization in Sri Lanka.
 
 In 1958, the neglected village of
-"<a   href="Rodiya.md" class="wikilink" title="Rodiya">"Rodiya</a>, inhabited
+"<a   href="Rodiya.md" class="wikilink" title="Rodiya">Rodiya</a>, inhabited
 by social outcasts and beggars, received help in the form of renovating
 houses, digging wells and latrines, and establishing community gardens.
 Educational programs and self-employment help were also launched. The
 organizer was
-"<a   href="D._A._Abeysekera.md" class="wikilink" title="D. A. Abeysekera">"D.
+"<a   href="D._A._Abeysekera.md" class="wikilink" title="D. A. Abeysekera">D.
 A. Abeysekera</a>, an employee of the Sri Lankan Department of Rural
 Development, who while searching for solutions for this kind of
 community coined the term *Shramadana*, meaning 'gift of labour', to
@@ -82,12 +82,12 @@ Ariyaratne describes the movement's libertarian vision:
 Sarvodaya Shramadana strives to "Create a no poverty, no affluence, and
 a conflict-free society" and to make sure everyone in Sri Lanka can meet
 basic needs. Author
-"<a   href="John_P._Clark.md" class="wikilink" title="John P. Clark">"John P.
+"<a   href="John_P._Clark.md" class="wikilink" title="John P. Clark">John P.
 Clark</a> has argued that the Sarvodaya Shramadana Movement are
-"<a   href="Anarchism.md" class="wikilink" title="anarchist">"anarchist</a> in
+"<a   href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a> in
 their organisation and goals, noting their inspiration from the
 philosophical anarchist
-"<a   href="Mahatma_Gandhi.md" class="wikilink" title="Mahatma Gandhi">"Mahatma
+"<a   href="Mahatma_Gandhi.md" class="wikilink" title="Mahatma Gandhi">Mahatma
 Gandhi</a>.
 
 ## Ten Basic Needs
@@ -138,7 +138,7 @@ starting a village bank, and offering help to other villages.
 The movement has established more than 5,000 pre-schools and thousands
 of community banks and saving societies. The group distributes funds
 from a financial reserve bank of 1.6 billion
-"<a   href="Sri_Lankan_rupee.md" class="wikilink" title="rupees">"rupees</a>.
+"<a   href="Sri_Lankan_rupee.md" class="wikilink" title="rupees">rupees</a>.
 The movement's peace meditations, dialogues, and workshops have
 attempted to bring healing and coexistence to a country with a history
 of ethnic war.[^6]
@@ -147,7 +147,7 @@ Sarvodaya sponsors public meditations in which tens and sometimes
 hundreds of thousands of Buddhists, Hindus, Muslims and Christians
 meditate together on each other's welfare, using the Buddhist
 "<a   href="Brahmavihara.md" class="wikilink"
-title="Brahmavihara">"Brahmavihara</a> (sublime attitude) meditations,
+title="Brahmavihara">Brahmavihara</a> (sublime attitude) meditations,
 which are acceptable within all faiths.
 
 ## Diversity and Inclusion
@@ -165,12 +165,12 @@ religions and ethnicities:
 ## Information and Communication Technology
 
 "<a   href="Fusion_–_Sarvodaya_ICT4D_Movement.md" class="wikilink"
-title="Fusion – Sarvodaya ICT4D Movement">"Fusion – Sarvodaya ICT4D
+title="Fusion – Sarvodaya ICT4D Movement">Fusion – Sarvodaya ICT4D
 Movement</a> is the ICT for development (ICT4D) program. As a response
 to the emerging digital divide issues of rural Sri Lanka, Sarvodaya
 started setting up telecentres experimentally in 1997. This has led to
 the pioneering
-"<a   href="telecentre.md" class="wikilink" title="telecentre">"telecentre</a>
+"<a   href="telecentre.md" class="wikilink" title="telecentre">telecentre</a>
 program in the country. Village Information Centres (popularly known as
 VICs) are rural libraries, set up by village youth leaders as 'Zero
 Cost' village initiatives, which prepare disadvantaged, less educated
@@ -179,26 +179,26 @@ since early 2000, there are about 21 VICs graduated to their own forms
 of telecentres by mid-2008.
 
 In September 2012, "<a   href="Etisalat_(Sri_Lanka).md" class="wikilink"
-title="Etisalat Sri Lanka">"Etisalat Sri Lanka</a>, a mobile telephony
+title="Etisalat Sri Lanka">Etisalat Sri Lanka</a>, a mobile telephony
 provider in cooperation with Sarvodaya-Fusion, opened *Etisalat Android
 Village Hub*. The program aims to connect rural communities using
 "<a   href="Android_(operating_system).md" class="wikilink"
-title="Android">"Android</a>
-"<a   href="Tablet_(computer).md" class="wikilink" title="tablets">"tablets</a>,
+title="Android">Android</a>
+"<a   href="Tablet_(computer).md" class="wikilink" title="tablets">tablets</a>,
 which the company distributed to 20 families in selected villages for a
 period of two weeks and conduct internet training.
 
 ## Tsunami Relief
 
 On December 26, 2004, at 9 am, waves flooded the fishing town of
-"<a   href="Hambantota.md" class="wikilink" title="Hambantota">"Hambantota</a>.
+"<a   href="Hambantota.md" class="wikilink" title="Hambantota">Hambantota</a>.
 The director of one of the institutes for sustainable agriculture in
 Sarvodaya, "<a   href="Nandana_Jayasinghe.md" class="wikilink"
-title="Nandana Jayasinghe">"Nandana Jayasinghe</a>, was about an hour
+title="Nandana Jayasinghe">Nandana Jayasinghe</a>, was about an hour
 away from the tragedy, in "<a   href="Thanamalwila.md" class="wikilink"
-title="Thanamalwila">"Thanamalwila</a> next to
+title="Thanamalwila">Thanamalwila</a> next to
 "<a   href="Udawalawe_National_Park.md" class="wikilink"
-title="Udawalawe National Park">"Udawalawe National Park</a>. After 6
+title="Udawalawe National Park">Udawalawe National Park</a>. After 6
 hours he arrived in the town with three 10-ton trucks full of food,
 water, blankets and other means of survival. In the following days, he
 organized the next deliveries, and temporary housing for the population
@@ -230,17 +230,17 @@ collection *Entering the Realm of Reality*:
 - [Official Sarvodaya website](https://www.sarvodaya.org)
 
 "<a   href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
-title="Category:Anti-Authoritarian Communities">"Category:Anti-Authoritarian
+title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> "<a   href="Category:Anarchy_In_Action.md" class="wikilink"
-title="Category:Anarchy In Action">"Category:Anarchy In Action</a>
+title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 "<a   href="Category:Sri_Lanka.md" class="wikilink"
-title="Category:Sri Lanka">"Category:Sri Lanka</a>
+title="Category:Sri Lanka">Category:Sri Lanka</a>
 "<a   href="Category:Current_Anarchist_Societies.md" class="wikilink"
-title="Category:Current Anarchist Societies">"Category:Current Anarchist
+title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a> "<a   href="Category:Self-governance.md" class="wikilink"
-title="Category:Self-governance">"Category:Self-governance</a>
+title="Category:Self-governance">Category:Self-governance</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Javier Sethness-Castro, "On Climate Satyagraha: Interview with
     Quincy Saul," *IWW Environmental Unionist Caucus*, 10 April 2015,

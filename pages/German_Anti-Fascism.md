@@ -44,12 +44,12 @@ against Jews:
 <references/>
 
 "<a   href="Catgeory:Germany.md" class="wikilink"
-title="Catgeory:Germany">"Catgeory:Germany</a>
+title="Catgeory:Germany">Catgeory:Germany</a>
 
 "<a   href="Category:Anti-Fascist.md" class="wikilink"
-title="Category:Anti-Fascist">"Category:Anti-Fascist</a>
+title="Category:Anti-Fascist">Category:Anti-Fascist</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Mark Bray, *Antifa: The Anti-Fascist Handbook* (Brooklyn: Melville
     House, 2017), 22-23.

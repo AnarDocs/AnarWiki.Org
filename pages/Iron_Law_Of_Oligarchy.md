@@ -2,31 +2,31 @@
 
 The **iron law of oligarchy** is a
 "<a   href="Political_philosophy.md" class="wikilink"
-title="political theory">"political theory</a> first developed by the
+title="political theory">political theory</a> first developed by the
 German-born Italian
-"<a   href="sociology.md" class="wikilink" title="sociologist">"sociologist</a>
-"<a   href="Robert_Michels.md" class="wikilink" title="Robert Michels">"Robert
+"<a   href="sociology.md" class="wikilink" title="sociologist">sociologist</a>
+"<a   href="Robert_Michels.md" class="wikilink" title="Robert Michels">Robert
 Michels</a> in his 1911 book
 *"<a   href="Political_Parties_(book).md" class="wikilink"
-title="Political Parties">"Political Parties</a>*.[^1] It asserts that
+title="Political Parties">Political Parties</a>*.[^1] It asserts that
 rule by an elite, or
-"<a   href="oligarchy.md" class="wikilink" title="oligarchy">"oligarchy</a>, is
+"<a   href="oligarchy.md" class="wikilink" title="oligarchy">oligarchy</a>, is
 inevitable as an "iron law" within any
-"<a   href="Democracy.md" class="wikilink" title="democratic">"democratic</a>
+"<a   href="Democracy.md" class="wikilink" title="democratic">democratic</a>
 organization as part of the "tactical and technical necessities" of the
 organization. The theory is often used as one of the strongest arguments
 against democracy, especially
 "<a   href="Representative_Democracy.md" class="wikilink"
-title="representative democracy">"representative democracy</a>.
+title="representative democracy">representative democracy</a>.
 
 Michels' theory states that all complex organizations, regardless of how
 democratic they are when started, eventually develop into oligarchies.
 Michels observed that since no sufficiently large and complex
 organization can function purely as a
 "<a   href="direct_democracy.md" class="wikilink"
-title="direct democracy">"direct democracy</a>,
+title="direct democracy">direct democracy</a>,
 "<a   href="Power_(social_and_political).md" class="wikilink"
-title="power">"power</a> within an organization will always get delegated
+title="power">power</a> within an organization will always get delegated
 to individuals within that group, elected or otherwise. As he put it in
 *Political Parties*, "It is organization which gives dominion of the
 elected over the electors. \[...\] Who says organization, says
@@ -35,45 +35,45 @@ oligarchy."[^2]
 According to Michels, all organizations eventually come to be run by a
 leadership class who often function as paid
 "<a   href="Administrator_of_the_government.md" class="wikilink"
-title="administrator">"administrators</a>,
+title="administrator">administrators</a>,
 "<a   href="Executive_(government).md" class="wikilink"
-title="executive">"executives</a>,
+title="executive">executives</a>,
 "<a   href="spokesperson.md" class="wikilink"
-title="spokesperson">"spokespersons</a>, or
+title="spokesperson">spokespersons</a>, or
 "<a   href="Political_consulting.md" class="wikilink"
-title="political strategist">"political strategists</a> for the
+title="political strategist">political strategists</a> for the
 organization. Far from being servants of the masses, Michels argues,
 this leadership class, rather than the organization's membership, will
 inevitably grow to dominate the organization's
-"<a   href="power_structure.md" class="wikilink" title="power structure">"power
+"<a   href="power_structure.md" class="wikilink" title="power structure">power
 structures</a>.[^3]
 
 By controlling who has access to information, those in power can
 "<a   href="Centralized_government.md" class="wikilink"
-title="centralize">"centralize</a> their power, often with little
+title="centralize">centralize</a> their power, often with little
 accountability, due to the
-"<a   href="Voter_apathy.md" class="wikilink" title="apathy">"apathy</a>,
+"<a   href="Voter_apathy.md" class="wikilink" title="apathy">apathy</a>,
 "<a   href="Political_alienation.md" class="wikilink"
-title="indifference">"indifference</a>, and non-participation most
+title="indifference">indifference</a>, and non-participation most
 rank-and-file members have in relation to their organization's
 decision-making processes. Democratic attempts to hold leadership
 positions "<a   href="accountability.md" class="wikilink"
-title="accountable">"accountable</a> are prone to fail, since with power
+title="accountable">accountable</a> are prone to fail, since with power
 comes the ability to reward
-"<a   href="loyalty.md" class="wikilink" title="loyalty">"loyalty</a>, the
+"<a   href="loyalty.md" class="wikilink" title="loyalty">loyalty</a>, the
 ability to control information about the organization, and the ability
 to control what procedures the organization follows when making
 decisions.
 
 All of these mechanisms can be used to strongly influence the outcome of
 any decisions made "democratically" by members.[^4] In 1911, using
-"<a   href="anecdote.md" class="wikilink" title="anecdote">"anecdotes</a> from
+"<a   href="anecdote.md" class="wikilink" title="anecdote">anecdotes</a> from
 the histories of "<a   href="Political_party.md" class="wikilink"
-title="political parties">"political parties</a> and
-"<a   href="trade_union.md" class="wikilink" title="trade union">"trade
+title="political parties">political parties</a> and
+"<a   href="trade_union.md" class="wikilink" title="trade union">trade
 unions</a> struggling to operate democratically, Michels applied his
 argument to "<a   href="representative_democracy.md" class="wikilink"
-title="representative democracy">"representative democracy</a> at large.
+title="representative democracy">representative democracy</a> at large.
 He believed that "Historical evolution mocks all the prophylactic
 measures that have been adopted for the prevention of oligarchy."[^5]
 
@@ -83,9 +83,9 @@ In 1911, Robert Michels argued that the socialist parties of Europe,
 despite their democratic ideology and provisions for mass participation,
 seemed to be dominated by their leaders just like traditional
 "<a   href="Conservatism.md" class="wikilink"
-title="conservative">"conservative</a> parties. Michels' conclusion was
+title="conservative">conservative</a> parties. Michels' conclusion was
 that the problem lay in the nature of organizations. The more
-"<a   href="Liberalism.md" class="wikilink" title="liberal">"liberal</a> and
+"<a   href="Liberalism.md" class="wikilink" title="liberal">liberal</a> and
 democratic modern era allowed the formation of organizations with novel
 and revolutionary goals, but as such organizations become more complex,
 they became less and less democratic and revolutionary. Michels
@@ -93,13 +93,13 @@ formulated the "iron law of oligarchy": "Who says organization, says
 oligarchy."
 
 Michels himself was originally a "<a   href="Syndicalism.md" class="wikilink"
-title="Syndicalist">"Syndicalist</a>, but he later became an important
+title="Syndicalist">Syndicalist</a>, but he later became an important
 ideologue of "<a   href="Benito_Mussolini.md" class="wikilink"
-title="Benito Mussolini">"Benito Mussolini</a>'s
-"<a   href="fascism.md" class="wikilink" title="fascist">"fascist</a> regime in
+title="Benito Mussolini">Benito Mussolini</a>'s
+"<a   href="fascism.md" class="wikilink" title="fascist">fascist</a> regime in
 Italy, teaching economics at the
 "<a   href="University_of_Perugia.md" class="wikilink"
-title="University of Perugia">"University of Perugia</a>.[^6][^7]
+title="University of Perugia">University of Perugia</a>.[^6][^7]
 
 ## Reasons
 
@@ -118,7 +118,7 @@ oligarchy. Darcy K. Leach summarized them briefly as: "Bureaucracy
 happens. If bureaucracy happens, power rises. Power corrupts." Any large
 organization, Michels pointed out, has to create a
 "<a   href="bureaucracy.md" class="wikilink"
-title="bureaucracy">"bureaucracy</a> to maintain its efficiency as it
+title="bureaucracy">bureaucracy</a> to maintain its efficiency as it
 becomes larger—many decisions have to be made daily that cannot be made
 by large numbers of disorganized people. For the organization to
 function, centralization has to occur and power will end up in the hands
@@ -129,12 +129,12 @@ According to Michels, this process is further compounded as delegation
 is necessary in any large organization, as thousands—sometimes hundreds
 of thousands—of members cannot make decisions via
 "<a   href="participatory_democracy.md" class="wikilink"
-title="participatory democracy">"participatory democracy</a>. This has to
+title="participatory democracy">participatory democracy</a>. This has to
 date been dictated by the lack of "<a   href="technology.md" class="wikilink"
-title="technological means">"technological means</a> for large numbers of
+title="technological means">technological means</a> for large numbers of
 people to meet and debate, and also by matters related to
 "<a   href="crowd_psychology.md" class="wikilink"
-title="crowd psychology">"crowd psychology</a>, as Michels argued that
+title="crowd psychology">crowd psychology</a>, as Michels argued that
 people feel a need to be led. Delegation leads to specialization—to the
 development of knowledge bases, skills and resources among a
 leadership—which further alienates the leadership from the rank and file
@@ -144,31 +144,31 @@ These are elementary psychological facts." Thus, they were prone to seek
 power and dominance.[^9]
 
 Bureaucratization and "<a   href="Departmentalization.md" class="wikilink"
-title="specialization">"specialization</a> are the driving processes
+title="specialization">specialization</a> are the driving processes
 behind the iron law. They result in the rise of a group of professional
 administrators in a "<a   href="hierarchical_organization.md" class="wikilink"
-title="hierarchical organization">"hierarchical organization</a>, which
+title="hierarchical organization">hierarchical organization</a>, which
 in turn leads to the
 "<a   href="Rationalization_(sociology).md" class="wikilink"
-title="rationalization">"rationalization</a> and
+title="rationalization">rationalization</a> and
 "<a   href="Routinization_of_charisma.md" class="wikilink"
-title="routinization">"routinization</a> of
-"<a   href="authority.md" class="wikilink" title="authority">"authority</a> and
+title="routinization">routinization</a> of
+"<a   href="authority.md" class="wikilink" title="authority">authority</a> and
 "<a   href="decision-making.md" class="wikilink"
-title="decision-making">"decision-making</a>, a process described first
+title="decision-making">decision-making</a>, a process described first
 and perhaps best by
-"<a   href="Max_Weber.md" class="wikilink" title="Max Weber">"Max Weber</a>,
+"<a   href="Max_Weber.md" class="wikilink" title="Max Weber">Max Weber</a>,
 later by "<a   href="John_Kenneth_Galbraith.md" class="wikilink"
-title="John Kenneth Galbraith">"John Kenneth Galbraith</a>, and to a
+title="John Kenneth Galbraith">John Kenneth Galbraith</a>, and to a
 lesser and more cynical extent by the
-"<a   href="Peter_principle.md" class="wikilink" title="Peter principle">"Peter
+"<a   href="Peter_principle.md" class="wikilink" title="Peter principle">Peter
 principle</a>. Bureaucracy, by design, leads to centralization of power
 by the leaders. Leaders also have control over sanctions and rewards.
 They tend to promote those who share their opinions, which inevitably
 leads to self-perpetuation. People achieve leadership positions because
 they have above-average political skill (see
 "<a   href="Charismatic_authority.md" class="wikilink"
-title="Charismatic authority">"Charismatic authority</a>). As they
+title="Charismatic authority">Charismatic authority</a>). As they
 advance in their careers, their power and prestige increases. Leaders
 control the information that flows down the channels of communication,
 censoring what they do not want the rank-and-file to know. Leaders will
@@ -183,7 +183,7 @@ judgement and issue directives to follow.
 The "iron law of oligarchy" states that all forms of organization,
 regardless of how democratic they may be at the start, will eventually
 and inevitably develop
-"<a   href="oligarchy.md" class="wikilink" title="oligarchic">"oligarchic</a>
+"<a   href="oligarchy.md" class="wikilink" title="oligarchic">oligarchic</a>
 tendencies, thus making true democracy practically and theoretically
 impossible, especially in large groups and complex organizations. The
 relative structural fluidity in a small-scale democracy succumbs to
@@ -196,31 +196,31 @@ law", democracy and large-scale organization are incompatible.
 
 An example that Michels used in his book was Germany's
 "<a   href="Social_Democratic_Party_of_Germany.md" class="wikilink"
-title="Social Democratic Party">"Social Democratic Party</a>. Other
+title="Social Democratic Party">Social Democratic Party</a>. Other
 well-studied examples include the German Green Party.
 
 ### Labour Unions and Lipset's Union Democracy
 
 One of the best known exceptions to the iron law of oligarchy is the now
 defunct "<a   href="International_Typographical_Union.md" class="wikilink"
-title="International Typographical Union">"International Typographical
+title="International Typographical Union">International Typographical
 Union</a>, described by "<a   href="Seymour_Martin_Lipset.md" class="wikilink"
-title="Seymour Martin Lipset">"Seymour Martin Lipset</a> in his 1956
+title="Seymour Martin Lipset">Seymour Martin Lipset</a> in his 1956
 book,
-*"<a   href="Union_Democracy.md" class="wikilink" title="Union Democracy">"Union
+*"<a   href="Union_Democracy.md" class="wikilink" title="Union Democracy">Union
 Democracy</a>*.[^10] Lipset suggests a number of factors that existed in
 the ITU that are supposedly responsible for countering this tendency
 toward bureaucratic oligarchy. The first and perhaps most important has
 to do with the way the union was founded. Unlike many other unions
 (e.g., the
 "<a   href="Congress_of_Industrial_Organizations.md" class="wikilink"
-title="CIO">"CIO</a>'s
+title="CIO">CIO</a>'s
 "<a   href="United_Steel_Workers_of_America.md" class="wikilink"
-title="United Steel Workers of America">"United Steel Workers of
+title="United Steel Workers of America">United Steel Workers of
 America</a> (USWA), and numerous other craft unions) which were
 organized from the top down, the ITU had a number of large, strong,
 local unions who valued their
-"<a   href="autonomy.md" class="wikilink" title="autonomy">"autonomy</a>, which
+"<a   href="autonomy.md" class="wikilink" title="autonomy">autonomy</a>, which
 existed long before the international was formed. This local autonomy
 was strengthened by the economy of the printing industry which operated
 in largely local and regional markets, with little competition from
@@ -239,7 +239,7 @@ are specific to craft unions in general and the printing crafts in
 particular, including the homogeneity of the membership, with respect to
 their work and lifestyles, their identification with their craft, their
 more middle class lifestyle and pay. For this latter point he draws upon
-"<a   href="Aristotle.md" class="wikilink" title="Aristotle">"Aristotle</a> who
+"<a   href="Aristotle.md" class="wikilink" title="Aristotle">Aristotle</a> who
 argued that a democratic polity was most likely where there was a large,
 stable middle class, and the extremes of wealth and poverty were not
 great. Finally, the authors note the irregular work hours which led
@@ -261,7 +261,7 @@ Research by Piotr Konieczny from 2009, a case study of the evolution of
 Wikipedia's policy on verifiability, argued that Wikipedia is not
 significantly affected by the iron law.[^12] A 2016 study by Bradi
 Heaberlin and Simon DeDeo has found that the evolution of
-"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">"Wikipedia</a>'s
+"<a   href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>'s
 network of norms over time is consistent with the iron law of oligarchy.
 Their quantitative analysis is based on data-mining over a decade of
 article and user information. It shows the emergence of an oligarchy
@@ -272,7 +272,7 @@ universal principles, such as neutrality, verifiability, civility, and
 consensus. The ambiguity and interpretability of these abstract concepts
 may drive them to decouple from each other over time."[^13] This view
 conflicts with the view proposed by
-"<a   href="Anarchy_Works.md" class="wikilink" title="some">"some</a> that
+"<a   href="Anarchy_Works.md" class="wikilink" title="some">some</a> that
 Wikipedia is democratic and self-improving, but the lack of formal
 hierarchies in Wikipedia and commitment to certain ideals prevent a
 fixed hierarchy and keeps Wikipedia open-source.
@@ -286,7 +286,7 @@ from becoming oligarchical.
 
 In his book *Gemeindefreiheit als Rettung Europas*, published in 1943
 (first edition in German) with a second edition in 1947 (in German),
-"<a   href="Adolf_Gasser.md" class="wikilink" title="Adolf Gasser">"Adolf
+"<a   href="Adolf_Gasser.md" class="wikilink" title="Adolf Gasser">Adolf
 Gasser</a> stated the following requirements for a representative
 democracy to remain stable, unaffected by Michels' iron law of
 oligarchy:
@@ -308,18 +308,18 @@ anarchists.
 ## Reception
 
 In 1954, "<a   href="Maurice_Duverger.md" class="wikilink"
-title="Maurice Duverger">"Maurice Duverger</a> expressed general
+title="Maurice Duverger">Maurice Duverger</a> expressed general
 agreement with Michels's thesis. In a 1953 study, C. W. Cassinelli
 argued that Michels's main thesis has "a high degree of general
 credibility", but argued that the statement of the theory was
 "inadequate" and that Michels's evidence for the theory was
 "inconclusive".[^14] In a 1966 article, political scientist
 "<a   href="Dankwart_Rustow.md" class="wikilink"
-title="Dankwart Rustow">"Dankwart Rustow</a> described Michels's thesis
+title="Dankwart Rustow">Dankwart Rustow</a> described Michels's thesis
 as "a brilliantly fallacious argument a fortiori".[^15] Rustow stated
 that the experience of the social democratic parties of Europe could not
 be generalized for other political parties.
-"<a   href="Josiah_Ober.md" class="wikilink" title="Josiah Ober">"Josiah
+"<a   href="Josiah_Ober.md" class="wikilink" title="Josiah Ober">Josiah
 Ober</a> argues in *Democracy and Knowledge* that the experience of
 ancient Athens shows Michels's argument does not hold true; Athens was a
 large participatory democracy, yet it outperformed its hierarchical
@@ -351,7 +351,7 @@ that had a democratic process and ideology).[^19][^20]
 Michels' thesis became popular once more in the postwar United States
 with the publication of *"<a   href="Union_Democracy:_The_Internal_Politics_of_the_International_Typographical_Union.md"
 class="wikilink"
-title="Union Democracy: The Internal Politics of the International Typographical Union">"Union
+title="Union Democracy: The Internal Politics of the International Typographical Union">Union
 Democracy: The Internal Politics of the International Typographical
 Union</a>* (1956) by Lipset, Trow, and Coleman.
 
@@ -360,22 +360,22 @@ Union</a>* (1956) by Lipset, Trow, and Coleman.
 The iron law of oligarchy is similar to the concept in
 *"<a   href="The_Theory_and_Practice_of_Oligarchical_Collectivism.md"
 class="wikilink"
-title="The Theory and Practice of Oligarchical Collectivism">"The Theory
+title="The Theory and Practice of Oligarchical Collectivism">The Theory
 and Practice of Oligarchical Collectivism</a>*, a
 "<a   href="fictional_book.md" class="wikilink"
-title="fictional book">"fictional book</a> in the
-"<a   href="dystopia.md" class="wikilink" title="dystopia">"dystopian</a> novel
+title="fictional book">fictional book</a> in the
+"<a   href="dystopia.md" class="wikilink" title="dystopia">dystopian</a> novel
 *"<a   href="Nineteen_Eighty-Four.md" class="wikilink"
-title="Nineteen Eighty-Four">"Nineteen Eighty-Four</a>* (1984) by
-"<a   href="George_Orwell.md" class="wikilink" title="George Orwell">"George
+title="Nineteen Eighty-Four">Nineteen Eighty-Four</a>* (1984) by
+"<a   href="George_Orwell.md" class="wikilink" title="George Orwell">George
 Orwell</a>, who had written a review of
-"<a   href="James_Burnham.md" class="wikilink" title="James Burnham">"James
+"<a   href="James_Burnham.md" class="wikilink" title="James Burnham">James
 Burnham</a>'s book *"<a   href="The_Managerial_Revolution.md" class="wikilink"
-title="The Managerial Revolution">"The Managerial Revolution</a>* several
+title="The Managerial Revolution">The Managerial Revolution</a>* several
 years earlier. That fictional book begins:
 
 "Throughout recorded time, and probably since the end of the
-"<a   href="Neolithic_Age.md" class="wikilink" title="Neolithic Age">"Neolithic
+"<a   href="Neolithic_Age.md" class="wikilink" title="Neolithic Age">Neolithic
 Age</a>, there have been three kinds of people in the world, the High,
 the Middle, and the Low. They have been subdivided in many ways, they
 have borne countless different names, and their relative numbers, as
@@ -390,20 +390,20 @@ equilibrium, however far it is pushed one way or the other."[^21]
 See -
 
 - "<a   href="Horizontal_Economic_Planning.md" class="wikilink"
-  title="Horizontal Economic Planning">"Horizontal Economic Planning</a>
+  title="Horizontal Economic Planning">Horizontal Economic Planning</a>
 - "<a   href="Decisions_Introduction.md" class="wikilink"
-  title="Anarchist Decision Making">"Anarchist Decision Making</a>
+  title="Anarchist Decision Making">Anarchist Decision Making</a>
 
 "<a   href="Category:Oligarchy.md" class="wikilink"
-title="Category:Oligarchy">"Category:Oligarchy</a>
+title="Category:Oligarchy">Category:Oligarchy</a>
 "<a   href="Category:Wikipedia.md" class="wikilink"
-title="Category:Wikipedia">"Category:Wikipedia</a>
+title="Category:Wikipedia">Category:Wikipedia</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Sociology.md" class="wikilink"
-title="Category:Sociology">"Category:Sociology</a>
+title="Category:Sociology">Category:Sociology</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Hyland, James L. (1995). Democratic theory: the philosophical
     foundations. Manchester University Press. p. 247.

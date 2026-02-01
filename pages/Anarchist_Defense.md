@@ -16,7 +16,7 @@ entire territories, societies, and revolutionary transformations from
 organized military forces and counter-revolutionary campaigns. For local
 community protection against police violence, fascist attacks, and
 everyday threats, see "<a   href="Community_Defense.md" class="wikilink"
-title="Community Defense">"Community Defense</a>.
+title="Community Defense">Community Defense</a>.
 
 The fundamental principle is that defense must be consistent with
 anarchist values of freedom, voluntary association, and self-management.
@@ -66,7 +66,7 @@ principles.
 Anarchist defense at the revolutionary scale operates according to
 specific principles that distinguish it from both state militaries and
 smaller-scale "<a   href="Community_Self-Defense.md" class="wikilink"
-title="community protection">"community protection</a>:
+title="community protection">community protection</a>:
 
 ### Armed Population
 
@@ -84,7 +84,7 @@ conscripts or mercenaries disappear."[^8]
 This distinguishes revolutionary defense from both professional armies
 and the more localized forms of community protection. While
 "<a   href="Community_Self-Defense.md" class="wikilink"
-title="community self-defense">"community self-defense</a> may involve
+title="community self-defense">community self-defense</a> may involve
 specific trained individuals responding to immediate threats,
 revolutionary defense requires the general armament and military
 preparedness of the entire population.
@@ -170,7 +170,7 @@ centurias have their say."[^13]
 
 The militia structure differs from
 "<a   href="Community_Self-Defense.md" class="wikilink"
-title="community self-defense">"community self-defense</a> models in its
+title="community self-defense">community self-defense</a> models in its
 scale and permanence during revolutionary periods. While community
 defense may involve temporary mobilization for specific threats,
 revolutionary militias represent sustained military campaigns against
@@ -503,7 +503,7 @@ better coordination among anti-authoritarian forces globally.
 
 Large-scale revolutionary defense and
 "<a   href="Community_Self-Defense.md" class="wikilink"
-title="community self-defense">"community self-defense</a> represent
+title="community self-defense">community self-defense</a> represent
 different scales and contexts of anarchist protection, though they share
 fundamental principles.
 
@@ -511,7 +511,7 @@ Community self-defense typically addresses immediate local threats -
 police violence, fascist attacks, displacement - through neighborhood
 patrols, copwatch programs, rapid response teams, and survival programs.
 It operates within existing society as part of
-"<a   href="Dual_Power.md" class="wikilink" title="dual power">"dual power</a>
+"<a   href="Dual_Power.md" class="wikilink" title="dual power">dual power</a>
 strategies, building autonomous capacity while resisting oppression.
 
 Revolutionary defense operates at the scale of defending entire
@@ -552,7 +552,7 @@ odds.
 capabilities within existing society, creating foundations for
 revolutionary transformation. This includes developing
 "<a   href="Community_Self-Defense.md" class="wikilink"
-title="community self-defense">"community self-defense</a> capacities
+title="community self-defense">community self-defense</a> capacities
 that could scale up if revolutionary opportunities emerge.
 
 **Intersection with other struggles** including anti-colonial
@@ -610,19 +610,19 @@ learning from indigenous resistance practices.
 ## See Also
 
 - "<a   href="Community_Defense.md" class="wikilink"
-  title="Community Defense">"Community Defense</a> - Local protection
+  title="Community Defense">Community Defense</a> - Local protection
   against immediate threats
-- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">"Mutual Aid</a>
+- "<a   href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 - "<a   href="Workers&#39;_Council.md" class="wikilink"
-  title="Workers&#39; Council">"Workers' Council</a>
+  title="Workers&#39; Council">Workers' Council</a>
 - "<a   href="Spanish_Revolution.md" class="wikilink"
-  title="Spanish Revolution">"Spanish Revolution</a>
+  title="Spanish Revolution">Spanish Revolution</a>
 - "<a   href="Makhnovist_Movement.md" class="wikilink"
-  title="Makhnovist Movement">"Makhnovist Movement</a>
+  title="Makhnovist Movement">Makhnovist Movement</a>
 - "<a   href="Anti-Fascism.md" class="wikilink"
-  title="Anti-Fascism">"Anti-Fascism</a>
+  title="Anti-Fascism">Anti-Fascism</a>
 - "<a   href="Revolutionary_Strategy.md" class="wikilink"
-  title="Revolutionary Strategy">"Revolutionary Strategy</a>
+  title="Revolutionary Strategy">Revolutionary Strategy</a>
 
 ## External links
 
@@ -645,23 +645,23 @@ learning from indigenous resistance practices.
 <references/>
 
 "<a   href="Category:Anarchist_Concepts.md" class="wikilink"
-title="Category:Anarchist Concepts">"Category:Anarchist Concepts</a>
+title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 "<a   href="Category:Concepts.md" class="wikilink"
-title="Category:Concepts">"Category:Concepts</a>
+title="Category:Concepts">Category:Concepts</a>
 "<a   href="Category:Anarchism.md" class="wikilink"
-title="Category:Anarchism">"Category:Anarchism</a>
+title="Category:Anarchism">Category:Anarchism</a>
 "<a   href="Category:Libertarian_Socialism.md" class="wikilink"
-title="Category:Libertarian Socialism">"Category:Libertarian
+title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> "<a   href="Category:Revolutionary_Strategy.md" class="wikilink"
-title="Category:Revolutionary Strategy">"Category:Revolutionary
+title="Category:Revolutionary Strategy">Category:Revolutionary
 Strategy</a> "<a   href="Category:Military_Theory.md" class="wikilink"
-title="Category:Military Theory">"Category:Military Theory</a>
+title="Category:Military Theory">Category:Military Theory</a>
 "<a   href="Category:Self-Defense.md" class="wikilink"
-title="Category:Self-Defense">"Category:Self-Defense</a>
+title="Category:Self-Defense">Category:Self-Defense</a>
 "<a   href="Category:AnarWiki.md" class="wikilink"
-title="Category:AnarWiki">"Category:AnarWiki</a>
+title="Category:AnarWiki">Category:AnarWiki</a>
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Berkman, Alexander. "What is Communist Anarchism?" Chapter 31:
     Defense of the Revolution.

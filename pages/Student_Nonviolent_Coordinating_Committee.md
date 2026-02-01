@@ -5,7 +5,7 @@
 
 The "<a   href="Wikipedia:Student_Nonviolent_Coordinating_Committee.md"
 class="wikilink"
-title="Student Nonviolent Coordinating Committee">"Student Nonviolent
+title="Student Nonviolent Coordinating Committee">Student Nonviolent
 Coordinating Committee</a>, or SNCC, coordinated a network of autonomous
 student groups in the U.S. Civil Rights and Black Liberation movements
 from 1960 into the 1970s. According to historian Howard Zinn, "SNCC
@@ -41,7 +41,7 @@ which "for some--not all--meant black nationalism".[^4] It changed its
 name in 1969 to Student National Coordinating Committee. By 1971, the
 group "had all but disappeared."[^5] Many SNCC members went on to work
 with the "<a   href="Black_Panther_Party_and_Anarchy.md" class="wikilink"
-title="Black Panther Party">"Black Panther Party</a>.
+title="Black Panther Party">Black Panther Party</a>.
 
 # Structure
 

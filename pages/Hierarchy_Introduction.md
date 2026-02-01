@@ -103,4 +103,4 @@ possible social arrangement—one that anarchists have consistently
 demonstrated can be replaced with more liberatory alternatives.
 
 See a more in depth article on
-"<a   href="Hierarchy.md" class="wikilink" title="Hierarchy">"Hierarchy</a>.
+"<a   href="Hierarchy.md" class="wikilink" title="Hierarchy">Hierarchy</a>.

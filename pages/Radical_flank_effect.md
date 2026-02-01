@@ -31,9 +31,9 @@ increasing radicalism:
 <references/>
 
 "<a   href="Category:Tactics.md" class="wikilink"
-title="Category:Tactics">"Category:Tactics</a>
+title="Category:Tactics">Category:Tactics</a>
 "<a   href="Category:Direct_Action.md" class="wikilink"
-title="Category:Direct Action">"Category:Direct Action</a>
+title="Category:Direct Action">Category:Direct Action</a>
 
 [^1]: Herbert H. Haines, *Black Radicals and the Civil Rights
     Mainstream, 1954-1970* (Knoxville: University of Tennessee Press

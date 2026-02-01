@@ -16,7 +16,7 @@ Turkey, Iran, Syria and Iraq. Since 1999, their struggle for
 self-determination has taken an anarchstic turn, and communities in
 Kurdistan have established direct democratic governance modelled on the
 anti-authoritarian "<a   href="Zapatista-run_Chiapas.md" class="wikilink"
-title="neo-Zapatista movement">"neo-Zapatista movement</a> and the
+title="neo-Zapatista movement">neo-Zapatista movement</a> and the
 theories of US anarchist Murray Bookchin. While Kurds comprise the
 majority, the movement has been diverse and multi-ethnic. For example,
 in the canton of Jazira in Rojava (Syrian Kurdistan), Kurds, Arabs,
@@ -248,7 +248,7 @@ the top-down ones."[^24]
 According to Dilar Dirik, Syriacs in particular have found a role for
 themselves in the AANES’s Democratic Confederalist project, and Syriac
 women lead an effort to conserve the Aramaic language spoken by
-"<a   href="Early_Christians.md" class="wikilink" title="Jesus Christ">"Jesus
+"<a   href="Early_Christians.md" class="wikilink" title="Jesus Christ">Jesus
 Christ</a>.[^25]
 
 A majority of the region's residents are most likely Arab.[^26] Most of
@@ -450,7 +450,7 @@ regardless of their position or rank."[^59]
 <references/>
 
 "<a   href="Category:Featured.md" class="wikilink"
-title="Category:Featured">"Category:Featured</a>
+title="Category:Featured">Category:Featured</a>
 
 [^1]: Constitution of the Rojava Cantons,
     <http://civiroglu.net/the-constitution-of-the-rojava-cantons/>

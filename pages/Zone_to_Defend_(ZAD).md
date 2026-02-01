@@ -92,9 +92,9 @@ football stadium and one at Sivens against a dam.[^7]
 <references/>
 
 "<a   href="Category:Autonomous_Zones.md" class="wikilink"
-title="Category:Autonomous Zones">"Category:Autonomous Zones</a>
+title="Category:Autonomous Zones">Category:Autonomous Zones</a>
 "<a   href="Category:France.md" class="wikilink"
-title="Category:France">"Category:France</a>
+title="Category:France">Category:France</a>
 
 [^1]: Crimethinc, "La ZAD: Another End of the World is Possible:
     Learning from 50 Years of Struggle at Notre-Dame-des-Landes",

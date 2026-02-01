@@ -11,13 +11,13 @@ alongside the nationalist movement.[^2]
 <references/>
 
 "<a   href="Category:Egypt.md" class="wikilink"
-title="Category:Egypt">"Category:Egypt</a>
+title="Category:Egypt">Category:Egypt</a>
 "<a   href="Category:North_Africa.md" class="wikilink"
-title="Category:North Africa">"Category:North Africa</a>
+title="Category:North Africa">Category:North Africa</a>
 "<a   href="Category:Anarchist_Organizations.md" class="wikilink"
-title="Category:Anarchist Organizations">"Category:Anarchist
+title="Category:Anarchist Organizations">Category:Anarchist
 Organizations</a> "<a   href="Category:Organizations.md" class="wikilink"
-title="Category:Organizations">"Category:Organizations</a>
+title="Category:Organizations">Category:Organizations</a>
 
 [^1]: Anthony Gorman, "'Diverse in Race, Religion and Nationality...But
     United in Aspirations of Civil Progress': The Anarchist Movement in
