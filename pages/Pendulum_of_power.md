@@ -82,7 +82,7 @@ laughter.[^9]
 <references/>
 
 [^1]: Gelderloos,
-    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^2]: Morna Finnegan, "The Politics of Eros: ritual dialogue and

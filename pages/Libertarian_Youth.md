@@ -3,16 +3,16 @@
 The **Iberian Federation of Libertarian Youth** (Spanish: *Federación
 Ibérica de Juventudes Libertarias*, **FIJL**), commonly known as
 **Libertarian Youth** (*Juventudes Libertarias*), is an
-<a href="Anarcho-syndicalism.md" class="wikilink"
+<a href="Anarcho-syndicalism" class="wikilink"
 title="anarcho-syndicalist">anarcho-syndicalist</a> youth organization
 founded in 1932 in
-<a href="Madrid.md" class="wikilink" title="Madrid">Madrid</a>. The
+<a href="Madrid" class="wikilink" title="Madrid">Madrid</a>. The
 organization represents the youth wing of the broader Spanish anarchist
 movement and has historically maintained close ties with the
-<a href="Confederación_Nacional_del_Trabajo.md" class="wikilink"
+<a href="Confederación_Nacional_del_Trabajo" class="wikilink"
 title="Confederación Nacional del Trabajo">Confederación Nacional del
 Trabajo</a> (CNT) and the
-<a href="Iberian_Anarchist_Federation.md" class="wikilink"
+<a href="Iberian_Anarchist_Federation" class="wikilink"
 title="Iberian Anarchist Federation">Iberian Anarchist Federation</a>
 (FAI), while maintaining its organizational independence.
 
@@ -21,7 +21,7 @@ title="Iberian Anarchist Federation">Iberian Anarchist Federation</a>
 ### Origins
 
 The FIJL was created in 1932 in Madrid during the period of the
-<a href="Second_Spanish_Republic.md" class="wikilink"
+<a href="Second_Spanish_Republic" class="wikilink"
 title="Second Spanish Republic">Second Spanish Republic</a>.[^1] Unlike
 some youth organizations that functioned as subordinate sections of
 parent organizations, the FIJL established itself as the third
@@ -43,9 +43,9 @@ participated in a national plenum of the libertarian movement in
 Barcelona alongside the CNT and FAI, demonstrating its equal standing
 within the broader movement.[^3]
 
-During the <a href="Spanish_Civil_War.md" class="wikilink"
+During the <a href="Spanish_Civil_War" class="wikilink"
 title="Spanish Civil War">Spanish Civil War</a> and
-<a href="Spanish_Revolution.md" class="wikilink"
+<a href="Spanish_Revolution" class="wikilink"
 title="Spanish Revolution">Spanish Revolution</a>, the FIJL played a
 vital role in both military resistance to fascism and revolutionary
 transformation. The organization maintained its revolutionary principles
@@ -54,16 +54,16 @@ controversial decisions to participate in government structures.
 
 During the May Days of 1937, when conflicts erupted between anarchists
 and
-<a href="Stalinism.md" class="wikilink" title="Stalinists">Stalinists</a>
+<a href="Stalinism" class="wikilink" title="Stalinists">Stalinists</a>
 in Barcelona, many FIJL members were murdered by forces acting under
 Stalin's orders.[^4] The organization suffered severe repression but
 continued its resistance activities.
 
 The FIJL's most famous member was
-<a href="Federico_Borrell_García.md" class="wikilink"
+<a href="Federico_Borrell_García" class="wikilink"
 title="Federico Borrell García">Federico Borrell García</a>,
 immortalized in
-<a href="Robert_Capa.md" class="wikilink" title="Robert Capa">Robert
+<a href="Robert_Capa" class="wikilink" title="Robert Capa">Robert
 Capa</a>'s photograph *The Falling Soldier*, which captured the moment
 of his death during the war in 1936.
 
@@ -71,10 +71,10 @@ of his death during the war in 1936.
 
 Following the Republican defeat in 1939, the FIJL operated on two
 fronts: a section in exile based in
-<a href="Paris.md" class="wikilink" title="Paris">Paris</a>, and a
+<a href="Paris" class="wikilink" title="Paris">Paris</a>, and a
 clandestine domestic organization under Franco's dictatorship. Some FIJL
 members became associated with the militant
-<a href="First_of_May_Group.md" class="wikilink"
+<a href="First_of_May_Group" class="wikilink"
 title="First of May Group">First of May Group</a>, which carried out
 direct action operations against the Franco regime.[^5]
 
@@ -84,7 +84,7 @@ repression of Spanish republican exile organizations.[^6]
 ### 21st Century
 
 During the early 2000s, the FIJL evolved toward
-<a href="Insurrectionary_anarchism.md" class="wikilink"
+<a href="Insurrectionary_anarchism" class="wikilink"
 title="insurrectionist">insurrectionist</a> positions, influenced by
 black bloc tactics in anti-globalization protests and developments in
 the Italian and Greek anarchist movements. This shift created tensions
@@ -132,7 +132,7 @@ organisations."[^11]
 
 *Ruta* featured prominent anarchist writers including Felipe Alaiz,
 Higinio Noja Ruiz, Lucía Sánchez Saornil (founder of
-<a href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
+<a href="Mujeres_Libres" class="wikilink" title="Mujeres Libres">Mujeres
 Libres</a>), and many others. The paper continued publication in
 Barcelona until 26 January 1939, when fascist forces captured the city.
 
@@ -156,7 +156,7 @@ The 1930s saw significant anarchist youth organizing in the United
 States, primarily driven by second-generation immigrants seeking to
 break through linguistic barriers erected by their parents' generation.
 These young anarchists, often educated in rationalist schools like the
-<a href="Ferrer_Modern_School.md" class="wikilink"
+<a href="Ferrer_Modern_School" class="wikilink"
 title="Ferrer Modern School">Ferrer Modern School</a>, produced
 English-language publications to reach beyond ethnic enclaves.
 
@@ -176,7 +176,7 @@ of the smug generalities of the older generation."[^14]
 
 *Vanguard* maintained high theoretical standards while critiquing both
 capitalism and the growing influence of
-<a href="Stalinism.md" class="wikilink" title="Stalinism">Stalinism</a>.
+<a href="Stalinism" class="wikilink" title="Stalinism">Stalinism</a>.
 The journal devoted significant space to developments in Spain during
 the civil war and maintained an uncompromising anarcho-communist
 position. At its peak in 1938, *Vanguard* claimed 6,000
@@ -277,21 +277,21 @@ compromises that damaged the CNT and FAI during the civil war.
 
 <references/>
 
-<a href="Category:Anarchist_Organisations.md" class="wikilink"
+<a href="Category:Anarchist_Organisations" class="wikilink"
 title="Category:Anarchist Organisations">Category:Anarchist
-Organisations</a> <a href="Category:Spain.md" class="wikilink"
+Organisations</a> <a href="Category:Spain" class="wikilink"
 title="Category:Spain">Category:Spain</a>
-<a href="Category:Anarcho-syndicalism.md" class="wikilink"
+<a href="Category:Anarcho-syndicalism" class="wikilink"
 title="Category:Anarcho-syndicalism">Category:Anarcho-syndicalism</a>
-<a href="Category:Youth_Organisations.md" class="wikilink"
+<a href="Category:Youth_Organisations" class="wikilink"
 title="Category:Youth Organisations">Category:Youth Organisations</a>
-<a href="Category:Anti-Fascism.md" class="wikilink"
+<a href="Category:Anti-Fascism" class="wikilink"
 title="Category:Anti-Fascism">Category:Anti-Fascism</a>
-<a href="Category:Spanish_Civil_War.md" class="wikilink"
+<a href="Category:Spanish_Civil_War" class="wikilink"
 title="Category:Spanish Civil War">Category:Spanish Civil War</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: George Richard Esenwein, *The Spanish Civil War: A Modern

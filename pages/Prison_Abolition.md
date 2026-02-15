@@ -3,9 +3,9 @@
 Prison is not merely a building with bars and walls—it is the most
 direct and brutal expression of state power over human life. From an
 anarchist perspective, the institution of
-<a href="prison.md" class="wikilink" title="prison">prison</a> represents
+<a href="prison" class="wikilink" title="prison">prison</a> represents
 everything that is wrong with
-<a href="hierarchical_society.md" class="wikilink"
+<a href="hierarchical_society" class="wikilink"
 title="hierarchical society">hierarchical society</a>: the concentration
 of power in the hands of the few, the dehumanization of the many, and
 the perpetuation of social control through violence and coercion.
@@ -19,14 +19,14 @@ is no question with which Anarchists are more commonly met than, "What
 is to be done with criminals in a society where there is no
 government?"** Yet this question itself reveals a fundamental
 misunderstanding of what
-<a href="prison.md" class="wikilink" title="prison">prison</a> actually
+<a href="prison" class="wikilink" title="prison">prison</a> actually
 represents.
 
 Prison is not an aberration of an otherwise just system—it is the system
 working exactly as intended. As one anonymous writer noted in 1887, [^2]
 **society first manufactures criminals and then punishes them.** The
 modern
-<a href="prison_system.md" class="wikilink" title="prison system">prison
+<a href="prison_system" class="wikilink" title="prison system">prison
 system</a> exists not to address harm or protect communities, but to
 maintain existing power structures and social hierarchies.
 
@@ -50,24 +50,24 @@ The reasons for this failure are clear:
 
 ### Prison as Social Control
 
-Modern <a href="prison_abolition.md" class="wikilink"
+Modern <a href="prison_abolition" class="wikilink"
 title="prison abolition">prison abolition</a> theorist Wayne Price notes
 that [^4] **laws, legislatures, police, courts, and prisons exist to
 maintain the power and wealth of the capitalist class and its state
 officials.** The greatest "crimes" are those committed by the ruling
-class through <a href="exploitation.md" class="wikilink"
+class through <a href="exploitation" class="wikilink"
 title="exploitation">exploitation</a>,
-<a href="war.md" class="wikilink" title="war">war</a>, and environmental
+<a href="war" class="wikilink" title="war">war</a>, and environmental
 destruction, yet these go unpunished while the poor are criminalized for
 survival.
 
 The conditions that create most
-crime—<a href="poverty.md" class="wikilink" title="poverty">poverty</a>,
-<a href="inequality.md" class="wikilink" title="inequality">inequality</a>,
+crime—<a href="poverty" class="wikilink" title="poverty">poverty</a>,
+<a href="inequality" class="wikilink" title="inequality">inequality</a>,
 lack of community support, and
-<a href="social_alienation.md" class="wikilink"
+<a href="social_alienation" class="wikilink"
 title="social alienation">social alienation</a>—are direct products of
-the <a href="hierarchical.md" class="wikilink"
+the <a href="hierarchical" class="wikilink"
 title="hierarchical">hierarchical</a> system that prisons exist to
 protect. As one analysis notes, **a society without prisons can only be
 a society that doesn't need prisons.**[^5]
@@ -120,23 +120,23 @@ conditions where harmful behavior is less likely to occur, and how do we
 address harm when it does happen?"
 
 In truly free societies based on
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
-<a href="voluntary_association.md" class="wikilink"
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="voluntary_association" class="wikilink"
 title="voluntary association">voluntary association</a>, and
-<a href="horizontal_organization.md" class="wikilink"
+<a href="horizontal_organization" class="wikilink"
 title="horizontal organization">horizontal organization</a>, many of the
 conditions that lead to harmful behavior would be eliminated:
 
-- <a href="Economic_inequality.md" class="wikilink"
+- <a href="Economic_inequality" class="wikilink"
   title="Economic inequality">Economic inequality</a> and desperation
   would be eliminated through
-  <a href="anarcho-communist.md" class="wikilink"
+  <a href="anarcho-communist" class="wikilink"
   title="anarcho-communist">anarcho-communist</a> organization
 - Social alienation would be reduced through strong community bonds
 - Conflicts would be addressed through
-  <a href="community_accountability.md" class="wikilink"
+  <a href="community_accountability" class="wikilink"
   title="community accountability">community accountability</a> and
-  <a href="restorative_justice.md" class="wikilink"
+  <a href="restorative_justice" class="wikilink"
   title="restorative justice">restorative justice</a> practices
 - People would have access to support for mental health issues,
   addiction, and other challenges
@@ -161,8 +161,8 @@ Such approaches focus on:
 
 Ultimately, true prison abolition cannot be separated from the broader
 struggle against
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
-the <a href="state.md" class="wikilink" title="state">state</a>, and all
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>,
+the <a href="state" class="wikilink" title="state">state</a>, and all
 forms of domination. As Comrade Frank Talk argues, [^10] **real prison
 abolition can only happen without there first being a revolution or
 radical social transformation of society as we know it.**
@@ -209,10 +209,10 @@ will use prisons to manage the social problems they create.
 
 True prison abolition requires the destruction of the prison system as
 part of the broader project of creating a free society based on
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
-<a href="voluntary_association.md" class="wikilink"
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="voluntary_association" class="wikilink"
 title="voluntary association">voluntary association</a>, and
-<a href="direct_democracy.md" class="wikilink"
+<a href="direct_democracy" class="wikilink"
 title="direct democracy">direct democracy</a>. This is not a utopian
 dream—it is a practical necessity for anyone who believes that human
 beings deserve to live with dignity and freedom.
@@ -230,11 +230,11 @@ something entirely different. As the old anarchist slogan reminds us:
 See - [Instead of Prisons, A Handbook for
 Abolitionists](https://theanarchistlibrary.org/library/prison-research-education-action-project-instead-of-prisons)
 
-<a href="Category:Prison_Abolition.md" class="wikilink"
+<a href="Category:Prison_Abolition" class="wikilink"
 title="Category:Prison Abolition">Category:Prison Abolition</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:Justice.md" class="wikilink"
+<a href="Category:Justice" class="wikilink"
 title="Category:Justice">Category:Justice</a>
 
 [^1]: Bonanno, Alfredo M. "Locked Up." 2008.

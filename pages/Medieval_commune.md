@@ -12,7 +12,7 @@ assemblies, people made decisions and elected administrators. Membership
 in the commmune was exclusive to certain skilled male workers, but the
 Pavia commune reached 1,000 members and Milan 900 members.[^1] Peter
 Kropotkin thought highly of the Medieval commune and devoted to it two
-chapters in <a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+chapters in <a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
 title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
 Evolution</a>. The anthropologist Harold Barclay criticized Kropotkin's
 portrayal, arguing "there is little justification for Kropotkin's
@@ -147,7 +147,7 @@ their economy over-emphasized commerce and industry, to the neglect of
 agriculture. Second, the commune members became increasingly won over by
 the Statist teachings of the Church, universities, and law courts.[^12]
 
-# Excerpt from Janet Biehl, <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
+# Excerpt from Janet Biehl, <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
 class="wikilink"
 title="The Politics of Social Ecology: Libertarian Municipalism">The
 Politics of Social Ecology: Libertarian Municipalism</a>
@@ -278,7 +278,7 @@ Politics of Social Ecology: Libertarian Municipalism</a>
 > As such, these communes constitute an important moment in the
 > developing tradition of direct democracy.
 
-# Excerpt from Harold Barclay, <a href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
+# Excerpt from Harold Barclay, <a href="People_Without_Government:_An_Anthropology_of_Anarchy"
 class="wikilink"
 title="People Without Government: An Anthropology of Anarchy">People
 Without Government: An Anthropology of Anarchy</a>
@@ -355,54 +355,54 @@ Without Government: An Anthropology of Anarchy</a>
 
 <references/>
 
-<a href="Category:Communes.md" class="wikilink"
+<a href="Category:Communes" class="wikilink"
 title="Category:Communes">Category:Communes</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Featured.md" class="wikilink"
+Communities</a> <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Janet Biehl,
-    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
+    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
     class="wikilink"
     title="The Politics of Social Ecology: Libertarian Municipalism">The
     Politics of Social Ecology: Libertarian Municipalism</a>.
 
 [^2]: Harold Barclay,
-    <a href="People_Without_Government:_An_Anthropology_of_Anarchy.md"
+    <a href="People_Without_Government:_An_Anthropology_of_Anarchy"
     class="wikilink"
     title="People Without Government: An Anthropology of Anarchy">People
     Without Government: An Anthropology of Anarchy</a>
 
 [^3]: Janet Biehl.
-    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
+    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
     class="wikilink"
     title="The Politics of Social Ecology: Libertarian Municipalism">The
     Politics of Social Ecology: Libertarian Municipalism</a>.
 
 [^4]: Peter Kropotkin.
-    <a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+    <a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
     title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
     Evolution</a>
 
 [^5]: Janet Biehl.
-    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
+    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
     class="wikilink"
     title="The Politics of Social Ecology: Libertarian Municipalism">The
     Politics of Social Ecology: Libertarian Municipalism</a>
 
 [^6]: Kropotkin, <a
-    href="Mutual_Aid:_A_Factor_of_Evolution#Trade_by_the_guild_and_by_the_city.md"
+    href="Mutual_Aid:_A_Factor_of_Evolution#Trade_by_the_guild_and_by_the_city"
     class="wikilink"
     title="Mutual_Aid:_A_Factor_of_Evolution#Trade_by_the_guild_and_by_the_city">Mutual_Aid:_A_Factor_of_Evolution#Trade_by_the_guild_and_by_the_city</a>
 
 [^7]: Kropotkin, <a
-    href="Mutual_Aid:_A_Factor_of_Evolution#Double_origin_of_the_free_medi.C3.A6val_city.md"
+    href="Mutual_Aid:_A_Factor_of_Evolution#Double_origin_of_the_free_medi.C3.A6val_city"
     class="wikilink"
     title="Mutual_Aid:_A_Factor_of_Evolution#Double_origin_of_the_free_medi.C3.A6val_city">Mutual_Aid:_A_Factor_of_Evolution#Double_origin_of_the_free_medi.C3.A6val_city</a>
 
 [^8]: Kropotkin,
-    <a href="Mutual_Aid:_A_Factor_of_Evolution#Conclusion.md" class="wikilink"
+    <a href="Mutual_Aid:_A_Factor_of_Evolution#Conclusion" class="wikilink"
     title="Mutual_Aid:_A_Factor_of_Evolution#Conclusion">Mutual_Aid:_A_Factor_of_Evolution#Conclusion</a>.
     Carson, Kevin, *Studies in Mutualist Political Economy*
     (Fayetteville: 2004), 189.
@@ -414,18 +414,18 @@ title="Category:Featured">Category:Featured</a>
     <http://www.jstor.org/stable/743852>.
 
 [^10]: Janet Biehl.
-    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
+    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
     class="wikilink"
     title="The Politics of Social Ecology: Libertarian Municipalism">The
     Politics of Social Ecology: Libertarian Municipalism</a>.
 
 [^11]: Peter Kropotkin.
-    <a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+    <a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
     title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
     Evolution</a>.
 
 [^12]: Peter Kropotkin.
-    <a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+    <a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
     title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
     Evolution</a>. "Causes of Decay".
 

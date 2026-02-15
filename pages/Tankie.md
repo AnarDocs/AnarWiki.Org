@@ -426,6 +426,10 @@ undermines socialist and communist movements today."[^44]
 
 <references/>
 
+For additional information see the
+<a href="Tankie:Introduction" class="wikilink"
+title="Tankie Wiki">Tankie Wiki</a>
+
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -438,6 +442,8 @@ title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 title="Category:Authoritarian Socialism">Category:Authoritarian
 Socialism</a> <a href="Category:Anti-Authoritarianism" class="wikilink"
 title="Category:Anti-Authoritarianism">Category:Anti-Authoritarianism</a>
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 

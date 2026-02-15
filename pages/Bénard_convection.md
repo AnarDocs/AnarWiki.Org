@@ -24,9 +24,9 @@ hexagonal patterns in desert sand dunes and Arctic ice fields.[^2]
 
 <references/>
 
-<a href="Category:Natural_World.md" class="wikilink"
+<a href="Category:Natural_World" class="wikilink"
 title="Category:Natural World">Category:Natural World</a>
-<a href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
 [^1]: Fritjof Capra and Pier Luigi Luisi, *The Systems View of Life: A

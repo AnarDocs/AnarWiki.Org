@@ -76,19 +76,19 @@ and decision-making.
 
 <references/>
 
-<a href="Category:Africa.md" class="wikilink"
+<a href="Category:Africa" class="wikilink"
 title="Category:Africa">Category:Africa</a>
-<a href="Category:Societies.md" class="wikilink"
+<a href="Category:Societies" class="wikilink"
 title="Category:Societies">Category:Societies</a>
-<a href="Category:Anarchist_Societies.md" class="wikilink"
+<a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Natural_World.md" class="wikilink"
+<a href="Category:Natural_World" class="wikilink"
 title="Category:Natural World">Category:Natural World</a>
-<a href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Frans B. M. De Waal, “Bonobo Sex and Society,” *Scientific

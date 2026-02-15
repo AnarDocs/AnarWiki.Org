@@ -1,0 +1,1 @@
+1.  REDIRECT <a href="USSR" class="wikilink" title="USSR">USSR</a>

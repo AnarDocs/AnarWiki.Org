@@ -50,7 +50,7 @@ and mobilized over 100,000 marchers against the project. Industry paused
 construction after the Three Mile Island meltdown in the US, but when
 construction began again, it was blocked for about a month by a
 libertarian communist encampment known as the
-<a href="Free_Republic_of_Wendland.md" class="wikilink"
+<a href="Free_Republic_of_Wendland" class="wikilink"
 title="Free Republic of Wendland">Free Republic of Wendland</a>.
 
 From 3 May to 6 June 1980, five thousand people occupied the

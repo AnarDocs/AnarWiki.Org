@@ -464,3 +464,10 @@
   shot an unarmed Black person in New York City
 - While people praise Cuba for taking in Assata, they forget to mention
   how they turned over Lorenzo Ervin to the police
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

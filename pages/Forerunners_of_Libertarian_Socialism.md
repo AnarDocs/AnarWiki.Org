@@ -1,8 +1,8 @@
 Numerous authors have speculated that
-<a href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a> and
+<a href="Anarchism" class="wikilink" title="anarchist">anarchist</a> and
 anarchist thinking has a number of forerunners throughout history - or
 people and movements who expressed similar ideas long before
-<a href="Mikhail_Bakunin.md" class="wikilink" title="Bakunin">Bakunin</a>
+<a href="Mikhail_Bakunin" class="wikilink" title="Bakunin">Bakunin</a>
 was born.
 
 ## Examples of Forerunners
@@ -20,7 +20,7 @@ fields and consulted with others before reaching a decision. They also
 believed in the abolition of economic inequality and communal ownership
 of land.[^1]
 
-<a href="David_Graeber.md" class="wikilink" title="David Graeber">David
+<a href="David_Graeber" class="wikilink" title="David Graeber">David
 Graeber</a> summaried the movement as believing that: "both merchants
 and government officials were both useless parasites, and attempted to
 create communities of equals where the only leadership would be by
@@ -42,14 +42,14 @@ colonialists.[^3]
 #### Quakers
 
 The Quakers are a
-<a href="Christianity.md" class="wikilink" title="Christian">Christian</a>
+<a href="Christianity" class="wikilink" title="Christian">Christian</a>
 denomination that emerged out of Protestantism in the 1600s who have
 often been identified as being similar to anarchism. They are famous for
 being consistently one of the most liberal and forward thinking sects of
 Christianity. Quakers tend to believe that all people are capable of
 finding god, and avoid building hierarchical structures. They have
 historically advocated against war, for the
-<a href="Abolition_of_Slavery.md" class="wikilink"
+<a href="Abolition_of_Slavery" class="wikilink"
 title="abolition of slavery">abolition of slavery</a>, against drinking
 alcohol and for wearing plain clothes. Quakers are most famous
 historically in England and North America, but are located all over the
@@ -64,11 +64,11 @@ arguing with power structures makes him something of a proto-anarchist,
 although Socrates never explicitly advocated for the end of the
 state.[^5]
 
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Socialism.md" class="wikilink"
+Socialism</a> <a href="Category:Socialism" class="wikilink"
 title="Category:Socialism">Category:Socialism</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
 
 [^1]: <https://en.wikipedia.org/wiki/Agriculturalism>

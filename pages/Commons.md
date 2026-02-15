@@ -5,13 +5,13 @@ Ownership**) refers to cultural and natural resources accessible to all
 members of a community, including natural materials such as air, water,
 land, and forests. These resources are managed collectively by
 communities through democratic self-governance, rather than by the
-<a href="state.md" class="wikilink" title="state">state</a> or through
-<a href="Private_Ownership.md" class="wikilink"
+<a href="state" class="wikilink" title="state">state</a> or through
+<a href="Private_Ownership" class="wikilink"
 title="private property">private property</a>. The commons represents a
 fundamental alternative to both capitalist private ownership and state
 control, embodying principles central to
-<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> and
-<a href="libertarian_socialism.md" class="wikilink"
+<a href="anarchism" class="wikilink" title="anarchism">anarchism</a> and
+<a href="libertarian_socialism" class="wikilink"
 title="libertarian socialism">libertarian socialism</a>.
 
 ## Definition
@@ -23,14 +23,14 @@ knowledge, software, and public spaces. As a practice, commoning refers
 to the collective management of these resources through
 community-created institutions and democratic processes.[^1]
 
-Unlike <a href="open_access.md" class="wikilink" title="open access">open
+Unlike <a href="open_access" class="wikilink" title="open access">open
 access</a> resources (which anyone can use without restriction), commons
 have a defined community of users who collectively establish rules for
 access and use. This community self-governance distinguishes commons
 from both unregulated open access and top-down state management.
 
 The term derives from traditional English
-<a href="common_land.md" class="wikilink" title="common land">common
+<a href="common_land" class="wikilink" title="common land">common
 land</a>, but the practice of commons management extends across cultures
 and throughout human history. The Roman legal concept of *res communis*
 (things common to all) recognized resources meant to be used and enjoyed
@@ -58,14 +58,14 @@ claims that collective ownership inevitably fails.
 
 The destruction of the commons came not through internal failure but
 through violent
-<a href="enclosure.md" class="wikilink" title="enclosure">enclosure</a> -
+<a href="enclosure" class="wikilink" title="enclosure">enclosure</a> -
 the privatization of common lands by force. Beginning in the 16th
 century and accelerating through the 18th and 19th centuries, European
 governments (particularly in Britain) seized common lands and granted
 them to private owners, dispossessing rural communities of their
 traditional rights.
 
-<a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>
+<a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>
 identified enclosure as a form of "primitive accumulation" - the violent
 separation of people from their means of subsistence necessary for
 capitalism to develop. He noted that enclosure merely displaced problems
@@ -73,7 +73,7 @@ while putting increasing numbers in precarious conditions.[^4]
 
 This historical pattern continues today as corporations and governments
 use the false narrative of
-"<a href="tragedy_of_the_commons.md" class="wikilink"
+"<a href="tragedy_of_the_commons" class="wikilink"
 title="tragedy of the commons">tragedy of the commons</a>" to justify
 seizing indigenous lands, privatizing water sources, and enclosing
 digital resources.
@@ -83,7 +83,7 @@ digital resources.
 ### Elinor Ostrom's Research
 
 Political scientist
-<a href="Elinor_Ostrom.md" class="wikilink" title="Elinor Ostrom">Elinor
+<a href="Elinor_Ostrom" class="wikilink" title="Elinor Ostrom">Elinor
 Ostrom</a> won the 2009 Nobel Prize in Economics for demonstrating that
 **commons frequently succeed** where theory predicted they would fail.
 Her extensive research documented hundreds of examples of communities
@@ -109,7 +109,7 @@ Ostrom identified eight key principles for successful commons:
     multiple layers with local control at the base[^6]
 
 These principles align closely with
-<a href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>
 organizational structures emphasizing decentralized decision-making,
 community accountability, and federation.
 
@@ -170,7 +170,7 @@ Key natural commons today include:
 
 Urban commons reframe city resources based on use value and community
 need rather than market value.
-<a href="David_Harvey.md" class="wikilink" title="David Harvey">David
+<a href="David_Harvey" class="wikilink" title="David Harvey">David
 Harvey</a> distinguishes between mere public spaces and true urban
 commons - the latter emerge when citizens take political action to
 assert collective control.[^13]
@@ -178,10 +178,10 @@ assert collective control.[^13]
 Examples of urban commons include:
 
 - **Occupied public squares** -
-  <a href="Syntagma_Square.md" class="wikilink"
+  <a href="Syntagma_Square" class="wikilink"
   title="Syntagma Square">Syntagma Square</a> (Athens),
-  <a href="Tahrir_Square.md" class="wikilink" title="Tahrir Square">Tahrir
-  Square</a> (Cairo), <a href="Plaza_de_Catalunya.md" class="wikilink"
+  <a href="Tahrir_Square" class="wikilink" title="Tahrir Square">Tahrir
+  Square</a> (Cairo), <a href="Plaza_de_Catalunya" class="wikilink"
   title="Plaza de Catalunya">Plaza de Catalunya</a> (Barcelona)
   transformed from public spaces to commons through revolutionary
   protest
@@ -199,7 +199,7 @@ resources in complementary opposition to both state and market.
 Digital commons encompass information and knowledge resources
 collectively created and shared within communities. These represent new
 frontiers for commons-based organizing that challenge hierarchical
-production and enable <a href="horizontal_organization.md" class="wikilink"
+production and enable <a href="horizontal_organization" class="wikilink"
 title="horizontal organization">horizontal organization</a>.[^14]
 
 Digital commons are significant because:
@@ -215,13 +215,13 @@ Digital commons are significant because:
 
 Key examples include:
 
-- **<a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a>** -
+- **<a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a>** -
   collectively maintained encyclopedia representing "commons-based peer
   production"
-- **<a href="Free_and_open_source_software.md" class="wikilink"
+- **<a href="Free_and_open_source_software" class="wikilink"
   title="Free and open source software">Free and open source software</a>** -
   collaboratively developed code like Linux, Mozilla
-- **<a href="Open-source_hardware.md" class="wikilink"
+- **<a href="Open-source_hardware" class="wikilink"
   title="Open-source hardware">Open-source hardware</a>** - shared
   technical designs like RepRap 3D printers
 - **Open access publishing** - freely available research and scholarship
@@ -229,7 +229,7 @@ Key examples include:
   works
 
 Scholar
-<a href="Yochai_Benkler.md" class="wikilink" title="Yochai Benkler">Yochai
+<a href="Yochai_Benkler" class="wikilink" title="Yochai Benkler">Yochai
 Benkler</a> describes this as "commons-based peer production" - a system
 of decentralized individual action through non-market means that
 challenges traditional hierarchies.[^15]
@@ -258,7 +258,7 @@ both state sovereignty and corporate exploitation.
 
 Contemporary theorists emphasize *commoning* as a verb - an active
 practice rather than just a type of property.
-<a href="David_Harvey.md" class="wikilink" title="David Harvey">David
+<a href="David_Harvey" class="wikilink" title="David Harvey">David
 Harvey</a> and others use this framing to highlight the commons as an
 ongoing social process of collective governance rather than a static
 entity.[^16]
@@ -276,10 +276,10 @@ Commoning involves:
 
 This process-oriented understanding connects commons to anarchist
 principles of
-<a href="direct_action.md" class="wikilink" title="direct action">direct
+<a href="direct_action" class="wikilink" title="direct action">direct
 action</a>,
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
-and <a href="prefigurative_politics.md" class="wikilink"
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
+and <a href="prefigurative_politics" class="wikilink"
 title="prefigurative politics">prefigurative politics</a> - creating the
 new world in the shell of the old.
 
@@ -299,7 +299,7 @@ rather than external authorities.
 
 ### Women and Commons
 
-<a href="Silvia_Federici.md" class="wikilink"
+<a href="Silvia_Federici" class="wikilink"
 title="Silvia Federici">Silvia Federici</a> articulates the centrality
 of women to commons struggles in her essay "Feminism and the Politics of
 the Commons." She argues that women have historically been at the
@@ -313,7 +313,7 @@ resistance. Examples include:
 - **Subsistence agriculture** - women's farming on common lands
 - **Water collection** - defending communal water sources
 - **Foraging** - gathering food, fuel, and medicines from forests
-- **<a href="Tontine.md" class="wikilink" title="Tontine">Tontines</a>** -
+- **<a href="Tontine" class="wikilink" title="Tontine">Tontines</a>** -
   rotating savings and credit associations (money commons)
 - **Collectivized reproductive labor** - sharing childcare, cooking,
   eldercare
@@ -340,7 +340,7 @@ collectivizing this work as a commons rather than privatizing it within
 nuclear families or commodifying it through markets.
 
 This connects to broader anarchist visions of communal living and
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 networks that socialize reproductive labor.
 
 ## Anarchist Analysis
@@ -371,23 +371,23 @@ governance and anarchist organizing principles.[^19]
 Large-scale contemporary examples of commons-based organizing heavily
 influenced by anarchism include:
 
-**<a href="Rebel_Zapatista_Autonomous_Municipalities.md" class="wikilink"
+**<a href="Rebel_Zapatista_Autonomous_Municipalities" class="wikilink"
 title="Rebel Zapatista Autonomous Municipalities">Rebel Zapatista
 Autonomous Municipalities</a>** - The Zapatista communities in Chiapas,
 Mexico operate on commons principles, with land held communally and
 decisions made through participatory assemblies. Their motto "everything
 for everyone, nothing for us" reflects commons values.
 
-**<a href="Autonomous_Administration_of_North_and_East_Syria.md"
+**<a href="Autonomous_Administration_of_North_and_East_Syria"
 class="wikilink"
 title="Autonomous Administration of North and East Syria">Autonomous
 Administration of North and East Syria</a>** (Rojava) - The
 revolutionary society in northern Syria practices democratic
 confederalism with communal land ownership, cooperatives, and
 commons-based resource management influenced by
-<a href="libertarian_socialism.md" class="wikilink"
+<a href="libertarian_socialism" class="wikilink"
 title="libertarian socialism">libertarian socialism</a> and
-<a href="ecosocialism.md" class="wikilink"
+<a href="ecosocialism" class="wikilink"
 title="ecosocialism">ecosocialism</a>.
 
 Both demonstrate that commons-based organizing can function at
@@ -398,19 +398,19 @@ systems.
 
 Movements practicing direct action to reclaim land as commons include:
 
-- **<a href="Abahlali_baseMjondolo.md" class="wikilink"
+- **<a href="Abahlali_baseMjondolo" class="wikilink"
   title="Abahlali baseMjondolo">Abahlali baseMjondolo</a>** - shack
   dwellers' movement in South Africa fighting for housing as a commons
-- **<a href="Landless_Workers&#39;_Movement.md" class="wikilink"
+- **<a href="Landless_Workers&#39;_Movement" class="wikilink"
   title="Landless Workers&#39; Movement">Landless Workers' Movement</a>**
   (MST) - occupying unused land in Brazil and establishing collective
   farms
-- **<a href="Take_Back_the_Land.md" class="wikilink"
+- **<a href="Take_Back_the_Land" class="wikilink"
   title="Take Back the Land">Take Back the Land</a>** - liberating
   vacant housing in the United States
-- **<a href="The_Land_is_Ours.md" class="wikilink" title="The Land is Ours">The
+- **<a href="The_Land_is_Ours" class="wikilink" title="The Land is Ours">The
   Land is Ours</a>** - occupying unused land in the UK for community use
-- **<a href="Occupy_movement.md" class="wikilink"
+- **<a href="Occupy_movement" class="wikilink"
   title="Occupy movement">Occupy movement</a>** - asserting public space
   as commons through direct action
 
@@ -436,7 +436,7 @@ direct action, legal challenges, and building alternative institutions.
 
 ### The "Tragedy" Narrative
 
-The "<a href="tragedy_of_the_commons.md" class="wikilink"
+The "<a href="tragedy_of_the_commons" class="wikilink"
 title="tragedy of the commons">tragedy of the commons</a>" functions as
 propaganda justifying enclosure. As detailed in that article, this
 narrative is historically false and empirically disproven. It is wielded
@@ -559,7 +559,7 @@ Critics question whether commons can function at the scale of modern
 societies. However, Ostrom's research demonstrates that nested,
 federated commons can manage large resources through coordinated local
 control - a model consistent with
-<a href="anarchist_federalism.md" class="wikilink"
+<a href="anarchist_federalism" class="wikilink"
 title="anarchist federalism">anarchist federalism</a>.
 
 Large-scale historical commons and contemporary examples like the
@@ -617,20 +617,20 @@ viability of commons-based organizing.
 
 ## See Also
 
-- <a href="Anarcho-Communism.md" class="wikilink"
+- <a href="Anarcho-Communism" class="wikilink"
   title="Anarcho-Communism">Anarcho-Communism</a>
-- <a href="Mutualism.md" class="wikilink" title="Mutualism">Mutualism</a>
-- <a href="Libertarian_Socialism.md" class="wikilink"
+- <a href="Mutualism" class="wikilink" title="Mutualism">Mutualism</a>
+- <a href="Libertarian_Socialism" class="wikilink"
   title="Libertarian Socialism">Libertarian Socialism</a>
-- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- <a href="Workers&#39;_Self-Management.md" class="wikilink"
+- <a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Workers&#39;_Self-Management" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a>
-- <a href="Direct_Democracy.md" class="wikilink"
+- <a href="Direct_Democracy" class="wikilink"
   title="Direct Democracy">Direct Democracy</a>
-- <a href="Tragedy_of_the_Commons.md" class="wikilink"
+- <a href="Tragedy_of_the_Commons" class="wikilink"
   title="Tragedy of the Commons">Tragedy of the Commons</a>
-- <a href="Enclosure.md" class="wikilink" title="Enclosure">Enclosure</a>
-- <a href="Elinor_Ostrom.md" class="wikilink" title="Elinor Ostrom">Elinor
+- <a href="Enclosure" class="wikilink" title="Enclosure">Enclosure</a>
+- <a href="Elinor_Ostrom" class="wikilink" title="Elinor Ostrom">Elinor
   Ostrom</a>
 
 ## References
@@ -648,25 +648,25 @@ viability of commons-based organizing.
 - [Commons Strategies Group](http://commonsstrategies.org/)
 - [Digital Library of the Commons](http://dlc.dlib.indiana.edu/)
 
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Anarchism.md" class="wikilink"
+Socialism</a> <a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Anarcho-Communism.md" class="wikilink"
+<a href="Category:Anarcho-Communism" class="wikilink"
 title="Category:Anarcho-Communism">Category:Anarcho-Communism</a>
-<a href="Category:Mutualism.md" class="wikilink"
+<a href="Category:Mutualism" class="wikilink"
 title="Category:Mutualism">Category:Mutualism</a>
-<a href="Category:Commons.md" class="wikilink"
+<a href="Category:Commons" class="wikilink"
 title="Category:Commons">Category:Commons</a>
-<a href="Category:Property.md" class="wikilink"
+<a href="Category:Property" class="wikilink"
 title="Category:Property">Category:Property</a>
-<a href="Category:Environmentalism.md" class="wikilink"
+<a href="Category:Environmentalism" class="wikilink"
 title="Category:Environmentalism">Category:Environmentalism</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Ostrom, Elinor (2015). *Governing the Commons: The Evolution of

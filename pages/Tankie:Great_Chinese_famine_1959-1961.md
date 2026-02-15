@@ -18,3 +18,10 @@
 - Over 250 000 sparrows needed to be imported from the Soviet Union to
   rectify the agricultural and environment damage wrought by the Four
   Pests campaign
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

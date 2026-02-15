@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Prefiguration.md" class="wikilink"
+1.  REDIRECT <a href="Prefiguration" class="wikilink"
     title="Prefiguration">Prefiguration</a>

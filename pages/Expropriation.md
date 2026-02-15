@@ -10,9 +10,9 @@ exploitation, dispossession, and violence against the working class.
 ## Overview
 
 Expropriation represents the practical application of the anarchist
-critique of <a href="private_property.md" class="wikilink"
+critique of <a href="private_property" class="wikilink"
 title="private property">private property</a>. As
-<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> famously
 declared, "property is theft,"[^1] establishing the philosophical
 foundation that the wealth controlled by landowners, capitalists, and
@@ -20,7 +20,7 @@ the state has been stolen from those who produce it. Expropriation is
 therefore understood as a defensive and just action - the taking back of
 what rightfully belongs to the commons.
 
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> articulated the necessity of expropriation in **The
 Conquest of Bread**, arguing that revolutionary change requires "the
 expropriation of all that enables any man to appropriate the product of
@@ -31,7 +31,7 @@ vulnerable to counter-revolution.
 
 The anarchist understanding distinguishes expropriation from mere
 redistribution or state seizure. Unlike
-<a href="authoritarian_socialism.md" class="wikilink"
+<a href="authoritarian_socialism" class="wikilink"
 title="authoritarian socialism">authoritarian socialism</a>, which
 transfers property to state control, anarchist expropriation aims to
 abolish property relations entirely, placing resources under the direct,
@@ -45,7 +45,7 @@ voluntary association.
 The anarchist case for expropriation rests on the understanding that
 private property - particularly in land and means of production -
 constitutes violence against humanity.
-<a href="Errico_Malatesta.md" class="wikilink"
+<a href="Errico_Malatesta" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> wrote, "To destroy
 radically this oppression without any danger of it reemerging, all
 people must be convinced of their right to the means of production, and
@@ -59,7 +59,7 @@ This violence operates through multiple mechanisms:
 - Concentrating wealth through the exploitation of labor
 - Using state force to maintain property relations
 
-<a href="Louisa_Sarah_Bevington.md" class="wikilink"
+<a href="Louisa_Sarah_Bevington" class="wikilink"
 title="Louisa Sarah Bevington">Louisa Sarah Bevington</a> argued that
 property holding itself is inherently oppressive: "Property is
 government. Property - that is, the prohibitive custody by particular
@@ -73,8 +73,8 @@ Anarchist analysis emphasizes that virtually all concentrated wealth has
 been accumulated through illegitimate means including:
 
 - Violent seizure of common lands through
-  <a href="enclosure.md" class="wikilink" title="enclosure">enclosure</a>
-- <a href="Slavery.md" class="wikilink" title="Slavery">Slavery</a> and
+  <a href="enclosure" class="wikilink" title="enclosure">enclosure</a>
+- <a href="Slavery" class="wikilink" title="Slavery">Slavery</a> and
   forced labor
 - Colonial theft and genocide
 - Exploitation of wage labor
@@ -100,28 +100,28 @@ called "expropriative anarchism" - bank robberies, counterfeiting, and
 other forms of direct seizure of capitalist wealth to fund revolutionary
 activity. Groups like **Los Solidarios** in Spain (1922-1924) became
 famous for bank expropriations, with
-<a href="Buenaventura_Durruti.md" class="wikilink"
+<a href="Buenaventura_Durruti" class="wikilink"
 title="Buenaventura Durruti">Buenaventura Durruti</a> and
-<a href="Francisco_Ascaso.md" class="wikilink"
+<a href="Francisco_Ascaso" class="wikilink"
 title="Francisco Ascaso">Francisco Ascaso</a> conducting numerous
 operations in Chile, Argentina, and Spain.[^6]
 
-Italian anarchist <a href="Severino_Di_Giovanni.md" class="wikilink"
+Italian anarchist <a href="Severino_Di_Giovanni" class="wikilink"
 title="Severino Di Giovanni">Severino Di Giovanni</a> stormed the Obras
 Sanitarias de la Nación in 1930, taking 286,000 pesos to fund attempts
 to free imprisoned comrades.
-<a href="Lucio_Urtubia.md" class="wikilink" title="Lucio Urtubia">Lucio
+<a href="Lucio_Urtubia" class="wikilink" title="Lucio Urtubia">Lucio
 Urtubia</a> forged thousands of Citibank traveler's checks in 1977 to
 fund revolutionary groups including the Black Panther Party.[^7]
 
 ### Spanish Revolution
 
 The most extensive example of anarchist expropriation occurred during
-the <a href="Spanish_Revolution.md" class="wikilink"
+the <a href="Spanish_Revolution" class="wikilink"
 title="Spanish Revolution">Spanish Revolution</a> of 1936-1939. Millions
 of workers and peasants, organized primarily through the
 anarcho-syndicalist
-<a href="CNT-FAI.md" class="wikilink" title="CNT-FAI">CNT-FAI</a>,
+<a href="CNT-FAI" class="wikilink" title="CNT-FAI">CNT-FAI</a>,
 expropriated land, factories, and resources across eastern Spain.
 
 In Catalonia, all industry and public services were collectivized
@@ -158,18 +158,18 @@ expropriative anarchist groups, famous for the Bank of Spain Robbery in
 September 1923. They were dubbed "the kings of Barcelona's workers
 pistol."
 
-**<a href="Buenaventura_Durruti.md" class="wikilink"
+**<a href="Buenaventura_Durruti" class="wikilink"
 title="Buenaventura Durruti">Buenaventura Durruti</a>** (1896-1936,
 Spain), the legend of Revolutionary Catalonia, began his revolutionary
 career in bank robbery, carrying out expropriations in Chile and
 Argentina before returning to Spain.
 
-**<a href="Francisco_Ascaso.md" class="wikilink"
+**<a href="Francisco_Ascaso" class="wikilink"
 title="Francisco Ascaso">Francisco Ascaso</a>** (1901-1936, Spain) was a
 member of Los Solidarios and a companion of Durruti during their years
 as bank robbers and in their final days in Catalonia.
 
-**<a href="Severino_Di_Giovanni.md" class="wikilink"
+**<a href="Severino_Di_Giovanni" class="wikilink"
 title="Severino Di Giovanni">Severino Di Giovanni</a>** (1901-1931,
 Italy/Argentina) played an important role in solidarity for the trial of
 Sacco and Vanzetti. He planned the bombing of Mussolini's secret police.
@@ -180,7 +180,7 @@ In October 1930, he stormed the Obras Sanitarias de la Nación and took
 militant Italian anarchist who was active in Argentina's expropriative
 scene.
 
-**<a href="Lucio_Urtubia.md" class="wikilink" title="Lucio Urtubia">Lucio
+**<a href="Lucio_Urtubia" class="wikilink" title="Lucio Urtubia">Lucio
 Urtubia</a>** (1931-2020, Spain) is among the most well-known
 expropriative anarchists in history, with records of bank robbery,
 resistance and forgery. He forged thousands of Citibank traveler's
@@ -240,7 +240,7 @@ burned them all in public.
 
 ### Syndicalist Strategy
 
-<a href="Anarcho-syndicalism.md" class="wikilink"
+<a href="Anarcho-syndicalism" class="wikilink"
 title="Anarcho-syndicalism">Anarcho-syndicalism</a> places expropriation
 of the means of production at the core of its revolutionary strategy.
 Through workplace organization, syndicalists aim to seize control of
@@ -262,13 +262,13 @@ The syndicalist approach emphasizes:
 
 ### Insurrectionist Strategy
 
-<a href="Insurrectionary_anarchism.md" class="wikilink"
+<a href="Insurrectionary_anarchism" class="wikilink"
 title="Insurrectionary anarchism">Insurrectionary anarchism</a>
 approaches expropriation through more immediate and spontaneous means,
 emphasizing individual and small group actions that attack capitalist
 property directly.
 
-<a href="Luigi_Galleani.md" class="wikilink" title="Luigi Galleani">Luigi
+<a href="Luigi_Galleani" class="wikilink" title="Luigi Galleani">Luigi
 Galleani</a> argued: "The anarchists, like the socialists, want and urge
 the expropriation of the bourgeoisie, but they do not hope at all for
 its generosity nor its philanthropy and justice. Confronted with the
@@ -453,19 +453,19 @@ with some emphasizing moral purity over strategic necessity.
 
 ## See Also
 
-- <a href="Anarcho-Communism.md" class="wikilink"
+- <a href="Anarcho-Communism" class="wikilink"
   title="Anarcho-Communism">Anarcho-Communism</a>
-- <a href="Anarcho-Syndicalism.md" class="wikilink"
+- <a href="Anarcho-Syndicalism" class="wikilink"
   title="Anarcho-Syndicalism">Anarcho-Syndicalism</a>
-- <a href="Direct_Action.md" class="wikilink" title="Direct Action">Direct
+- <a href="Direct_Action" class="wikilink" title="Direct Action">Direct
   Action</a>
-- <a href="Spanish_Revolution.md" class="wikilink"
+- <a href="Spanish_Revolution" class="wikilink"
   title="Spanish Revolution">Spanish Revolution</a>
-- <a href="Private_Property.md" class="wikilink"
+- <a href="Private_Property" class="wikilink"
   title="Private Property">Private Property</a>
-- <a href="Illegalism.md" class="wikilink" title="Illegalism">Illegalism</a>
-- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- <a href="Revolutionary_Catalonia.md" class="wikilink"
+- <a href="Illegalism" class="wikilink" title="Illegalism">Illegalism</a>
+- <a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Revolutionary_Catalonia" class="wikilink"
   title="Revolutionary Catalonia">Revolutionary Catalonia</a>
 
 ## References
@@ -497,21 +497,21 @@ with some emphasizing moral purity over strategic necessity.
 - [Renzo Novatore, The
   Expropriator](https://theanarchistlibrary.org/library/renzo-novatore-the-expropriator)
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Revolutionary_Strategy.md" class="wikilink"
+Socialism</a> <a href="Category:Revolutionary_Strategy" class="wikilink"
 title="Category:Revolutionary Strategy">Category:Revolutionary
-Strategy</a> <a href="Category:Anarcho-Communism.md" class="wikilink"
+Strategy</a> <a href="Category:Anarcho-Communism" class="wikilink"
 title="Category:Anarcho-Communism">Category:Anarcho-Communism</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Pierre-Joseph Proudhon, What is Property? (1840)
@@ -526,15 +526,15 @@ title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^6]: Anonymous, "A History of Expropriative Anarchism" (2021)
 
-[^7]: Anonymous, "A History of Expropriative Anarchism" (2021)
+[^7]:
 
 [^8]: Gaston Leval, Collectives in the Spanish Revolution (1975)
 
 [^9]: Sam Dolgoff (ed), The Anarchist Collectives (1974)
 
-[^10]: Gaston Leval, Collectives in the Spanish Revolution (1975)
+[^10]:
 
-[^11]: Anonymous, "A History of Expropriative Anarchism" (2021)
+[^11]:
 
 [^12]: Gregori Maximov, Programme of Anarcho-Syndicalism (1927)
 
@@ -542,20 +542,20 @@ title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^14]: GusselSprouts, "Towards a Modern Expropriative Strategy" (2013)
 
-[^15]: Anonymous, "A History of Expropriative Anarchism" (2021)
+[^15]:
 
-[^16]: L.S. Bevington, "Why I am an Expropriationist" (1894)
+[^16]:
 
-[^17]: L.S. Bevington, "Why I am an Expropriationist" (1894)
+[^17]:
 
-[^18]: Peter Kropotkin, The Conquest of Bread (1892)
+[^18]:
 
-[^19]: GusselSprouts, "Towards a Modern Expropriative Strategy" (2013)
+[^19]:
 
 [^20]: Thomas Malthus, quoted in Peter Linebaugh, Stop Thief! (2014)
 
 [^21]: Colin Jenkins, "Expropriation or Bust" (2016)
 
-[^22]: Errico Malatesta, "Expropriation" (1920)
+[^22]:
 
-[^23]: GusselSprouts, "Towards a Modern Expropriative Strategy" (2013)
+[^23]:

@@ -72,17 +72,17 @@ there were very few Henris.”[^10]
 
 <references/>
 
-<a href="Catgeory:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Catgeory:Anti-Authoritarian_Communities" class="wikilink"
 title="Catgeory:Anti-Authoritarian Communities">Catgeory:Anti-Authoritarian
 Communities</a>
 
-<a href="Category:Madagascar.md" class="wikilink"
+<a href="Category:Madagascar" class="wikilink"
 title="Category:Madagascar">Category:Madagascar</a>
-<a href="Category:North_Africa.md" class="wikilink"
+<a href="Category:North_Africa" class="wikilink"
 title="Category:North Africa">Category:North Africa</a>
-<a href="Category:Africa.md" class="wikilink"
+<a href="Category:Africa" class="wikilink"
 title="Category:Africa">Category:Africa</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: David Graeber, *Possibilities: Essays on Hierarchy, Rebellion, and

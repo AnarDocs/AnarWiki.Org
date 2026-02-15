@@ -218,7 +218,7 @@ saboteurs for the wild." [^22]
 [^10]: Lopez, *Of Wolves and Men*, 28-29.
 
 [^11]: Peter Kropotkin,
-    <a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+    <a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
     title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
     Evolution</a>.
 

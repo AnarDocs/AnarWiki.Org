@@ -63,3 +63,10 @@ what can’t be added to the Marxist or anarchist sections would go here
 
 - "2017 Hanoi hostage crisis"
   <https://en.wikipedia.org/wiki/2017_Hanoi_hostage_crisis> \[EN\]
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

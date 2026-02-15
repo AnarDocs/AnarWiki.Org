@@ -66,9 +66,9 @@ field research.[^3]
 
 <references/>
 
-<a href="Category:Brazil.md" class="wikilink"
+<a href="Category:Brazil" class="wikilink"
 title="Category:Brazil">Category:Brazil</a>
-<a href="Category:Anti-Authoritarian_Community.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Community" class="wikilink"
 title="Category:Anti-Authoritarian Community">Category:Anti-Authoritarian
 Community</a>
 

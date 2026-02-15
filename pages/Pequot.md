@@ -140,13 +140,13 @@ Sword and save the plunder.”[^18]
 
 <references/>
 
-<a href="Category:USA.md" class="wikilink"
+<a href="Category:USA" class="wikilink"
 title="Category:USA">Category:USA</a>
-<a href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Featured.md" class="wikilink"
+Communities</a> <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: William A. Starna, “Pequots in the Early Seventeenth Century” in

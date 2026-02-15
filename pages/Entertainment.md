@@ -74,21 +74,21 @@ legal and historical background](http://emoglen.law.columbia.edu).
 
 ## Noam Chomsky & Glen Greenwald
 
-<a href="Wikipedia:Noam_Chomsky.md" class="wikilink"
+<a href="Wikipedia:Noam_Chomsky" class="wikilink"
 title="Noam Chomsky">Noam Chomsky</a> is the most quoted living scholar,
 who revolutionized linguistics and cognitive science. He is perhaps more
 influential politically, and continues the rational and radical left
 tradition of thinkers like
-<a href="Wikipedia:Bertrand_Russell.md" class="wikilink"
+<a href="Wikipedia:Bertrand_Russell" class="wikilink"
 title="Bertrand Russell">Bertrand Russell</a>.
-<a href="Wikipedia:Glen_Greenwald.md" class="wikilink"
+<a href="Wikipedia:Glen_Greenwald" class="wikilink"
 title="Glen Greenwald">Glen Greenwald</a> is a journalist and lawyer who
 has been involved with high-profile cases like
-<a href="Wikipedia:Wikileaks.md" class="wikilink"
+<a href="Wikipedia:Wikileaks" class="wikilink"
 title="Wikileaks">Wikileaks</a> and
-<a href="Wikipedia:Edward_Snowden.md" class="wikilink"
+<a href="Wikipedia:Edward_Snowden" class="wikilink"
 title="Edward Snowden">Edward Snowden</a>'s disclosure of
-<a href="Wikipedia:PRISM_(surveillance_program).md" class="wikilink"
+<a href="Wikipedia:PRISM_(surveillance_program)" class="wikilink"
 title="PRISM">PRISM</a>.
 
 - [Liberty and Justice for
@@ -96,11 +96,11 @@ title="PRISM">PRISM</a>.
 
 ## Jacob Appelbaum
 
-<a href="Wikipedia:Jacob_Appelbaum.md" class="wikilink"
+<a href="Wikipedia:Jacob_Appelbaum" class="wikilink"
 title="Jacob Appelbaum">Jacob Appelbaum</a> is a prominent hacker and
-spokesperson for <a href="Wikipedia:Wikileaks.md" class="wikilink"
+spokesperson for <a href="Wikipedia:Wikileaks" class="wikilink"
 title="Wikileaks">Wikileaks</a> and the
-<a href="Wikipedia:Tor_(network).md" class="wikilink"
+<a href="Wikipedia:Tor_(network)" class="wikilink"
 title="Tor Project">Tor Project</a>.
 
 - [Tor and Internet
@@ -109,7 +109,7 @@ title="Tor Project">Tor Project</a>.
 ## Wendy Seltzer
 
 Wendy Seltzer is one of the heads of the
-<a href="Wikipedia:Tor_(network).md" class="wikilink"
+<a href="Wikipedia:Tor_(network)" class="wikilink"
 title="Tor Project">Tor Project</a> and a legal expert on copyright.
 
 - [A Decade of the Digital Millenium Copyright
@@ -117,9 +117,9 @@ title="Tor Project">Tor Project</a> and a legal expert on copyright.
 
 ## Richard Stallman
 
-<a href="Wikipedia:Richard_stallman.md" class="wikilink"
+<a href="Wikipedia:Richard_stallman" class="wikilink"
 title="Richard Stallman">Richard Stallman</a> is the original
-<a href="Wikipedia:GNU_Project.md" class="wikilink" title="GNU">GNU</a>
+<a href="Wikipedia:GNU_Project" class="wikilink" title="GNU">GNU</a>
 hacker, and the most prominent member of the free software movement.
 
 - [Copyright vs.
@@ -129,7 +129,7 @@ hacker, and the most prominent member of the free software movement.
 
 ## Yochai Benkler
 
-<a href="Wikipedia:Yochai_Benkler.md" class="wikilink"
+<a href="Wikipedia:Yochai_Benkler" class="wikilink"
 title="Yochai Benkler">Yochai Benkler</a> is a scholar of free culture.
 
 - [How Cooperation Triumphs over
@@ -139,8 +139,8 @@ title="Yochai Benkler">Yochai Benkler</a> is a scholar of free culture.
 
 Lawrence Lessig is a founder of [Creative
 Commons](http://creativecommons.org/) and
-<a href="Wikipedia:Free_culture_movement.md" class="wikilink"
-title="free culture">free culture</a>/<a href="Wikipedia:Remix_culture.md" class="wikilink"
+<a href="Wikipedia:Free_culture_movement" class="wikilink"
+title="free culture">free culture</a>/<a href="Wikipedia:Remix_culture" class="wikilink"
 title="remix culture">remix culture</a> advocate.
 
 - [Remix](https://www.youtube.com/watch?v=_yC81QhR_xk)

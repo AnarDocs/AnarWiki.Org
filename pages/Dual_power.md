@@ -1,9 +1,9 @@
 **Dual power** refers to a situation where autonomous institutions and
 official institutions compete against each other for legitimacy and
 popular allegiance. While the term was coined by
-<a href="Vladimir_Lenin.md" class="wikilink"
+<a href="Vladimir_Lenin" class="wikilink"
 title="Vladimir Lenin">Vladimir Lenin</a> in 1917 to describe conditions
-during the <a href="Russian_Revolution.md" class="wikilink"
+during the <a href="Russian_Revolution" class="wikilink"
 title="Russian Revolution">Russian Revolution</a>, the underlying
 concept and strategy had been articulated by anarchist and socialist
 theorists decades earlier.
@@ -12,7 +12,7 @@ theorists decades earlier.
 
 The strategy that would later be called dual power has deep roots in
 anarchist and socialist thought. In 1851,
-<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> described a
 vision of revolutionary transformation through building alternative
 institutions:
@@ -23,7 +23,7 @@ institutions:
 > new order, the expression of its vitality and autonomy, and the denial
 > of the old politics, as well as of the old religion.[^1]
 
-In 1905, the <a href="Industrial_Workers_of_the_World.md" class="wikilink"
+In 1905, the <a href="Industrial_Workers_of_the_World" class="wikilink"
 title="Industrial Workers of the World">Industrial Workers of the
 World</a> articulated a similar concept in their preamble, calling for
 "forming the structure of the new society within the shell of the
@@ -33,7 +33,7 @@ old."[^2]
 
 In April 1917, Lenin used the term "dual power" to describe the unstable
 situation in Russia following the
-<a href="February_Revolution.md" class="wikilink"
+<a href="February_Revolution" class="wikilink"
 title="February Revolution">February Revolution</a>, where two competing
 centers of authority existed simultaneously. Lenin wrote in *Pravda*:
 
@@ -43,12 +43,12 @@ centers of authority existed simultaneously. Lenin wrote in *Pravda*:
 > is growing—the Soviets of Workers' and Soldiers' Deputies.[^3]
 
 For Lenin and
-<a href="Leon_Trotsky.md" class="wikilink" title="Leon Trotsky">Leon
+<a href="Leon_Trotsky" class="wikilink" title="Leon Trotsky">Leon
 Trotsky</a>, dual power was understood as a descriptive category rather
 than a strategic program. It characterized a revolutionary moment when
 the allegiance of the population was split between the existing
 bourgeois state and emerging organs of workers' power, particularly the
-<a href="soviets.md" class="wikilink" title="soviets">soviets</a> (workers'
+<a href="soviets" class="wikilink" title="soviets">soviets</a> (workers'
 councils), factory committees, and armed militias. Lenin and Trotsky
 understood this as an inherently unstable situation that would
 inevitably be resolved through confrontation, with one power
@@ -103,19 +103,19 @@ produced several distinct approaches:
 ### Alternate Institution Building
 
 One tendency advocates building alternative institutions such as
-<a href="workers&#39;_cooperatives.md" class="wikilink"
+<a href="workers&#39;_cooperatives" class="wikilink"
 title="workers&#39; cooperatives">workers' cooperatives</a>,
-<a href="community_assemblies.md" class="wikilink"
+<a href="community_assemblies" class="wikilink"
 title="community assemblies">community assemblies</a>,
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 networks, and other directly democratic structures. Proponents argue
 these institutions can gradually expand and replace capitalist and state
 institutions. This approach emphasizes:
 
-- Building <a href="counter-institutions.md" class="wikilink"
+- Building <a href="counter-institutions" class="wikilink"
   title="counter-institutions">counter-institutions</a> that meet
   people's needs outside capitalist and state systems
-- Creating worker and consumer <a href="cooperatives.md" class="wikilink"
+- Creating worker and consumer <a href="cooperatives" class="wikilink"
   title="cooperatives">cooperatives</a>
 - Establishing community land trusts and housing cooperatives
 - Developing alternative economic networks and time banks
@@ -125,7 +125,7 @@ Critics within the anarchist movement, however, argue this approach
 faces several problems. Cooperatives operating within capitalist markets
 face competitive pressures that force them to compromise their
 principles or remain marginal. As
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> warned, cooperatives alone cannot transform society
 without confronting property relations and state power:
 
@@ -141,7 +141,7 @@ organizations, anti-fascist groups, and community defense networks. This
 approach sees dual power emerging through:
 
 - Building organizations through direct relationships and
-  <a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+  <a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 - Developing collective power through grassroots organizing rather than
   service provision
 - Creating structures capable of confronting state and capitalist power
@@ -190,20 +190,20 @@ While the term "dual power" is associated with the Russian Revolution,
 anarchists point to various historical examples of competing centers of
 popular power:
 
-- The <a href="Spanish_Revolution.md" class="wikilink"
+- The <a href="Spanish_Revolution" class="wikilink"
   title="Spanish Revolution">Spanish Revolution</a> (1936-1939), where
   revolutionary committees, workers' collectives, and militias coexisted
   uneasily with the Republican government
 - The
-  <a href="Paris_Commune.md" class="wikilink" title="Paris Commune">Paris
+  <a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
   Commune</a> (1871), where workers established their own governing
   structures in opposition to the French state
 - The
-  <a href="Makhnovist.md" class="wikilink" title="Makhnovist">Makhnovist</a>
+  <a href="Makhnovist" class="wikilink" title="Makhnovist">Makhnovist</a>
   movement in Ukraine (1918-1921), which established autonomous zones
   with workers' and peasants' councils
 - Various experiments in
-  <a href="workers&#39;_self-management.md" class="wikilink"
+  <a href="workers&#39;_self-management" class="wikilink"
   title="workers&#39; self-management">workers' self-management</a>
   including factory occupations and community takeovers
 
@@ -239,20 +239,20 @@ orientation:
 
 ## Related Concepts
 
-- <a href="Prefiguration.md" class="wikilink"
+- <a href="Prefiguration" class="wikilink"
   title="Prefiguration">Prefiguration</a> - creating new social
   relations in the present that model the desired future society
-- <a href="Counterpower.md" class="wikilink"
+- <a href="Counterpower" class="wikilink"
   title="Counterpower">Counterpower</a> - a term sometimes used instead
   of "dual power" to distinguish anarchist strategy from Leninist
   origins
-- <a href="Workers&#39;_Self-Management.md" class="wikilink"
+- <a href="Workers&#39;_Self-Management" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a> -
   direct control of workplaces by workers
-- <a href="Platformism.md" class="wikilink"
+- <a href="Platformism" class="wikilink"
   title="Platformism">Platformism</a> - an organizational approach that
   influenced some contemporary dual power advocates
-- <a href="Syndicalism.md" class="wikilink"
+- <a href="Syndicalism" class="wikilink"
   title="Syndicalism">Syndicalism</a> - strategy of building
   revolutionary unions as organs of workers' power
 
@@ -260,21 +260,21 @@ orientation:
 
 <references/>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Marxist-Leninism.md" class="wikilink"
+<a href="Category:Marxist-Leninism" class="wikilink"
 title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
-<a href="Category:Anarchist_Strategy.md" class="wikilink"
+<a href="Category:Anarchist_Strategy" class="wikilink"
 title="Category:Anarchist Strategy">Category:Anarchist Strategy</a>
-<a href="Category:Revolutionary_Strategy.md" class="wikilink"
+<a href="Category:Revolutionary_Strategy" class="wikilink"
 title="Category:Revolutionary Strategy">Category:Revolutionary
-Strategy</a> <a href="Category:Libertarian_Socialism.md" class="wikilink"
+Strategy</a> <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

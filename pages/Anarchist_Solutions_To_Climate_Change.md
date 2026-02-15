@@ -405,23 +405,23 @@ life.
 
 <references/>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ecology.md" class="wikilink"
+<a href="Category:Ecology" class="wikilink"
 title="Category:Ecology">Category:Ecology</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Climate_Change.md" class="wikilink"
+Socialism</a> <a href="Category:Climate_Change" class="wikilink"
 title="Category:Climate Change">Category:Climate Change</a>
-<a href="Category:Direct_Action.md" class="wikilink"
+<a href="Category:Direct_Action" class="wikilink"
 title="Category:Direct Action">Category:Direct Action</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Anarchist Federation, *Capitalism is Killing the Earth: An

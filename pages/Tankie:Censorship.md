@@ -371,3 +371,10 @@
 - <https://archive.vn/RFoVp> \[EN\] - Marxists.org banned in China
 - <https://archive.vn/CgsHr> \[EN\] Chinese state media Global Times
   admits that the government is censoring karaoke songs
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

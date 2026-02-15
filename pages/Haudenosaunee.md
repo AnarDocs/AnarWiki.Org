@@ -217,7 +217,7 @@ intermarried.[^31]
 In 1990, Mohawks in Oka (near "Montreal") held a 77-day blockade which
 successfully stopped the construction of a proposed golf course. This
 standoff is known as the
-<a href="Oka_Crisis.md" class="wikilink" title="Oka Crisis">Oka Crisis</a>.
+<a href="Oka_Crisis" class="wikilink" title="Oka Crisis">Oka Crisis</a>.
 
 ## 1492 Land Back Lane
 
@@ -231,7 +231,7 @@ still going.[^33]
 ## Neighboring Societies
 
 In precolonial times, the Haudenosaunee signed a treaty with the
-<a href="Nishnaabeg.md" class="wikilink" title="Nishnaabeg">Nishnaabeg</a>
+<a href="Nishnaabeg" class="wikilink" title="Nishnaabeg">Nishnaabeg</a>
 called Gdoo-naaganinaa, meaning "Our dish." The treaty recognized the
 fact that the two parties ate from a shared "dish" since they shared
 hunting areas and overlapping plant and animal species depended on the
@@ -240,7 +240,7 @@ abuse the landbase, and Nishnaabeg and Haudenosaunee delegates were
 required to regularly gather for meetings and rituals.[^34]
 
 In the seventeenth century, the Haudenosaunee waged war against the
-<a href="Wendat.md" class="wikilink" title="Wendat">Wendat</a> (Huron) that
+<a href="Wendat" class="wikilink" title="Wendat">Wendat</a> (Huron) that
 Murray Bookchin described as a “genocidal”. Stephen Arthur responds that
 the “conflict is better understood as a civil war of political
 unification among Iroquois speakers...the result was far from genocide
@@ -345,11 +345,11 @@ commander Kerala ("The Age of Great Progress, pp. 479-547).
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
 
 [^1]: Barbara Mann and Jerry Fields, "A Sign in the Sky: Dating the

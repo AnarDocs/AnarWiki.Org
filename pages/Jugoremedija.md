@@ -36,9 +36,9 @@ participatory governance through constituent assemblies.[^1]
 
 <references/>
 
-<a href="Category:Serbia.md" class="wikilink"
+<a href="Category:Serbia" class="wikilink"
 title="Category:Serbia">Category:Serbia</a>
-<a href="Category:Strikes.md" class="wikilink"
+<a href="Category:Strikes" class="wikilink"
 title="Category:Strikes">Category:Strikes</a>
 
 [^1]: Andrej Grubacic, *Don't Mourn, Balkanize!: Essays After

@@ -468,3 +468,10 @@
 - You can't like Mao and Castro at the same time. Across the Global
   South they were at odds with each other. Castro's victories were Mao's
   defeats and vice versa. It was more than an ideological split
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

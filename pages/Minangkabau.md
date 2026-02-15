@@ -16,7 +16,7 @@ roles in ceremonies and land ownership.[^1]
 
 The Minangkabau have matrilocal residency and practice "visiting
 marriage" (similar to the "walking marriage" of the
-<a href="Mosuo.md" class="wikilink" title="Mosuo">Mosuo</a>), meaning that
+<a href="Mosuo" class="wikilink" title="Mosuo">Mosuo</a>), meaning that
 the alternates between living with his biological family and visiting
 his wife's family as a regular guest. Traditionally, 40 to 80 people
 from 3 generations would live in a large "motherhouse" which had room
@@ -48,15 +48,15 @@ rice, bananas, coconuts, and hot peppers.[^7]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-<a href="Category:Society.md" class="wikilink"
+<a href="Category:Society" class="wikilink"
 title="Category:Society">Category:Society</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Sadiq Bhanbhro, " Indonesia’s Minangkabau culture promotes

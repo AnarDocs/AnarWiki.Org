@@ -109,3 +109,10 @@
   Africa, Brazil) and colonial powers (eg. France, United Kingdom) who
   actively block any attempt of incorporating destruction of culture,
   religion, language and intelligentsia as “genocide”.
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

@@ -1,8 +1,8 @@
 # Early Christians
 
-Among the <a href="Early_Israelites.md" class="wikilink"
+Among the <a href="Early_Israelites" class="wikilink"
 title="Early Israelites">Early Israelites</a> and "influenced influenced
-by <a href="Essenes.md" class="wikilink" title="Essenian models">Essenian
+by <a href="Essenes" class="wikilink" title="Essenian models">Essenian
 models</a>"[^1] were the Jewish communistic followers of Yeshua (ישוע).
 Translated into the Greek Iesous, then the Latin Iesus, he is commonly
 known today as Jesus.
@@ -95,19 +95,19 @@ followers had rebelled.
 
 The influence of the early Christians on anti-authoritarians has been
 extremely vast, including on the
-<a href="Diggers.md" class="wikilink" title="Diggers">Diggers</a>,
-<a href="John_Brown&#39;s_raids.md" class="wikilink"
+<a href="Diggers" class="wikilink" title="Diggers">Diggers</a>,
+<a href="John_Brown&#39;s_raids" class="wikilink"
 title="John Brown&#39;s raids">John Brown's raids</a>, and the
-<a href="Catholic_Worker.md" class="wikilink"
+<a href="Catholic_Worker" class="wikilink"
 title="Catholic Worker">Catholic Worker</a>.
 
 ## References
 
 <references/>
 
-<a href="Category:Religion.md" class="wikilink"
+<a href="Category:Religion" class="wikilink"
 title="Category:Religion">Category:Religion</a>
-<a href="Category:Christianity.md" class="wikilink"
+<a href="Category:Christianity" class="wikilink"
 title="Category:Christianity">Category:Christianity</a>
 
 [^1]: Karl Kautsky, *Foundations of Christianity*, 1908, Book Four,

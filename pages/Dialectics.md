@@ -6,7 +6,7 @@
 development through contradiction and the resolution of opposing forces.
 While dialectical thinking has ancient roots, it became central to
 Marxist philosophy through Karl Marx's appropriation and transformation
-of <a href="Georg_Wilhelm_Friedrich_Hegel.md" class="wikilink"
+of <a href="Georg_Wilhelm_Friedrich_Hegel" class="wikilink"
 title="Georg Wilhelm Friedrich Hegel">Georg Wilhelm Friedrich Hegel</a>'s
 idealist dialectics into what he claimed was a materialist framework.
 Marx asserted he had "turned Hegel right-side up" by grounding
@@ -19,17 +19,29 @@ historical inevitability, removes human agency and moral choice from
 political struggle, and creates an intellectual priesthood of those who
 claim to understand the "laws of history."
 
+> ‘Now, dialectical materialism is a very subtle and complicated system
+> of abstractions and a method of mental calculus for manipulating the
+> events of the world. Its successful practice usually requires the
+> ability to quote obscure biblical texts at the drop of a polemic. Its
+> use also requires the attainment of the mental habit of refusing to
+> ask simple questions in ordinary English (or whatever language you
+> speak). ... The content of ‘dialectical materialism’ consists of
+> unproved and unprovable assertions, along with enough obvious truisms
+> to give it the air of plausibility. An argument about its
+> ‘correctness’ could likely go on forever without any successful
+> conclusion.’ - P. Murtaugh, The End of Dialectical Materialism[^2]
+
 ## Origins
 
 ### Hegelian Dialectics
 
 Dialectics as a philosophical method traces back to ancient Greece,
 particularly to
-<a href="Heraclitus.md" class="wikilink" title="Heraclitus">Heraclitus</a>
+<a href="Heraclitus" class="wikilink" title="Heraclitus">Heraclitus</a>
 who argued that "everything flows" and emphasized the unity of
 opposites, and to
-<a href="Plato.md" class="wikilink" title="Plato">Plato</a>'s dialectical
-method in the Dialogues featuring Socratic questioning.[^2] However,
+<a href="Plato" class="wikilink" title="Plato">Plato</a>'s dialectical
+method in the Dialogues featuring Socratic questioning.[^3] However,
 modern dialectics is most associated with the German idealist
 philosopher G.W.F. Hegel.
 
@@ -38,7 +50,7 @@ driven by the development of the "World Spirit" or "Idea" through
 contradiction and resolution. Though the phrase
 "thesis-antithesis-synthesis" is commonly but incorrectly attributed to
 Hegel, his method did emphasize how contradictions in thought and
-consciousness drive historical development.[^3]
+consciousness drive historical development.[^4]
 
 For Hegel, dialectical development occurred primarily in the realm of
 ideas and consciousness. Reality itself was understood as the unfolding
@@ -49,7 +61,7 @@ or ideal forces.
 ### Marx's "Materialist" Transformation
 
 Karl Marx, initially a
-<a href="Young_Hegelian.md" class="wikilink" title="Young Hegelian">Young
+<a href="Young_Hegelian" class="wikilink" title="Young Hegelian">Young
 Hegelian</a>, claimed to have fundamentally transformed Hegel's
 dialectics by making it materialist rather than idealist. In the
 postface to the second edition of Capital, Marx wrote:
@@ -58,18 +70,18 @@ postface to the second edition of Capital, Marx wrote:
 direct opposite. To Hegel, the Idea is the demiurgos \[creator\] of the
 real world, and the real world is only the external, phenomenal form of
 'the Idea.' With me, on the contrary, the ideal is nothing else than the
-material world reflected by the human mind."[^4]
+material world reflected by the human mind."[^5]
 
 Marx argued that contradictions exist not in thought or consciousness,
 but in material phenomena, particularly in economic relations such as
 the conflict between capital and labor. He proposed that dialectical
 analysis could resolve these material contradictions through
 understanding how systems of
-<a href="social_organization.md" class="wikilink"
+<a href="social_organization" class="wikilink"
 title="social organization">social organization</a> are structured by
 modes of production.
 
-<a href="Friedrich_Engels.md" class="wikilink"
+<a href="Friedrich_Engels" class="wikilink"
 title="Friedrich Engels">Friedrich Engels</a> later systematized
 dialectical materialism in works like *Dialectics of Nature* and
 *Anti-Dühring*, formulating three "laws" of dialectics:
@@ -77,7 +89,7 @@ dialectical materialism in works like *Dialectics of Nature* and
 1.  The law of the unity and conflict of opposites
 2.  The law of the passage of quantitative changes into qualitative
     changes
-3.  The law of the negation of the negation[^5]
+3.  The law of the negation of the negation[^6]
 
 According to Engels and subsequent Marxist-Leninists, these laws
 governed not only human society but nature itself, making dialectical
@@ -93,11 +105,6 @@ anarchists argue that the useful parts of Marx's analysis—economic
 critique and recognition of class conflict—require no dialectical
 framework, and that dialectics adds nothing but mystification and
 determinism.
-
-As one anarchist critic noted, the dialectical method often appears
-unfalsifiable: "Any outcome can be explained dialectically after the
-fact. Revolution succeeds? Dialectical progress! Revolution fails?
-Dialectical contradiction not yet ripe!"[^6]
 
 ## Anarchist Critiques
 
@@ -182,11 +189,11 @@ than liberation.[^14]
 
 ### Fatalism and Determinism
 
-<a href="Errico_Malatesta.md" class="wikilink"
+<a href="Errico_Malatesta" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> provided one of the most
 penetrating anarchist critiques of dialectical materialism, seeing it as
 just as fatalistic as Hegelian idealism. He criticized
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> for falling into "mechanistic fatalism" by attempting to
 make anarchism scientifically inevitable through dialectical reasoning,
 arguing this removes human will and choice from history.[^15]
@@ -205,7 +212,7 @@ of accelerating or protecting "inevitable" historical development.
 
 ### Bakunin's Rejection
 
-<a href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a>, initially influenced by
 Hegelian dialectics as a left Hegelian, later rejected dialectical
 necessity—the idea that contradictions must resolve in predetermined
@@ -221,7 +228,7 @@ justification for the dictatorship of intellectuals over workers.
 
 ### Proudhon's Alternative
 
-<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> developed his
 own use of dialectical reasoning but without Hegelian metaphysical
 baggage. His concept of "antinomies" showed contradictions without
@@ -229,7 +236,7 @@ claiming they resolved in predetermined ways or followed inexorable
 historical laws.
 
 Proudhon's famous statement that
-"<a href="property.md" class="wikilink" title="property">property</a> is
+"<a href="property" class="wikilink" title="property">property</a> is
 theft" AND property is necessary exemplifies this approach. The
 contradiction doesn't resolve into a neat synthesis but must be managed
 through practical arrangements. This represents dialectical thinking
@@ -280,15 +287,13 @@ interpretations of the same phenomenon. The working class is
 revolutionary because of capitalism's contradictions; the working class
 is not revolutionary because of bourgeois hegemony, the labor
 aristocracy, or false consciousness. Any outcome can be explained
-dialectically after the fact: "Revolution succeeds? Dialectical
-progress! Revolution fails? Dialectical contradiction not yet
-ripe!"[^19]
+dialectically after the fact.
 
 This ambiguity works to Marxism's advantage by making it impossible to
 disprove. As Tabor notes, "Marxism only appears valid if it is given the
 benefit of the doubt. In order to believe that Marxism is true, one has
 to want it to be true, and to look for things that appear to confirm it,
-while denying or explaining away things that don't."[^20]
+while denying or explaining away things that don't."[^19]
 
 For a theory claiming scientific status, this lack of precision is
 fatal. Scientific theories must be stated precisely enough to be tested
@@ -323,7 +328,7 @@ should never forget that our whole economic, political and intellectual
 development presupposes a state of things in which slavery was as
 necessary as it was universally recognized. In this sense we are
 entitled to say: Without the slavery of antiquity no modern
-socialism."[^21]
+socialism."[^20]
 
 Kevin Carson responded to this logic: "The anarchist position, in
 contrast, is that exploitation and class rule are not inevitable at any
@@ -331,7 +336,21 @@ time; they depend upon intervention by the state, which is not at all
 necessary. Just social and economic relations are compatible with any
 level of technology; technical progress can be achieved and new
 technology integrated into production in any society, through free work
-and voluntary cooperation."[^22]
+and voluntary cooperation."[^21]
+
+This logic extends beyond revolutionary rhetoric into the structure of
+socialist movements themselves. Dialectical materialism functions as a
+class ideology serving a "new class" of party bureaucrats and
+intellectuals. It operates on two levels: for ordinary members it
+provides mystifying abstractions about "historical necessity" that
+justify accepting authoritarian rule as temporary and necessary; for the
+ruling intelligentsia, it provides moral justification for their
+privileged position, since mastery of the theory supposedly grants
+unique insight making their leadership scientifically necessary. As
+Murtaugh put it, dialectical materialism's addition to socialist
+movements "has certainly made the self definition of various people,
+usually intellectuals, as 'revolutionary leaders' immensely
+easier."[^22]
 
 ### Marxist Messianism
 
@@ -362,31 +381,6 @@ rationalize any atrocity as a necessary step toward the inevitable
 future. Traditional morality is dismissed as bourgeois ideology; the end
 justifies any means when the stakes are saving humanity itself.
 
-## Dialectics as Ideology
-
-From an anarchist perspective, dialectical materialism functions as a
-class ideology serving the interests of a "new class" of party
-bureaucrats and intellectuals. Like other class ideologies, it operates
-on two levels:
-
-For the masses, Marxist dialectics provides mystifying abstractions
-about "proletarian dictatorship" and "historical necessity" that justify
-accepting authoritarian rule as temporary and necessary.
-
-For the ruling intelligentsia, dialectics provides moral justification
-for their privileged position. Their mastery of dialectical theory
-supposedly gives them unique insight into historical development, making
-their leadership not merely useful but scientifically necessary.
-
-The possession of dialectical materialism as specialist knowledge
-creates a tangible difference between revolutionary leaders and
-rank-and-file members. As Murtaugh observed: "Whether the doubtful
-usefulness of dialectical materialism in solving practical problems is
-ever shown to be real or not... the fact is that its addition to the
-ideological baggage of the socialist movement has certainly made the
-self definition of various people, usually intellectuals, as
-'revolutionary leaders' immensely easier."[^25]
-
 ## Contemporary Assessment
 
 Modern philosophers of science generally view dialectical materialism
@@ -412,7 +406,7 @@ materialism:
 
 **Kropotkin** attempted to ground anarchist theory in biology and
 anthropology, particularly through his concept of
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 in evolution, though Malatesta criticized this as its own form of
 determinism.
 
@@ -428,7 +422,7 @@ tensions rather than their theoretical resolution.
 linear historical progress and stage theories. As Umali argues,
 autonomous indigenous communities "consciously maintained their
 cultures" and their "resilience is attributed to their love of freedom
-and self-determination."[^26] These societies demonstrate that
+and self-determination."[^25] These societies demonstrate that
 stateless, non-hierarchical organization is not a primitive stage to be
 transcended but a viable and desirable form of social organization.
 
@@ -439,7 +433,7 @@ re-installing indigenous ways of life, not at progressing to a "higher"
 stage of development. From a statist perspective informed by dialectical
 materialism, such resistance is dismissed as "primitive" rather than
 recognized as defense of functioning alternatives to hierarchical
-civilization.[^27]
+civilization.[^26]
 
 Modern anarchists often employ materialist analysis—examining economic
 structures, power relations, and social organization—without adopting
@@ -530,7 +524,7 @@ domination as they arise. There is no point at which the struggle ends
 because the "correct" stage of history has been reached.
 
 This perspective explains anarchism's emphasis on
-**<a href="prefigurative_politics.md" class="wikilink"
+**<a href="prefigurative_politics" class="wikilink"
 title="prefigurative politics">prefigurative politics</a>**—the
 principle that means must match ends. Since the process of struggle
 shapes its outcomes, one cannot use hierarchical domination to achieve
@@ -609,17 +603,11 @@ society but rather diverse experiments in horizontal organization, each
 adapted to its particular circumstances. This diversity is strength, not
 deviation from scientific law.
 
-This pluralistic approach aligns with ecological principles: resilient
-systems depend on diversity, not uniformity. Just as monocultures are
-vulnerable while diverse ecosystems adapt and persist, movements for
-freedom are strengthened by multiple experiments and approaches rather
-than adherence to a single correct line.
-
 ### Analytical Philosophy as an Anarchist Alternative
 
 Some anarchist thinkers such as
-<a href="Alan_Carter.md" class="wikilink" title="Alan Carter">Alan
-Carter</a>[^28] have turned to analytical philosophy as an explicit
+<a href="Alan_Carter" class="wikilink" title="Alan Carter">Alan
+Carter</a>[^27] have turned to analytical philosophy as an explicit
 alternative to dialectical reasoning. Analytical philosophy emphasizes
 clarity of expression, logical rigor, precise definitions, and empirical
 verification—precisely the qualities that dialectical materialism lacks.
@@ -661,13 +649,6 @@ mysteries, analytical approaches make arguments accessible to anyone
 willing to engage with them critically. This democratic character makes
 analytical philosophy more compatible with anarchist values than the
 elitist implications of dialectical reasoning.
-
-This approach recognizes that societies develop in multiple directions,
-not along a single axis from primitive to advanced. It acknowledges that
-"progress" is not linear or inevitable, and that communities may
-rationally choose to maintain non-industrial, non-state forms of
-organization. It replaces the hierarchical logic of stages with an
-appreciation for diversity, horizontality, and self-determination.
 
 ## Conclusion
 
@@ -723,7 +704,7 @@ or materialist perspectives, but because dialectical materialism:
 
 As Umali concludes, dialectical materialism "replicates oppressive
 systems" because its "singular and hierarchical direction inevitably
-discriminates societies that are not Eurocentric."[^29] A truly
+discriminates societies that are not Eurocentric."[^28] A truly
 liberatory framework must abandon the notion of predetermined historical
 stages and universal laws of development in favor of recognizing the
 validity and viability of diverse, non-hierarchical forms of social
@@ -733,23 +714,10 @@ The anarchist critique does not mean rejecting all materialist analysis
 or all recognition of economic factors in shaping society. Rather, it
 means rejecting the specific dialectical framework with its Hegelian
 baggage, its Eurocentric assumptions, and its deterministic conclusions.
-An anarchist materialism recognizes that:
-
-- Societies can develop in multiple directions, not just along a single
-  axis
-- Non-industrial, stateless societies are not "primitive" but represent
-  conscious choices
-- Economic factors influence but do not determine all social development
-- Human agency, moral choice, and diverse cultural values matter
-- No single class or group has a monopoly on revolutionary potential
-- Freedom and horizontality can exist at any "stage" of technological
-  development
-
-In place of dialectical materialism's grand narrative of inevitable
-progress through predetermined stages, anarchists embrace a perspective
-that values diversity, respects self-determination, and recognizes that
-the future is open—shaped by choices people make rather than by
-inexorable historical laws.
+In place of that grand narrative, anarchists embrace a perspective that
+values diversity, respects self-determination, and recognizes that the
+future is open—shaped by choices people make rather than by inexorable
+historical laws.
 
 ## References
 
@@ -771,33 +739,33 @@ inexorable historical laws.
   libertarian Marxists, P.
   Murtaugh](https://theanarchistlibrary.org/library/p-murtaugh-the-end-of-dialectical-materialism-an-anarchist-reply-to-the-libertarian-marxists)
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Marxism.md" class="wikilink"
+<a href="Category:Marxism" class="wikilink"
 title="Category:Marxism">Category:Marxism</a>
-<a href="Category:Philosophy.md" class="wikilink"
+<a href="Category:Philosophy" class="wikilink"
 title="Category:Philosophy">Category:Philosophy</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 
 [^1]: Karl Marx, Capital: A Critique of Political Economy, Postface to
     the Second Edition
 
-[^2]: Hegel, Science of Logic
+[^2]: Volume 2, Number 2 of The Red Menace, Spring 1978
 
-[^3]: Karl Marx explicitly rejected this formulation in his critique of
+[^3]: Hegel, Science of Logic
+
+[^4]: Karl Marx explicitly rejected this formulation in his critique of
     Fichte's language
 
-[^4]: Marx, Capital, Vol. 1, Postface to Second Edition
+[^5]: Marx, Capital, Vol. 1, Postface to Second Edition
 
-[^5]: Engels, Dialectics of Nature
-
-[^6]: Notes on Dialectics
+[^6]: Engels, Dialectics of Nature
 
 [^7]: Bas Umali, "Dialectical Historical Materialism: An Effective Tool
     for Authoritarian Politics, Dominance and Control in the
@@ -809,15 +777,15 @@ Concepts</a>
 [^9]: Ron Tabor, "The Dialectics of Ambiguity: The Marxist Theory of
     History"
 
-[^10]: Umali, "Dialectical Historical Materialism"
+[^10]:
 
-[^11]: Umali, "Dialectical Historical Materialism"
+[^11]:
 
-[^12]: Umali, "Dialectical Historical Materialism"
+[^12]:
 
-[^13]: Umali, "Dialectical Historical Materialism"
+[^13]:
 
-[^14]: Umali, "Dialectical Historical Materialism"
+[^14]:
 
 [^15]: Malatesta, various writings
 
@@ -826,29 +794,26 @@ Concepts</a>
 [^17]: P. Murtaugh, "The End of Dialectical Materialism," The Red
     Menace, Spring 1978
 
-[^18]: Ron Tabor, "The Dialectics of Ambiguity: The Marxist Theory of
-    History"
+[^18]:
 
-[^19]: Notes on Dialectics
+[^19]:
 
-[^20]: Tabor, "The Dialectics of Ambiguity"
+[^20]: Engels, Anti-Dühring
 
-[^21]: Engels, Anti-Dühring
+[^21]: Kevin Carson, critique of Engels
 
-[^22]: Kevin Carson, critique of Engels
+[^22]:
 
-[^23]: Tabor, "The Dialectics of Ambiguity"
+[^23]:
 
-[^24]: Tabor, "The Dialectics of Ambiguity"
+[^24]:
 
-[^25]: Murtaugh, "The End of Dialectical Materialism"
+[^25]:
 
-[^26]: Umali, "Dialectical Historical Materialism"
+[^26]:
 
-[^27]: Umali, "Dialectical Historical Materialism"
-
-[^28]: [Analytical
+[^27]: [Analytical
     Anarchism](https://theanarchistlibrary.org/library/alan-carter-analytical-anarchism):
     Some Conceptual Foundations, 2000
 
-[^29]: Umali, "Dialectical Historical Materialism"
+[^28]:

@@ -2,12 +2,12 @@
 
 **François Claudius Ravachol** (born Koenigstein; 14 October 1859 – 11
 July 1892) was a French
-<a href="illegalist.md" class="wikilink" title="illegalist">illegalist</a>
-<a href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="illegalist" class="wikilink" title="illegalist">illegalist</a>
+<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
 whose bombing campaign against magistrates in 1892 made him both a
 martyr figure within anarchist circles and a symbol of the
 contradictions inherent in violent
-<a href="propaganda_of_the_deed.md" class="wikilink"
+<a href="propaganda_of_the_deed" class="wikilink"
 title="propaganda of the deed">propaganda of the deed</a>. While his
 actions were motivated by genuine outrage at state repression and
 judicial persecution of anarchists, they ultimately contributed to
@@ -19,10 +19,10 @@ firsthand the brutality of capitalist exploitation and state violence.
 His bombing campaign targeted Judge Edmond Benoît and Prosecutor Léon
 Bulot, who had handed down harsh sentences to anarchists arrested during
 the
-<a href="Clichy_affair.md" class="wikilink" title="Clichy affair">Clichy
+<a href="Clichy_affair" class="wikilink" title="Clichy affair">Clichy
 affair</a> of 1891. Though his attacks caused no deaths, Ravachol's
 arrest, trials, and execution by guillotine transformed him into a folk
-hero and launched the <a href="Ère_des_attentats.md" class="wikilink"
+hero and launched the <a href="Ère_des_attentats" class="wikilink"
 title="Ère des attentats">Ère des attentats</a> (1892–1894), a period of
 anarchist bombings in France that proved both inspiring and devastating
 to the movement.
@@ -109,11 +109,11 @@ disappearing into the night.[^8]
 It is crucial to understand that Ravachol's radicalization occurred
 against a backdrop of extraordinary state violence against working
 people and anarchists. In 1891, the
-<a href="Fourmies_massacre.md" class="wikilink"
+<a href="Fourmies_massacre" class="wikilink"
 title="Fourmies massacre">Fourmies massacre</a> saw the army open fire
 on demonstrators demanding an eight-hour workday, killing multiple
 workers. The
-<a href="Clichy_affair.md" class="wikilink" title="Clichy affair">Clichy
+<a href="Clichy_affair" class="wikilink" title="Clichy affair">Clichy
 affair</a> that same year involved anarchists being arrested, struck
 with sabers, beaten, and deprived of water and medical care by police.
 
@@ -183,7 +183,7 @@ informed the owner, Jean-Marie Véry. Véry denounced Ravachol to police,
 leading to his arrest. Though police increased security around the
 restaurant, anarchist militants Jean-Pierre François and Théodule
 Meunier soon carried out the
-<a href="Véry_bombing.md" class="wikilink" title="Véry bombing">Véry
+<a href="Véry_bombing" class="wikilink" title="Véry bombing">Véry
 bombing</a>, killing Véry in revenge for his collaboration with
 authorities.[^15]
 
@@ -416,37 +416,37 @@ Koenigstein—are named after him.
 
 ## See Also
 
-- <a href="Propaganda_of_the_deed.md" class="wikilink"
+- <a href="Propaganda_of_the_deed" class="wikilink"
   title="Propaganda of the deed">Propaganda of the deed</a>
-- <a href="Expropriative_anarchism.md" class="wikilink"
+- <a href="Expropriative_anarchism" class="wikilink"
   title="Expropriative anarchism">Expropriative anarchism</a>
-- <a href="Illegalism.md" class="wikilink" title="Illegalism">Illegalism</a>
-- <a href="Ère_des_attentats.md" class="wikilink"
+- <a href="Illegalism" class="wikilink" title="Illegalism">Illegalism</a>
+- <a href="Ère_des_attentats" class="wikilink"
   title="Ère des attentats">Ère des attentats</a>
-- <a href="Clichy_affair.md" class="wikilink" title="Clichy affair">Clichy
+- <a href="Clichy_affair" class="wikilink" title="Clichy affair">Clichy
   affair</a>
-- <a href="Émile_Henry_(anarchist).md" class="wikilink"
+- <a href="Émile_Henry_(anarchist)" class="wikilink"
   title="Émile Henry (anarchist)">Émile Henry (anarchist)</a>
-- <a href="Auguste_Vaillant.md" class="wikilink"
+- <a href="Auguste_Vaillant" class="wikilink"
   title="Auguste Vaillant">Auguste Vaillant</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:French_Anarchists.md" class="wikilink"
+<a href="Category:French_Anarchists" class="wikilink"
 title="Category:French Anarchists">Category:French Anarchists</a>
-<a href="Category:Executed_Anarchists.md" class="wikilink"
+<a href="Category:Executed_Anarchists" class="wikilink"
 title="Category:Executed Anarchists">Category:Executed Anarchists</a>
-<a href="Category:Propaganda_of_the_Deed.md" class="wikilink"
+<a href="Category:Propaganda_of_the_Deed" class="wikilink"
 title="Category:Propaganda of the Deed">Category:Propaganda of the
-Deed</a> <a href="Category:Illegalism.md" class="wikilink"
+Deed</a> <a href="Category:Illegalism" class="wikilink"
 title="Category:Illegalism">Category:Illegalism</a>
-<a href="Category:1859_births.md" class="wikilink"
+<a href="Category:1859_births" class="wikilink"
 title="Category:1859 births">Category:1859 births</a>
-<a href="Category:1892_deaths.md" class="wikilink"
+<a href="Category:1892_deaths" class="wikilink"
 title="Category:1892 deaths">Category:1892 deaths</a>
 
 [^1]: John M. Merriman, *The Dynamite Club: How a Bombing in

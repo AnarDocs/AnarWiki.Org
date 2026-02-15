@@ -223,6 +223,8 @@ title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 title="Category:Concepts">Category:Concepts</a>
 <a href="Category:Justice" class="wikilink"
 title="Category:Justice">Category:Justice</a>
+<a href="Category:Community_Justice" class="wikilink"
+title="Category:Community Justice">Category:Community Justice</a>
 <a href="Category:Prison_Abolition" class="wikilink"
 title="Category:Prison Abolition">Category:Prison Abolition</a>
 <a href="Category:Anti-Authoritarianism" class="wikilink"

@@ -1,13 +1,13 @@
 **The Red Guard Party** was a
-<a href="Maoism.md" class="wikilink" title="Maoist">Maoist</a> and
-<a href="Anti-Racism.md" class="wikilink"
+<a href="Maoism" class="wikilink" title="Maoist">Maoist</a> and
+<a href="Anti-Racism" class="wikilink"
 title="anti-racist">anti-racist</a> group consisting of Chinese
 Americans formed in San Francisco,
-<a href="United_States_of_America.md" class="wikilink" title="USA">USA</a>
-in February <a href="Revolutions_of_1967_-_1975.md" class="wikilink"
+<a href="United_States_of_America" class="wikilink" title="USA">USA</a>
+in February <a href="Revolutions_of_1967_-_1975" class="wikilink"
 title="1969">1969</a>, naming the group after the
-<a href="Red_Guards_(China).md" class="wikilink" title="Red Guards">Red
-Guards</a> of <a href="Cultural_Revolution_(China).md" class="wikilink"
+<a href="Red_Guards_(China)" class="wikilink" title="Red Guards">Red
+Guards</a> of <a href="Cultural_Revolution_(China)" class="wikilink"
 title="Chinese Cultural Revolution">Chinese Cultural Revolution</a>.
 
 ## Background
@@ -19,7 +19,7 @@ Chinese people - throughout its history.
 
 The Red Guard formation resulted from several societal and economic
 pressures combined in the late 1960s. During that time, the
-<a href="Black_Panther_Party.md" class="wikilink"
+<a href="Black_Panther_Party" class="wikilink"
 title="Black Panther Party">Black Panther Party</a> had already gained
 significant media and community attention for their militaristic actions
 and struggles for self-determination and third world solidarity, and for
@@ -37,7 +37,7 @@ Red Guard party.<sup>\[2\]</sup> In the halls of Leway, youth were able
 to discuss openly revolutionary ideas and their disdain for the
 government that had contributed to their social injustice. Alex Hing,
 though not a founding member, provided leadership to the Red Guards.
-Under the <a href="Students_for_a_Democratic_Society.md" class="wikilink"
+Under the <a href="Students_for_a_Democratic_Society" class="wikilink"
 title="Students for a Democratic Society">Students for a Democratic
 Society</a>, Hing learned many leadership skills which he utilized in
 helping form the Red Guard. While advocating for Ethnic Studies at local
@@ -217,7 +217,7 @@ quoted saying, "freak fucking people out", the founding of the party
 with such a controversial name symbolized the Red Guard's abrasive
 nature that may have helped lead to their dissolution.
 
-<a href="Category:USA.md" class="wikilink"
+<a href="Category:USA" class="wikilink"
 title="Category:USA">Category:USA</a>
-<a href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>

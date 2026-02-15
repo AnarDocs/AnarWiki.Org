@@ -10,11 +10,11 @@ hundreds," they became the main opposition to fascism in some towns.[^1]
 
 <references/>
 
-<a href="Category:Germany.md" class="wikilink"
+<a href="Category:Germany" class="wikilink"
 title="Category:Germany">Category:Germany</a>
-<a href="Category:Anarcho-Syndicalism.md" class="wikilink"
+<a href="Category:Anarcho-Syndicalism" class="wikilink"
 title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
-<a href="Category:Anti-Fascist.md" class="wikilink"
+<a href="Category:Anti-Fascist" class="wikilink"
 title="Category:Anti-Fascist">Category:Anti-Fascist</a>
 
 [^1]: Mark Bray, *Antifa: The Anti-Fascist Handbook* (Brooklyn: Melville

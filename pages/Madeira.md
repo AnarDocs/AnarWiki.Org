@@ -10,11 +10,11 @@ model that would define capitalist expansion for centuries to come.
 
 ## Discovery and Early Colonization
 
-Portuguese captains <a href="João_Gonçalves_Zarco.md" class="wikilink"
+Portuguese captains <a href="João_Gonçalves_Zarco" class="wikilink"
 title="João Gonçalves Zarco">João Gonçalves Zarco</a> and
-<a href="Tristão_Vaz_Teixeira.md" class="wikilink"
+<a href="Tristão_Vaz_Teixeira" class="wikilink"
 title="Tristão Vaz Teixeira">Tristão Vaz Teixeira</a>, sailing under
-Prince <a href="Henry_the_Navigator.md" class="wikilink"
+Prince <a href="Henry_the_Navigator" class="wikilink"
 title="Henry the Navigator">Henry the Navigator</a>, were driven by
 storm to discover the island of Porto Santo in 1419. The following year,
 an expedition was sent to populate Porto Santo, and from there they
@@ -22,11 +22,11 @@ discovered the larger island of Madeira, taking possession on behalf of
 the Portuguese crown.[^1]
 
 The archipelago was granted to the
-<a href="Military_Order_of_Christ.md" class="wikilink"
+<a href="Military_Order_of_Christ" class="wikilink"
 title="Military Order of Christ">Military Order of Christ</a>, which
 promoted its settlement. Settlement began in earnest around 1420-1425,
 with colonists drawn from various regions of Portugal, particularly the
-<a href="Algarve.md" class="wikilink" title="Algarve">Algarve</a> and later
+<a href="Algarve" class="wikilink" title="Algarve">Algarve</a> and later
 the northern provinces.[^2]
 
 ## The Sugar Revolution
@@ -44,7 +44,7 @@ for want of good husbandry."[^3]
 
 By the 1450s, wheat production was proving insufficient, leading Prince
 Henry the Navigator to introduce
-<a href="sugarcane.md" class="wikilink" title="sugarcane">sugarcane</a>
+<a href="sugarcane" class="wikilink" title="sugarcane">sugarcane</a>
 cultivation as a more profitable alternative.[^4]
 
 This transition marked the beginning of what historians call the first
@@ -83,18 +83,18 @@ soil dramatically, producing extraordinary yields initially reported as
 high as 70:1.[^6]
 
 **Labor System**: The plantation employed enslaved workers, initially
-<a href="Guanches.md" class="wikilink" title="Guanches">Guanches</a> from
+<a href="Guanches" class="wikilink" title="Guanches">Guanches</a> from
 the
-<a href="Canary_Islands.md" class="wikilink" title="Canary Islands">Canary
+<a href="Canary_Islands" class="wikilink" title="Canary Islands">Canary
 Islands</a>, captured
-<a href="Berbers.md" class="wikilink" title="Berbers">Berbers</a>, and
+<a href="Berbers" class="wikilink" title="Berbers">Berbers</a>, and
 increasingly West Africans. This represented one of the first systematic
 applications of plantation slavery in the Atlantic world.
 
 **Capital Investment**: The sugar industry was financed by international
 banking networks, particularly merchants from
-<a href="Genoa.md" class="wikilink" title="Genoa">Genoa</a> and
-<a href="Flanders.md" class="wikilink" title="Flanders">Flanders</a>,
+<a href="Genoa" class="wikilink" title="Genoa">Genoa</a> and
+<a href="Flanders" class="wikilink" title="Flanders">Flanders</a>,
 creating an early form of globalized capital.[^7]
 
 ### Production Peak
@@ -102,7 +102,7 @@ creating an early form of globalized capital.[^7]
 By the 1470s, tiny Madeira had become the world's largest sugar
 producer. Annual production reached its peak of approximately 2,500 tons
 in 1506, making the island's capital
-<a href="Funchal.md" class="wikilink" title="Funchal">Funchal</a> a
+<a href="Funchal" class="wikilink" title="Funchal">Funchal</a> a
 mandatory port of call for European trade routes.[^8]
 
 ## Environmental and Economic Crisis
@@ -144,10 +144,10 @@ of capitalist expansion: the boom-bust-relocate model. Rather than
 representing failure, the regional crisis was fundamental to the
 system's operation. As one frontier became exhausted, capital and
 expertise flowed to new frontiers—first to
-<a href="São_Tomé.md" class="wikilink" title="São Tomé">São Tomé</a>, then
-<a href="Brazil.md" class="wikilink" title="Brazil">Brazil</a>, and later
+<a href="São_Tomé" class="wikilink" title="São Tomé">São Tomé</a>, then
+<a href="Brazil" class="wikilink" title="Brazil">Brazil</a>, and later
 the
-<a href="Caribbean.md" class="wikilink" title="Caribbean">Caribbean</a>.
+<a href="Caribbean" class="wikilink" title="Caribbean">Caribbean</a>.
 
 This pattern differed radically from medieval expansion, which was
 gradual and based on permanent settlement. The capitalist model
@@ -172,7 +172,7 @@ era.[^12]
 
 ### Columbus and the Spread of the Model
 
-<a href="Christopher_Columbus.md" class="wikilink"
+<a href="Christopher_Columbus" class="wikilink"
 title="Christopher Columbus">Christopher Columbus</a> spent significant
 time on Madeira in the 1470s and 1480s, during the height of the sugar
 boom. He married Filipa Moniz Perestrelo, daughter of Bartolomeu
@@ -209,7 +209,7 @@ template replicated across European colonial expansion.
 By the mid-16th century, Madeira's economy had transformed. As one
 contemporary noted in 1546, "most people on the island live by the
 vines."[^14] The island became famous for
-<a href="Madeira_wine.md" class="wikilink" title="Madeira wine">Madeira
+<a href="Madeira_wine" class="wikilink" title="Madeira wine">Madeira
 wine</a> rather than sugar, though this transition still reflected the
 same pattern of resource exploitation and international trade.
 
@@ -239,9 +239,9 @@ to turn land, labor, and money into tradable commodities.
 
 <references/>
 
-<a href="Category:Capitalism.md" class="wikilink"
+<a href="Category:Capitalism" class="wikilink"
 title="Category:Capitalism">Category:Capitalism</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Gomes Eanes de Zurara, *Chronica da Descoberta e Conquista da

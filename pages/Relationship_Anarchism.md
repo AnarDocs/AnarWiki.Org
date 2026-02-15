@@ -12,15 +12,15 @@ voluntary association, non-hierarchy, and the customization of each
 relationship according to the needs and desires of those involved.[^1]
 
 Relationship anarchy explicitly rejects both
-<a href="amatonormativity.md" class="wikilink"
+<a href="amatonormativity" class="wikilink"
 title="amatonormativity">amatonormativity</a> (the assumption that
 romantic relationships are superior to other forms) and
-<a href="mononormativity.md" class="wikilink"
+<a href="mononormativity" class="wikilink"
 title="mononormativity">mononormativity</a> (the assumption that
 monogamy is the default or ideal relationship structure). It is
 commonly, though not always, practiced in non-monogamous contexts.
 However, RA differs significantly from
-<a href="polyamory.md" class="wikilink" title="polyamory">polyamory</a> and
+<a href="polyamory" class="wikilink" title="polyamory">polyamory</a> and
 other forms of non-monogamy in that it rejects predetermined
 relationship hierarchies, rules, and agreements that restrict individual
 autonomy.[^2]
@@ -36,14 +36,14 @@ to oppressive gender norms, and commitment to freely chosen association.
 ## Origins
 
 Historical anarchist thinkers including
-<a href="William_Godwin.md" class="wikilink" title="William Godwin">William
-Godwin</a>, <a href="Mikhail_Bakunin.md" class="wikilink"
+<a href="William_Godwin" class="wikilink" title="William Godwin">William
+Godwin</a>, <a href="Mikhail_Bakunin" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a>, and
-<a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+<a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
 Goldman</a> wrote critically about traditional marriage and relationship
 structures, viewing them as institutions of property, control, and
 patriarchal domination. These early anarchists advocated for
-<a href="free_love.md" class="wikilink" title="free love">free love</a> -
+<a href="free_love" class="wikilink" title="free love">free love</a> -
 the idea that intimate relationships should be based on mutual desire
 and respect rather than legal, religious, or social coercion.
 
@@ -151,7 +151,7 @@ patriarchal relationship norms.
 ### Prefigurative Politics
 
 Many anarchists view relationship anarchy as a form of
-<a href="prefigurative_politics.md" class="wikilink"
+<a href="prefigurative_politics" class="wikilink"
 title="prefigurative politics">prefigurative politics</a> - creating the
 world we want to see through our present actions. By practicing
 non-hierarchical, autonomous relationships now, relationship anarchists
@@ -164,9 +164,9 @@ anti-contracts/rules/policing."[^10]
 
 Relationship anarchy emerged from and remains connected to queer,
 feminist, and anti-racist movements. It challenges
-<a href="heteronormativity.md" class="wikilink"
+<a href="heteronormativity" class="wikilink"
 title="heteronormativity">heteronormativity</a>, the
-<a href="nuclear_family.md" class="wikilink" title="nuclear family">nuclear
+<a href="nuclear_family" class="wikilink" title="nuclear family">nuclear
 family</a> as the default social unit, and relationship norms that serve
 capitalist economic structures (such as the privatization of care work
 within nuclear families). Roma De las Heras Gómez explores relationship
@@ -440,34 +440,34 @@ transformation.
 
 ### See Also
 
-- <a href="Free_Love.md" class="wikilink" title="Free Love">Free Love</a>
-- <a href="Monogamy.md" class="wikilink" title="Monogamy">Monogamy</a>
-- <a href="Marriage.md" class="wikilink" title="Marriage">Marriage</a>
-- <a href="Polyamory.md" class="wikilink" title="Polyamory">Polyamory</a>
-- <a href="Individual_Autonomy.md" class="wikilink"
+- <a href="Free_Love" class="wikilink" title="Free Love">Free Love</a>
+- <a href="Monogamy" class="wikilink" title="Monogamy">Monogamy</a>
+- <a href="Marriage" class="wikilink" title="Marriage">Marriage</a>
+- <a href="Polyamory" class="wikilink" title="Polyamory">Polyamory</a>
+- <a href="Individual_Autonomy" class="wikilink"
   title="Individual Autonomy">Individual Autonomy</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Relationships.md" class="wikilink"
+Socialism</a> <a href="Category:Relationships" class="wikilink"
 title="Category:Relationships">Category:Relationships</a>
-<a href="Category:Non-monogamous.md" class="wikilink"
+<a href="Category:Non-monogamous" class="wikilink"
 title="Category:Non-monogamous">Category:Non-monogamous</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Andie Nordgren, "The short instructional manifesto for

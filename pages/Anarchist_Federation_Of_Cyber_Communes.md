@@ -109,18 +109,18 @@ this organisation, we want to make that vision possible.
 
 <references />
 
-<a href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-<a href="Category:Current_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Current_Anarchist_Societies" class="wikilink"
 title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchist_Societies.md" class="wikilink"
+Communities</a> <a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:Articles.md" class="wikilink"
+<a href="Category:Articles" class="wikilink"
 title="Category:Articles">Category:Articles</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: <https://af2c.org/>

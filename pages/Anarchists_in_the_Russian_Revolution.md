@@ -1,9 +1,9 @@
-See <a href="Anarchy_in_the_Russian_Revolution.md" class="wikilink"
+See <a href="Anarchy_in_the_Russian_Revolution" class="wikilink"
 title="Anarchy in the Russian Revolution">Anarchy in the Russian
 Revolution</a> for a broader article discussing soviets, factory
-committees, the <a href="Kronstadt_rebellion.md" class="wikilink"
+committees, the <a href="Kronstadt_rebellion" class="wikilink"
 title="Kronstadt rebellion">Kronstadt rebellion</a> and
-<a href="Revolutionary_Ukraine.md" class="wikilink"
+<a href="Revolutionary_Ukraine" class="wikilink"
 title="Revolutionary Ukraine">Revolutionary Ukraine</a>.
 
 # Anarchists in the Russian Revolution
@@ -474,7 +474,7 @@ socialism. As Voline puts it:
 > was the first step towards the third and social revolution."*
 > \[Voline, **Op. Cit.**, pp. 537-8\]
 
-In the <a href="Revolutionary_Ukraine.md" class="wikilink"
+In the <a href="Revolutionary_Ukraine" class="wikilink"
 title="Ukraine">Ukraine</a>, anarchist ideas were most successfully
 applied. In areas under the protection of the Makhnovist movement,
 working class people organised their own lives directly, based on their
@@ -693,8 +693,8 @@ joined with the anarchists in rejecting the "socialism" in Russia as
 state capitalism and party dictatorship.
 
 Source:
-<a href="An_Anarchist_FAQ.md" class="wikilink" title="An Anarchist FAQ">An
+<a href="An_Anarchist_FAQ" class="wikilink" title="An Anarchist FAQ">An
 Anarchist FAQ</a>:
 
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>

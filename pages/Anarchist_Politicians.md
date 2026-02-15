@@ -11,9 +11,9 @@ positions their stories are interesting and informative.
 - Member of Spanish Parliament, 1838, 1840, 1845, 1854
 
 The first anarchist periodical,
-<a href="El_Porvenir.md" class="wikilink" title="El Porvenir">El
+<a href="El_Porvenir" class="wikilink" title="El Porvenir">El
 Porvenir</a>, was published by
-<a href="Ramon_de_La_Sagra.md" class="wikilink"
+<a href="Ramon_de_La_Sagra" class="wikilink"
 title="Ramon de La Sagra">Ramon de La Sagra</a>, a Proudhonist anarchist
 and politician.[^1]
 
@@ -28,7 +28,7 @@ books into Spanish.[^2]
 
 - Party President, Icelandic Pirate Party
 
-<a href="Birgitta_Jonsdottir.md" class="wikilink"
+<a href="Birgitta_Jonsdottir" class="wikilink"
 title="Birgitta Jonsdottir">Birgitta Jonsdottir</a> led the Icelandic
 Pirate Party for 8 years.[^3]
 
@@ -36,7 +36,7 @@ Pirate Party for 8 years.[^3]
 
 - Minister Of Health, Spanish Government, 1936
 
-<a href="Federica_Montsenny.md" class="wikilink"
+<a href="Federica_Montsenny" class="wikilink"
 title="Federica Montsenny">Federica Montsenny</a> was a firebrand
 anarchist industrial unionist. In 1936 she was elected as the Minister
 of Health in the popular front government, also the first female Spanish
@@ -45,7 +45,7 @@ Francoists, and Mussolini’s fascists.[^4]
 
 ## Jello Biafra
 
-<a href="Jello_Biafra.md" class="wikilink" title="Jello Biafra">Jello
+<a href="Jello_Biafra" class="wikilink" title="Jello Biafra">Jello
 Biafra</a>, once lead singer of the Dead Kennedys, stood for Mayor of
 San Francisco and as Green Party presidential nominee.
 
@@ -53,7 +53,7 @@ San Francisco and as Green Party presidential nominee.
 
 - Local Government, Finland
 
-<a href="Steven_Condit.md" class="wikilink" title="Steven Condit">Steven
+<a href="Steven_Condit" class="wikilink" title="Steven Condit">Steven
 Condit</a> was a civil servant and self-declared anarchist in the small
 regional town of Savonlinna for over a decade. His book explores what
 anarchists might learn from that experience.[^5]
@@ -63,7 +63,7 @@ anarchists might learn from that experience.[^5]
 - British General Election, 2015
 
 In 2015,
-<a href="Class_War.md" class="wikilink" title="Class War">Class War</a>,
+<a href="Class_War" class="wikilink" title="Class War">Class War</a>,
 one of the most outspoken revolutionary anarchist groups in the UK,
 stood seven candidates in the UK general election. They used their
 platform to question the absurdities of representative democracy.
@@ -72,7 +72,7 @@ platform to question the absurdities of representative democracy.
 
 - Candidate For Green Party M.P., 2024 / Green Party Spokesman
 
-<a href="Carne_Ross.md" class="wikilink" title="Carne Ross">Carne Ross</a>,
+<a href="Carne_Ross" class="wikilink" title="Carne Ross">Carne Ross</a>,
 previous a diplomat, stood for election as a Green Party M.P. in the
 2024 General Election, and is a Green Party spokesperson.[^6]
 
@@ -80,56 +80,56 @@ previous a diplomat, stood for election as a Green Party M.P. in the
 
 Current Political parties aligned with anarchist aims include:[^7]
 
-- <a href="Anarchist_Pogo_Party_of_Germany.md" class="wikilink"
+- <a href="Anarchist_Pogo_Party_of_Germany" class="wikilink"
   title="Anarchist Pogo Party of Germany">Anarchist Pogo Party of
   Germany</a>
-- <a href="Bergpartei,_die_ÜberPartei.md" class="wikilink"
+- <a href="Bergpartei,_die_ÜberPartei" class="wikilink"
   title="Bergpartei, die ÜberPartei">Bergpartei, die ÜberPartei</a>
-- <a href="Class_War.md" class="wikilink" title="Class War">Class War</a>
-- <a href="Hungarian_Social_Green_Party.md" class="wikilink"
+- <a href="Class_War" class="wikilink" title="Class War">Class War</a>
+- <a href="Hungarian_Social_Green_Party" class="wikilink"
   title="Hungarian Social Green Party">Hungarian Social Green Party</a>
-- <a href="Libertarian_Left_(Chile).md" class="wikilink"
+- <a href="Libertarian_Left_(Chile)" class="wikilink"
   title="Libertarian Left (Chile)">Libertarian Left (Chile)</a>
-- <a href="Society_Party_(Norway).md" class="wikilink"
+- <a href="Society_Party_(Norway)" class="wikilink"
   title="Society Party (Norway)">Society Party (Norway)</a>
-- <a href="Unitarian_Candidacy_of_Workers.md" class="wikilink"
+- <a href="Unitarian_Candidacy_of_Workers" class="wikilink"
   title="Unitarian Candidacy of Workers">Unitarian Candidacy of
   Workers</a>
 
 Defunct 'anarchist' political parties include:[^8]
 
-- <a href="Anti-Parliamentary_Communist_Federation.md" class="wikilink"
+- <a href="Anti-Parliamentary_Communist_Federation" class="wikilink"
   title="Anti-Parliamentary Communist Federation">Anti-Parliamentary
   Communist Federation</a>
-- <a href="Communist_League_(UK,_1919).md" class="wikilink"
+- <a href="Communist_League_(UK,_1919)" class="wikilink"
   title="Communist League (UK, 1919)">Communist League (UK, 1919)</a>
-- <a href="Die_Unregierbaren_–_Autonome_Liste.md" class="wikilink"
+- <a href="Die_Unregierbaren_–_Autonome_Liste" class="wikilink"
   title="Die Unregierbaren – Autonome Liste">Die Unregierbaren – Autonome
   Liste</a>
-- <a href="Mexican_Liberal_Party.md" class="wikilink"
+- <a href="Mexican_Liberal_Party" class="wikilink"
   title="Mexican Liberal Party">Mexican Liberal Party</a>
-- <a href="The_Party_of_Moderate_Progress_Within_the_Bounds_of_the_Law.md"
+- <a href="The_Party_of_Moderate_Progress_Within_the_Bounds_of_the_Law"
   class="wikilink"
   title="The Party of Moderate Progress Within the Bounds of the Law">The
   Party of Moderate Progress Within the Bounds of the Law</a>
-- <a href="Portuguese_Maximalist_Federation.md" class="wikilink"
+- <a href="Portuguese_Maximalist_Federation" class="wikilink"
   title="Portuguese Maximalist Federation">Portuguese Maximalist
   Federation</a>
-- <a href="Syndicalist_Party.md" class="wikilink"
+- <a href="Syndicalist_Party" class="wikilink"
   title="Syndicalist Party">Syndicalist Party</a>
-- <a href="United_Socialist_Movement.md" class="wikilink"
+- <a href="United_Socialist_Movement" class="wikilink"
   title="United Socialist Movement">United Socialist Movement</a>
-- <a href="Ush_Zhuz.md" class="wikilink" title="Ush Zhuz">Ush Zhuz</a>
-- <a href="Young_Socialists_(Sweden).md" class="wikilink"
+- <a href="Ush_Zhuz" class="wikilink" title="Ush Zhuz">Ush Zhuz</a>
+- <a href="Young_Socialists_(Sweden)" class="wikilink"
   title="Young Socialists (Sweden)">Young Socialists (Sweden)</a>
 
 ## References
 
 Source: Author - Alex Prichard [^9]
 
-<a href="Category:State.md" class="wikilink"
+<a href="Category:State" class="wikilink"
 title="Category:State">Category:State</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: <https://en.m.wikipedia.org/wiki/Ramón_de_la_Sagra>

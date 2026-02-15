@@ -2,26 +2,26 @@
 
 ## Overview
 
-<a href="Communism.md" class="wikilink" title="Communism">Communism</a> is
+<a href="Communism" class="wikilink" title="Communism">Communism</a> is
 a stateless, classless, hierarchy-less and moneyless society based on
 common ownership,
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
 and the principle of "from each according to ability, to each according
 to needs." A communist is one who believes such a society is both
 achievable and desirable.
 
 Communism is a form of
-<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+<a href="anarchism" class="wikilink" title="anarchism">anarchism</a>
 because it rejects all forms of hierarchical authority and coercive
 governance, organizing society through voluntary autonomous communes
 rather than state power.
 
 Communism is a form of
-<a href="socialism.md" class="wikilink" title="socialism">socialism</a>
-because it abolishes <a href="private_property.md" class="wikilink"
+<a href="socialism" class="wikilink" title="socialism">socialism</a>
+because it abolishes <a href="private_property" class="wikilink"
 title="private property">private property</a> in the means of
 production, replacing
-<a href="capitalist.md" class="wikilink" title="capitalist">capitalist</a>
+<a href="capitalist" class="wikilink" title="capitalist">capitalist</a>
 social relations with common ownership and cooperative production for
 human need rather than profit.
 
@@ -29,7 +29,7 @@ human need rather than profit.
 
 Classical encyclopedic definitions of communism, emphasize the core
 principles of common ownership and abolition of
-<a href="class.md" class="wikilink" title="class">class</a> distinctions:
+<a href="class" class="wikilink" title="class">class</a> distinctions:
 
 *Cambridge Dictionary* - "the belief in a society without different
 social classes in which the methods of production are owned and
@@ -127,7 +127,7 @@ through common stewardship.
 
 "Communing together" suggests reciprocal relationships of giving and
 receiving,
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 meeting each other's needs, shared work through collective labor, and
 joint decision-making where everyone has voice.
 
@@ -150,7 +150,7 @@ explicitly stated.
 
 **From the plural "communes" (multiple autonomous communes):**
 
-- <a href="Federation.md" class="wikilink" title="Federation">Federation</a>
+- <a href="Federation" class="wikilink" title="Federation">Federation</a>
   (cooperation without central government)
 - Horizontal coordination (no state above)
 
@@ -172,8 +172,8 @@ was initially somewhat interchangeable with "socialism," though
 approach versus reformist "socialism."
 
 Early French communists like
-<a href="Étienne_Cabet.md" class="wikilink" title="Étienne Cabet">Étienne
-Cabet</a> and groups around <a href="Théodore_Dézamy.md" class="wikilink"
+<a href="Étienne_Cabet" class="wikilink" title="Étienne Cabet">Étienne
+Cabet</a> and groups around <a href="Théodore_Dézamy" class="wikilink"
 title="Théodore Dézamy">Théodore Dézamy</a> developed ideas about common
 ownership and egalitarian communities. The political usage represented a
 new articulation of age-old communal practices and egalitarian
@@ -181,13 +181,13 @@ aspirations.
 
 ### Marx and Engels (1840s-1890s)
 
-<a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a> and
-<a href="Friedrich_Engels.md" class="wikilink"
+<a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a> and
+<a href="Friedrich_Engels" class="wikilink"
 title="Friedrich Engels">Friedrich Engels</a> adopted "communism" in
-their famous 1848 *<a href="Communist_Manifesto.md" class="wikilink"
+their famous 1848 *<a href="Communist_Manifesto" class="wikilink"
 title="Communist Manifesto">Communist Manifesto</a>*, partly to
 distinguish themselves from
-"<a href="utopian_socialism.md" class="wikilink"
+"<a href="utopian_socialism" class="wikilink"
 title="utopian socialists">utopian socialists</a>." However, their usage
 remained inconsistent—they often used "socialism" and "communism"
 interchangeably throughout their writings. When they did distinguish
@@ -208,66 +208,66 @@ alternative.
 
 The definition of communism as an immediately stateless, classless,
 hierarchy-less and moneyless society crystallized primarily through
-anarchist theorists. <a href="Anarcho-communism.md" class="wikilink"
+anarchist theorists. <a href="Anarcho-communism" class="wikilink"
 title="Anarchist communists">Anarchist communists</a>—particularly
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
-Kropotkin</a>, <a href="Errico_Malatesta.md" class="wikilink"
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+Kropotkin</a>, <a href="Errico_Malatesta" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a>, and
-<a href="Élisée_Reclus.md" class="wikilink" title="Élisée Reclus">Élisée
+<a href="Élisée_Reclus" class="wikilink" title="Élisée Reclus">Élisée
 Reclus</a>—articulated communism as:
 
 - A post-state situation (no transitional state apparatus)
 - Classless and hierarchy-less social organization
 - Moneyless economy with abolition of wage labor and exchange
 - Commune of communes—free
-  <a href="federation.md" class="wikilink" title="federation">federation</a>
+  <a href="federation" class="wikilink" title="federation">federation</a>
   of voluntary associations
-- <a href="Mutual_aid.md" class="wikilink" title="Mutual aid">Mutual aid</a>
+- <a href="Mutual_aid" class="wikilink" title="Mutual aid">Mutual aid</a>
   rather than coercion as organizing principle
 - Production for need with free distribution according to need
 
 Kropotkin's works, particularly
-*<a href="The_Conquest_of_Bread.md" class="wikilink"
+*<a href="The_Conquest_of_Bread" class="wikilink"
 title="The Conquest of Bread">The Conquest of Bread</a>* (1892) and
-*<a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+*<a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
 title="Mutual Aid">Mutual Aid</a>* (1902), provided the most systematic
 articulation of this vision. The phrase "anarchist communism" or
 "anarcho-communism" emerged to distinguish this approach from both
 Marxist state-transitional theories and
-<a href="individualist_anarchism.md" class="wikilink"
+<a href="individualist_anarchism" class="wikilink"
 title="individualist anarchism">individualist anarchism</a>.
 
 ### The Bolshevik Confusion (1917 onwards)
 
-The <a href="Russian_Revolution.md" class="wikilink"
+The <a href="Russian_Revolution" class="wikilink"
 title="Russian Revolution">Russian Revolution</a> and
-<a href="Bolshevism.md" class="wikilink" title="Bolshevism">Bolshevism</a>
+<a href="Bolshevism" class="wikilink" title="Bolshevism">Bolshevism</a>
 fundamentally confused the definition of communism.
-<a href="Vladimir_Lenin.md" class="wikilink"
+<a href="Vladimir_Lenin" class="wikilink"
 title="Lenin&#39;s">Lenin's</a> party called itself "Communist" but
 established a powerful
-<a href="state.md" class="wikilink" title="state">state</a> apparatus,
+<a href="state" class="wikilink" title="state">state</a> apparatus,
 creating lasting semantic problems:
 
 - The stated goal remained communism (stateless, classless)
 - The actual system was a party-state
-  <a href="dictatorship.md" class="wikilink"
+  <a href="dictatorship" class="wikilink"
   title="dictatorship">dictatorship</a>
 - Communist countries were state-socialist systems claiming to be
   building toward communism
 - Western countries labeled the
-  <a href="USSR.md" class="wikilink" title="USSR">USSR</a> and similar
+  <a href="USSR" class="wikilink" title="USSR">USSR</a> and similar
   states as "communist countries" because they were ruled by
-  <a href="Communist_Party.md" class="wikilink"
+  <a href="Communist_Party" class="wikilink"
   title="Communist Parties">Communist Parties</a>—not because these
   states had achieved communism
 
 Many anarchists and
-<a href="left_communism.md" class="wikilink" title="left communists">left
+<a href="left_communism" class="wikilink" title="left communists">left
 communists</a> argue the USSR was never communist—it was
-<a href="state_capitalist.md" class="wikilink"
+<a href="state_capitalist" class="wikilink"
 title="state capitalist">state capitalist</a> or
-<a href="state_socialist.md" class="wikilink" title="state socialist">state
+<a href="state_socialist" class="wikilink" title="state socialist">state
 socialist</a>, representing the opposite of genuine communist social
 relations.
 
@@ -287,7 +287,7 @@ relations.
 </thead>
 <tbody>
 <tr>
-<td><p><strong><a href="Gracchus_Babeuf.md" class="wikilink"
+<td><p><strong><a href="Gracchus_Babeuf" class="wikilink"
 title="Babeuf">Babeuf</a></strong> (1760-1797)</p></td>
 <td><p><strong>Ambiguous</strong> - Would seize state to abolish
 classes, then state becomes "administration"</p></td>
@@ -303,7 +303,7 @@ to seize power to establish communism; proto-Leninist in using state
 power toward communist ends</p></td>
 </tr>
 <tr>
-<td><p><strong><a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<td><p><strong><a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Proudhon">Proudhon</a></strong> (1809-1865)</p></td>
 <td><p><strong>Gradual</strong> - Federation of free communes would make
 state "redundant"; state transformed into "simple administration of
@@ -311,7 +311,7 @@ common affairs"</p></td>
 <td><p><strong>Mutualist</strong> - Against both capitalist property AND
 collectivism; favored "possession" not "property"</p></td>
 <td><p><strong>NO</strong> - Retained markets, money, exchange; <a
-href="mutualism.md" class="wikilink" title="mutualist">mutualist</a>
+href="mutualism" class="wikilink" title="mutualist">mutualist</a>
 banking</p></td>
 <td><p>"Property is theft!" BUT "property is liberty!" (synthesis)</p>
 <p>"Anarchy is order"</p>
@@ -320,7 +320,7 @@ rejected communism; wanted worker cooperatives trading in markets;
 influenced Bakunin but more individualist</p></td>
 </tr>
 <tr>
-<td><p><strong><a href="Mikhail_Bakunin.md" class="wikilink"
+<td><p><strong><a href="Mikhail_Bakunin" class="wikilink"
 title="Bakunin">Bakunin</a></strong> (1814-1876)</p></td>
 <td><p><strong>Immediate</strong> - "political government will be
 transformed into a simple administration of common affairs"</p></td>
@@ -335,10 +335,10 @@ up"</p>
 workplaces and communes"</p></td>
 </tr>
 <tr>
-<td><p><strong><a href="Karl_Marx.md" class="wikilink"
+<td><p><strong><a href="Karl_Marx" class="wikilink"
 title="Marx">Marx</a></strong> (1818-1883)</p></td>
 <td><p><strong>Implicit</strong> - State will "wither away" in higher
-phase after transitional "<a href="dictatorship_of_the_proletariat.md"
+phase after transitional "<a href="dictatorship_of_the_proletariat"
 class="wikilink" title="dictatorship of the proletariat">dictatorship of
 the proletariat</a>"</p></td>
 <td><p><strong>Explicit</strong> - "abolition of all classes and to a
@@ -351,7 +351,7 @@ according to his needs!" (Critique of the Gotha Programme,
 1875)</p></td>
 </tr>
 <tr>
-<td><p><strong><a href="Friedrich_Engels.md" class="wikilink"
+<td><p><strong><a href="Friedrich_Engels" class="wikilink"
 title="Engels">Engels</a></strong> (1820-1895)</p></td>
 <td><p><strong>Explicit</strong> - "The state is not 'abolished'. It
 withers away."</p></td>
@@ -363,7 +363,7 @@ things...The state is not 'abolished'. It withers away." (Anti-Dühring,
 1878)</p></td>
 </tr>
 <tr>
-<td><p><strong><a href="Peter_Kropotkin.md" class="wikilink"
+<td><p><strong><a href="Peter_Kropotkin" class="wikilink"
 title="Kropotkin">Kropotkin</a></strong> (1842-1921)</p></td>
 <td><p><strong>Immediate</strong> - "It is only by the abolition of the
 State...that we can reach Communism"</p></td>
@@ -386,29 +386,29 @@ Anarchy"</p></td>
 Communism as an anarchist political philosophy encompasses several
 related tendencies and interpretations:
 
-**<a href="Anarcho-communism.md" class="wikilink"
+**<a href="Anarcho-communism" class="wikilink"
 title="Anarcho-communism">Anarcho-communism</a>:**
 
 The primary tendency, articulated by Kropotkin and others, advocating
 immediate establishment of stateless communist social relations based on
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
 voluntary association, and distribution according to need. This tendency
 rejects all transitional states and hierarchical organization.
 
-**<a href="Platformism.md" class="wikilink"
+**<a href="Platformism" class="wikilink"
 title="Platformism">Platformism</a>:**
 
 A more organizationally-focused tendency emerging from the experiences
-of the <a href="Russian_Civil_War.md" class="wikilink"
+of the <a href="Russian_Civil_War" class="wikilink"
 title="Russian Civil War">Russian Civil War</a>, advocating for tactical
 unity and coordinated revolutionary organization while maintaining
 commitment to stateless communist goals. Associated with the
-<a href="Organizational_Platform_of_the_General_Union_of_Anarchists.md"
+<a href="Organizational_Platform_of_the_General_Union_of_Anarchists"
 class="wikilink"
 title="Organizational Platform of the General Union of Anarchists">Organizational
 Platform of the General Union of Anarchists</a>.
 
-**<a href="Insurrectionary_anarchism.md" class="wikilink"
+**<a href="Insurrectionary_anarchism" class="wikilink"
 title="Insurrectionary anarchism">Insurrectionary anarchism</a>:**
 
 A tendency emphasizing immediate revolutionary action and permanent
@@ -416,7 +416,7 @@ conflict with all authority, often skeptical of formal organizations.
 While not always explicitly communist in economic vision, shares the
 commitment to immediate abolition of state and class.
 
-**<a href="Communization.md" class="wikilink"
+**<a href="Communization" class="wikilink"
 title="Communization">Communization</a> theory:**
 
 A more recent tendency arguing communism must be immediately established
@@ -434,13 +434,13 @@ communist.
 ### Test 1: Is it stateless?
 
 A communist society must have no
-<a href="state.md" class="wikilink" title="state">state</a> apparatus—no
+<a href="state" class="wikilink" title="state">state</a> apparatus—no
 coercive governmental authority exercising a monopoly on legitimate
 violence over a territory.
 
 **Questions to ask:**
 
-- Does a <a href="nation-state.md" class="wikilink"
+- Does a <a href="nation-state" class="wikilink"
   title="nation-state">nation-state</a> exist claiming sovereignty over
   the territory?
 - Is there a governmental structure that can compel obedience through
@@ -467,14 +467,14 @@ violence over a territory.
 
 **Examples:**
 
-- The <a href="USSR.md" class="wikilink" title="USSR">USSR</a> failed this
+- The <a href="USSR" class="wikilink" title="USSR">USSR</a> failed this
   test—it had a massive state apparatus with secret police, gulags, and
   party dictatorship
-- <a href="Revolutionary_Catalonia.md" class="wikilink"
+- <a href="Revolutionary_Catalonia" class="wikilink"
   title="Revolutionary Catalonia">Revolutionary Catalonia</a>
   (1936-1939) largely passed this test in many areas where collectives
   operated without state authority
-- <a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> somewhat
+- <a href="Rojava" class="wikilink" title="Rojava">Rojava</a> somewhat
   fails this test — despite radical democracy, it maintains governmental
   structures and military forces
 
@@ -504,7 +504,7 @@ domination—economic, political, and social hierarchy cannot exist.
 
 **What fails:**
 
-- <a href="Wage_labor.md" class="wikilink" title="Wage labor">Wage labor</a>—whether
+- <a href="Wage_labor" class="wikilink" title="Wage labor">Wage labor</a>—whether
   private capitalist or "socialist" state employer
 - Party elites, technocratic planners, or bureaucratic administrators
 - Military hierarchies and command structures
@@ -527,17 +527,17 @@ doctor-patient) are acceptable. Anarchist communists respond:
 
 - The USSR failed this test catastrophically—party elite controlled
   economy and wielded absolute political power
-- <a href="Israeli_kibbutzim.md" class="wikilink"
+- <a href="Israeli_kibbutzim" class="wikilink"
   title="Israeli kibbutzim">Israeli kibbutzim</a> partially failed—some
   maintained internal equality but relied on exploited external labor
-- <a href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
+- <a href="Zapatista" class="wikilink" title="Zapatista">Zapatista</a>
   communities largely pass this test through cargo system rotation and
   collective decision-making
 
 ### Test 3: Is it moneyless?
 
 A communist society must abolish monetary exchange,
-<a href="wage_labor.md" class="wikilink" title="wage labor">wage labor</a>,
+<a href="wage_labor" class="wikilink" title="wage labor">wage labor</a>,
 and commodity production. Resources must be held in common and
 distributed according to need.
 
@@ -560,7 +560,7 @@ distributed according to need.
 
 **What fails:**
 
-- Any <a href="market.md" class="wikilink" title="market">market</a>
+- Any <a href="market" class="wikilink" title="market">market</a>
   economy, even "market socialism" with worker co-ops
 - Wage systems, including "socialist wages" in state enterprises
 - Currency of any kind that circulates and accumulates
@@ -585,12 +585,12 @@ Anarchist communists generally reject even labor vouchers as:
 
 Most historical "communist" states failed this test—they used money,
 wages, and commodity production
-<a href="Spanish_Revolution.md" class="wikilink"
+<a href="Spanish_Revolution" class="wikilink"
 title="Spanish Revolution">Spanish Revolution</a> collectives often
 passed this test—many distributed based on need or used family-based
 distribution
 
-Even <a href="Marxism.md" class="wikilink" title="Marxist">Marxist</a>
+Even <a href="Marxism" class="wikilink" title="Marxist">Marxist</a>
 theory acknowledges "lower stage communism" (socialism) retains wages
 and equivalent exchange—only "higher stage communism" abolishes them
 entirely
@@ -601,7 +601,7 @@ A society is communist **only if** it simultaneously satisfies all three
 tests. Partial fulfillment is not communism:
 
 - **Stateless but not classless/moneyless**:
-  <a href="Feudalism.md" class="wikilink" title="Feudalism">Feudalism</a>,
+  <a href="Feudalism" class="wikilink" title="Feudalism">Feudalism</a>,
   warlord territories, some anarcho-capitalist visions—these lack states
   but maintain hierarchy and exchange
 - **Classless but not stateless/moneyless**: Impossible in practice —
@@ -635,7 +635,7 @@ enforcement.
 **Anarchist communist response:**
 
 - Anthropological evidence shows humans evolved through cooperation and
-  <a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
+  <a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
   not pure competition
 - Human behavior is largely shaped by social conditions—capitalism
   produces capitalist behavior
@@ -655,7 +655,7 @@ inefficiency and shortages.
   communication and information systems
 - Gift economies and mutual aid networks have distributed resources
   effectively for millennia
-- <a href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>
+- <a href="Capitalism" class="wikilink" title="Capitalism">Capitalism</a>
   itself produces massive inefficiency—overproduction, planned
   obsolescence, poverty amid plenty
 - Production for need rather than profit eliminates perverse incentives
@@ -673,9 +673,9 @@ suppress counter-revolution and develop productive forces.
   interests
 - The means shape the ends—authoritarian means cannot produce
   libertarian outcomes
-- <a href="Spanish_Revolution.md" class="wikilink"
+- <a href="Spanish_Revolution" class="wikilink"
   title="Spanish Revolution">Spanish Revolution</a>,
-  <a href="Free_Territory.md" class="wikilink" title="Free Territory">Free
+  <a href="Free_Territory" class="wikilink" title="Free Territory">Free
   Territory</a>, and other examples show stateless defense is possible
 - Developing productive forces under state control reproduces capitalist
   relations
@@ -714,7 +714,7 @@ has created communist social relations in revolutionary situations The
 
 **Individualist anarchist critiques:**
 
-Some <a href="individualist_anarchism.md" class="wikilink"
+Some <a href="individualist_anarchism" class="wikilink"
 title="individualist anarchists">individualist anarchists</a> argue
 communism requires coercing individuals into collective arrangements and
 suppressing individual property.
@@ -724,9 +724,9 @@ suppressing individual property.
 - Anarchist communism is voluntary—communities form through free
   association
 - Individual property
-  <a href="Usage_Rights.md" class="wikilink" title="Usage Rights">Usage
+  <a href="Usage_Rights" class="wikilink" title="Usage Rights">Usage
   Rights</a> in personal possessions is distinct from
-  <a href="private_property.md" class="wikilink"
+  <a href="private_property" class="wikilink"
   title="private property">private property</a> in means of production
 - True individuality requires material security and freedom from
   exploitation
@@ -734,7 +734,7 @@ suppressing individual property.
   competitive scarcity
 
 **Market anarchist alternatives:**
-<a href="Mutualism.md" class="wikilink" title="Mutualists">Mutualists</a>
+<a href="Mutualism" class="wikilink" title="Mutualists">Mutualists</a>
 and market anarchists propose non-capitalist markets as alternatives to
 both state socialism and communism. **Anarchist communist response:**
 
@@ -748,17 +748,17 @@ both state socialism and communism. **Anarchist communist response:**
 
 <references/>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Anarcho-Communism.md" class="wikilink"
+Socialism</a> <a href="Category:Anarcho-Communism" class="wikilink"
 title="Category:Anarcho-Communism">Category:Anarcho-Communism</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>

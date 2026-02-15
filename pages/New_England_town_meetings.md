@@ -93,7 +93,7 @@ Additionally, towns would require adult men to participate in a night
 watch, during which time they would keep order, light street lamps, and
 put out fires.[^13]
 
-# From Janet Biehl, <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
+# From Janet Biehl, <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
 class="wikilink"
 title="The Politics of Social Ecology: Libertarian Municipalism">The
 Politics of Social Ecology: Libertarian Municipalism</a>
@@ -287,11 +287,11 @@ Politics of Social Ecology: Libertarian Municipalism</a>
 
 <references/>
 
-<a href="Category:USA.md" class="wikilink"
+<a href="Category:USA" class="wikilink"
 title="Category:USA">Category:USA</a>
-<a href="Category:North_America.md" class="wikilink"
+<a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Janet Biehl, ‘’The Politics of Social Ecology: Libertarian

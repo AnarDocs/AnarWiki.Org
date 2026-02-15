@@ -41,7 +41,7 @@ ritual reminds the community that although men provide most of the honey
 control since the women control foods' distribution.[^5]
 
 The men's *molimo* and women's *elima* rituals produce a
-<a href="pendulum_of_power.md" class="wikilink"
+<a href="pendulum_of_power" class="wikilink"
 title="pendulum of power">pendulum of power</a>, balancing against the
 power of the other and ensuring overall egalitarianism.[^6]
 
@@ -242,11 +242,11 @@ From Peter Gelderloos, Anarchy Works [^33]:
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Colin Turnbull, *The Forest People* (New York: Simon & Schuster,
@@ -256,13 +256,13 @@ title="Category:Featured">Category:Featured</a>
     *Peaceful Societies*, 5 March 2015,
     <https://cas.uab.edu/peacefulsocieties/2015/03/05/unicorns-and-the-mbuti-are-troubled-by-violence/>.
     Peter Gelderloos,
-    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^3]: Turnbull, *The Forest People* (1962), 154.
 
 [^4]: Gelderloos,
-    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^5]: Morna Finnegan, "The Politics of Eros: ritual dialogue and
@@ -275,7 +275,7 @@ title="Category:Featured">Category:Featured</a>
     Callan (New York: Berghahn, 2017), 191.
 
 [^7]: Gelderloos,
-    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^8]: Turnbull, *The Forest People*, 205.
@@ -312,7 +312,7 @@ title="Category:Featured">Category:Featured</a>
 [^21]: Turnbull, *The Forest People*, 124-5.
 
 [^22]: Gelderloos,
-    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^23]: Turnbull, *The Forest People*, 97.
@@ -337,5 +337,5 @@ title="Category:Featured">Category:Featured</a>
 
 [^32]: Turbull, *The Forest People*, 111-112.
 
-[^33]: <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+[^33]: <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>

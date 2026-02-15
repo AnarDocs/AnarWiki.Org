@@ -4,7 +4,7 @@
 
 **La Belle Verte** (*The Beautiful Green*) is a 1996 French film written
 and directed by
-<a href="Coline_Serreau.md" class="wikilink" title="Coline Serreau">Coline
+<a href="Coline_Serreau" class="wikilink" title="Coline Serreau">Coline
 Serreau</a> that presents a radical critique of capitalist modernity
 through the lens of anarchist principles. The film envisions an
 alternative society based on mutual aid, ecological harmony, and the
@@ -19,7 +19,7 @@ The film's central anarchist message emerges through its portrayal of
 the Beautiful Green planet, where inhabitants live without rulers or
 formal authority structures. As one character observes, "it is nobody
 and, at the same time, everybody, who rules their planet." This reflects
-the anarchist principle of <a href="direct_democracy.md" class="wikilink"
+the anarchist principle of <a href="direct_democracy" class="wikilink"
 title="direct democracy">direct democracy</a> and collective
 self-governance without coercive institutions.
 
@@ -33,27 +33,27 @@ superior to animals and plants."[^1]
 ### Anti-Capitalist Economics
 
 La Belle Verte presents a fundamental critique of
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>
 and monetary systems. The film depicts the inhabitants' bafflement at
 Earth's use of money, which they view as a primitive and harmful
 concept. This rejection of market economics aligns with anarchist
 economics based on
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 and voluntary cooperation.
 
 The society on the Beautiful Green operates through gift economics,
 where "everyone is a farmer and people offer their surplus production to
 others in annual planetary meetings." This system eliminates
-<a href="wage_slavery.md" class="wikilink" title="wage slavery">wage
-slavery</a> and <a href="commodity_fetishism.md" class="wikilink"
+<a href="wage_slavery" class="wikilink" title="wage slavery">wage
+slavery</a> and <a href="commodity_fetishism" class="wikilink"
 title="commodity fetishism">commodity fetishism</a>, core concerns of
 anarchist economic theory.
 
 ### Environmental Anarchism
 
 The film advocates for what contemporary theorists might recognize as
-<a href="green_anarchism.md" class="wikilink" title="green anarchism">green
-anarchism</a> or <a href="eco-anarchism.md" class="wikilink"
+<a href="green_anarchism" class="wikilink" title="green anarchism">green
+anarchism</a> or <a href="eco-anarchism" class="wikilink"
 title="eco-anarchism">eco-anarchism</a>. The Beautiful Green
 civilization emerged after a period where those profiting from
 environmental destruction were "judged as culprits of genocide and
@@ -70,9 +70,9 @@ health and ecological consequences."
 ### Voluntary Simplicity and Mutual Aid
 
 The inhabitants of the Beautiful Green live according to principles of
-<a href="voluntary_simplicity.md" class="wikilink"
+<a href="voluntary_simplicity" class="wikilink"
 title="voluntary simplicity">voluntary simplicity</a> and
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>.
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>.
 They "do not have beds, they sleep on the grass, in a sort of straw
 nests. They bathe in lakes and their education and leisure require few
 objects." This lifestyle demonstrates the anarchist belief that human
@@ -88,7 +88,7 @@ metaphorically throughout the film. The protagonist Mila possesses the
 ability to "disconnect" earthlings from modern consciousness, revealing
 their alienation from their authentic selves and from nature. This
 reflects the anarchist critique of how
-<a href="industrial_capitalism.md" class="wikilink"
+<a href="industrial_capitalism" class="wikilink"
 title="industrial capitalism">industrial capitalism</a> separates humans
 from their essential nature and from meaningful community.
 
@@ -110,7 +110,7 @@ liberation when organized around profit and domination.
 ### Prefigurative Politics
 
 The Beautiful Green society embodies
-<a href="prefigurative_politics.md" class="wikilink"
+<a href="prefigurative_politics" class="wikilink"
 title="prefigurative politics">prefigurative politics</a> - the
 anarchist principle of creating the new world within the shell of the
 old. Rather than seeking to reform existing institutions, the film
@@ -132,9 +132,9 @@ pillars of Western modernity."[^3]
 ## Contemporary Relevance
 
 La Belle Verte anticipates many themes central to contemporary
-<a href="eco-anarchism.md" class="wikilink"
+<a href="eco-anarchism" class="wikilink"
 title="eco-anarchism">eco-anarchism</a> and
-<a href="post-civilization.md" class="wikilink"
+<a href="post-civilization" class="wikilink"
 title="post-civilization">post-civilization</a> movements. Its vision of
 technology boycotts, rejection of urban-industrial life, and emphasis on
 bioregional communities aligns with current anarchist responses to
@@ -154,21 +154,21 @@ with ecological sustainability and human freedom.
 
 <references/>
 
-<a href="Category:Anarchist_Fiction.md" class="wikilink"
+<a href="Category:Anarchist_Fiction" class="wikilink"
 title="Category:Anarchist Fiction">Category:Anarchist Fiction</a>
-<a href="Category:Anti-Capitalist_Art.md" class="wikilink"
+<a href="Category:Anti-Capitalist_Art" class="wikilink"
 title="Category:Anti-Capitalist Art">Category:Anti-Capitalist Art</a>
-<a href="Category:Eco-Anarchism.md" class="wikilink"
+<a href="Category:Eco-Anarchism" class="wikilink"
 title="Category:Eco-Anarchism">Category:Eco-Anarchism</a>
-<a href="Category:Green_Anarchism.md" class="wikilink"
+<a href="Category:Green_Anarchism" class="wikilink"
 title="Category:Green Anarchism">Category:Green Anarchism</a>
-<a href="Category:Utopian_Fiction.md" class="wikilink"
+<a href="Category:Utopian_Fiction" class="wikilink"
 title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-<a href="Category:Movies_Featuring_Anarchists.md" class="wikilink"
+<a href="Category:Movies_Featuring_Anarchists" class="wikilink"
 title="Category:Movies Featuring Anarchists">Category:Movies Featuring
-Anarchists</a> <a href="Category:AnarWiki.md" class="wikilink"
+Anarchists</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Hiraldo Lopez-Alonso, Rocio. "Turning Modernity Upside Down: La

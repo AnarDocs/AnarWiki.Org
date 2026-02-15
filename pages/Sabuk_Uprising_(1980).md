@@ -1,16 +1,16 @@
 The **Sabuk Uprising of 1980** was a
-<a href="List_of_Strikes.md" class="wikilink" title="strike">strike</a>
-turned <a href="List_of_Revolutions.md" class="wikilink"
+<a href="List_of_Strikes" class="wikilink" title="strike">strike</a>
+turned <a href="List_of_Revolutions" class="wikilink"
 title="uprising">uprising</a> in
-<a href="South_Korea.md" class="wikilink" title="South Korea">South
+<a href="South_Korea" class="wikilink" title="South Korea">South
 Korea</a> in
-<a href="Timeline_of_Anarchism_in_Eastern_Asia.md" class="wikilink"
+<a href="Timeline_of_Anarchism_in_Eastern_Asia" class="wikilink"
 title="1980">1980</a> that was almost successful until betrayed by the
-government, <a href="Revolutions_of_1979_-_1985.md" class="wikilink"
+government, <a href="Revolutions_of_1979_-_1985" class="wikilink"
 title="part of a global wave of democratic unrest at the time">part of a
 global wave of democratic unrest at the time</a>. It also happened a few
 weeks before the much more famous uprising in the city of
-<a href="Gwangju_Uprising_(1980).md" class="wikilink"
+<a href="Gwangju_Uprising_(1980)" class="wikilink"
 title="Kwangju">Kwangju</a>.
 
 ## Background
@@ -45,23 +45,23 @@ the key activists.
 (Source is in Korean language) -
 <http://hadream.com/xe/history/42507?ckattempt=3>
 
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:South_Korea.md" class="wikilink"
+<a href="Category:South_Korea" class="wikilink"
 title="Category:South Korea">Category:South Korea</a>
-<a href="Category:Asia.md" class="wikilink"
+<a href="Category:Asia" class="wikilink"
 title="Category:Asia">Category:Asia</a>
-<a href="Category:Eastern_Asia.md" class="wikilink"
+<a href="Category:Eastern_Asia" class="wikilink"
 title="Category:Eastern Asia">Category:Eastern Asia</a>
-<a href="Category:1980.md" class="wikilink"
+<a href="Category:1980" class="wikilink"
 title="Category:1980">Category:1980</a>
-<a href="Category:1980s.md" class="wikilink"
+<a href="Category:1980s" class="wikilink"
 title="Category:1980s">Category:1980s</a>
-<a href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Strikes.md" class="wikilink"
+<a href="Category:Strikes" class="wikilink"
 title="Category:Strikes">Category:Strikes</a>
-<a href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-<a href="Category:Worker_Uprisings.md" class="wikilink"
+<a href="Category:Worker_Uprisings" class="wikilink"
 title="Category:Worker Uprisings">Category:Worker Uprisings</a>

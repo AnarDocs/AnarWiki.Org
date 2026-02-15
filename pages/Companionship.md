@@ -1,12 +1,12 @@
 # Anarchist companionship
 
 The **anarchist companionship** was the relationship system of the
-<a href="Anarchism.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="Anarchism" class="wikilink" title="anarchist">anarchist</a>
 movement in
-<a href="Western_Europe.md" class="wikilink" title="Western Europe">Western
+<a href="Western_Europe" class="wikilink" title="Western Europe">Western
 Europe</a> at the end of the 19th century, encompassing both formal and
 informal anarchist networks guided by shared values such as
-<a href="hospitality.md" class="wikilink"
+<a href="hospitality" class="wikilink"
 title="hospitality">hospitality</a> and financial or practical aid to
 fellow companions. These networks also engaged in supporting other
 social struggles of the period—even those that were not explicitly
@@ -27,30 +27,30 @@ conspiracy—an interpretation that does not reflect the reality of
 anarchist companionship. Attempts to suppress it generally failed due to
 its elusive nature.
 
-After the <a href="Ère_des_attentats.md" class="wikilink"
+After the <a href="Ère_des_attentats" class="wikilink"
 title="Ère des attentats">Ère des attentats</a> (1892–1894) and the
 growing distinction between
-<a href="Individualist_anarchism.md" class="wikilink"
+<a href="Individualist_anarchism" class="wikilink"
 title="individualist anarchists">individualist anarchists</a> and
-<a href="Anarchist_communism.md" class="wikilink"
+<a href="Anarchist_communism" class="wikilink"
 title="anarcho-communists">anarcho-communists</a>, anarchists turned to
 other forms of action and coordination, particularly
-<a href="anarcho-syndicalism.md" class="wikilink"
+<a href="anarcho-syndicalism" class="wikilink"
 title="anarcho-syndicalism">anarcho-syndicalism</a>. Although anarchist
 companionship eventually disappeared, some anarchists continue to use
 the term to refer to themselves, making it an anarchist counterpart to
-the more <a href="Communist_state.md" class="wikilink"
+the more <a href="Communist_state" class="wikilink"
 title="communist">communist</a>-linked term of
-'<a href="comrade.md" class="wikilink" title="comrade">comrade</a>'.
+'<a href="comrade" class="wikilink" title="comrade">comrade</a>'.
 
 ## Terminology
 
 The term companion literally means 'bread fellow, messmate'.[^1] The
 term replaced *citizen* among
-<a href="Anarchism_in_France.md" class="wikilink"
+<a href="Anarchism_in_France" class="wikilink"
 title="anarchists in France">anarchists in France</a> in the early 1880s
 for several reasons, some of which were noted by the
-<a href="Georges_Ernest_Boulanger.md" class="wikilink"
+<a href="Georges_Ernest_Boulanger" class="wikilink"
 title="Boulangist">Boulangist</a> newspaper *La Cocarde* in 1888:
 
 > "A few words about this epithet companion, which anarchists use to
@@ -74,8 +74,8 @@ and only 4.8% were under 20, which presents the image of a movement
 primarily composed of militants in their 'age prime'. Moreover, police
 reports on companions indicate a relatively equal number of married and
 single men, without accounting for
-<a href="Free_union.md" class="wikilink" title="free unions">free
-unions</a> or <a href="cohabitation.md" class="wikilink"
+<a href="Free_union" class="wikilink" title="free unions">free
+unions</a> or <a href="cohabitation" class="wikilink"
 title="cohabitation">cohabitation</a>, which also existed.
 
 In France, a certain number of companions were foreigners, mainly
@@ -105,7 +105,7 @@ the reliability of different individuals—in short, they helped unify the
 movement.
 
 The duties of companions were quite demanding. Firstly, they were
-expected to demonstrate total <a href="hospitality.md" class="wikilink"
+expected to demonstrate total <a href="hospitality" class="wikilink"
 title="hospitality">hospitality</a> toward fellow companions and, in
 some cases, toward those in need. This hospitality extended beyond
 simply offering food and shelter to passing anarchists; it also involved
@@ -142,13 +142,13 @@ intelligence services, who wrote in France, for example:
 > have already been expelled in this manner."
 
 The companions also helped each other carry out actions. For example,
-<a href="Sante_Geronimo_Caserio.md" class="wikilink"
+<a href="Sante_Geronimo_Caserio" class="wikilink"
 title="Sante Geronimo Caserio">Sante Geronimo Caserio</a>, an Italian
 companion who did not speak a word of French, arrived in Lyon with the
-plan to <a href="Assassination_of_Sadi_Carnot.md" class="wikilink"
+plan to <a href="Assassination_of_Sadi_Carnot" class="wikilink"
 title="assassinate Sadi Carnot">assassinate Sadi Carnot</a>, who was
 responsible for
-<a href="Repression_of_January_and_February_1894.md" class="wikilink"
+<a href="Repression_of_January_and_February_1894" class="wikilink"
 title="major repressions against the anarchist movement">major
 repressions against the anarchist movement</a>. Unfamiliar with the
 city, he met some companions and was placed along Carnot's route—at the
@@ -163,10 +163,10 @@ included political propaganda, organizing public readings for illiterate
 militants or those seeking education, and holding public meetings to
 promote their cause. Companions could also coordinate public
 disturbances or engage in
-<a href="Glossary_of_anarchism.md" class="wikilink"
+<a href="Glossary_of_anarchism" class="wikilink"
 title="individual reclamation">individual reclamation</a>—stealing
 property from bourgeois targets to redistribute it. For instance,
-<a href="Louise_Michel.md" class="wikilink" title="Louise Michel">Louise
+<a href="Louise_Michel" class="wikilink" title="Louise Michel">Louise
 Michel</a> was accused of organizing, alongside her companions, the
 looting of Parisian bakeries in 1883. She allegedly used these networks
 to meet and encourage other anarchists to help her incite a popular
@@ -183,7 +183,7 @@ broader non-anarchist causes.
 
 Despite these duties, companions could be tolerant toward one another
 and their practical compromises with
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>.
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>.
 In that regard, Faure wrote:
 
 > "Of course, the concessions they make to the bourgeois environment, to
@@ -210,7 +210,7 @@ was no centralized coordination of terrorist activities. Furthermore,
 the French police became highly alarmed, falling into a state of
 collective paranoia regarding London-based anarchists—many of whom did
 not even support terrorism or
-<a href="propaganda_of_the_deed.md" class="wikilink"
+<a href="propaganda_of_the_deed" class="wikilink"
 title="propaganda of the deed">propaganda of the deed</a>.
 
 The authorities were caught off guard by the existence of political and
@@ -224,7 +224,7 @@ based on a legal framework ill-suited to this new reality. It also did
 not adequately define the various characteristics of anarchist
 companionship, according to a jurist of the time regarding the
 government's failure in the
-<a href="Trial_of_the_Thirty.md" class="wikilink"
+<a href="Trial_of_the_Thirty" class="wikilink"
 title="Trial of the Thirty">Trial of the Thirty</a>. The jurors refused
 to believe in associations between people who had never met and
 refrained from convicting most of the accused; "since anarchist
@@ -241,23 +241,23 @@ foremost, they used the same symbols and historical references. The
 history of the working class and the repression against labor movements
 were key structuring elements, as anarchists integrated and reclaimed
 these memories. Events such as the
-<a href="Semaine_sanglante.md" class="wikilink"
+<a href="Semaine_sanglante" class="wikilink"
 title="Semaine sanglante">Semaine sanglante</a> ('Bloody Week') or other
-massacres like the <a href="Haymarket_affair.md" class="wikilink"
+massacres like the <a href="Haymarket_affair" class="wikilink"
 title="Haymarket Square massacre">Haymarket Square massacre</a> became
 crucial shared historical references. Additionally, some symbols became
 widely adopted among companions, most notably the
-<a href="Anarchist_symbolism.md" class="wikilink" title="black flag">black
+<a href="Anarchist_symbolism" class="wikilink" title="black flag">black
 flag</a>.
 
 #### Shared worldview
 
-By borrowing symbols from the <a href="labour_movement.md" class="wikilink"
+By borrowing symbols from the <a href="labour_movement" class="wikilink"
 title="labour movement">labour movement</a>, anarchists reinterpreted
 them to differentiate themselves from
-<a href="Socialism.md" class="wikilink" title="socialists">socialists</a>.
+<a href="Socialism" class="wikilink" title="socialists">socialists</a>.
 Furthermore, the emergence of
-<a href="Anarchism_and_the_arts.md" class="wikilink"
+<a href="Anarchism_and_the_arts" class="wikilink"
 title="anarchist art">anarchist art</a>, particularly anarchist songs,
 helped spread their ideals and deeply influenced the movement. Anarchist
 press also played a unifying role, providing companions with similar
@@ -273,16 +273,16 @@ perspectives, leading to major internal debates. However, despite these
 differences, companions, especially in the 1880s, saw themselves as part
 of a single movement. At first, this diversity of opinions did not
 significantly impact the unity of the companionship network. However, by
-the mid-1890s, the <a href="Ère_des_attentats.md" class="wikilink"
+the mid-1890s, the <a href="Ère_des_attentats" class="wikilink"
 title="Ère des attentats">Ère des attentats</a> (1892–1894) and the
 growing divide between
-<a href="Individualist_anarchism.md" class="wikilink"
+<a href="Individualist_anarchism" class="wikilink"
 title="individualist anarchists">individualist anarchists</a> and
-<a href="Anarchist_communism.md" class="wikilink"
+<a href="Anarchist_communism" class="wikilink"
 title="anarcho-communists">anarcho-communists</a> led to fractures
 within companionship. This shift ultimately resulted in the rise of new
 organizational forms, such as
-<a href="anarcho-syndicalism.md" class="wikilink"
+<a href="anarcho-syndicalism" class="wikilink"
 title="anarcho-syndicalism">anarcho-syndicalism</a>.
 
 ## Legacy
@@ -290,7 +290,7 @@ title="anarcho-syndicalism">anarcho-syndicalism</a>.
 Although the companionship system faded in favor of new structures and
 methods, the term 'companion' continues to be used by some anarchists,
 who prefer it over 'comrade', a term more closely associated with
-<a href="Communist_state.md" class="wikilink"
+<a href="Communist_state" class="wikilink"
 title="communism">communism</a>.[^3]
 
 ## Criticism and nuances
@@ -311,19 +311,19 @@ than organization".
 
 <references/>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Anarchist_terminology.md" class="wikilink"
+<a href="Category:Anarchist_terminology" class="wikilink"
 title="Category:Anarchist terminology">Category:Anarchist
-terminology</a> <a href="Category:Anarchism.md" class="wikilink"
+terminology</a> <a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Social_Movements.md" class="wikilink"
+Communities</a> <a href="Category:Social_Movements" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:Relationships.md" class="wikilink"
+<a href="Category:Relationships" class="wikilink"
 title="Category:Relationships">Category:Relationships</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Etymology of companion, etymonline.com

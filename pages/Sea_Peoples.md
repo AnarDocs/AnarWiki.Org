@@ -49,8 +49,8 @@ Power*](https://theanarchistlibrary.org/library/peter-gelderloos-worshipping-pow
 
 <references/>
 
-<a href="Category:Egypt.md" class="wikilink"
+<a href="Category:Egypt" class="wikilink"
 title="Category:Egypt">Category:Egypt</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a>

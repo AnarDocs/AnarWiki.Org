@@ -174,15 +174,15 @@ stop referring major criminals to the state prosecutor.[^10]
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-<a href="Category:Mexico.md" class="wikilink"
+<a href="Category:Mexico" class="wikilink"
 title="Category:Mexico">Category:Mexico</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Peter Gelderloos, *The Solutions Are Already Here: Tactics for

@@ -20,7 +20,7 @@ homosexuals are sometimes called *ginkgos* after the sexually dimorphous
 gingko tree.[^4]
 
 Much like Pravic, the language on
-<a href="Anarres.md" class="wikilink" title="Anarres">Anarres</a> in Le
+<a href="Anarres" class="wikilink" title="Anarres">Anarres</a> in Le
 Guin's *The Dispossessed*, the Kesh language does not have possessive
 words for relations between living beings. Someone might refer to "the
 wife" but not to "my wife."[^5]
@@ -75,13 +75,13 @@ attackers. The Warriors are all men.[^15]
 
 <references/>
 
-<a href="Category:Utopian_Fiction.md" class="wikilink"
+<a href="Category:Utopian_Fiction" class="wikilink"
 title="Category:Utopian Fiction">Category:Utopian Fiction</a>
-<a href="Category:Anarchist_Fiction.md" class="wikilink"
+<a href="Category:Anarchist_Fiction" class="wikilink"
 title="Category:Anarchist Fiction">Category:Anarchist Fiction</a>
-<a href="Category:Anarchist_Utopias.md" class="wikilink"
+<a href="Category:Anarchist_Utopias" class="wikilink"
 title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Ursula K. Le Guin, *Always Coming Home* (New York: Harper & Row,

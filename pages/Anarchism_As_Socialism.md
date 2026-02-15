@@ -5,22 +5,22 @@ socialists, positioning anarchism as a branch of the socialist
 movement - specifically its stateless, libertarian, and
 anti-authoritarian wing. This understanding has been held by virtually
 all major anarchist thinkers, from
-<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> and
-<a href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> to
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
-Kropotkin</a> and <a href="Errico_Malatesta.md" class="wikilink"
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+Kropotkin</a> and <a href="Errico_Malatesta" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a>, though it has sometimes
 been obscured by modern misunderstandings of the term "socialism."
 
 ## Overview
 
 Anarchism has historically been understood as a branch of the broader
-socialist movement. As <a href="Michael_Bakunin.md" class="wikilink"
+socialist movement. As <a href="Michael_Bakunin" class="wikilink"
 title="Michael Bakunin">Michael Bakunin</a> described it, anarchism is
 "stateless socialism."[^1]
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> wrote in his 1910 entry on "Anarchism" for the
 Encyclopedia Britannica that "the anarchists, in common with all
 socialists, of whom they constitute the left wing...consider the wage
@@ -33,11 +33,11 @@ cooperation rather than competition, production for use rather than
 profit, and a classless society - can only be achieved without a state.
 Anarchists have consistently argued that state socialism, regardless of
 the subjective intentions of its advocates, would in practice create
-only a form of <a href="state_capitalism.md" class="wikilink"
+only a form of <a href="state_capitalism" class="wikilink"
 title="state capitalism">state capitalism</a> with the bureaucracy
 acting as a new exploitative ruling class.
 
-As <a href="Daniel_Guérin.md" class="wikilink" title="Daniel Guérin">Daniel
+As <a href="Daniel_Guérin" class="wikilink" title="Daniel Guérin">Daniel
 Guérin</a> explained, "Anarchism is really a synonym for socialism. The
 anarchist is primarily a socialist whose aim is to abolish the
 exploitation of man by man. Anarchism is only one of the streams of
@@ -47,19 +47,19 @@ liberty and haste to abolish the State."[^3]
 ## Origins
 
 The identification of anarchism with socialism dates to the earliest
-anarchist theorists. <a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+anarchist theorists. <a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>, the first
 person to identify himself as an "anarchist," usually described himself
 as a socialist. He argued against centralized democracy and
-<a href="state_socialism.md" class="wikilink" title="state socialism">state
+<a href="state_socialism" class="wikilink" title="state socialism">state
 socialism</a>, calling instead for a decentralized, self-managed,
 federal, bottom-up socialism.[^4]
 
-<a href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> and other early anarchists
 developed this tradition further, making explicit that anarchism
 represented the libertarian wing of the socialist movement. The great
-Italian anarchist <a href="Errico_Malatesta.md" class="wikilink"
+Italian anarchist <a href="Errico_Malatesta" class="wikilink"
 title="Errico Malatesta">Errico Malatesta</a> wrote in 1897: "From 1871,
 when we began our propaganda in Italy, we have always been and have
 always called ourselves, socialist-anarchists....We have always been of
@@ -68,10 +68,10 @@ have the same meaning, since it is impossible to have economic
 emancipation (abolition of property) without political emancipation
 (abolition of government) and vice versa."[^5]
 
-The <a href="individualist_anarchism.md" class="wikilink"
+The <a href="individualist_anarchism" class="wikilink"
 title="individualist anarchist">individualist anarchist</a> tradition in
 America also maintained this socialist identification.
-<a href="Benjamin_Tucker.md" class="wikilink"
+<a href="Benjamin_Tucker" class="wikilink"
 title="Benjamin Tucker">Benjamin Tucker</a> wrote in 1893 of "the two
 principles...Authority and Liberty" as the basis of "the two schools of
 Socialistic thought...respectively, State Socialism and Anarchism."[^6]
@@ -82,7 +82,7 @@ truth that Liberty and Equality, through the law of Solidarity, will
 cause the welfare of each to contribute to the welfare of all."[^7]
 
 American anarchist
-<a href="Adolph_Fischer.md" class="wikilink" title="Adolph Fischer">Adolph
+<a href="Adolph_Fischer" class="wikilink" title="Adolph Fischer">Adolph
 Fischer</a>, one of the Haymarket Martyrs, articulated the relationship
 clearly: "Every anarchist is a socialist, but not every socialist is
 necessarily an anarchist."[^8]
@@ -100,12 +100,12 @@ in character. Anarchists advocate:
 - Replacing class divisions with a classless society
 - Democratic coordination and planning from below
 
-As <a href="Gustav_Landauer.md" class="wikilink"
+As <a href="Gustav_Landauer" class="wikilink"
 title="Gustav Landauer">Gustav Landauer</a> explained, "Socialism is the
 means by which we want to reach and secure...freedom: solidarity,
 sharing, and cooperative labor."[^9]
 
-<a href="Lorenzo_Kom&#39;boa_Ervin.md" class="wikilink"
+<a href="Lorenzo_Kom&#39;boa_Ervin" class="wikilink"
 title="Lorenzo Kom&#39;boa Ervin">Lorenzo Kom'boa Ervin</a> summarized:
 "Anarchists are opposed to government, the state and Capitalism.
 Therefore, simply speaking, Anarchism is a no-government form of
@@ -118,7 +118,7 @@ common by the producers of wealth."[^10]
 ## Distinguishing From State Socialism
 
 A critical aspect of anarchist socialism is its opposition to
-<a href="state_socialism.md" class="wikilink" title="state socialism">state
+<a href="state_socialism" class="wikilink" title="state socialism">state
 socialism</a>. Classical anarchists did not condemn "socialism" in
 general, but specifically "state socialism" or "authoritarian
 socialism." They regarded themselves as being far to the left of the
@@ -153,12 +153,12 @@ also distinguish their revolutionary anti-state position from reformist
 state socialism.[^14]
 
 As
-<a href="Cindy_Milstein.md" class="wikilink" title="Cindy Milstein">Cindy
+<a href="Cindy_Milstein" class="wikilink" title="Cindy Milstein">Cindy
 Milstein</a> notes, "Anarchism appears to be the only form of
 libertarian socialism that speaks to the times and people's
 dreams."[^15]
 
-<a href="Donald_Rooum.md" class="wikilink" title="Donald Rooum">Donald
+<a href="Donald_Rooum" class="wikilink" title="Donald Rooum">Donald
 Rooum</a> explains: "Anarchists are extreme libertarian socialists,
 'libertarian' meaning the demand for freedom from prohibition, and
 'socialist' meaning the demand for social equality....Complete freedom
@@ -174,7 +174,7 @@ response to the authoritarian character of historical state socialist
 regimes. However, classical anarchists like Malatesta addressed this by
 maintaining their anarchist-socialist identity while refusing to use the
 term "communist" after it became associated with
-<a href="Leninism.md" class="wikilink" title="Leninism">Leninism</a>.[^17]
+<a href="Leninism" class="wikilink" title="Leninism">Leninism</a>.[^17]
 
 Other critics argue that the term "socialism" has become too associated
 with statism to be useful. However, anarchists counter that the term
@@ -192,19 +192,19 @@ themselves from authoritarian variants.
 
 <references/>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Socialism.md" class="wikilink"
+Socialism</a> <a href="Category:Socialism" class="wikilink"
 title="Category:Socialism">Category:Socialism</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Michael Bakunin, "Stateless Socialism: Anarchism" as translated in

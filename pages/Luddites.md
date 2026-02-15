@@ -49,9 +49,9 @@ pushed the struggle into tamer legislative, reformist efforts.[^12]
 
 <references/>
 
-<a href="Category:UK.md" class="wikilink"
+<a href="Category:UK" class="wikilink"
 title="Category:UK">Category:UK</a>
-<a href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
 
 [^1]: E.P. Thompson, *The Making of the English Working Class* (New

@@ -1,15 +1,15 @@
 **Aaron Bushnell** (1999-2024) was an
-<a href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>, a
-<a href="United_States_Air_Force.md" class="wikilink"
+<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>, a
+<a href="United_States_Air_Force" class="wikilink"
 title="United States Air Force">United States Air Force</a> serviceman,
 and a
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>
 organizer who sacrificed his life in an act of protest against the
-<a href="genocide.md" class="wikilink" title="genocide">genocide</a> in
-<a href="Gaza.md" class="wikilink" title="Gaza">Gaza</a>. On February 25,
-2024, Bushnell <a href="self-immolation.md" class="wikilink"
+<a href="genocide" class="wikilink" title="genocide">genocide</a> in
+<a href="Gaza" class="wikilink" title="Gaza">Gaza</a>. On February 25,
+2024, Bushnell <a href="self-immolation" class="wikilink"
 title="self-immolated">self-immolated</a> outside the
-<a href="Embassy_of_Israel,_Washington,_D.C..md" class="wikilink"
+<a href="Embassy_of_Israel,_Washington,_D.C." class="wikilink"
 title="Israeli embassy in Washington, D.C.">Israeli embassy in
 Washington, D.C.</a>, declaring that he would "no longer be complicit in
 genocide."
@@ -285,16 +285,16 @@ those systems.
 
 ## See also
 
-- <a href="Gaza_War_(2023–present).md" class="wikilink"
+- <a href="Gaza_War_(2023–present)" class="wikilink"
   title="Gaza War (2023–present)">Gaza War (2023–present)</a>
-- <a href="Israel–Hamas_war_protests_in_the_United_States.md"
+- <a href="Israel–Hamas_war_protests_in_the_United_States"
   class="wikilink"
   title="Israel–Hamas war protests in the United States">Israel–Hamas war
   protests in the United States</a>
 
 <!-- -->
 
-- <a href="Mutual_aid_(organization_theory).md" class="wikilink"
+- <a href="Mutual_aid_(organization_theory)" class="wikilink"
   title="Mutual aid (organization theory)">Mutual aid (organization
   theory)</a>
 
@@ -312,22 +312,22 @@ those systems.
   Friends](https://crimethinc.com/2024/02/29/memories-of-aaron-bushnell-as-recounted-by-his-friends) -
   CrimethInc
 
-<a href="Category:1999_births.md" class="wikilink"
+<a href="Category:1999_births" class="wikilink"
 title="Category:1999 births">Category:1999 births</a>
-<a href="Category:2024_deaths.md" class="wikilink"
+<a href="Category:2024_deaths" class="wikilink"
 title="Category:2024 deaths">Category:2024 deaths</a>
-<a href="Category:American_anarchists.md" class="wikilink"
+<a href="Category:American_anarchists" class="wikilink"
 title="Category:American anarchists">Category:American anarchists</a>
-<a href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:Anti-war_activists.md" class="wikilink"
+<a href="Category:Anti-war_activists" class="wikilink"
 title="Category:Anti-war activists">Category:Anti-war activists</a>
-<a href="Category:Gaza_War_(2023–present).md" class="wikilink"
+<a href="Category:Gaza_War_(2023–present)" class="wikilink"
 title="Category:Gaza War (2023–present)">Category:Gaza War
 (2023–present)</a>
-<a href="Category:Palestine_solidarity_activists.md" class="wikilink"
+<a href="Category:Palestine_solidarity_activists" class="wikilink"
 title="Category:Palestine solidarity activists">Category:Palestine
-solidarity activists</a> <a href="Category:Mutual_aid.md" class="wikilink"
+solidarity activists</a> <a href="Category:Mutual_aid" class="wikilink"
 title="Category:Mutual aid">Category:Mutual aid</a>
 
 [^1]: CrimethInc. "Memories of Aaron Bushnell: As Recounted by His

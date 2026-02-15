@@ -135,7 +135,7 @@ Some of these suggestions come from -
 - Bob Black, [An Anarchist Response to “An Anarchist Response to
   Crime”](https://theanarchistlibrary.org/library/bob-black-an-anarchist-response-to-an-anarchist-response-to-crime)
 
-<a href="Category:Community_Justice.md" class="wikilink"
+<a href="Category:Community_Justice" class="wikilink"
 title="Category:Community Justice">Category:Community Justice</a>
-<a href="Category:Justice.md" class="wikilink"
+<a href="Category:Justice" class="wikilink"
 title="Category:Justice">Category:Justice</a>

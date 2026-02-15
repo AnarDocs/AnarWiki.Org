@@ -7,18 +7,18 @@ the printing of posters."[^1]
 
 <references/>
 
-<a href="Anarchist_Organizations.md" class="wikilink"
+<a href="Anarchist_Organizations" class="wikilink"
 title="Anarchist Organizations">Anarchist Organizations</a>
 
-<a href="Category:Egypt.md" class="wikilink"
+<a href="Category:Egypt" class="wikilink"
 title="Category:Egypt">Category:Egypt</a>
-<a href="Category:Africa.md" class="wikilink"
+<a href="Category:Africa" class="wikilink"
 title="Category:Africa">Category:Africa</a>
-<a href="Category:Northern_Africa.md" class="wikilink"
+<a href="Category:Northern_Africa" class="wikilink"
 title="Category:Northern Africa">Category:Northern Africa</a>
-<a href="Category:Organizations.md" class="wikilink"
+<a href="Category:Organizations" class="wikilink"
 title="Category:Organizations">Category:Organizations</a>
-<a href="Category:19th_Century.md" class="wikilink"
+<a href="Category:19th_Century" class="wikilink"
 title="Category:19th Century">Category:19th Century</a>
 
 [^1]: Anthony Gorman, "'Diverse in Race, Religion and Nationality...But

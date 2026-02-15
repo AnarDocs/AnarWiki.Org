@@ -159,3 +159,10 @@
 - Nation-states’ military doctrines, often based on vertical command
   structure, are slow to respond to decentralised warfare by non-state
   actors
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

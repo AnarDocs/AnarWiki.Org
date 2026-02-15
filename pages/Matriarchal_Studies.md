@@ -135,31 +135,31 @@ interpretations[^1].
 
 ## See Also
 
-- <a href="Bonobo.md" class="wikilink" title="Bonobo Apes">Bonobo Apes</a>
-- <a href="Southeast_Matriarchies.md" class="wikilink"
+- <a href="Bonobo" class="wikilink" title="Bonobo Apes">Bonobo Apes</a>
+- <a href="Southeast_Matriarchies" class="wikilink"
   title="Southeast Matriarchies">Southeast Matriarchies</a>
-- <a href="Minoan_Crete.md" class="wikilink" title="Minoan Crete">Minoan
+- <a href="Minoan_Crete" class="wikilink" title="Minoan Crete">Minoan
   Crete</a>
-- <a href="Minangkabau.md" class="wikilink"
+- <a href="Minangkabau" class="wikilink"
   title="Minangkabau">Minangkabau</a>
-- <a href="SCUM_Manifesto.md" class="wikilink" title="SCUM Manifesto">SCUM
+- <a href="SCUM_Manifesto" class="wikilink" title="SCUM Manifesto">SCUM
   Manifesto</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Feminism.md" class="wikilink"
+<a href="Category:Feminism" class="wikilink"
 title="Category:Feminism">Category:Feminism</a>
-<a href="Category:Anarcha-Feminism.md" class="wikilink"
+<a href="Category:Anarcha-Feminism" class="wikilink"
 title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
-<a href="Category:Anarcha-Feminist_Groups.md" class="wikilink"
+<a href="Category:Anarcha-Feminist_Groups" class="wikilink"
 title="Category:Anarcha-Feminist Groups">Category:Anarcha-Feminist
-Groups</a> <a href="Category:Anarchist_Societies.md" class="wikilink"
+Groups</a> <a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-<a href="Category:Relationships.md" class="wikilink"
+<a href="Category:Relationships" class="wikilink"
 title="Category:Relationships">Category:Relationships</a>
 
 [^1]: Matriarchal Studies - Anarchy In Action, Introduction and

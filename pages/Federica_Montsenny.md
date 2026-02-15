@@ -4,16 +4,16 @@
 > elements of the anarchist creed" - *Federica Montseny*
 
 **Frederica Montseny i Mañé** (1905–1994) was a Spanish
-<a href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>,
+<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>,
 intellectual, and writer who was a prominent member of the
-<a href="Confederación_Nacional_del_Trabajo.md" class="wikilink"
+<a href="Confederación_Nacional_del_Trabajo" class="wikilink"
 title="Confederación Nacional del Trabajo">Confederación Nacional del
 Trabajo</a> (CNT) and the
-<a href="Iberian_Anarchist_Federation.md" class="wikilink"
+<a href="Iberian_Anarchist_Federation" class="wikilink"
 title="Iberian Anarchist Federation">Iberian Anarchist Federation</a>
 (FAI). She is historically significant as the first woman cabinet
 minister in Spanish history, serving as Minister of Health and Social
-Assistance during the <a href="Spanish_Civil_War.md" class="wikilink"
+Assistance during the <a href="Spanish_Civil_War" class="wikilink"
 title="Spanish Civil War">Spanish Civil War</a>, and as one of the first
 female ministers in Western Europe. Despite her pragmatic decision to
 join the Republican government, she remained committed to anarchist
@@ -23,11 +23,11 @@ during decades of exile in France.
 Following the defeat of Republican forces in the Spanish Civil War,
 Montseny fled into exile where she continued organizing within the
 anarchist movement. She was one of the main delegates at the
-<a href="Congress_of_Carrara.md" class="wikilink"
+<a href="Congress_of_Carrara" class="wikilink"
 title="Congress of Carrara">Congress of Carrara</a> (1968), one of the
 major anarchist congresses of the 20th century, where she represented
 the FAI and advocated for the foundation of the
-<a href="International_of_Anarchist_Federations.md" class="wikilink"
+<a href="International_of_Anarchist_Federations" class="wikilink"
 title="International of Anarchist Federations">International of
 Anarchist Federations</a>.
 
@@ -40,18 +40,18 @@ advanced anarchist and feminist ideas.
 
 Federica Montseny was born into an anarchist family of considerable
 intellectual influence. Her parents,
-<a href="Joan_Montseny.md" class="wikilink" title="Joan Montseny">Joan
+<a href="Joan_Montseny" class="wikilink" title="Joan Montseny">Joan
 Montseny</a> and
-<a href="Teresa_Mañé.md" class="wikilink" title="Teresa Mañé">Teresa
+<a href="Teresa_Mañé" class="wikilink" title="Teresa Mañé">Teresa
 Mañé</a>, were both teachers and committed anarchists of Catalan origin.
 From 1898, they jointly edited the influential anarchist journal
-*<a href="La_Revista_Blanca.md" class="wikilink"
+*<a href="La_Revista_Blanca" class="wikilink"
 title="La Revista Blanca">La Revista Blanca</a>*, one of the most
 significant anarchist publications of the period.[^1]
 
 The family lived in Madrid because her father had been imprisoned and
 exiled following the
-<a href="1896_Barcelona_Corpus_Christi_procession_bombing.md"
+<a href="1896_Barcelona_Corpus_Christi_procession_bombing"
 class="wikilink"
 title="1896 Barcelona Corpus Christi procession bombing">1896 Barcelona
 Corpus Christi procession bombing</a>. After secretly returning to
@@ -64,13 +64,13 @@ Federica Montseny was born on 12 February 1905 in Madrid, the sole
 surviving child of her anarchist parents.[^2] Her childhood was marked
 by the family's precarious financial situation and constant harassment
 by authorities. The
-<a href="Civil_Guard.md" class="wikilink" title="Civil Guard">Civil
+<a href="Civil_Guard" class="wikilink" title="Civil Guard">Civil
 Guard</a> frequently raided their home searching for her father, and
 young Federica learned to delay the guards at the door to give him time
 to hide.[^3][^4]
 
 Montseny received her education entirely at home from her parents, who
-employed <a href="progressive_education.md" class="wikilink"
+employed <a href="progressive_education" class="wikilink"
 title="progressive education">progressive education</a> methods. Her
 mother used progressive didactic approaches to foster Montseny's
 intellectual curiosity, providing wide-ranging reading materials and
@@ -93,31 +93,31 @@ her romantic novels aimed at working-class women readers.
 
 ### Spanish Civil War and Government Participation
 
-Following the <a href="Spanish_coup_of_July_1936.md" class="wikilink"
+Following the <a href="Spanish_coup_of_July_1936" class="wikilink"
 title="Spanish coup of July 1936">Spanish coup of July 1936</a>,
-Montseny supported the <a href="Republican_faction.md" class="wikilink"
+Montseny supported the <a href="Republican_faction" class="wikilink"
 title="Republican faction">Republican faction</a> against the
 Nationalists, viewing a
-<a href="united_front.md" class="wikilink" title="united front">united
+<a href="united_front" class="wikilink" title="united front">united
 front</a> of anti-fascists as necessary for advancing anarchism in
 Spain.[^7] However, she quickly rejected the
-<a href="Red_Terror_(Spain).md" class="wikilink"
+<a href="Red_Terror_(Spain)" class="wikilink"
 title="violence in Republican-held territory">violence in
 Republican-held territory</a>, describing it as "a lust for blood
 inconceivable in honest man before".[^8]
 
-In November 1936, <a href="Francisco_Largo_Caballero.md" class="wikilink"
+In November 1936, <a href="Francisco_Largo_Caballero" class="wikilink"
 title="Francisco Largo Caballero">Francisco Largo Caballero</a> invited
 the anarchists to join the Spanish government. The anarchists were the
 largest anti-fascist group, and other
-<a href="Popular_Front.md" class="wikilink" title="Popular Front">Popular
+<a href="Popular_Front" class="wikilink" title="Popular Front">Popular
 Front</a> parties sought to neutralize their anti-statism.[^9] Montseny
 later explained that the anarchists' principal concern in joining the
 government was the rising power of the
-<a href="Communist_Party_of_Spain.md" class="wikilink"
+<a href="Communist_Party_of_Spain" class="wikilink"
 title="Communist Party of Spain">Communist Party of Spain</a>, which
 they viewed as a threat to the
-<a href="Spanish_Revolution_of_1936.md" class="wikilink"
+<a href="Spanish_Revolution_of_1936" class="wikilink"
 title="Revolution">Revolution</a>.[^10]
 
 Despite her own reservations about compromising anarchist principles,
@@ -128,29 +128,29 @@ history.[^11][^12][^13]
 From her ministerial position, Montseny oversaw medical facilities
 overwhelmed by war conditions, organizing construction of orphanages and
 provision of refugee aid.[^14][^15] She collaborated with
-<a href="Mujeres_Libres.md" class="wikilink" title="Mujeres Libres">Mujeres
+<a href="Mujeres_Libres" class="wikilink" title="Mujeres Libres">Mujeres
 Libres</a> to advance women's rights through wide-ranging reforms
 including: introduction of childcare for women workers and militia
 members; provision of women's education and healthcare; and efforts to
 combat prostitution.[^16]
 
 Montseny persuaded anarchist militia leader
-<a href="Buenaventura_Durruti.md" class="wikilink"
+<a href="Buenaventura_Durruti" class="wikilink"
 title="Buenaventura Durruti">Buenaventura Durruti</a> to transfer from
 the Aragon front to defend Madrid, where he fought and died at the
-<a href="Battle_of_Ciudad_Universitaria.md" class="wikilink"
+<a href="Battle_of_Ciudad_Universitaria" class="wikilink"
 title="Battle of Ciudad Universitaria">Battle of Ciudad
 Universitaria</a>.[^17]
 
 During the
-<a href="May_Days.md" class="wikilink" title="May Days">May Days</a> when
+<a href="May_Days" class="wikilink" title="May Days">May Days</a> when
 Barcelona anarchists revolted, Montseny appealed on behalf of the
 government for militias to lay down arms.[^18][^19] When unsuccessful,
 the government suppressed the anarchists by force in what Montseny
 described as "the most terrible and bitter days of my life".[^20]
 
 By the time
-<a href="Juan_Negrin.md" class="wikilink" title="Juan Negrin">Juan
+<a href="Juan_Negrin" class="wikilink" title="Juan Negrin">Juan
 Negrin</a> consolidated power, Montseny believed the war was already
 lost and focused on saving lives.[^21] She left the cabinet and
 attempted to unite Republican forces, but by 1938 the deteriorating
@@ -181,13 +181,13 @@ Following France's liberation, Montseny participated in reorganizing the
 CNT in exile and edited the organization's weekly newspaper.[^31] From
 Toulouse, she wrote a weekly column in the French-language anarchist
 newspaper *Espoir* and edited the journal
-*<a href="Cénit.md" class="wikilink" title="Cénit">Cénit</a>*.[^32]
+*<a href="Cénit" class="wikilink" title="Cénit">Cénit</a>*.[^32]
 
 In 1968, she was one of the main delegates at the
-<a href="Congress_of_Carrara.md" class="wikilink"
+<a href="Congress_of_Carrara" class="wikilink"
 title="Congress of Carrara">Congress of Carrara</a>, a major
 international anarchist congress. There she defended the foundation of
-the <a href="International_of_Anarchist_Federations.md" class="wikilink"
+the <a href="International_of_Anarchist_Federations" class="wikilink"
 title="International of Anarchist Federations">International of
 Anarchist Federations</a> (IAF), demonstrating her continued commitment
 to international anarchist organizing.[^33]
@@ -200,8 +200,8 @@ published in 1987.[^34]
 ### Personal Life
 
 In 1930, Montseny began a
-<a href="free_love.md" class="wikilink" title="free love">free love</a>
-relationship with <a href="Germinal_Esgleas.md" class="wikilink"
+<a href="free_love" class="wikilink" title="free love">free love</a>
+relationship with <a href="Germinal_Esgleas" class="wikilink"
 title="Germinal Esgleas">Germinal Esgleas</a>.[^35] The couple had three
 children together: daughter Vida (born 1933), son Germinal (born June
 1938), and daughter Blanca (born 1941).[^36][^37]
@@ -337,29 +337,29 @@ anarchist movement.
   Lee,
   2012](https://files.libcom.org/files/2025-06/Mothers%20without%20Fathers%20or%20Nothing%20More%20than%20a%20Woman.pdf)
 
-<a href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:Anarcha-Feminists.md" class="wikilink"
+<a href="Category:Anarcha-Feminists" class="wikilink"
 title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
-<a href="Category:Anarchist_Women.md" class="wikilink"
+<a href="Category:Anarchist_Women" class="wikilink"
 title="Category:Anarchist Women">Category:Anarchist Women</a>
-<a href="Category:Spanish_Anarchists.md" class="wikilink"
+<a href="Category:Spanish_Anarchists" class="wikilink"
 title="Category:Spanish Anarchists">Category:Spanish Anarchists</a>
-<a href="Category:CNT_Members.md" class="wikilink"
+<a href="Category:CNT_Members" class="wikilink"
 title="Category:CNT Members">Category:CNT Members</a>
-<a href="Category:FAI_Members.md" class="wikilink"
+<a href="Category:FAI_Members" class="wikilink"
 title="Category:FAI Members">Category:FAI Members</a>
-<a href="Category:Spanish_Civil_War.md" class="wikilink"
+<a href="Category:Spanish_Civil_War" class="wikilink"
 title="Category:Spanish Civil War">Category:Spanish Civil War</a>
-<a href="Category:Mujeres_Libres.md" class="wikilink"
+<a href="Category:Mujeres_Libres" class="wikilink"
 title="Category:Mujeres Libres">Category:Mujeres Libres</a>
-<a href="Category:1905_Births.md" class="wikilink"
+<a href="Category:1905_Births" class="wikilink"
 title="Category:1905 Births">Category:1905 Births</a>
-<a href="Category:1994_Deaths.md" class="wikilink"
+<a href="Category:1994_Deaths" class="wikilink"
 title="Category:1994 Deaths">Category:1994 Deaths</a>
-<a href="Category:Anarchist_Writers.md" class="wikilink"
+<a href="Category:Anarchist_Writers" class="wikilink"
 title="Category:Anarchist Writers">Category:Anarchist Writers</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Soriano Jiménez, Ignacio C. (2016). *Semblanza de Federica

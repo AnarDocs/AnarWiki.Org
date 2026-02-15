@@ -1,230 +1,224 @@
-**Mikhail Alexandrovich Bakunin** (30th of May 1814 - 1st of July 1876)
-was one of the most influential figures in the history and development
-of <a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>,
-so much so that he is sometimes referred to as the 'father of
-anarchism'. He is credited with linking the anarchist movement to
-<a href="feminism.md" class="wikilink" title="feminism">feminism</a>,
-<a href="atheism.md" class="wikilink" title="atheism">atheism</a>,
-<a href="revolution.md" class="wikilink" title="revolution">revolution</a>,
-developing the concept of
-<a href="Anarcho-Collectivism.md" class="wikilink"
-title="anarcho-collectivism">anarcho-collectivism</a> and being one of
-the first critics of the very concept of
-<a href="Market_Economy.md" class="wikilink" title="markets">markets</a>.
-However, he was known to be openly racist and anti-semitic, with critics
-accusing him of being a violent terrorist.
+**Mikhail Alexandrovich Bakunin** (30 May 1814 – 1 July 1876) was one of
+the most influential figures in the history and development of
+<a href="anarchism" class="wikilink" title="anarchism">anarchism</a>,
+often referred to as the 'father of anarchism'. He linked the anarchist
+movement to
+<a href="feminism" class="wikilink" title="feminism">feminism</a>,
+<a href="atheism" class="wikilink" title="atheism">atheism</a>, and
+<a href="revolution" class="wikilink" title="revolution">revolution</a>,
+developed the concept of <a href="Anarcho-Collectivism" class="wikilink"
+title="anarcho-collectivism">anarcho-collectivism</a>, and was one of
+the first critics of
+<a href="Market_Economy" class="wikilink" title="markets">markets</a>.
+His predictions about <a href="Marxism-Leninism" class="wikilink"
+title="Marxism-Leninism">Marxism-Leninism</a> transforming into
+authoritarian dictatorships proved accurate. However, his legacy remains
+complicated by his expressions of racism and antisemitism, which
+anarchists have struggled with ever since.
 
 ## Biography
 
 ### Family
 
 According to legend, the Bakunin dynasty was founded in 1492 by one of
-the three brothers of the noble Báthory family who left Hungary to serve
+three brothers of the noble Báthory family who left Hungary to serve
 under Vasili III of Russia. The first documented ancestor was a Moscow
-dyak (clerk) Nikifor Evdokimov nicknamed Bakunya (from the Russian
+dyak (clerk) Nikifor Evdokimov, nicknamed Bakunya (from the Russian
 *bakunya*, *bakulya* meaning "chatterbox, phrase monger") who lived
-during the 17th century. Mikhail was the son of Alexander Mikhailovich
-Bakunin, a diplomat who served in Italy and France and retired to a
-feudal estate consisting of 500 serfs (where Mikhail was born) and his
-grandmother, knyazna Lubov Petrovna Myshetskaya, belonged to the
-impoverished Upper Oka Principalities branch of the Rurik dynasty
-founded by Mikhail Yurievich Tarussky, grandson of Michael of Chernigov.
+during the 17th century.
+
+Mikhail was the son of Alexander Mikhailovich Bakunin, a diplomat who
+served in Italy and France before retiring to a feudal estate of 500
+serfs (where Mikhail was born). His grandmother, knyazna Lubov Petrovna
+Myshetskaya, belonged to the impoverished Upper Oka Principalities
+branch of the Rurik dynasty founded by Mikhail Yurievich Tarussky,
+grandson of Michael of Chernigov.
 
 In 1810, Alexander Bakunin married Varvara Alexandrovna Muravyova
-(1792 - 1864) who was 24 years younger than him. She came from the
-ancient noble Muravyov family that was founded during the 15th century
-by the Ryazan boyar Ivan Vasilievich Alapovsky nicknamed Muravey
-(translates simply as "ant") who was granted lands in Veliky Novgorod.
-Among her second cousins were Nikita Muravyov and Sergey
-Muravyov-Apostol, some of the key figures of the Decembrist revolt.
-Alexander's commitment to liberal ideas also led to his involvement with
-one in the Decembrist clubs. After Nicolas I became an Emperor, he gave
-up politics and devoted himself to the estate and his children—five
-girls and five boys, the oldest of whom was Mikhail.
+(1792-1864), who was 24 years younger. She came from the ancient noble
+Muravyov family founded during the 15th century by the Ryazan boyar Ivan
+Vasilievich Alapovsky, nicknamed Muravey (meaning "ant"), who was
+granted lands in Veliky Novgorod. Among her second cousins were Nikita
+Muravyov and Sergey Muravyov-Apostol, key figures of the Decembrist
+revolt.
+
+Alexander's commitment to liberal ideas led to his involvement with one
+of the Decembrist clubs. After Nicolas I became Emperor, he abandoned
+politics and devoted himself to the estate and his children—five girls
+and five boys, the oldest of whom was Mikhail.
 
 ### Youth
 
-At the age of 14, Bakunin left for Saint Petersburg and trained as an
-artillery officer, and went to serve in Minsk in 1833. He did not enjoy
-army and having a lot of free time on his hands spent it on
-self-education. He eventually left the army in 1835, hoping to study
-philosophy in Moscow. He met and befriended several former university
-students in Moscow, notably Nikolay Stankevich, Konstantin Aksakov,
-Piotr Chaadaev, Alexander Herzen and Nikolay Ogarev.
+At 14, Bakunin left for Saint Petersburg and trained as an artillery
+officer, going to serve in Minsk in 1833. He did not enjoy army life
+and, having considerable free time, devoted himself to self-education.
+He left the army in 1835, hoping to study philosophy in Moscow.
 
-They studied the philosophies of Kant, Fichte, Schelling, Goethe,
-Hoffman and Hegel. Bakunin translated many of these works into Russian
-and began to advocate for a unified Slavic nation. He left for Berlin in
-1840, and desired to become a university philosophy professor, and
-encountered many Young Hegelians and Berlin's socialist movement. He
-moved to Dresden, and befriended Arnold Ruge and became an avowed
-socialist, abandoning his interest in being a professor and became
-dedicated to promoting revolution. This led to troubles with the Russian
-government, who ordered his return to Russia, and when he refused,
-confiscated his property, leading him to move to Switzerland in 1842.
+In Moscow, he met and befriended several former university students,
+notably Nikolay Stankevich, Konstantin Aksakov, Piotr Chaadaev,
+Alexander Herzen, and Nikolay Ogarev. They studied the philosophies of
+Kant, Fichte, Schelling, Goethe, Hoffman, and Hegel. Bakunin translated
+many of these works into Russian and began advocating for a unified
+Slavic nation.
 
-He stayed in Zürich and befriended Wilhelm Weitling and began calling
-himself a communist, authoring articles for communist newspapers. He
-moved to Geneva shortly before Weitling's arrest, leading to him being
-investigated by the Swiss police. He was once again ordered to return to
-Russia, but left for Belgium instead, meeting many German and Polish
-radicals in exile, notably Joachim Lelewel, Karl Marx and Friedrich
-Engels in Brussels. He came into conflict with his nationalist friends
-as he began to support liberty for all people and the liberation of the
-peasantry.
+He left for Berlin in 1840, desiring to become a university philosophy
+professor. There he encountered many Young Hegelians and Berlin's
+socialist movement. He moved to Dresden, befriended Arnold Ruge, and
+became an avowed socialist, abandoning his professorial ambitions to
+dedicate himself to promoting revolution.
+
+This led to troubles with the Russian government, which ordered his
+return. When he refused, they confiscated his property, leading him to
+move to Switzerland in 1842. He stayed in Zürich, befriended Wilhelm
+Weitling, and began calling himself a communist, authoring articles for
+communist newspapers. He moved to Geneva shortly before Weitling's
+arrest, leading to investigation by Swiss police.
+
+Once again ordered to return to Russia, he instead left for Belgium,
+meeting many German and Polish radicals in exile, notably Joachim
+Lelewel, Karl Marx, and Friedrich Engels in Brussels. He came into
+conflict with his nationalist friends as he began supporting liberty for
+all people and the liberation of the peasantry.
 
 In 1844, Bakunin went to Paris and established contact with Karl Marx
 and Pierre-Joseph Proudhon, who greatly impressed him and with whom he
-formed a personal bond. He was stripped of his nobility and his land in
-Russia was confiscated and was condemned to exile in Siberia. But he
-refused to go there and travelled through Europe, advocating a joint
+formed a personal bond. He was stripped of his nobility, his Russian
+land was confiscated, and he was condemned to exile in Siberia—though he
+refused to go and instead traveled through Europe, advocating a joint
 revolution of Polish and Russian people against the Russian Empire.
 
 ### Revolution, Arrest and Exile
 
-He participated in the 1848 Revolution in Europe as was very happy,
+Bakunin participated enthusiastically in the 1848 Revolution in Europe,
 obtaining funding from the Provisional Government for the liberation of
-Slavs in the Prussia, Austro-Hungarian and Ottoman Empires. He traveled
-through Germany and tried to join the insurrection in Baden, leading to
-conflict with Karl Marx. He was refused entry to Poland, and then
-travelled to Leipzig, Breslau and Prague where he participated in the
-First Pan Slav Congress, leading to him participating in the May
-Conspiracy and the May Uprising in Dresden in 1849, helping to organize
-the defense of the barricades against Prussian troops with Richard
-Wagner and Wilhelm Heine. Bakunin was captured in Chemnitz and held for
-thirteen months before being condemned to death by the government of
-Saxony.
+Slavs in the Prussian, Austro-Hungarian, and Ottoman Empires. He
+traveled through Germany attempting to join the insurrection in Baden,
+leading to conflict with Karl Marx. Refused entry to Poland, he traveled
+to Leipzig, Breslau, and Prague, where he participated in the First Pan
+Slav Congress, leading to his involvement in the May Conspiracy and the
+May Uprising in Dresden in 1849. He helped organize the defense of the
+barricades against Prussian troops alongside Richard Wagner and Wilhelm
+Heine.
 
-He was saved an extradited to Russia, and then Austria, where he was
-sentenced to death, but then extradited to Russia, taken to the
-underground dungeons of the Peter and Paul Fortress. He spent another
-four years in the castle of Shlisselburg. It was here that he suffered
-from scurvy and all his teeth fell out as a result of the diet. He later
-recounted that he found some relief in mentally re-enacting the legend
-of Prometheus. His continuing imprisonment in these awful conditions led
-him to consider suicide by the consumption of smuggled poison.
+Bakunin was captured in Chemnitz and held for thirteen months before
+being condemned to death by the government of Saxony. He was saved and
+extradited to Austria, where he was again sentenced to death, but then
+extradited to Russia and taken to the underground dungeons of the Peter
+and Paul Fortress. He spent another four years in the castle of
+Shlisselburg, where he suffered from scurvy and all his teeth fell out
+due to the diet. He later recounted finding some relief in mentally
+re-enacting the legend of Prometheus. His continuing imprisonment in
+these conditions led him to consider suicide by consuming smuggled
+poison.
 
 Pleas from his noble family led to his release from prison, allowing him
-to go into exile into the Tomsk, Siberia. He married Antonina
-Kwiatkowska, the daughter of a Polish merchant. He had been teaching her
-French. He got a job with the Amur Development Agency from his second
+to go into exile in Tomsk, Siberia. He married Antonina Kwiatkowska, the
+daughter of a Polish merchant whom he had been teaching French. He
+obtained a job with the Amur Development Agency through his second
 cousin, the liberal governor in Eastern Siberia. Mikhail proposed the
-construction of a United States of Siberia, modeled of the
-<a href="United_States_of_America.md" class="wikilink"
-title="United States of America">United States of America</a>. Mikahil
-quit his job and recieved a pension from the state, and his second
-cousin was forced to resigned over his views and fear of a Siberian
-revolution. He was replaced by the new and more liberal governor
-Korsakov, who gave him free passage on all ships in the Amur river so
-long as he returned to the city of Irkutsk in winter.
+construction of a United States of Siberia, modeled on the
+<a href="United_States_of_America" class="wikilink"
+title="United States of America">United States of America</a>. He quit
+his job and received a pension from the state. His second cousin was
+forced to resign over fears of a Siberian revolution and was replaced by
+the new and more liberal governor Korsakov, who gave Bakunin free
+passage on all ships in the Amur river provided he returned to Irkutsk
+in winter.
 
 ### Escape from Exile
 
-On the 5th of June, 1861, Mikhail began his escape from Russia, by
-claiming he was on a business trip to Nikolaevsk, taking the Russian
-warship *Strelok* to the port city of Olga, where he boarded an American
-ship to Japan, befriending a group of Europeans in Japan by chance and
-took a ship to San Francisco. He then took a ship to Panama, and then to
-New York, where he went to Boston, finding a group of exiled European
-revolutionaries. He then left to Europe and became immersed in the
-revolutionary movement, moving to England. He attempted to join the
-Polish Insurrection in 1863, but became stuck in Copenhagen, with the
-failure of the insurrection, he met his wife in Stockholm and moved
-through to London, Brussels, Paris and Switzerland to get to Italy in
-order to create a new revolutionary force in the new country known as
-the Alliance of Revolutionary Socialists.
+On 5 June 1861, Mikhail began his escape from Russia by claiming he was
+on a business trip to Nikolaevsk. He took the Russian warship *Strelok*
+to the port city of Olga, where he boarded an American ship to Japan. By
+chance, he befriended a group of Europeans in Japan and took a ship to
+San Francisco, then to Panama, and then to New York, where he went to
+Boston and found a group of exiled European revolutionaries. He then
+left for Europe, moving to England.
 
-By 1866, his secret society grew to have members in most of Europe's
-countries, and began to oppose the very existence of the
-<a href="State_(Polity).md" class="wikilink" title="state">state</a>. He
+He attempted to join the Polish Insurrection in 1863 but became stuck in
+Copenhagen. With the insurrection's failure, he met his wife in
+Stockholm and moved through London, Brussels, Paris, and Switzerland to
+Italy to create a new revolutionary force in the new country—the
+Alliance of Revolutionary Socialists.
+
+By 1866, his secret society had grown to have members in most of
+Europe's countries and began to oppose the very existence of the
+<a href="State_(Polity)" class="wikilink" title="state">state</a>. He
 met Giuseppe Fanelli and later sponsored him to travel to Barcelona to
 share his libertarian visions and recruit revolutionists to the
-International Workingmen's Association. He began to advocated for the
-anarchism of Proudhon, and began to attend IWA conferences yearly.
+International Workingmen's Association. He began advocating for the
+anarchism of Proudhon and attended IWA conferences yearly.
 
-During the 1867–1868 period, Bakunin responded to Émile Acollas's call
-and became involved in the League of Peace and Freedom (LPF), for which
-he wrote a lengthy essay *Federalism, Socialism, and
-Anti-Theologism*<sup>\[33\]</sup> Here he advocated a federalist
-socialism, drawing on the work of Proudhon. He supported freedom of
-association and the right of secession for each unit of the federation,
-but emphasized that this freedom must be joined with socialism for
-"\[l\]iberty without socialism is privilege, injustice; socialism
-without liberty is slavery and brutality".
+During 1867–1868, Bakunin responded to Émile Acollas's call and became
+involved in the League of Peace and Freedom (LPF), for which he wrote
+the lengthy essay *Federalism, Socialism, and Anti-Theologism*. Here he
+advocated federalist socialism, drawing on Proudhon's work. He supported
+freedom of association and the right of secession for each unit of the
+federation, but emphasized that this freedom must be joined with
+socialism: "liberty without socialism is privilege, injustice; socialism
+without liberty is slavery and brutality".[^1]
 
 Bakunin played a prominent role in the Geneva Conference (September
-1867), and joined the Central Committee. The founding conference was
-attended by 6,000 people. As Bakunin rose to speak:
+1867) and joined the Central Committee. The founding conference was
+attended by 6,000 people. At the Bern Congress of the League (1868),
+Bakunin and other socialists (Élisée Reclus, Aristide Rey, Jaclard,
+Giuseppe Fanelli, N. Joukovsky, V. Mratchkovsky) found themselves in a
+minority. They seceded from the League, establishing their own
+International Alliance of Socialist Democracy, which adopted a
+revolutionary socialist program.
 
-At the Bern Congress of the League (1868), Bakunin and other socialists
-(Élisée Reclus, Aristide Rey, Jaclard, Giuseppe Fanelli, N. Joukovsky,
-V. Mratchkovsky and others) found themselves in a minority. They seceded
-from the League establishing their own International Alliance of
-Socialist Democracy which adopted a revolutionary socialist program.
-
-### First International and the rise of the anarchist movement
-
-Bakunin speaking to members of the IWA at the Basel Congress in 1869
-
-Bakunin in 1872
-
-Bakunin's grave at the Bremgarten cemetery in Bern
+### First International and the Rise of the Anarchist Movement
 
 In 1868, Bakunin joined the Geneva section of the First International,
-in which he remained very active until he was expelled from the
-International by Karl Marx and his followers at the Hague Congress in
-1872. Bakunin was instrumental in establishing branches of the
-International in Italy and Spain.
+remaining very active until his expulsion by Karl Marx and his followers
+at the Hague Congress in 1872. Bakunin was instrumental in establishing
+branches of the International in Italy and Spain.
 
 In 1869, the Social Democratic Alliance was refused entry to the First
-International on the grounds that it was an international organisation
-in itself, and only national organisations were permitted membership in
-the International. The Alliance dissolved and the various groups which
-it comprised joined the International separately.
+International on the grounds that it was an international organization
+in itself, and only national organizations were permitted membership.
+The Alliance dissolved and the various groups comprising it joined the
+International separately.
 
 Between 1869 and 1870, Bakunin became involved with the Russian
-revolutionary Sergey Nechayev in a number of clandestine projects.
-However, Bakunin publicly broke with Nechaev over what he described as
-the latter's "Jesuit" methods, by which all means were justified to
-achieve revolutionary ends, <sup>\[35\]</sup> but privately attempted to
-maintain contact. <sup>\[36\]</sup>
+revolutionary Sergey Nechayev in clandestine projects. However, Bakunin
+publicly broke with Nechaev over what he described as the latter's
+"Jesuit" methods, by which all means were justified to achieve
+revolutionary ends, though he privately attempted to maintain contact.
 
-In 1870, Bakunin led a failed uprising in Lyon on the principles later
+In 1870, Bakunin led a failed uprising in Lyon based on principles later
 exemplified by the Paris Commune, calling for a general uprising in
 response to the collapse of the French government during the
 Franco-Prussian War, seeking to transform an imperialist conflict into
 social revolution. In his *Letters to A Frenchman on the Present
 Crisis*, he argued for a revolutionary alliance between the working
-class and the peasantry, advocated a system of militias with elected
+class and peasantry, advocated a system of militias with elected
 officers as part of a system of self-governing communes and workplaces,
-and argued the time was ripe for revolutionary action:
+and argued the time was ripe for revolutionary action.
 
-These ideas corresponded strikingly closely with the program of the
-Paris Commune of 1871, much of which was developed by followers of
-Pierre-Joseph Proudhon; the Marxist and Blanquist factions had voted for
-confrontation with the army while the Proudhonions had supported a
-truce. Bakunin was a strong supporter of the Commune, which was brutally
+These ideas corresponded strikingly with the program of the Paris
+Commune of 1871, much of which was developed by followers of
+Pierre-Joseph Proudhon (the Marxist and Blanquist factions had voted for
+confrontation with the army while the Proudhonists supported a truce).
+Bakunin was a strong supporter of the Commune, which was brutally
 suppressed by the French government. He saw the Commune as above all a
-"rebellion against the State," and commended the Communards for
-rejecting not only the State but also revolutionary
-dictatorship.<sup>\[38\]</sup> In a series of powerful pamphlets, he
-defended the Commune and the First International against the Italian
-nationalist Giuseppe Mazzini, thereby winning over many Italian
-republicans to the International and the cause of revolutionary
-socialism.
+"rebellion against the State" and commended the Communards for rejecting
+not only the State but also revolutionary dictatorship. In a series of
+powerful pamphlets, he defended the Commune and the First International
+against the Italian nationalist Giuseppe Mazzini, winning over many
+Italian republicans to the International and revolutionary socialism.
 
-Bakunin's disagreements with Marx, which led to the attempt by the Marx
-party to expel him at the Hague Congress (see below), illustrated the
-growing divergence between the "anti-authoritarian" sections of the
-International, which advocated the direct revolutionary action and
-organization of the workers and peasants in order to abolish the state
-and capitalism, and the sections allied with Marx, which advocated the
-conquest of political power by the working class. Bakunin was "Marx’s
-flamboyant chief opponent" and "presciently warned against the emergence
-of a communist authoritarianism that would take power over working
-people."<sup>\[39\]</sup>
+Bakunin's disagreements with Marx, which led to the Marx party's attempt
+to expel him at the Hague Congress, illustrated the growing divergence
+between the "anti-authoritarian" sections of the International—which
+advocated direct revolutionary action and organization of workers and
+peasants to abolish the state and capitalism—and the sections allied
+with Marx, which advocated the conquest of political power by the
+working class. Bakunin was "Marx's flamboyant chief opponent" and
+"presciently warned against the emergence of a communist
+authoritarianism that would take power over working people".
 
-### Personal life
+### Personal Life
 
 In 1874, Bakunin retired with his young wife Antonia Kwiatkowska and
 three children to Minusio (near Locarno in Switzerland), in a villa
@@ -235,255 +229,260 @@ chemist and biologist. His daughter Sofia was the mother of Italian
 mathematician Renato Caccioppoli.
 
 Bakunin died in Bern on 1 July 1876. His grave can be found in
-*Bremgarten Cemetery* of Bern, box 9201, grave 68. His original epitaph
+Bremgarten Cemetery of Bern, box 9201, grave 68. His original epitaph
 reads: "Remember those who sacrificed everything for the freedom of
-their country". In 2015 the commemorative plate was replaced in form of
-a bronze portrait of Bakunin by Swiss artist Daniel Garbade containing
+their country". In 2015, the commemorative plate was replaced with a
+bronze portrait of Bakunin by Swiss artist Daniel Garbade containing
 Bakunin's quote: "By striving to do the impossible, man has always
 achieved what is possible". It was sponsored by the Dadaists of Cabaret
-Voltaire Zurich, who adopted Bakunin post mortem.
+Voltaire Zurich, who adopted Bakunin posthumously.
 
 ### Freemasonry
 
-Bakunin joined the Scottish Lodge of the Grand Orient de France in
-1845.<sup>\[42\]:128</sup> However his involvement with freemasonry
-lapsed until he was in Florence in the summer of 1864. Garibaldi had
-attended first real Italian Masonic Constituent Assembly in Florence in
-May of that year, and been elected Grand Master of the Grand Orient of
-Italy.<sup>\[43\]</sup>Here the local head of the Mazzinist party was
-also grand master of the local lodge. Although he was soon to dismiss
-freemasonry, it was in this period that he abandoned his previous belief
-in a god and embraced atheism. He formulated the phrase "God exists,
-therefore man is a slave. Man is free, therefore there is no God. Escape
-this dilemma who can!" which appeared in his unpublished *Catechism of a
-freemason*<sup>\[44\]</sup> Indeed it was during this period that he
-established the International Revolutionary Association, he did so with
-Italian revolutionaries who had broken with Mazzini because they
-rejected his Deism as well as his purely ‘political’ conception of the
-revolution, which they saw as being bourgeois with no element of a
-social revolution.<sup>\[45\]</sup>
+Bakunin joined the Scottish Lodge of the Grand Orient de France in 1845.
+However, his involvement with freemasonry lapsed until he was in
+Florence in summer 1864. Garibaldi had attended the first real Italian
+Masonic Constituent Assembly in Florence in May of that year and been
+elected Grand Master of the Grand Orient of Italy. Here the local head
+of the Mazzinist party was also grand master of the local lodge.
 
-## Quotes
+Although he soon dismissed freemasonry, it was in this period that he
+abandoned his previous belief in a god and embraced atheism. He
+formulated the phrase "God exists, therefore man is a slave. Man is
+free, therefore there is no God. Escape this dilemma who can!" which
+appeared in his unpublished *Catechism of a Freemason*. Indeed, it was
+during this period that he established the International Revolutionary
+Association with Italian revolutionaries who had broken with Mazzini
+because they rejected his Deism as well as his purely 'political'
+conception of revolution, which they saw as bourgeois with no element of
+social revolution.
 
-"FREEDOM, the realization of freedom: who can deny that this is what
+## Ideas and Contributions
+
+### Core Anarchist Philosophy
+
+Bakunin's anarchism centered on the abolition of all forms of authority
+and hierarchy. He argued that the state, church, and capitalism were
+interconnected systems of domination that must be destroyed
+simultaneously. Unlike Marx, who advocated for a transitional
+"dictatorship of the proletariat," Bakunin insisted that any
+transitional state would simply become a new form of tyranny.
+
+His famous prediction about Marxist states—that they would become
+dictatorships ruled by a new class of bureaucrats claiming to act in the
+name of the workers—proved tragically accurate with the rise of the
+Soviet Union and other authoritarian communist regimes. This prescience
+has vindicated anarchist critiques of state socialism.
+
+### Federalism and Free Association
+
+Bakunin advocated for a federalist organization of society based on free
+association. He envisioned a world organized from the bottom up, where
+workers and peasants would form voluntary associations and communes that
+would freely federate with each other. This stood in sharp contrast to
+centralized state planning.
+
+He believed that revolution must be made by the masses themselves, not
+by a vanguard party acting on their behalf. The revolutionary
+organization should inspire and coordinate, but never command or take
+power for itself.
+
+### Critique of Marxism
+
+Bakunin's conflict with Marx went beyond personal animosity to
+fundamental theoretical disagreements. He argued that Marx's focus on
+industrial workers in advanced countries ignored the revolutionary
+potential of peasants and the dispossessed. He warned that Marx's
+insistence on centralized party organization and state control would
+lead to a new ruling class—the "Red bureaucracy"—exploiting workers in
+the name of socialism.
+
+His critique of the authoritarian tendencies within Marxism anticipated
+the totalitarian nature of 20th-century communist states. As Noam
+Chomsky noted, Bakunin's prediction that Marxist regimes would become
+dictatorships was "one of the few predictions in the social sciences
+that actually came true".
+
+### Internationalism
+
+Bakunin was a committed internationalist who rejected nationalism as a
+tool of state power. While he initially supported Slavic liberation
+movements, he came to see that national liberation alone, without social
+revolution, would simply replace one ruling class with another. He
+advocated for the international solidarity of workers and oppressed
+peoples against all states and ruling classes.
+
+## The Problem of Bakunin's Prejudices
+
+### Antisemitism and Racism
+
+Bakunin's legacy is severely compromised by his expressions of
+antisemitism and racism, particularly in his polemics against Marx and
+in his writings on Slavic peoples. His antisemitic statements were not
+mere products of his era—they were actively harmful and contradicted his
+professed egalitarian principles.
+
+Bakunin deployed antisemitic tropes about Jewish financial control and
+characterized Marx's ideas as expressions of "Jewish" authoritarianism.
+He wrote disparagingly about Germans and Jews in ways that invoked
+racial stereotypes.
+
+While some defenders note that such prejudices were common among
+19th-century European radicals (Marx himself made antisemitic statements
+despite his Jewish heritage), and that Bakunin's antisemitism was not
+central to his anarchist theory, this provides no excuse. The
+contradiction between Bakunin's stated commitment to universal human
+freedom and his ethnic prejudices reveals a profound failure to live up
+to his own principles.
+
+### The Anarchist Response
+
+Contemporary anarchists have grappled with this legacy in various ways.
+Some, like biographer Mark Leier and scholar Eirik Eiglad, argue that
+while Bakunin's antisemitism was real and wrong, his anarchist ideas can
+be separated from these prejudices—that people come to anarchism for its
+vision of freedom and equality, not for Bakunin's ethnic hatreds.
+
+Others contend that we must confront this contradiction directly: a
+movement dedicated to universal human liberation cannot make excuses for
+racism and antisemitism, even from its foundational figures. The
+anarchist principle of opposing all hierarchy and domination must extend
+to challenging racism, antisemitism, and all forms of bigotry, including
+when they appear in our own history.
+
+This tension remains relevant because it reminds anarchists that
+revolutionary theory means nothing without revolutionary practice in all
+aspects of life. Bakunin's failure to extend his critique of hierarchy
+to his own ethnic prejudices demonstrates that liberation must be
+intersectional—that we cannot fight only the forms of oppression we
+personally experience while perpetuating others.
+
+## Influence and Legacy
+
+Despite these serious flaws, Bakunin's anarchist ideas profoundly
+influenced revolutionary movements worldwide. His emphasis on direct
+action, workers' self-management, and opposition to state socialism
+inspired the anarchist movements in Spain, Italy, and Russia. The
+Spanish anarchists who fought fascism in the 1930s drew heavily on
+Bakuninist ideas of workers' councils and collectivization.
+
+His writings influenced major anarchist thinkers including Peter
+Kropotkin, Errico Malatesta, Emma Goldman, and Rudolf Rocker. His
+critique of authoritarianism resonated with the New Left of the 1960s
+and continues to influence contemporary anti-authoritarian movements.
+
+Bakunin's prediction that Marxist-Leninist states would become
+dictatorships has been vindicated by history. His insistence that means
+and ends must be consistent—that you cannot create freedom through
+authoritarian methods—remains a vital anarchist principle.
+
+However, his legacy must be approached critically. Anarchism has evolved
+beyond Bakunin, incorporating feminist critiques, anti-racist analysis,
+and ecological consciousness that were absent or contradicted in his
+work. Modern anarchism builds on his anti-authoritarian insights while
+rejecting his prejudices and expanding the struggle for liberation to
+all forms of hierarchy and oppression.
+
+## Selected Quotes
+
+"Freedom, the realization of freedom: who can deny that this is what
 today heads the agenda of history? We must not only act politically, but
 in our politics act religiously, religiously in the sense of freedom, of
-which the one true expression is justice and love."[^1]
+which the one true expression is justice and love."[^2]
 
-"The passion for destruction is a creative passion, too!" (often
-paraphrased as "The urge to destroy is a creative urge".[^2]
-
-"Unity is the great goal toward which humanity moves irresistibly. But
-it becomes fatal, destructive of the intelligence, the dignity, the
-well-being of individuals and peoples whenever it is formed without
-regard to liberty, either by violent means or under the authority of any
-theological, metaphysical, political, or even economic idea. That
-patriotism which tends toward unity without regard to liberty is an evil
-patriotism, always disastrous to the popular and real interests of the
-country it claims to exalt and serve. Often, without wishing to be so,
-it is a friend of reaction – an enemy of the revolution, i.e., the
-emancipation of nations and men."[^3]
-
-"Liberty is so great a magician, endowed with so marvelous a power of
-productivity, that under the inspiration of this spirit alone, North
-America was able within less than a century to equal, and even surpass,
-the civilization of Europe."[^4]
+"The passion for destruction is a creative passion, too!"[^3]
 
 "We are convinced that liberty without socialism is privilege and
 injustice; and that socialism without liberty is slavery and
-brutality."[^5]
+brutality."[^4]
 
 "Political Freedom without economic equality is a pretense, a fraud, a
-lie; and the workers want no lying."[^6]
+lie; and the workers want no lying."[^5]
 
 "I am a fanatic lover of liberty, considering it as the unique condition
 under which intelligence, dignity and human happiness can develop and
 grow; not the purely formal liberty conceded, measured out and regulated
 by the State, an eternal lie which in reality represents nothing more
-than the privilege of some founded on the slavery of the rest; not the
-individualistic, egoistic, shabby, and fictitious liberty extolled by
-the School of <a href="Jean-Jacques_Rosseau.md" class="wikilink"
-title="J.-J. Rousseau">J.-J. Rousseau</a> and other schools of bourgeois
-liberalism, which considers the would-be rights of all men, represented
-by the State which limits the rights of each — an idea that leads
-inevitably to the reduction of the rights of each to zero. No, I mean
-the only kind of liberty that is worthy of the name, liberty that
-consists in the full development of all the material, intellectual and
-moral powers that are latent in each person; liberty that recognizes no
-restrictions other than those determined by the laws of our own
-individual nature, which cannot properly be regarded as restrictions
-since these laws are not imposed by any outside legislator beside or
-above us, but are immanent and inherent, forming the very basis of our
-material, intellectual and moral being — they do not limit us but are
-the real and immediate conditions of our freedom."[^7]
+than the privilege of some founded on the slavery of the rest."[^6]
 
 "To revolt is a natural tendency of life. Even a worm turns against the
 foot that crushes it. In general, the vitality and relative dignity of
 an animal can be measured by the intensity of its instinct to
-revolt."[^8]
-
-"Revolution requires extensive and widespread destruction, a fecund and
-renovating destruction, since in this way and only this way are new
-worlds born."[^9]
-
-"Freedom is the absolute right of every human being to seek no other
-sanction for his actions but his own conscience, to determine these
-actions solely by his own will, and consequently to owe his first
-responsibility to himself alone."[^10]
+revolt."[^7]
 
 "If there is a State, there must be domination of one class by another
-and, as a result, slavery; the State without slavery is unthinkable –
-and this is why we are the enemies of the State."[^11]
+and, as a result, slavery; the State without slavery is unthinkable—and
+this is why we are the enemies of the State."[^8]
 
 "When the people are being beaten with a stick, they are not much
-happier if it is called 'the People's Stick.'"[^12]
-
-"The modern State is by its very nature a military State; and every
-military State must of necessity become a conquering, invasive State; to
-survive it must conquer or be conquered, for the simple reason that
-accumulated military power will suffocate if it does not find an outlet.
-Therefore the modern State must strive to be a huge and powerful State:
-this is the indispensable precondition for its survival."[^13]
-
-"We wish, in a word, equality — equality in fact as a corollary, or
-rather, as primordial condition of liberty. From each according to their
-faculties, to each according to their needs; that is what we wish
-sincerely and energetically."[^14]
-
-"No theory, no ready-made system, no book that has ever been written
-will save the world. I cleave to no system. I am a true seeker."[^15]
-
-"I hate Communism because it is the negation of liberty and because
-humanity is for me unthinkable without liberty. I am not a Communist,
-because Communism concentrates and swallows up in itself for the benefit
-of the State all the forces of society, because it inevitably leads to
-the concentration of property in the hands of the State, whereas I want
-the abolition of the State, the final eradication of the principle of
-authority and the patronage proper to the State, which under the pretext
-of moralizing and civilizing men has hitherto only enslaved, persecuted,
-exploited and corrupted them. I want to see society and collective or
-social property organized from below upwards, by way of free
-association, not from above downwards, by means of any kind of authority
-whatsoever."[^16]
-
-"All exercise of authority perverts, and submission to authority
-humiliates."[^17]
-
-"Every state, like every theology, assumes man to be fundamentally bad
-and wicked."[^18]
-
-"Even the most wretched individual of our present society could not
-exist and develop without the cumulative social efforts of countless
-generations. Thus the individual, his freedom and reason, are the
-products of society, and not vice versa: society is not the product of
-individuals comprising it; and the higher, the more fully the individual
-is developed, the greater his freedom — and the more he is the product
-of society, the more does he receive from society and the greater his
-debt to it."[^19]
+happier if it is called 'the People's Stick.'"[^9]
 
 "By striving to do the impossible, man has always achieved what is
 possible. Those who have cautiously done no more than they believed
-possible have never taken a single step forward."[^20]
-
-"The peoples' revolution will arrange its revolutionary organisation
-from the bottom up and from the periphery to the centre, in keeping with
-the principle of liberty."[^21]
+possible have never taken a single step forward."[^10]
 
 "I am truly free only when all human beings, men and women, are equally
 free. The freedom of other men, far from negating or limiting my
 freedom, is, on the contrary, its necessary premise and
-confirmation."[^22]
-
-"The materialistic, realistic, and collectivist conception of freedom,
-as opposed to the idealistic, is this: Man becomes conscious of himself
-and his humanity only in society and only by the collective action of
-the whole society. He frees himself from the yoke of external nature
-only by collective and social labor, which alone can transform the earth
-into an abode favorable to the development of humanity. Without such
-material emancipation the intellectual and moral emancipation of the
-individual is impossible. He can emancipate himself from the yoke of his
-own nature, i.e. subordinate his instincts and the movements of his body
-to the conscious direction of his mind, the development of which is
-fostered only by education and training. But education and training are
-preeminently and exclusively social hence the isolated individual cannot
-possibly become conscious of his freedom. To be free means to be
-acknowledged and treated as such by all his fellowmen. The liberty of
-every individual is only the reflection of his own humanity, or his
-human right through the conscience of all free men, his brothers and his
-equals. I can feel free only in the presence of and in relationship with
-other men. In the presence of an inferior species of animal I am neither
-free nor a man, because this animal is incapable of conceiving and
-consequently recognizing my humanity. I am not myself free or human
-until or unless I recognize the freedom and humanity of all my
-fellowmen. Only in respecting their human character do I respect my
-own."[^23]
+confirmation."[^11]
 
 ## References
 
-<a href="Category:Russian_anarchists.md" class="wikilink"
-title="Category:Russian anarchists">Category:Russian anarchists</a>
-<a href="Category:Anarcho-Collectivists.md" class="wikilink"
+<references/>
+
+## See Also
+
+- <a href="Anarcho-Collectivism" class="wikilink"
+  title="Anarcho-Collectivism">Anarcho-Collectivism</a>
+- <a href="First_International" class="wikilink"
+  title="First International">First International</a>
+- <a href="Paris_Commune" class="wikilink" title="Paris Commune">Paris
+  Commune</a>
+- <a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
+  Kropotkin</a>
+- <a href="Pierre-Joseph_Proudhon" class="wikilink"
+  title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>
+- <a href="Errico_Malatesta" class="wikilink"
+  title="Errico Malatesta">Errico Malatesta</a>
+- <a href="Anti-Authoritarianism" class="wikilink"
+  title="Anti-Authoritarianism">Anti-Authoritarianism</a>
+- <a href="Statism_and_Anarchy" class="wikilink"
+  title="Statism and Anarchy">Statism and Anarchy</a>
+
+<a href="Category:Russian_Anarchists" class="wikilink"
+title="Category:Russian Anarchists">Category:Russian Anarchists</a>
+<a href="Category:Anarcho-Collectivists" class="wikilink"
 title="Category:Anarcho-Collectivists">Category:Anarcho-Collectivists</a>
-<a href="Category:Featured.md" class="wikilink"
-title="Category:Featured">Category:Featured</a>
+<a href="Category:Anarchist_Theorists" class="wikilink"
+title="Category:Anarchist Theorists">Category:Anarchist Theorists</a>
+<a href="Category:Revolutionary_Socialists" class="wikilink"
+title="Category:Revolutionary Socialists">Category:Revolutionary
+Socialists</a> <a href="Category:Critics_of_Marxism" class="wikilink"
+title="Category:Critics of Marxism">Category:Critics of Marxism</a>
+<a href="Category:19th_Century" class="wikilink"
+title="Category:19th Century">Category:19th Century</a>
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 
-[^1]: Mikhail Bakunin (1842) The Reaction in Germany
-    [www.marxists.org/reference/archive/bakunin/works/1842/reaction-germany.htm](https://www.marxists.org/reference/archive/bakunin/works/1842/reaction-germany.htm) -
-    He wrote under the fake name Jules Elysard.
+[^1]: Mikhail Bakunin (1867) Federalism, Socialism and Anti-Theologism
 
-[^2]:
+[^2]: Mikhail Bakunin (1842) The Reaction in Germany
 
-[^3]: Mikhail Bakunin (1867) Federalism, Socialism and Anti-Theologism -
-    <https://www.marxists.org/reference/archive/bakunin/works/various/reasons-of-state.htm>
+[^3]: Mikhail Bakunin (1842) The Reaction in Germany
 
-[^4]:
+[^4]: Mikhail Bakunin (1867) Federalism, Socialism and Anti-Theologism
 
-[^5]:
+[^5]: Mikhail Bakunin (1870) The Red Association
 
-[^6]: Mikhail Bakunin (1870) The Red Association -
-    <https://www.marxists.org/reference/archive/bakunin/works/writings/ch05.htm>
+[^6]: Mikhail Bakunin (1871) The Paris Commune and the Idea of the State
 
-[^7]: Mikhail Bakunin (1871) The Paris Commune and the idea of the
-    state - <http://libcom.org/library/paris-commune-mikhail-bakunin>
+[^7]: Mikhail Bakunin (1872) On the International Workingmen's
+    Association and Karl Marx
 
-[^8]: Mikhail Bakunin (1872) On the International Workingmen's
-    Association and Karl Marx -
-    <https://www.marxists.org/reference/archive/bakunin/works/1872/karl-marx.htm>
+[^8]: Mikhail Bakunin (1873) Statism and Anarchy
 
-[^9]: Mikhail Bakunin (1873)
-    <a href="Statism_and_Anarchy.md" class="wikilink"
-    title="Statism and Anarchy">Statism and Anarchy</a> -
-    <https://libcom.org/library/statism-anarchy-mikhail-bakunin>
+[^9]: Mikhail Bakunin (1873) Statism and Anarchy
 
-[^10]: <a href="Daniel_Guérin.md" class="wikilink" title="Daniel Guérin">Daniel
-    Guérin</a> (1970)
-    <a href="Anarchism:_From_Theory_to_Practice.md" class="wikilink"
-    title="Anarchism: From Theory to Practice">Anarchism: From Theory to
-    Practice</a>
+[^10]: Paolo Novaresio (1996) The Explorers
 
-[^11]:
-
-[^12]:
-
-[^13]:
-
-[^14]: J. Morris Davidson (1890) The Old Order and the New
-
-[^15]: E.H. Carr (1937) Michael Bakunin, page 175
-
-[^16]: E.H. Carr (1937) Michael Bakunin, page 356
-
-[^17]: E.H. Carr (1937) Michael Bakunin, page 453
-
-[^18]:
-
-[^19]: G. P. Maximoff (1953) The Philosophy of Bakunin, page 158
-
-[^20]: Paolo Novaresio (1996) The Explorers
-
-[^21]: Mikhail Bakunin (1868) *Program and Object of the Secret
-    Revolutionary Organisation of the International Brotherhood*
-
-[^22]: Mikhail Bakunin (1871) Man, Society, and Freedom
-
-[^23]:
+[^11]: Mikhail Bakunin (1871) Man, Society, and Freedom

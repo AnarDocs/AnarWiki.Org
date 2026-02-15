@@ -1,4 +1,4 @@
-From <a href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
+From <a href="Cartography_of_Revolutionary_Anarchism" class="wikilink"
 title="Cartography of Revolutionary Anarchism">Cartography of
 Revolutionary Anarchism</a>:
 

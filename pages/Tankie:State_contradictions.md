@@ -1,5 +1,34 @@
 # State contradictions
 
+> "While the State exists there can be no freedom; when there is freedom
+> there will be no State." *- Vladimir Lenin, The State and Revolution
+> (1917), Chapter 5.*
+
+Marxist-Leninists justify the state as a necessary instrument for
+revolutionary transformation and defense against counter-revolution,
+arguing that the working class must seize state power to establish a
+"dictatorship of the proletariat" that will suppress bourgeois
+resistance and transform economic relations. They view the state under
+capitalism as the "executive committee of the bourgeoisie" serving
+ruling class interests, but believe this same apparatus can be captured
+and redirected to serve proletarian interests during a transitional
+period.
+
+During this "lower phase of communist society" (socialism), the state
+remains necessary to coordinate large-scale economic transformation,
+develop productive forces, and defend revolutionary gains from external
+capitalist threats. The promise is that once classes are abolished and
+the material conditions for communism are fully developed, the state
+will eventually "wither away" as it becomes unnecessary—but this
+withering is always deferred to a future stage, meaning that for the
+present (and typically for multiple generations), centralized state
+authority remains not just justified but essential. This framework asks
+people to accept state power and hierarchy today in exchange for the
+promise of liberation tomorrow, once sufficient productive development
+has been achieved.
+
+## Article Links
+
 Includes critiques of state socialism/communism and organizations based
 off of those ideologies from them.
 
@@ -124,3 +153,10 @@ off of those ideologies from them.
   critiques of anarchism, this can also be applied to
   socialism/communism, too. One can point out that the state is actually
   anti-communist, since communism is stateless.
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

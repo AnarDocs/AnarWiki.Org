@@ -1,5 +1,35 @@
 # Suppression of anarchist movements
 
+Marxist-Leninist regimes systematically persecuted anarchists and
+non-hierarchical socialists across the globe throughout the 20th
+century, beginning with the Bolsheviks' suppression of anarchist
+movements immediately after seizing power in 1917. In Soviet Russia, the
+Cheka raided anarchist centers in April 1918 (killing approximately 40
+and arresting 500), crushed the Makhnovist anarchist army in Ukraine
+after it helped defeat the White forces, and brutally suppressed the
+Kronstadt sailors' rebellion in 1921 (executing approximately 2,000).
+Prominent anarchists like Lev Chernyi and Fanya Baron were executed
+without trial in 1921, while thousands more died in gulags during
+Stalin's Great Terror, including the mass execution of sixteen
+anarchists at Tobolsk in 1937.
+
+This pattern repeated globally: in Cuba, anarchists who fought alongside
+Castro against Batista were imprisoned (receiving sentences up to 30
+years) or killed once he declared the revolution Marxist-Leninist; in
+Spain, Soviet-backed communists undermined and destroyed the anarchist
+CNT-FAI collectives during the 1936-1939 revolution; in China, Vietnam,
+North Korea, and Eastern Europe, anarchist movements were completely
+eradicated with documentation often deliberately erased from historical
+memory. Anarchists were consistently among the first groups targeted for
+suppression—often before other opposition parties—because their advocacy
+for decentralized workers' self-management posed a fundamental
+ideological threat to vanguard party rule and centralized state power,
+demonstrating that Marxist-Leninist states viewed any autonomous
+working-class organization outside party control as incompatible with
+their vision of revolution.
+
+## External Links
+
 - “Bolsheviks Shooting Anarchists” by Emma Goldman and Alexandar Berkman
   <https://theanarchistlibrary.org/library/emma-goldman-alexander-berkman-bolsheviks-shooting-anarchists>
 - “Struggle Against the State and Other Essays” by Nestor Makhno
@@ -163,3 +193,10 @@
   <https://www.katesharpleylibrary.net/xpnx76>
 - “Repression” <https://www.katesharpleylibrary.net/qrfjzm>
 - “Anarchists in the Gulag” <https://gulaganarchists.wordpress.com/>
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

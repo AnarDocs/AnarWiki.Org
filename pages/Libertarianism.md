@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Libertarian.md" class="wikilink"
+1.  REDIRECT <a href="Libertarian" class="wikilink"
     title="Libertarian">Libertarian</a>

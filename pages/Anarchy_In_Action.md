@@ -1,2 +1,2 @@
-1.  REDIRECT <a href="Anarchy_in_Action.md" class="wikilink"
+1.  REDIRECT <a href="Anarchy_in_Action" class="wikilink"
     title="Anarchy in Action">Anarchy in Action</a>

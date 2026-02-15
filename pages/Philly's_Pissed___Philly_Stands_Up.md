@@ -1,7 +1,7 @@
 ## Philly's Pissed
 
 From
-<a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > In order to combat this, feminists and anarchists in Philadelphia
@@ -24,7 +24,7 @@ Works</a>:
 > wishes, the group may publicize the identity of the assaulter to warn
 > other people or prevent that person from hiding his actions.
 >
-> The second group, <a href="Philly_Stands_Up.md" class="wikilink"
+> The second group, <a href="Philly_Stands_Up" class="wikilink"
 > title="Philly Stands Up">Philly Stands Up</a>, works with people who
 > have committed sexual assault to support them through the process of
 > taking responsibility for their actions, learning from them and
@@ -69,7 +69,7 @@ accountable."[^5]
 [^2]: <https://phillystandsup.wordpress.com/about/>.
 
 [^3]: Peter Gelderloos,
-    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^4]: <https://phillystandsup.wordpress.com/about/>.

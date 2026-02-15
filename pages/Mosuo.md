@@ -97,13 +97,13 @@ Crime has been rare among the Mosuo.[^15]
 
 <references/>
 
-<a href="Category:China.md" class="wikilink"
+<a href="Category:China" class="wikilink"
 title="Category:China">Category:China</a>
-<a href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-<a href="Category:Feminism.md" class="wikilink"
+<a href="Category:Feminism" class="wikilink"
 title="Category:Feminism">Category:Feminism</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Lamu Gatusa, "Matriarchal Marriage Patterns of the Mosuo People of

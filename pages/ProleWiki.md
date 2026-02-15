@@ -1,11 +1,11 @@
-**ProleWiki** is a <a href="Marxism-Leninism.md" class="wikilink"
+**ProleWiki** is a <a href="Marxism-Leninism" class="wikilink"
 title="Marxist-Leninist">Marxist-Leninist</a> online encyclopedia
 founded in September 2020 that presents itself as providing
 anti-imperialist proletarian perspectives on history, current events,
 and political theory. While the project has grown to include multiple
 language editions and maintains an extensive library of Marxist texts,
 its treatment of
-<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+<a href="anarchism" class="wikilink" title="anarchism">anarchism</a>
 reflects longstanding authoritarian socialist mischaracterizations that
 fundamentally misunderstand anarchist theory and practice.
 
@@ -36,11 +36,11 @@ a failure to engage seriously with anarchist political philosophy.
 ### The "Petty-Bourgeois" Characterization
 
 ProleWiki claims that anarchism's philosophical basis consists of
-<a href="individualism.md" class="wikilink"
+<a href="individualism" class="wikilink"
 title="individualism">individualism</a>,
-<a href="subjectivism.md" class="wikilink"
+<a href="subjectivism" class="wikilink"
 title="subjectivism">subjectivism</a>, and
-<a href="voluntarism.md" class="wikilink"
+<a href="voluntarism" class="wikilink"
 title="voluntarism">voluntarism</a>, categorizing these as
 "petty-bourgeois deviations from proletarian struggle." This
 characterization fundamentally misunderstands anarchism's theoretical
@@ -48,15 +48,15 @@ foundations.
 
 Anarchism is not based on individualism, subjectivism, or voluntarism,
 but rather on a systematic analysis of
-<a href="hierarchy.md" class="wikilink" title="hierarchy">hierarchy</a> and
-<a href="domination.md" class="wikilink" title="domination">domination</a>
+<a href="hierarchy" class="wikilink" title="hierarchy">hierarchy</a> and
+<a href="domination" class="wikilink" title="domination">domination</a>
 as social relations. Classical anarchist theorists like
-<a href="Mikhail_Bakunin.md" class="wikilink"
+<a href="Mikhail_Bakunin" class="wikilink"
 title="Mikhail Bakunin">Mikhail Bakunin</a> and
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a> developed materialist analyses of power structures that
 predate and in some cases influenced Marxist theory. Kropotkin's
-*<a href="Mutual_Aid:_A_Factor_of_Evolution.md" class="wikilink"
+*<a href="Mutual_Aid:_A_Factor_of_Evolution" class="wikilink"
 title="Mutual Aid: A Factor of Evolution">Mutual Aid: A Factor of
 Evolution</a>* provided an evolutionary and anthropological basis for
 anarchist communism, while Bakunin's critiques of state power analyzed
@@ -65,10 +65,10 @@ controls the state apparatus.
 
 The "petty-bourgeois" label is particularly ironic given anarchism's
 historical base in industrial working-class movements.
-<a href="Anarcho-syndicalism.md" class="wikilink"
+<a href="Anarcho-syndicalism" class="wikilink"
 title="Anarcho-syndicalism">Anarcho-syndicalism</a> emerged directly
 from revolutionary labor organizing, with the
-<a href="CNT-FAI.md" class="wikilink" title="CNT-FAI">CNT-FAI</a> in Spain
+<a href="CNT-FAI" class="wikilink" title="CNT-FAI">CNT-FAI</a> in Spain
 representing over one million workers at its height. The notion that
 anarchism represents petit-bourgeois interests ignores its actual social
 base in militant labor movements, peasant uprisings, and revolutionary
@@ -86,21 +86,21 @@ Anarchist theorists have provided detailed analyses of exploitation and
 class relations:
 
 - Proudhon's critique of
-  <a href="property.md" class="wikilink" title="property">property</a> as
+  <a href="property" class="wikilink" title="property">property</a> as
   theft analyzed how property rights enable exploitation through rent,
   interest, and profit
 - Bakunin identified the
-  <a href="state.md" class="wikilink" title="state">state</a> itself as an
+  <a href="state" class="wikilink" title="state">state</a> itself as an
   instrument of class domination, arguing that political power and
   economic exploitation are inseparable
 - Kropotkin's analysis of
-  <a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+  <a href="capitalism" class="wikilink" title="capitalism">capitalism</a>
   examined how monopolies, land ownership, and state intervention create
   and maintain exploitative economic relations
 - Modern anarchists like
-  <a href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
+  <a href="Noam_Chomsky" class="wikilink" title="Noam Chomsky">Noam
   Chomsky</a> and
-  <a href="David_Graeber.md" class="wikilink" title="David Graeber">David
+  <a href="David_Graeber" class="wikilink" title="David Graeber">David
   Graeber</a> have contributed sophisticated analyses of contemporary
   capitalism, imperialism, and class structure
 
@@ -121,15 +121,15 @@ to completely destroy the State overnight, without understanding the
 conditions in which this destruction can take place." In reality,
 anarchists have always recognized that eliminating the state requires
 building alternative institutions. The experience of
-<a href="Revolutionary_Catalonia_(1936-1939).md" class="wikilink"
+<a href="Revolutionary_Catalonia_(1936-1939)" class="wikilink"
 title="Revolutionary Catalonia">Revolutionary Catalonia</a>, the
-<a href="Makhnovist_movement.md" class="wikilink"
+<a href="Makhnovist_movement" class="wikilink"
 title="Makhnovist movement">Makhnovist movement</a> in Ukraine, and
 contemporary experiments in
-<a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> demonstrate
+<a href="Rojava" class="wikilink" title="Rojava">Rojava</a> demonstrate
 anarchist understanding of transitional processes. The difference is not
 between immediate versus gradual abolition, but between building
-<a href="dual_power.md" class="wikilink" title="dual power">dual power</a>
+<a href="dual_power" class="wikilink" title="dual power">dual power</a>
 structures that prefigure a free society versus creating a new state
 apparatus that anarchists argue inevitably reproduces hierarchical
 relations.
@@ -138,8 +138,8 @@ relations.
 absolutely confused idea of what the proletariat must replace the
 machine with." Rather, anarchists propose replacing centralized state
 structures with
-<a href="federalism.md" class="wikilink" title="federated">federated</a>
-networks of <a href="workers&#39;_councils.md" class="wikilink"
+<a href="federalism" class="wikilink" title="federated">federated</a>
+networks of <a href="workers&#39;_councils" class="wikilink"
 title="workers&#39; councils">workers' councils</a>, community
 assemblies, and voluntary associations coordinated through horizontal
 decision-making. This is not confusion but a fundamentally different
@@ -150,11 +150,11 @@ representative institutions.
 reflects not naivety but historical observation. Anarchists argue that
 attempting to wield state power leads to the reproduction of
 hierarchical relations, as occurred in the
-<a href="Soviet_Union.md" class="wikilink" title="Soviet Union">Soviet
+<a href="Soviet_Union" class="wikilink" title="Soviet Union">Soviet
 Union</a> where party bureaucracy became a new ruling class. The
-<a href="Kronstadt_rebellion.md" class="wikilink"
+<a href="Kronstadt_rebellion" class="wikilink"
 title="Kronstadt rebellion">Kronstadt rebellion</a>, the suppression of
-the <a href="Makhnovshchina.md" class="wikilink"
+the <a href="Makhnovshchina" class="wikilink"
 title="Makhnovshchina">Makhnovshchina</a>, and the crushing of anarchist
 movements by Marxist-Leninist states demonstrate anarchist concerns
 about the dangers of concentrated power were well-founded.
@@ -185,11 +185,11 @@ substantial historical evidence of anarchist organizing effectiveness.
 Revolutionary Catalonia demonstrated anarchist economic coordination
 involving millions of people, with collectivized industries and
 agriculture operating without state direction. The
-<a href="Zapatista.md" class="wikilink" title="Zapatista">Zapatista</a>
+<a href="Zapatista" class="wikilink" title="Zapatista">Zapatista</a>
 movement in Chiapas has maintained autonomous self-governance for over
 three decades. Contemporary movements from
-<a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> to
-<a href="Cooperation_Jackson.md" class="wikilink"
+<a href="Rojava" class="wikilink" title="Rojava">Rojava</a> to
+<a href="Cooperation_Jackson" class="wikilink"
 title="Cooperation Jackson">Cooperation Jackson</a> continue developing
 anarchist principles in practice.
 
@@ -207,29 +207,29 @@ defended rather than as questions to be investigated critically.
 
 ## See Also
 
-- <a href="Anarchism.md" class="wikilink" title="Anarchism">Anarchism</a>
-- <a href="Marxism-Leninism.md" class="wikilink"
+- <a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>
+- <a href="Marxism-Leninism" class="wikilink"
   title="Marxism-Leninism">Marxism-Leninism</a>
-- <a href="Marxism.md" class="wikilink" title="Marxism">Marxism</a>
-- <a href="Marxist_Misrepresentations.md" class="wikilink"
+- <a href="Marxism" class="wikilink" title="Marxism">Marxism</a>
+- <a href="Marxist_Misrepresentations" class="wikilink"
   title="Marxist Misrepresentations">Marxist Misrepresentations</a>
-- <a href="Anti-authoritarianism.md" class="wikilink"
+- <a href="Anti-authoritarianism" class="wikilink"
   title="Anti-authoritarianism">Anti-authoritarianism</a>
-- <a href="Libertarian_socialism.md" class="wikilink"
+- <a href="Libertarian_socialism" class="wikilink"
   title="Libertarian socialism">Libertarian socialism</a>
-- <a href="Platformism.md" class="wikilink"
+- <a href="Platformism" class="wikilink"
   title="Platformism">Platformism</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Wikis.md" class="wikilink"
+<a href="Category:Wikis" class="wikilink"
 title="Category:Wikis">Category:Wikis</a>
-<a href="Category:Marxist-Leninist_Organizations.md" class="wikilink"
+<a href="Category:Marxist-Leninist_Organizations" class="wikilink"
 title="Category:Marxist-Leninist Organizations">Category:Marxist-Leninist
 Organizations</a>
-<a href="Category:Misrepresentations_of_Anarchism.md" class="wikilink"
+<a href="Category:Misrepresentations_of_Anarchism" class="wikilink"
 title="Category:Misrepresentations of Anarchism">Category:Misrepresentations
-of Anarchism</a> <a href="Category:AnarWiki.md" class="wikilink"
+of Anarchism</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>

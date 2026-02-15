@@ -2163,3 +2163,10 @@ procedures.)
   - More on this story: “China Uighurs: A model's video gives a rare
     glimpse inside internment”
     <https://www.bbc.com/news/world-asia-china-53650246>
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

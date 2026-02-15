@@ -1,11 +1,11 @@
 The **Phulbari Anti-Mine Movement** was an effort by
-<a href="Environmentalism.md" class="wikilink"
+<a href="Environmentalism" class="wikilink"
 title="environmentalists">environmentalists</a> and indigenous people to
 stop the construction of a
-<a href="Fossil_Fuels.md" class="wikilink" title="coal mine">coal mine</a>
+<a href="Fossil_Fuels" class="wikilink" title="coal mine">coal mine</a>
 in
-<a href="Bangladesh.md" class="wikilink" title="Bangladesh">Bangladesh</a>
-from <a href="Timeline_of_Anarchism_in_Southern_Asia.md" class="wikilink"
+<a href="Bangladesh" class="wikilink" title="Bangladesh">Bangladesh</a>
+from <a href="Timeline_of_Anarchism_in_Southern_Asia" class="wikilink"
 title="2006 to 2014">2006 to 2014</a>.
 
 ## Background
@@ -13,11 +13,11 @@ title="2006 to 2014">2006 to 2014</a>.
 Phulbari is a region in the northwest region of Bangladesh. It is an
 important agricultural region that is also home to low quality coal
 deposit. Several companies have proposed to use the open pit technique
-for <a href="mining.md" class="wikilink" title="mining">mining</a> the
+for <a href="mining" class="wikilink" title="mining">mining</a> the
 coal, which would displace thousands of people, many of them indigenous
 people. The proposed mining projects would destroy farmland, homes, and
 divert water sources to be used in the mining process. The
-<a href="Australia.md" class="wikilink" title="Australia">Australia</a>-based
+<a href="Australia" class="wikilink" title="Australia">Australia</a>-based
 mining company BHP Billiton discovered coal at Phulbari during surveying
 and drilling between 1994 and 1997.
 
@@ -48,7 +48,7 @@ approve the project proposal.[^1]
   will fight.”
 - 28/08/2006: Workers' in shops, offices, schools and roads launch a
   three-day long
-  <a href="General_Strike.md" class="wikilink" title="general strike">general
+  <a href="General_Strike" class="wikilink" title="general strike">general
   strike</a> that shuts down the countries economy in protest of the
   mines construction. The strike causes Asia Energy Corporation to
   suspend operations in the country and its employees flee the country
@@ -93,7 +93,7 @@ approve the project proposal.[^1]
   results in thousands rioting across the country, a strike that
   paralyzes trains, businesses and schools, attacking police and
   blocking roads. An effigy of Dan Mozena, the
-  <a href="United_States_of_America.md" class="wikilink"
+  <a href="United_States_of_America" class="wikilink"
   title="United States">United States</a> Ambassador to Bangladesh, is
   burned because of his lobbying for the mine's construction.
 - 01/01/2013: Protesters threaten to destroy the offices of the mining
@@ -111,44 +111,44 @@ the protesters threat of action against the project.[^2]
 
 ## References
 
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:2000s.md" class="wikilink"
+<a href="Category:2000s" class="wikilink"
 title="Category:2000s">Category:2000s</a>
-<a href="Category:2006.md" class="wikilink"
+<a href="Category:2006" class="wikilink"
 title="Category:2006">Category:2006</a>
-<a href="Category:2011.md" class="wikilink"
+<a href="Category:2011" class="wikilink"
 title="Category:2011">Category:2011</a>
-<a href="Category:2012.md" class="wikilink"
+<a href="Category:2012" class="wikilink"
 title="Category:2012">Category:2012</a>
-<a href="Category:2010s.md" class="wikilink"
+<a href="Category:2010s" class="wikilink"
 title="Category:2010s">Category:2010s</a>
-<a href="Category:Bangladesh.md" class="wikilink"
+<a href="Category:Bangladesh" class="wikilink"
 title="Category:Bangladesh">Category:Bangladesh</a>
-<a href="Category:Asia.md" class="wikilink"
+<a href="Category:Asia" class="wikilink"
 title="Category:Asia">Category:Asia</a>
-<a href="Category:Southern_Asia.md" class="wikilink"
+<a href="Category:Southern_Asia" class="wikilink"
 title="Category:Southern Asia">Category:Southern Asia</a>
-<a href="Category:Fossil_Fuels.md" class="wikilink"
+<a href="Category:Fossil_Fuels" class="wikilink"
 title="Category:Fossil Fuels">Category:Fossil Fuels</a>
-<a href="Category:Mining.md" class="wikilink"
+<a href="Category:Mining" class="wikilink"
 title="Category:Mining">Category:Mining</a>
-<a href="Category:Environmentalism.md" class="wikilink"
+<a href="Category:Environmentalism" class="wikilink"
 title="Category:Environmentalism">Category:Environmentalism</a>
-<a href="Category:Social_Movements.md" class="wikilink"
+<a href="Category:Social_Movements" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:General_Strikes.md" class="wikilink"
+<a href="Category:General_Strikes" class="wikilink"
 title="Category:General Strikes">Category:General Strikes</a>
-<a href="Category:Strike.md" class="wikilink"
+<a href="Category:Strike" class="wikilink"
 title="Category:Strike">Category:Strike</a>
-<a href="Category:Water_Uprisings.md" class="wikilink"
+<a href="Category:Water_Uprisings" class="wikilink"
 title="Category:Water Uprisings">Category:Water Uprisings</a>
-<a href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
 
 [^1]: Global Nonviolent Action Database: "Indigenous Peoples in
     Bangladesh Protest to Stop Open Pit Coal Mine 2006-2014" -
     <https://nvdatabase.swarthmore.edu/content/indigenous-peoples-bangladesh-protest-stop-open-pit-coal-mine-2006-2014>
 
-[^2]: <a href="Wikipedia.md" class="wikilink" title="Wikipedia">Wikipedia</a> -
+[^2]: <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Nonviolent_movement_opposing_open_pit_mining_in_Bangladesh_from_2006_-_2014>

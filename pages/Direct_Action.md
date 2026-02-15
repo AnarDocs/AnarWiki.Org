@@ -200,17 +200,17 @@ Direct action embodies several key anarchist principles:
 
 ## See Also
 
-- <a href="Propaganda_of_the_deed.md" class="wikilink"
+- <a href="Propaganda_of_the_deed" class="wikilink"
   title="Propaganda of the deed">Propaganda of the deed</a>
-- <a href="Insurrectionary_anarchism.md" class="wikilink"
+- <a href="Insurrectionary_anarchism" class="wikilink"
   title="Insurrectionary anarchism">Insurrectionary anarchism</a>
-- <a href="Anarcho-syndicalism.md" class="wikilink"
+- <a href="Anarcho-syndicalism" class="wikilink"
   title="Anarcho-syndicalism">Anarcho-syndicalism</a>
-- <a href="Counter-economics.md" class="wikilink"
+- <a href="Counter-economics" class="wikilink"
   title="Counter-economics">Counter-economics</a>
-- <a href="Prefigurative_politics.md" class="wikilink"
+- <a href="Prefigurative_politics" class="wikilink"
   title="Prefigurative politics">Prefigurative politics</a>
-- <a href="Security_culture.md" class="wikilink"
+- <a href="Security_culture" class="wikilink"
   title="Security culture">Security culture</a>
 
 ## References
@@ -226,15 +226,15 @@ Direct action embodies several key anarchist principles:
   11 (1): 13–41.
 - Carter, April (2005). *Direct Action and Democracy Today*. Polity.
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Tactics.md" class="wikilink"
+<a href="Category:Tactics" class="wikilink"
 title="Category:Tactics">Category:Tactics</a>
-<a href="Category:Social_Movements.md" class="wikilink"
+<a href="Category:Social_Movements" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
 
 [^1]: Sharp, Gene (2019-04-10). "198 Methods of Nonviolent Action by

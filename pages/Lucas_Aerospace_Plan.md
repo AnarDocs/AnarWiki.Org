@@ -1,8 +1,8 @@
 The **Lucas Aerospace Plan** was a proposal in 1976 by aerospace
-<a href="factory.md" class="wikilink" title="factory">factory</a> workers
+<a href="factory" class="wikilink" title="factory">factory</a> workers
 to redirect their efforts into producing medical, transport and green
 energy
-<a href="technology.md" class="wikilink" title="technology">technology</a>.
+<a href="technology" class="wikilink" title="technology">technology</a>.
 
 ## History
 
@@ -11,7 +11,7 @@ energy
 Military Matters Lucas Aerospace was one of Europe's largest designers
 and manufacturers of aircraft systems and equipment in the early 1970s.
 It had over 18,000 workers on its payroll, spread over 15
-<a href="Factory.md" class="wikilink" title="factories">factories</a>
+<a href="Factory" class="wikilink" title="factories">factories</a>
 throughout Britain. Nearly half of its income came from building things
 for the military, such as combat aircraft and missiles. The British
 government pushed the company to restructure by firing 20% of its
@@ -32,7 +32,7 @@ things without losing jobs.
 Some of the key proposals of the plan include:
 
 - Introduction of
-  <a href="Workers&#39;_Self-Management.md" class="wikilink"
+  <a href="Workers&#39;_Self-Management" class="wikilink"
   title="democracy in factories">democracy in factories</a> and
   guaranteed employment for workers
 - Production of kidney dialysis of machines
@@ -56,28 +56,28 @@ Some of the key proposals of the plan include:
 - Production of robotic devices and remote control technology
 - Production of improved braking systems for vehicles
 
-<a href="Category:UK.md" class="wikilink"
+<a href="Category:UK" class="wikilink"
 title="Category:UK">Category:UK</a>
-<a href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-<a href="Category:Northern_Europe.md" class="wikilink"
+<a href="Category:Northern_Europe" class="wikilink"
 title="Category:Northern Europe">Category:Northern Europe</a>
-<a href="Category:1976.md" class="wikilink"
+<a href="Category:1976" class="wikilink"
 title="Category:1976">Category:1976</a>
-<a href="Category:1970s.md" class="wikilink"
+<a href="Category:1970s" class="wikilink"
 title="Category:1970s">Category:1970s</a>
-<a href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Category:Workers&#39;_Self-Management" class="wikilink"
 title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
-<a href="Category:Green_Syndicalism.md" class="wikilink"
+<a href="Category:Green_Syndicalism" class="wikilink"
 title="Category:Green Syndicalism">Category:Green Syndicalism</a>
-<a href="Category:Environmentalism.md" class="wikilink"
+<a href="Category:Environmentalism" class="wikilink"
 title="Category:Environmentalism">Category:Environmentalism</a>
-<a href="Category:Syndicalism.md" class="wikilink"
+<a href="Category:Syndicalism" class="wikilink"
 title="Category:Syndicalism">Category:Syndicalism</a>
-<a href="Category:Economics.md" class="wikilink"
+<a href="Category:Economics" class="wikilink"
 title="Category:Economics">Category:Economics</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>

@@ -5,7 +5,7 @@ From Colin Ward, Anarchy in Action [^2]:
 
 > Homer Lane was the man who, years in advance of his time, started a
 > community of boys and girls, sent to him by the courts, called the
-> <a href="Little_Commonwealth.md" class="wikilink"
+> <a href="Little_Commonwealth" class="wikilink"
 > title="Little Commonwealth">Little Commonwealth</a>. He used to
 > declare that 'Freedom cannot be given. It is taken by the child in
 > discovery and invention.' True to this principle, says Howard Jones,
@@ -18,5 +18,5 @@ From Colin Ward, Anarchy in Action [^2]:
 
 [^1]: <http://www.infed.org/archives/e-texts/homerlane.htm>
 
-[^2]: <a href="Anarchy_in_Action.md" class="wikilink"
+[^2]: <a href="Anarchy_in_Action" class="wikilink"
     title="Anarchy in Action">Anarchy in Action</a>

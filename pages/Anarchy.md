@@ -1,2 +1,2 @@
 1.  REDIRECT
-    <a href="Anarchism.md" class="wikilink" title="Anarchism">Anarchism</a>
+    <a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>

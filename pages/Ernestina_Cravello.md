@@ -1,7 +1,7 @@
 **Ernestina Cravello** (1880–1942) was a revolutionary
-<a href="Italian_Americans.md" class="wikilink"
+<a href="Italian_Americans" class="wikilink"
 title="Italian-American">Italian-American</a>
-<a href="Anarcha-feminism.md" class="wikilink"
+<a href="Anarcha-feminism" class="wikilink"
 title="anarcha-feminist">anarcha-feminist</a> who fought tirelessly for
 workers' rights and women's liberation during the late 19th and early
 20th centuries. She was known for her powerful oratory and unwavering
@@ -11,7 +11,7 @@ commitment to anarchist principles in the face of state repression.
 ## Revolutionary Life
 
 Born into working-class poverty in
-<a href="Northern_Italy.md" class="wikilink"
+<a href="Northern_Italy" class="wikilink"
 title="Northern Italy">Northern Italy</a>, Cravello emigrated to the
 United States with her family in 1895. Like countless other workers, she
 was forced into exploitation at a young age, laboring as a weaver in a
@@ -26,8 +26,8 @@ from economic and state coercion.[^3]
 
 In 1897, Cravello co-founded the revolutionary Gruppo Emancipazione
 della Donna (Women's Emancipation Group) with fellow anarchists
-<a href="Maria_Roda.md" class="wikilink" title="Maria Roda">Maria Roda</a>
-and <a href="Ninfa_Baronio.md" class="wikilink" title="Ninfa Baronio">Ninfa
+<a href="Maria_Roda" class="wikilink" title="Maria Roda">Maria Roda</a>
+and <a href="Ninfa_Baronio" class="wikilink" title="Ninfa Baronio">Ninfa
 Baronio</a>. Rejecting both capitalist exploitation and patriarchal
 domination, the group advanced anarcha-feminist ideas through lectures,
 writings, and cultural programs. They established the Club Femminile de
@@ -41,9 +41,9 @@ inspired similar anarcha-feminist organizing across the region.[^6]
 ## Resistance to State Repression
 
 In 1900, following
-<a href="Gaetano_Bresci.md" class="wikilink" title="Gaetano Bresci">Gaetano
+<a href="Gaetano_Bresci" class="wikilink" title="Gaetano Bresci">Gaetano
 Bresci</a>'s assassination of the Italian monarch
-<a href="Umberto_I_of_Italy.md" class="wikilink"
+<a href="Umberto_I_of_Italy" class="wikilink"
 title="Umberto I of Italy">Umberto I of Italy</a>, Cravello faced
 intense police harassment and surveillance. The capitalist press
 attempted to demonize her as the "Queen of the Anarchists," but she
@@ -63,7 +63,7 @@ strengthen connections between anarchist women's groups across the
 northeastern United States. Her activities drew particular attention
 from Italian authorities, who considered her "militant and very active"
 and were especially concerned about her collaboration with the noted
-anarchist <a href="Ersilia_Cavedagni.md" class="wikilink"
+anarchist <a href="Ersilia_Cavedagni" class="wikilink"
 title="Ersilia Cavedagni">Ersilia Cavedagni</a>.[^8]
 
 ## Legacy
@@ -93,23 +93,23 @@ power.
   Italian Anarchism in America. University of Illinois Press. ISBN
   978-0-252-09743-0.
 
-<a href="Category:1880_births.md" class="wikilink"
+<a href="Category:1880_births" class="wikilink"
 title="Category:1880 births">Category:1880 births</a>
-<a href="Category:1942_deaths.md" class="wikilink"
+<a href="Category:1942_deaths" class="wikilink"
 title="Category:1942 deaths">Category:1942 deaths</a>
-<a href="Category:American_anarchists.md" class="wikilink"
+<a href="Category:American_anarchists" class="wikilink"
 title="Category:American anarchists">Category:American anarchists</a>
-<a href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:Italian_anarchists.md" class="wikilink"
+<a href="Category:Italian_anarchists" class="wikilink"
 title="Category:Italian anarchists">Category:Italian anarchists</a>
-<a href="Category:Anarcha-Feminists.md" class="wikilink"
+<a href="Category:Anarcha-Feminists" class="wikilink"
 title="Category:Anarcha-Feminists">Category:Anarcha-Feminists</a>
-<a href="Category:Anarchist_Women.md" class="wikilink"
+<a href="Category:Anarchist_Women" class="wikilink"
 title="Category:Anarchist Women">Category:Anarchist Women</a>
-<a href="Category:Italian-American_anarchists.md" class="wikilink"
+<a href="Category:Italian-American_anarchists" class="wikilink"
 title="Category:Italian-American anarchists">Category:Italian-American
-anarchists</a> <a href="Category:Featured.md" class="wikilink"
+anarchists</a> <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Montanari, Fabrizio. "Ernestina e Gaetano Bresci." 24Emilia.com,

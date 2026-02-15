@@ -116,17 +116,17 @@ Post-Imperial Futures:[^1]
 
 <references/>
 
-<a href="Category:Bolivia.md" class="wikilink"
+<a href="Category:Bolivia" class="wikilink"
 title="Category:Bolivia">Category:Bolivia</a>
-<a href="Category:20th_Century.md" class="wikilink"
+<a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Feminism.md" class="wikilink"
+<a href="Category:Feminism" class="wikilink"
 title="Category:Feminism">Category:Feminism</a>
-<a href="Category:Anarchist_Organizations.md" class="wikilink"
+<a href="Category:Anarchist_Organizations" class="wikilink"
 title="Category:Anarchist Organizations">Category:Anarchist
-Organizations</a> <a href="Category:Anarcha-Feminism.md" class="wikilink"
+Organizations</a> <a href="Category:Anarcha-Feminism" class="wikilink"
 title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
-<a href="Category:Organizations.md" class="wikilink"
+<a href="Category:Organizations" class="wikilink"
 title="Category:Organizations">Category:Organizations</a>
 
 [^1]: Jacqueline Lasky, "Indigenism, Anarchism, Feminism: An Emerging

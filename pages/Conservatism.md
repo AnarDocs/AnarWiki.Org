@@ -10,10 +10,10 @@ and social hierarchies.
 ## Historical Origins
 
 Conservatism as a formal political philosophy was largely developed by
-<a href="Edmund_Burke.md" class="wikilink" title="Edmund Burke">Edmund
+<a href="Edmund_Burke" class="wikilink" title="Edmund Burke">Edmund
 Burke</a> (1729-1797), an Irish-born British statesman and philosopher.
 Burke supported the American and British revolutions but opposed the
-<a href="French_Revolution.md" class="wikilink"
+<a href="French_Revolution" class="wikilink"
 title="French Revolution">French Revolution</a>, writing *Reflections on
 the Revolution in France* (1790) as a critique of radical social
 change.[^1] His opposition centered not on revolution itself, but on
@@ -21,20 +21,20 @@ revolutions that threatened established aristocratic and mercantile
 interests.
 
 Burke's pamphlet provoked immediate responses from
-<a href="Mary_Wollstonecraft.md" class="wikilink"
+<a href="Mary_Wollstonecraft" class="wikilink"
 title="Mary Wollstonecraft">Mary Wollstonecraft</a>, who wrote
-*<a href="A_Vindication_of_the_Rights_of_Men.md" class="wikilink"
+*<a href="A_Vindication_of_the_Rights_of_Men" class="wikilink"
 title="A Vindication of the Rights of Men">A Vindication of the Rights
 of Men</a>* (1790), and
-<a href="Thomas_Paine.md" class="wikilink" title="Thomas Paine">Thomas
-Paine</a>, who published *<a href="The_Rights_of_Man.md" class="wikilink"
+<a href="Thomas_Paine" class="wikilink" title="Thomas Paine">Thomas
+Paine</a>, who published *<a href="The_Rights_of_Man" class="wikilink"
 title="The Rights of Man">The Rights of Man</a>* (1791).[^2][^3] Both
 authors challenged Burke's defense of inherited privilege and exclusion
 of women and the poor from political participation.
 
 The term "conservative" was first used in a political context in France
 with the establishment of the *Sénat conservateur* in 1799 following
-<a href="Napoleon_Bonaparte.md" class="wikilink"
+<a href="Napoleon_Bonaparte" class="wikilink"
 title="Napoleon Bonaparte">Napoleon Bonaparte</a>'s coup. This
 conservative senate consisted of 60 members appointed for life, each
 receiving substantial allowances.[^4]
@@ -42,10 +42,10 @@ receiving substantial allowances.[^4]
 ## Relationship to Capitalism
 
 Burke explicitly connected conservatism with emerging
-<a href="capitalism.md" class="wikilink" title="capitalist">capitalist</a>
+<a href="capitalism" class="wikilink" title="capitalist">capitalist</a>
 economic structures, declaring that "The laws of commerce are the laws
 of Nature, and therefore the laws of God."[^5]
-<a href="Karl_Marx.md" class="wikilink" title="Karl Marx">Karl Marx</a>
+<a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>
 later criticized Burke's philosophical justifications as self-serving,
 noting that Burke "always sold himself in the best market."[^6]
 
@@ -101,22 +101,22 @@ they reject conservative solutions that maintain or strengthen authority
 structures.
 
 The conservative emphasis on
-<a href="hierarchy.md" class="wikilink" title="hierarchy">hierarchy</a>,
-<a href="authority.md" class="wikilink" title="authority">authority</a>,
-and <a href="privilege.md" class="wikilink" title="privilege">privilege</a>
+<a href="hierarchy" class="wikilink" title="hierarchy">hierarchy</a>,
+<a href="authority" class="wikilink" title="authority">authority</a>,
+and <a href="privilege" class="wikilink" title="privilege">privilege</a>
 directly contradicts anarchist principles of mutual aid, horizontal
 organization, and the abolition of domination.
 
 ## See Also
 
-- <a href="Liberalism.md" class="wikilink" title="Liberalism">Liberalism</a>
-- <a href="Hierarchy.md" class="wikilink" title="Hierarchy">Hierarchy</a>
-- <a href="Privilege.md" class="wikilink" title="Privilege">Privilege</a>
-- <a href="Edmund_Burke.md" class="wikilink" title="Edmund Burke">Edmund
+- <a href="Liberalism" class="wikilink" title="Liberalism">Liberalism</a>
+- <a href="Hierarchy" class="wikilink" title="Hierarchy">Hierarchy</a>
+- <a href="Privilege" class="wikilink" title="Privilege">Privilege</a>
+- <a href="Edmund_Burke" class="wikilink" title="Edmund Burke">Edmund
   Burke</a>
-- <a href="French_Revolution.md" class="wikilink"
+- <a href="French_Revolution" class="wikilink"
   title="French Revolution">French Revolution</a>
-- <a href="Capitalism.md" class="wikilink" title="Capitalism">Capitalism</a>
+- <a href="Capitalism" class="wikilink" title="Capitalism">Capitalism</a>
 
 ## References
 
@@ -133,15 +133,15 @@ organization, and the abolition of domination.
   Conservatism?](https://peacefulrevolutionary.substack.com/p/what-is-conservatism) -
   Original article source (revised)
 
-<a href="Category:Ideology.md" class="wikilink"
+<a href="Category:Ideology" class="wikilink"
 title="Category:Ideology">Category:Ideology</a>
-<a href="Category:Hierarchy.md" class="wikilink"
+<a href="Category:Hierarchy" class="wikilink"
 title="Category:Hierarchy">Category:Hierarchy</a>
-<a href="Category:Critique.md" class="wikilink"
+<a href="Category:Critique" class="wikilink"
 title="Category:Critique">Category:Critique</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

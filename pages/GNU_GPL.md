@@ -52,7 +52,7 @@ General concept: copyleft Specific implementation: GPL
 
 <references/>
 
-<a href="Category:Open_Source.md" class="wikilink"
+<a href="Category:Open_Source" class="wikilink"
 title="Category:Open Source">Category:Open Source</a>
 
 [^1]:

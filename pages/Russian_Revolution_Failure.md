@@ -2,31 +2,31 @@
 
 ## Overview
 
-The <a href="Russian_Revolution.md" class="wikilink"
+The <a href="Russian_Revolution" class="wikilink"
 title="Russian Revolution">Russian Revolution</a> of 1917 began as a
 genuine popular uprising that overthrew the
-<a href="Tsarism.md" class="wikilink" title="Tsarist">Tsarist</a> autocracy
+<a href="Tsarism" class="wikilink" title="Tsarist">Tsarist</a> autocracy
 and created extensive networks of workers' councils
-(<a href="soviets.md" class="wikilink" title="soviets">soviets</a>),
+(<a href="soviets" class="wikilink" title="soviets">soviets</a>),
 factory committees, and peasant assemblies. However, rather than
 establishing
-<a href="socialism.md" class="wikilink" title="socialism">socialism</a> or
-<a href="communism.md" class="wikilink" title="communism">communism</a>,
+<a href="socialism" class="wikilink" title="socialism">socialism</a> or
+<a href="communism" class="wikilink" title="communism">communism</a>,
 the revolution was transformed into a
-<a href="Bolshevism.md" class="wikilink" title="Bolshevik">Bolshevik</a>
+<a href="Bolshevism" class="wikilink" title="Bolshevik">Bolshevik</a>
 party dictatorship that ultimately created
-<a href="state_capitalism.md" class="wikilink"
+<a href="state_capitalism" class="wikilink"
 title="state capitalism">state capitalism</a> and paved the way for
-<a href="totalitarianism.md" class="wikilink"
+<a href="totalitarianism" class="wikilink"
 title="totalitarianism">totalitarianism</a>.
 
 While this outcome is often attributed solely to external factors such
 as civil war, foreign intervention, and economic collapse, examination
 of the historical record reveals that Bolshevik ideology and practice
 played a decisive role in this transformation. The assault on
-<a href="soviet_democracy.md" class="wikilink"
+<a href="soviet_democracy" class="wikilink"
 title="soviet democracy">soviet democracy</a>,
-<a href="workers&#39;_control.md" class="wikilink"
+<a href="workers&#39;_control" class="wikilink"
 title="workers&#39; control">workers' control</a>, and opposition
 parties commenced almost immediately after the October seizure of power,
 well before the major civil war fighting erupted in May 1918.
@@ -36,9 +36,9 @@ well before the major civil war fighting erupted in May 1918.
 ### Early Authoritarian Measures
 
 The
-<a href="Bolsheviks.md" class="wikilink" title="Bolsheviks">Bolsheviks</a>'
+<a href="Bolsheviks" class="wikilink" title="Bolsheviks">Bolsheviks</a>'
 authoritarian trajectory began in the revolution's first months, during
-what <a href="Vladimir_Lenin.md" class="wikilink" title="Lenin">Lenin</a>
+what <a href="Vladimir_Lenin" class="wikilink" title="Lenin">Lenin</a>
 himself acknowledged was a period of relative peace. In March 1918,
 Lenin stated that civil war had been won with extraordinary ease,
 describing the Russian revolution as a continuous triumphal march in its
@@ -46,12 +46,12 @@ first months.[^1]
 
 During this relatively peaceful period, the Bolsheviks introduced
 one-man management in industry, created the
-<a href="Supreme_Economic_Council.md" class="wikilink"
+<a href="Supreme_Economic_Council" class="wikilink"
 title="Supreme Economic Council">Supreme Economic Council</a> to
 centrally plan the economy, and launched attacks on
-<a href="anarchism.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchism" class="wikilink" title="anarchist">anarchist</a>
 centers. On December 5, 1917, they established the
-<a href="Cheka.md" class="wikilink" title="Cheka">Cheka</a>, the secret
+<a href="Cheka" class="wikilink" title="Cheka">Cheka</a>, the secret
 police, which directed activity against other revolutionary currents
 from the very beginning.
 
@@ -59,9 +59,9 @@ from the very beginning.
 
 The first act after seizing power was creating the Council of People's
 Commissars
-(<a href="Sovnarkom.md" class="wikilink" title="Sovnarkom">Sovnarkom</a>)
+(<a href="Sovnarkom" class="wikilink" title="Sovnarkom">Sovnarkom</a>)
 above the soviets, contradicting Lenin's own arguments in
-*<a href="The_State_and_Revolution.md" class="wikilink"
+*<a href="The_State_and_Revolution" class="wikilink"
 title="The State and Revolution">The State and Revolution</a>* about
 merging executive and legislative functions. Four days later, the
 Sovnarkom unilaterally granted itself legislative power.[^2]
@@ -83,10 +83,10 @@ Bolshevik functionaries rather than a popularly elected body.[^4]
 
 ### Destruction of Workers' Control
 
-The Bolsheviks opposed the <a href="factory_committees.md" class="wikilink"
+The Bolsheviks opposed the <a href="factory_committees" class="wikilink"
 title="factory committees">factory committees</a>' vision of socialism
 from the beginning. While factory committees understood
-<a href="workers&#39;_control.md" class="wikilink"
+<a href="workers&#39;_control" class="wikilink"
 title="workers&#39; control">workers' control</a> as direct management
 by workers themselves, the Bolshevik leadership interpreted it as state
 control with committees playing at best a minor role. On three occasions
@@ -94,13 +94,13 @@ in early 1918, factory committee leaders attempted to implement their
 democratic model, and each time the party leadership overruled them.[^5]
 
 Lenin's vision of socialism equated
-<a href="nationalization.md" class="wikilink"
+<a href="nationalization" class="wikilink"
 title="nationalization">nationalization</a> with socialist
 transformation. He wrote in 1917 that
-<a href="state_capitalism.md" class="wikilink"
+<a href="state_capitalism" class="wikilink"
 title="state capitalism">state capitalism</a> merely needed to serve the
 whole people to become socialism.[^6] This perspective meant workers'
-<a href="self-management.md" class="wikilink"
+<a href="self-management" class="wikilink"
 title="self-management">self-management</a> was irrelevant. What
 mattered was state ownership, not who managed production.
 
@@ -108,10 +108,10 @@ In April 1918, Lenin began advocating one-man management with
 dictatorial powers, explicitly stating this was possible because peace
 had been achieved and the task was now organization rather than
 suppression of exploiters.[^7] This replaced workers' committees with
-appointed managers, reintroducing <a href="hierarchy.md" class="wikilink"
+appointed managers, reintroducing <a href="hierarchy" class="wikilink"
 title="hierarchical">hierarchical</a> relations and eliminating
 workplace
-<a href="democracy.md" class="wikilink" title="democracy">democracy</a>.
+<a href="democracy" class="wikilink" title="democracy">democracy</a>.
 
 ### April 1918: First Mass Killings of Anarchists
 
@@ -124,7 +124,7 @@ anarchist organizations in the two principal cities.
 On April 12, 1918, the Bolsheviks attacked 26 anarchist centers in
 Moscow, killing dozens and arresting 500. Threatened by the dramatic
 growth of the anarchist movement in Moscow,
-<a href="Leon_Trotsky.md" class="wikilink" title="Trotsky">Trotsky</a> and
+<a href="Leon_Trotsky" class="wikilink" title="Trotsky">Trotsky</a> and
 the Bolshevik press had carried out a media campaign in collaboration
 with the local bourgeoisie, accusing veteran revolutionaries of being
 "bandits" and "criminals" for expropriating bourgeois properties, even
@@ -139,29 +139,29 @@ fails to account for several critical facts.
 ### The Civil War Excuse
 
 Bolshevik authoritarianism began well before the major
-<a href="Russian_Civil_War.md" class="wikilink" title="civil war">civil
+<a href="Russian_Civil_War" class="wikilink" title="civil war">civil
 war</a> fighting erupted in May 1918. Moreover, every revolution faces
 similar challenges. Lenin repeatedly emphasized that revolution
 inevitably brings civil war, economic disruption, and desperate
 conditions. In 1917, he argued that only those in denial would think
 revolution possible without an exceptionally complicated situation.[^8]
 
-<a href="Anarchism.md" class="wikilink" title="Anarchists">Anarchists</a>
+<a href="Anarchism" class="wikilink" title="Anarchists">Anarchists</a>
 had long predicted these difficulties and developed their politics
 specifically to address them through
-<a href="decentralization.md" class="wikilink"
+<a href="decentralization" class="wikilink"
 title="decentralized">decentralized</a>, participatory structures rather
-than <a href="state.md" class="wikilink" title="state">state</a> power.
+than <a href="state" class="wikilink" title="state">state</a> power.
 
 ### The German Comparison
 
 The comparison with
-<a href="Germany.md" class="wikilink" title="Germany">Germany</a> is
-instructive. The <a href="German_Revolution.md" class="wikilink"
+<a href="Germany" class="wikilink" title="Germany">Germany</a> is
+instructive. The <a href="German_Revolution" class="wikilink"
 title="German Revolution">German Revolution</a> after 1918 faced
 economic collapse equally severe as Russia's, with industrial production
 falling to similar levels. Yet
-<a href="Leninism.md" class="wikilink" title="Leninists">Leninists</a>
+<a href="Leninism" class="wikilink" title="Leninists">Leninists</a>
 argue a successful revolution could have occurred there, contradicting
 claims that Russia's economic conditions made authoritarianism
 inevitable.
@@ -170,7 +170,7 @@ inevitable.
 
 Bolshevik ideology shaped the policies implemented and made objective
 circumstances worse. The party's commitment to extreme
-<a href="centralization.md" class="wikilink"
+<a href="centralization" class="wikilink"
 title="centralization">centralization</a> created bureaucratic
 inefficiency and eliminated the mass participation essential for
 socialist construction.
@@ -180,9 +180,9 @@ socialist construction.
 The Bolsheviks built their system on the principle that power must be
 centralized in state institutions controlled by the party. This
 immediately removed power from the
-<a href="working_class.md" class="wikilink" title="working class">working
+<a href="working_class" class="wikilink" title="working class">working
 class</a> and placed it in the hands of government officials. A massive
-state <a href="bureaucracy.md" class="wikilink"
+state <a href="bureaucracy" class="wikilink"
 title="bureaucracy">bureaucracy</a> developed from the start, with state
 officials representing 30 percent of Moscow's workforce by August
 1918.[^9]
@@ -220,10 +220,10 @@ to workers' initiatives in securing raw materials.[^13]
 ### Agricultural Policies
 
 Bolshevik agricultural policies reflected fundamental ignorance of
-<a href="peasant.md" class="wikilink" title="peasant">peasant</a> life
+<a href="peasant" class="wikilink" title="peasant">peasant</a> life
 combined with centralist ideology. Lenin vastly overestimated inequality
 in villages, believing rich
-<a href="kulak.md" class="wikilink" title="kulak">kulaks</a> dominated when
+<a href="kulak" class="wikilink" title="kulak">kulaks</a> dominated when
 reality showed predominantly pre-capitalist peasant farming. Only one
 percent of peasant households employed more than one laborer, yet the
 party launched campaigns against kulaks as if they were a major
@@ -234,7 +234,7 @@ advice and protest of Left-SRs, who had actual connections to peasant
 communities. By 1919, even Lenin admitted these policies had been
 failures that alienated the peasantry. Yet no fundamental change
 occurred for another two years, until mass pressure forced the
-<a href="New_Economic_Policy.md" class="wikilink"
+<a href="New_Economic_Policy" class="wikilink"
 title="New Economic Policy">New Economic Policy</a> in 1921.
 
 The Bolsheviks also suppressed the extensive network of consumer
@@ -254,7 +254,7 @@ sparked insurrections across the countryside.
 ### The Red Army: From Revolutionary Force to Tool of Repression
 
 In June 1918, Trotsky abolished any kind of worker control over the
-<a href="Red_Army.md" class="wikilink" title="Red Army">Red Army</a>,
+<a href="Red_Army" class="wikilink" title="Red Army">Red Army</a>,
 destroying the proletarian tradition that allowed soldiers to elect
 their officers and enjoy real equality. He restored the old hierarchies
 in the army and complemented them with a new ideological hierarchy
@@ -272,18 +272,18 @@ and by the end of the Civil War that figure had climbed to 83 percent.
 In contrast, all the prominent leaders of anarchist formations in the
 Civil War were chosen by their comrades according to their abilities,
 and they were workers or peasants. Leaders like
-<a href="Maria_Nikiforova.md" class="wikilink"
+<a href="Maria_Nikiforova" class="wikilink"
 title="Maria Nikiforova">Maria Nikiforova</a>,
-<a href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
+<a href="Nestor_Makhno" class="wikilink" title="Nestor Makhno">Nestor
 Makhno</a>, Fyodor Shchuss, and
-<a href="Anatoli_Zhelezniakov.md" class="wikilink"
+<a href="Anatoli_Zhelezniakov" class="wikilink"
 title="Anatoli Zhelezniakov">Anatoli Zhelezniakov</a> were among the
 most effective on the battlefield.
 
 ### War Communism
 
 In June 1918, the Party implemented their policy of
-"<a href="war_communism.md" class="wikilink" title="war communism">war
+"<a href="war_communism" class="wikilink" title="war communism">war
 communism</a>." There was nothing communist about it; rather, it
 constituted the Party's monopolization of the entire economy. It wasn't
 workers and peasants who controlled the factories and the land, but
@@ -315,7 +315,7 @@ demonstrates that workers retained both organization and militancy.
 
 Worker protests against Bolshevik policies began within months of the
 October revolution. In January 1918, authorities fired on a march
-supporting the <a href="Constituent_Assembly.md" class="wikilink"
+supporting the <a href="Constituent_Assembly" class="wikilink"
 title="Constituent Assembly">Constituent Assembly</a>. May 1918 saw the
 shooting of protesting workers and housewives in Kolpino, triggering a
 massive wave of indignation that temporarily stopped work at numerous
@@ -325,7 +325,7 @@ repression itself.[^16]
 
 The Extraordinary Assembly of Delegates emerged from workers'
 recognition that
-<a href="trade_unions.md" class="wikilink" title="trade unions">trade
+<a href="trade_unions" class="wikilink" title="trade unions">trade
 unions</a>, factory committees, and soviets had been transformed into
 arbitrary bureaucratic government agencies. To counter this independent
 workers' organization, the Bolsheviks organized non-party conferences,
@@ -354,14 +354,14 @@ Bolsheviks were from the popular classes.
 On March 16, 1919, in Petrograd, the Cheka assaulted the Putilov
 factory, where workers starving to death had begun a strike demanding
 larger food rations, freedom of the press, the end of the
-<a href="Red_Terror.md" class="wikilink" title="Red Terror">Red Terror</a>,
+<a href="Red_Terror" class="wikilink" title="Red Terror">Red Terror</a>,
 and the elimination of the privileges held by Communist Party members.
 900 were arrested and 200 executed without trial.
 
 ### Continuing Resistance During Civil War
 
 Contrary to claims that civil war loyalty prevented working class
-opposition, <a href="strike.md" class="wikilink" title="strike">strikes</a>
+opposition, <a href="strike" class="wikilink" title="strike">strikes</a>
 and protests continued throughout 1918-1920. Each wave of unrest proved
 more powerful than the last, culminating in the mass movement of late
 1920.
@@ -414,7 +414,7 @@ units. Wide-scale arrests deprived the movement of leadership.[^22]
 
 The Bromlei works events were particularly significant. A mass meeting
 on March 25 passed an anarchist and Left-SR resolution supporting the
-<a href="Kronstadt_Rebellion.md" class="wikilink"
+<a href="Kronstadt_Rebellion" class="wikilink"
 title="Kronstadt rebels">Kronstadt rebels</a>. The party responded by
 sacking all 3,000 workers en masse. Workers demonstrated through their
 district, inspiring solidarity strikes involving over 3,000 workers
@@ -517,7 +517,7 @@ so that the rats would eat their way through the prisoners to escape.
 ### The Socialist Revolutionaries
 
 In July 1918, the left
-<a href="Socialist_Revolutionary_Party.md" class="wikilink"
+<a href="Socialist_Revolutionary_Party" class="wikilink"
 title="SRs">SRs</a> initiated an insurrection against Bolshevik power.
 They were defeated, illegalized, and expelled from the soviet
 government. As a consequence, the Bolsheviks ended up with an absolute
@@ -540,7 +540,7 @@ Army, but their support for decentralized, local control ran them afoul
 of the Communists, who sought to crush the rebellion. The resistance
 continued until the end of 1921.
 
-On August 19, 1920, the <a href="Tambov_Rebellion.md" class="wikilink"
+On August 19, 1920, the <a href="Tambov_Rebellion" class="wikilink"
 title="Tambov peasant rebellion">Tambov peasant rebellion</a> began when
 a "requisitioning" squad of the Red Army beat the old men of a small
 village to force the inhabitants to surrender more grain to the
@@ -560,17 +560,17 @@ inhabitants, the great majority peasants and non-combatants.
 ### The Free Territory of Ukraine
 
 In November 1918, throughout a large territory in south
-<a href="Ukraine.md" class="wikilink" title="Ukraine">Ukraine</a>
+<a href="Ukraine" class="wikilink" title="Ukraine">Ukraine</a>
 comprising 7 million inhabitants, primarily peasants, locals founded the
-<a href="Free_Territory_of_Ukraine.md" class="wikilink"
+<a href="Free_Territory_of_Ukraine" class="wikilink"
 title="Volnaya Territoriya">Volnaya Territoriya</a> or "Free Territory,"
 an anarchist society based on communes, free and decentralized militias,
-land <a href="collectivization.md" class="wikilink"
+land <a href="collectivization" class="wikilink"
 title="collectivization">collectivization</a> without intermediaries and
 direct worker control of industry, universal
-<a href="education.md" class="wikilink" title="education">education</a>
+<a href="education" class="wikilink" title="education">education</a>
 based on the modern pedagogy of
-<a href="Francesc_Ferrer_i_Guardia.md" class="wikilink"
+<a href="Francesc_Ferrer_i_Guardia" class="wikilink"
 title="Francesc Ferrer i Guardia">Francesc Ferrer i Guardia</a>, and
 soviets free from party control but open to participation from any
 current of the worker and peasant classes and federated in a
@@ -605,7 +605,7 @@ Communists finally crushed the insurgent peasants.
 ### The Kronstadt Rebellion
 
 On February 28, 1921, delegates of the revolutionary sailors and workers
-from the <a href="Kronstadt_Rebellion.md" class="wikilink"
+from the <a href="Kronstadt_Rebellion" class="wikilink"
 title="Kronstadt">Kronstadt</a> naval base published a declaration in
 solidarity with the workers of Petrograd, recently repressed after going
 on strike against the starvation conditions. The Bolsheviks responded
@@ -651,7 +651,7 @@ disorganization.[^34]
 
 ### The Makhnovist Counter-Example
 
-The <a href="Makhnovism.md" class="wikilink"
+The <a href="Makhnovism" class="wikilink"
 title="Makhnovist movement">Makhnovist movement</a> in Ukraine provides
 a crucial counter-example. Operating in the same objective conditions as
 the Bolsheviks—civil war, economic disruption, isolation—the Makhnovists
@@ -697,17 +697,17 @@ in their own democratic institutions.
 
 ## See Also
 
-- <a href="Bolshevism.md" class="wikilink" title="Bolshevism">Bolshevism</a>
-- <a href="Free_Territory_of_Ukraine.md" class="wikilink"
+- <a href="Bolshevism" class="wikilink" title="Bolshevism">Bolshevism</a>
+- <a href="Free_Territory_of_Ukraine" class="wikilink"
   title="Free Territory of Ukraine">Free Territory of Ukraine</a>
-- <a href="Kronstadt_Rebellion.md" class="wikilink"
+- <a href="Kronstadt_Rebellion" class="wikilink"
   title="Kronstadt Rebellion">Kronstadt Rebellion</a>
-- <a href="Makhnovism.md" class="wikilink" title="Makhnovism">Makhnovism</a>
-- <a href="Workers&#39;_Control.md" class="wikilink"
+- <a href="Makhnovism" class="wikilink" title="Makhnovism">Makhnovism</a>
+- <a href="Workers&#39;_Control" class="wikilink"
   title="Workers&#39; Control">Workers' Control</a>
-- <a href="Soviet_Democracy.md" class="wikilink"
+- <a href="Soviet_Democracy" class="wikilink"
   title="Soviet Democracy">Soviet Democracy</a>
-- <a href="Vanguardism.md" class="wikilink"
+- <a href="Vanguardism" class="wikilink"
   title="Vanguardism">Vanguardism</a>
 
 ## External Links
@@ -734,17 +734,17 @@ in their own democratic institutions.
   Friends of Aron Baron
 - Jan Valtín, Out of the Night
 
-<a href="Category:Past_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Past_Anarchist_Societies" class="wikilink"
 title="Category:Past Anarchist Societies">Category:Past Anarchist
-Societies</a> <a href="Category:20th_Century.md" class="wikilink"
+Societies</a> <a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-<a href="Category:Marxist-Leninism.md" class="wikilink"
+<a href="Category:Marxist-Leninism" class="wikilink"
 title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
-<a href="Category:Russia.md" class="wikilink"
+<a href="Category:Russia" class="wikilink"
 title="Category:Russia">Category:Russia</a>
-<a href="Category:Counter-Revolution.md" class="wikilink"
+<a href="Category:Counter-Revolution" class="wikilink"
 title="Category:Counter-Revolution">Category:Counter-Revolution</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Vladimir Lenin, *Collected Works*, vol. 27 (Moscow: Progress

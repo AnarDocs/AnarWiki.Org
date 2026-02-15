@@ -284,7 +284,7 @@ democracy and imposed oligarchical government on the city.[^22]
 [^1]: Alfred Zimmern, *The Greek Commonwealth: Politics and Economics in
     Fifth-Century Athens* (New York: The Modern Library, 1956). Janet
     Biehl,
-    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism.md"
+    <a href="The_Politics_of_Social_Ecology:_Libertarian_Municipalism"
     class="wikilink"
     title="The Politics of Social Ecology: Libertarian Municipalism">The
     Politics of Social Ecology: Libertarian Municipalism</a>. John A.

@@ -1,15 +1,15 @@
 The **British Miners' Strike of 1972** was a nationwide (although not
-<a href="General_Strike.md" class="wikilink" title="general">general</a>)
-<a href="List_of_Strikes.md" class="wikilink" title="strike">strike</a> by
+<a href="General_Strike" class="wikilink" title="general">general</a>)
+<a href="List_of_Strikes" class="wikilink" title="strike">strike</a> by
 coal miners across the
-<a href="United_Kingdom.md" class="wikilink" title="United Kingdom">United
+<a href="United_Kingdom" class="wikilink" title="United Kingdom">United
 Kingdom</a> in protest of low wages.
 
 ## Background
 
 The strike occurred after wage negotiations between the unions and coal
 industry had broken down. It was the first time since
-<a href="British_General_Strike_(1926).md" class="wikilink"
+<a href="British_General_Strike_(1926)" class="wikilink"
 title="1926">1926</a> that British miners had officially gone on strike
 (although there had been unofficial strikes, as recently as 1969).
 Additionally, job security had been undermined as coal mines were shut
@@ -18,7 +18,7 @@ down throughout the 1960s.
 ## Events
 
 The strike began in early January, with miners sending
-<a href="Picketing.md" class="wikilink" title="pickets">pickets</a> across
+<a href="Picketing" class="wikilink" title="pickets">pickets</a> across
 their mines and asking for solidarity strikes (which railworkers and
 power station workers agreed to). Power shortages emerged, and a state
 of emergency was declared on 9 February, after the weather had turned
@@ -90,13 +90,13 @@ today.<sup>\[18\]</sup>
 
 ##
 
-<a href="Category:Strikes.md" class="wikilink"
+<a href="Category:Strikes" class="wikilink"
 title="Category:Strikes">Category:Strikes</a>
-<a href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-<a href="Category:UK.md" class="wikilink"
+<a href="Category:UK" class="wikilink"
 title="Category:UK">Category:UK</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>

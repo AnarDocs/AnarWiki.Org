@@ -1,1 +1,1 @@
-1.  REDIRECT <a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a>
+1.  REDIRECT <a href="Rojava" class="wikilink" title="Rojava">Rojava</a>

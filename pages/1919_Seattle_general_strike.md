@@ -24,7 +24,7 @@ days due to pressure from unions' international officers and the
 difficulties of living in a shutdown city.[^3]
 
 From
-<a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > During the February 1919 general strike in Seattle, workers took over

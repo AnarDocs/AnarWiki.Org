@@ -247,3 +247,10 @@ From Marxist-Leninists themselves.**
 
 - Marxist-Leninist-Maoists \[MLM\] tend to be some of strongest
   opponents of the current Chinese government
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

@@ -70,3 +70,10 @@
   was persecuted during the Cultural Revolution
 - A sizable majority of the violence was repressive violence from above,
   not from below
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

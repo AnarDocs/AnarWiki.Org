@@ -119,15 +119,15 @@ working class."[^14]
 
 <references/>
 
-<a href="Category:Palestine.md" class="wikilink"
+<a href="Category:Palestine" class="wikilink"
 title="Category:Palestine">Category:Palestine</a>
-<a href="Category:Israel.md" class="wikilink"
+<a href="Category:Israel" class="wikilink"
 title="Category:Israel">Category:Israel</a>
-<a href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-<a href="Category:Zionism.md" class="wikilink"
+<a href="Category:Zionism" class="wikilink"
 title="Category:Zionism">Category:Zionism</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Mazin Qumsiyeh, Popular Resistance in Palestine: A History of Hope

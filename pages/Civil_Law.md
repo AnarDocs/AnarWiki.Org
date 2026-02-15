@@ -1,0 +1,1 @@
+1.  REDIRECT <a href="Law" class="wikilink" title="Law">Law</a>

@@ -1,10 +1,10 @@
 **New Zealand** or **Aotearoa**is a
-<a href="Liberalism.md" class="wikilink" title="liberal">liberal</a>
-<a href="Colonialism.md" class="wikilink" title="colonial">colonial</a>
-<a href="Capitalism.md" class="wikilink" title="capitalist">capitalist</a>
-<a href="List_of_States.md" class="wikilink" title="state">state</a>
+<a href="Liberalism" class="wikilink" title="liberal">liberal</a>
+<a href="Colonialism" class="wikilink" title="colonial">colonial</a>
+<a href="Capitalism" class="wikilink" title="capitalist">capitalist</a>
+<a href="List_of_States" class="wikilink" title="state">state</a>
 located in Oceania near
-<a href="Australia.md" class="wikilink" title="Australia">Australia</a>.
+<a href="Australia" class="wikilink" title="Australia">Australia</a>.
 
 ## Positives
 
@@ -33,7 +33,7 @@ located in Oceania near
 - 1991: General Strikes
 - 1995: Pakaitore Occupation
 - 2005 - 2011:
-  <a href="New_Zealand_Strike_Wave_(2005_-_2011).md" class="wikilink"
+  <a href="New_Zealand_Strike_Wave_(2005_-_2011)" class="wikilink"
   title="New Zealand Strike Wave">New Zealand Strike Wave</a>
 - 2005: Super Size My Pay
 - 2005: Starbucks Strike
@@ -65,15 +65,15 @@ located in Oceania near
 
 - Tom Barker
 
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:New_Zealand.md" class="wikilink"
+<a href="Category:New_Zealand" class="wikilink"
 title="Category:New Zealand">Category:New Zealand</a>
-<a href="Category:Oceania.md" class="wikilink"
+<a href="Category:Oceania" class="wikilink"
 title="Category:Oceania">Category:Oceania</a>
-<a href="Category:States.md" class="wikilink"
+<a href="Category:States" class="wikilink"
 title="Category:States">Category:States</a>
-<a href="Category:Liberal_States.md" class="wikilink"
+<a href="Category:Liberal_States" class="wikilink"
 title="Category:Liberal States">Category:Liberal States</a>
-<a href="Category:Colonial_States.md" class="wikilink"
+<a href="Category:Colonial_States" class="wikilink"
 title="Category:Colonial States">Category:Colonial States</a>

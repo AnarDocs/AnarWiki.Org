@@ -1,5 +1,31 @@
 # Prisons, Police and Criminal Justice Systems
 
+Marxist-Leninists view police, prisons, and criminal justice systems as
+instruments of class rule that serve the bourgeoisie under capitalism
+but can be seized and repurposed to serve the proletariat during the
+transitional socialist period. They argue these coercive institutions
+remain necessary to suppress counter-revolutionary elements, maintain
+order during economic transformation, and defend revolutionary gains
+until class distinctions are fully abolished and the state withers away.
+In contrast, anarchists and non-hierarchical socialists reject the
+legitimacy of these institutions entirely, arguing they are inherently
+oppressive regardless of who controls them and cannot be reformed or
+redirected toward liberation.
+
+Rather than maintaining police and prisons under new management,
+libertarian socialists (such as anarchists) advocate their complete
+abolition and replacement with community-based approaches:
+transformative justice processes, restorative practices, community
+accountability teams, collective self-defense, and addressing root
+causes of harm through mutual aid and eliminating the social conditions
+(poverty, hierarchy, alienation) that generate most harmful behavior.
+Where Marxist-Leninists see a transitional need for state violence to
+protect the revolution, anarchists argue this perpetuates the same
+authoritarian logic and creates new ruling classes, pointing to how
+every "workers' state" has maintained or expanded carceral systems
+rather than dismantling them, with the promise of their eventual
+dissolution repeatedly deferred to an always-distant future.
+
 ### Prisons, Police and Criminal Justice Systems
 
 - "Justice Restored under Xi Jinping: A Political Project" by Elisa
@@ -100,3 +126,10 @@
   (Video: <https://archive.org/details/zwj979w4XdHiV-1M>) \[EN\]
 - <https://archive.is/L5DgR> \[EN\] - Chinese state media outlet
   supports police
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

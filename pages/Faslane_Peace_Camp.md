@@ -18,18 +18,18 @@
 
 ## References
 
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Scotland.md" class="wikilink"
+Communities</a> <a href="Category:Scotland" class="wikilink"
 title="Category:Scotland">Category:Scotland</a>
-<a href="Category:United_Kingdom.md" class="wikilink"
+<a href="Category:United_Kingdom" class="wikilink"
 title="Category:United Kingdom">Category:United Kingdom</a>
-<a href="Category:1982.md" class="wikilink"
+<a href="Category:1982" class="wikilink"
 title="Category:1982">Category:1982</a>
-<a href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-<a href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
-[^1]: <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+[^1]: <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>

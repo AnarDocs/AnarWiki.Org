@@ -5,7 +5,7 @@
 ### Origins
 
 **Punk Rock** is a sub-genre of
-<a href="Rock_music.md" class="wikilink" title="Rock music">Rock music</a>
+<a href="Rock_music" class="wikilink" title="Rock music">Rock music</a>
 that emerged in the 1960s and 1970s. The genre originated as a rebellion
 against traditional rock bands, which were becoming increasingly
 corporate and overproduced. This musical movement represented a return
@@ -34,13 +34,13 @@ emphasizes self-organization and rejection of corporate structures.
 ## Relationship with Anarchism
 
 Punk rock has historically been closely associated with
-<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>,
+<a href="anarchism" class="wikilink" title="anarchism">anarchism</a>,
 and greatly contributed towards the revival of the
-<a href="American_anarchist_movement.md" class="wikilink"
+<a href="American_anarchist_movement" class="wikilink"
 title="American anarchist movement">American anarchist movement</a> in
 the 1980s and 1990s. While most punk rock bands have expressed some
 anarchist tendencies, groups that are specifically anarchist are known
-under the sub-genre of <a href="Anarcho-Punk.md" class="wikilink"
+under the sub-genre of <a href="Anarcho-Punk" class="wikilink"
 title="Anarcho-Punk">Anarcho-Punk</a>.
 
 ## Criticism
@@ -51,17 +51,17 @@ title="Anarcho-Punk">Anarcho-Punk</a>.
 
 <references/>
 
-<a href="Category:Social_Movements.md" class="wikilink"
+<a href="Category:Social_Movements" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:Anarchist_Culture.md" class="wikilink"
+<a href="Category:Anarchist_Culture" class="wikilink"
 title="Category:Anarchist Culture">Category:Anarchist Culture</a>
-<a href="Category:Music.md" class="wikilink"
+<a href="Category:Music" class="wikilink"
 title="Category:Music">Category:Music</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:20th_Century.md" class="wikilink"
+Communities</a> <a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-<a href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>

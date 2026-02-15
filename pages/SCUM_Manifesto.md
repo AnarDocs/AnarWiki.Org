@@ -146,16 +146,16 @@ self-determination.
 
 \[\[Category:Controversial Publications\]
 
-<a href="Category:Books.md" class="wikilink"
+<a href="Category:Books" class="wikilink"
 title="Category:Books">Category:Books</a>
-<a href="Category:Feminism.md" class="wikilink"
+<a href="Category:Feminism" class="wikilink"
 title="Category:Feminism">Category:Feminism</a>
-<a href="Category:Matriarchy.md" class="wikilink"
+<a href="Category:Matriarchy" class="wikilink"
 title="Category:Matriarchy">Category:Matriarchy</a>
-<a href="Category:Anarcha-Feminism.md" class="wikilink"
+<a href="Category:Anarcha-Feminism" class="wikilink"
 title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>

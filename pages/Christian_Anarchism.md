@@ -1,42 +1,42 @@
 # Christian Anarchism
 
 **Christian anarchism** is a movement in
-<a href="political_theology.md" class="wikilink"
+<a href="political_theology" class="wikilink"
 title="political theology">political theology</a> that claims
-<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a> is
-inherent in <a href="Christianity.md" class="wikilink"
+<a href="anarchism" class="wikilink" title="anarchism">anarchism</a> is
+inherent in <a href="Christianity" class="wikilink"
 title="Christianity">Christianity</a> and the
-<a href="Gospels.md" class="wikilink" title="Gospels">Gospels</a>.[^1][^2]
+<a href="Gospels" class="wikilink" title="Gospels">Gospels</a>.[^1][^2]
 It is grounded in the belief that there is only one source of authority
 to which Christians are ultimately answerable—the authority of God as
 embodied in the teachings of
-<a href="Jesus.md" class="wikilink" title="Jesus">Jesus</a>. It therefore
+<a href="Jesus" class="wikilink" title="Jesus">Jesus</a>. It therefore
 rejects the idea that human governments have ultimate authority over
 human societies. Christian anarchists denounce the
-<a href="state.md" class="wikilink" title="state">state</a>, believing it
+<a href="state" class="wikilink" title="state">state</a>, believing it
 is violent, deceitful and
-<a href="idolatrous.md" class="wikilink" title="idolatrous">idolatrous</a>.[^3]
+<a href="idolatrous" class="wikilink" title="idolatrous">idolatrous</a>.[^3]
 
 Christian anarchists hold that the "Kingdom of God" is the proper
 expression of the relationship between God and humanity. Under the
 "Kingdom of God", human relationships would be characterized by
-horizontal organization, <a href="servant_leadership.md" class="wikilink"
+horizontal organization, <a href="servant_leadership" class="wikilink"
 title="servant leadership">servant leadership</a>, and universal
 compassion—not through the traditional structures of
-<a href="organized_religion.md" class="wikilink"
+<a href="organized_religion" class="wikilink"
 title="organized religion">organized religion</a>, which most Christian
 anarchists consider hierarchical or authoritarian structures.[^4] Most
 Christian anarchists are also
-<a href="pacifism.md" class="wikilink" title="pacifists">pacifists</a> who
+<a href="pacifism" class="wikilink" title="pacifists">pacifists</a> who
 reject war, militarism, and the use of violence.
 
 More than any other Bible source, the
-<a href="Sermon_on_the_Mount.md" class="wikilink"
+<a href="Sermon_on_the_Mount" class="wikilink"
 title="Sermon on the Mount">Sermon on the Mount</a> is used as a basis
 for Christian anarchism.[^5]
-<a href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">Leo
+<a href="Leo_Tolstoy" class="wikilink" title="Leo Tolstoy">Leo
 Tolstoy</a>'s
-*<a href="The_Kingdom_of_God_Is_Within_You.md" class="wikilink"
+*<a href="The_Kingdom_of_God_Is_Within_You" class="wikilink"
 title="The Kingdom of God Is Within You">The Kingdom of God Is Within
 You</a>* is often regarded as a key text for modern Christian anarchism.
 
@@ -44,28 +44,28 @@ You</a>* is often regarded as a key text for modern Christian anarchism.
 
 ### Old Testament
 
-<a href="Jacques_Ellul.md" class="wikilink" title="Jacques Ellul">Jacques
+<a href="Jacques_Ellul" class="wikilink" title="Jacques Ellul">Jacques
 Ellul</a>, a French philosopher and Christian anarchist, notes that the
 final verse of the
-<a href="Book_of_Judges.md" class="wikilink" title="Book of Judges">Book of
+<a href="Book_of_Judges" class="wikilink" title="Book of Judges">Book of
 Judges</a> states that there was no king in Israel and that "everyone
 did as they saw fit".[^6] Subsequently, as recorded in the first Book of
 Samuel, the people of Israel wanted a king "so as to be like other
 nations".[^7]
 
 The Australian Christian anarchist
-<a href="Dave_Andrews.md" class="wikilink" title="Dave Andrews">Dave
+<a href="Dave_Andrews" class="wikilink" title="Dave Andrews">Dave
 Andrews</a> believes that the Israelites lived in a "decentralized
 federation of tribes".[^8] Ellul describes that when important decisions
 were made, a popular assembly was held, which had the final say.[^9]
 Christian anarchists claim that until
-<a href="Samuel.md" class="wikilink" title="Samuel">Samuel</a> the
+<a href="Samuel" class="wikilink" title="Samuel">Samuel</a> the
 Israelites had neither king nor central government, with God as the sole
 authority. The Israelites had no taxes or rent and there was equal
 access to basic resources. Israel's rallying cry was "We have no king
 but Yahweh."[^10]
 
-The American anarchist <a href="Peter_Gelderloos.md" class="wikilink"
+The American anarchist <a href="Peter_Gelderloos" class="wikilink"
 title="Peter Gelderloos">Peter Gelderloos</a> sees a strong
 decentralization during the monarchy, seeing the Kingdom of Israel not
 as a state and that its intervention was minimal, dedicated only to the
@@ -73,24 +73,24 @@ battlefield and the construction of some temple.[^11]
 
 God declared that the people had rejected him as their king. He warned
 that a human king would lead to
-<a href="militarism.md" class="wikilink" title="militarism">militarism</a>,
-<a href="conscription.md" class="wikilink"
+<a href="militarism" class="wikilink" title="militarism">militarism</a>,
+<a href="conscription" class="wikilink"
 title="conscription">conscription</a> and punitive
-<a href="taxation.md" class="wikilink" title="taxation">taxation</a>, and
+<a href="taxation" class="wikilink" title="taxation">taxation</a>, and
 that their pleas for mercy from the king's demands would go unanswered.
 Samuel passed on God's warning to the Israelites but they still demanded
-a king, and <a href="Saul.md" class="wikilink" title="Saul">Saul</a> became
+a king, and <a href="Saul" class="wikilink" title="Saul">Saul</a> became
 their ruler. Much of the subsequent Old Testament chronicles the
 Israelites trying to live with this decision.
 
 ### New Testament
 
 More than any other Bible source, the
-<a href="Sermon_on_the_Mount.md" class="wikilink"
+<a href="Sermon_on_the_Mount" class="wikilink"
 title="Sermon on the Mount">Sermon on the Mount</a> is used as the basis
 for Christian anarchism. Alexandre Christoyannopoulos explains that the
 Sermon perfectly illustrates Jesus's central teaching of love and
-<a href="forgiveness.md" class="wikilink"
+<a href="forgiveness" class="wikilink"
 title="forgiveness">forgiveness</a>. Christian anarchists claim that the
 state, founded on violence, contravenes the Sermon and Jesus' call to
 love one's enemies.
@@ -105,12 +105,12 @@ implying that Jesus is aware of the corrupting nature of Earthly power.
 
 Christian eschatology and various Christian anarchists, such as Jacques
 Ellul, have identified the state and
-<a href="political_power.md" class="wikilink"
+<a href="political_power" class="wikilink"
 title="political power">political power</a> as the Beast in the
-<a href="Book_of_Revelation.md" class="wikilink"
+<a href="Book_of_Revelation" class="wikilink"
 title="Book of Revelation">Book of Revelation</a>.[^13]
 
-<a href="Friedrich_Nietzsche.md" class="wikilink"
+<a href="Friedrich_Nietzsche" class="wikilink"
 title="Friedrich Nietzsche">Friedrich Nietzsche</a> and Frank Seaver
 Billings criticized Christianity and anarchism by arguing that they are
 the same thing.[^14][^15]
@@ -126,7 +126,7 @@ leading them in a triumphal procession by means of it." (Colossians
 2:15).
 
 Also, some early Christian communities appear to have practised
-<a href="anarchist_communism.md" class="wikilink"
+<a href="anarchist_communism" class="wikilink"
 title="anarchist communism">anarchist communism</a>, such as the
 Jerusalem group described in Acts, who shared their money and labour
 equally and fairly among the members.[^16] Roman Montero claims that
@@ -137,17 +137,17 @@ long-lasting, and substantial.[^17]
 
 Christian anarchists, such as Kevin Craig, insist that the communities
 were centred on true love and care for one another, rather than
-<a href="liturgy.md" class="wikilink" title="liturgy">liturgy</a>. They
+<a href="liturgy" class="wikilink" title="liturgy">liturgy</a>. They
 also allege that the reason the early Christians were persecuted was not
 that they worshipped Jesus Christ but that they refused to worship human
-<a href="idolatry.md" class="wikilink" title="idols">idols</a> claiming
+<a href="idolatry" class="wikilink" title="idols">idols</a> claiming
 divine status. Since they refused to worship the Roman Emperor, they
-refused to swear any <a href="oath_of_allegiance.md" class="wikilink"
+refused to swear any <a href="oath_of_allegiance" class="wikilink"
 title="oath of allegiance">oath of allegiance</a> to the Roman Empire.
 
 In his introduction to a translation of the *Sayings of the Desert
 Fathers*,
-<a href="Thomas_Merton.md" class="wikilink" title="Thomas Merton">Thomas
+<a href="Thomas_Merton" class="wikilink" title="Thomas Merton">Thomas
 Merton</a> describes the early monastics as "Truly in certain sense
 'anarchists', and it will do no harm to think of them as such."[^18]
 
@@ -158,7 +158,7 @@ Christianity was the conversion of Emperor Constantine after his victory
 at the Battle of the Milvian Bridge in 312.[^19] Christianity was then
 legalized under the Edict of Milan in 313, which hastened the Church's
 transformation from a humble bottom-up
-<a href="sect.md" class="wikilink" title="sect">sect</a> to an
+<a href="sect" class="wikilink" title="sect">sect</a> to an
 authoritarian top-down organization. Christian anarchists point out that
 this marked the beginning of the "Constantinian shift" in which
 Christianity gradually came to be identified with the will of the ruling
@@ -169,13 +169,13 @@ a religious justification for violence.
 
 Various libertarian socialist authors have identified the written work
 of the English Protestant social reformer
-<a href="Gerrard_Winstanley.md" class="wikilink"
+<a href="Gerrard_Winstanley" class="wikilink"
 title="Gerrard Winstanley">Gerrard Winstanley</a> and the social
 activism of his group, the
-<a href="Diggers.md" class="wikilink" title="Diggers">Diggers</a>, as
+<a href="Diggers" class="wikilink" title="Diggers">Diggers</a>, as
 anticipating their line of thought.[^20][^21]
 
-For the anarchist historian <a href="George_Woodcock.md" class="wikilink"
+For the anarchist historian <a href="George_Woodcock" class="wikilink"
 title="George Woodcock">George Woodcock</a>, "Although Pierre Joseph
 Proudhon was the first writer to call himself an anarchist, at least two
 predecessors outlined systems that contain all the basic elements of
@@ -197,12 +197,12 @@ corrupting nature of authority. He saw "an equal privilege to share in
 the blessing of liberty" and detected an intimate link between the
 institution of property and the lack of freedom.
 
-For <a href="Murray_Bookchin.md" class="wikilink"
+For <a href="Murray_Bookchin" class="wikilink"
 title="Murray Bookchin">Murray Bookchin</a>, "In the modern world,
 anarchism first appeared as a movement of the peasantry and yeomanry
 against declining feudal institutions. In Germany its foremost spokesman
 during the Peasant Wars was
-<a href="Thomas_Müntzer.md" class="wikilink" title="Thomas Müntzer">Thomas
+<a href="Thomas_Müntzer" class="wikilink" title="Thomas Müntzer">Thomas
 Müntzer</a>; in England, Gerrard Winstanley, a leading participant in
 the Digger movement. The concepts held by Müntzer and Winstanley were
 superbly attuned to the needs of their time – a historical period when
@@ -212,8 +212,8 @@ most militant revolutionary forces came from an agrarian world."[^23]
 ### Modern Era
 
 The 19th-century Christian abolitionists
-<a href="Adin_Ballou.md" class="wikilink" title="Adin Ballou">Adin
-Ballou</a> and <a href="William_Lloyd_Garrison.md" class="wikilink"
+<a href="Adin_Ballou" class="wikilink" title="Adin Ballou">Adin
+Ballou</a> and <a href="William_Lloyd_Garrison" class="wikilink"
 title="William Lloyd Garrison">William Lloyd Garrison</a> were critical
 of all human governments and believed that they would be eventually
 supplanted by a new order in which individuals are guided solely by
@@ -230,7 +230,7 @@ condemned the Civil War for fear of the eventual retaliation by white
 southerners on freed black Americans.
 
 Ballou's and Garrison's writings heavily influenced
-<a href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">Leo
+<a href="Leo_Tolstoy" class="wikilink" title="Leo Tolstoy">Leo
 Tolstoy</a>,[^25] who was inspired by their lifelong commitment to
 abolitionism. Tolstoy wrote extensively on his burgeoning Christian
 anarchist principles in nonfiction books like *The Kingdom of God is
@@ -245,31 +245,31 @@ principles of nonviolence. Although Tolstoy never actually used the term
 the book after its publication in 1894 appear to have coined the
 term.[^27]
 
-<a href="Thomas_J._Hagerty.md" class="wikilink"
+<a href="Thomas_J._Hagerty" class="wikilink"
 title="Thomas J. Hagerty">Thomas J. Hagerty</a>, a Marxist Catholic
 priest turned oculist, was a primary author of the
-<a href="Industrial_Workers_of_the_World.md" class="wikilink"
+<a href="Industrial_Workers_of_the_World" class="wikilink"
 title="Industrial Workers of the World">Industrial Workers of the
 World</a> (IWW) Preamble ("an injury to one is an injury to all"). IWW
 members included Christian anarchists like
-<a href="Dorothy_Day.md" class="wikilink" title="Dorothy Day">Dorothy
+<a href="Dorothy_Day" class="wikilink" title="Dorothy Day">Dorothy
 Day</a> and
-<a href="Ammon_Hennacy.md" class="wikilink" title="Ammon Hennacy">Ammon
+<a href="Ammon_Hennacy" class="wikilink" title="Ammon Hennacy">Ammon
 Hennacy</a>.
 
-<a href="Dorothy_Day.md" class="wikilink" title="Dorothy Day">Dorothy
+<a href="Dorothy_Day" class="wikilink" title="Dorothy Day">Dorothy
 Day</a> was a journalist turned social activist who became known for her
 social justice campaigns in defense of the poor. Alongside
-<a href="Peter_Maurin.md" class="wikilink" title="Peter Maurin">Peter
-Maurin</a>, she founded the <a href="Catholic_Worker.md" class="wikilink"
+<a href="Peter_Maurin" class="wikilink" title="Peter Maurin">Peter
+Maurin</a>, she founded the <a href="Catholic_Worker" class="wikilink"
 title="Catholic Worker">Catholic Worker</a> Movement in 1933, which
 espoused nonviolence and hospitality for the impoverished and the
 downtrodden.[^28] Day was declared Servant of God when a cause for
 sainthood was opened for her by Pope John Paul II. Day's
-<a href="distributism.md" class="wikilink"
+<a href="distributism" class="wikilink"
 title="distributist">distributist</a> economic views are very similar to
-<a href="Proudhon.md" class="wikilink" title="Proudhon">Proudhon</a>'s
-<a href="mutualism.md" class="wikilink" title="mutualism">mutualism</a> by
+<a href="Proudhon" class="wikilink" title="Proudhon">Proudhon</a>'s
+<a href="mutualism" class="wikilink" title="mutualism">mutualism</a> by
 which she was influenced.[^29] Day also named the phrase "precarious
 work" based on the former anarchocommunist Léonce Crenier's embrace of
 poverty.[^30]
@@ -280,7 +280,7 @@ rural farming communities to teach city dwellers agrarianism and
 encourage a movement back to the land, and roundtable discussions in
 community centres to clarify thought and initiate action.[^31]
 
-<a href="Simone_Weil.md" class="wikilink" title="Simone Weil">Simone
+<a href="Simone_Weil" class="wikilink" title="Simone Weil">Simone
 Weil</a> was a French philosopher who was very early animated by a great
 compassion for the exploited. She was first a socialist and then an
 anarchist. In the 1930s, she converted to "love of Christ". During her
@@ -305,13 +305,13 @@ bypass human intermediaries and do away with priests.[^34][^35]
 ### Pacifism and Nonviolence
 
 Christian anarchists, such as
-<a href="David_Lipscomb.md" class="wikilink" title="David Lipscomb">David
+<a href="David_Lipscomb" class="wikilink" title="David Lipscomb">David
 Lipscomb</a>,
-<a href="Leo_Tolstoy.md" class="wikilink" title="Leo Tolstoy">Leo
+<a href="Leo_Tolstoy" class="wikilink" title="Leo Tolstoy">Leo
 Tolstoy</a>,
-<a href="Ammon_Hennacy.md" class="wikilink" title="Ammon Hennacy">Ammon
+<a href="Ammon_Hennacy" class="wikilink" title="Ammon Hennacy">Ammon
 Hennacy</a>,
-<a href="Jacques_Ellul.md" class="wikilink" title="Jacques Ellul">Jacques
+<a href="Jacques_Ellul" class="wikilink" title="Jacques Ellul">Jacques
 Ellul</a>, and Dave Andrews, follow Jesus' call to not resist evil but
 turn the other cheek. They argue that this teaching can only imply a
 condemnation of the state, as the police and army hold a monopoly over
@@ -321,9 +321,9 @@ cheek when confronted with violence. Christian anarchists believe
 violence begets violence and the ends never justify the means.
 
 Many Christian anarchists practice the principles of
-<a href="nonviolence.md" class="wikilink"
+<a href="nonviolence" class="wikilink"
 title="nonviolence">nonviolence</a>,
-<a href="nonresistance.md" class="wikilink"
+<a href="nonresistance" class="wikilink"
 title="nonresistance">nonresistance</a>, and turning the other cheek. To
 illustrate how nonresistance works in practice, Alexandre
 Christoyannopoulos offers the following Christian anarchist response to
@@ -347,7 +347,7 @@ terror."[^36]
 ### Simple Living
 
 Christian anarchists such as Ammon Hennacy, Peter Maurin and Dorothy Day
-often advocate <a href="voluntary_poverty.md" class="wikilink"
+often advocate <a href="voluntary_poverty" class="wikilink"
 title="voluntary poverty">voluntary poverty</a>. This can be for a
 variety of reasons, such as withdrawing support for government by
 reducing taxable income or following Jesus' teachings.[^37] Jesus
@@ -461,7 +461,7 @@ vegetarianism.[^53][^54][^55]
 
 ### Brotherhood Church
 
-The <a href="Brotherhood_Church.md" class="wikilink"
+The <a href="Brotherhood_Church" class="wikilink"
 title="Brotherhood Church">Brotherhood Church</a> is a Christian
 anarchist and pacifist community. The Brotherhood Church can be traced
 back to 1887 when a Congregationalist minister called John Bruce Wallace
@@ -472,10 +472,10 @@ at Stapleton, near Pontefract, Yorkshire, since 1921.[^56]
 ### Catholic Worker Movement
 
 Established by Peter Maurin and Dorothy Day in the early 1930s, the
-<a href="Catholic_Worker_Movement.md" class="wikilink"
+<a href="Catholic_Worker_Movement" class="wikilink"
 title="Catholic Worker Movement">Catholic Worker Movement</a> is a
 Christian movement dedicated to nonviolence,
-<a href="personalism.md" class="wikilink"
+<a href="personalism" class="wikilink"
 title="personalism">personalism</a> and voluntary poverty. Over 130
 Catholic Worker communities exist in the United States where "houses of
 hospitality" care for the homeless. The Joe Hill House of hospitality
@@ -528,7 +528,7 @@ a Servant of God.
 ### Doukhobors
 
 The
-<a href="Doukhobors.md" class="wikilink" title="Doukhobors">Doukhobors</a>
+<a href="Doukhobors" class="wikilink" title="Doukhobors">Doukhobors</a>
 are a Russian Christian anarchist sect that emerged in the 18th century.
 They rejected the authority of the state and the church, refusing to
 swear oaths, pay taxes, or serve in the military. Persecuted in Russia,
@@ -564,7 +564,7 @@ believe Romans 13 is taken out of context, emphasizing that Revelation
 the meaning of Romans 13 text.[^60]
 
 The anarchist
-<a href="Luigi_Galleani.md" class="wikilink" title="Luigi Galleani">Luigi
+<a href="Luigi_Galleani" class="wikilink" title="Luigi Galleani">Luigi
 Galleani</a> was a critic of Tolstoy, considering his philosophy an
 impossible attempt at a revival of Christianity and his morality. He did
 not consider Tolstoy an anarchist, despite recognizing his criticisms of
@@ -573,7 +573,7 @@ authority contrary to anarchism. He saw Tolstoy's ideas as a theological
 metaphysics based on an anti-human morality.[^61]
 
 The British anarcho-communist
-<a href="Albert_Meltzer.md" class="wikilink" title="Albert Meltzer">Albert
+<a href="Albert_Meltzer" class="wikilink" title="Albert Meltzer">Albert
 Meltzer</a> was also critical of Tolstoy and his pacifism. Although he
 maintained that a pacifist or a Christian could be an anarchist, he
 considered Christian anarchism to be synonymous with liberalism.[^62]
@@ -584,20 +584,26 @@ considered Christian anarchism to be synonymous with liberalism.[^62]
 
 ## External Links
 
-- Works on Christian anarchism at Internet Archive
-- Books on Christian anarchism at the Open Library
-- Jesus Radicals - A webzine exploring Christianity and anarchism
-- The Anarchist Library - Multiple texts on Christian anarchism
+- Works on Christian anarchism at [Internet
+  Archive](https://archive.org/search?query=subject%3A%22anarchism%22+christian)
+- [Jesus Radicals](https://www.jesusradicals.com/) - A webzine exploring
+  Christianity and anarchism
+- [The Anarchist
+  Library](https://theanarchistlibrary.org/category/topic/christian) -
+  Multiple texts on Christian anarchism
+- [Reddit
+  r/ChristianAnarchism](https://www.reddit.com/r/christiananarchism/) -
+  Online discussion forum for Christian anarchists
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Alexandre Christoyannopoulos, *Christian Anarchism: A Political

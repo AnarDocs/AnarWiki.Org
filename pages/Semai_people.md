@@ -286,11 +286,11 @@ Gelderloos adds:
 
 <references/>
 
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchy_In_Action.md" class="wikilink"
+Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: *Peaceful Societies*,
@@ -344,5 +344,5 @@ title="Category:Featured">Category:Featured</a>
 [^16]: Robert K. Dentan, The Semai: A Nonviolent People of Malaya. New
     York: Holt, Rinehart and Winston, 1979, p. 48.
 
-[^17]: <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+[^17]: <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>

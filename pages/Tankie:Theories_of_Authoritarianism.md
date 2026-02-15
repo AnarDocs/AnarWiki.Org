@@ -1,5 +1,33 @@
 # Theories of Authoritarianism
 
+Marxist-Leninists view authoritarianism as a necessary transitional tool
+for building socialism, arguing that centralized state power, one-party
+rule, suppression of dissent, and hierarchical control are essential to
+defend revolutionary gains from counter-revolution, coordinate complex
+industrial economies, and transform society until classes are eliminated
+and the state can eventually "wither away." They justify temporary
+dictatorship—the "dictatorship of the proletariat"—as serving
+working-class interests even when it involves coercion, claiming that
+only a strong centralized state can survive capitalist encirclement and
+organize production effectively during the transition to communism.
+
+In stark contrast, anarchists and non-hierarchical socialists argue that
+authoritarianism fundamentally betrays socialist principles because the
+means shape the ends—authoritarian methods cannot produce libertarian
+outcomes. They contend that states have autonomous interests in
+self-perpetuation regardless of revolutionary intentions, that
+concentration of power inevitably creates new ruling classes (as
+predicted by Bakunin and validated by Soviet experience), and that
+centralized control alienates workers just as capitalism does, merely
+replacing private bosses with state managers. Rather than accepting
+temporary dictatorship, anarchists insist on immediate implementation of
+horizontal organization, direct democracy, workers' self-management, and
+voluntary federation, arguing that decentralized structures are both
+more effective and more consistent with socialist goals, and pointing to
+the 87.5% failure rate of Marxist-Leninist states as evidence that the
+promised "withering away" never materializes—authoritarian power
+perpetuates itself indefinitely.
+
 ### Theories & Critiques
 
 - "Viral Alarm: When Fury Overcomes Fear" by Xu Zhangrun
@@ -62,3 +90,10 @@
   Condition Have Failed" by James C Scott
   <https://theanarchistlibrary.org/library/james-c-scott-seeing-like-a-state>
   \[EN\]
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

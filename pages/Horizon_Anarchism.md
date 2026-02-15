@@ -1,7 +1,7 @@
 ## Overview
 
 Horizom Anarchism is the idea of poet and writer
-<a href="Dalependell.com.md" class="wikilink" title="Dale Pendell">Dale
+<a href="Dalependell.com" class="wikilink" title="Dale Pendell">Dale
 Pendell</a>, which views the current paradigms of self-centered progress
 and resource exploitation to naturally fall upon itself. As a result of
 this, horizon anarchists are affirmed in their projects of a
@@ -19,11 +19,11 @@ core of their potential and thence pass on the torch.
 
 Horizon Anarchism emerged from a 2006 lecture by Dale Pendell at the
 Palenque Norte gathering at
-<a href="Burning_Man.md" class="wikilink" title="Burning Man">Burning
+<a href="Burning_Man" class="wikilink" title="Burning Man">Burning
 Man</a>. The concept developed as Pendell reflected on the challenges of
 political action in the United States over the previous 30 years,
 particularly its lack of joy and festive spirit. Drawing inspiration
-from <a href="Barbara_Ehrenreich.md" class="wikilink"
+from <a href="Barbara_Ehrenreich" class="wikilink"
 title="Barbara Ehrenreich">Barbara Ehrenreich</a>'s work on
 transcendence and festivals, Pendell noted how medieval European
 festivals served as centers of political rebellion before being
@@ -31,7 +31,7 @@ suppressed by the rising power of the state, Protestantism, and
 Enlightenment rationalism.
 
 The philosophical foundation draws heavily from
-<a href="Norman_O._Brown.md" class="wikilink"
+<a href="Norman_O._Brown" class="wikilink"
 title="Norman O. Brown">Norman O. Brown</a>, who in 1990 prophetically
 wrote about the strengthening of Eros creating "new institutions of
 individual generosity and public joy." Brown envisioned carnivalesque
@@ -40,7 +40,7 @@ self-sacrificial nature, uninhibited by resentment of the exploited and
 excluded.
 
 Pendell's concept was further influenced by
-<a href="Kropotkin.md" class="wikilink" title="Kropotkin">Kropotkin</a>'s
+<a href="Kropotkin" class="wikilink" title="Kropotkin">Kropotkin</a>'s
 insight that cooperation and mutual aid were fundamental to human
 evolution over 40,000 years of existence. Ancient Paleolithic burials
 showing care for arthritic individuals who required years of assistance
@@ -63,7 +63,7 @@ The framework identifies several key principles:
 state as "the greatest weapon of mass destruction," Horizon Anarchism
 acknowledges the current necessity of using state mechanisms to
 constrain corporate power, following
-<a href="Noam_Chomsky.md" class="wikilink" title="Noam Chomsky">Noam
+<a href="Noam_Chomsky" class="wikilink" title="Noam Chomsky">Noam
 Chomsky</a>'s analysis that the state currently serves as the only
 bulwark against corporate domination.
 
@@ -95,7 +95,7 @@ festival cultures that demonstrate alternative social organization while
 maintaining joy and celebration as central elements.
 
 **Imagination Liberation**: Following
-<a href="William_Blake.md" class="wikilink" title="William Blake">William
+<a href="William_Blake" class="wikilink" title="William Blake">William
 Blake</a>'s principle of "mental fight" as the alternative to "corporeal
 war," the movement emphasizes breaking free from limiting conceptual
 frameworks and experimenting with new forms of social organization.
@@ -149,15 +149,15 @@ lecture.](https://psychedelicsalon.com/podcast-055-horizon-anarchism/)
 
 <references/>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki.md" class="wikilink"
+Socialism</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>

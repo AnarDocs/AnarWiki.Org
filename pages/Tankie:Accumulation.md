@@ -27,3 +27,10 @@
 - “Gapminder” <https://www.gapminder.org/tools/> \[AR, EN, RU\] (uses UN
   data)
 - "Global Footprint Network" <https://www.footprintnetwork.org/> \[EN\]
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

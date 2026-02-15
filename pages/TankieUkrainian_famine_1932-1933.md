@@ -716,3 +716,10 @@ Moscow) and nations adjacent to Russia will have varying narratives.
   Ukrainian famine as "a Jewish lie"; or will spin something about
   “Juedo-Bolsheviks” and “ZOG” trying to make Stalin and or Russia look
   bad \[in context of post-Soviet politics\]
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

@@ -54,7 +54,7 @@ Klee Benally mentions some problems with the Alcatraz occupation:
     <http://www.historyisaweapon.com/defcon1/alcatrazproclamationandletter.html>.
 
 [^2]: Peter Gelderloos,
-    <a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+    <a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
     Works</a>.
 
 [^3]: Peter Matthiessen, *In the Spirit of Crazy Horse* (New York:

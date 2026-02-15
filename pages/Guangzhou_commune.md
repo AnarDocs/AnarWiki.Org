@@ -34,7 +34,7 @@ was "an anarchist commune for a year."[^6]
 [^2]: Afir Dirlik, *Anarchism in the Chinese Revolution* (Berkeley and
     Los Angeles: Regents of the University of California, 1991), ch. 4.
     Michael Schmidt,
-    <a href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
+    <a href="Cartography_of_Revolutionary_Anarchism" class="wikilink"
     title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 
@@ -45,7 +45,7 @@ was "an anarchist commune for a year."[^6]
 [^4]: Hwang, "Korean Anarchism Before 1945".
 
 [^5]: Schmidt,
-    <a href="Cartography_of_Revolutionary_Anarchism.md" class="wikilink"
+    <a href="Cartography_of_Revolutionary_Anarchism" class="wikilink"
     title="Cartography of Revolutionary Anarchism">Cartography of
     Revolutionary Anarchism</a>.
 

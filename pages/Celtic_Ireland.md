@@ -2,13 +2,13 @@
 
 **Celtic Ireland** (also known as **Gaelic Ireland**) represents one of
 the most significant examples of large-scale
-<a href="stateless_society.md" class="wikilink"
+<a href="stateless_society" class="wikilink"
 title="stateless society">stateless society</a> in European history. For
 over two millennia, from roughly the 5th century BCE until the final
 English conquest in 1603, Irish society operated without centralized
 state authority, instead organizing itself through voluntary
 associations, kinship networks, and
-<a href="direct_democracy.md" class="wikilink"
+<a href="direct_democracy" class="wikilink"
 title="direct democracy">direct democracy</a>. This system demonstrates
 that complex, technologically advanced societies can flourish without
 hierarchical state control.
@@ -26,9 +26,9 @@ As D.A. Binchy, the leading expert on ancient Irish law, observed:
 "there was no legislature, no bailiffs, no police, no public enforcement
 of justice" and "no trace of State-administered justice."[^3] Each túath
 was completely autonomous, with its own democratic assemblies, elected
-leadership, and <a href="restorative_justice.md" class="wikilink"
+leadership, and <a href="restorative_justice" class="wikilink"
 title="restorative justice">restorative justice</a> system based on the
-<a href="Brehon_Laws.md" class="wikilink" title="Brehon Laws">Brehon
+<a href="Brehon_Laws" class="wikilink" title="Brehon Laws">Brehon
 Laws</a>.
 
 The success and longevity of this system challenges fundamental
@@ -48,7 +48,7 @@ and community consensus. Unlike feudal European societies, there was no
 concept of divine right to rule or permanent class domination.
 
 The culture emphasized
-<a href="mutual_aid.md" class="wikilink" title="mutual aid">mutual aid</a>,
+<a href="mutual_aid" class="wikilink" title="mutual aid">mutual aid</a>,
 collective responsibility, and voluntary association. The extensive
 kinship networks that formed the backbone of society were not merely
 biological but included adopted members, fostered children, and
@@ -58,9 +58,9 @@ voluntary clients who chose to affiliate with particular clans.[^5]
 
 Knowledge, law, and culture were transmitted through sophisticated oral
 traditions maintained by professional classes including
-<a href="Brehons.md" class="wikilink" title="Brehons">Brehons</a> (judges),
-<a href="druids.md" class="wikilink" title="druids">druids</a>,
-<a href="bards.md" class="wikilink" title="bards">bards</a>, and
+<a href="Brehons" class="wikilink" title="Brehons">Brehons</a> (judges),
+<a href="druids" class="wikilink" title="druids">druids</a>,
+<a href="bards" class="wikilink" title="bards">bards</a>, and
 historians. This system prevented the crystallization of written law
 that could be manipulated by ruling elites, keeping legal interpretation
 close to community consensus and customary practice.[^6]
@@ -93,7 +93,7 @@ members.[^10]
 Each túath operated through annual assemblies that exercised ultimate
 sovereignty. These assemblies decided all common policies, declared war
 or peace with other túatha, and elected or deposed their leaders.[^11]
-This represented genuine <a href="direct_democracy.md" class="wikilink"
+This represented genuine <a href="direct_democracy" class="wikilink"
 title="direct democracy">direct democracy</a> where all free members had
 voice and vote.
 
@@ -122,12 +122,12 @@ not make unilateral decisions or override community consensus.[^14]
 ### Brehon Law System
 
 The legal system, known as
-<a href="Brehon_Law.md" class="wikilink" title="Brehon Law">Brehon Law</a>,
+<a href="Brehon_Law" class="wikilink" title="Brehon Law">Brehon Law</a>,
 operated without state enforcement. Professional jurists called Brehons
 served as arbitrators and advisors, but their authority derived from
 community respect and legal knowledge rather than coercive power.[^15]
 
-The system emphasized <a href="restorative_justice.md" class="wikilink"
+The system emphasized <a href="restorative_justice" class="wikilink"
 title="restorative justice">restorative justice</a> over punishment,
 focusing on compensation and community healing rather than vengeance.
 Disputes were resolved through negotiation, arbitration, and community
@@ -191,7 +191,7 @@ destruction associated with capitalist exploitation.[^23]
 
 While some libertarian scholars like Murray Rothbard have characterized
 Celtic Ireland as an early form of
-<a href="anarcho-capitalism.md" class="wikilink"
+<a href="anarcho-capitalism" class="wikilink"
 title="anarcho-capitalism">anarcho-capitalism</a>, this interpretation
 misunderstands the fundamental economic relationships that governed
 Irish society.
@@ -260,7 +260,7 @@ with the last holdouts defeated in 1603, ending what historians called
 
 Even after formal conquest, elements of the túath system and Brehon law
 continued to operate in parallel with English law. The
-<a href="Irish_Confederate_Wars.md" class="wikilink"
+<a href="Irish_Confederate_Wars" class="wikilink"
 title="Irish Confederate Wars">Irish Confederate Wars</a> of the 1640s
 represented an attempt to restore Irish self-governance, while Jacobite
 rebellions continued the tradition of resistance to centralized state
@@ -277,31 +277,31 @@ scale.
 
 The túath system prefigures many modern anarchist proposals including:
 
-- **<a href="Anti-statism.md" class="wikilink"
+- **<a href="Anti-statism" class="wikilink"
   title="Anti-statism">Anti-statism</a>**: Over 2000 years without
   centralized government
-- **<a href="Federalism.md" class="wikilink" title="Federalism">Federalism</a>**:
+- **<a href="Federalism" class="wikilink" title="Federalism">Federalism</a>**:
   Voluntary associations of autonomous communities
-- **<a href="Direct_Democracy.md" class="wikilink"
+- **<a href="Direct_Democracy" class="wikilink"
   title="Direct Democracy">Direct Democracy</a>**: Popular assemblies
   with real decision-making power
-- **<a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>**:
+- **<a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>**:
   Collective provision and social insurance without state welfare
-- **<a href="Restorative_Justice.md" class="wikilink"
+- **<a href="Restorative_Justice" class="wikilink"
   title="Restorative Justice">Restorative Justice</a>**: Community-based
   conflict resolution without prisons
-- **<a href="Anti-authoritarianism.md" class="wikilink"
+- **<a href="Anti-authoritarianism" class="wikilink"
   title="Anti-authoritarianism">Anti-authoritarianism</a>**: Rotating
   leadership and resistance to permanent hierarchy
-- **<a href="Voluntary_Association.md" class="wikilink"
+- **<a href="Voluntary_Association" class="wikilink"
   title="Voluntary Association">Voluntary Association</a>**: Freedom to
   join or leave political communities
-- **<a href="Decentralization.md" class="wikilink"
+- **<a href="Decentralization" class="wikilink"
   title="Decentralization">Decentralization</a>**: Local control over
   local affairs
 
 The system proves that
-<a href="anarchy.md" class="wikilink" title="anarchy">anarchy</a> - the
+<a href="anarchy" class="wikilink" title="anarchy">anarchy</a> - the
 absence of rulers rather than the absence of order - can provide stable
 governance even for large, complex societies over extended periods.
 
@@ -334,21 +334,21 @@ governance even for large, complex societies over extended periods.
 - Peden, Joseph R. "Property Rights in Celtic Irish Law." *Journal of
   Libertarian Studies* 1, no. 2 (1977): 81-95.
 
-<a href="Category:Past_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Past_Anarchist_Societies" class="wikilink"
 title="Category:Past Anarchist Societies">Category:Past Anarchist
-Societies</a> <a href="Category:Celtic_Societies.md" class="wikilink"
+Societies</a> <a href="Category:Celtic_Societies" class="wikilink"
 title="Category:Celtic Societies">Category:Celtic Societies</a>
-<a href="Category:Stateless_Societies.md" class="wikilink"
+<a href="Category:Stateless_Societies" class="wikilink"
 title="Category:Stateless Societies">Category:Stateless Societies</a>
-<a href="Category:Direct_Democracy.md" class="wikilink"
+<a href="Category:Direct_Democracy" class="wikilink"
 title="Category:Direct Democracy">Category:Direct Democracy</a>
-<a href="Category:Before_Common_Era.md" class="wikilink"
+<a href="Category:Before_Common_Era" class="wikilink"
 title="Category:Before Common Era">Category:Before Common Era</a>
-<a href="Category:Medieval_Period.md" class="wikilink"
+<a href="Category:Medieval_Period" class="wikilink"
 title="Category:Medieval Period">Category:Medieval Period</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:AnarWiki.md" class="wikilink"
+Communities</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Peace Requires Anarchy. "Stateless Societies: Ancient Ireland."

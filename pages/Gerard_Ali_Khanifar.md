@@ -1,5 +1,5 @@
 **Gerard Ali Khanifar** (10 August 1950 - 21 February 1997) was a French
-<a href="anarchism.md" class="wikilink" title="anarchist">anarchist</a> and
+<a href="anarchism" class="wikilink" title="anarchist">anarchist</a> and
 worker at Michelin.
 
 ## Biography
@@ -17,18 +17,18 @@ to the French national census to appear in court.
 
 He was blacklisted by employers and obtained a diploma in 1993, having
 studied the work of
-<a href="Mikhail_Bakunin.md" class="wikilink" title="Bakunin">Bakunin</a>.
+<a href="Mikhail_Bakunin" class="wikilink" title="Bakunin">Bakunin</a>.
 
 ## See also
 
-- <a href="Anarchism_in_France.md" class="wikilink"
+- <a href="Anarchism_in_France" class="wikilink"
   title="Anarchism in France">Anarchism in France</a>
 
 ## References
 
 <https://libcom.org/article/khanifar-gerard-ali-1950-1997>
 
-<a href="Category:_French_anarchists.md" class="wikilink"
+<a href="Category:_French_anarchists" class="wikilink"
 title="Category: French anarchists">Category: French anarchists</a>
-<a href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>

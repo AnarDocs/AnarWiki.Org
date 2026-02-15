@@ -1,4 +1,4 @@
-From Colin Ward, <a href="Anarchy_in_Action.md" class="wikilink"
+From Colin Ward, <a href="Anarchy_in_Action" class="wikilink"
 title="Anarchy in Action">Anarchy in Action</a>:
 
 > The Dinka are a people numbering some 900,000 living on the fringe of

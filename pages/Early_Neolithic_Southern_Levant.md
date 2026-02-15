@@ -10,16 +10,16 @@ sophisticated conflict resolution mechanisms that maintained peace for
 millennia.
 
 This period encompassed the transition from the
-<a href="Natufian_culture.md" class="wikilink"
+<a href="Natufian_culture" class="wikilink"
 title="Natufian culture">Natufian culture</a> through the
-<a href="Pre-Pottery_Neolithic_A.md" class="wikilink"
+<a href="Pre-Pottery_Neolithic_A" class="wikilink"
 title="Pre-Pottery Neolithic A">Pre-Pottery Neolithic A</a> (PPNA, c.
-10,000-9,000 BCE), <a href="Pre-Pottery_Neolithic_B.md" class="wikilink"
+10,000-9,000 BCE), <a href="Pre-Pottery_Neolithic_B" class="wikilink"
 title="Pre-Pottery Neolithic B">Pre-Pottery Neolithic B</a> (PPNB, c.
-9,000-7,000 BCE), <a href="Pre-Pottery_Neolithic_C.md" class="wikilink"
+9,000-7,000 BCE), <a href="Pre-Pottery_Neolithic_C" class="wikilink"
 title="Pre-Pottery Neolithic C">Pre-Pottery Neolithic C</a> (PPNC, c.
 7,000-6,400 BCE), and into the early
-<a href="Pottery_Neolithic.md" class="wikilink"
+<a href="Pottery_Neolithic" class="wikilink"
 title="Pottery Neolithic">Pottery Neolithic</a> period (c. 6,400-5,000
 BCE).
 
@@ -28,19 +28,19 @@ BCE).
 ### Emergence from Hunter-Gatherer Societies
 
 The Neolithic transformation in the Southern Levant emerged from the
-<a href="Natufian_culture.md" class="wikilink"
+<a href="Natufian_culture" class="wikilink"
 title="Natufian culture">Natufian culture</a> (c. 12,500-10,000 BCE),
 which had already established semi-sedentary communities. During the
 Early Natufian phase, the first seemingly permanent villages appeared,
 consisting of small, rounded dwellings at sites such as
-<a href="Mallaha.md" class="wikilink" title="Mallaha">Mallaha</a>,
-<a href="Hayonim.md" class="wikilink" title="Hayonim">Hayonim</a>, and
-<a href="Wadi_Hammeh_27.md" class="wikilink" title="Wadi Hammeh 27">Wadi
+<a href="Mallaha" class="wikilink" title="Mallaha">Mallaha</a>,
+<a href="Hayonim" class="wikilink" title="Hayonim">Hayonim</a>, and
+<a href="Wadi_Hammeh_27" class="wikilink" title="Wadi Hammeh 27">Wadi
 Hammeh 27</a>.[^1]
 
 The transition coincided with significant climatic changes. The end of
 the
-<a href="Younger_Dryas.md" class="wikilink" title="Younger Dryas">Younger
+<a href="Younger_Dryas" class="wikilink" title="Younger Dryas">Younger
 Dryas</a> period (c. 11,000-9,700 BCE) brought warmer, more humid
 conditions that favored agricultural development. The subsequent Early
 Holocene marked the wettest climatic phase observed in the Levant over
@@ -49,12 +49,12 @@ the last 25,000 years.[^2]
 ### Agricultural Revolution
 
 The adoption of agriculture in the Southern Levant was part of a broader
-transformation across the <a href="Fertile_Crescent.md" class="wikilink"
+transformation across the <a href="Fertile_Crescent" class="wikilink"
 title="Fertile Crescent">Fertile Crescent</a>. The region became a
 center for the domestication of key crops including barley,
-<a href="emmer_wheat.md" class="wikilink" title="emmer wheat">emmer
+<a href="emmer_wheat" class="wikilink" title="emmer wheat">emmer
 wheat</a>,
-<a href="einkorn.md" class="wikilink" title="einkorn">einkorn</a>, lentils,
+<a href="einkorn" class="wikilink" title="einkorn">einkorn</a>, lentils,
 and peas. These "founder crops" formed the basis of the Neolithic
 agricultural package that would later spread across much of the ancient
 world.[^3]
@@ -176,7 +176,7 @@ used to maintain peace:
 
 Archaeological evidence indicates the development of ritual centers that
 served multiple communities and facilitated peaceful interaction. Sites
-like <a href="Gilat.md" class="wikilink" title="Gilat">Gilat</a> functioned
+like <a href="Gilat" class="wikilink" title="Gilat">Gilat</a> functioned
 as neutral meeting grounds where different groups could engage in
 ceremonial activities and trade.[^14]
 
@@ -225,9 +225,9 @@ to have been managed through mechanisms that prevented resource
 competition and social stratification.[^18]
 
 Large settlements like
-<a href="Ain_Ghazal.md" class="wikilink" title="Ain Ghazal">Ain Ghazal</a>
-and <a href="Basta.md" class="wikilink" title="Basta">Basta</a> in Jordan,
-and <a href="Sha&#39;ar_Hagolan.md" class="wikilink"
+<a href="Ain_Ghazal" class="wikilink" title="Ain Ghazal">Ain Ghazal</a>
+and <a href="Basta" class="wikilink" title="Basta">Basta</a> in Jordan,
+and <a href="Sha&#39;ar_Hagolan" class="wikilink"
 title="Sha&#39;ar Hagolan">Sha'ar Hagolan</a> in the later Pottery
 Neolithic, housed thousands of residents while maintaining egalitarian
 social structures. Population estimates for these sites range from 1,500
@@ -253,7 +253,7 @@ community structures and residential complexes.[^21]
 Beyond female figurines, Neolithic communities produced a rich array of
 artistic objects including carved stone vessels, decorative pottery, and
 architectural ornamentation. Wall paintings at sites like
-<a href="Teleilat_Ghassul.md" class="wikilink"
+<a href="Teleilat_Ghassul" class="wikilink"
 title="Teleilat Ghassul">Teleilat Ghassul</a> depict complex scenes that
 may represent communal narratives rather than elite propaganda.[^22]
 
@@ -320,20 +320,20 @@ abandonment of egalitarian principles.
 
 <references/>
 
-<a href="Category:Past_Anarchist_Societies.md" class="wikilink"
+<a href="Category:Past_Anarchist_Societies" class="wikilink"
 title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a>
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Anarchist_Societies.md" class="wikilink"
+Communities</a> <a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:Before_Common_Era.md" class="wikilink"
+<a href="Category:Before_Common_Era" class="wikilink"
 title="Category:Before Common Era">Category:Before Common Era</a>
-<a href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: A. Nigel Goring-Morris and Anna Belfer-Cohen, "Neolithization

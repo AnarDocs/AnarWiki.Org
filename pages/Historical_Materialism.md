@@ -308,47 +308,47 @@ initiatives**.
 
 ## See Also
 
-- <a href="Marxism.md" class="wikilink" title="Marxism">Marxism</a>
-- <a href="Dialectics.md" class="wikilink" title="Dialectics">Dialectics</a>
-- <a href="Anarchism.md" class="wikilink" title="Anarchism">Anarchism</a>
-- <a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
-- <a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+- <a href="Marxism" class="wikilink" title="Marxism">Marxism</a>
+- <a href="Dialectics" class="wikilink" title="Dialectics">Dialectics</a>
+- <a href="Anarchism" class="wikilink" title="Anarchism">Anarchism</a>
+- <a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+- <a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
   Kropotkin</a>
-- <a href="Mikhail_Bakunin.md" class="wikilink"
+- <a href="Mikhail_Bakunin" class="wikilink"
   title="Mikhail Bakunin">Mikhail Bakunin</a>
-- <a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+- <a href="Pierre-Joseph_Proudhon" class="wikilink"
   title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>
-- <a href="David_Graeber.md" class="wikilink" title="David Graeber">David
+- <a href="David_Graeber" class="wikilink" title="David Graeber">David
   Graeber</a>
-- <a href="Money.md" class="wikilink" title="Money">Money</a>
-- <a href="Debt.md" class="wikilink" title="Debt">Debt</a>
-- <a href="Wage_Labor.md" class="wikilink" title="Wage Labor">Wage Labor</a>
-- <a href="Workers&#39;_Self-Management.md" class="wikilink"
+- <a href="Money" class="wikilink" title="Money">Money</a>
+- <a href="Debt" class="wikilink" title="Debt">Debt</a>
+- <a href="Wage_Labor" class="wikilink" title="Wage Labor">Wage Labor</a>
+- <a href="Workers&#39;_Self-Management" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a>
-- <a href="Anarcho-Communism.md" class="wikilink"
+- <a href="Anarcho-Communism" class="wikilink"
   title="Anarcho-Communism">Anarcho-Communism</a>
-- <a href="Collectivist_Anarchism.md" class="wikilink"
+- <a href="Collectivist_Anarchism" class="wikilink"
   title="Collectivist Anarchism">Collectivist Anarchism</a>
 
 ## References
 
 <references/>
 
-<a href="Category:Marxism.md" class="wikilink"
+<a href="Category:Marxism" class="wikilink"
 title="Category:Marxism">Category:Marxism</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Ideologies.md" class="wikilink"
+<a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
-<a href="Category:Economic_Systems.md" class="wikilink"
+<a href="Category:Economic_Systems" class="wikilink"
 title="Category:Economic Systems">Category:Economic Systems</a>
-<a href="Category:Historical_Theory.md" class="wikilink"
+<a href="Category:Historical_Theory" class="wikilink"
 title="Category:Historical Theory">Category:Historical Theory</a>
-<a href="Category:Anarchist_Theory.md" class="wikilink"
+<a href="Category:Anarchist_Theory" class="wikilink"
 title="Category:Anarchist Theory">Category:Anarchist Theory</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Controversial_Concepts.md" class="wikilink"
+<a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>
 

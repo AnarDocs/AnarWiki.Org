@@ -1,5 +1,5 @@
 From
-<a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > At the end of the ‘90s, the World Bank threatened not to renew a major

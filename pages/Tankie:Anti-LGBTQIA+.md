@@ -351,3 +351,10 @@
   international left. Outside of government affairs, LGBT communities
   often overlaps with anarchism or libertarian Marxism and thus are
   repressed by the state for political affiliations
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

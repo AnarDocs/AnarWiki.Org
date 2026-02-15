@@ -1,5 +1,5 @@
 **Note: This section began as
-<a href="Wikipedia:Free_and_Open_Source_Software.md" class="wikilink"
+<a href="Wikipedia:Free_and_Open_Source_Software" class="wikilink"
 title="FOSS">FOSS</a> recommendations, but has grown beyond software
 into hardware and more general advice.**
 
@@ -10,7 +10,7 @@ into hardware and more general advice.**
 <figcaption>Wesnoth.svg</figcaption>
 </figure>
 
-- The U.S. <a href="Wikipedia:PRISM.md" class="wikilink"
+- The U.S. <a href="Wikipedia:PRISM" class="wikilink"
   title="PRISM Surveillance program">PRISM Surveillance program</a> has
   now been laid bare, and we should all be worried about it. Many of the
   recommendations below provide relief from surveillance or at least
@@ -18,12 +18,12 @@ into hardware and more general advice.**
   avoid PRISM, see [PRISM Break](http://prism-break.org) and [Tactical
   Tech](https://alternatives.tacticaltech.org).
 - Check out our
-  <a href="Libre_Recommendations#Privacy_&amp;_Anonymity.md" class="wikilink"
+  <a href="Libre_Recommendations#Privacy_&amp;_Anonymity" class="wikilink"
   title="recommendations for Privacy and Anonymity">recommendations for
   Privacy and Anonymity</a>
 - For more detailed guides to self-defense, see the [SSD
   Project](https://ssd.eff.org/) and
-  <a href="Libre_Recommendations#Riseup.net.md" class="wikilink"
+  <a href="Libre_Recommendations#Riseup.net" class="wikilink"
   title="Riseup.net">Riseup.net</a>'s [primer on
   security](https://help.riseup.net/en/security).
 
@@ -59,11 +59,11 @@ width="64" alt="Openlogo-debianV2.svg" /> Definition
 
 - **These programs fit the [free software
   definition](https://www.gnu.org/philosophy/free-sw.html)
-  (<a href="Wikipedia:Free_software.md" class="wikilink"
+  (<a href="Wikipedia:Free_software" class="wikilink"
   title="libre">libre</a>) and are also
-  <a href="Wikipedia:Freeware.md" class="wikilink"
+  <a href="Wikipedia:Freeware" class="wikilink"
   title="freeware">freeware</a>
-  (<a href="Wikipedia:Gratis_versus_libre.md" class="wikilink"
+  (<a href="Wikipedia:Gratis_versus_libre" class="wikilink"
   title="gratis">gratis</a>).**
 - These programs fit the [Debian Free Software
   Guidelines](http://www.debian.org/social_contract#guidelines).
@@ -78,16 +78,16 @@ alt="Gnulinux.svg" /> General
   illusion**, and [Apple doesn't respect our
   freedom](http://www.defectivebydesign.org/apple).
 - Many of the programs listed below are developed on
-  <a href="Wikipedia:GNU_Linux.md" class="wikilink"
+  <a href="Wikipedia:GNU_Linux" class="wikilink"
   title="GNU/Linux">GNU/Linux</a>, and then
-  <a href="Wikipedia:Porting.md" class="wikilink" title="ported">ported</a>
+  <a href="Wikipedia:Porting" class="wikilink" title="ported">ported</a>
   to Windows. As such, they're likely to work better on GNU/Linux. See
-  the <a href="Free_Skool:Software#GNU.2FLinux.md" class="wikilink"
+  the <a href="Free_Skool:Software#GNU.2FLinux" class="wikilink"
   title="GNU/Linux options">GNU/Linux options</a> below if you'd like to
   try out a new and exciting operating system, and get out of the Mac
   vs. PC rut.
 - Due to a malfunction in
-  <a href="User:Diggity.md" class="wikilink" title="Diggity">Diggity</a>'s
+  <a href="User:Diggity" class="wikilink" title="Diggity">Diggity</a>'s
   reality distortion field, most of the individual apps listed below are
   for Windows. That [awful proprietary OS](http://en.windows7sins.org)
   is still widely installed, so it can be a starting point for FOSS
@@ -98,13 +98,13 @@ alt="Gnulinux.svg" /> General
   accompanying note. GNU/Linux users generally don't need to search
   around the Web and download individual packages/tarballs/binaries,
   since modern distributions have
-  <a href="Wikipedia:Package_management_system.md" class="wikilink"
+  <a href="Wikipedia:Package_management_system" class="wikilink"
   title="package management systems">package management systems</a>.
 
 ### GNU/Linux
 
 ### <img src="Trisquel.svg" title="Trisquel.svg" width="32"
-alt="Trisquel.svg" /> Recommended <a href="Wikipedia:Linux_distribution.md" class="wikilink"
+alt="Trisquel.svg" /> Recommended <a href="Wikipedia:Linux_distribution" class="wikilink"
 title="Distros">Distros</a>
 
 If you would like to try a libre, gratis, and freedom-respecting (i.e.
@@ -124,7 +124,7 @@ non-spying) operating system, please take a look at:
 - Most of these GNU/Linux distributions are Debian-based. See the
   [Debian Social Contract](http://www.debian.org/social_contract) to
   learn more about that excellent project.
-- <a href="Technical_Resources#Trisquel_GNU.2FLinux.md" class="wikilink"
+- <a href="Technical_Resources#Trisquel_GNU.2FLinux" class="wikilink"
   title="Video tutorial and review of Trisqel">Video tutorial and review
   of Trisqel</a>
 - Other alternatives include [Linux Mint](http://linuxmint.com),
@@ -136,9 +136,9 @@ non-spying) operating system, please take a look at:
 - You don't have to be tied to your OS and should instead look at the
   [huge variety of alternatives](http://distrowatch.org).
 - More help installing/configuring a
-  <a href="Wikipedia:List_of_Linux_distributions#Debian-based.md"
+  <a href="Wikipedia:List_of_Linux_distributions#Debian-based"
   class="wikilink" title="Debian-based">Debian-based</a> or
-  <a href="Wikipedia:List_of_Linux_distributions#Ubuntu-based.md"
+  <a href="Wikipedia:List_of_Linux_distributions#Ubuntu-based"
   class="wikilink" title="Ubuntu-based">Ubuntu-based</a> system (like
   [Trisquel](http://trisquel.info) and [Parsix](http://parsix.org)):
   - *The Official Ubuntu Book* \|
@@ -201,7 +201,7 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
   [VirtualBox](https://en.wikipedia.org/wiki/Virtualbox). Read [more
   about this approach](https://lwn.net/Articles/520106/) before trying.
 - See our section on
-  <a href="Libre_Recommendations#Web_Browsers.md" class="wikilink"
+  <a href="Libre_Recommendations#Web_Browsers" class="wikilink"
   title="Web Browsers">Web Browsers</a> for private browsing options.
 
 ## Graphics
@@ -351,11 +351,11 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
   [OpenStreetMap](http://www.openstreetmap.org/),
   [Startpage](https://www.startpage.com/),
   [Ixquick](https://www.ixquick.com/), and
-  <a href="Software_Recommendations#Riseup.net.md" class="wikilink"
+  <a href="Software_Recommendations#Riseup.net" class="wikilink"
   title="Riseup.net">Riseup.net</a>'s services instead of relying upon
   Google (and its much smaller "rivals").
   - Please read our
-    <a href="DuckDuckGo.md" class="wikilink" title="page on DuckDuckGo">page on
+    <a href="DuckDuckGo" class="wikilink" title="page on DuckDuckGo">page on
     DuckDuckGo</a> for an overview of potential problems with the
     alternative search engines, including DuckDuckGo. The search engine
     waters are very murky, but the alternatives are still much better
@@ -384,7 +384,7 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
   Thunderbird](https://www.mozilla.org/thunderbird) as [Lightning
   Calendar](https://addons.mozilla.org/en-US/thunderbird/addon/lightning/).
 - [Bitmessage](https://bitmessage.org): Private messaging software based
-  on <a href="Bitcoin.md" class="wikilink" title="Bitcoin">Bitcoin</a>,
+  on <a href="Bitcoin" class="wikilink" title="Bitcoin">Bitcoin</a>,
   intended for e-mail-like communication but with [much more
   potential](https://bitcointalk.org/index.php?topic=212490.0).
 
@@ -393,7 +393,7 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
 - Private e-mail and calendar requires a privacy-respecting host.
   Lavabit and Silent Mail have closed down, and there aren't many
   options for third-party providers left. Consider the
-  <a href="Libre_Recommendations#Riseup.net.md" class="wikilink"
+  <a href="Libre_Recommendations#Riseup.net" class="wikilink"
   title="Riseup.net">Riseup.net</a> option (although you have to be
   invited to get an @riseup.net account) or paying for a service like
   [MyKolab](http://mykolab.com) (it's recommended by [pj at
@@ -415,7 +415,7 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
 - [XChat](http://xchat.org/): Allows you to join multiple IRC channels,
   chat one-on-one, and transfer files.
 - [Bitmessage](https://bitmessage.org): Private messaging software based
-  on <a href="Bitcoin.md" class="wikilink" title="Bitcoin">Bitcoin</a>,
+  on <a href="Bitcoin" class="wikilink" title="Bitcoin">Bitcoin</a>,
   intended for e-mail-like communication but with [much more
   potential](https://bitcointalk.org/index.php?topic=212490.0).
 - [BitTorrent
@@ -445,7 +445,7 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
   Deluge includes advanced [encryption
   settings](https://en.wikipedia.org/wiki/Deluge_%28software%29#Features).
   - Instructions for
-    <a href="Bittorrent.md" class="wikilink" title="setting up Deluge">setting
+    <a href="Bittorrent" class="wikilink" title="setting up Deluge">setting
     up Deluge</a>.
 - [RetroShare](http://retroshare.sourceforge.net/):
   [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
@@ -460,10 +460,10 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
   Replacement for Dropbox, [Ubuntu One](https://one.ubuntu.com/).
 - [OneSwarm](http://www.oneswarm.org/): A file sharing program that
   utilizes
-  <a href="Bittorrent.md" class="wikilink" title="Bittorrent">Bittorrent</a>
+  <a href="Bittorrent" class="wikilink" title="Bittorrent">Bittorrent</a>
   for strong anonymity.
   - Still not sure what
-    <a href="Bittorrent.md" class="wikilink" title="Bittorrent">Bittorrent</a>
+    <a href="Bittorrent" class="wikilink" title="Bittorrent">Bittorrent</a>
     is? Familiarize yourself with it through this great paper, [Why My
     Printer Received a DMCA Takedown
     Notice](http://www.michaelpiatek.com//papers/piatek_hotsec08.pdf).
@@ -558,11 +558,11 @@ alt="Tor_logo1.png" /> Privacy & Anonymity
 
 #### Animated GIFs
 
-**<a href="Animated_GIFs.md" class="wikilink" title="See our tutorial">See
+**<a href="Animated_GIFs" class="wikilink" title="See our tutorial">See
 our tutorial</a> on creating high-quality GIFs.**
 
 - Should be edited by a photo editor like [GIMP](http://gimp.org) or one
-  of the <a href="Libre_Recommendations#Photo_Editors.md" class="wikilink"
+  of the <a href="Libre_Recommendations#Photo_Editors" class="wikilink"
   title="options above">options above</a>.
 - [LICEcap GIF recorder](http://www.cockos.com/licecap/): for creating
   animated GIF "screencasts", alternative to
@@ -863,7 +863,7 @@ Keep in mind, when you take out a hosting account you are **signing up
 for space and a service on a company's computer**, somewhere "out there"
 on the Web. You should read through the Web host's privacy policy, terms
 of service, and any other agreements before you sign up.
-<a href="Project:About.md" class="wikilink" title="Get Libre">Get Libre</a>
+<a href="Project:About" class="wikilink" title="Get Libre">Get Libre</a>
 runs on [DreamHost](http://dreamhost.com).
 
 ## Local Web Hosting
@@ -873,7 +873,7 @@ machine.
 
 - [XAMPP](http://www.apachefriends.org/en/xampp.html) for Windows
 - [MAMP](http://www.mamp.info/en/mamp/) for Mac OSX.
-- On <a href="Software_Recommendations#GNU.2FLinux.md" class="wikilink"
+- On <a href="Software_Recommendations#GNU.2FLinux" class="wikilink"
   title="GNU/Linux systems">GNU/Linux systems</a>, please see your
   [package
   manager](https://en.wikipedia.org/wiki/Package_management_system)
@@ -926,7 +926,7 @@ privacy!). Recommend services:
   resources useful.
 - We're building a section based upon RiseUp.net's resources, please
   send substantial text contributions to
-  <a href="Communication_Security.md" class="wikilink"
+  <a href="Communication_Security" class="wikilink"
   title="that section">that section</a> back to <waxwing@riseup.net>.
   Also, check out the projects they're working on and [see if you can
   help out](https://help.riseup.net/en/programmers-wanted).

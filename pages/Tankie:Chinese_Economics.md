@@ -884,3 +884,10 @@
   this key link. Still his theme of ‘white cat, black cat,’ making no
   distinction between imperialism and Marxism.”- Mao Zedong on Deng
   Xiaoping
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

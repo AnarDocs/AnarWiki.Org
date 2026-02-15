@@ -1,5 +1,24 @@
 # Anti-work
 
+Marxism-Leninism (especially of the Tankie kind), despite critiquing
+capitalist exploitation, fundamentally retains the view that humans
+exist primarily as productive workers—merely redirecting that
+productivity toward "the people" or "the revolution" rather than private
+capital. While Marx distinguished between alienated labor under
+capitalism and freely chosen creative production, his vision of
+communist freedom remains centered on varied productive activities
+rather than questioning the expectation of productivity itself. This
+productivist logic intensifies under Marxist-Leninist stagism: during
+the "lower phase" of socialism, compensation remains tied to productive
+contribution ("from each according to ability, to each according to
+work"), while liberation gets perpetually deferred to a future "higher
+phase" once productive forces develop sufficiently. In contrast to some
+other socialist approaches (such as anarchism) which that seek to
+immediately transform social relations, Marxism-Leninism asks people to
+accept their identity as productive workers indefinitely—demanding that
+multiple generations sacrifice their freedom today to build the material
+conditions for liberation tomorrow, a tomorrow that never quite arrives.
+
 ### Anti-Work
 
 - “Work, Community, Politics, War”
@@ -103,3 +122,10 @@ http://libgen.rs/book/index.php?md5=9EAABD3D61D0EDDF9E6282F11F917CBD
 - "Troploin” <http://troploin.fr/> \[FR\]
 - "Hic Salta - Communisation” <http://www.hicsalta-communisation.com/>
   \[EN, ES, IT\]
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

@@ -1,7 +1,5 @@
 # Environmental
 
-ADVERTISEMENT
-
 - “Imperialism in the Twenty-First Century” by John Smith
   <https://monthlyreview.org/2015/07/01/imperialism-in-the-twenty-first-century/>
   \[EN\]
@@ -757,3 +755,10 @@ ADVERTISEMENT
   growth, they probably picked up the ideas from Lyndon LaRouche who
   used to be a Trotskyist then turned into a neo-fascist during the
   1970s
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

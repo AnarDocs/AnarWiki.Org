@@ -1,8 +1,10 @@
+# Abbey Of Thélème
+
 16th-century François Rabelais imagined an Abbey of Thélème, a monastery
 with no rules except "Do what you will." The name *Thélème* means "will"
 or "pleasure" in Greek.
 
-From <a href="Demanding_the_Impossible:_A_History_of_Anarchism.md"
+From <a href="Demanding_the_Impossible:_A_History_of_Anarchism"
 class="wikilink"
 title="Demanding the Impossible: A History of Anarchism">Demanding the
 Impossible: A History of Anarchism</a>:
@@ -46,7 +48,14 @@ Impossible: A History of Anarchism</a>:
 > will and pleasure’. The only rule is ‘fais ce que voudras!’ (Do what
 > you will!).
 
+## References
+
 <references/>
+
+<a href="Category:Anarchist_Utopias" class="wikilink"
+title="Category:Anarchist Utopias">Category:Anarchist Utopias</a>
+<a href="Category:Utopian_Fiction" class="wikilink"
+title="Category:Utopian Fiction">Category:Utopian Fiction</a>
 
 [^1]: François Rabelais, Gargantua and Pantagruel, Bk 1 (1534). My
     translation. See Marie Louise Berneri, Journey through Utopia

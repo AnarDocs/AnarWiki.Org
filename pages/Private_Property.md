@@ -4,28 +4,28 @@
 person has the right to exclude another from a physical space or goods
 without directly using or occupying that space, and is part of the basis
 of
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>.
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>.
 Private property differs from
-<a href="personal_property.md" class="wikilink"
+<a href="personal_property" class="wikilink"
 title="personal property">personal property</a> (items used for
-individual needs) and <a href="common_property.md" class="wikilink"
+individual needs) and <a href="common_property" class="wikilink"
 title="common property">common property</a> (shared resources) in that
 it allows owners to extract profit from others' use of resources or
 means of production.
 
 Anarchist opposition to private property is one of the most
 misunderstood aspects of anarchist theory. Contrary to popular belief,
-<a href="anarchism.md" class="wikilink" title="anarchism">anarchism</a>
+<a href="anarchism" class="wikilink" title="anarchism">anarchism</a>
 does not oppose all forms of property. Rather, it distinguishes between
 personal property - the things we use and inhabit - and private
 property - the means of production owned exclusively to extract profit
 and labour from others. This distinction forms the foundation of
 anarchist economic critique and represents a fundamental divergence from
 both
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
-and right-wing <a href="libertarianism.md" class="wikilink"
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>
+and right-wing <a href="libertarianism" class="wikilink"
 title="libertarianism">libertarianism</a> (sometimes called
-<a href="Propertarianism.md" class="wikilink"
+<a href="Propertarianism" class="wikilink"
 title="Propertarianism">Propertarianism</a>).
 
 ## Types of Property
@@ -126,10 +126,10 @@ ownership structures.[^4]
 ### Ancient Origins
 
 Property concepts emerged gradually during the
-<a href="Neolithic_Revolution.md" class="wikilink"
+<a href="Neolithic_Revolution" class="wikilink"
 title="Neolithic Revolution">Neolithic Revolution</a>, becoming
 institutionalised around 3500-3000 BCE in ancient
-<a href="Mesopotamia.md" class="wikilink"
+<a href="Mesopotamia" class="wikilink"
 title="Mesopotamia">Mesopotamia</a>. Sumerian priests declared that gods
 owned the land, making temples powerful economic centres. This religious
 concept of sacred property established patterns that continue today:
@@ -140,25 +140,25 @@ permission.
 ### Medieval Period
 
 During the
-<a href="Middle_Ages.md" class="wikilink" title="Middle Ages">Middle
+<a href="Middle_Ages" class="wikilink" title="Middle Ages">Middle
 Ages</a>, property derived from the doctrine that land was God's
 creation entrusted to earthly authorities. The
-<a href="Catholic_Church.md" class="wikilink"
+<a href="Catholic_Church" class="wikilink"
 title="Catholic Church">Catholic Church</a> advanced the idea that kings
 had divine right to dominion from God, allowing them to grant land to
 lords through
-<a href="Feudalism.md" class="wikilink" title="Feudalism">Feudalism</a>.
+<a href="Feudalism" class="wikilink" title="Feudalism">Feudalism</a>.
 This system included
-<a href="Commons.md" class="wikilink" title="common land">common land</a>
+<a href="Commons" class="wikilink" title="common land">common land</a>
 that belonged to everyone, though this was gradually seized through a
 process called
-<a href="enclosure.md" class="wikilink" title="enclosure">enclosure</a>.
+<a href="enclosure" class="wikilink" title="enclosure">enclosure</a>.
 
 ### Modern Property Theory
 
-As feudalism gave way to <a href="mercantilism.md" class="wikilink"
+As feudalism gave way to <a href="mercantilism" class="wikilink"
 title="mercantilism">mercantilism</a>, British philosopher
-<a href="John_Locke.md" class="wikilink" title="John Locke">John Locke</a>
+<a href="John_Locke" class="wikilink" title="John Locke">John Locke</a>
 (1632-1704) developed the labour theory of property, claiming that
 property rights emerged from mixing labour with nature. However, this
 theory conveniently ignored that the actual labour was typically
@@ -167,7 +167,7 @@ rights.
 
 Locke developed these ideas whilst investing in colonial ventures
 including slavery, using his theory to justify violent conquest and
-<a href="colonialism.md" class="wikilink"
+<a href="colonialism" class="wikilink"
 title="colonialism">colonialism</a> and the appropriation of indigenous
 lands. He extended his concepts to human relationships, designating
 wives, children and servants as men's 'property' - foundations that
@@ -184,10 +184,10 @@ title="Private_Property_Origins.jpg" />
 ### Proudhon's Analysis
 
 In 1840, French economist
-<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a> (1809-1865)
 published his famous declaration that
-"<a href="property_is_theft.md" class="wikilink"
+"<a href="property_is_theft" class="wikilink"
 title="property is theft">property is theft</a>." This statement, often
 misunderstood as attacking all property, specifically targeted private
 ownership of productive resources. Proudhon distinguished between
@@ -253,7 +253,7 @@ society:
 
 ### Housing and Landlordism
 
-Modern <a href="landlordism.md" class="wikilink"
+Modern <a href="landlordism" class="wikilink"
 title="landlordism">landlordism</a> exemplifies private property's
 problematic nature. Landlords often purchase existing housing stock,
 creating artificial scarcity that drives up prices and forces people
@@ -265,7 +265,7 @@ into rental relationships. This system:
 - Perpetuates cycles of poverty by preventing wealth accumulation
 
 Research shows that when rent exceeds 32% of income,
-<a href="homelessness.md" class="wikilink"
+<a href="homelessness" class="wikilink"
 title="homelessness">homelessness</a> increases dramatically,
 demonstrating the connection between property concentration and housing
 insecurity.
@@ -314,9 +314,9 @@ artificial deprivation.
 Various alternatives to private property have existed throughout
 history:
 
-- **<a href="Commons.md" class="wikilink" title="Commons">Commons</a>**:
+- **<a href="Commons" class="wikilink" title="Commons">Commons</a>**:
   Shared resources managed collectively by communities
-- **<a href="Workers&#39;_Self-Management.md" class="wikilink"
+- **<a href="Workers&#39;_Self-Management" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a>**:
   Worker ownership and control of production
 - **Indigenous Stewardship**: Traditional models of collective land care
@@ -326,10 +326,10 @@ history:
 These alternatives demonstrate that human needs can be met without the
 inequality, coercion, and environmental destruction associated with
 private property systems. Historical examples like
-<a href="Revolutionary_Catalonia.md" class="wikilink"
+<a href="Revolutionary_Catalonia" class="wikilink"
 title="Revolutionary Catalonia">Revolutionary Catalonia</a>, the
-<a href="Zapatistas.md" class="wikilink" title="Zapatistas">Zapatistas</a>,
-and <a href="Rojava.md" class="wikilink" title="Rojava">Rojava</a> show
+<a href="Zapatistas" class="wikilink" title="Zapatistas">Zapatistas</a>,
+and <a href="Rojava" class="wikilink" title="Rojava">Rojava</a> show
 complex economies functioning without private property in means of
 production.
 
@@ -355,13 +355,13 @@ Opposition to private property connects to broader anarchist principles:
 
 ## Criticisms
 
-*See Also: <a href="The_Tragedy_of_the_Anticommons.md" class="wikilink"
+*See Also: <a href="The_Tragedy_of_the_Anticommons" class="wikilink"
 title="The Tragedy of the Anticommons">The Tragedy of the
 Anticommons</a>*
 
 ### Economic Efficiency Arguments
 
-Critics, particularly <a href="Propertarianism.md" class="wikilink"
+Critics, particularly <a href="Propertarianism" class="wikilink"
 title="right-wing libertarians">right-wing libertarians</a>, argue
 private property provides essential incentives for productivity,
 innovation and efficient resource allocation. They claim historical
@@ -374,9 +374,9 @@ successful historical and contemporary commons-based systems. Innovation
 and productivity exist without profit motive, as demonstrated by free
 software, volunteer projects and cooperative enterprises. Private
 property tends to lead to lower economic efficiency and worker
-<a href="happiness.md" class="wikilink" title="happiness">happiness</a>
+<a href="happiness" class="wikilink" title="happiness">happiness</a>
 than what could be achieved via
-<a href="Workers&#39;_Self-Management.md" class="wikilink"
+<a href="Workers&#39;_Self-Management" class="wikilink"
 title="workers&#39; self-management">workers' self-management</a>.
 
 ### Practical Implementation
@@ -392,14 +392,14 @@ private ownership of productive resources.
 
 ### Summary of Critiques
 
-- Private Property tends to lead to <a href="Ecocide.md" class="wikilink"
+- Private Property tends to lead to <a href="Ecocide" class="wikilink"
   title="worse ecological outcomes">worse ecological outcomes</a> than
   what can be achieved via the
-  <a href="commons.md" class="wikilink" title="commons">commons</a>
+  <a href="commons" class="wikilink" title="commons">commons</a>
 - Private Property was established through a massive wave of historical
   violence in the form of
-  <a href="enclosure.md" class="wikilink" title="enclosure">enclosure</a>
-  and <a href="colonialism.md" class="wikilink"
+  <a href="enclosure" class="wikilink" title="enclosure">enclosure</a>
+  and <a href="colonialism" class="wikilink"
   title="colonialism">colonialism</a>
 - Private Property naturally tends to create inequalities that can lead
   to authoritarianism
@@ -441,23 +441,23 @@ private ownership of productive resources.
 
 <references/>
 
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Economics.md" class="wikilink"
+<a href="Category:Economics" class="wikilink"
 title="Category:Economics">Category:Economics</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Property.md" class="wikilink"
+<a href="Category:Property" class="wikilink"
 title="Category:Property">Category:Property</a>
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Capitalism.md" class="wikilink"
+<a href="Category:Capitalism" class="wikilink"
 title="Category:Capitalism">Category:Capitalism</a>
-<a href="Category:Anarchism.md" class="wikilink"
+<a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Featured.md" class="wikilink"
+Socialism</a> <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: When something is privatised, it becomes profit-producing rather

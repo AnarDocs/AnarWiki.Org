@@ -4,9 +4,9 @@
 to the state of being married or united to a single person, applying to
 both sexes. In contemporary usage, it describes exclusive romantic and
 sexual relationships between two people. From an
-<a href="anarchist.md" class="wikilink" title="anarchist">anarchist</a>
+<a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
 perspective, monogamy represents a complex intersection of personal
-relationships, <a href="state.md" class="wikilink" title="state">state</a>
+relationships, <a href="state" class="wikilink" title="state">state</a>
 intervention, religious authority, and social coercion that demands
 critical examination.
 
@@ -21,7 +21,7 @@ status, and the gods of Olympus frequently violated matrimonial
 contracts, making it difficult for their followers to take monogamy
 seriously as an absolute principle.[^1]
 
-<a href="Christianity.md" class="wikilink"
+<a href="Christianity" class="wikilink"
 title="Christianity">Christianity</a>, as a monotheistic religion,
 elevated monogamy to a religious and social ideal. According to
 Christian doctrine, the husband should love his wife as Christ loves the
@@ -39,7 +39,7 @@ live with them, while fathers retained extensive authority over
 children, including the right to have children under sixteen detained
 for up to one month.[^3]
 
-<a href="Jesus.md" class="wikilink" title="Jesus">Jesus</a> himself
+<a href="Jesus" class="wikilink" title="Jesus">Jesus</a> himself
 reinforced Mosaic prohibitions against divorce and adultery, declaring
 that whoever divorces and remarries commits adultery. This religious
 foundation provided the basis for legal and social structures that would
@@ -188,18 +188,18 @@ discussion.
 
 At the turn of the 20th century, anarchist feminists in the United
 States and United Kingdom challenged the role of state apparatus,
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>,
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>,
 and
-<a href="patriarchy.md" class="wikilink" title="patriarchy">patriarchy</a>
+<a href="patriarchy" class="wikilink" title="patriarchy">patriarchy</a>
 in coercing women into marriage and compulsory monogamy.
-<a href="Voltairine_de_Cleyre.md" class="wikilink"
+<a href="Voltairine_de_Cleyre" class="wikilink"
 title="Voltairine de Cleyre">Voltairine de Cleyre</a> wrote in 1907 that
 men and women should arrange their lives to remain free beings in all
 regards, with limits of abstinence or indulgence fixed by individuals
 alone, recognizing that what is normal for one may be excess for
 another.[^18]
 
-<a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+<a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
 Goldman</a> and other anarchist thinkers similarly critiqued compulsory
 monogamy as intertwined with religious authority, property relations,
 and women's subordination.[^19]
@@ -248,7 +248,7 @@ The couple form mediates women's relationships to themselves and other
 women, requiring constant production of desirability and worthiness of
 male desire. This creates isolation and alienation, with romantic
 relationships serving as supposed remedies for problems they themselves
-generate. As <a href="Valerie_Solanas.md" class="wikilink"
+generate. As <a href="Valerie_Solanas" class="wikilink"
 title="Valerie Solanas">Valerie Solanas</a> observed, male-dominated
 society consists merely of isolated family units, with men seeking to
 isolate women from other men and from life itself.[^25]
@@ -265,7 +265,7 @@ Anarchist analysis reveals how monogamy frames relationship partners as
 property. Under this framework, people "owe" or are "entitled to"
 certain levels of emotional support, attention, resources, and sexual
 access to each other's bodies. These obligations and entitlements make
-genuine <a href="consent.md" class="wikilink" title="consent">consent</a>
+genuine <a href="consent" class="wikilink" title="consent">consent</a>
 impossible, even before considering how desires themselves are
 constructed through social pressures and expectations.[^27]
 
@@ -341,7 +341,7 @@ jealousy's foundation.[^35]
 ### State Control of Intimacy
 
 Drawing on
-<a href="Adrienne_Rich.md" class="wikilink" title="Adrienne Rich">Adrienne
+<a href="Adrienne_Rich" class="wikilink" title="Adrienne Rich">Adrienne
 Rich</a>'s concept of compulsory heterosexuality, anarchists identify
 **compulsory monogamy** as a system using subtle and overt repression to
 control flows of emotional and erotic energy. The state, understood as a
@@ -382,7 +382,7 @@ outside relationships.[^40]
 ### Capitalism and Monogamy
 
 Growing up under
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>
 teaches that anything of value exists in limited supply, encouraging
 people to stake claims before being left with nothing. This scarcity
 mentality extends into romantic life, where people measure commitment
@@ -674,7 +674,7 @@ isolated and deprived of emotional connection.[^76]
 
 Abolition of boyfriend and husband forms part of historical movement
 superseding capitalism and patriarchy. As
-<a href="communism.md" class="wikilink" title="communism">communism</a>
+<a href="communism" class="wikilink" title="communism">communism</a>
 generalizes free access to goods, transforms space available for living,
 and realizes human community, it destroys foundations and economic
 functions of family while eliminating need for refuge within community.
@@ -718,17 +718,17 @@ living free, autonomous lives.[^81]
 
 ## See Also
 
-- <a href="Anarcha-Feminism.md" class="wikilink"
+- <a href="Anarcha-Feminism" class="wikilink"
   title="Anarcha-Feminism">Anarcha-Feminism</a>
-- <a href="Free_Love.md" class="wikilink" title="Free Love">Free Love</a>
-- <a href="Relationship_Anarchism.md" class="wikilink"
+- <a href="Free_Love" class="wikilink" title="Free Love">Free Love</a>
+- <a href="Relationship_Anarchism" class="wikilink"
   title="Relationship Anarchy">Relationship Anarchy</a>
-- <a href="Polyamory.md" class="wikilink" title="Polyamory">Polyamory</a>
-- <a href="Queer_Anarchism.md" class="wikilink" title="Queer Anarchism">Queer
+- <a href="Polyamory" class="wikilink" title="Polyamory">Polyamory</a>
+- <a href="Queer_Anarchism" class="wikilink" title="Queer Anarchism">Queer
   Anarchism</a>
-- <a href="Feminism.md" class="wikilink" title="Feminism">Feminism</a>
-- <a href="Patriarchy.md" class="wikilink" title="Patriarchy">Patriarchy</a>
-- <a href="Individual_Autonomy.md" class="wikilink"
+- <a href="Feminism" class="wikilink" title="Feminism">Feminism</a>
+- <a href="Patriarchy" class="wikilink" title="Patriarchy">Patriarchy</a>
+- <a href="Individual_Autonomy" class="wikilink"
   title="Individual Autonomy">Individual Autonomy</a>
 
 ## References
@@ -756,25 +756,25 @@ living free, autonomous lives.[^81]
 - Émile Armand, Anarchist Individualism and Amorous Comradeship, 1926 -
   <https://theanarchistlibrary.org/library/emile-armand-anarchist-individualism-and-amorous-comradeship>
 
-<a href="Category:Anarchist_Concepts.md" class="wikilink"
+<a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Feminism.md" class="wikilink"
+<a href="Category:Feminism" class="wikilink"
 title="Category:Feminism">Category:Feminism</a>
-<a href="Category:Relationships.md" class="wikilink"
+<a href="Category:Relationships" class="wikilink"
 title="Category:Relationships">Category:Relationships</a>
-<a href="Category:Anarcha-Feminism.md" class="wikilink"
+<a href="Category:Anarcha-Feminism" class="wikilink"
 title="Category:Anarcha-Feminism">Category:Anarcha-Feminism</a>
-<a href="Category:Queer_Theory.md" class="wikilink"
+<a href="Category:Queer_Theory" class="wikilink"
 title="Category:Queer Theory">Category:Queer Theory</a>
-<a href="Category:Libertarian_Socialism.md" class="wikilink"
+<a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Non-monogamous.md" class="wikilink"
+Socialism</a> <a href="Category:Non-monogamous" class="wikilink"
 title="Category:Non-monogamous">Category:Non-monogamous</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:AnarWiki.md" class="wikilink"
+<a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: L'Encyclopédie Anarchiste, "Monoandry, Monogamy", 1934

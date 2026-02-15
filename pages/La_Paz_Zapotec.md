@@ -2,7 +2,7 @@ Almost 2,000 Zapotec live in a Oaxacan town studied by anthropologists
 Carl O’Nell and Douglas Frygiven and given the psuedonym La Paz.[^1]
 
 From Peter Gelderloos,
-<a href="Anarchy_Works.md" class="wikilink" title="Anarchy Works">Anarchy
+<a href="Anarchy_Works" class="wikilink" title="Anarchy Works">Anarchy
 Works</a>:
 
 > The differences between two Zapotec communities illustrates that peace

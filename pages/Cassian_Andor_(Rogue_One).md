@@ -2,7 +2,7 @@
 
 **Cassian Jeron Andor**, born **Kassa**, was a human male revolutionary
 and intelligence officer for the
-<a href="Alliance_to_Restore_the_Republic.md" class="wikilink"
+<a href="Alliance_to_Restore_the_Republic" class="wikilink"
 title="Alliance to Restore the Republic">Alliance to Restore the
 Republic</a>. Distinguished among rebel operatives for his anarchist
 political philosophy and willingness to undertake morally complex
@@ -27,7 +27,7 @@ from those who would inevitably come searching for the vessel.[^4]
 
 Renamed Cassian Jeron Andor and given forged identity documents claiming
 he was born on Fest, Cassian settled on the industrial world of
-<a href="Ferrix.md" class="wikilink" title="Ferrix">Ferrix</a> with his
+<a href="Ferrix" class="wikilink" title="Ferrix">Ferrix</a> with his
 adoptive family.[^5] His early years were marked by the traumatic
 execution of his adoptive father Clem, who was hanged by Imperial clone
 stormtroopers on Rix Road in 19 BBY after being falsely accused of
@@ -58,7 +58,7 @@ leadership.[^10]
 ### Influence of Karis Nemik
 
 Andor's anarchist political consciousness was significantly shaped by
-<a href="Karis_Nemik.md" class="wikilink" title="Karis Nemik">Karis
+<a href="Karis_Nemik" class="wikilink" title="Karis Nemik">Karis
 Nemik</a>, a young rebel fighter he met during the Aldhani heist. After
 Nemik's death during the mission, he bequeathed Andor his manifesto,
 titled "The Trail of Political Consciousness."[^11] The manifesto
@@ -99,7 +99,7 @@ Following the Aldhani heist, Andor sought refuge on Niamos under the
 alias Keef Girgo. However, under the Empire's newly enacted Public Order
 Resentencing Directive—implemented in response to the Aldhani attack—he
 was arrested on false charges and sentenced to six years in the
-<a href="Narkina_5_Imperial_Prison_Complex.md" class="wikilink"
+<a href="Narkina_5_Imperial_Prison_Complex" class="wikilink"
 title="Narkina 5 Imperial Prison Complex">Narkina 5 Imperial Prison
 Complex</a>.[^16]
 
@@ -144,7 +144,7 @@ conventional means alone.[^21]
 
 Andor operated under numerous aliases including Willix, Aach, Joreth
 Sward, and the codename
-<a href="Fulcrum.md" class="wikilink" title="Fulcrum">Fulcrum</a>.[^22] He
+<a href="Fulcrum" class="wikilink" title="Fulcrum">Fulcrum</a>.[^22] He
 maintained extensive intelligence networks throughout
 Imperial-controlled space, gathering information on Imperial activities
 while recruiting agents to the rebel cause.[^23]
@@ -244,7 +244,7 @@ restore democratic governance, while Andor's politics suggested deeper
 skepticism about state structures themselves.[^36]
 
 His relationship with
-<a href="Saw_Gerrera.md" class="wikilink" title="Saw Gerrera">Saw
+<a href="Saw_Gerrera" class="wikilink" title="Saw Gerrera">Saw
 Gerrera</a>—another figure drawn to anarchist movements—proved complex.
 While both rejected hierarchical authority, Gerrera's embrace of violent
 tactics without restraint troubled Andor, who maintained that
@@ -280,14 +280,14 @@ merely idealistic.[^40]
 
 According to showrunner Tony Gilroy, Andor's character drew inspiration
 from
-<a href="Joseph_Stalin.md" class="wikilink" title="Joseph Stalin">Joseph
+<a href="Joseph_Stalin" class="wikilink" title="Joseph Stalin">Joseph
 Stalin</a>'s early career as a revolutionary fundraiser, particularly
 the bank robberies Stalin organized to finance Bolshevik
 activities.[^41] However, unlike Stalin—who sought to replace one empire
 with another—Andor never pursued personal power or leadership positions.
 
 His anarchist politics aligned more closely with figures like
-<a href="Nestor_Makhno.md" class="wikilink" title="Nestor Makhno">Nestor
+<a href="Nestor_Makhno" class="wikilink" title="Nestor Makhno">Nestor
 Makhno</a>, the Ukrainian anarchist who led peasant uprisings against
 both monarchist and Bolshevik forces. Like Makhno, Andor combined
 military effectiveness with rejection of state authority, fighting for
@@ -297,9 +297,9 @@ freedom rather than political control.[^42]
 
 <references/>
 
-<a href="Category:Fictional_Anarchists.md" class="wikilink"
+<a href="Category:Fictional_Anarchists" class="wikilink"
 title="Category:Fictional Anarchists">Category:Fictional Anarchists</a>
-<a href="Category:Fictional_Characters.md" class="wikilink"
+<a href="Category:Fictional_Characters" class="wikilink"
 title="Category:Fictional Characters">Category:Fictional Characters</a>
 
 [^1]: *Rogue One: A Star Wars Story* (2016)

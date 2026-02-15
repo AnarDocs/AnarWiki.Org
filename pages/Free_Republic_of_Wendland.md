@@ -1,5 +1,5 @@
 The Free Republic of Wendland was a
-<a href="German_anti-nuclear_movement.md" class="wikilink"
+<a href="German_anti-nuclear_movement" class="wikilink"
 title="German anti-nuclear movement">German anti-nuclear movement</a>
 blockade in Gorleben in 1980.
 
@@ -36,17 +36,17 @@ protests occurred in over 25 cities.[^2]
 
 ## References
 
-<a href="Category:Anti-Authoritarian_Communities.md" class="wikilink"
+<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:Germany.md" class="wikilink"
+Communities</a> <a href="Category:Germany" class="wikilink"
 title="Category:Germany">Category:Germany</a>
-<a href="Category:Europe.md" class="wikilink"
+<a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-<a href="Category:1977.md" class="wikilink"
+<a href="Category:1977" class="wikilink"
 title="Category:1977">Category:1977</a>
-<a href="Category:21st_Century.md" class="wikilink"
+<a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-<a href="Category:Anarchy_In_Action.md" class="wikilink"
+<a href="Category:Anarchy_In_Action" class="wikilink"
 title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 
 [^1]: Georgy Katsiaficas, *The Subversion of Politics: European

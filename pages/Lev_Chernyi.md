@@ -1,19 +1,19 @@
 **Pavel Dmitrievich Turchaninov** (1878–1921), known by his pseudonym
 **Lev Chernyi** (Lev the Black), was a Russian
-<a href="Individualist_Anarchism.md" class="wikilink"
+<a href="Individualist_Anarchism" class="wikilink"
 title="individualist anarchist">individualist anarchist</a> theorist,
 writer, and revolutionary. A leading figure in the Russian anarchist
 movement during the revolutionary period, Chernyi developed the theory
 of "associational anarchism" and served as secretary of the
-<a href="Moscow_Federation_of_Anarchist_Groups.md" class="wikilink"
+<a href="Moscow_Federation_of_Anarchist_Groups" class="wikilink"
 title="Moscow Federation of Anarchist Groups">Moscow Federation of
 Anarchist Groups</a>. He was executed by the
-<a href="Cheka.md" class="wikilink" title="Cheka">Cheka</a> in 1921
+<a href="Cheka" class="wikilink" title="Cheka">Cheka</a> in 1921
 alongside
-<a href="Fanya_Baron.md" class="wikilink" title="Fanya Baron">Fanya
+<a href="Fanya_Baron" class="wikilink" title="Fanya Baron">Fanya
 Baron</a> on fabricated charges of counterfeiting, becoming a martyr of
 the
-<a href="Bolshevism.md" class="wikilink" title="Bolshevik">Bolshevik</a>
+<a href="Bolshevism" class="wikilink" title="Bolshevik">Bolshevik</a>
 repression of anarchists.
 
 ## Early Life
@@ -38,10 +38,10 @@ wrote his foundational work *Associational Anarchism*, completing it in
 February 1906. This manifesto outlined his individualist anarchist
 philosophy based on the free association of individuals, drawing
 inspiration from
-<a href="Max_Stirner.md" class="wikilink" title="Max Stirner">Max
-Stirner</a>, <a href="Benjamin_Tucker.md" class="wikilink"
+<a href="Max_Stirner" class="wikilink" title="Max Stirner">Max
+Stirner</a>, <a href="Benjamin_Tucker" class="wikilink"
 title="Benjamin Tucker">Benjamin Tucker</a>, and
-<a href="Pierre-Joseph_Proudhon.md" class="wikilink"
+<a href="Pierre-Joseph_Proudhon" class="wikilink"
 title="Pierre-Joseph Proudhon">Pierre-Joseph Proudhon</a>.[^5]
 
 Chernyi's brother Sergey, approaching anarchism from a Marxist
@@ -53,7 +53,7 @@ Stirner's *The Ego and Its Own*.[^8]
 
 From 1906 to 1908, Chernyi was active in the *Buntar* (Rebel) group,
 through which he began a relationship with fellow anarchist
-<a href="Nina_Yagodina.md" class="wikilink" title="Nina Yagodina">Nina
+<a href="Nina_Yagodina" class="wikilink" title="Nina Yagodina">Nina
 Yagodina</a>.
 
 ### Siberian Exile
@@ -98,7 +98,7 @@ expropriative activities, Chernyi advocated for more militant action,
 including the seizure of private homes from the bourgeoisie.[^15]
 
 Following the outbreak of the Russian Civil War, Chernyi helped organize
-the <a href="Black_Guards.md" class="wikilink" title="Black Guards">Black
+the <a href="Black_Guards" class="wikilink" title="Black Guards">Black
 Guards</a>, the armed wing of the Moscow Federation of Anarchist
 Groups.[^16]
 
@@ -146,7 +146,7 @@ foundations of Bolshevism."[^25]
 ## Death
 
 During the wave of repression following the 1919 bombing, Lev Chernyi
-and <a href="Fanya_Baron.md" class="wikilink" title="Fanya Baron">Fanya
+and <a href="Fanya_Baron" class="wikilink" title="Fanya Baron">Fanya
 Baron</a> were arrested on fabricated charges of counterfeiting. The
 charges were a transparent pretext - several provocateurs, including
 agents named Shteinerov, Zekhtser, and others, had contrived the case
@@ -161,7 +161,7 @@ the world as an outstanding anarchist philosopher.[^28]
 
 The executions drew immediate protests from the Russian anarchist
 movement, including from
-<a href="Emma_Goldman.md" class="wikilink" title="Emma Goldman">Emma
+<a href="Emma_Goldman" class="wikilink" title="Emma Goldman">Emma
 Goldman</a>, who was then living in Soviet Russia. The public outcry led
 Lenin's government to order the release and immediate deportation of
 some anarchist political prisoners, while other anarchists voluntarily
@@ -178,16 +178,16 @@ killed in the Cheka torture chambers by their mean hand."[^30]
 Chernyi's "associational anarchism" represented a distinctly
 individualist approach to anarchist theory,[^31] grounded in the
 principle of free association of individuals.[^32] Together with
-<a href="Alexei_Borovoi.md" class="wikilink" title="Alexei Borovoi">Alexei
+<a href="Alexei_Borovoi" class="wikilink" title="Alexei Borovoi">Alexei
 Borovoi</a>, Chernyi was a leading figure of individualist anarchism
 during the revolutionary period in Russia.
 
-Both were inspired by <a href="Friedrich_Nietzsche.md" class="wikilink"
+Both were inspired by <a href="Friedrich_Nietzsche" class="wikilink"
 title="Friedrich Nietzsche">Friedrich Nietzsche</a>'s call for the
 transvaluation of bourgeois values, as well as Max Stirner and Benjamin
 Tucker's opposition to the tyranny of society over the individual. They
 rejected even the anarchist communism advocated by
-<a href="Peter_Kropotkin.md" class="wikilink" title="Peter Kropotkin">Peter
+<a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>, believing it would stifle individual freedoms in favor of
 collective conformity.[^33]
 
@@ -244,21 +244,21 @@ squads.
 
 <references/>
 
-<a href="Category:Anarchists.md" class="wikilink"
+<a href="Category:Anarchists" class="wikilink"
 title="Category:Anarchists">Category:Anarchists</a>
-<a href="Category:Individualist_Anarchists.md" class="wikilink"
+<a href="Category:Individualist_Anarchists" class="wikilink"
 title="Category:Individualist Anarchists">Category:Individualist
-Anarchists</a> <a href="Category:Russian_Anarchists.md" class="wikilink"
+Anarchists</a> <a href="Category:Russian_Anarchists" class="wikilink"
 title="Category:Russian Anarchists">Category:Russian Anarchists</a>
-<a href="Category:Writers.md" class="wikilink"
+<a href="Category:Writers" class="wikilink"
 title="Category:Writers">Category:Writers</a>
-<a href="Category:Executed_Anarchists.md" class="wikilink"
+<a href="Category:Executed_Anarchists" class="wikilink"
 title="Category:Executed Anarchists">Category:Executed Anarchists</a>
-<a href="Category:Victims_of_Bolshevism.md" class="wikilink"
+<a href="Category:Victims_of_Bolshevism" class="wikilink"
 title="Category:Victims of Bolshevism">Category:Victims of
-Bolshevism</a> <a href="Category:AnarWiki.md" class="wikilink"
+Bolshevism</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Baksht, Dmitrii Alikseevich (2016). "Lev Chorny (P.D. Turchaninov)

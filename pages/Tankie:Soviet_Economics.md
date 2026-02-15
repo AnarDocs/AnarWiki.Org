@@ -197,3 +197,10 @@
 - On Soviet industrialisation and economy, R.W. Davies has done
   pioneering work (books are from 1980 to 2018!), especially with his
   series (partly with Stephen Wheatcroft)
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

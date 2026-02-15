@@ -24,7 +24,7 @@ economic network that preceded their taking office. A 2016 study found:
 
 Aspiring to be more of an open-source political "platform" than a party
 of politicians, Barcelona en Comú embraced a fairly democratic culture
-influenced by the <a href="Zapatista-run_Chiapas.md" class="wikilink"
+influenced by the <a href="Zapatista-run_Chiapas" class="wikilink"
 title="Zapatistas">Zapatistas</a>' ideal of "Governing by Obeying." The
 Comuns formed a political program based on ideas shared at open meetings
 and by civic groups across the city.[^3] One example of the

@@ -1,6 +1,6 @@
 Huehuecoyotl is an ecovillage in Mexico's Sierra del Tepozteco mountain
 range and a member of the
-<a href="Global_Ecovillage_Network.md" class="wikilink"
+<a href="Global_Ecovillage_Network" class="wikilink"
 title="Global Ecovillage Network">Global Ecovillage Network</a>. Two
 Mexican radicals and about 25 of their European, US, and Mexican
 followers founded the community in 1982. Members started a

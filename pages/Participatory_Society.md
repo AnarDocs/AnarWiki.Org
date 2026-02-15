@@ -38,7 +38,7 @@ in violation of the rights of minorities.[^4]
 
 ## Economy
 
-In **<a href="Participatory_Economics.md" class="wikilink"
+In **<a href="Participatory_Economics" class="wikilink"
 title="Participatory Economics">Participatory Economics</a>** (Parecon),
 *workers' councils* and *consumers' councils* would coordinate with each
 other in order to optimally allocate materials to workplaces and goods
@@ -51,10 +51,10 @@ effort and sacrifice.[^5]
 
 The economic system of participatory economics is built around several
 key institutions that seek to replace both market mechanisms and
-<a href="central_planning.md" class="wikilink"
+<a href="central_planning" class="wikilink"
 title="central planning">central planning</a>. The primary institutions
 include workers' councils, consumers' councils,
-<a href="balanced_job_complexes.md" class="wikilink"
+<a href="balanced_job_complexes" class="wikilink"
 title="balanced job complexes">balanced job complexes</a>, and
 participatory planning processes coordinated through iteration
 facilitation boards.
@@ -64,7 +64,7 @@ facilitation boards.
 **Workers' councils** would be democratically self-managed workplace
 organizations where all workers participate in decision-making
 processes. These councils would operate according to principles of
-<a href="workers&#39;_self-management.md" class="wikilink"
+<a href="workers&#39;_self-management" class="wikilink"
 title="workers&#39; self-management">workers' self-management</a>, with
 decisions made through consensus-seeking processes or, when necessary,
 majority voting. The councils would be responsible for organizing
@@ -82,7 +82,7 @@ producers about what goods and services should be produced.
 A fundamental innovation of parecon is the concept of **balanced job
 complexes**. Rather than having traditional job specialization that
 concentrates empowering and creative tasks among a
-<a href="coordinator_class.md" class="wikilink"
+<a href="coordinator_class" class="wikilink"
 title="coordinator class">coordinator class</a> while relegating others
 to routine labor, parecon proposes that each worker's job should include
 a balanced mix of empowering and routine tasks. This ensures that all
@@ -93,11 +93,11 @@ class based on monopolization of empowering skills.
 ### Remuneration Based on Effort and Sacrifice
 
 Parecon rejects compensation systems based on
-<a href="productivity.md" class="wikilink"
+<a href="productivity" class="wikilink"
 title="productivity">productivity</a>,
-<a href="property_ownership.md" class="wikilink"
+<a href="property_ownership" class="wikilink"
 title="property ownership">property ownership</a>, or
-<a href="bargaining_power.md" class="wikilink"
+<a href="bargaining_power" class="wikilink"
 title="bargaining power">bargaining power</a>. Instead, it proposes
 remuneration based on **effort and sacrifice** as judged by workplace
 peers. This principle aims to reward workers for their dedication and
@@ -124,7 +124,7 @@ projections without having decision-making authority.
 
 The planning process would work through successive approximations toward
 an optimal allocation of resources, with prices serving as indicators of
-<a href="social_opportunity_costs.md" class="wikilink"
+<a href="social_opportunity_costs" class="wikilink"
 title="social opportunity costs">social opportunity costs</a> rather
 than market-determined values. The IFBs would use computer algorithms to
 process information and suggest price adjustments based on supply and
@@ -135,50 +135,50 @@ demand imbalances revealed through the planning rounds.
 Parecon advocates argue that their system would achieve greater
 efficiency than both capitalist markets and central planning. Unlike
 markets, which fail to account for
-<a href="externalities.md" class="wikilink"
+<a href="externalities" class="wikilink"
 title="externalities">externalities</a> and
-<a href="public_goods.md" class="wikilink" title="public goods">public
+<a href="public_goods" class="wikilink" title="public goods">public
 goods</a>, participatory planning would internalize all social costs and
 benefits. Unlike central planning, the system would maintain incentive
 compatibility by ensuring that economic actors have reasons to reveal
 their true preferences and capabilities.
 
 The system would also promote innovation differently than
-<a href="capitalism.md" class="wikilink" title="capitalism">capitalism</a>.
+<a href="capitalism" class="wikilink" title="capitalism">capitalism</a>.
 Rather than relying on
-<a href="patent_rights.md" class="wikilink" title="patent rights">patent
-rights</a> and <a href="intellectual_property.md" class="wikilink"
+<a href="patent_rights" class="wikilink" title="patent rights">patent
+rights</a> and <a href="intellectual_property" class="wikilink"
 title="intellectual property">intellectual property</a> to reward
 innovators, parecon would make all innovations immediately available to
 all enterprises, ensuring maximum
-<a href="static_efficiency.md" class="wikilink"
+<a href="static_efficiency" class="wikilink"
 title="static efficiency">static efficiency</a>. Innovation would be
 encouraged through the recognition and enhanced status that comes from
 contributing to social welfare, rather than through
-<a href="monopoly.md" class="wikilink" title="monopoly">monopoly</a>
+<a href="monopoly" class="wikilink" title="monopoly">monopoly</a>
 profits.
 
 ### Resource Allocation and Environmental Sustainability
 
 The participatory planning process would be particularly well-suited to
 addressing environmental concerns and promoting
-<a href="sustainability.md" class="wikilink"
+<a href="sustainability" class="wikilink"
 title="sustainability">sustainability</a>. Since all environmental costs
 would be internalized in the planning process, rather than treated as
-<a href="externalities.md" class="wikilink"
+<a href="externalities" class="wikilink"
 title="externalities">externalities</a> as in market systems, the
 economy would have built-in incentives for
-<a href="ecological.md" class="wikilink" title="ecological">ecological</a>
+<a href="ecological" class="wikilink" title="ecological">ecological</a>
 decision-making.
 
-The system would eliminate the <a href="accumulation.md" class="wikilink"
+The system would eliminate the <a href="accumulation" class="wikilink"
 title="accumulation">accumulation</a> drive that characterizes
 capitalism, replacing it with a focus on meeting human needs while
 respecting
-<a href="ecological.md" class="wikilink" title="ecological">ecological</a>
+<a href="ecological" class="wikilink" title="ecological">ecological</a>
 limits. Decisions about resource use would be made democratically with
 full consideration of environmental impacts, rather than being driven by
-<a href="profit.md" class="wikilink" title="profit">profit</a>
+<a href="profit" class="wikilink" title="profit">profit</a>
 maximization.
 
 ## Education
@@ -243,14 +243,14 @@ larger vision of a radically transforming society.[^10] He elaborates:
 ## Criticism
 
 Anarcho-communist critics argue that participatory economics retains
-problematic elements of <a href="commodity_production.md" class="wikilink"
+problematic elements of <a href="commodity_production" class="wikilink"
 title="commodity production">commodity production</a> and exchange that
 should be abolished entirely. Many
-<a href="Anarcho-Communism.md" class="wikilink"
+<a href="Anarcho-Communism" class="wikilink"
 title="anarcho-communists">anarcho-communists</a> advocate for a
-<a href="Gift_Economy.md" class="wikilink" title="Gift Economy">Gift
+<a href="Gift_Economy" class="wikilink" title="Gift Economy">Gift
 Economy</a> based on the principle
-"<a href="from_each_according_to_ability,_to_each_according_to_need.md"
+"<a href="from_each_according_to_ability,_to_each_according_to_need"
 class="wikilink"
 title="from each according to ability, to each according to need">from
 each according to ability, to each according to need</a>" rather than
@@ -262,11 +262,11 @@ proposals, recreates hierarchical structures and administrative burdens
 that anarcho-communism seeks to eliminate. Critics argue that truly free
 societies should move beyond any form of economic calculation or formal
 exchange, instead relying on voluntary
-<a href="Mutual_Aid.md" class="wikilink" title="Mutual Aid">Mutual Aid</a>
+<a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 and spontaneous cooperation. They view Parecon's institutional
 complexity as potentially stifling to human freedom and creativity,
 preferring more organic forms of social organization that emerge
-naturally from <a href="free_association.md" class="wikilink"
+naturally from <a href="free_association" class="wikilink"
 title="free association">free association</a> rather than predetermined
 economic structures.
 
@@ -279,15 +279,15 @@ economic structures.
 
 <references/>
 
-<a href="Category:Concepts.md" class="wikilink"
+<a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Economics.md" class="wikilink"
+<a href="Category:Economics" class="wikilink"
 title="Category:Economics">Category:Economics</a>
-<a href="Category:Anarchist_Economics.md" class="wikilink"
+<a href="Category:Anarchist_Economics" class="wikilink"
 title="Category:Anarchist Economics">Category:Anarchist Economics</a>
-<a href="Category:Alternative_Economics.md" class="wikilink"
+<a href="Category:Alternative_Economics" class="wikilink"
 title="Category:Alternative Economics">Category:Alternative
-Economics</a> <a href="Category:Featured.md" class="wikilink"
+Economics</a> <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Michael Albert, *Realizing Hope: Life Beyond Capitalism* (London:

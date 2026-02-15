@@ -37,9 +37,9 @@ structure, which allows for only those people involved directly in the
 action to control their own destiny."[^4]
 
 The FBI said in 2005 that the ALF, the
-<a href="Earth_Liberation_Front.md" class="wikilink"
+<a href="Earth_Liberation_Front" class="wikilink"
 title="Earth Liberation Front">Earth Liberation Front</a>, and
-<a href="Stop_Huntingdon_Animal_Cruelty.md" class="wikilink"
+<a href="Stop_Huntingdon_Animal_Cruelty" class="wikilink"
 title="Stop Huntingdon Animal Cruelty">Stop Huntingdon Animal
 Cruelty</a> were the top domestic terrorism threats in the United
 States.[^5]
@@ -142,7 +142,7 @@ of his actions.[^13]
 # Collaboration with Earth Liberation Front
 
 On a number of occasions, ALF cells have collaborated with cells of the
-<a href="Earth_Liberation_Front.md" class="wikilink"
+<a href="Earth_Liberation_Front" class="wikilink"
 title="Earth Liberation Front">Earth Liberation Front</a>.
 
 In 1996, ALF and ELF members jointly torched a U.S. Forest Service truck
@@ -208,7 +208,7 @@ has done to their projects.
 
 <references />
 
-<a href="Category:Featured.md" class="wikilink"
+<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Rod Coronado, *Memories of Freedom*, 1990s,

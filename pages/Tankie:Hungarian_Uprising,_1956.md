@@ -287,3 +287,10 @@ good material on this, including sources.*
   Hungary* by Herbert Aptheker. Shane Mage’s pamphlet debunks this
   book’s methodology in one of its sections. \[I will post further
   material debunking certain specific arguments from this book\]
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

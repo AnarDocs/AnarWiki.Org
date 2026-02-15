@@ -44,7 +44,7 @@ said in rhyme:
 
 <references/>
 
-<a href="Category:Uprisings.md" class="wikilink"
+<a href="Category:Uprisings" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
 
 [^1]: E.P. Thompson, "The Moral Economy of the English Crowd in the

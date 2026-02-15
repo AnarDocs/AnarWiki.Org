@@ -41,3 +41,10 @@ News Articles
 
 - <https://archive.vn/xd9Gr> \[EN\] A Chinese person arrested by CCP for
   using VPN to browse Wikipedia
+
+Return to
+<a href="Tankie:Introduction" class="wikilink" title="the Main Page">the
+Main Page</a>
+
+<a href="Category:Tankie" class="wikilink"
+title="Category:Tankie">Category:Tankie</a>

@@ -1,11 +1,11 @@
 15th Garden is or was a bottom-up urban agriculture network across 17
 cities in Syria. It campaigned for food sovereignty and belonged to the
-<a href="Syrian_Revolution.md" class="wikilink"
+<a href="Syrian_Revolution" class="wikilink"
 title="Syrian Revolution">Syrian Revolution</a>. The name came from the
 revolution's birthday of March 15th, 2021.[^1]
 
 In 2016,
-<a href="La_Via_Campesina.md" class="wikilink" title="La Via Campesina">La
+<a href="La_Via_Campesina" class="wikilink" title="La Via Campesina">La
 Via Campesina</a> shared a report by 15th Garden describing some of the
 Syrian movement's activities:
 
