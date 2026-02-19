@@ -1,7 +1,7 @@
-...tracking alternative names
-Community Builder
-Anarchy:Community portal
-A/Acc (Anarchy Accelerator)
+...tracking alternative names\
+Community Builder\
+Anarchy:Community portal\
+A/Acc (Anarchy Accelerator)\
 
 This is a blueprint on how to create a free, open, collaborative
 workspace where we chart course into a brighter tomorrow.

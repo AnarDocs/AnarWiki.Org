@@ -122,7 +122,7 @@ Some other questions you might have are:
 
 ## Video Overview
 
-<YouTube>r6-027_d_8Y</youtube>
+\<YouTube\>r6-027_d_8Y\</youtube\>
 
 ### References
 

@@ -189,10 +189,10 @@ criminal justice, establish worker cooperatives, protect the
 environment, and organize defense.[^18]
 
 In March 2022, *The Nation* reported that Rojava's quota of women's
-participation was "soon to be changed to 50 percent."<ref>Anna Rebrii
+participation was "soon to be changed to 50 percent."\<ref\>Anna Rebrii
 and Ariella Patchen, "Celebrating Zapatista and Kurdish Women’s
 Struggles, on International Women’s Day," *The Nation*, 8 March 2022,
-<https://www.thenation.com/article/world/zapatista-rojava-womens-movement/>.<ref>
+<https://www.thenation.com/article/world/zapatista-rojava-womens-movement/>.\<ref\>
 
 The levels of governance, according to *Revolution in Rojava* are the
 commune, the neighborhood, the district, and the region. Each level has
@@ -334,9 +334,9 @@ a region dependent on oil extraction. Although Janet Biehl reported in
 2014 that “The local oil industry, if such it can be called, produces
 only enough for local needs, nothing more,” the SDF was selling oil and
 gas to the Assad regime by 2019 and was making a business deal in 2020
-with the U.S. oil company Delta Crescent Energy."<ref>Dan Fischer, "An
+with the U.S. oil company Delta Crescent Energy."\<ref\>Dan Fischer, "An
 Ambiguous Paradise Built in Hell," *New Politics*, 7 January 2023,
-<https://newpol.org/an-ambiguous-paradise-built-in-hell/>.<ref>
+<https://newpol.org/an-ambiguous-paradise-built-in-hell/>.\<ref\>
 
 ## Crime
 

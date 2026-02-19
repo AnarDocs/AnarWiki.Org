@@ -499,6 +499,35 @@ these revolutions do not demonstrate the inadequacy of anarchist defense
 methods but rather the need for stronger international solidarity and
 better coordination among anti-authoritarian forces globally.
 
+### Preventing State Re-Formation
+
+Beyond defeating immediate military threats, anarchist defense must
+address the longer-term danger of new hierarchies emerging from within.
+History offers stark examples: the Bolsheviks used the soviets to seize
+power and then dismantled them once consolidated; anti-colonial
+movements replaced European administrators with local authoritarians.
+Military victory does not guarantee revolutionary survival.
+
+Anarchist organizational principles address this directly. Rotation and
+recallability of delegates, federation without permanent centralization,
+dispersal of functions across multiple non-hierarchical bodies, and
+active anti-authoritarian culture all make it structurally difficult for
+any individual or faction to reconsolidate power. Anthropologist
+Christopher Boehm's cross-cultural study of egalitarian societies found
+that the decisive factor in maintaining statelessness was not material
+conditions but a conscious, collective determination that no member
+should be allowed to dominate others.[^29]
+
+This is why the CNT's warnings against standing armies were not merely
+ideological but strategic: a permanent military institution, even one
+created to defend a revolution, concentrates precisely the kind of
+coercive capacity that enables the seizure of power. The people in arms,
+remaining integrated with civilian life and accountable to their
+communities, cannot easily be turned against revolutionary gains. See
+<a href="Preventing_State_Re-Formation" class="wikilink"
+title="Preventing State Re-Formation">Preventing State Re-Formation</a>
+for a detailed treatment.
+
 ## Relationship to Community Self-Defense
 
 Large-scale revolutionary defense and
@@ -725,3 +754,7 @@ title="Category:Featured">Category:Featured</a>
 [^27]: Anarchist FAQ, Section J.7.6.
 
 [^28]: CNT Resolution on Libertarian Communism, 1936.
+
+[^29]: Boehm, Christopher. *Hierarchy in the Forest: The Evolution of
+    Egalitarian Behavior*. 1999. Cited in Gelderloos, Peter. *Anarchy
+    Works*. 2010.

@@ -44,12 +44,31 @@ their capital or leader is captured, while anarchist societies with
 power distributed throughout the population prove far more difficult to
 defeat.
 
+Beyond immediate military defence, anarchist movements have recognised
+that the greatest long-term threat is not external conquest but internal
+reconstitution of hierarchy. Revolutionary situations that successfully
+defeat external enemies have repeatedly seen new authority emerge from
+within—the Bolsheviks being the most instructive example, dismantling
+the soviets they had used to seize power almost immediately after
+victory. Anarchist organisational principles address this directly:
+rotation and recallability of delegates, federation without permanent
+centralisation, dispersal of crucial functions across multiple
+non-hierarchical bodies, and cultures of active anti-authoritarianism
+all make it structurally difficult for any individual or faction to
+consolidate power. Effective anarchist defence is not only a matter of
+repelling external threats but of building social structures hostile to
+domination at every level—so that power, once dispersed, has nowhere to
+reconcentrate.
+
 See <a href="Anarchist_Defense" class="wikilink"
 title="Anarchist Defense">Anarchist Defense</a> for a comprehensive
 overview of large-scale defense and
 <a href="Community_Defense" class="wikilink"
-title="Community Defense">Community Defense</a> for local defense. Also
-see <a href="Police_Abolition_And_Alternatives" class="wikilink"
+title="Community Defense">Community Defense</a> for local defense, and
+<a href="Preventing_State_Re-Formation" class="wikilink"
+title="Preventing State Re-Formation">Preventing State Re-Formation</a>
+for responding to those seeking to re-establish states. Also see
+<a href="Police_Abolition_And_Alternatives" class="wikilink"
 title="Police Abolition">Police Abolition</a> and
 <a href="Prison_Abolition" class="wikilink"
 title="Prison Abolition">Prison Abolition</a> for other relevant
@@ -57,7 +76,7 @@ information.
 
 ## Video Overview
 
-<youtube>jNiETZLrfII</youtube>
+\<youtube\>jNiETZLrfII\</youtube\>
 
 ## Further Reading
 

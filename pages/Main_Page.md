@@ -1,5 +1,3 @@
-__NOTOC__
-
 <div style="text-align:center;font-size:1.8em;font-weight:bold;margin:20px 0;">
 
 Welcome to !

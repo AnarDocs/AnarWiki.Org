@@ -20,82 +20,35 @@ with the anarchist ideal."
 ## Principles And Actions
 
 Here's an overview of the matters contemplated and the actions taken on
-them: <infobox>
+them: \<infobox\>
 
-<title source="title">
-
-<default>
-
-</default>
-
-</title>
-
-`   `<image source="image"/>
-`   `
-
-<header>
-
-Document Information
-
-</header>
-
-`   `<data source="Title">
-`       `<label>`Title`</label>
-`       `
-
-<default>
-
-El Congreso Confederal de Zaragoza
-
-</default>
-
-`   `</data>
-`   `<data source="Author">
-`       `<label>`Author`</label>
-`       `
-
-<default>
-
-Confederación Nacional del Trabajo
-
-</default>
-
-`   `</data>
-`   `<data source="Published">
-`       `<label>`Published`</label>
-`       `
-
-<default>
-
-1936
-
-</default>
-
-`   `</data>
-`   `<data source="Translated">
-`       `<label>`Translated`</label>
-`       `
-
-<default>
-
-2016
-
-</default>
-
-`   `</data>
-`   `<data source="Translator">
-`       `<label>`Translator`</label>
-`       `
-
-<default>
-
-X363823
-
-</default>
-
+`   <title source="title">`\
+`       <default>``</default>`\
+`   </title>`\
+`   <image source="image"/>`\
+`   <header>Document Information</header>`\
+`   `<data source="Title">\
+`       <label>Title</label>`\
+`       <default>El Congreso Confederal de Zaragoza</default>`\
+`   `</data>\
+`   `<data source="Author">\
+`       <label>Author</label>`\
+`       <default>Confederación Nacional del Trabajo</default>`\
+`   `</data>\
+`   `<data source="Published">\
+`       <label>Published</label>`\
+`       <default>1936</default>`\
+`   `</data>\
+`   `<data source="Translated">\
+`       <label>Translated</label>`\
+`       <default>2016</default>`\
+`   `</data>\
+`   `<data source="Translator">\
+`       <label>Translator</label>`\
+`       <default>X363823</default>`\
 `   `</data>
 
-</infobox>
+\</infobox\>
 
 ### Core Principles and Vision
 

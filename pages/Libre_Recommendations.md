@@ -33,13 +33,13 @@ into hardware and more general advice.**
 alt="Mastodon_logo.png" /> Federated Social networks
 
 - [Kolektiva](https://kolektiva.social) is a leftist friendly
-  [Mastodon](https://joinmastodon.org) instance.
+  [Mastodon](https://joinmastodon.org) instance.\
 - [Farcaster](https://www.farcaster.xyz/) is a sufficiently
-  decentralized social network built on Ethereum. \$5 yearly fee.
+  decentralized social network built on Ethereum. \$5 yearly fee.\
 - [kolektiva.media](https://kolektiva.media/videos/local) collective
-  offering video hosting to anarchist collectives and individuals
+  offering video hosting to anarchist collectives and individuals\
 - [social.edist.ro](https://social.edist.ro) anarchists and antifascists
-  everywhere
+  everywhere\
 - [Friendica](https://friendi.ca/) is software to create a distributed
   social network. Diaspora and Hubzilla compatible .
 

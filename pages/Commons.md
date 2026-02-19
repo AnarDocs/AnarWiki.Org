@@ -41,12 +41,14 @@ government).[^2]
 
 ### Common Land Systems
 
-Contrary to capitalist propaganda, historical commons were highly
-successful systems of collective resource management that functioned for
-centuries. In medieval England, common lands were integral to manor
-systems, with communities developing sophisticated customary laws to
-prevent overuse. Manorial courts enforced rules about grazing limits,
-harvest timing, and resource allocation.[^3]
+Contrary to capitalist propaganda such as the concept of the
+'<a href="Tragedy_Of_The_Commons" class="wikilink"
+title="Tragedy of the Commons">Tragedy of the Commons</a>', historical
+commons were highly successful systems of collective resource management
+that functioned for centuries. In medieval England, common lands were
+integral to manor systems, with communities developing sophisticated
+customary laws to prevent overuse. Manorial courts enforced rules about
+grazing limits, harvest timing, and resource allocation.[^3]
 
 These systems were **not** examples of unregulated access leading to
 depletion. Rather, they demonstrated that communities could effectively
@@ -61,9 +63,11 @@ through violent
 <a href="enclosure" class="wikilink" title="enclosure">enclosure</a> -
 the privatization of common lands by force. Beginning in the 16th
 century and accelerating through the 18th and 19th centuries, European
-governments (particularly in Britain) seized common lands and granted
-them to private owners, dispossessing rural communities of their
-traditional rights.
+governments (particularly in
+<a href="British_Commons_History" class="wikilink"
+title="Britain">Britain</a>) seized common lands and granted them to
+private owners, dispossessing rural communities of their traditional
+rights.
 
 <a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>
 identified enclosure as a form of "primitive accumulation" - the violent
@@ -617,6 +621,15 @@ viability of commons-based organizing.
 
 ## See Also
 
+- <a href="Tragedy_of_the_Commons" class="wikilink"
+  title="Tragedy of the Commons">Tragedy of the Commons</a>
+- <a href="British_Commons_History" class="wikilink"
+  title="British Commons History">British Commons History</a>
+- <a href="Mexican_Commons_History" class="wikilink"
+  title="Mexican Commons History">Mexican Commons History</a>
+- <a href="Enclosure" class="wikilink" title="Enclosure">Enclosure</a>
+- <a href="Elinor_Ostrom" class="wikilink" title="Elinor Ostrom">Elinor
+  Ostrom</a>
 - <a href="Anarcho-Communism" class="wikilink"
   title="Anarcho-Communism">Anarcho-Communism</a>
 - <a href="Mutualism" class="wikilink" title="Mutualism">Mutualism</a>
@@ -627,11 +640,6 @@ viability of commons-based organizing.
   title="Workers&#39; Self-Management">Workers' Self-Management</a>
 - <a href="Direct_Democracy" class="wikilink"
   title="Direct Democracy">Direct Democracy</a>
-- <a href="Tragedy_of_the_Commons" class="wikilink"
-  title="Tragedy of the Commons">Tragedy of the Commons</a>
-- <a href="Enclosure" class="wikilink" title="Enclosure">Enclosure</a>
-- <a href="Elinor_Ostrom" class="wikilink" title="Elinor Ostrom">Elinor
-  Ostrom</a>
 
 ## References
 
@@ -647,6 +655,8 @@ viability of commons-based organizing.
 - [P2P Foundation](https://p2pfoundation.net/)
 - [Commons Strategies Group](http://commonsstrategies.org/)
 - [Digital Library of the Commons](http://dlc.dlib.indiana.edu/)
+- [The Anarchist Library Commons
+  topic](https://theanarchistlibrary.org/category/topic/the-commons)
 
 <a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>

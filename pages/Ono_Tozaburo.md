@@ -60,5 +60,5 @@ title="Category:Asia">Category:Asia</a>
 title="Category:Poets">Category:Poets</a>
 
 [^1]: `         `[`Tozaburo, Ono (1903-1996)`](https://libcom.org/history/tozaburo-ono-1903-1996)` at `<a href="libcom.org" class="wikilink"
-    title="libcom.org"><code>libcom.org</code></a>
+    title="libcom.org"><code>libcom.org</code></a>\
     `       `

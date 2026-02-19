@@ -56,5 +56,5 @@ title="Category:Free Territory of Ukraine">Category:Free Territory of
 Ukraine</a> <a href="Category:Russian_Empire" class="wikilink"
 title="Category:Russian Empire">Category:Russian Empire</a>
 
-[^1]: `         `[`Belochub, Panteleimon Fedorovich (1892-1929)`](https://libcom.org/history/belochub-panteleimon-fedorovich-1892-1929)` - libcom.org`
+[^1]: `         `[`Belochub, Panteleimon Fedorovich (1892-1929)`](https://libcom.org/history/belochub-panteleimon-fedorovich-1892-1929)` - libcom.org`\
     `       `

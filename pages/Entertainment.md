@@ -1,54 +1,53 @@
 # Music
 
 [Anarcho-punk.net](https://www.anarcho-punk.net/) Crust Punk Community &
-Music Download - merch, punk database, forums, radio
-[Apes of the State](https://www.youtube.com/@ApesoftheState)
-[Days N' Daze](https://daysndaze.bandcamp.com/)
-[Jesse Welles](https://www.youtube.com/@hellswelles)
-[JREG](https://www.youtube.com/@JREG) Also Educational
-[Moon Bandits](https://moonbandits.bandcamp.com/music)
+Music Download - merch, punk database, forums, radio\
+[Apes of the State](https://www.youtube.com/@ApesoftheState)\
+[Days N' Daze](https://daysndaze.bandcamp.com/)\
+[Jesse Welles](https://www.youtube.com/@hellswelles)\
+[JREG](https://www.youtube.com/@JREG) Also Educational\
+[Moon Bandits](https://moonbandits.bandcamp.com/music)\
 [Punk With a Camera](https://www.youtube.com/@PunkWithACamera) Recorder
-of Leftist Music
+of Leftist Music\
 [Rathbone](https://rathbone.bandcamp.com/)Leftist Music; Authoritarian
-Left content
+Left content\
 
 # Content Creators
 
 [Anarchist Collective](https://www.youtube.com/@AnarchistCollective)
-(idle)
+(idle)\
 [Zoe Baker](https://www.youtube.com/@anarchozoe) Theory and history of
-anarchism, feminism and Marxism
+anarchism, feminism and Marxism\
 [Anark](https://www.youtube.com/@Anark) exploring the philosophical
-foundations of leftist ideas
+foundations of leftist ideas\
 [Andrewism](https://www.youtube.com/@Andrewism) Leftist political
-education
+education\
 [Chomsky's Philosophy](https://www.youtube.com/@chomskysphilosophy)
-collection of Noam Chomsky's ideas and analyses
+collection of Noam Chomsky's ideas and analyses\
 [RE-EDUCATION](https://www.youtube.com/@DeadHeadAnimation)
-Anarcho-Communism, Anti Capitalism, and Praxis
+Anarcho-Communism, Anti Capitalism, and Praxis\
 [Epoch Philosophy](https://www.youtube.com/@epochphilosophy) Art,
-theory, technology, and philosophy.
-[First Thought](https://www.youtube.com/@firstthoughtnews) Biased
-news.
+theory, technology, and philosophy.\
+[First Thought](https://www.youtube.com/@firstthoughtnews) Biased news.\
 [Horseshoe Theory](https://www.youtube.com/@HSTPOD) The extremes are
-closer than you may think
+closer than you may think\
 [Lucky Black Cat](https://www.youtube.com/@LuckyBlackCat) ideas that
-help move us closer to the societal transformations
+help move us closer to the societal transformations\
 [Politics In Motion](https://www.youtube.com/@PoliticsInMotion)
-anti-capitalist media platform
+anti-capitalist media platform\
 [Prolekult](https://www.youtube.com/@Prolekult) Marxist film, writing
-and culture platform based in England
+and culture platform based in England\
 [Reddebrek](https://www.youtube.com/@Reddebrek46)Educate, Agitate,
-Organize
+Organize\
 [The Canvas](https://www.youtube.com/@TheCanvasArtHistory) Leftist
-analysis of artworks
+analysis of artworks\
 [Then & Now](https://www.youtube.com/@ThenNow) History, Politics and
-Philosophy
+Philosophy\
 
 # Streamers/Radio
 
 [Vancouver Co-operative Radio, CFRO, 100.5FM](https://coopradio.org/)
-Music and one-hour weekly current affairs and advocacy program
+Music and one-hour weekly current affairs and advocacy program\
 
 # Media Analysis
 
@@ -62,15 +61,15 @@ FSF](https://en.wikipedia.org/wiki/Eben_Moglen) and an [extremely strong
 legal and historical background](http://emoglen.law.columbia.edu).
 
 - [Free and Open Software: Paradigm for a New Intellectual
-  Commons](https://www.youtube.com/watch?v=tbcy_ZxXLl8)
+  Commons](https://www.youtube.com/watch?v=tbcy_ZxXLl8)\
 - [Die Gerdanken Sind Frei](http://wizards-of-os.org/index.php?id=791):
   links to video and audio are on the right-hand side in some very
-  hard-to-see icons.
+  hard-to-see icons.\
 - [Speeches at Wikimedia
   Source](https://en.wikisource.org/wiki/Author:Eben_Moglen#Speeches):
-  Audio/Video/transcripts for many speeches.
+  Audio/Video/transcripts for many speeches.\
 - [Speeches and clips at
-  YouTube](https://www.youtube.com/results?search_query=eben+moglen)
+  YouTube](https://www.youtube.com/results?search_query=eben+moglen)\
 
 ## Noam Chomsky & Glen Greenwald
 
@@ -92,7 +91,7 @@ title="Edward Snowden">Edward Snowden</a>'s disclosure of
 title="PRISM">PRISM</a>.
 
 - [Liberty and Justice for
-  Some](http://www.youtube.com/watch?v=v1nlRFbZvXI)
+  Some](http://www.youtube.com/watch?v=v1nlRFbZvXI)\
 
 ## Jacob Appelbaum
 
@@ -104,7 +103,7 @@ title="Wikileaks">Wikileaks</a> and the
 title="Tor Project">Tor Project</a>.
 
 - [Tor and Internet
-  Freedom](http://www.youtube.com/watch?v=nWtlZ5id-pQ)
+  Freedom](http://www.youtube.com/watch?v=nWtlZ5id-pQ)\
 
 ## Wendy Seltzer
 
@@ -113,7 +112,7 @@ Wendy Seltzer is one of the heads of the
 title="Tor Project">Tor Project</a> and a legal expert on copyright.
 
 - [A Decade of the Digital Millenium Copyright
-  Act](https://www.youtube.com/watch?v=jmYijnAyi14)
+  Act](https://www.youtube.com/watch?v=jmYijnAyi14)\
 
 ## Richard Stallman
 
@@ -123,9 +122,9 @@ title="Richard Stallman">Richard Stallman</a> is the original
 hacker, and the most prominent member of the free software movement.
 
 - [Copyright vs.
-  Community](https://www.youtube.com/watch?v=h_3i7ZX_Gvk)
+  Community](https://www.youtube.com/watch?v=h_3i7ZX_Gvk)\
 - [Speeches and clips at
-  YouTube](https://www.youtube.com/results?search_query=richard+stallman)
+  YouTube](https://www.youtube.com/results?search_query=richard+stallman)\
 
 ## Yochai Benkler
 
@@ -133,7 +132,7 @@ hacker, and the most prominent member of the free software movement.
 title="Yochai Benkler">Yochai Benkler</a> is a scholar of free culture.
 
 - [How Cooperation Triumphs over
-  Self-Interest](https://www.youtube.com/watch?v=dPbE3WieoUo)
+  Self-Interest](https://www.youtube.com/watch?v=dPbE3WieoUo)\
 
 ## Lawrence Lessig
 
@@ -143,4 +142,4 @@ Commons](http://creativecommons.org/) and
 title="free culture">free culture</a>/<a href="Wikipedia:Remix_culture" class="wikilink"
 title="remix culture">remix culture</a> advocate.
 
-- [Remix](https://www.youtube.com/watch?v=_yC81QhR_xk)
+- [Remix](https://www.youtube.com/watch?v=_yC81QhR_xk)\

@@ -42,7 +42,7 @@ engages with Marxist theory and feminism, exploring points of
 convergence and divergence between different radical traditions. More
 recently, she has begun writing on trans liberation and gender theory,
 examining the history and contemporary relevance of gender as a system
-of oppression.<ref>Baker, Zoe. "Means and Ends: The Anarchist Critique
+of oppression.\<ref\>Baker, Zoe. "Means and Ends: The Anarchist Critique
 
 ## External Links
 

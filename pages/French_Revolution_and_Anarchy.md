@@ -73,8 +73,8 @@ was in a state of insurrection against the Girondins.[^10]
 
 Together, the Jacobins and *enragés* succeeded in forcing the Girondins
 from power. 80,000 armed people surrounded the Convention and took
-over.<ref>Chris Harman, *A People's History of the World: From the Stone
-Age to the New Millennium* (London: Verso, 2008), 292.<ref>
+over.\<ref\>Chris Harman, *A People's History of the World: From the
+Stone Age to the New Millennium* (London: Verso, 2008), 292.\<ref\>
 
 By August, however, the Jacobins turned against the enragés. Taking
 state power for themselves, the Jacobins implemented a regime of terror

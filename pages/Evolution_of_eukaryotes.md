@@ -40,7 +40,7 @@ Eva Jablonka and Marion Lamb:
 > prokaryotic cell was lost, the structural elements necessary for
 > mitosis, and the construction of the membranes of the cell and its
 > organelles, all depend on information transmitted through guided
-> assembly.<ref>Eva Jablonka and Marion Lamb, “The Evolution in the
+> assembly.\<ref\>Eva Jablonka and Marion Lamb, “The Evolution in the
 > major transitions,” *Journal of Theoretical Biology* 239 (2006):
 > 236-246.
 

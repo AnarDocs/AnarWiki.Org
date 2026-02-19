@@ -112,7 +112,7 @@ already in a dystopia - when to remain invisible.
 - Create working groups for specific projects
 
 Here is [Crimethinc’s in depth guide to
-Assemblies](https://crimethinc.com/2024/11/10/how-to-organize-an-assembly-preparing-to-respond-to-an-era-of-disasters-and-despotism)
+Assemblies](https://crimethinc.com/2024/11/10/how-to-organize-an-assembly-preparing-to-respond-to-an-era-of-disasters-and-despotism)\
 & [Extinction Rebellion’s
 one](https://extinctionrebellion.uk/act-now/resources/peoples-assemblies/)
 
@@ -126,7 +126,7 @@ one](https://extinctionrebellion.uk/act-now/resources/peoples-assemblies/)
   </li>
 - Network with other local gardens and food projects
 
-[Community Farden & Food Coops (U.S.](https://fci.coop/what-we-do/))�
+[Community Farden & Food Coops (U.S.](https://fci.coop/what-we-do/)) \
 [Food Co-ops Toolkit
 (U.K.)](https://www.sustainweb.org/foodcoopstoolkit/) & [Farm Garden
 (U.K.)](https://www.farmgarden.org.uk/)
@@ -206,7 +206,7 @@ Concerned Friends / Family**
 - Build connections between different groups
 - Keep it low-tech (printable) for wider access
 - Include practical tips and upcoming events
-- Leave it in cafes, libraries, bookstores, arts & radical spaces
+- Leave it in cafes, libraries, bookstores, arts & radical spaces\
 
 Example Zines - [Sprout](https://www.sproutdistro.com/) & [Neighbourhood
 Anarchists](https://neighborhoodanarchists.org/zines)
@@ -250,7 +250,7 @@ maintaining flexibility allows adaptation to unexpected challenges.
 - Use VPNs and encrypted messaging
 - Join federated social networks like Mastodon
 - Learn about data privacy and security
-- Help others make the switch safely
+- Help others make the switch safely\
 
 See EFF’s [Surveillance Self-Defence](https://ssd.eff.org/)
 
@@ -264,7 +264,7 @@ See EFF’s [Surveillance Self-Defence](https://ssd.eff.org/)
 - Learn about navigation and foraging
 - Test out emergency equipment
 - Build group cohesion and trust
-- Make preparation feel like an adventure
+- Make preparation feel like an adventure\
 
 See - [Prepping
 Basics](https://theprepared.com/prepping-basics/) & [Urban
@@ -311,7 +311,7 @@ avoiding burnout ensures sustainable long-term assistance.
 - Build relationships with other volunteers
 - Understand local food security issues
 - Learn about food distribution and storage
-- Connect with other mutual aid projects
+- Connect with other mutual aid projects\
 
 See - [Food Not Bombs](https://foodnotbombs.net/new_site/)
 
@@ -320,7 +320,7 @@ See - [Food Not Bombs](https://foodnotbombs.net/new_site/)
 - Collect and share useful tools
 - Teach maintenance and repair skills
 - Build community self-reliance
-- Reduce individual costs while increasing collective resources
+- Reduce individual costs while increasing collective resources\
 
 See [Library Of Things](https://www.libraryofthings.co.uk/) example
 
@@ -388,9 +388,9 @@ The International (Socialist Anthem)
 - Or if you don’t want something so competitive, consider co-operative
   board games, there are even rebellion and revolution based ones!
   [Resistance Based Board
-  Games](https://wagingnonviolence.org/2018/03/7-resistance-themed-board-games/)
+  Games](https://wagingnonviolence.org/2018/03/7-resistance-themed-board-games/)\
   [Anarchist Dungeons &
-  Dragons](https://www.dmsguild.com/product/296231/Eat-the-Rich--Volume-1)
+  Dragons](https://www.dmsguild.com/product/296231/Eat-the-Rich--Volume-1)\
   [BGG’s Radical Board Games
   List](https://boardgamegeek.com/geeklist/169754/socially-or-politically-radical-boardgames)
 

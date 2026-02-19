@@ -19,7 +19,7 @@ borders <a href="Canada" class="wikilink" title="Canada">Canada</a> and
 - The United States has engaged in numerous acts of
   <a href="Political_Repression_in_the_USA" class="wikilink"
   title="political repression">political repression</a> against its
-  population.
+  population.\
 
 ## History
 

@@ -354,53 +354,53 @@ title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^4]: Twin Oaks Community. Values and practices documentation. 2025.
 
-[^5]: Twin Oaks Community values documentation.
+[^5]:
 
 [^6]: Twin Oaks Community activism documentation.
 
 [^7]: Twin Oaks Community conflict resolution documentation.
 
-[^8]: Twin Oaks Community conflict documentation.
+[^8]:
 
-[^9]: Wikipedia. "Twin Oaks Community." 2025.
+[^9]:
 
-[^10]: Butcher, "Fifty Years of Utopian Intentioneering."
+[^10]:
 
-[^11]: Butcher, "Fifty Years of Utopian Intentioneering."
+[^11]:
 
-[^12]: Butcher, "Fifty Years of Utopian Intentioneering."
+[^12]:
 
 [^13]: Anonymous Twin Oaks member. "Anarchy at Twin Oaks." Blog post.
 
-[^14]: Anonymous Twin Oaks member. "Anarchy at Twin Oaks."
+[^14]:
 
-[^15]: Anonymous Twin Oaks member. "Anarchy at Twin Oaks."
+[^15]:
 
-[^16]: Wikipedia. "Twin Oaks Community." 2025.
+[^16]:
 
-[^17]: Wikipedia. "Twin Oaks Community." 2025.
+[^17]:
 
 [^18]: Twin Oaks Community documentation.
 
-[^19]: Wikipedia. "Twin Oaks Community." 2025.
+[^19]:
 
-[^20]: Anonymous Twin Oaks member. "Modesty is inefficient."
+[^20]:
 
 [^21]: Twin Oaks Community connection to mainstream society
     documentation.
 
 [^22]: Twin Oaks Community feminism documentation.
 
-[^23]: Butcher, "Fifty Years of Utopian Intentioneering."
+[^23]:
 
 [^24]: BBC Four. "Utopia: In Search of the Dream." 2017.
 
-[^25]: Butcher, "Fifty Years of Utopian Intentioneering."
+[^25]:
 
-[^26]: Butcher, "Fifty Years of Utopian Intentioneering."
+[^26]:
 
-[^27]: Anonymous Twin Oaks member. "Modesty is inefficient."
+[^27]:
 
-[^28]: Butcher, "Fifty Years of Utopian Intentioneering."
+[^28]:
 
-[^29]: Anonymous Twin Oaks member. "Modesty is inefficient."
+[^29]:

@@ -136,7 +136,7 @@ According to Marx, crime was virtually absent in the commune, stating:
 > kind. "We hear no longer of assassination, theft, and personal
 > assault; it seems indeed as if the police had dragged along with it to
 > Versailles all its Conservative friends." Said a member of the
-> Commune<ref><a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>
+> Commune\<ref\><a href="Karl_Marx" class="wikilink" title="Karl Marx">Karl Marx</a>
 > (1871) - <a href="The_Civil_War_in_France" class="wikilink"
 > title="The Civil War in France">The Civil War in France</a>
 

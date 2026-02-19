@@ -703,7 +703,7 @@ political plans.
 
 ## Video Overview
 
-<YouTube><https://youtu.be/QdQ88l-7OCk></YouTube>
+\<YouTube\>https://youtu.be/QdQ88l-7OCk\</YouTube\>
 
 ## References
 

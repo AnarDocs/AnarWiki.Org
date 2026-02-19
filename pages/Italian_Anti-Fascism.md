@@ -30,8 +30,8 @@ set up militias to protect their printing presses, union meetings and
 social clubs."[^5]
 
 Mark Bray offers a number of reasons why Arditi did not succeed in
-stopping Mussolini's rise to power in 1922: <blockuqote> The Arditi del
-Popolo were unable to withstand the Fascist onslaught for several
+stopping Mussolini's rise to power in 1922: \<blockuqote\> The Arditi
+del Popolo were unable to withstand the Fascist onslaught for several
 reasons, including the strong financial and material support the
 Fascists received from economic elites, the fact that much leftist
 infrastructure had already been smashed by the time Arditi were formed,
