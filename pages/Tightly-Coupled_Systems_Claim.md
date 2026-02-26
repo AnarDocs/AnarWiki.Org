@@ -457,7 +457,7 @@ complex systems functioning safely.
   title="Anarcho-Syndicalism">Anarcho-Syndicalism</a>
 - <a href="Anarchist_Economics" class="wikilink"
   title="Anarchist Economics">Anarchist Economics</a>
-- <a href="Revolutionary_Catalonia" class="wikilink"
+- <a href="Revolutionary_Spain" class="wikilink"
   title="Revolutionary Catalonia">Revolutionary Catalonia</a>
 - <a href="Worker_Cooperatives" class="wikilink"
   title="Worker Cooperatives">Worker Cooperatives</a>
