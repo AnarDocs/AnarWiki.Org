@@ -1,0 +1,26 @@
+In January 1919, Peru's anarcho-syndicalist movement organized a general
+strike for an eight-hour workday, which went on for three days while
+people clashed in the streets and some strike leaders were arrested and
+tortured. Many workers and students in the Lima-Callao region joined. On
+15 January, President Pardo agreed to the strikers' demand. Steven
+Hirsch notes, "The conquest of the eight hour day constituted a
+milestone in the development of the anarcho-syndicalist labour
+movement."[^1]
+
+## References
+
+<references/>
+
+<a href="Category:Strikes" class="wikilink"
+title="Category:Strikes">Category:Strikes</a>
+<a href="Category:Anarcho-Syndicalism" class="wikilink"
+title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>
+<a href="Category:20th_Century" class="wikilink"
+title="Category:20th Century">Category:20th Century</a>
+
+[^1]: Steven Hirsch, "Peruvian Anarcho-Syndicalism: Adapting
+    Transnational Influences and Forging Counterhegemonic Practices,
+    1905-1930" in *Anarchism and Syndicalism in The Colonial and
+    Postcolonial World 1870-1940: The Praxis of Nationalism, and Social
+    Revolution*, eds. Steven Hirsch and Lucien van der Walt (Boston:
+    Brill, 2010), 233.
