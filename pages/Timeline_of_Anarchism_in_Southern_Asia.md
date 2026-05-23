@@ -94,10 +94,10 @@ Bangladesh, Nepal, Bhutan and the Maldives) that are relevant to
   title="Timeline of Anarchism in Oceania">Timeline of Anarchism in
   Oceania</a>
 
-<a href="Category:Timelines" class="wikilink"
-title="Category:Timelines">Category:Timelines</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Timelines" class="wikilink"
+title="Category:Timelines">Category:Timelines</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> <a href="Category:Asia" class="wikilink"

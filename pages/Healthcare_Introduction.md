@@ -158,3 +158,9 @@ title="Introduction to Anarchism">Introduction to Anarchism</a>
 
 <a href="Category:Healthcare" class="wikilink"
 title="Category:Healthcare">Category:Healthcare</a>
+<a href="Category:FAQ" class="wikilink"
+title="Category:FAQ">Category:FAQ</a>
+<a href="Category:Introduction" class="wikilink"
+title="Category:Introduction">Category:Introduction</a>
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>

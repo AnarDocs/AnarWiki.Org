@@ -38,6 +38,8 @@ Atrocities</a>*
 - <a href="Vladimir_Lenin" class="wikilink"
   title="Vladimir Lenin">Vladimir Lenin</a>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Russia" class="wikilink"
 title="Category:Russia">Category:Russia</a>
 <a href="Category:Northern_Asia" class="wikilink"
@@ -52,5 +54,3 @@ title="Category:Eastern Europe">Category:Eastern Europe</a>
 title="Category:Authortarian States">Category:Authortarian States</a>
 <a href="Category:States" class="wikilink"
 title="Category:States">Category:States</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>

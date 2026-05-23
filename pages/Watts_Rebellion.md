@@ -43,6 +43,9 @@ bloody end to the rebellion."[^8]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: Howard Zinn, *A People's History of the United States,
     1492-Present* (New York: HarperPerennial, 2003), 459.
 

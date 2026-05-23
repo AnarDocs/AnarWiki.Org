@@ -34,6 +34,9 @@ Colin Ward, Anarchy in Action[^4]:
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: <http://www.britannica.com/EBchecked/topic/647675/The-Woodstock-Music-and-Art-Fair>
 
 [^2]: <https://en.wikipedia.org/wiki/Woodstock_festival>

@@ -217,6 +217,8 @@ movements.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Canada" class="wikilink"
 title="Category:Canada">Category:Canada</a>
 <a href="Category:Anti-Authoritarian_Communities" class="wikilink"
@@ -232,8 +234,6 @@ title="Category:Direct Action">Category:Direct Action</a>
 title="Category:21st Century">Category:21st Century</a>
 <a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: "Standing on the Land to Stand Up Against Pipelines: A Report from
     the Unist'ot'en Camp," *Crimethinc*, 9 July 2013,

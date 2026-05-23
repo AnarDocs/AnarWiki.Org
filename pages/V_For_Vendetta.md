@@ -278,6 +278,8 @@ its list of the 100 most influential novels.
 - readable comics @ archive.org
 - <https://theanarchistlibrary.org/library/joshua-anol-a-closer-look-at-v>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Fiction" class="wikilink"
 title="Category:Anarchist Fiction">Category:Anarchist Fiction</a>
 <a href="Category:Anarchist_books" class="wikilink"

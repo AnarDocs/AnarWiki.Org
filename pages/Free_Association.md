@@ -340,6 +340,8 @@ economic necessity.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -352,5 +354,3 @@ Socialism</a> <a href="Category:Freedom" class="wikilink"
 title="Category:Freedom">Category:Freedom</a>
 <a href="Category:Anti-Authoritarianism" class="wikilink"
 title="Category:Anti-Authoritarianism">Category:Anti-Authoritarianism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>

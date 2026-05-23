@@ -547,3 +547,6 @@ assembly, blocking traffic and disrupting public order.<sup>\[63\]</sup>
   Mexico that happened 5 months earlier.
 - <a href="Resistance_in_China" class="wikilink"
   title="Resistance in China">Resistance in China</a>
+
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>

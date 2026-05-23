@@ -78,3 +78,5 @@ title="Category:1970s">Category:1970s</a>
 title="Category:20th Century">Category:20th Century</a>
 <a href="Category:Conspiracy_Theories" class="wikilink"
 title="Category:Conspiracy Theories">Category:Conspiracy Theories</a>
+<a href="Category:Sex_Workers" class="wikilink"
+title="Category:Sex Workers">Category:Sex Workers</a>

@@ -97,6 +97,8 @@ relevant to
 
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
 <a href="Category:Northern_Europe" class="wikilink"

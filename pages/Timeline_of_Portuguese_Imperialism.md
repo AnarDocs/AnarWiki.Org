@@ -140,9 +140,9 @@ title="Portuguese Empire">Portuguese Empire</a>.
 - 1999:Macau is handed over to the People’s Republic of China,
   effectively ending the Portuguese overseas empire.
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>
 <a href="Category:Europe" class="wikilink"
 title="Category:Europe">Category:Europe</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>

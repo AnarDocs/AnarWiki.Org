@@ -44,6 +44,8 @@ water affairs.[^2]
 
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:1903" class="wikilink"
 title="Category:1903">Category:1903</a>
 <a href="Category:1900s" class="wikilink"
@@ -56,8 +58,6 @@ title="Category:Caribbean">Category:Caribbean</a>
 title="Category:Water Uprisings">Category:Water Uprisings</a>
 <a href="Category:Uprisings" class="wikilink"
 title="Category:Uprisings">Category:Uprisings</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a>

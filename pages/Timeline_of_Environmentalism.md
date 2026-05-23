@@ -403,6 +403,8 @@ title="environmental movement">environmental movement</a>.
 
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>
 <a href="Category:Environmentalism" class="wikilink"

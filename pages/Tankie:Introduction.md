@@ -170,6 +170,12 @@ further down below</small>*
     title="Suppression of Workers&#39; movements">Suppression of Workers'
     movements</a>
 
+<!-- -->
+
+- Fun
+  - <a href="Tankie:Argument_Bingo" class="wikilink"
+    title="Tankie:Argument Bingo">Tankie:Argument Bingo</a>
+
 ## AnarWiki Links
 
 In addition to these articles the AnarWiki Anarchist Wiki contains

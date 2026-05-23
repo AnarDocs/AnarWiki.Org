@@ -33,6 +33,8 @@ Coast</a>, <a href="Togo" class="wikilink" title="Togo">Togo</a> and
 was killed in a gunfight, his body dismembered and thrown into an
 unmarked grave.
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Africa" class="wikilink"
 title="Category:Africa">Category:Africa</a>
 <a href="Category:Western_Africa" class="wikilink"
@@ -41,5 +43,3 @@ title="Category:Western Africa">Category:Western Africa</a>
 title="Category:Marxist-Leninists">Category:Marxist-Leninists</a>
 <a href="Category:Burkina_Faso" class="wikilink"
 title="Category:Burkina Faso">Category:Burkina Faso</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>

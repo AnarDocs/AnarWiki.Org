@@ -57,10 +57,6 @@ Anarchist societies would not be without their own
 title="Motivations">Motivations</a> &
 <a href="Incentives" class="wikilink" title="Incentives">Incentives</a>.
 
-## Video Overview
-
-\<youtube\>zZSLFlAbycE\</YouTube\>
-
 ## Further Reading
 
 - [Anarchy Works - Human
@@ -69,6 +65,15 @@ title="Motivations">Motivations</a> &
   Nature](https://en.wikibooks.org/wiki/Anarchist_FAQ/What_is_Anarchism%3F/2.15)
 
 ## References
+
+<a href="Category:Videos" class="wikilink"
+title="Category:Videos">Category:Videos</a>
+<a href="Category:FAQ" class="wikilink"
+title="Category:FAQ">Category:FAQ</a>
+<a href="Category:Introduction" class="wikilink"
+title="Category:Introduction">Category:Introduction</a>
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Taken from:
     <https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works#toc7>

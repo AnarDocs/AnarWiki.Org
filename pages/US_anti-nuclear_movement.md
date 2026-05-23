@@ -247,6 +247,8 @@ least."[^20]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:USA" class="wikilink"
 title="Category:USA">Category:USA</a>
 <a href="Category:North_America" class="wikilink"

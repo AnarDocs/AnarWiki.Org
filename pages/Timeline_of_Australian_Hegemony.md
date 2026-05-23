@@ -32,7 +32,9 @@ title="Australian Hegemony">Australian Hegemony</a>.
 
 ## 2000s
 
-<a href="Category:Australia" class="wikilink"
-title="Category:Australia">Category:Australia</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Australia" class="wikilink"
+title="Category:Australia">Category:Australia</a>
+<a href="Category:Timelines" class="wikilink"
+title="Category:Timelines">Category:Timelines</a>

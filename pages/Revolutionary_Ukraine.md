@@ -13,7 +13,7 @@ title="Russian Revolution and Anarchy">Russian Revolution and
 Anarchy</a>.*
 
 From 1918 to 1921, Ukrainians established an autonomous region with
-seven million residents. Surrounding the city of Gulai-Polya, residents
+seven million residents. Surrounding the city of Huliaipole, residents
 ran several anarcho-communist communes and held regional Congresses. The
 Insurrectionary Army, with grassroots rule-making procedures and elected
 officers, defended the region against Austrian and German invaders, the
@@ -51,7 +51,7 @@ the town:
 The territory's workers and peasants governed themselves without a
 state, but the most systematic direct democracy took place in the towns
 that organized themselves as free communes. The first commune, “based on
-the non-authoritarian principle”, was located near Gulai-Polya and had
+the non-authoritarian principle”, was located near Huliaipole and had
 over 300 residents.[^3]
 
 The Makhovists organized periodic Regional Congresses, where delegates

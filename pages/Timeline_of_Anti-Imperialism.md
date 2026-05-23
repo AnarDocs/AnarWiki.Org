@@ -22,9 +22,9 @@ exploited countries for Independence.*
 - 2003: <a href="Anti-Iraq_War_Protests" class="wikilink"
   title="Anti-Iraq War Protests">Anti-Iraq War Protests</a> (Global)
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anti-Imperialism" class="wikilink"
 title="Category:Anti-Imperialism">Category:Anti-Imperialism</a>
 <a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>

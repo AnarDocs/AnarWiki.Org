@@ -1,11 +1,44 @@
-**Israel**, officially the "State of Israel" and referred to by
-Palestinians and their supporters as **Occupied Palestine** or the
-**Zionist Entity**, is a settler-colonial state in Western Asia
-established in 1948 through the violent displacement of the Palestinian
-population. From an anarchist perspective, Israel represents a
-particularly clear example of how state power, nationalism, militarism,
-and imperialism intersect to perpetuate hierarchical domination and
-systematic violence.
+**Israel** (officially the **State of Israel**, although sometimes
+called **Occupied Palestine** or the **Zionist Entity** by opponents) is
+an *extremely* controversial
+<a href="State_(Polity)" class="wikilink" title="state">state</a>
+located in West Asia. It is a blend of
+<a href="Liberalism" class="wikilink" title="liberal">liberal</a>
+<a href="Capitalism" class="wikilink" title="capitalist">capitalist</a>
+and settler colonialist elements and it is probably the most
+controversial state that currently exists today. It was founded with the
+intention of being a safe haven for Jewish people where Jewish people
+are the majority
+(<a href="Zionism" class="wikilink" title="Zionism">Zionism</a>).
+Although Jewish settlement began in the late 19th century, it turned
+into a low-level violent conflict with Palestinians (indigenous
+inhabitants of the land) around 1920, as well as several conflicts with
+surrounding states since 1948. Said conflict is famously complex and
+difficult to explain quickly, but anarchists generally sympathize with
+the Palestinian cause, *generally* holding the following positions:
+
+1.  Israel engages in brutal oppression of multiple different groups,
+    notably the Palestinians.
+2.  Israel is built on stolen land.
+3.  Israel's wars are primarily aggressive in nature, not defensive.
+4.  Israel's conduct is not a justification to feel hostility towards
+    Jewish people.
+5.  Hatred of Israel by various governments is often hypocritical and
+    more motivated by domestic political concerns rather than genuine
+    desire for human rights.
+
+Israel is probably the most heavily criticized state in the modern
+world, but it is heavily supported by the
+<a href="United_States_of_America" class="wikilink"
+title="United States">United States</a> and its allies and enjoys a
+vocal base of supporters worldwide. Part of the controversy not only
+includes a political element (that Israel is oppressive, warlike,
+discriminatory and unfair in how it treats many peoples) but also a
+religious one, Israel controls a large portion of Jerusalem. Considered
+the holiest city to Jews and the third holiest city to
+<a href="Islam" class="wikilink" title="Muslims">Muslims</a>. For many
+Muslims, 1948 was seen as the violent seizure of a holy city that had
+been under Islamic control for over a thousand years.
 
 ## Overview
 
@@ -865,6 +898,8 @@ freedom.
 
 ## See Also
 
+- <a href="List_of_States" class="wikilink" title="List of States">List of
+  States</a>
 - <a href="Settler_Colonialism" class="wikilink"
   title="Settler Colonialism">Settler Colonialism</a>
 - <a href="Anti-Zionism" class="wikilink"

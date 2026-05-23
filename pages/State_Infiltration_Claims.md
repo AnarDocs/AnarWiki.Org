@@ -297,10 +297,7 @@ title="Category:Marxism">Category:Marxism</a>
 title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 <a href="Category:United_States_History" class="wikilink"
 title="Category:United States History">Category:United States
-History</a>
-<a href="Category:Anti-Authoritarian_Communities" class="wikilink"
-title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
-Communities</a> <a href="Category:AnarWiki" class="wikilink"
+History</a> <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Ben Norton, "In COINTELPRO, FBI used anarchism to 'disrupt left',

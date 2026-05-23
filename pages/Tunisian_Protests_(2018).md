@@ -40,9 +40,9 @@ protests on
 [2018 Tunisian
 protests](https://en.wikipedia.org/wiki/2018_Tunisian_protests)
 
-<a href="Category:Africa" class="wikilink"
-title="Category:Africa">Category:Africa</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Africa" class="wikilink"
+title="Category:Africa">Category:Africa</a>
 <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>

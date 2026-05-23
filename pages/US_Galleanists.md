@@ -128,6 +128,9 @@ deportations of radicals to date."[^17]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: Peter Gelderloos, *How Nonviolence Protects the State, second
     edition* (Anarchy Library, 2012),
     <https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state>.

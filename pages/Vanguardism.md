@@ -611,6 +611,8 @@ transformation requires revolutionary organization.
 - [An Anarchist FAQ, Iain McKay et
   al.](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq)
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -629,8 +631,6 @@ Socialism</a> <a href="Category:Marxist-Leninism" class="wikilink"
 title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 <a href="Category:Criticism" class="wikilink"
 title="Category:Criticism">Category:Criticism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>

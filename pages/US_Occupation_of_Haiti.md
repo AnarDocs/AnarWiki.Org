@@ -47,6 +47,8 @@ daisy!
 
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:US_Imperialism" class="wikilink"
 title="Category:US Imperialism">Category:US Imperialism</a>
 <a href="Category:Haiti" class="wikilink"
@@ -65,8 +67,6 @@ title="Category:1910s">Category:1910s</a>
 title="Category:1920s">Category:1920s</a>
 <a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
     <https://en.wikipedia.org/wiki/Sexual_violence_in_Haiti#United_States_occupation_(1915%E2%80%931934)>

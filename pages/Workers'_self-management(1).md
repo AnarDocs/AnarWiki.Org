@@ -286,6 +286,8 @@ individual enterprises.[^15]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Workers&#39;_Self-Management" class="wikilink"
@@ -296,8 +298,7 @@ title="Category:Concepts">Category:Concepts</a>
 title="Category:Anarchism">Category:Anarchism</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+Socialism</a>
 
 [^1]: Proudhon, Pierre-Joseph. *What is Property?* (1840). Dover
     Publications, 1970.

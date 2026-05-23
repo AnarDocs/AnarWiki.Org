@@ -56,10 +56,10 @@ capitalist countries. This apparent paradox has many explanations.
 
 ## References
 
-<a href="Category:Cooperatives" class="wikilink"
-title="Category:Cooperatives">Category:Cooperatives</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Cooperatives" class="wikilink"
+title="Category:Cooperatives">Category:Cooperatives</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a>

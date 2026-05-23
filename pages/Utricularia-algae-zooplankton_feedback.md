@@ -22,6 +22,8 @@ loop is positive."
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Natural_World" class="wikilink"
 title="Category:Natural World">Category:Natural World</a>
 

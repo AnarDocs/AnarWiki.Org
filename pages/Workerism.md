@@ -204,6 +204,8 @@ title="Italian anarchism">Italian anarchism</a>.[^1]
   1988.
 - Antagonism. "Workerism". Retrieved from libcom.org, 1995.
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -214,8 +216,7 @@ title="Category:Ideologies">Category:Ideologies</a>
 title="Category:Anarchism">Category:Anarchism</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+Socialism</a>
 
 [^1]: Kallin, Hamish and Giovanna Gioli. *Thinking as Anarchists:
     Selected Writings from Volontá*. Edinburgh University Press, 2021.

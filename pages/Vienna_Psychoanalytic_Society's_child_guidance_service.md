@@ -27,6 +27,9 @@ From Colin Ward, Anarchy in Action [^2]:
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: <http://apsa.org/About_Psychoanalysis/Noted_Psychoanalysts.aspx#aichhorn>
 
 [^2]: <a href="Anarchy_in_Action" class="wikilink"

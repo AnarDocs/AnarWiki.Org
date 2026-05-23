@@ -37,6 +37,8 @@ Ngo Van Xuyet elaborates:
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Taoism" class="wikilink"
 title="Category:Taoism">Category:Taoism</a>
 <a href="Category:Anti-Authoritarian_Communities" class="wikilink"

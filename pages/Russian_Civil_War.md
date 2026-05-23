@@ -22,6 +22,8 @@ pre-World War level, and many crucial items experienced an even more
 drastic decline. For example, cotton production fell to 5%, and iron to
 2%, of pre-war levels.
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Russian_Civil_War" class="wikilink"
 title="Category:Russian Civil War">Category:Russian Civil War</a>
 <a href="Category:Russia" class="wikilink"
@@ -36,8 +38,6 @@ title="Category:1922">Category:1922</a>
 title="Category:1920s">Category:1920s</a>
 <a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Northern_Asia" class="wikilink"
 title="Category:Northern Asia">Category:Northern Asia</a>
 <a href="Category:Asia" class="wikilink"

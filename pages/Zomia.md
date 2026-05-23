@@ -235,6 +235,8 @@ years.[^20]
 - [Zomia Land Without
   State](https://booksandideas.net/Zomia-Land-Without-State)
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
@@ -243,8 +245,6 @@ title="Category:Anarchy In Action">Category:Anarchy In Action</a>
 title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a> <a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 

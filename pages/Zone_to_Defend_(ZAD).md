@@ -91,6 +91,8 @@ football stadium and one at Sivens against a dam.[^7]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Autonomous_Zones" class="wikilink"
 title="Category:Autonomous Zones">Category:Autonomous Zones</a>
 <a href="Category:France" class="wikilink"

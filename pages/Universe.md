@@ -7,6 +7,9 @@ connectedness.[^1]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: Brian Swimme and Thomas Berry, *The Universe Story: From the
     Primordial Flaring Forth to the Ecozoric Era* (San Francisco:
     HarperSanFrancisco, 1992), 71.

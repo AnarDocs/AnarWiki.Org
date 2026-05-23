@@ -83,6 +83,9 @@ away to other projects.[^6]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: Brian Tokar, *The Green Alternative: Creating an Ecological
     Future* (San Pedro: R. & E. Miles, 1992), 52-53.
 

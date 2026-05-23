@@ -749,6 +749,14 @@ federation and direct democracy.
   title="Anarcho-syndicalism">Anarcho-syndicalism</a>
 - <a href="Workers&#39;_Self-Management" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a>
+- <a href="Socialism_Definition" class="wikilink"
+  title="Socialism Definition">Socialism Definition</a>
+- <a href="Utopian_Socialism" class="wikilink"
+  title="Utopian Socialism">Utopian Socialism</a>
+- <a href="State_socialism" class="wikilink" title="State socialism">State
+  socialism</a>
+- <a href="Communism_Definition" class="wikilink"
+  title="Communism Definition">Communism Definition</a>
 
 ## References
 

@@ -216,6 +216,8 @@ Peter Gelderloos comments in *How Nonviolence Protects the State*:
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Direct_Action" class="wikilink"
 title="Category:Direct Action">Category:Direct Action</a>
 <a href="Category:USA" class="wikilink"

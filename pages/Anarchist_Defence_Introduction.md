@@ -74,10 +74,6 @@ title="Police Abolition">Police Abolition</a> and
 title="Prison Abolition">Prison Abolition</a> for other relevant
 information.
 
-## Video Overview
-
-\<youtube\>jNiETZLrfII\</youtube\>
-
 ## Further Reading
 
 - [Anarchy Works - \[Hostile\] Neighbouring
@@ -88,5 +84,16 @@ Dealing with crime -
 - [Anarchy Works -
   Crime](https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works#toc41)
 
+Stopping states reforming -
+
+- <a href="Preventing_State_Re-formation" class="wikilink"
+  title="Preventing State Re-formation">Preventing State Re-formation</a>
+
+<a href="Category:Videos" class="wikilink"
+title="Category:Videos">Category:Videos</a>
+<a href="Category:FAQ" class="wikilink"
+title="Category:FAQ">Category:FAQ</a>
+<a href="Category:Introduction" class="wikilink"
+title="Category:Introduction">Category:Introduction</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>

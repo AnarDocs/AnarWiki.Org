@@ -930,6 +930,12 @@ means of ensuring the accountability of production to consumption.
 
 - <a href="Lucas_Aerospace_Plan" class="wikilink"
   title="Lucas Aerospace Plan">Lucas Aerospace Plan</a>
+- <a href="Complex_Production" class="wikilink"
+  title="Complex Production">Complex Production</a>
+- Anarchist <a href="Cybernetics" class="wikilink"
+  title="Cybernetics">Cybernetics</a>
+- <a href="Workers&#39;_Self-Management" class="wikilink"
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
 
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian

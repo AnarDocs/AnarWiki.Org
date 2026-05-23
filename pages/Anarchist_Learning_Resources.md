@@ -417,5 +417,12 @@ and helped started the process of making it so.
 
 ## References
 
+<a href="Category:FAQ" class="wikilink"
+title="Category:FAQ">Category:FAQ</a>
+<a href="Category:Introduction" class="wikilink"
+title="Category:Introduction">Category:Introduction</a>
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: Taken from:
     <https://peacefulrevolutionary.substack.com/p/resisting-oppression-and-making-friends>

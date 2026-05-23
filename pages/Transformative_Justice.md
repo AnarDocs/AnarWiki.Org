@@ -217,6 +217,8 @@ effective and humane responses that address root causes.
 - [Creative Transformations (Toolkit for ending interpersonal
   violence)](https://www.creative-interventions.org/toolkit/)
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -231,8 +233,6 @@ title="Category:Prison Abolition">Category:Prison Abolition</a>
 title="Category:Anti-Authoritarianism">Category:Anti-Authoritarianism</a>
 <a href="Category:Social_Movements" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 

@@ -124,10 +124,10 @@ for further examples and context.
 
 <references/>
 
-<a href="Category:Timelines" class="wikilink"
-title="Category:Timelines">Category:Timelines</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Timelines" class="wikilink"
+title="Category:Timelines">Category:Timelines</a>
 <a href="Category:Healthcare" class="wikilink"
 title="Category:Healthcare">Category:Healthcare</a>
 

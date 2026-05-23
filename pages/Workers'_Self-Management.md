@@ -469,6 +469,8 @@ Wars</a>.[^51]
 
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"

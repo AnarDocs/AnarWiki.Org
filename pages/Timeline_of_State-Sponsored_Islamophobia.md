@@ -12,12 +12,12 @@ article on Islamophobia, click
 
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Religions" class="wikilink"
 title="Category:Religions">Category:Religions</a>
 <a href="Category:Islam" class="wikilink"
 title="Category:Islam">Category:Islam</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
     [Persecution of

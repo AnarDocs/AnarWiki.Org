@@ -96,3 +96,6 @@ increased. Therefore, the researcher believes that the goals of the
 student protestors were not reached.
 
 The researcher notes that similar protests occurred again in March 2012.
+
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>

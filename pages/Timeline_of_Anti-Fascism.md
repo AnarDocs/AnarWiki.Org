@@ -138,7 +138,7 @@ to the modern day.
   London.
 - 1999:
   <a href="Björn_Söderberg" class="wikilink" title="Björn Söderberg">Björn
-  Söderberg</a> is muredered by neo-nazis in his home in Sweden, leading
+  Söderberg</a> is murdered by neo-nazis in his home in Sweden, leading
   to tens of thousands of people protesting fascists in the country.
 
 ## 2000s
@@ -153,6 +153,8 @@ to the modern day.
   strongly weakens the growing US fascist movement known as the
   alt-right.
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>
 <a href="Category:Anti-Fascism" class="wikilink"

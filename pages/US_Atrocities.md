@@ -5960,5 +5960,7 @@ The original list is from
 [1](https://github.com/dessalines/essays/blob/main/us_atrocities.md)[atrocities.md
 <https://github.com/dessalines/essays/blob/main/us_atrocities.md>](Https://github.com/dessalines/essays/blob/main/us)
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>

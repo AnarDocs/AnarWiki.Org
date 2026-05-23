@@ -475,6 +475,8 @@ complex systems functioning safely.
   libcom.org](https://libcom.org/article/i-wouldnt-want-my-anarchist-friends-be-charge-nuclear-power-station-david-harvey-anarchism)
 - [International Atomic Energy Agency](https://www.iaea.org)
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -491,8 +493,7 @@ Self-Management</a>
 title="Category:Anarchist Economics">Category:Anarchist Economics</a>
 <a href="Category:Criticisms_of_Anarchism" class="wikilink"
 title="Category:Criticisms of Anarchism">Category:Criticisms of
-Anarchism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+Anarchism</a>
 
 [^1]: Perrow, Charles (1984). *Normal Accidents: Living with High-Risk
     Technologies*. Basic Books.

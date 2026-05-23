@@ -181,6 +181,8 @@ will be cast overboard.'[^10]
 - <a href="Civil_Law" class="wikilink" title="Civil Law">Civil Law</a>
 - <a href="Civil_Liberties" class="wikilink" title="Civil Liberties">Civil
   Liberties</a>
+- <a href="Positive_freedom" class="wikilink"
+  title="Positive freedom">Positive freedom</a>
 - <a href="Mutual_Aid" class="wikilink" title="Mutual Aid">Mutual Aid</a>
 - <a href="Direct_Action" class="wikilink" title="Direct Action">Direct
   Action</a>

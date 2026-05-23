@@ -99,6 +99,8 @@ fork.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Venezuela" class="wikilink"
 title="Category:Venezuela">Category:Venezuela</a>
 <a href="Category:Anti-Authoritarian_Communities" class="wikilink"

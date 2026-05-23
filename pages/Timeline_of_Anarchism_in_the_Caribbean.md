@@ -71,12 +71,12 @@ that have occurred in Caribbean that are relevant to
   title="Timeline of Anarchism in Oceania">Timeline of Anarchism in
   Oceania</a>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Caribbean" class="wikilink"
 title="Category:Caribbean">Category:Caribbean</a>
 <a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a>

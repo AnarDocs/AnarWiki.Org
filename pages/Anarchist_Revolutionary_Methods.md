@@ -698,16 +698,14 @@ See <a href="Anarchist_Programmes" class="wikilink"
 title="Anarchist Programmes">Anarchist Programmes</a> for detailed
 political plans.
 
-## Video Overview
-
-\<YouTube\>https://youtu.be/QdQ88l-7OCk\</YouTube\>
-
 ## References
 
 <references/>
 
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Videos" class="wikilink"
+title="Category:Videos">Category:Videos</a>
 <a href="Category:Anarchist_Transition" class="wikilink"
 title="Category:Anarchist Transition">Category:Anarchist Transition</a>
 <a href="Category:Anarchist_Theory" class="wikilink"
@@ -718,5 +716,9 @@ title="Category:Social Movements">Category:Social Movements</a>
 title="Category:Revolutionary Strategies">Category:Revolutionary
 Strategies</a> <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
+<a href="Category:FAQ" class="wikilink"
+title="Category:FAQ">Category:FAQ</a>
+<a href="Category:Introduction" class="wikilink"
+title="Category:Introduction">Category:Introduction</a>
 
 [^1]: Landauer, Gustav. *Revolution and Other Writings*

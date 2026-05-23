@@ -122,10 +122,10 @@ title="indigenists">indigenists</a>.[^2]
 
 ## References
 
-<a href="Category:Events" class="wikilink"
-title="Category:Events">Category:Events</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Events" class="wikilink"
+title="Category:Events">Category:Events</a>
 <a href="Category:Environmentalism" class="wikilink"
 title="Category:Environmentalism">Category:Environmentalism</a>
 <a href="Category:Brazil" class="wikilink"

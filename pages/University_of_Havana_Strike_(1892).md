@@ -25,10 +25,10 @@ funding for universities.[^3]
 
 ## References
 
-<a href="Category:Events" class="wikilink"
-title="Category:Events">Category:Events</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Events" class="wikilink"
+title="Category:Events">Category:Events</a>
 <a href="Category:1890s" class="wikilink"
 title="Category:1890s">Category:1890s</a>
 <a href="Category:1892" class="wikilink"

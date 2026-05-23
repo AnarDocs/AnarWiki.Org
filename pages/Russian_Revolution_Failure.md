@@ -734,6 +734,8 @@ in their own democratic institutions.
   Friends of Aron Baron
 - Jan Valtín, Out of the Night
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Past_Anarchist_Societies" class="wikilink"
 title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a> <a href="Category:20th_Century" class="wikilink"
@@ -744,8 +746,6 @@ title="Category:Marxist-Leninism">Category:Marxist-Leninism</a>
 title="Category:Russia">Category:Russia</a>
 <a href="Category:Counter-Revolution" class="wikilink"
 title="Category:Counter-Revolution">Category:Counter-Revolution</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Vladimir Lenin, *Collected Works*, vol. 27 (Moscow: Progress
     Publishers, 1965), 88-89.

@@ -745,3 +745,5 @@ title="Anarchism in Vietnam">Anarchism in Vietnam</a>
 
 <a href="Category:Historians_of_anarchism" class="wikilink"
 title="l1=Historians of anarchism">l1=Historians of anarchism</a>
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>

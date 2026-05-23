@@ -163,9 +163,9 @@ strikes.
   organisations that left the IWA, arguing for a more syndicalist
   approach for anarchism.
 
-<a href="Category:Timelines" class="wikilink"
-title="Category:Timelines">Category:Timelines</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Timelines" class="wikilink"
+title="Category:Timelines">Category:Timelines</a>
 <a href="Category:Anarcho-Syndicalism" class="wikilink"
 title="Category:Anarcho-Syndicalism">Category:Anarcho-Syndicalism</a>

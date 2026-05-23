@@ -350,6 +350,8 @@ state mismanagement, not traditional commons[^30]
   Ostrom](https://c4ss.org/wp-content/uploads/2014/01/Anarchist-Themes-in-the-Work-of-Elinor-Ostrom.pdf)
   by Kevin Carson
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -366,8 +368,6 @@ title="Category:Property">Category:Property</a>
 title="Category:Propertarianism">Category:Propertarianism</a>
 <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>

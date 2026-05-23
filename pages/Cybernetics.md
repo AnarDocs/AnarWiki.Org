@@ -56,14 +56,14 @@ and Significance of Cybernetics" for *Anarchy* in 1963. Walter was the
 father of <a href="Nicholas_Walter" class="wikilink"
 title="Nicholas Walter">Nicholas Walter</a>, a frequent contributor to
 the *Freedom* newspaper and close associate of Colin Ward. Grey Walter
-had been "a communist fellow-traveler before the Second World War and an
-anarchist sympathizer after it."[^5]
+had been a communist fellow-traveler before the Second World War and an
+anarchist sympathizer after it.[^5]
 
 Walter's experiments with self-steering robotic "tortoises" demonstrated
 emergent behaviors without central control. In his *Anarchy* article,
-Walter concluded by noting the similarities between brain organization
-and anarchist approaches to organization, writing that "we find no boss
-in the brain, no oligarchic ganglion or glandular Big Brother."[^6] He
+Walter concluded by drawing parallels between brain organization and
+anarchist approaches to organization, writing that "we find no boss in
+the brain, no oligarchic ganglion or glandular Big Brother."[^6] He
 described how different parts of the brain relate to one another through
 "free and equal intercourse," stating that "if we must identify
 biological and political systems our own brains would seem to illustrate
@@ -83,16 +83,14 @@ assumptions of traditional governance. He wrote that "the basic premise
 of the governmentalist – namely, that any society must incorporate some
 mechanisms for overall control – is certainly true, if we use 'control'
 in the sense of 'maintain a large number of critical variables within
-limits of toleration.'" However, he noted that "the error of the
-governmentalist is to think that 'incorporate some mechanism for
-control' is always equivalent to 'include a fixed isolatable control
-unit to which the rest, i.e. the majority, of the system is
-subservient.'"[^9]
+limits of toleration.'" The error of the governmentalist, he argued, lay
+in thinking that "incorporate some mechanism for control" was always
+equivalent to "include a fixed isolatable control unit to which the
+rest, i.e. the majority, of the system is subservient."[^9]
 
-McEwan challenged the "governmentalist" assumption that control required
-"a fixed isolatable control unit to which the rest of the system is
-subservient," proposing instead that effective control emerges through
-autonomous coordination. He drew connections between
+McEwan challenged this assumption by proposing instead that effective
+control emerges through autonomous coordination. He drew connections
+between
 <a href="Peter_Kropotkin" class="wikilink" title="Peter Kropotkin">Peter
 Kropotkin</a>'s understanding of natural harmony and cybernetic
 principles, noting how Kropotkin described anarchist society as one that
@@ -115,10 +113,10 @@ the federative principle."[^11]
 
 ### Self-Organization
 
-At the center of anarchist cybernetics is the concept of
+At the centre of anarchist cybernetics is the concept of
 **self-organization**. While initially developed in the context of
 technical systems, self-organization was applied to social systems,
-providing a framework for understanding how people can organize
+providing a framework for understanding how people can organise
 collectively without structural hierarchies of command.
 
 Self-organization in cybernetics refers to how systems maintain
@@ -156,15 +154,15 @@ If systems are too rigid and lack this capacity for variety, they become
 overwhelmed and break down. For anarchists, this systemic rigidity has
 another implication: **domination**. Authoritarian coercion acts to
 restrain the variety of the system, forcing everyone to fit into a
-limited number of possible roles and behaviors, curtailing freedom and
+limited number of possible roles and behaviours, curtailing freedom and
 autonomy.
 
 ### Heterarchy vs Hierarchy
 
 Warren McCulloch's concept of **heterarchy** made it possible to
 understand complex systems outside the restrictive dichotomy between
-hierarchies and flat markets, emphasizing instead self-organization,
-feedback loops, and complex networks.[^14]
+hierarchies and flat markets, emphasising self-organization, feedback
+loops, and complex networks.[^14]
 
 McEwan distinguished between "anatomical hierarchy" (structural
 hierarchy of command) and "functional hierarchy" (logical ordering of
@@ -178,8 +176,8 @@ whole.[^15]
 
 Cybernetics redefines **control** not as something done to a system or
 group of people but as something a system or group itself does. For
-anarchism, this means people self-organizing to govern themselves. As
-cyberneticist Allenna Leonard described it, control in viable systems is
+anarchism, this means people self-organising to govern themselves.
+Cyberneticist Allenna Leonard described control in viable systems as
 "the control of a skier going down a hill" – finding collective balance
 rather than compliance with higher authority.[^16]
 
@@ -204,11 +202,10 @@ coordination. Glushkov proposed OGAS as a decentralized computational
 network designed to replace centralized state planning with autonomous,
 non-hierarchical coordination.[^18]
 
-However, the Soviet government eventually abandoned the project in favor
-of the less threatening Kosygin-Liberman market-based reforms, as OGAS
-was perceived as a threat to centralized state authority. The project
-was ultimately rejected by Soviet authorities who perceived it as
-threatening their control.[^19]
+The Soviet government eventually abandoned the project in favour of the
+less threatening Kosygin-Liberman market-based reforms, as OGAS was
+perceived as a threat to centralized state authority and ultimately
+rejected by Soviet authorities.[^19]
 
 Despite official prohibition during Stalin's regime, cybernetics grew
 significantly in the Soviet Union after 1953, thanks largely to private
@@ -232,16 +229,16 @@ machines, statistical modeling software, economic simulator software,
 and an operations room where observers could oversee data flows and
 respond to emergencies. Beer's goal was to develop self-regulating
 factories and assign decision-making power entirely to workers-owned
-structures in a way compatible with the larger national economy, aimed
+structures in a way compatible with the larger national economy, aiming
 to enable real-time worker self-management of the economy through
 networked communication systems.[^22][^23]
 
 The system came close to full functionality and helped defeat an earlier
-coup attempt in 1972. However, when the CIA-backed military coup
-succeeded in September 1973, resulting in Allende's death, the military
-destroyed the Cybersyn operations room and entirely dismantled the
-system. The project remained unfinished when Pinochet's coup destroyed
-the Allende government.[^24]
+coup attempt in 1972. When the CIA-backed military coup succeeded in
+September 1973, resulting in Allende's death, the military destroyed the
+Cybersyn operations room and entirely dismantled the system. The project
+remained unfinished when Pinochet's coup destroyed the Allende
+government.[^24]
 
 ### Stafford Beer's Radicalization
 
@@ -249,7 +246,7 @@ The Chilean experience profoundly affected Stafford Beer. Following
 Allende's death, Beer abandoned his luxurious consultant lifestyle,
 moving to a small cottage in Wales without running water. In his 1973
 lecture series "Designing Freedom" for the Canadian Broadcasting
-Corporation, Beer articulated a decidedly political vision emphasizing
+Corporation, Beer articulated a decidedly political vision emphasising
 decentralization and autonomy.
 
 Beer stated: "According to the analysis of centralization and
@@ -294,8 +291,8 @@ Environmental monitoring and adaptation.
 **System Five**: Identity or ethos of the organization, providing values
 that guide all activities. Organizational identity and values.
 
-Crucially, these functions represent logical rather than structural
-hierarchies. Beer emphasized that these functions need not be arranged
+These functions represent logical rather than structural hierarchies.
+Beer emphasised that these functions need not be arranged
 hierarchically. Through democratic deliberation and collective
 decision-making, each function can be replicated without hierarchical
 governance structures. The same people can fulfill different functions
@@ -322,18 +319,17 @@ organization can function efficiently at large scales. Aurora Apolito
 identifies scale as "perhaps the most fundamental problem of
 anarchism."[^31]
 
-Historically, critics have argued that anarchism works well locally but
-fails to provide convincing theory for scaling up. While anarchist
-principles work well in small communities, critics question whether
-decentralized, non-hierarchical organization can effectively manage
-large-scale services like transportation, healthcare, and resource
-distribution.
+Critics have argued that anarchism works well locally but fails to
+provide convincing theory for scaling up. While anarchist principles
+work well in small communities, critics question whether decentralized,
+non-hierarchical organization can effectively manage large-scale
+services like transportation, healthcare, and resource distribution.
 
 Anarchist cybernetics responds by showing that large-scale coordination
 emerges through networked self-organization rather than centralized
-planning. The key insight is that effective large-scale systems require
-sufficient **informational complexity** to function. Historical analysis
-suggests societies attempting significant scale growth with limited
+planning. Effective large-scale systems require sufficient
+**informational complexity** to function. Historical analysis suggests
+societies attempting significant scale growth with limited
 information-processing capacity tend toward authoritarian forms, while
 sufficient informational complexity enables diverse organizational
 forms.[^32]
@@ -384,7 +380,7 @@ principles in action through spontaneous mutual aid networks.[^39]
 
 Anarchist cybernetics provides a framework for understanding how these
 networks function as viable self-organized systems. Mutual aid networks
-embody VSM functions exhibited:
+embody VSM functions:
 
 - Autonomous local groups working in communities (System One operations)
 - Communication channels like WhatsApp groups for coordination through
@@ -441,13 +437,13 @@ organization:
 
 **Cybernetic Communism** proposes computational approaches to communist
 economic organization that avoid both market mechanisms and centralized
-state planning. This tendency emphasizes maximizing **integrated
+state planning. This tendency emphasises maximizing **integrated
 information** – the informational complexity in a system not reducible
 to separate parts – as an alternative to profit maximization.[^44]
 
 Integrated information measures causal interconnectedness of subsystems.
-Maximizing it favors cooperation over competition (competition decreases
-interconnectedness), eliminates barriers to knowledge sharing
+Maximizing it favours cooperation over competition (competition
+decreases interconnectedness), eliminates barriers to knowledge sharing
 (inaccessibility decreases causal connectedness), and prevents wealth
 accumulation (concentration separates subsystems). This provides a
 "collectivity that maximizes individual agency because it maximizes the
@@ -489,13 +485,13 @@ Apolito, and Tektological Serendipity.[^49]
 
 ### Concerns About Authoritarianism
 
-Some critics link cybernetics to "authoritarianism and top-down control"
-and disaster capitalism that treats people as manipulable and
+Some critics link cybernetics to authoritarianism and top-down control,
+and to disaster capitalism that treats people as manipulable and
 disposable. The term's etymological origins in Plato's vision of
 philosopher-king rule and its historical associations with management
 consultancy and military applications fuel these concerns.[^50]
 
-Anarchist cybernetics addresses these concerns by emphasizing that
+Anarchist cybernetics addresses these concerns by emphasising that
 cybernetic principles of self-organization fundamentally oppose
 hierarchical command structures. The science of cybernetics itself is
 politically neutral – its application can serve either authoritarian or
@@ -504,10 +500,10 @@ libertarian ends depending on implementation.
 ### Technology and Determinism
 
 Critics worry that cybernetic approaches may lead to technological
-determinism or reduce social organization to mechanical processes.
-Critics warn against assuming technology automatically produces
-liberation. Market mechanisms emerged from information systems meant to
-enable socialist planning, suggesting that tools alone don't determine
+determinism or reduce social organization to mechanical processes,
+warning against assuming technology automatically produces liberation.
+Market mechanisms emerged from information systems meant to enable
+socialist planning, suggesting that tools alone don't determine
 outcomes.[^51]
 
 Anarchist cybernetics responds that the VSM and related concepts are
@@ -520,11 +516,11 @@ or false models.[^52]
 
 Some anarchists and autonomist communists object to mathematical
 approaches to social organization, viewing them as inherently aligned
-with financial capitalism. However, this conflates the profit-driven
-mathematics of markets with mathematical analysis generally. The
-communist and anarchist traditions have historically been
-techno-optimist, viewing sophisticated analysis as essential for seizing
-and managing means of production.[^53]
+with financial capitalism. This conflates the profit-driven mathematics
+of markets with mathematical analysis generally. The communist and
+anarchist traditions have historically been techno-optimist, viewing
+sophisticated analysis as essential for seizing and managing means of
+production.[^53]
 
 The challenge is not avoiding mathematical methods but developing
 appropriate mathematical frameworks that capture values beyond profit –
@@ -540,17 +536,6 @@ to insufficient computational resources and mathematical tools.[^54]
 Questions remain about how cybernetic systems prevent capture by
 authoritarian forces or market dynamics, particularly during transition
 periods.
-
-## Conclusion
-
-Anarchist cybernetics offers frameworks for understanding and
-implementing self-organization at scale, potentially resolving tensions
-between local autonomy and large-scale coordination. While not a
-complete solution, it provides tools for thinking beyond the false
-dichotomy of hierarchical states versus atomized markets. Success
-depends not on technology alone but on developing appropriate social
-practices, mathematical models, and organizational cultures that
-maximize both individual agency and collective capacity.
 
 ## External links
 
@@ -573,6 +558,19 @@ maximize both individual agency and collective capacity.
   Studies
   21:1](https://journals.lwbooks.co.uk/anarchiststudies/vol-21-issue-1/abstract-9283/)
 
+## See Also
+
+## See Also
+
+- <a href="Anarchist_Production_At_Scale" class="wikilink"
+  title="Anarchist Production At Scale">Anarchist Production At Scale</a>
+- <a href="Complex_Production" class="wikilink"
+  title="Complex Production">Complex Production</a>
+- Anarchist <a href="Cybernetics" class="wikilink"
+  title="Cybernetics">Cybernetics</a>
+- <a href="Workers&#39;_Self-Management" class="wikilink"
+  title="Workers&#39; Self-Management">Workers' Self-Management</a>
+
 ## References
 
 <references/>
@@ -581,11 +579,7 @@ maximize both individual agency and collective capacity.
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
-<a href="Category:Anarchism" class="wikilink"
-title="Category:Anarchism">Category:Anarchism</a>
-<a href="Category:Libertarian_Socialism" class="wikilink"
-title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:Organizational_Theory" class="wikilink"
+<a href="Category:Organizational_Theory" class="wikilink"
 title="Category:Organizational Theory">Category:Organizational
 Theory</a> <a href="Category:Self-Organization" class="wikilink"
 title="Category:Self-Organization">Category:Self-Organization</a>
@@ -606,8 +600,7 @@ title="Category:Featured">Category:Featured</a>
 [^2]: John D. McEwan, "Anarchism and the Cybernetics of Self-Organising
     Systems," Anarchy 31, September 1963
 
-[^3]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^3]:
 
 [^4]: Norbert Wiener, Cybernetics, or control and communication in the
     animal and the machine, MIT Press, 1948
@@ -618,14 +611,11 @@ title="Category:Featured">Category:Featured</a>
 [^6]: William Grey Walter, "The Development and Significance of
     Cybernetics," Anarchy 25, March 1963
 
-[^7]: William Grey Walter, "The Development and Significance of
-    Cybernetics," Anarchy 25, March 1963
+[^7]:
 
-[^8]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^8]:
 
-[^9]: John D. McEwan, "Anarchism and the Cybernetics of Self-organising
-    Systems," Anarchy 31, September 1963
+[^9]:
 
 [^10]: Pëtr Kropotkin, "Anarchism: Its Philosophy and Ideal"
 
@@ -634,15 +624,13 @@ title="Category:Featured">Category:Featured</a>
 [^12]: Thomas Swann, "The Anarchist Cybernetics of Mutual Aid,"
     Anarchist Studies Blog, May 15, 2020
 
-[^13]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^13]:
 
 [^14]: Warren S. McCulloch, "A Heterarchy of Values Determined by the
     Topology of Nervous Nets," Bulletin of Mathematical Biophysics, 7,
     1945
 
-[^15]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^15]:
 
 [^16]: Allenna Leonard, "Viable Systems Model Revisited. A Conversation
     with Dr Allenna Leonard," The System Excellence Group
@@ -650,8 +638,7 @@ title="Category:Featured">Category:Featured</a>
 [^17]: Benjamin Peters, How Not to Network a Nation. The Uneasy History
     of the Soviet Internet, MIT Press, 2016
 
-[^18]: Benjamin Peters, How Not to Network a Nation. The Uneasy History
-    of the Soviet Internet, MIT Press, 2016
+[^18]:
 
 [^19]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
     for Cybernetic Communism," June 2020
@@ -662,84 +649,65 @@ title="Category:Featured">Category:Featured</a>
 [^21]: Eden Medina, Cybernetic Revolutionaries. Technology and Politics
     in Allende's Chile, MIT Press, 2011
 
-[^22]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^22]:
 
-[^23]: Eden Medina, Cybernetic Revolutionaries. Technology and Politics
-    in Allende's Chile, MIT Press, 2011
+[^23]:
 
-[^24]: Eden Medina, Cybernetic Revolutionaries, MIT Press, 2011
+[^24]:
 
 [^25]: Stafford Beer, Designing Freedom, Toronto: Anansi, 1974
 
-[^26]: Stafford Beer, Designing Freedom, 1974
+[^26]:
 
 [^27]: Stafford Beer, Diagnosing the System for Organizations, John
     Wiley & Sons, 1985
 
-[^28]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^28]:
 
 [^29]: Jon Walker, "The VSM Guide," www.esrad.org.uk/resources/vsmg_3
 
-[^30]: Thomas Swann, "The Anarchist Cybernetics of Mutual Aid,"
-    Anarchist Studies Blog, May 15, 2020
+[^30]:
 
-[^31]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^31]:
 
 [^32]: Jaeweon Shin et al., "Scale and information-processing thresholds
     in Holocene social evolution," Nature Communications, 2020
 
-[^33]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^33]:
 
-[^34]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^34]:
 
 [^35]: Ginestra Bianconi, Multilayer Networks, Oxford University Press,
     2018
 
-[^36]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^36]:
 
-[^37]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^37]:
 
 [^38]: Murray Gell-Mann & Seth Lloyd, "Information Measures, Effective
     Complexity, and Total Information," Complexity 2: 44-52, 1996
 
-[^39]: Thomas Swann, "The Anarchist Cybernetics of Mutual Aid,"
-    Anarchist Studies Blog, May 15, 2020
+[^39]:
 
-[^40]: Thomas Swann, "The Anarchist Cybernetics of Mutual Aid,"
-    Anarchist Studies Blog, May 15, 2020
+[^40]:
 
-[^41]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^41]:
 
-[^42]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^42]:
 
-[^43]: Jon Walker, "The VSM Guide"
+[^43]:
 
-[^44]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^44]:
 
-[^45]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^45]:
 
-[^46]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^46]:
 
-[^47]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^47]:
 
-[^48]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^48]:
 
-[^49]: Thomas Swann, "Anarchist Cybernetics," Institute for Anarchist
-    Studies, May 13, 2021
+[^49]:
 
 [^50]: John Preston and Rhiannon Firth, Coronavirus, Class, and Mutual
     Aid in the United Kingdom, Palgrave Macmillan, 2020
@@ -747,11 +715,8 @@ title="Category:Featured">Category:Featured</a>
 [^51]: John Duda, "Cybernetics, Anarchism and Self-organisation,"
     Anarchist Studies 21(1): 52-72, 2013
 
-[^52]: Stafford Beer, Diagnosing the System for Organizations, John
-    Wiley & Sons, 1985
+[^52]:
 
-[^53]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^53]:
 
-[^54]: Aurora Apolito, "The Problem of Scale in Anarchism and the Case
-    for Cybernetic Communism," June 2020
+[^54]:

@@ -144,10 +144,6 @@ Crete</a> | Greece | 3000 - 1100 BC | 300-500,000 |
 - <a href="The_Shire" class="wikilink" title="The Shire">The Shire</a> -
   Tolkien's Hobbit Anarchist society.
 
-## Video Overview
-
-\<YouTube\>8MfogLhYJWA\</Youtube\>
-
 ## Further Reading
 
 - <a href="Anarchy_In_Action_Examples" class="wikilink"
@@ -174,3 +170,12 @@ See -
 
 - <a href=":Category:Workers&#39;_Self-Management" class="wikilink"
   title="Workers&#39; Self-Management">Workers' Self-Management</a>
+
+<a href="Category:Videos" class="wikilink"
+title="Category:Videos">Category:Videos</a>
+<a href="Category:FAQ" class="wikilink"
+title="Category:FAQ">Category:FAQ</a>
+<a href="Category:Introduction" class="wikilink"
+title="Category:Introduction">Category:Introduction</a>
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>

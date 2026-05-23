@@ -262,6 +262,8 @@ power to overthrow capitalism.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -272,8 +274,7 @@ title="Category:Ideologies">Category:Ideologies</a>
 title="Category:Anarchism">Category:Anarchism</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+Socialism</a>
 
 [^1]: Zabalaza Anarchist Communist Front, "Class Struggle, Capitalism
     and the State" (2000)

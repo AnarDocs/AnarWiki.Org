@@ -9,11 +9,13 @@ title="Image_taken_from_page_14_of_&#39;Report_of_an_expedition_down_the_Zuni_an
 
 The **Zuni** (A:shiwi) are a
 <a href="Pueblo" class="wikilink" title="Pueblo">Pueblo</a> people
-indigenous to what is now the southwestern "United States." For
-thousands of years, the Zuni maintained traditions of egalitarian
-society governed communally with the facilitation of non-coercive
-chiefs. Libertarian Marxist psychologist Erich Fromm described the Zuni
-as a paradigmatic life-affirming (*biophilic*) society.[^1]
+indigenous to what is now the southwestern
+"<a href="United_States_of_America" class="wikilink"
+title="United States">United States</a>." For thousands of years, the
+Zuni maintained traditions of egalitarian society governed communally
+with the facilitation of non-coercive chiefs. Libertarian Marxist
+psychologist Erich Fromm described the Zuni as a paradigmatic
+life-affirming (*biophilic*) society.[^1]
 
 ## History
 
@@ -216,6 +218,8 @@ integration of spiritual practices with daily life.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anti-Authoritarian_Communities" class="wikilink"
 title="Category:Anti-Authoritarian Communities">Category:Anti-Authoritarian
 Communities</a> <a href="Category:Anarchy_In_Action" class="wikilink"
@@ -231,10 +235,6 @@ title="Category:USA">Category:USA</a>
 <a href="Category:Past_Anarchist_Societies" class="wikilink"
 title="Category:Past Anarchist Societies">Category:Past Anarchist
 Societies</a> <a href="Category:Featured" class="wikilink"
-title="Category:Featured">Category:Featured</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Erich Fromm, *The Anatomy of Human Destructiveness* (New York:

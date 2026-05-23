@@ -350,6 +350,8 @@ and that this slavery of wages must go down with the other."[^41]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"
 title="Category:Anarchist Concepts">Category:Anarchist Concepts</a>
 <a href="Category:Concepts" class="wikilink"
@@ -363,8 +365,7 @@ title="Category:Criticism and Refusal of Work">Category:Criticism and
 Refusal of Work</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+Socialism</a>
 
 [^1]: Merriam-Webster Dictionary
 

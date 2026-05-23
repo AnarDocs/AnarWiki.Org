@@ -37,6 +37,8 @@ ecologically-oriented society existed for around 3,000 years.[^1]
 
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Turkey" class="wikilink"
 title="Category:Turkey">Category:Turkey</a>
 <a href="Category:Revolutions" class="wikilink"
@@ -45,8 +47,6 @@ title="Category:Revolutions">Category:Revolutions</a>
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> <a href="Category:Societies" class="wikilink"
 title="Category:Societies">Category:Societies</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Western_Asia" class="wikilink"
 title="Category:Western Asia">Category:Western Asia</a>
 <a href="Category:Asia" class="wikilink"

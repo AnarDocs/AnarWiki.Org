@@ -88,10 +88,10 @@ class="wikilink"
 title="Wikipedia Article on United States involvement in regime change">Wikipedia
 Article on United States involvement in regime change</a>
 
-<a href="Category:USA" class="wikilink"
-title="Category:USA">Category:USA</a>
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:USA" class="wikilink"
+title="Category:USA">Category:USA</a>
 <a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>
 <a href="Category:Timelines" class="wikilink"

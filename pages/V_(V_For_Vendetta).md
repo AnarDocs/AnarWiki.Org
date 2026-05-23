@@ -275,11 +275,16 @@ than reformist responses.
 ### Permanent Revolution
 
 V's anarchism embodies what Moore, through the character of Shevek in
-Ursula K. Le Guin's The Dispossessed, describes as "permanent
-revolution"—the idea that revolution is not a single event but an
-ongoing process of transformation. V's death and Evey's assumption of
-his identity suggest that anarchist revolution requires continual
-renewal rather than the establishment of a new fixed order.
+<a href="Ursula_K._Le_Guin" class="wikilink"
+title="Ursula K. Le Guin">Ursula K. Le Guin</a>'s
+<a href="The_Dispossessed" class="wikilink" title="The Dispossessed">The
+Dispossessed</a>, describes as
+"<a href="permanent_revolution" class="wikilink"
+title="permanent revolution">permanent revolution</a>"—the idea that
+revolution is not a single event but an ongoing process of
+transformation. V's death and Evey's assumption of his identity suggest
+that anarchist revolution requires continual renewal rather than the
+establishment of a new fixed order.
 
 ### Relationship to Violence
 
@@ -309,6 +314,8 @@ authoritarian relations in the name of liberation.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Fictional_Anarchists" class="wikilink"
 title="Category:Fictional Anarchists">Category:Fictional Anarchists</a>
 <a href="Category:Fictional_Characters" class="wikilink"
@@ -319,9 +326,7 @@ title="Category:V for Vendetta">Category:V for Vendetta</a>
 title="Category:Propaganda of the Deed">Category:Propaganda of the
 Deed</a> <a href="Category:Insurrectionary_Anarchism" class="wikilink"
 title="Category:Insurrectionary Anarchism">Category:Insurrectionary
-Anarchism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:Featured" class="wikilink"
+Anarchism</a> <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 
 [^1]: Moore, Alan. V for Vendetta, Chapter II: Verwirrung, p. 15
@@ -338,15 +343,15 @@ title="Category:Featured">Category:Featured</a>
 
 [^6]: Moore, Alan. "A for Alan" interview, November 2005
 
-[^7]: Moore, Alan. "A for Alan" interview, November 2005
+[^7]:
 
-[^8]: Moore, Alan. "A for Alan" interview, November 2005
+[^8]:
 
-[^9]: Moore, Alan. "A for Alan" interview, November 2005
+[^9]:
 
-[^10]: Moore, Alan. "A for Alan" interview, November 2005
+[^10]:
 
-[^11]: Moore, Alan. "A for Alan" interview, November 2005
+[^11]:
 
 [^12]: Loy, Taylor Andrew. "Anarchy in Critical Dystopias: An Anatomy of
     Rebellion", 2008

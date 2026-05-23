@@ -34,5 +34,7 @@ union secretary to kiss the Union Jack (the flag of the
 most union leaders resigned, all were reelected in the ensuing union
 elections.
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Strikes" class="wikilink"
 title="Category:Strikes">Category:Strikes</a>

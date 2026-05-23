@@ -70,6 +70,8 @@ events that have occurred in Western Africa that are relevant to
   title="Timeline of Anarchism in Oceania">Timeline of Anarchism in
   Oceania</a>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Timelines" class="wikilink"
 title="Category:Timelines">Category:Timelines</a>
 <a href="Category:Africa" class="wikilink"
@@ -78,5 +80,4 @@ title="Category:Africa">Category:Africa</a>
 title="Category:Western Africa">Category:Western Africa</a>
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
-Socialism</a> <a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
+Socialism</a>

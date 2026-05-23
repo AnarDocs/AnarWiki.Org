@@ -1,80 +1,112 @@
 ## Miscellaneous
 
+- <a href="Anti-authoritarianism" class="wikilink"
+  title="Anti-authoritarianism">Anti-authoritarianism</a> -
+  <https://en.wikipedia.org/wiki/Anti-authoritarianism>
+- <a href="Anti-capitalism" class="wikilink"
+  title="Anti-capitalism">Anti-capitalism</a> -
+  <https://en.wikipedia.org/wiki/Anti-capitalism>
+- <a href="Anti-statism" class="wikilink"
+  title="Anti-statism">Anti-statism</a> - see
+  <a href="State" class="wikilink" title="State">State</a>
 - <a href="Authority" class="wikilink" title="Authority">Authority</a> /
   <a href="Authority_of_Cobbler" class="wikilink"
   title="Authority of Cobbler">Authority of Cobbler</a> /
   <a href="Hierarchy" class="wikilink" title="Hierarchy">Hierarchy</a>
+- <a href="Autonomism" class="wikilink" title="Autonomism">Autonomism</a> -
+  <https://en.wikipedia.org/wiki/Autonomist_Marxism>
+- <a href="Black_bloc" class="wikilink" title="Black bloc">Black bloc</a> -
+  <https://en.wikipedia.org/wiki/Black_bloc>
+- <a href="Bureaucracy" class="wikilink"
+  title="Bureaucracy">Bureaucracy</a>
 - <a href="Bourgeoisie" class="wikilink"
   title="Bourgeoisie">Bourgeoisie</a> -
   <https://rationalwiki.org/wiki/Ruling_class>
-- <a href="Commodification" class="wikilink"
-  title="Commodification">Commodification</a> / decommodification /
-  demarketisation - <https://en.wikipedia.org/wiki/Commodification>
+- <a href="Christianity" class="wikilink"
+  title="Christianity">Christianity</a>
+- <a href="Class_Struggle" class="wikilink" title="Class Struggle">Class
+  Struggle</a> - <https://en.wikipedia.org/wiki/Class_struggle>
+- <a href="Common_Ownership" class="wikilink"
+  title="Common Ownership">Common Ownership</a> -
+  <https://en.wikipedia.org/wiki/Common_ownership>
+- <a href="Confederation" class="wikilink"
+  title="Confederation">Confederation</a> /
+  <a href="Federation" class="wikilink" title="Federation">Federation</a>
+- <a href="Consensus" class="wikilink" title="Consensus">Consensus</a> -
+  <https://en.wikipedia.org/wiki/Consensus_decision-making>
+- <a href="Cooperative" class="wikilink"
+  title="Cooperative">Cooperative</a> -
+  <https://en.wikipedia.org/wiki/Cooperative>
 - <a href="Crime" class="wikilink" title="Crime">Crime</a> -
   <a href=":Category:Justice" class="wikilink"
   title=":Category:Justice">:Category:Justice</a>
-- <a href="Dual_Power" class="wikilink" title="Dual Power">Dual Power</a> -
-  <https://en.wikipedia.org/wiki/Dual_power>
+- <a href="Decentralization" class="wikilink"
+  title="Decentralization">Decentralization</a> -
+  <https://en.wikipedia.org/wiki/Decentralization>
 - <a href="Especifismo" class="wikilink"
   title="Especifismo">Especifismo</a> -
   <https://en.wikipedia.org/wiki/Platformism>
-- <a href="Externalities" class="wikilink"
-  title="Externalities">Externalities</a> -
-  <https://rationalwiki.org/wiki/Externalities> /
-  <https://en.wikipedia.org/wiki/Externality>
 - <a href="Fascism" class="wikilink" title="Fascism">Fascism</a> -
   <https://rationalwiki.org/wiki/Fascism> /
   <https://en.wikipedia.org/wiki/Fascism>
+- <a href="Free_association" class="wikilink"
+  title="Free association">Free association</a> -
+  <https://en.wikipedia.org/wiki/Free_association_of_producers> /
+  <https://en.wikipedia.org/wiki/Voluntary_association>
+- <a href="First_International" class="wikilink"
+  title="First International">First International</a> -
+  <https://en.wikipedia.org/wiki/First_International>
+- <a href="General_strike" class="wikilink" title="General strike">General
+  strike</a> - <https://en.wikipedia.org/wiki/General_strike>
+- <a href="Illegalism" class="wikilink" title="Illegalism">Illegalism</a> -
+  <https://en.wikipedia.org/wiki/Illegalism>
+- <a href="Imperialism" class="wikilink"
+  title="Imperialism">Imperialism</a> -
+  <https://en.wikipedia.org/wiki/Imperialism> /
+  <https://rationalwiki.org/wiki/Imperialism>
 - <a href="Landlords" class="wikilink" title="Landlords">Landlords</a>
-- <a href="Mastodon" class="wikilink" title="Mastodon">Mastodon</a>
+- <a href="Nazi_Germany" class="wikilink" title="Nazi Germany">Nazi
+  Germany</a> - <https://rationalwiki.org/wiki/Nazi_Germany>
+- <a href="Pacifism" class="wikilink" title="Pacifism">Pacifism</a> -
+  <https://en.wikipedia.org/wiki/Anarcho-pacifism>
 - <a href="Propaganda" class="wikilink" title="Propaganda">Propaganda</a>
   / <a href="Propaganda_Of_The_Deed" class="wikilink"
   title="Propaganda Of The Deed">Propaganda Of The Deed</a> -
   <https://en.wikipedia.org/wiki/Propaganda_of_the_deed>
-- <a href="Revolution" class="wikilink" title="Revolution">Revolution</a> -
-  <https://theanarchistlibrary.org/category/topic/revolution>
+- <a href="Restorative_Justice" class="wikilink"
+  title="Restorative Justice">Restorative Justice</a> -
+  <https://en.wikipedia.org/wiki/Restorative_justice>
+- <a href="Ruling_Class" class="wikilink" title="Ruling Class">Ruling
+  Class</a> - <https://rationalwiki.org/wiki/Ruling_class> /
+  <https://en.wikipedia.org/wiki/Ruling_class>
 - <a href="Shavian_alphabet" class="wikilink"
   title="Shavian alphabet">Shavian alphabet</a> -
   <https://en.wikipedia.org/wiki/Shavian_alphabet>
-- <a href="Solarpunk" class="wikilink" title="Solarpunk">Solarpunk</a> -
-  <https://en.wikipedia.org/wiki/Solarpunk>
-
-## Missing pages that have links to them
-
-Also see <a href="Special:WantedPages" class="wikilink"
-title="Special:WantedPages">Special:WantedPages</a>
-
-- <a href="Workers&#39;_self-management" class="wikilink"
-  title="Workers&#39; self-management">Workers' self-management</a> -
-  <https://en.wikipedia.org/wiki/Workers%27_self-management>
-- <a href="Confederation" class="wikilink"
-  title="Confederation">Confederation</a>
-- <a href="Leon_Trotsky" class="wikilink" title="Leon Trotsky">Leon
-  Trotsky</a> - <https://rationalwiki.org/wiki/Leon_Trotsky> /
-  <https://en.wikipedia.org/wiki/Leon_Trotsky>
-- <a href="Autonomy" class="wikilink" title="Autonomy">Autonomy</a> -
-  <https://en.wikipedia.org/wiki/Personal_autonomy>
-- <a href="Nazi_Germany" class="wikilink" title="Nazi Germany">Nazi
-  Germany</a> - <https://rationalwiki.org/wiki/Nazi_Germany>
-- <a href="Stateless_society" class="wikilink"
-  title="Stateless society">Stateless society</a> -
-  <https://en.wikipedia.org/wiki/Stateless_society>
-- <a href="Anti-authoritarianism" class="wikilink"
-  title="Anti-authoritarianism">Anti-authoritarianism</a> -
-  <https://en.wikipedia.org/wiki/Anti-authoritarianism>
-- <a href="First_International" class="wikilink"
-  title="First International">First International</a> -
-  <https://en.wikipedia.org/wiki/First_International>
+- <a href="Slavery" class="wikilink" title="Slavery">Slavery</a> -
+  <https://rationalwiki.org/wiki/Slavery>
+- <a href="Social_democracy" class="wikilink"
+  title="Social democracy">Social democracy</a> -
+  <https://en.wikipedia.org/wiki/Social_democracy>
 - <a href="Social_revolution" class="wikilink"
   title="Social revolution">Social revolution</a> -
   <https://en.wikipedia.org/wiki/Social_revolution>
-- <a href="Consensus_decision-making" class="wikilink"
-  title="Consensus decision-making">Consensus decision-making</a> -
-  <https://en.wikipedia.org/wiki/Consensus_decision-making>
-- <a href="Dictatorship_of_the_proletariat" class="wikilink"
-  title="Dictatorship of the proletariat">Dictatorship of the
-  proletariat</a> -
-  <https://en.wikipedia.org/wiki/Dictatorship_of_the_proletariat>
+- <a href="Solarpunk" class="wikilink" title="Solarpunk">Solarpunk</a> -
+  <https://en.wikipedia.org/wiki/Solarpunk>
+- <a href="Stateless_society" class="wikilink"
+  title="Stateless society">Stateless society</a> -
+  <https://en.wikipedia.org/wiki/Stateless_society>
+- <a href="Total_Liberation" class="wikilink"
+  title="Total Liberation">Total Liberation</a> -
+  <https://en.wikipedia.org/wiki/Total_liberation>
+- <a href="Veganism" class="wikilink" title="Veganism">Veganism</a> -
+  <https://en.wikipedia.org/wiki/Total_liberation#Veganism_and_anarchism>
+- <a href="Wage_Labor" class="wikilink" title="Wage Labor">Wage Labor</a> -
+  <https://en.wikipedia.org/wiki/Wage_labour>
+- <a href="Working_class" class="wikilink" title="Working class">Working
+  class</a> - <http://en.wikipedia.org/wiki/Working_class>
+
+Also see <a href="Special:WantedPages" class="wikilink"
+title="Special:WantedPages">Special:WantedPages</a>
 
 ## Notable Anarchists
 
@@ -266,9 +298,6 @@ Here are some Wikipedia articles that could be adapted for inclusion -
   <https://polcompball.wiki/Anarcho-Monarchism>
 - <a href="Aynarchist" class="wikilink" title="Aynarchist">Aynarchist</a> -
   <https://rationalwiki.org/wiki/Ayn_Rand>
-- <a href="Democratic_Confederalism" class="wikilink"
-  title="Democratic Confederalism">Democratic Confederalism</a> -
-  <https://en.wikipedia.org/wiki/Democratic_confederalism>
 - <a href="Labour_Theory_Of_Value" class="wikilink"
   title="Labour Theory Of Value">Labour Theory Of Value</a> -
   <a href="Surplus_Value" class="wikilink" title="Surplus Value">Surplus
@@ -286,11 +315,6 @@ Here are some Wikipedia articles that could be adapted for inclusion -
 - <a href="The_Avengers_(Marvel)" class="wikilink"
   title="The Avengers (Marvel)">The Avengers (Marvel)</a> -
   <https://peacefulrevolutionary.substack.com/p/the-anarchist-avengers?r=25vj2b>
-- <a href="Joseph_Stalin" class="wikilink" title="Joseph Stalin">Joseph
-  Stalin</a> - <https://rationalwiki.org/wiki/Joseph_Stalin> /
-  <https://rationalwiki.org/wiki/Stalinism> /
-  <https://rationalwiki.org/wiki/Stalin_apologetics> /
-  <https://en.wikipedia.org/wiki/Joseph_Stalin>
 - <a href="Bolshevism" class="wikilink" title="Bolshevism">Bolshevism</a> -
   <https://rationalwiki.org/wiki/Bolshevik> /
   <https://en.wikipedia.org/wiki/Bolsheviks>
@@ -307,3 +331,6 @@ Here are some Wikipedia articles that could be adapted for inclusion -
   title="Murray Rothbard">Murray Rothbard</a> -
   <https://en.wikipedia.org/wiki/Murray_Rothbard> /
   <https://rationalwiki.org/wiki/Murray_Rothbard>
+- <a href="Leon_Trotsky" class="wikilink" title="Leon Trotsky">Leon
+  Trotsky</a> - <https://rationalwiki.org/wiki/Leon_Trotsky> /
+  <https://en.wikipedia.org/wiki/Leon_Trotsky>

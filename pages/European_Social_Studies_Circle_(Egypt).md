@@ -10,6 +10,8 @@ the printing of posters."[^1]
 <a href="Anarchist_Organizations" class="wikilink"
 title="Anarchist Organizations">Anarchist Organizations</a>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Egypt" class="wikilink"
 title="Category:Egypt">Category:Egypt</a>
 <a href="Category:Africa" class="wikilink"
@@ -23,7 +25,10 @@ title="Category:19th Century">Category:19th Century</a>
 
 [^1]: Anthony Gorman, "'Diverse in Race, Religion and Nationality...But
     United in Aspirations of Civil Progress': The Anarchist Movement in
-    Egypt 1860-1940" in ed. Steven Hirsch and Lucien Van der Walt,
-    *Anarchism and Syndicalism in the Colonial and Post-Colonial World
-    1870-1940: The Praxis of National Liberation, Internationalism, and
-    Social Revolution* (Boston: Brill, 2010), 8.
+    Egypt 1860-1940" in ed. Steven Hirsch and Lucien Van der Walt, *<a
+    href="Anarchism_and_Syndicalism_in_the_Colonial_and_Postcolonial_World,_1870–1940"
+    class="wikilink"
+    title="Anarchism and Syndicalism in the Colonial and Post-Colonial World 1870-1940: The Praxis of National Liberation, Internationalism, and Social Revolution">Anarchism
+    and Syndicalism in the Colonial and Post-Colonial World 1870-1940: The
+    Praxis of National Liberation, Internationalism, and Social
+    Revolution</a>* (Boston: Brill, 2010), 8.

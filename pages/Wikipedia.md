@@ -41,8 +41,20 @@ title="Peter Gelderloos">Peter Gelderloos</a> (writing in 2010):
 > information on corporate misdeeds than any traditional
 > encyclopedia.[^2]
 
+## Internal debates
+
+Given the fact that anybody can edit Wikipedia, entire internal
+communities have emerged on the project, as have several debates.
+
+One of the biggest is the debate between "deletionists" and
+"inclusionists" - the former deleting many articles that don't meet a
+certain standard, whilst the latter argues that as much articles and
+writing should be included.
+
 ## References
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Commons" class="wikilink"
 title="Category:Commons">Category:Commons</a>
 <a href="Category:Open-Source" class="wikilink"
@@ -51,8 +63,6 @@ title="Category:Open-Source">Category:Open-Source</a>
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> <a href="Category:Anarcho-Communism" class="wikilink"
 title="Category:Anarcho-Communism">Category:Anarcho-Communism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Internet" class="wikilink"
 title="Category:Internet">Category:Internet</a>
 

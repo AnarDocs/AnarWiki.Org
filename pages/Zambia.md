@@ -161,6 +161,8 @@ title="2012">2012</a>.
 - <a href="Wikipedia" class="wikilink" title="Wikipedia">Wikipedia</a> -
   <https://en.wikipedia.org/wiki/Zambia>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Authortarian_States" class="wikilink"
 title="Category:Authortarian States">Category:Authortarian States</a>
 <a href="Category:States" class="wikilink"
@@ -169,8 +171,6 @@ title="Category:States">Category:States</a>
 title="Category:Africa">Category:Africa</a>
 <a href="Category:Southern_Africa" class="wikilink"
 title="Category:Southern Africa">Category:Southern Africa</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Zambia" class="wikilink"
 title="Category:Zambia">Category:Zambia</a>
 <a href="Category:Featured" class="wikilink"

@@ -51,6 +51,8 @@ of oppression.\<ref\>Baker, Zoe. "Means and Ends: The Anarchist Critique
 - <https://theanarchistlibrary.org/category/author/zoe-baker>
 - <https://www.instagram.com/anarchozoe/>
 
+## References
+
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:British_anarchists" class="wikilink"

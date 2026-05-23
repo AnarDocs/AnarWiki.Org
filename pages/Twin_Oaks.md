@@ -322,6 +322,8 @@ anarchist theory put into successful practice.
 - Twin Oaks Community. Various internal documentation on values,
   practices, and organization. 2025.
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Current_Anarchist_Societies" class="wikilink"
 title="Category:Current Anarchist Societies">Category:Current Anarchist
 Societies</a>
@@ -341,8 +343,6 @@ title="Category:21st Century">Category:21st Century</a>
 title="Category:Direct Democracy">Category:Direct Democracy</a>
 <a href="Category:Mutual_Aid" class="wikilink"
 title="Category:Mutual Aid">Category:Mutual Aid</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: Wikipedia. "Twin Oaks Community." 2025.
 

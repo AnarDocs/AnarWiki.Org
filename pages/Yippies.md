@@ -42,6 +42,9 @@ Hoffman's hotel and throw him in the pool.[^7]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: Andrew Cornell, *Unruly Equality: U.S. Anarchism in the Twentieth
     Century* (Oakland: University of California Press, 2016), 254.
 

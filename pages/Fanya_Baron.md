@@ -3,18 +3,18 @@
 Jewish</a>
 <a href="anarchist" class="wikilink" title="anarchist">anarchist</a>
 revolutionary and
-<a href="feminist" class="wikilink" title="feminist">feminist</a>. Born
+<a href="Feminism" class="wikilink" title="feminist">feminist</a>. Born
 as Freida Anisimovna Greck, she dedicated her life to the cause of
 <a href="anarchism" class="wikilink" title="anarchism">anarchism</a> and
 <a href="workers&#39;_rights" class="wikilink"
 title="workers&#39; rights">workers' rights</a>, first in the
-<a href="United_States" class="wikilink" title="United States">United
-States</a> and later in
-<a href="Ukraine" class="wikilink" title="Ukraine">Ukraine</a>. She was
-murdered by <a href="Lenin" class="wikilink" title="Lenin">Lenin</a>'s
-secret police, the
-<a href="Cheka" class="wikilink" title="Cheka">Cheka</a>, becoming a
-symbol of
+<a href="United_States_of_America" class="wikilink"
+title="United States">United States</a> and later in
+<a href="Revolutionary_Ukraine" class="wikilink"
+title="Ukraine">Ukraine</a>. She was murdered by
+<a href="Leninism" class="wikilink" title="Lenin">Lenin</a>'s secret
+police, the <a href="Cheka" class="wikilink" title="Cheka">Cheka</a>,
+becoming a symbol of
 <a href="Bolshevik" class="wikilink" title="Bolshevik">Bolshevik</a>
 repression against the anarchist movement.
 
@@ -199,24 +199,22 @@ title="Category:Featured">Category:Featured</a>
 
 [^2]: Goldman, Emma. "My Further Disillusionment in Russia", 1924.
 
-[^3]: Heath, Nick. "Baron, Fanya aka Fanny Grefenson, aka Anisimovna aka
-    Fanny Baron 1887-1921". Libcom.org, 2009.
+[^3]:
 
 [^4]: Avrich, Paul. "The Russian Anarchists", 1971.
 
-[^5]: Goldman, Emma. "My Further Disillusionment in Russia", 1924.
+[^5]:
 
-[^6]: Goldman, Emma. "My Further Disillusionment in Russia", 1924.
+[^6]:
 
-[^7]: Avrich, Paul. "The Russian Anarchists", 1971.
+[^7]:
 
-[^8]: Goldman, Emma. "My Further Disillusionment in Russia", 1924.
+[^8]:
 
-[^9]: Heath, Nick. "Baron, Fanya aka Fanny Grefenson, aka Anisimovna aka
-    Fanny Baron 1887-1921". Libcom.org, 2009.
+[^9]:
 
 [^10]: Volin. "The Unknown Revolution", 1947.
 
 [^11]: Goldman, Emma. "Living My Life", 1934.
 
-[^12]: Goldman, Emma. "My Further Disillusionment in Russia", 1924.
+[^12]:

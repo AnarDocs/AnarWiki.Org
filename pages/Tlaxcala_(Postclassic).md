@@ -123,6 +123,8 @@ embargo.[^11]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 <a href="Category:Anti-Authoritarian_Communities" class="wikilink"
@@ -131,8 +133,6 @@ Communities</a> <a href="Category:Before_Common_Era" class="wikilink"
 title="Category:Before Common Era">Category:Before Common Era</a>
 <a href="Category:North_America" class="wikilink"
 title="Category:North America">Category:North America</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 
 [^1]: David Graeber and David Wengrow, *The Dawn of Everything: A New
     History of Humanity* (New York: Farrar, Straus and Giroux, 2021),

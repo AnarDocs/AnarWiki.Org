@@ -120,16 +120,14 @@ Some other questions you might have are:
   title="What is the Anarchist view of Marxism?">What is the Anarchist
   view of Marxism?</a>
 
-## Video Overview
-
-\<YouTube\>r6-027_d_8Y\</youtube\>
-
 ### References
 
 <a href="Category:Libertarian_Socialism" class="wikilink"
 title="Category:Libertarian Socialism">Category:Libertarian
 Socialism</a> <a href="Category:Anarchism" class="wikilink"
 title="Category:Anarchism">Category:Anarchism</a>
+<a href="Category:Videos" class="wikilink"
+title="Category:Videos">Category:Videos</a>
 <a href="Category:FAQ" class="wikilink"
 title="Category:FAQ">Category:FAQ</a>
 

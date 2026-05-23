@@ -748,6 +748,19 @@ both state socialism and communism. **Anarchist communist response:**
 
 <references/>
 
+## Relevant Articles
+
+- <a href="Socialism_Definition" class="wikilink"
+  title="Socialism Definition">Socialism Definition</a>
+- <a href="Utopian_Socialism" class="wikilink"
+  title="Utopian Socialism">Utopian Socialism</a>
+- <a href="State_socialism" class="wikilink" title="State socialism">State
+  socialism</a>
+- <a href="Authoritarian_Socialism" class="wikilink"
+  title="Authoritarian Socialism">Authoritarian Socialism</a>
+- <a href="Anarchism_Definition" class="wikilink"
+  title="Anarchism Definition">Anarchism Definition</a>
+
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Anarchist_Concepts" class="wikilink"

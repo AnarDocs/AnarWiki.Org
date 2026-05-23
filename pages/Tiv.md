@@ -150,6 +150,9 @@ Without Government: An Anthropology of Anarchy</a>:
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+
 [^1]: Witchcraft differs from sorcery. In the latter an individual
     deliberately carries out specific rituals aimed at injuring another
     party. In witchcraft it is only believed that a person, alleged to

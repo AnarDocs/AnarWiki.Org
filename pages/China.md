@@ -383,6 +383,10 @@ violence states employ to eliminate anti-authoritarian alternatives.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:China" class="wikilink"
+title="Category:China">Category:China</a>
 <a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
 <a href="Category:Social_Movements" class="wikilink"
@@ -399,10 +403,6 @@ Societies</a> <a href="Category:20th_Century" class="wikilink"
 title="Category:20th Century">Category:20th Century</a>
 <a href="Category:21st_Century" class="wikilink"
 title="Category:21st Century">Category:21st Century</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
-<a href="Category:China" class="wikilink"
-title="Category:China">Category:China</a>
 
 [^1]: Graham, Robert. *Anarchism: A Documentary History of Libertarian
     Ideas*. Black Rose Books, 2005.

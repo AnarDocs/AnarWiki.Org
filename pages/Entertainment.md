@@ -143,3 +143,6 @@ title="free culture">free culture</a>/<a href="Wikipedia:Remix_culture" class="w
 title="remix culture">remix culture</a> advocate.
 
 - [Remix](https://www.youtube.com/watch?v=_yC81QhR_xk)\
+
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>

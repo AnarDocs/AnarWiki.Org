@@ -335,6 +335,8 @@ dramatically improved both per-hectare and per-hour productivity.[^57]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Social_Movements" class="wikilink"
 title="Category:Social Movements">Category:Social Movements</a>
 <a href="Category:Anti-Authoritarian_Communities" class="wikilink"
@@ -348,8 +350,6 @@ title="Category:Workers&#39; Self-Management">Category:Workers'
 Self-Management</a>
 <a href="Category:Anarchist_Societies" class="wikilink"
 title="Category:Anarchist Societies">Category:Anarchist Societies</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Featured" class="wikilink"
 title="Category:Featured">Category:Featured</a>
 

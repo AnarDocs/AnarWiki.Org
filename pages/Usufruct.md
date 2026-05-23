@@ -115,6 +115,8 @@ minimum must be extended from the kin group to humanity as a whole."[^8]
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Property_law" class="wikilink"
 title="Category:Property law">Category:Property law</a>
 <a href="Category:Civil_law_(legal_system)" class="wikilink"

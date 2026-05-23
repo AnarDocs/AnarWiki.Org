@@ -367,14 +367,14 @@ represents a betrayal of genuine voluntary association.
 
 <references/>
 
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Concepts" class="wikilink"
 title="Category:Concepts">Category:Concepts</a>
 <a href="Category:Ideologies" class="wikilink"
 title="Category:Ideologies">Category:Ideologies</a>
 <a href="Category:Propertarianism" class="wikilink"
 title="Category:Propertarianism">Category:Propertarianism</a>
-<a href="Category:AnarWiki" class="wikilink"
-title="Category:AnarWiki">Category:AnarWiki</a>
 <a href="Category:Controversial_Concepts" class="wikilink"
 title="Category:Controversial Concepts">Category:Controversial
 Concepts</a>

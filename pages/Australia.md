@@ -263,11 +263,10 @@ launched.[^21]
 
 <references/>
 
-<a href="Catgeory:Australia" class="wikilink"
-title="Catgeory:Australia">Catgeory:Australia</a>
-
 <a href="Category:AnarWiki" class="wikilink"
 title="Category:AnarWiki">Category:AnarWiki</a>
+<a href="Category:Australia" class="wikilink"
+title="Category:Australia">Category:Australia</a>
 <a href="Category:Anarchism_in_Australia" class="wikilink"
 title="Category:Anarchism in Australia">Category:Anarchism in
 Australia</a> <a href="Category:Social_Movements" class="wikilink"

@@ -364,3 +364,6 @@ could have a voice. <sup>\[13\]</sup> Wounded Knee is now an important
 symbol of American Indian activism, fittingly building on its initial
 symbolic meaning of the atrocities committed by the US government
 against American Indian people. <sup>\[13\]</sup>
+
+<a href="Category:AnarWiki" class="wikilink"
+title="Category:AnarWiki">Category:AnarWiki</a>
